@@ -1,0 +1,40 @@
+
+asset/anim/jingquanxiaSECOMMON0.png
+size: 1016,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jingquanxia_sudu_00000
+	rotate: true
+	xy: 494, 339
+	size: 314, 177
+	orig: 314, 177
+	offset: 0, 0
+	index: -1
+
+asset/anim/jingquanxiaSECOMMON3.png
+size: 1001,996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jingquanxia_sudu_00003
+	rotate: false
+	xy: 0, 310
+	size: 314, 173
+	orig: 314, 177
+	offset: 0, 2
+	index: -1
+common/jingquanxia_sudu_00002
+	rotate: false
+	xy: 410, 158
+	size: 314, 177
+	orig: 314, 177
+	offset: 0, 0
+	index: -1
+common/jingquanxia_sudu_00001
+	rotate: false
+	xy: 0, 132
+	size: 314, 177
+	orig: 314, 177
+	offset: 0, 0
+	index: -1

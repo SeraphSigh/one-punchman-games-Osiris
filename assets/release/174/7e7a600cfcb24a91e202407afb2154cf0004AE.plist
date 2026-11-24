@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>tianxinjiamian_jineng_zhuti_40.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			</array>
+			<key>spriteOffset</key>
+			<string>{-2,0}</string>
+			<key>spriteSize</key>
+			<string>{215,206}</string>
+			<key>spriteSourceSize</key>
+			<string>{219,206}</string>
+			<key>textureRect</key>
+			<string>{{0,0},{215,206}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>pixelFormat</key>
+		<string>RGBA8888</string>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>tianxinjiamianSESKILL1.png</string>
+		<key>scale</key>
+		<real>0.699</real>
+		<key>size</key>
+		<string>{215,206}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:84f7b864c247f526043d71f6b06d9462:0ec25f9f6b4fb199981b376721573da5:b16e622ef8a3b1d126bc66ae2c796b05$</string>
+		<key>textureFileName</key>
+		<string>tianxinjiamianSESKILL1.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,81 @@
+
+asset/anim/yimiaorenSESKILL0.png
+size: 1024,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/yimiaoren_guangxian1_32
+	rotate: true
+	xy: 966, 322
+	size: 174, 54
+	orig: 174, 54
+	offset: 0, 0
+	index: -1
+
+asset/anim/yimiaorenSESKILL1.png
+size: 1007,972
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/yimiaoren_guangxian1_31
+	rotate: true
+	xy: 210, 943
+	size: 17, 64
+	orig: 17, 64
+	offset: 0, 0
+	index: -1
+skill/yimiaoren_guangxian1_39
+	rotate: true
+	xy: 899, 843
+	size: 120, 54
+	orig: 174, 54
+	offset: 0, 0
+	index: -1
+
+asset/anim/yimiaorenSESKILL2.png
+size: 1009,1007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/yimiaoren_guangxian1_33
+	rotate: false
+	xy: 744, 646
+	size: 174, 54
+	orig: 174, 54
+	offset: 0, 0
+	index: -1
+skill/yimiaoren_guangxian1_34
+	rotate: false
+	xy: 744, 701
+	size: 174, 54
+	orig: 174, 54
+	offset: 0, 0
+	index: -1
+skill/yimiaoren_guangxian1_35
+	rotate: false
+	xy: 744, 756
+	size: 174, 54
+	orig: 174, 54
+	offset: 0, 0
+	index: -1
+skill/yimiaoren_guangxian1_36
+	rotate: false
+	xy: 744, 811
+	size: 172, 54
+	orig: 174, 54
+	offset: 0, 0
+	index: -1
+skill/yimiaoren_guangxian1_37
+	rotate: false
+	xy: 744, 866
+	size: 170, 54
+	orig: 174, 54
+	offset: 0, 0
+	index: -1
+skill/yimiaoren_guangxian1_38
+	rotate: false
+	xy: 744, 921
+	size: 118, 54
+	orig: 174, 54
+	offset: 0, 0
+	index: -1

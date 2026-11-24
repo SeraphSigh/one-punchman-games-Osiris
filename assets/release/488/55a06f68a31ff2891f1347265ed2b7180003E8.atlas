@@ -1,0 +1,69 @@
+
+asset/anim/jiayuanxinnian20210.png
+size: 126,848
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yuanbaohe
+	rotate: true
+	xy: 0, 741
+	size: 107, 75
+	orig: 107, 75
+	offset: 0, 0
+	index: -1
+denglong4
+	rotate: false
+	xy: 56, 451
+	size: 63, 138
+	orig: 63, 138
+	offset: 0, 0
+	index: -1
+qiqiu
+	rotate: false
+	xy: 0, 601
+	size: 71, 139
+	orig: 71, 139
+	offset: 0, 0
+	index: -1
+denglong2
+	rotate: false
+	xy: 69, 299
+	size: 57, 151
+	orig: 57, 151
+	offset: 0, 0
+	index: -1
+denglong1
+	rotate: false
+	xy: 72, 590
+	size: 46, 97
+	orig: 46, 97
+	offset: 0, 0
+	index: -1
+qiqiuyingzi
+	rotate: false
+	xy: 76, 745
+	size: 48, 61
+	orig: 48, 61
+	offset: 0, 0
+	index: -1
+xingzhuanglizi
+	rotate: true
+	xy: 76, 688
+	size: 56, 50
+	orig: 56, 56
+	offset: 0, 3
+	index: -1
+zhonguojie
+	rotate: false
+	xy: 0, 0
+	size: 115, 169
+	orig: 115, 169
+	offset: 0, 0
+	index: -1
+guangyun
+	rotate: true
+	xy: 0, 170
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

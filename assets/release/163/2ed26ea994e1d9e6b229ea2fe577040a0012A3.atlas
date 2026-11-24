@@ -1,0 +1,300 @@
+
+asset/anim/jiemaokapai.png
+size: 580,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_zuoshou4_jiemaokapai
+	rotate: true
+	xy: 374, 486
+	size: 24, 23
+	orig: 24, 23
+	offset: 0, 0
+	index: -1
+a_zuoshou
+	rotate: true
+	xy: 220, 456
+	size: 42, 55
+	orig: 42, 55
+	offset: 0, 0
+	index: -1
+a_zuoshou1_jiemaokapai
+	rotate: false
+	xy: 498, 327
+	size: 19, 18
+	orig: 19, 18
+	offset: 0, 0
+	index: -1
+a_jianmaojia1_jiemaokapai
+	rotate: false
+	xy: 496, 460
+	size: 56, 41
+	orig: 56, 41
+	offset: 0, 0
+	index: -1
+a_youyanzhu_jiemaokapai
+	rotate: true
+	xy: 574, 349
+	size: 7, 6
+	orig: 7, 6
+	offset: 0, 0
+	index: -1
+a_zuoxiayanpi_jiemaokapai
+	rotate: false
+	xy: 389, 209
+	size: 20, 13
+	orig: 20, 13
+	offset: 0, 0
+	index: -1
+a_youjiao_jiemaokapai
+	rotate: false
+	xy: 345, 416
+	size: 117, 69
+	orig: 117, 69
+	offset: 0, 0
+	index: -1
+a_youdatui_jiemaokapai
+	rotate: false
+	xy: 220, 235
+	size: 84, 220
+	orig: 84, 220
+	offset: 0, 0
+	index: -1
+a_youshou
+	rotate: false
+	xy: 276, 456
+	size: 49, 44
+	orig: 49, 44
+	offset: 0, 0
+	index: -1
+a_zuoyanjing_jiemaokapai
+	rotate: false
+	xy: 214, 499
+	size: 22, 11
+	orig: 22, 11
+	offset: 0, 0
+	index: -1
+a_zuoshou6
+	rotate: false
+	xy: 326, 456
+	size: 18, 37
+	orig: 18, 37
+	offset: 0, 0
+	index: -1
+a_zuoshou5
+	rotate: false
+	xy: 560, 421
+	size: 16, 34
+	orig: 16, 34
+	offset: 0, 0
+	index: -1
+a_youshou5_jiemaokapai
+	rotate: true
+	xy: 345, 486
+	size: 24, 28
+	orig: 24, 28
+	offset: 0, 0
+	index: -1
+a_youshangyanpi_jiemaokapai
+	rotate: true
+	xy: 345, 392
+	size: 21, 19
+	orig: 21, 19
+	offset: 0, 0
+	index: -1
+a_youshou1_jiemaokapai
+	rotate: true
+	xy: 463, 416
+	size: 67, 32
+	orig: 67, 32
+	offset: 0, 0
+	index: -1
+a_youxiayanpi_jiemaokapai
+	rotate: false
+	xy: 237, 499
+	size: 15, 11
+	orig: 15, 11
+	offset: 0, 0
+	index: -1
+a_toufa_jiemaokapai
+	rotate: true
+	xy: 0, 475
+	size: 29, 93
+	orig: 29, 93
+	offset: 0, 0
+	index: -1
+a_zuoshangyanpi_jiemaokapai
+	rotate: true
+	xy: 347, 209
+	size: 25, 14
+	orig: 25, 14
+	offset: 0, 0
+	index: -1
+a_youshou4_jiemaokapai
+	rotate: false
+	xy: 553, 460
+	size: 27, 31
+	orig: 27, 31
+	offset: 0, 0
+	index: -1
+a_jiemaojia2_jiemaokapai
+	rotate: true
+	xy: 496, 421
+	size: 38, 63
+	orig: 38, 63
+	offset: 0, 0
+	index: -1
+a_zuodabi_jiemaokapai
+	rotate: true
+	xy: 427, 111
+	size: 111, 145
+	orig: 111, 145
+	offset: 0, 0
+	index: -1
+a_youmeimao_jiemaokapai
+	rotate: false
+	xy: 553, 492
+	size: 23, 18
+	orig: 23, 18
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi_jiemaokapai
+	rotate: false
+	xy: 365, 223
+	size: 155, 103
+	orig: 155, 103
+	offset: 0, 0
+	index: -1
+a_shenti_jiemaokapai
+	rotate: false
+	xy: 0, 0
+	size: 219, 345
+	orig: 219, 345
+	offset: 0, 0
+	index: -1
+a_zuodatui_jiemaokapai
+	rotate: true
+	xy: 0, 346
+	size: 128, 219
+	orig: 128, 219
+	offset: 0, 0
+	index: -1
+a_youshou3_jiemaokapai
+	rotate: false
+	xy: 151, 475
+	size: 30, 34
+	orig: 30, 34
+	offset: 0, 0
+	index: -1
+a_jiemaojia5_jiemaokapai
+	rotate: true
+	xy: 573, 111
+	size: 26, 7
+	orig: 26, 7
+	offset: 0, 0
+	index: -1
+a_youxiaotui_jiemaokapai
+	rotate: false
+	xy: 347, 0
+	size: 79, 208
+	orig: 79, 208
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui_jiemaokapai
+	rotate: false
+	xy: 220, 0
+	size: 126, 234
+	orig: 126, 234
+	offset: 0, 0
+	index: -1
+a_jiemaojia3_jiemaokapai
+	rotate: false
+	xy: 305, 392
+	size: 39, 63
+	orig: 39, 63
+	offset: 0, 0
+	index: -1
+a_kua_jiemaokapai
+	rotate: false
+	xy: 427, 0
+	size: 153, 110
+	orig: 153, 110
+	offset: 0, 0
+	index: -1
+a_zuojiao_jiemaokapai
+	rotate: true
+	xy: 498, 349
+	size: 71, 75
+	orig: 71, 75
+	offset: 0, 0
+	index: -1
+a_zuoyanzhu_jiemaokapai
+	rotate: true
+	xy: 574, 357
+	size: 7, 6
+	orig: 7, 6
+	offset: 0, 0
+	index: -1
+a_youyanjing_jiemaokapai
+	rotate: false
+	xy: 430, 486
+	size: 20, 15
+	orig: 20, 15
+	offset: 0, 0
+	index: -1
+a_youdabi_jiemaokapai
+	rotate: false
+	xy: 305, 235
+	size: 59, 156
+	orig: 59, 156
+	offset: 0, 0
+	index: -1
+a_zuoshou2_jiemaokapai
+	rotate: false
+	xy: 398, 486
+	size: 31, 22
+	orig: 31, 22
+	offset: 0, 0
+	index: -1
+a_jiemaojia4_jiemaokapai
+	rotate: false
+	xy: 94, 475
+	size: 56, 34
+	orig: 56, 34
+	offset: 0, 0
+	index: -1
+a_zuomeimao_jiemaokapai
+	rotate: false
+	xy: 362, 209
+	size: 26, 13
+	orig: 26, 13
+	offset: 0, 0
+	index: -1
+a_youxiaobi_jiemaokapai
+	rotate: true
+	xy: 521, 223
+	size: 125, 59
+	orig: 125, 59
+	offset: 0, 0
+	index: -1
+a_tou_jiemaokapai
+	rotate: true
+	xy: 365, 327
+	size: 88, 132
+	orig: 88, 132
+	offset: 0, 0
+	index: -1
+a_zuoshou3_jiemaokapai
+	rotate: false
+	xy: 463, 484
+	size: 28, 26
+	orig: 28, 26
+	offset: 0, 0
+	index: -1
+a_youshou2_jiemaokapai
+	rotate: false
+	xy: 182, 475
+	size: 31, 32
+	orig: 31, 32
+	offset: 0, 0
+	index: -1

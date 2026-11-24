@@ -1,0 +1,128 @@
+
+asset/anim/shanguangfulaishiSEMAX4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/sgflsmax_sdx1_00016
+	rotate: true
+	xy: 772, 344
+	size: 79, 118
+	orig: 79, 132
+	offset: 0, 14
+	index: -1
+
+asset/anim/shanguangfulaishiSEMAX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/sgflsmax_sdx3_00012
+	rotate: true
+	xy: 122, 997
+	size: 27, 36
+	orig: 33, 36
+	offset: 5, 0
+	index: -1
+max/sgflsmax_sdx1_00012
+	rotate: true
+	xy: 653, 372
+	size: 79, 132
+	orig: 79, 132
+	offset: 0, 0
+	index: -1
+max/sgflsmax_sdx1_00013
+	rotate: true
+	xy: 653, 452
+	size: 79, 132
+	orig: 79, 132
+	offset: 0, 0
+	index: -1
+max/sgflsmax_sdx1_00014
+	rotate: true
+	xy: 653, 532
+	size: 79, 132
+	orig: 79, 132
+	offset: 0, 0
+	index: -1
+max/sgflsmax_sdx1_00015
+	rotate: true
+	xy: 653, 612
+	size: 79, 132
+	orig: 79, 132
+	offset: 0, 0
+	index: -1
+max/sgflsmax_sdx3_00013
+	rotate: true
+	xy: 159, 997
+	size: 27, 36
+	orig: 33, 36
+	offset: 1, 0
+	index: -1
+
+asset/anim/shanguangfulaishiSEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/sgflsmax_sdx3_00011
+	rotate: false
+	xy: 936, 282
+	size: 19, 36
+	orig: 33, 36
+	offset: 14, 0
+	index: -1
+max/sgflsmax_sdx3_00014
+	rotate: false
+	xy: 129, 745
+	size: 21, 34
+	orig: 33, 36
+	offset: 0, 1
+	index: -1
+
+asset/anim/shanguangfulaishiSEMAX3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/sgflsmax_sdx2_00026
+	rotate: false
+	xy: 51, 0
+	size: 50, 267
+	orig: 50, 267
+	offset: 0, 0
+	index: -1
+max/sgflsmax_sdx2_00024
+	rotate: false
+	xy: 0, 268
+	size: 50, 267
+	orig: 50, 267
+	offset: 0, 0
+	index: -1
+max/sgflsmax_sdx2_00023
+	rotate: false
+	xy: 0, 0
+	size: 50, 267
+	orig: 50, 267
+	offset: 0, 0
+	index: -1
+max/sgflsmax_sdx2_00025
+	rotate: false
+	xy: 0, 536
+	size: 50, 267
+	orig: 50, 267
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishiSECOMMON0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/sgfls_flash_4
+	rotate: false
+	xy: 496, 0
+	size: 7, 7
+	orig: 7, 7
+	offset: 0, 0
+	index: -1

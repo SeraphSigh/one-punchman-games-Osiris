@@ -1,0 +1,656 @@
+
+asset/anim/spineGlobalPic/pc_global0.png
+size: 710,923
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_tongyongxuli_011
+	rotate: true
+	xy: 174, 906
+	size: 17, 18
+	orig: 155, 150
+	offset: 75, 62
+	index: -1
+global/a_global_tongyongxuli_010
+	rotate: false
+	xy: 546, 167
+	size: 21, 22
+	orig: 155, 150
+	offset: 73, 60
+	index: -1
+global/a_global_tongyongxuli_002
+	rotate: false
+	xy: 579, 370
+	size: 125, 134
+	orig: 155, 150
+	offset: 11, 8
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dct_ci_000
+	rotate: false
+	xy: 491, 147
+	size: 109, 125
+	orig: 179, 149
+	offset: 14, 2
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dct_ci_003
+	rotate: true
+	xy: 584, 562
+	size: 105, 115
+	orig: 179, 149
+	offset: 36, 27
+	index: -1
+global/a_global_dujiaoxian_baodian_13
+	rotate: true
+	xy: 790, 379
+	size: 38, 55
+	orig: 168, 153
+	offset: 130, 47
+	index: -1
+global/a_global_dujiaoxian_baodian_16
+	rotate: true
+	xy: 700, 602
+	size: 142, 145
+	orig: 168, 153
+	offset: 4, 8
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_117
+	rotate: false
+	xy: 700, 745
+	size: 145, 114
+	orig: 149, 116
+	offset: 0, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_119
+	rotate: true
+	xy: 735, 426
+	size: 147, 110
+	orig: 149, 116
+	offset: 0, 6
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao_zhuangjiaxingxing_123
+	rotate: false
+	xy: 580, 859
+	size: 149, 98
+	orig: 149, 116
+	offset: 0, 18
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_baodian_14
+	rotate: true
+	xy: 637, 926
+	size: 98, 103
+	orig: 168, 153
+	offset: 69, 27
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_118
+	rotate: false
+	xy: 879, 127
+	size: 145, 108
+	orig: 149, 116
+	offset: 1, 5
+	index: -1
+global/a_global_longjuan_tuoci_055
+	rotate: false
+	xy: 479, 592
+	size: 158, 130
+	orig: 298, 168
+	offset: 84, 25
+	index: -1
+global/a_global_longjuan_tuoci_054
+	rotate: false
+	xy: 0, 541
+	size: 158, 132
+	orig: 298, 168
+	offset: 84, 20
+	index: -1
+global/a_global_longjuan_tuoci_057
+	rotate: false
+	xy: 478, 723
+	size: 158, 124
+	orig: 298, 168
+	offset: 84, 32
+	index: -1
+global/a_global_longjuan_tuoci_056
+	rotate: false
+	xy: 319, 631
+	size: 158, 128
+	orig: 298, 168
+	offset: 84, 28
+	index: -1
+global/a_global_longjuan_tuoci_059
+	rotate: false
+	xy: 0, 674
+	size: 158, 112
+	orig: 298, 168
+	offset: 84, 45
+	index: -1
+global/a_global_longjuan_tuoci_058
+	rotate: false
+	xy: 159, 660
+	size: 158, 118
+	orig: 298, 168
+	offset: 84, 38
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_120
+	rotate: true
+	xy: 143, 875
+	size: 149, 108
+	orig: 149, 116
+	offset: 0, 8
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_121
+	rotate: true
+	xy: 252, 875
+	size: 149, 106
+	orig: 149, 116
+	offset: 0, 10
+	index: -1
+global/a_global_longjuan_tuoci_060
+	rotate: false
+	xy: 318, 760
+	size: 158, 108
+	orig: 298, 168
+	offset: 83, 47
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dct_ci_004
+	rotate: false
+	xy: 505, 768
+	size: 99, 111
+	orig: 179, 149
+	offset: 43, 32
+	index: -1
+global/a_global_dct_ci_001
+	rotate: false
+	xy: 669, 532
+	size: 111, 123
+	orig: 179, 149
+	offset: 21, 12
+	index: -1
+global/a_global_dujiaoxian_baodian_18
+	rotate: false
+	xy: 0, 129
+	size: 138, 143
+	orig: 168, 153
+	offset: 3, 9
+	index: -1
+global/a_global_dujiaoxian_baodian_15
+	rotate: true
+	xy: 0, 847
+	size: 140, 139
+	orig: 168, 153
+	offset: 16, 11
+	index: -1
+global/a_global_didiwang_qi03_003
+	rotate: false
+	xy: 139, 137
+	size: 136, 132
+	orig: 136, 132
+	offset: 0, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_113
+	rotate: false
+	xy: 393, 412
+	size: 139, 108
+	orig: 149, 116
+	offset: 2, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_112
+	rotate: true
+	xy: 414, 754
+	size: 129, 90
+	orig: 149, 116
+	offset: 12, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_116
+	rotate: false
+	xy: 870, 125
+	size: 143, 112
+	orig: 149, 116
+	offset: 2, 0
+	index: -1
+global/a_global_longjuan_tuoci_053
+	rotate: false
+	xy: 0, 0
+	size: 156, 128
+	orig: 298, 168
+	offset: 85, 17
+	index: -1
+global/a_global_dujiaoxian_baodian_17
+	rotate: false
+	xy: 0, 705
+	size: 138, 141
+	orig: 168, 153
+	offset: 5, 10
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_115
+	rotate: false
+	xy: 585, 238
+	size: 141, 112
+	orig: 149, 116
+	offset: 2, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_114
+	rotate: false
+	xy: 727, 239
+	size: 141, 110
+	orig: 149, 116
+	offset: 2, 0
+	index: -1
+global/a_global_tongyongxuli_003
+	rotate: true
+	xy: 918, 754
+	size: 85, 91
+	orig: 109, 105
+	offset: 9, 6
+	index: -1
+global/a_global_tongyongxuli_001
+	rotate: false
+	xy: 617, 877
+	size: 91, 95
+	orig: 109, 105
+	offset: 6, 6
+	index: -1
+global/a_global_tongyongxuli_007
+	rotate: false
+	xy: 912, 840
+	size: 75, 77
+	orig: 109, 105
+	offset: 18, 10
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_122
+	rotate: false
+	xy: 585, 137
+	size: 149, 100
+	orig: 149, 116
+	offset: 0, 16
+	index: -1
+global/a_global_didiwang_Light_Decal
+	rotate: false
+	xy: 139, 687
+	size: 125, 127
+	orig: 125, 127
+	offset: 0, 0
+	index: -1
+global/a_global_longjuan_tuoci_061
+	rotate: false
+	xy: 428, 137
+	size: 156, 104
+	orig: 298, 168
+	offset: 84, 48
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dct_ci_006
+	rotate: false
+	xy: 892, 311
+	size: 67, 89
+	orig: 179, 149
+	offset: 76, 54
+	index: -1
+global/a_global_dct_ci_005
+	rotate: false
+	xy: 254, 114
+	size: 87, 103
+	orig: 179, 149
+	offset: 58, 41
+	index: -1
+global/a_global_dct_ci_002
+	rotate: false
+	xy: 0, 244
+	size: 109, 121
+	orig: 179, 149
+	offset: 28, 19
+	index: -1
+global/a_global_dujiaoxian_baodian_19
+	rotate: false
+	xy: 380, 218
+	size: 52, 97
+	orig: 168, 153
+	offset: 75, 28
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_111
+	rotate: false
+	xy: 110, 244
+	size: 93, 66
+	orig: 149, 116
+	offset: 31, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_110
+	rotate: false
+	xy: 774, 632
+	size: 73, 44
+	orig: 149, 116
+	offset: 30, 0
+	index: -1
+global/a_global_tongyongxuli_000
+	rotate: false
+	xy: 203, 332
+	size: 93, 101
+	orig: 109, 105
+	offset: 4, 2
+	index: -1
+global/a_global_tongyongxuli_006
+	rotate: false
+	xy: 785, 458
+	size: 79, 83
+	orig: 109, 105
+	offset: 14, 7
+	index: -1
+global/a_global_tongyongxuli_004
+	rotate: false
+	xy: 665, 297
+	size: 83, 89
+	orig: 109, 105
+	offset: 10, 6
+	index: -1
+global/a_global_tongyongxuli_005
+	rotate: false
+	xy: 204, 244
+	size: 81, 87
+	orig: 109, 105
+	offset: 12, 6
+	index: -1
+global/a_global_tongyongxuli_009
+	rotate: false
+	xy: 777, 677
+	size: 65, 61
+	orig: 109, 105
+	offset: 25, 15
+	index: -1
+global/a_global_tongyongxuli_008
+	rotate: true
+	xy: 707, 677
+	size: 71, 69
+	orig: 109, 105
+	offset: 21, 13
+	index: -1
+
+asset/anim/taoyuantuangaoshouSE.png
+size: 1018,994
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+taoyuantuangs_diyan_up_024
+	rotate: false
+	xy: 247, 902
+	size: 113, 92
+	orig: 263, 248
+	offset: 5, 6
+	index: -1
+taoyuantuangs_diyan_up_026
+	rotate: false
+	xy: 386, 641
+	size: 123, 206
+	orig: 263, 248
+	offset: 4, 6
+	index: -1
+taoyuantuangs_diyan_up_028
+	rotate: false
+	xy: 262, 677
+	size: 123, 224
+	orig: 263, 248
+	offset: 5, 6
+	index: -1
+taoyuantuangs_shitou_008
+	rotate: true
+	xy: 831, 490
+	size: 55, 142
+	orig: 343, 384
+	offset: 98, 84
+	index: -1
+taoyuantuangs_diyan_up_034
+	rotate: true
+	xy: 924, 0
+	size: 101, 86
+	orig: 263, 248
+	offset: 17, 6
+	index: -1
+taoyuantuangs_jn_010
+	rotate: false
+	xy: 839, 228
+	size: 177, 127
+	orig: 177, 127
+	offset: 0, 0
+	index: -1
+taoyuantuangs_jn_011
+	rotate: false
+	xy: 990, 356
+	size: 26, 90
+	orig: 26, 90
+	offset: 0, 0
+	index: -1
+taoyuantuangs_shitou_024
+	rotate: false
+	xy: 386, 848
+	size: 121, 146
+	orig: 343, 384
+	offset: 29, 84
+	index: -1
+taoyuantuangs_shitou_026
+	rotate: true
+	xy: 831, 356
+	size: 133, 158
+	orig: 343, 384
+	offset: 17, 62
+	index: -1
+taoyuantuangs_shitou_021
+	rotate: true
+	xy: 615, 0
+	size: 105, 308
+	orig: 343, 384
+	offset: 45, 45
+	index: -1
+taoyuantuangs_shitou_020
+	rotate: true
+	xy: 615, 106
+	size: 101, 292
+	orig: 343, 384
+	offset: 49, 53
+	index: -1
+taoyuantuangs_shitou_022
+	rotate: false
+	xy: 0, 398
+	size: 111, 324
+	orig: 343, 384
+	offset: 39, 36
+	index: -1
+taoyuantuangs_diyan_up_040
+	rotate: true
+	xy: 584, 501
+	size: 113, 234
+	orig: 263, 248
+	offset: 3, 10
+	index: -1
+taoyuantuangs_shitou_014
+	rotate: false
+	xy: 510, 641
+	size: 77, 212
+	orig: 343, 384
+	offset: 73, 81
+	index: -1
+taoyuantuangs_diyan_up_036
+	rotate: true
+	xy: 174, 901
+	size: 93, 72
+	orig: 263, 248
+	offset: 24, 6
+	index: -1
+taoyuantuangs_shitou_016
+	rotate: false
+	xy: 588, 615
+	size: 85, 234
+	orig: 343, 384
+	offset: 65, 76
+	index: -1
+taoyuantuangs_shitou_017
+	rotate: false
+	xy: 174, 654
+	size: 87, 246
+	orig: 343, 384
+	offset: 63, 71
+	index: -1
+taoyuantuangs_shitou_010
+	rotate: false
+	xy: 780, 792
+	size: 61, 170
+	orig: 343, 384
+	offset: 92, 81
+	index: -1
+taoyuantuangs_diyan_up_032
+	rotate: false
+	xy: 810, 660
+	size: 111, 100
+	orig: 263, 248
+	offset: 8, 6
+	index: -1
+taoyuantuangs_shitou_012
+	rotate: false
+	xy: 712, 792
+	size: 67, 192
+	orig: 343, 384
+	offset: 83, 83
+	index: -1
+taoyuantuangs_diyan_up_030
+	rotate: true
+	xy: 819, 546
+	size: 113, 128
+	orig: 263, 248
+	offset: 7, 6
+	index: -1
+taoyuantuangs_shitou_018
+	rotate: false
+	xy: 0, 723
+	size: 91, 262
+	orig: 343, 384
+	offset: 59, 66
+	index: -1
+taoyuantuangs_shitou_019
+	rotate: false
+	xy: 264, 398
+	size: 97, 278
+	orig: 343, 384
+	offset: 53, 60
+	index: -1
+taoyuantuangs_diyan_up_038
+	rotate: false
+	xy: 922, 660
+	size: 73, 64
+	orig: 263, 248
+	offset: 43, 6
+	index: -1
+taoyuantuangs_jn_001
+	rotate: true
+	xy: 112, 398
+	size: 255, 151
+	orig: 255, 151
+	offset: 0, 0
+	index: -1
+taoyuantuangs_jn_003
+	rotate: false
+	xy: 0, 204
+	size: 313, 193
+	orig: 313, 193
+	offset: 0, 0
+	index: -1
+taoyuantuangs_jn_002
+	rotate: false
+	xy: 328, 0
+	size: 286, 185
+	orig: 286, 185
+	offset: 0, 0
+	index: -1
+taoyuantuangs_jn_005
+	rotate: false
+	xy: 612, 208
+	size: 226, 147
+	orig: 226, 147
+	offset: 0, 0
+	index: -1
+taoyuantuangs_jn_004
+	rotate: false
+	xy: 0, 0
+	size: 327, 203
+	orig: 327, 203
+	offset: 0, 0
+	index: -1
+taoyuantuangs_jn_007
+	rotate: false
+	xy: 608, 356
+	size: 222, 144
+	orig: 222, 144
+	offset: 0, 0
+	index: -1
+taoyuantuangs_jn_006
+	rotate: false
+	xy: 382, 186
+	size: 229, 150
+	orig: 229, 150
+	offset: 0, 0
+	index: -1
+taoyuantuangs_jn_009
+	rotate: true
+	xy: 674, 615
+	size: 176, 135
+	orig: 176, 135
+	offset: 0, 0
+	index: -1
+taoyuantuangs_jn_008
+	rotate: false
+	xy: 382, 337
+	size: 225, 145
+	orig: 225, 145
+	offset: 0, 0
+	index: -1
+taoyuantuangs_banyuanguang
+	rotate: false
+	xy: 362, 483
+	size: 221, 157
+	orig: 221, 157
+	offset: 0, 0
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

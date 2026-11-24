@@ -1,0 +1,96 @@
+
+asset/anim/URshenhaiwangSEMAX0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/keng_URshenhaiwang
+	rotate: true
+	xy: 1390, 0
+	size: 270, 495
+	orig: 270, 495
+	offset: 0, 0
+	index: -1
+max/shitou_bu2_URshenhaiwang
+	rotate: false
+	xy: 95, 1371
+	size: 380, 426
+	orig: 380, 426
+	offset: 0, 0
+	index: -1
+
+asset/anim/URshenhaiwangSEMAX1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/guochang2_URshenhaiwang0002
+	rotate: false
+	xy: 2002, 597
+	size: 46, 384
+	orig: 46, 384
+	offset: 0, 0
+	index: -1
+max/guochang2_URshenhaiwang0007
+	rotate: true
+	xy: 1376, 770
+	size: 46, 384
+	orig: 46, 384
+	offset: 0, 0
+	index: -1
+max/guochang2_URshenhaiwang0005
+	rotate: true
+	xy: 1376, 676
+	size: 46, 384
+	orig: 46, 384
+	offset: 0, 0
+	index: -1
+max/guochang2_URshenhaiwang0004
+	rotate: true
+	xy: 1376, 629
+	size: 46, 384
+	orig: 46, 384
+	offset: 0, 0
+	index: -1
+max/guochang2_URshenhaiwang0010
+	rotate: false
+	xy: 1240, 1627
+	size: 46, 384
+	orig: 46, 384
+	offset: 0, 0
+	index: -1
+max/guochang2_URshenhaiwang0006
+	rotate: true
+	xy: 1376, 723
+	size: 46, 384
+	orig: 46, 384
+	offset: 0, 0
+	index: -1
+max/guochang2_URshenhaiwang0001
+	rotate: false
+	xy: 2002, 212
+	size: 46, 384
+	orig: 46, 384
+	offset: 0, 0
+	index: -1
+max/guochang2_URshenhaiwang0003
+	rotate: false
+	xy: 902, 981
+	size: 46, 384
+	orig: 46, 384
+	offset: 0, 0
+	index: -1
+max/guochang2_URshenhaiwang0009
+	rotate: false
+	xy: 1193, 1627
+	size: 46, 384
+	orig: 46, 384
+	offset: 0, 0
+	index: -1
+max/guochang2_URshenhaiwang0008
+	rotate: false
+	xy: 1146, 1627
+	size: 46, 384
+	orig: 46, 384
+	offset: 0, 0
+	index: -1

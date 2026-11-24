@@ -1,0 +1,1429 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/yimiaorenshouxing2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_Lthigh_yimiaorenshouxing
+	rotate: false
+	xy: 164, 287
+	size: 70, 132
+	orig: 70, 132
+	offset: 0, 0
+	index: -1
+e_Rthigh_yimiaorenshouxing
+	rotate: false
+	xy: 0, 582
+	size: 73, 138
+	orig: 73, 138
+	offset: 0, 0
+	index: -1
+a_Rshin_yimiaorenshouxing
+	rotate: false
+	xy: 776, 910
+	size: 75, 98
+	orig: 75, 98
+	offset: 0, 0
+	index: -1
+m_Lthigh_yimiaorenshouxing
+	rotate: true
+	xy: 159, 572
+	size: 126, 113
+	orig: 126, 113
+	offset: 0, 0
+	index: -1
+a_Lhand_yimiaorenshouxing
+	rotate: true
+	xy: 852, 909
+	size: 97, 89
+	orig: 97, 89
+	offset: 0, 0
+	index: -1
+d_Rforearm_yimiaorenshouxing
+	rotate: true
+	xy: 233, 826
+	size: 126, 90
+	orig: 126, 90
+	offset: 0, 0
+	index: -1
+m_Rshin_yimiaorenshouxing
+	rotate: false
+	xy: 284, 953
+	size: 73, 71
+	orig: 73, 71
+	offset: 0, 0
+	index: -1
+m_Lhand_yimiaorenshouxing
+	rotate: true
+	xy: 318, 395
+	size: 116, 110
+	orig: 116, 110
+	offset: 0, 0
+	index: -1
+p_Lshin_yimiaorenshouxing
+	rotate: false
+	xy: 358, 952
+	size: 54, 70
+	orig: 54, 70
+	offset: 0, 0
+	index: -1
+x_Rthigh_yimiaorenshouxing
+	rotate: true
+	xy: 116, 439
+	size: 132, 113
+	orig: 132, 113
+	offset: 0, 0
+	index: -1
+t_Rforearm_yimiaorenshouxing
+	rotate: true
+	xy: 305, 0
+	size: 122, 83
+	orig: 122, 83
+	offset: 0, 0
+	index: -1
+s_Rforearm_yimiaorenshouxing
+	rotate: true
+	xy: 744, 542
+	size: 96, 74
+	orig: 96, 74
+	offset: 0, 0
+	index: -1
+x_Rfoot_yimiaorenshouxing
+	rotate: false
+	xy: 775, 499
+	size: 74, 37
+	orig: 74, 37
+	offset: 0, 0
+	index: -1
+m_Rfoot_yimiaorenshouxing
+	rotate: false
+	xy: 318, 512
+	size: 59, 32
+	orig: 59, 32
+	offset: 0, 0
+	index: -1
+y_Lhand_yimiaorenshouxing
+	rotate: true
+	xy: 328, 696
+	size: 119, 114
+	orig: 119, 114
+	offset: 0, 0
+	index: -1
+x_Lfoot_yimiaorenshouxing
+	rotate: true
+	xy: 752, 749
+	size: 61, 67
+	orig: 61, 67
+	offset: 0, 0
+	index: -1
+q_Rforearm_yimiaorenshouxing
+	rotate: true
+	xy: 72, 0
+	size: 146, 100
+	orig: 146, 100
+	offset: 0, 0
+	index: -1
+e_Lforearm_yimiaorenshouxing
+	rotate: true
+	xy: 537, 544
+	size: 107, 104
+	orig: 107, 104
+	offset: 0, 0
+	index: -1
+o_Rshin_yimiaorenshouxing
+	rotate: false
+	xy: 685, 756
+	size: 66, 54
+	orig: 66, 54
+	offset: 0, 0
+	index: -1
+t_Lhand_yimiaorenshouxing
+	rotate: true
+	xy: 541, 652
+	size: 104, 90
+	orig: 104, 90
+	offset: 0, 0
+	index: -1
+o_Lshin_yimiaorenshouxing
+	rotate: true
+	xy: 942, 69
+	size: 42, 81
+	orig: 42, 81
+	offset: 0, 0
+	index: -1
+a_Rhand_yimiaorenshouxing
+	rotate: false
+	xy: 518, 936
+	size: 106, 85
+	orig: 106, 85
+	offset: 0, 0
+	index: -1
+s_Lhand_yimiaorenshouxing
+	rotate: false
+	xy: 505, 378
+	size: 107, 107
+	orig: 107, 107
+	offset: 0, 0
+	index: -1
+l_Rfoot_yimiaorenshouxing
+	rotate: false
+	xy: 459, 340
+	size: 85, 37
+	orig: 85, 37
+	offset: 0, 0
+	index: -1
+x_Rshin_yimiaorenshouxing
+	rotate: true
+	xy: 850, 0
+	size: 50, 84
+	orig: 50, 84
+	offset: 0, 0
+	index: -1
+w_Rarm_yimiaorenshouxing
+	rotate: true
+	xy: 173, 0
+	size: 138, 131
+	orig: 138, 131
+	offset: 0, 0
+	index: -1
+q_Larm_yimiaorenshouxing
+	rotate: false
+	xy: 699, 376
+	size: 66, 96
+	orig: 66, 96
+	offset: 0, 0
+	index: -1
+v_Rarm_yimiaorenshouxing
+	rotate: true
+	xy: 0, 150
+	size: 148, 108
+	orig: 148, 108
+	offset: 0, 0
+	index: -1
+l_Lfoot_yimiaorenshouxing
+	rotate: false
+	xy: 545, 340
+	size: 80, 37
+	orig: 80, 37
+	offset: 0, 0
+	index: -1
+t_Rhand_yimiaorenshouxing
+	rotate: true
+	xy: 120, 848
+	size: 128, 112
+	orig: 128, 112
+	offset: 0, 0
+	index: -1
+e_Rforearm_yimiaorenshouxing
+	rotate: false
+	xy: 232, 699
+	size: 95, 126
+	orig: 95, 126
+	offset: 0, 0
+	index: -1
+v_Rhand_yimiaorenshouxing
+	rotate: true
+	xy: 120, 718
+	size: 129, 111
+	orig: 129, 111
+	offset: 0, 0
+	index: -1
+o_Rfoot_yimiaorenshouxing
+	rotate: false
+	xy: 143, 977
+	size: 64, 47
+	orig: 64, 47
+	offset: 0, 0
+	index: -1
+q_Lforearm_yimiaorenshouxing
+	rotate: false
+	xy: 942, 267
+	size: 78, 97
+	orig: 78, 97
+	offset: 0, 0
+	index: -1
+w_Larm_yimiaorenshouxing
+	rotate: true
+	xy: 850, 116
+	size: 64, 83
+	orig: 64, 83
+	offset: 0, 0
+	index: -1
+a_Rforearm_yimiaorenshouxing
+	rotate: false
+	xy: 441, 936
+	size: 76, 87
+	orig: 76, 87
+	offset: 0, 0
+	index: -1
+y_Lfroearm_yimiaorenshouxing
+	rotate: false
+	xy: 711, 915
+	size: 64, 100
+	orig: 64, 100
+	offset: 0, 0
+	index: -1
+a_Rhand2_yimiaorenshouxing
+	rotate: false
+	xy: 526, 486
+	size: 60, 57
+	orig: 60, 57
+	offset: 0, 0
+	index: -1
+h_Rshin_yimiaorenshouxing
+	rotate: false
+	xy: 573, 757
+	size: 67, 55
+	orig: 67, 55
+	offset: 0, 0
+	index: -1
+p_Larm_yimiaorenshouxing
+	rotate: false
+	xy: 430, 816
+	size: 101, 119
+	orig: 101, 119
+	offset: 0, 0
+	index: -1
+a_Lshin_yimiaorenshouxing
+	rotate: true
+	xy: 942, 565
+	size: 51, 67
+	orig: 51, 67
+	offset: 0, 0
+	index: -1
+baozou_xiae_yimiaorenshouxing
+	rotate: false
+	xy: 492, 110
+	size: 68, 102
+	orig: 68, 102
+	offset: 0, 0
+	index: -1
+b_Lhand_yimiaorenshouxing
+	rotate: false
+	xy: 459, 232
+	size: 107, 107
+	orig: 107, 107
+	offset: 0, 0
+	index: -1
+a_Rthigh_yimiaorenshouxing
+	rotate: true
+	xy: 942, 0
+	size: 68, 81
+	orig: 68, 81
+	offset: 0, 0
+	index: -1
+k_Lhand_yimiaorenshouxing
+	rotate: false
+	xy: 235, 270
+	size: 124, 124
+	orig: 124, 124
+	offset: 0, 0
+	index: -1
+x_Lhand_yimiaorenshouxing
+	rotate: false
+	xy: 0, 721
+	size: 119, 136
+	orig: 119, 136
+	offset: 0, 0
+	index: -1
+a_Rhand1_yimiaorenshouxing
+	rotate: true
+	xy: 443, 769
+	size: 44, 53
+	orig: 44, 53
+	offset: 0, 0
+	index: -1
+h_Rthigh_yimiaorenshouxing
+	rotate: false
+	xy: 0, 0
+	size: 71, 149
+	orig: 71, 149
+	offset: 0, 0
+	index: -1
+l_Rshin_yimiaorenshouxing
+	rotate: false
+	xy: 942, 112
+	size: 80, 63
+	orig: 80, 63
+	offset: 0, 0
+	index: -1
+c_Larm_yimiaorenshouxing
+	rotate: true
+	xy: 850, 51
+	size: 64, 83
+	orig: 64, 83
+	offset: 0, 0
+	index: -1
+u_Rhand_yimiaorenshouxing
+	rotate: false
+	xy: 0, 858
+	size: 119, 129
+	orig: 119, 129
+	offset: 0, 0
+	index: -1
+v_Rforearm_yimiaorenshouxing
+	rotate: true
+	xy: 625, 915
+	size: 101, 85
+	orig: 101, 85
+	offset: 0, 0
+	index: -1
+m_Rforearm_yimiaorenshouxing
+	rotate: true
+	xy: 725, 811
+	size: 98, 85
+	orig: 98, 85
+	offset: 0, 0
+	index: -1
+w_Lforearm_yimiaorenshouxing
+	rotate: true
+	xy: 587, 486
+	size: 57, 52
+	orig: 57, 52
+	offset: 0, 0
+	index: -1
+k_Rforearm_yimiaorenshouxing
+	rotate: true
+	xy: 0, 299
+	size: 142, 82
+	orig: 142, 82
+	offset: 0, 0
+	index: -1
+q_Lshin_yimiaorenshouxing
+	rotate: true
+	xy: 208, 977
+	size: 46, 75
+	orig: 46, 75
+	offset: 0, 0
+	index: -1
+a_Rhand3_yimiaorenshouxing
+	rotate: true
+	xy: 73, 988
+	size: 34, 69
+	orig: 34, 69
+	offset: 0, 0
+	index: -1
+a_Lfoot_yimiaorenshouxing
+	rotate: false
+	xy: 497, 769
+	size: 75, 43
+	orig: 75, 43
+	offset: 0, 0
+	index: -1
+k_Lforearm_yimiaorenshouxing
+	rotate: false
+	xy: 429, 378
+	size: 75, 108
+	orig: 75, 108
+	offset: 0, 0
+	index: -1
+v_Larm_yimiaorenshouxing
+	rotate: true
+	xy: 109, 147
+	size: 139, 77
+	orig: 139, 77
+	offset: 0, 0
+	index: -1
+w_Lhand_yimiaorenshouxing
+	rotate: false
+	xy: 0, 442
+	size: 115, 139
+	orig: 115, 139
+	offset: 0, 0
+	index: -1
+d_Lforearm_yimiaorenshouxing
+	rotate: true
+	xy: 360, 264
+	size: 113, 98
+	orig: 113, 98
+	offset: 0, 0
+	index: -1
+c_Rthigh_yimiaorenshouxing
+	rotate: false
+	xy: 942, 176
+	size: 79, 90
+	orig: 79, 90
+	offset: 0, 0
+	index: -1
+b_Lforearm_yimiaorenshouxing
+	rotate: true
+	xy: 942, 365
+	size: 68, 78
+	orig: 68, 78
+	offset: 0, 0
+	index: -1
+m_Rhand_yimiaorenshouxing
+	rotate: true
+	xy: 293, 139
+	size: 124, 106
+	orig: 124, 106
+	offset: 0, 0
+	index: -1
+a_Lforearm_yimiaorenshouxing
+	rotate: true
+	xy: 942, 499
+	size: 65, 67
+	orig: 65, 67
+	offset: 0, 0
+	index: -1
+o_Lforearm_yimiaorenshouxing
+	rotate: true
+	xy: 699, 647
+	size: 101, 96
+	orig: 101, 96
+	offset: 0, 0
+	index: -1
+o_Lhand_yimiaorenshouxing
+	rotate: true
+	xy: 187, 139
+	size: 130, 105
+	orig: 130, 105
+	offset: 0, 0
+	index: -1
+a_Lhand2_yimiaorenshouxing
+	rotate: true
+	xy: 717, 499
+	size: 42, 57
+	orig: 42, 57
+	offset: 0, 0
+	index: -1
+m_Rthigh_yimiaorenshouxing
+	rotate: true
+	xy: 616, 267
+	size: 68, 85
+	orig: 70, 85
+	offset: 2, 0
+	index: -1
+p_Lfoot_yimiaorenshouxing
+	rotate: false
+	xy: 273, 667
+	size: 66, 28
+	orig: 66, 28
+	offset: 0, 0
+	index: -1
+r_Lforearm_yimiaorenshouxing
+	rotate: true
+	xy: 389, 0
+	size: 120, 75
+	orig: 120, 75
+	offset: 0, 0
+	index: -1
+a_Lhand4_yimiaorenshouxing
+	rotate: true
+	xy: 0, 988
+	size: 34, 72
+	orig: 34, 72
+	offset: 0, 0
+	index: -1
+k_Rshin_yimiaorenshouxing
+	rotate: true
+	xy: 429, 487
+	size: 57, 96
+	orig: 57, 96
+	offset: 0, 0
+	index: -1
+n_Rarm_yimiaorenshouxing
+	rotate: true
+	xy: 532, 813
+	size: 108, 90
+	orig: 108, 90
+	offset: 0, 0
+	index: -1
+k_Rthigh_yimiaorenshouxing
+	rotate: true
+	xy: 230, 420
+	size: 125, 87
+	orig: 125, 87
+	offset: 0, 0
+	index: -1
+l_Lshin_yimiaorenshouxing
+	rotate: false
+	xy: 640, 484
+	size: 76, 59
+	orig: 76, 59
+	offset: 0, 0
+	index: -1
+a_Lhand3_yimiaorenshouxing
+	rotate: true
+	xy: 626, 336
+	size: 39, 73
+	orig: 39, 73
+	offset: 0, 0
+	index: -1
+a_Lhand1_yimiaorenshouxing
+	rotate: true
+	xy: 340, 667
+	size: 27, 61
+	orig: 27, 61
+	offset: 0, 0
+	index: -1
+x_Larm_yimiaorenshouxing
+	rotate: false
+	xy: 400, 121
+	size: 91, 110
+	orig: 91, 110
+	offset: 0, 0
+	index: -1
+t_Lforearm_yimiaorenshouxing
+	rotate: true
+	xy: 273, 546
+	size: 120, 75
+	orig: 120, 75
+	offset: 0, 0
+	index: -1
+m_Lshin_yimiaorenshouxing
+	rotate: true
+	xy: 942, 434
+	size: 64, 76
+	orig: 64, 76
+	offset: 0, 0
+	index: -1
+u_Rforearm_yimiaorenshouxing
+	rotate: true
+	xy: 465, 0
+	size: 109, 95
+	orig: 109, 95
+	offset: 0, 0
+	index: -1
+h_Lforearm_yimiaorenshouxing
+	rotate: false
+	xy: 74, 582
+	size: 84, 135
+	orig: 84, 135
+	offset: 0, 0
+	index: -1
+x_Lforearm_yimiaorenshouxing
+	rotate: true
+	xy: 462, 545
+	size: 108, 74
+	orig: 108, 74
+	offset: 0, 0
+	index: -1
+j_Larm_yimiaorenshouxing
+	rotate: false
+	xy: 632, 652
+	size: 66, 103
+	orig: 66, 103
+	offset: 0, 0
+	index: -1
+p_Rhand_yimiaorenshouxing
+	rotate: false
+	xy: 349, 545
+	size: 112, 114
+	orig: 112, 114
+	offset: 0, 0
+	index: -1
+o_Rthigh_yimiaorenshouxing
+	rotate: false
+	xy: 613, 378
+	size: 85, 105
+	orig: 85, 105
+	offset: 0, 0
+	index: -1
+c_Rforearm_yimiaorenshouxing
+	rotate: false
+	xy: 642, 544
+	size: 101, 102
+	orig: 101, 102
+	offset: 0, 0
+	index: -1
+p_Lforearm_yimiaorenshouxing
+	rotate: true
+	xy: 811, 811
+	size: 97, 95
+	orig: 97, 95
+	offset: 0, 0
+	index: -1
+o_Lfoot_yimiaorenshouxing
+	rotate: true
+	xy: 413, 952
+	size: 70, 27
+	orig: 70, 27
+	offset: 0, 0
+	index: -1
+k_Rarm_yimiaorenshouxing
+	rotate: false
+	xy: 443, 660
+	size: 97, 108
+	orig: 97, 108
+	offset: 0, 0
+	index: -1
+x_Lthigh_yimiaorenshouxing
+	rotate: false
+	xy: 324, 826
+	size: 105, 125
+	orig: 105, 125
+	offset: 0, 0
+	index: -1
+x_Lshin_yimiaorenshouxing
+	rotate: true
+	xy: 567, 267
+	size: 69, 48
+	orig: 69, 48
+	offset: 0, 0
+	index: -1
+q_Lfoot_yimiaorenshouxing
+	rotate: true
+	xy: 641, 756
+	size: 56, 43
+	orig: 56, 43
+	offset: 0, 0
+	index: -1
+p_Lthigh_yimiaorenshouxing
+	rotate: true
+	xy: 83, 299
+	size: 139, 80
+	orig: 139, 80
+	offset: 0, 0
+	index: -1
+w_Rforearm_yimiaorenshouxing
+	rotate: false
+	xy: 623, 813
+	size: 101, 101
+	orig: 101, 101
+	offset: 0, 0
+	index: -1
+
+asset/anim/yimiaorenshouxing1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m_Larm_yimiaorenshouxing
+	rotate: false
+	xy: 308, 548
+	size: 123, 150
+	orig: 123, 150
+	offset: 0, 0
+	index: -1
+a_Lthigh_yimiaorenshouxing
+	rotate: true
+	xy: 731, 351
+	size: 142, 86
+	orig: 142, 86
+	offset: 0, 0
+	index: -1
+h_Lhand_yimiaorenshouxing
+	rotate: true
+	xy: 148, 724
+	size: 133, 150
+	orig: 133, 150
+	offset: 0, 0
+	index: -1
+n_Rforearm_yimiaorenshouxing
+	rotate: true
+	xy: 958, 176
+	size: 142, 65
+	orig: 142, 65
+	offset: 0, 0
+	index: -1
+p_Rarm_yimiaorenshouxing
+	rotate: true
+	xy: 0, 623
+	size: 88, 160
+	orig: 88, 160
+	offset: 0, 0
+	index: -1
+i_Rforearm_yimiaorenshouxing
+	rotate: true
+	xy: 726, 182
+	size: 168, 78
+	orig: 168, 78
+	offset: 0, 0
+	index: -1
+h_Rfoot_yimiaorenshouxing
+	rotate: false
+	xy: 957, 448
+	size: 67, 44
+	orig: 67, 44
+	offset: 0, 0
+	index: -1
+p_Rforearm_yimiaorenshouxing
+	rotate: false
+	xy: 298, 914
+	size: 140, 110
+	orig: 140, 110
+	offset: 0, 0
+	index: -1
+a_head_yimiaorenshouxing
+	rotate: false
+	xy: 877, 494
+	size: 135, 155
+	orig: 135, 155
+	offset: 0, 0
+	index: -1
+h_Rforearm_yimiaorenshouxing
+	rotate: true
+	xy: 432, 526
+	size: 100, 114
+	orig: 100, 114
+	offset: 0, 0
+	index: -1
+v_Lforearm_yimiaorenshouxing
+	rotate: false
+	xy: 116, 970
+	size: 116, 54
+	orig: 116, 54
+	offset: 0, 0
+	index: -1
+m_Lfoot_yimiaorenshouxing
+	rotate: true
+	xy: 984, 784
+	size: 75, 30
+	orig: 75, 30
+	offset: 0, 0
+	index: -1
+n_head_yimiaorenshouxing
+	rotate: false
+	xy: 564, 744
+	size: 139, 141
+	orig: 139, 141
+	offset: 0, 0
+	index: -1
+e_Rhand_yimiaorenshouxing
+	rotate: false
+	xy: 732, 884
+	size: 131, 140
+	orig: 131, 140
+	offset: 0, 0
+	index: -1
+c_Rarm_yimiaorenshouxing
+	rotate: false
+	xy: 720, 494
+	size: 156, 138
+	orig: 156, 138
+	offset: 0, 0
+	index: -1
+m_body_yimiaorenshouxing
+	rotate: true
+	xy: 503, 0
+	size: 181, 250
+	orig: 181, 250
+	offset: 0, 0
+	index: -1
+j_Lhand_yimiaorenshouxing
+	rotate: false
+	xy: 433, 186
+	size: 113, 199
+	orig: 113, 199
+	offset: 0, 0
+	index: -1
+l_head_yimiaorenshouxing
+	rotate: false
+	xy: 818, 333
+	size: 138, 160
+	orig: 138, 160
+	offset: 0, 0
+	index: -1
+q_Rhand_yimiaorenshouxing
+	rotate: true
+	xy: 720, 633
+	size: 116, 155
+	orig: 116, 155
+	offset: 0, 0
+	index: -1
+x_head_yimiaorenshouxing
+	rotate: false
+	xy: 547, 353
+	size: 183, 133
+	orig: 183, 133
+	offset: 0, 0
+	index: -1
+f_Rarm_yimiaorenshouxing
+	rotate: true
+	xy: 0, 399
+	size: 118, 157
+	orig: 118, 157
+	offset: 0, 0
+	index: -1
+i_body_yimiaorenshouxing
+	rotate: true
+	xy: 754, 0
+	size: 175, 248
+	orig: 175, 248
+	offset: 0, 0
+	index: -1
+o_head_yimiaorenshouxing
+	rotate: false
+	xy: 805, 176
+	size: 152, 156
+	orig: 152, 156
+	offset: 0, 0
+	index: -1
+x_boby_yimiaorenshouxing
+	rotate: false
+	xy: 219, 191
+	size: 213, 212
+	orig: 213, 212
+	offset: 0, 0
+	index: -1
+h_Rhand_yimiaorenshouxing
+	rotate: true
+	xy: 547, 487
+	size: 137, 172
+	orig: 137, 172
+	offset: 0, 0
+	index: -1
+h_Rarm_yimiaorenshouxing
+	rotate: true
+	xy: 441, 746
+	size: 150, 122
+	orig: 150, 122
+	offset: 0, 0
+	index: -1
+i_Rarm_yimiaorenshouxing
+	rotate: false
+	xy: 0, 850
+	size: 146, 105
+	orig: 146, 105
+	offset: 0, 0
+	index: -1
+w_Rhand_yimiaorenshouxing
+	rotate: true
+	xy: 864, 883
+	size: 140, 128
+	orig: 140, 128
+	offset: 0, 0
+	index: -1
+p_head_yimiaorenshouxing
+	rotate: false
+	xy: 547, 182
+	size: 178, 170
+	orig: 178, 170
+	offset: 0, 0
+	index: -1
+m_Lforearm_yimiaorenshouxing
+	rotate: true
+	xy: 957, 333
+	size: 114, 67
+	orig: 114, 67
+	offset: 0, 0
+	index: -1
+e_Larm_yimiaorenshouxing
+	rotate: true
+	xy: 704, 750
+	size: 133, 142
+	orig: 133, 142
+	offset: 0, 0
+	index: -1
+p_body_yimiaorenshouxing
+	rotate: true
+	xy: 252, 0
+	size: 185, 250
+	orig: 185, 250
+	offset: 0, 0
+	index: -1
+s_Rarm_yimiaorenshouxing
+	rotate: false
+	xy: 591, 886
+	size: 140, 138
+	orig: 140, 138
+	offset: 0, 0
+	index: -1
+d_Rarm_yimiaorenshouxing
+	rotate: false
+	xy: 161, 616
+	size: 146, 107
+	orig: 146, 107
+	offset: 0, 0
+	index: -1
+c_Lhand_yimiaorenshouxing
+	rotate: false
+	xy: 433, 386
+	size: 113, 139
+	orig: 113, 139
+	offset: 0, 0
+	index: -1
+baozou_tou_yimiaorenshouxing
+	rotate: false
+	xy: 876, 650
+	size: 138, 133
+	orig: 138, 133
+	offset: 0, 0
+	index: -1
+x_Rarm_yimiaorenshouxing
+	rotate: false
+	xy: 147, 858
+	size: 150, 111
+	orig: 150, 111
+	offset: 0, 0
+	index: -1
+q_Lthigh_yimiaorenshouxing
+	rotate: true
+	xy: 0, 956
+	size: 68, 115
+	orig: 68, 115
+	offset: 0, 0
+	index: -1
+l_Rthigh_yimiaorenshouxing
+	rotate: true
+	xy: 0, 518
+	size: 104, 156
+	orig: 104, 156
+	offset: 0, 0
+	index: -1
+n_Rhand_yimiaorenshouxing
+	rotate: false
+	xy: 441, 897
+	size: 149, 127
+	orig: 149, 127
+	offset: 0, 0
+	index: -1
+a_Rarm_yimiaorenshouxing
+	rotate: false
+	xy: 432, 627
+	size: 131, 118
+	orig: 131, 118
+	offset: 0, 0
+	index: -1
+k_Larm_yimiaorenshouxing
+	rotate: false
+	xy: 0, 712
+	size: 147, 137
+	orig: 147, 137
+	offset: 0, 0
+	index: -1
+a_Rfoot_yimiaorenshouxing
+	rotate: false
+	xy: 233, 970
+	size: 57, 54
+	orig: 57, 54
+	offset: 0, 0
+	index: -1
+w_boby_yimiaorenshouxing
+	rotate: true
+	xy: 0, 0
+	size: 190, 251
+	orig: 190, 251
+	offset: 0, 0
+	index: -1
+x_Rforearm_yimiaorenshouxing
+	rotate: true
+	xy: 157, 523
+	size: 92, 149
+	orig: 92, 149
+	offset: 0, 0
+	index: -1
+m_Rarm_yimiaorenshouxing
+	rotate: true
+	xy: 315, 404
+	size: 143, 116
+	orig: 143, 116
+	offset: 0, 0
+	index: -1
+c_Rhand_yimiaorenshouxing
+	rotate: false
+	xy: 299, 783
+	size: 141, 130
+	orig: 141, 130
+	offset: 0, 0
+	index: -1
+r_Rforearm_yimiaorenshouxing
+	rotate: false
+	xy: 308, 699
+	size: 123, 83
+	orig: 123, 83
+	offset: 0, 0
+	index: -1
+
+asset/anim/yimiaorenshouxing0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_Larm_yimiaorenshouxing
+	rotate: false
+	xy: 537, 585
+	size: 83, 140
+	orig: 83, 140
+	offset: 0, 0
+	index: -1
+f_boby_yimiaorenshouxing
+	rotate: false
+	xy: 269, 0
+	size: 287, 163
+	orig: 287, 163
+	offset: 0, 0
+	index: -1
+o_Lthigh_yimiaorenshouxing
+	rotate: true
+	xy: 714, 726
+	size: 162, 86
+	orig: 162, 86
+	offset: 0, 0
+	index: -1
+a_Rhand4_yimiaorenshouxing
+	rotate: false
+	xy: 691, 487
+	size: 48, 78
+	orig: 48, 78
+	offset: 0, 0
+	index: -1
+e_Lhand_yimiaorenshouxing
+	rotate: true
+	xy: 637, 892
+	size: 132, 117
+	orig: 132, 117
+	offset: 0, 0
+	index: -1
+g_boby_yimiaorenshouxing
+	rotate: false
+	xy: 557, 0
+	size: 277, 159
+	orig: 277, 159
+	offset: 0, 0
+	index: -1
+u_Lhand_yimiaorenshouxing
+	rotate: true
+	xy: 714, 313
+	size: 76, 120
+	orig: 76, 120
+	offset: 0, 0
+	index: -1
+j_head_yimiaorenshouxing
+	rotate: false
+	xy: 188, 585
+	size: 176, 163
+	orig: 176, 163
+	offset: 0, 0
+	index: -1
+w_head_yimiaorenshouxing
+	rotate: false
+	xy: 188, 749
+	size: 147, 181
+	orig: 147, 181
+	offset: 0, 0
+	index: -1
+l_body_yimiaorenshouxing
+	rotate: false
+	xy: 835, 0
+	size: 189, 245
+	orig: 189, 245
+	offset: 0, 0
+	index: -1
+k_Rhand_yimiaorenshouxing
+	rotate: true
+	xy: 885, 707
+	size: 147, 139
+	orig: 147, 139
+	offset: 0, 0
+	index: -1
+g_Rhand_yimiaorenshouxing
+	rotate: true
+	xy: 557, 160
+	size: 145, 156
+	orig: 145, 156
+	offset: 0, 0
+	index: -1
+d_Rhand_yimiaorenshouxing
+	rotate: false
+	xy: 539, 419
+	size: 151, 152
+	orig: 151, 152
+	offset: 0, 0
+	index: -1
+q_Lhand_yimiaorenshouxing
+	rotate: true
+	xy: 890, 505
+	size: 112, 134
+	orig: 112, 134
+	offset: 0, 0
+	index: -1
+e_Rfoot_yimiaorenshouxing
+	rotate: false
+	xy: 691, 419
+	size: 49, 67
+	orig: 49, 67
+	offset: 0, 0
+	index: -1
+r_Lhand_yimiaorenshouxing
+	rotate: true
+	xy: 621, 572
+	size: 153, 119
+	orig: 153, 119
+	offset: 0, 0
+	index: -1
+m_head_yimiaorenshouxing
+	rotate: true
+	xy: 393, 404
+	size: 180, 145
+	orig: 180, 147
+	offset: 0, 0
+	index: -1
+c_Lforearm_yimiaorenshouxing
+	rotate: false
+	xy: 825, 673
+	size: 58, 52
+	orig: 58, 52
+	offset: 0, 0
+	index: -1
+d_Lhand_yimiaorenshouxing
+	rotate: true
+	xy: 890, 367
+	size: 137, 134
+	orig: 137, 134
+	offset: 0, 0
+	index: -1
+c_boby_yimiaorenshouxing
+	rotate: false
+	xy: 0, 492
+	size: 187, 257
+	orig: 187, 257
+	offset: 0, 0
+	index: -1
+benghuaitou_yimiaorenshouxing
+	rotate: true
+	xy: 755, 889
+	size: 135, 134
+	orig: 135, 134
+	offset: 0, 0
+	index: -1
+b_Rhand_yimiaorenshouxing
+	rotate: false
+	xy: 714, 160
+	size: 120, 152
+	orig: 120, 152
+	offset: 0, 0
+	index: -1
+a_Larm_yimiaorenshouxing
+	rotate: true
+	xy: 890, 618
+	size: 88, 134
+	orig: 88, 134
+	offset: 0, 0
+	index: -1
+k_body_yimiaorenshouxing
+	rotate: false
+	xy: 0, 750
+	size: 187, 255
+	orig: 187, 255
+	offset: 0, 0
+	index: -1
+o_Rarm_yimiaorenshouxing
+	rotate: true
+	xy: 605, 726
+	size: 165, 108
+	orig: 165, 108
+	offset: 0, 0
+	index: -1
+a_Lhand5_yimiaorenshouxing
+	rotate: false
+	xy: 999, 246
+	size: 25, 73
+	orig: 25, 73
+	offset: 0, 0
+	index: -1
+y_Rforearm_yimiaorenshouxing
+	rotate: false
+	xy: 188, 931
+	size: 116, 93
+	orig: 116, 93
+	offset: 0, 0
+	index: -1
+y_Rarm_yimiaorenshouxing
+	rotate: true
+	xy: 835, 246
+	size: 120, 163
+	orig: 120, 163
+	offset: 0, 0
+	index: -1
+f_head_yimiaorenshouxing
+	rotate: false
+	xy: 741, 390
+	size: 148, 148
+	orig: 148, 148
+	offset: 0, 0
+	index: -1
+d_boby_yimiaorenshouxing
+	rotate: false
+	xy: 0, 216
+	size: 204, 275
+	orig: 204, 275
+	offset: 0, 0
+	index: -1
+n_body_yimiaorenshouxing
+	rotate: false
+	xy: 386, 164
+	size: 163, 239
+	orig: 163, 239
+	offset: 0, 0
+	index: -1
+b_Rforearm_yimiaorenshouxing
+	rotate: true
+	xy: 801, 726
+	size: 150, 83
+	orig: 150, 83
+	offset: 0, 0
+	index: -1
+e_head_yimiaorenshouxing
+	rotate: false
+	xy: 365, 585
+	size: 171, 140
+	orig: 171, 142
+	offset: 0, 0
+	index: -1
+a_Rhand5_yimiaorenshouxing
+	rotate: true
+	xy: 741, 673
+	size: 52, 83
+	orig: 52, 83
+	offset: 0, 0
+	index: -1
+baozou_shetou_yimiaorenshouxing
+	rotate: true
+	xy: 355, 164
+	size: 51, 28
+	orig: 51, 28
+	offset: 0, 0
+	index: -1
+y_Larm_yimiaorenshouxing
+	rotate: false
+	xy: 481, 914
+	size: 155, 110
+	orig: 155, 110
+	offset: 0, 0
+	index: -1
+e_Rshin_yimiaorenshouxing
+	rotate: false
+	xy: 269, 164
+	size: 85, 51
+	orig: 85, 51
+	offset: 0, 0
+	index: -1
+e_boby_yimiaorenshouxing
+	rotate: false
+	xy: 0, 0
+	size: 268, 215
+	orig: 268, 215
+	offset: 0, 0
+	index: -1
+r_Rhand_yimiaorenshouxing
+	rotate: false
+	xy: 550, 306
+	size: 163, 112
+	orig: 163, 112
+	offset: 0, 0
+	index: -1
+b_Rarm_yimiaorenshouxing
+	rotate: true
+	xy: 205, 456
+	size: 128, 187
+	orig: 128, 187
+	offset: 0, 0
+	index: -1
+e_Rarm_yimiaorenshouxing
+	rotate: false
+	xy: 475, 726
+	size: 129, 187
+	orig: 129, 187
+	offset: 0, 0
+	index: -1
+a_body_yimiaorenshouxing
+	rotate: false
+	xy: 205, 216
+	size: 180, 239
+	orig: 180, 239
+	offset: 0, 0
+	index: -1
+i_Rhand_yimiaorenshouxing
+	rotate: true
+	xy: 890, 855
+	size: 146, 133
+	orig: 146, 133
+	offset: 0, 0
+	index: -1
+d_Larm_yimiaorenshouxing
+	rotate: false
+	xy: 411, 931
+	size: 69, 93
+	orig: 69, 93
+	offset: 0, 0
+	index: -1
+q_Rarm_yimiaorenshouxing
+	rotate: false
+	xy: 336, 749
+	size: 138, 181
+	orig: 138, 181
+	offset: 0, 0
+	index: -1
+g_Lhand_yimiaorenshouxing
+	rotate: false
+	xy: 741, 539
+	size: 148, 133
+	orig: 148, 133
+	offset: 0, 0
+	index: -1
+v_Lhand_yimiaorenshouxing
+	rotate: true
+	xy: 305, 931
+	size: 93, 105
+	orig: 93, 105
+	offset: 0, 0
+	index: -1

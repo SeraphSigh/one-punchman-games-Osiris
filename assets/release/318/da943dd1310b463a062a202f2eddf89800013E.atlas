@@ -1,0 +1,20 @@
+
+asset/anim/chalanziSE.png
+size: 510,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shunyi1_chalanzi
+	rotate: false
+	xy: 174, 399
+	size: 146, 104
+	orig: 148, 104
+	offset: 2, 0
+	index: -1
+shunyi_chalanzi
+	rotate: false
+	xy: 174, 293
+	size: 146, 105
+	orig: 148, 105
+	offset: 2, 0
+	index: -1

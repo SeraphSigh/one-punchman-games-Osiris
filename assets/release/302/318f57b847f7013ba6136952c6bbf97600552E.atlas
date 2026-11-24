@@ -1,0 +1,1493 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/duci1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_Rhand_duci
+	rotate: true
+	xy: 375, 358
+	size: 23, 22
+	orig: 23, 22
+	offset: 0, 0
+	index: -1
+a_eye3_duci
+	rotate: true
+	xy: 162, 339
+	size: 42, 23
+	orig: 42, 23
+	offset: 0, 0
+	index: -1
+b_Rforearm_duci
+	rotate: false
+	xy: 277, 106
+	size: 22, 30
+	orig: 22, 30
+	offset: 0, 0
+	index: -1
+n_Rhand1_duci
+	rotate: false
+	xy: 367, 425
+	size: 25, 25
+	orig: 25, 25
+	offset: 0, 0
+	index: -1
+m_Rfoot_duci
+	rotate: false
+	xy: 131, 147
+	size: 25, 43
+	orig: 25, 43
+	offset: 0, 0
+	index: -1
+h_Larm_duci
+	rotate: true
+	xy: 31, 239
+	size: 51, 33
+	orig: 51, 33
+	offset: 0, 0
+	index: -1
+d_Rfoot_duci
+	rotate: false
+	xy: 201, 170
+	size: 23, 37
+	orig: 23, 37
+	offset: 0, 0
+	index: -1
+u_Lthin_duci
+	rotate: false
+	xy: 172, 431
+	size: 27, 45
+	orig: 27, 45
+	offset: 0, 0
+	index: -1
+d_Rhand2_duci
+	rotate: false
+	xy: 320, 406
+	size: 25, 27
+	orig: 25, 27
+	offset: 0, 0
+	index: -1
+k_Lhand_duci
+	rotate: false
+	xy: 304, 318
+	size: 26, 26
+	orig: 26, 26
+	offset: 0, 0
+	index: -1
+d_Lthin_duci
+	rotate: false
+	xy: 25, 185
+	size: 27, 53
+	orig: 27, 53
+	offset: 0, 0
+	index: -1
+o_Rforearm_duci
+	rotate: true
+	xy: 0, 243
+	size: 56, 30
+	orig: 56, 30
+	offset: 0, 0
+	index: -1
+benghuai_duci
+	rotate: false
+	xy: 251, 38
+	size: 23, 35
+	orig: 23, 35
+	offset: 0, 0
+	index: -1
+v_Rfoot_duci
+	rotate: true
+	xy: 105, 150
+	size: 44, 25
+	orig: 44, 25
+	offset: 0, 0
+	index: -1
+p_Rarm_duci
+	rotate: true
+	xy: 65, 227
+	size: 46, 37
+	orig: 46, 37
+	offset: 0, 0
+	index: -1
+r_Lhand_duci
+	rotate: true
+	xy: 273, 146
+	size: 30, 26
+	orig: 30, 26
+	offset: 0, 0
+	index: -1
+o_Lhand_duci
+	rotate: true
+	xy: 273, 378
+	size: 34, 26
+	orig: 34, 26
+	offset: 0, 0
+	index: -1
+h_coxa_duci
+	rotate: true
+	xy: 81, 339
+	size: 47, 39
+	orig: 47, 39
+	offset: 0, 0
+	index: -1
+a_Lhand_duci
+	rotate: false
+	xy: 225, 199
+	size: 34, 22
+	orig: 34, 22
+	offset: 0, 0
+	index: -1
+bz_zuoxiaobi_duci
+	rotate: false
+	xy: 0, 451
+	size: 40, 47
+	orig: 40, 47
+	offset: 0, 0
+	index: -1
+v_coxa_duci
+	rotate: true
+	xy: 200, 424
+	size: 41, 37
+	orig: 41, 37
+	offset: 0, 0
+	index: -1
+k_Rhand1_duci
+	rotate: false
+	xy: 339, 470
+	size: 24, 27
+	orig: 24, 27
+	offset: 0, 0
+	index: -1
+i_coxa_duci
+	rotate: false
+	xy: 147, 477
+	size: 40, 35
+	orig: 40, 35
+	offset: 0, 0
+	index: -1
+g_Rarm_duci
+	rotate: true
+	xy: 33, 122
+	size: 52, 32
+	orig: 52, 32
+	offset: 0, 0
+	index: -1
+c_Rforearm_duci
+	rotate: false
+	xy: 329, 345
+	size: 25, 25
+	orig: 25, 25
+	offset: 0, 0
+	index: -1
+g_Rhand2_duci
+	rotate: true
+	xy: 304, 345
+	size: 26, 24
+	orig: 26, 24
+	offset: 0, 0
+	index: -1
+t_Rhand_duci
+	rotate: true
+	xy: 329, 260
+	size: 24, 23
+	orig: 24, 23
+	offset: 0, 0
+	index: -1
+u_Rhand1_duci
+	rotate: true
+	xy: 103, 255
+	size: 18, 21
+	orig: 18, 21
+	offset: 0, 0
+	index: -1
+a_Rthin_duci
+	rotate: false
+	xy: 103, 210
+	size: 40, 44
+	orig: 40, 44
+	offset: 0, 0
+	index: -1
+a_eye2_duci
+	rotate: true
+	xy: 168, 87
+	size: 41, 24
+	orig: 41, 24
+	offset: 0, 0
+	index: -1
+e_Lhand2_duci
+	rotate: false
+	xy: 355, 334
+	size: 23, 23
+	orig: 23, 23
+	offset: 0, 0
+	index: -1
+m_Rthin_duci
+	rotate: true
+	xy: 143, 431
+	size: 45, 28
+	orig: 45, 28
+	offset: 0, 0
+	index: -1
+i_Rhand2_duci
+	rotate: true
+	xy: 315, 483
+	size: 28, 23
+	orig: 28, 23
+	offset: 0, 0
+	index: -1
+g_Rforearm_duci
+	rotate: true
+	xy: 206, 127
+	size: 36, 20
+	orig: 36, 20
+	offset: 0, 0
+	index: -1
+a_Larm_duci
+	rotate: true
+	xy: 144, 191
+	size: 41, 33
+	orig: 41, 33
+	offset: 0, 0
+	index: -1
+o_Rfoot_duci
+	rotate: false
+	xy: 144, 94
+	size: 23, 43
+	orig: 23, 43
+	offset: 0, 0
+	index: -1
+n_Lhand_duci
+	rotate: true
+	xy: 275, 36
+	size: 31, 26
+	orig: 31, 26
+	offset: 0, 0
+	index: -1
+e_Rforearm_duci
+	rotate: false
+	xy: 261, 255
+	size: 23, 33
+	orig: 23, 33
+	offset: 0, 0
+	index: -1
+p_Rhand1_duci
+	rotate: false
+	xy: 290, 454
+	size: 25, 28
+	orig: 25, 28
+	offset: 0, 0
+	index: -1
+d_Rhand1_duci
+	rotate: false
+	xy: 316, 442
+	size: 25, 27
+	orig: 25, 27
+	offset: 0, 0
+	index: -1
+q_spear2_duci
+	rotate: true
+	xy: 215, 337
+	size: 40, 31
+	orig: 40, 31
+	offset: 0, 0
+	index: -1
+f_hair_duci
+	rotate: false
+	xy: 0, 402
+	size: 46, 48
+	orig: 46, 48
+	offset: 0, 0
+	index: -1
+m_Rhand_duci
+	rotate: true
+	xy: 260, 181
+	size: 30, 27
+	orig: 30, 27
+	offset: 0, 0
+	index: -1
+p_Rforearm_duci
+	rotate: false
+	xy: 275, 352
+	size: 28, 25
+	orig: 28, 25
+	offset: 0, 0
+	index: -1
+d_Lforearm_duci
+	rotate: false
+	xy: 327, 372
+	size: 21, 26
+	orig: 21, 26
+	offset: 0, 0
+	index: -1
+e_Larm_duci
+	rotate: false
+	xy: 188, 477
+	size: 31, 35
+	orig: 31, 35
+	offset: 0, 0
+	index: -1
+b_spear_duci
+	rotate: true
+	xy: 157, 44
+	size: 42, 41
+	orig: 42, 41
+	offset: 0, 0
+	index: -1
+c_Lhand_duci
+	rotate: true
+	xy: 227, 222
+	size: 32, 27
+	orig: 32, 27
+	offset: 0, 0
+	index: -1
+b_Lhand_duci
+	rotate: false
+	xy: 288, 177
+	size: 28, 28
+	orig: 28, 28
+	offset: 0, 0
+	index: -1
+t_Rforearm_duci
+	rotate: true
+	xy: 79, 163
+	size: 46, 25
+	orig: 46, 25
+	offset: 0, 0
+	index: -1
+f_coxa_duci
+	rotate: true
+	xy: 37, 352
+	size: 48, 43
+	orig: 48, 43
+	offset: 0, 0
+	index: -1
+b_Rarm_duci
+	rotate: false
+	xy: 157, 138
+	size: 27, 41
+	orig: 27, 41
+	offset: 0, 0
+	index: -1
+a_Rshangyanpi_duci
+	rotate: false
+	xy: 82, 497
+	size: 20, 14
+	orig: 20, 14
+	offset: 0, 0
+	index: -1
+o_Larm_duci
+	rotate: true
+	xy: 154, 0
+	size: 43, 27
+	orig: 43, 27
+	offset: 0, 0
+	index: -1
+v_Lthin_duci
+	rotate: true
+	xy: 34, 0
+	size: 57, 25
+	orig: 57, 25
+	offset: 0, 0
+	index: -1
+s_Rarm_duci
+	rotate: true
+	xy: 118, 435
+	size: 47, 24
+	orig: 47, 24
+	offset: 0, 0
+	index: -1
+i_Rarm_duci
+	rotate: false
+	xy: 230, 255
+	size: 30, 33
+	orig: 30, 33
+	offset: 0, 0
+	index: -1
+e_Rarm_duci
+	rotate: true
+	xy: 41, 451
+	size: 47, 40
+	orig: 47, 40
+	offset: 0, 0
+	index: -1
+k_Larm_duci
+	rotate: true
+	xy: 129, 50
+	size: 43, 27
+	orig: 43, 27
+	offset: 0, 0
+	index: -1
+m_Lfoot_duci
+	rotate: false
+	xy: 90, 103
+	size: 22, 46
+	orig: 22, 46
+	offset: 0, 0
+	index: -1
+n_Rforearm_duci
+	rotate: false
+	xy: 123, 483
+	size: 23, 29
+	orig: 23, 29
+	offset: 0, 0
+	index: -1
+q_spear1_duci
+	rotate: true
+	xy: 41, 291
+	size: 47, 45
+	orig: 47, 45
+	offset: 0, 0
+	index: -1
+u_Lhand_duci
+	rotate: false
+	xy: 225, 164
+	size: 22, 34
+	orig: 22, 34
+	offset: 0, 0
+	index: -1
+j_coxa_duci
+	rotate: true
+	xy: 193, 255
+	size: 40, 36
+	orig: 40, 36
+	offset: 0, 0
+	index: -1
+a_hit_duci
+	rotate: false
+	xy: 388, 451
+	size: 20, 20
+	orig: 20, 20
+	offset: 0, 0
+	index: -1
+d_Rforearm_duci
+	rotate: true
+	xy: 32, 64
+	size: 57, 25
+	orig: 57, 25
+	offset: 0, 0
+	index: -1
+q_Rarm_duci
+	rotate: true
+	xy: 214, 0
+	size: 38, 28
+	orig: 38, 28
+	offset: 0, 0
+	index: -1
+k_Rarm_duci
+	rotate: false
+	xy: 0, 352
+	size: 36, 49
+	orig: 36, 49
+	offset: 0, 0
+	index: -1
+v_Larm_duci
+	rotate: false
+	xy: 58, 58
+	size: 23, 52
+	orig: 23, 52
+	offset: 0, 0
+	index: -1
+u_Lthigh_duci
+	rotate: false
+	xy: 0, 0
+	size: 33, 63
+	orig: 33, 63
+	offset: 0, 0
+	index: -1
+r_Lforearm_duci
+	rotate: true
+	xy: 227, 114
+	size: 33, 22
+	orig: 33, 22
+	offset: 0, 0
+	index: -1
+c_Rhand1_duci
+	rotate: false
+	xy: 346, 399
+	size: 25, 25
+	orig: 25, 25
+	offset: 0, 0
+	index: -1
+h_Rthin_duci
+	rotate: true
+	xy: 121, 339
+	size: 45, 40
+	orig: 45, 40
+	offset: 0, 0
+	index: -1
+a_Rhand1_duci
+	rotate: false
+	xy: 364, 490
+	size: 23, 22
+	orig: 23, 22
+	offset: 0, 0
+	index: -1
+a_Lforearm_duci
+	rotate: true
+	xy: 178, 180
+	size: 41, 22
+	orig: 41, 22
+	offset: 0, 0
+	index: -1
+j_Rhand2_duci
+	rotate: true
+	xy: 248, 148
+	size: 32, 24
+	orig: 32, 24
+	offset: 0, 0
+	index: -1
+i_Rhand1_duci
+	rotate: true
+	xy: 297, 413
+	size: 28, 22
+	orig: 28, 22
+	offset: 0, 0
+	index: -1
+a_Lfoot_duci
+	rotate: true
+	xy: 131, 255
+	size: 42, 27
+	orig: 42, 27
+	offset: 0, 0
+	index: -1
+i_Rforearm_duci
+	rotate: true
+	xy: 66, 111
+	size: 51, 23
+	orig: 51, 23
+	offset: 0, 0
+	index: -1
+n_Rhand2_duci
+	rotate: true
+	xy: 103, 497
+	size: 14, 19
+	orig: 14, 19
+	offset: 0, 0
+	index: -1
+u_Lforearm_duci
+	rotate: false
+	xy: 179, 297
+	size: 31, 41
+	orig: 31, 41
+	offset: 0, 0
+	index: -1
+k_Rhand2_duci
+	rotate: false
+	xy: 342, 434
+	size: 24, 27
+	orig: 24, 27
+	offset: 0, 0
+	index: -1
+a_Rfoot_duci
+	rotate: false
+	xy: 250, 114
+	size: 26, 31
+	orig: 26, 31
+	offset: 0, 0
+	index: -1
+f_Rforearm_duci
+	rotate: true
+	xy: 0, 185
+	size: 57, 24
+	orig: 57, 24
+	offset: 0, 0
+	index: -1
+g_coxa_duci
+	rotate: true
+	xy: 47, 401
+	size: 47, 40
+	orig: 47, 40
+	offset: 0, 0
+	index: -1
+t_coxa_duci
+	rotate: false
+	xy: 138, 298
+	size: 40, 40
+	orig: 40, 40
+	offset: 0, 0
+	index: -1
+c_Larm_duci
+	rotate: true
+	xy: 271, 0
+	size: 35, 23
+	orig: 35, 23
+	offset: 0, 0
+	index: -1
+m_coxa_duci
+	rotate: false
+	xy: 176, 382
+	size: 41, 41
+	orig: 41, 41
+	offset: 0, 0
+	index: -1
+c_Rhand2_duci
+	rotate: false
+	xy: 349, 371
+	size: 25, 25
+	orig: 25, 25
+	offset: 0, 0
+	index: -1
+v_Lfoot_duci
+	rotate: true
+	xy: 218, 378
+	size: 40, 30
+	orig: 40, 30
+	offset: 0, 0
+	index: -1
+u_Rarm_duci
+	rotate: false
+	xy: 82, 449
+	size: 35, 47
+	orig: 35, 47
+	offset: 0, 0
+	index: -1
+u_Lfoot_duci
+	rotate: true
+	xy: 248, 289
+	size: 33, 27
+	orig: 33, 27
+	offset: 0, 0
+	index: -1
+bz_youxiaobi_duci
+	rotate: true
+	xy: 243, 0
+	size: 37, 27
+	orig: 37, 27
+	offset: 0, 0
+	index: -1
+n_Lforearm_duci
+	rotate: false
+	xy: 331, 318
+	size: 21, 25
+	orig: 21, 25
+	offset: 0, 0
+	index: -1
+m_Rforearm_duci
+	rotate: false
+	xy: 186, 339
+	size: 28, 41
+	orig: 28, 41
+	offset: 0, 0
+	index: -1
+u_Rforearm_duci
+	rotate: true
+	xy: 186, 222
+	size: 32, 40
+	orig: 32, 40
+	offset: 0, 0
+	index: -1
+k_Rforearm_duci
+	rotate: true
+	xy: 265, 419
+	size: 34, 31
+	orig: 34, 31
+	offset: 0, 0
+	index: -1
+g_Rhand1_duci
+	rotate: true
+	xy: 372, 397
+	size: 25, 24
+	orig: 25, 24
+	offset: 0, 0
+	index: -1
+p_coxa_duci
+	rotate: true
+	xy: 220, 466
+	size: 41, 36
+	orig: 41, 36
+	offset: 0, 0
+	index: -1
+n_Rarm_duci
+	rotate: false
+	xy: 257, 460
+	size: 32, 34
+	orig: 32, 34
+	offset: 0, 0
+	index: -1
+d_Rarm_duci
+	rotate: true
+	xy: 0, 127
+	size: 57, 32
+	orig: 57, 32
+	offset: 0, 0
+	index: -1
+d_coxa_duci
+	rotate: true
+	xy: 107, 0
+	size: 49, 46
+	orig: 49, 46
+	offset: 0, 0
+	index: -1
+e_Lforearm_duci
+	rotate: false
+	xy: 302, 32
+	size: 22, 29
+	orig: 22, 29
+	offset: 0, 0
+	index: -1
+p_Rhand2_duci
+	rotate: false
+	xy: 285, 242
+	size: 27, 28
+	orig: 27, 28
+	offset: 0, 0
+	index: -1
+h_Lhand_duci
+	rotate: false
+	xy: 300, 378
+	size: 26, 27
+	orig: 26, 27
+	offset: 0, 0
+	index: -1
+j_Lhand2_duci
+	rotate: true
+	xy: 305, 271
+	size: 25, 23
+	orig: 25, 23
+	offset: 0, 0
+	index: -1
+c_Lforearm_duci
+	rotate: true
+	xy: 295, 0
+	size: 31, 22
+	orig: 31, 22
+	offset: 0, 0
+	index: -1
+j_Lforearm_duci
+	rotate: true
+	xy: 226, 78
+	size: 35, 25
+	orig: 35, 25
+	offset: 0, 0
+	index: -1
+u_Rhand2_duci
+	rotate: false
+	xy: 280, 212
+	size: 21, 29
+	orig: 21, 29
+	offset: 0, 0
+	index: -1
+o_Rhand2_duci
+	rotate: false
+	xy: 275, 323
+	size: 28, 28
+	orig: 28, 28
+	offset: 0, 0
+	index: -1
+j_Lhand1_duci
+	rotate: false
+	xy: 87, 320
+	size: 25, 18
+	orig: 25, 18
+	offset: 0, 0
+	index: -1
+l_Rforearm_duci
+	rotate: true
+	xy: 364, 462
+	size: 27, 23
+	orig: 27, 23
+	offset: 0, 0
+	index: -1
+u_coxa_duci
+	rotate: true
+	xy: 60, 0
+	size: 51, 46
+	orig: 51, 46
+	offset: 0, 0
+	index: -1
+v_Lforearm_duci
+	rotate: true
+	xy: 225, 39
+	size: 38, 25
+	orig: 38, 25
+	offset: 0, 0
+	index: -1
+e_Lhand1_duci
+	rotate: false
+	xy: 353, 310
+	size: 23, 23
+	orig: 23, 23
+	offset: 0, 0
+	index: -1
+j_Larm_duci
+	rotate: false
+	xy: 87, 274
+	size: 43, 45
+	orig: 43, 45
+	offset: 0, 0
+	index: -1
+bz_Lhand_duci
+	rotate: false
+	xy: 113, 103
+	size: 30, 43
+	orig: 30, 43
+	offset: 0, 0
+	index: -1
+l_coxa_duci
+	rotate: true
+	xy: 211, 296
+	size: 40, 36
+	orig: 40, 36
+	offset: 0, 0
+	index: -1
+a_Lxiayanpi_duci
+	rotate: false
+	xy: 33, 175
+	size: 13, 9
+	orig: 13, 9
+	offset: 0, 0
+	index: -1
+q_Rhand_duci
+	rotate: false
+	xy: 318, 0
+	size: 22, 29
+	orig: 22, 29
+	offset: 0, 0
+	index: -1
+k_Lforearm_duci
+	rotate: false
+	xy: 290, 483
+	size: 24, 28
+	orig: 24, 28
+	offset: 0, 0
+	index: -1
+e_Rhand_duci
+	rotate: false
+	xy: 113, 320
+	size: 24, 18
+	orig: 24, 18
+	offset: 0, 0
+	index: -1
+a_meimao_duci
+	rotate: true
+	xy: 185, 129
+	size: 40, 20
+	orig: 40, 20
+	offset: 0, 0
+	index: -1
+d_Lfoot_duci
+	rotate: false
+	xy: 144, 233
+	size: 41, 21
+	orig: 41, 21
+	offset: 0, 0
+	index: -1
+j_Rforearm_duci
+	rotate: true
+	xy: 120, 387
+	size: 47, 21
+	orig: 47, 21
+	offset: 0, 0
+	index: -1
+a_Rforearm_duci
+	rotate: true
+	xy: 199, 43
+	size: 39, 25
+	orig: 39, 25
+	offset: 0, 0
+	index: -1
+v_Lhand_duci
+	rotate: false
+	xy: 313, 235
+	size: 23, 24
+	orig: 23, 24
+	offset: 0, 0
+	index: -1
+q_Rforearm_duci
+	rotate: false
+	xy: 276, 289
+	size: 28, 28
+	orig: 28, 28
+	offset: 0, 0
+	index: -1
+b_Lforearm_duci
+	rotate: false
+	xy: 328, 297
+	size: 21, 20
+	orig: 21, 20
+	offset: 0, 0
+	index: -1
+n_Larm_duci
+	rotate: true
+	xy: 238, 419
+	size: 40, 26
+	orig: 40, 26
+	offset: 0, 0
+	index: -1
+l_Rarm_duci
+	rotate: true
+	xy: 0, 64
+	size: 62, 31
+	orig: 62, 31
+	offset: 0, 0
+	index: -1
+u_Larm_duci
+	rotate: false
+	xy: 142, 385
+	size: 33, 45
+	orig: 33, 45
+	offset: 0, 0
+	index: -1
+d_Lhand_duci
+	rotate: true
+	xy: 350, 285
+	size: 24, 21
+	orig: 24, 21
+	offset: 0, 0
+	index: -1
+a_zui_duci
+	rotate: true
+	xy: 305, 297
+	size: 20, 22
+	orig: 20, 22
+	offset: 0, 0
+	index: -1
+h_Lforearm_duci
+	rotate: true
+	xy: 249, 378
+	size: 40, 23
+	orig: 40, 23
+	offset: 0, 0
+	index: -1
+j_Rhand1_duci
+	rotate: true
+	xy: 255, 222
+	size: 32, 24
+	orig: 32, 24
+	offset: 0, 0
+	index: -1
+c_Rarm_duci
+	rotate: true
+	xy: 182, 0
+	size: 42, 31
+	orig: 42, 31
+	offset: 0, 0
+	index: -1
+t_Rarm_duci
+	rotate: false
+	xy: 0, 300
+	size: 40, 51
+	orig: 40, 51
+	offset: 0, 0
+	index: -1
+o_Rhand1_duci
+	rotate: false
+	xy: 302, 206
+	size: 25, 28
+	orig: 25, 28
+	offset: 0, 0
+	index: -1
+h_Rarm_duci
+	rotate: true
+	xy: 193, 87
+	size: 39, 32
+	orig: 39, 32
+	offset: 0, 0
+	index: -1
+v_Rforearm_duci
+	rotate: true
+	xy: 159, 255
+	size: 41, 33
+	orig: 41, 33
+	offset: 0, 0
+	index: -1
+d_Larm_duci
+	rotate: true
+	xy: 88, 387
+	size: 47, 31
+	orig: 47, 31
+	offset: 0, 0
+	index: -1
+o_Lforearm_duci
+	rotate: true
+	xy: 247, 337
+	size: 40, 27
+	orig: 40, 27
+	offset: 0, 0
+	index: -1
+v_Rarm_duci
+	rotate: true
+	xy: 53, 175
+	size: 51, 25
+	orig: 51, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/duci0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Lyan_duci
+	rotate: true
+	xy: 502, 0
+	size: 15, 10
+	orig: 15, 10
+	offset: 0, 0
+	index: -1
+bz_shenti_duci
+	rotate: false
+	xy: 80, 217
+	size: 79, 82
+	orig: 79, 82
+	offset: 0, 0
+	index: -1
+bz_Rforearm_duci
+	rotate: true
+	xy: 404, 275
+	size: 44, 58
+	orig: 44, 58
+	offset: 0, 0
+	index: -1
+u_spear_duci
+	rotate: false
+	xy: 40, 0
+	size: 39, 300
+	orig: 39, 300
+	offset: 0, 0
+	index: -1
+u_Rthin_duci
+	rotate: true
+	xy: 455, 367
+	size: 34, 57
+	orig: 34, 57
+	offset: 0, 0
+	index: -1
+a_Lthin_duci
+	rotate: false
+	xy: 483, 93
+	size: 29, 44
+	orig: 29, 44
+	offset: 0, 0
+	index: -1
+d_hair_duci
+	rotate: false
+	xy: 80, 113
+	size: 104, 103
+	orig: 104, 103
+	offset: 0, 0
+	index: -1
+a_spear1_duci
+	rotate: false
+	xy: 0, 315
+	size: 46, 154
+	orig: 62, 160
+	offset: 7, 6
+	index: -1
+u_Rthigh_duci
+	rotate: false
+	xy: 359, 97
+	size: 38, 62
+	orig: 38, 62
+	offset: 0, 0
+	index: -1
+l_body_duci
+	rotate: false
+	xy: 344, 217
+	size: 55, 78
+	orig: 55, 78
+	offset: 0, 0
+	index: -1
+a_Rxiayanpi_duci
+	rotate: false
+	xy: 274, 124
+	size: 16, 13
+	orig: 16, 13
+	offset: 0, 0
+	index: -1
+a_Rthigh_duci
+	rotate: true
+	xy: 463, 226
+	size: 54, 49
+	orig: 54, 49
+	offset: 0, 0
+	index: -1
+gedang_duci
+	rotate: true
+	xy: 291, 0
+	size: 96, 106
+	orig: 96, 106
+	offset: 0, 0
+	index: -1
+i_body_duci
+	rotate: false
+	xy: 279, 217
+	size: 64, 80
+	orig: 64, 80
+	offset: 0, 0
+	index: -1
+a_Lthigh_duci
+	rotate: true
+	xy: 359, 366
+	size: 62, 44
+	orig: 62, 44
+	offset: 0, 0
+	index: -1
+d_hair2_duci
+	rotate: true
+	xy: 359, 429
+	size: 12, 25
+	orig: 12, 25
+	offset: 0, 0
+	index: -1
+a_lian_duci
+	rotate: false
+	xy: 160, 217
+	size: 63, 86
+	orig: 63, 86
+	offset: 0, 0
+	index: -1
+a_body_duci
+	rotate: true
+	xy: 200, 304
+	size: 73, 81
+	orig: 73, 81
+	offset: 0, 0
+	index: -1
+a_Ryan_duci
+	rotate: false
+	xy: 274, 138
+	size: 16, 13
+	orig: 16, 13
+	offset: 0, 0
+	index: -1
+a_Lshangyanpi_duci
+	rotate: false
+	xy: 387, 439
+	size: 16, 12
+	orig: 16, 12
+	offset: 0, 0
+	index: -1
+f_head_duci
+	rotate: true
+	xy: 179, 451
+	size: 60, 74
+	orig: 60, 74
+	offset: 0, 0
+	index: -1
+m_Rthigh_duci
+	rotate: true
+	xy: 404, 415
+	size: 41, 50
+	orig: 41, 50
+	offset: 0, 0
+	index: -1
+b_spear2_duci
+	rotate: false
+	xy: 385, 429
+	size: 18, 9
+	orig: 18, 9
+	offset: 0, 0
+	index: -1
+d_Lthigh_duci
+	rotate: false
+	xy: 283, 171
+	size: 62, 45
+	orig: 62, 45
+	offset: 0, 0
+	index: -1
+d_Rthigh_duci
+	rotate: true
+	xy: 463, 281
+	size: 50, 49
+	orig: 50, 49
+	offset: 0, 0
+	index: -1
+a_hair1_duci
+	rotate: true
+	xy: 254, 451
+	size: 59, 51
+	orig: 59, 51
+	offset: 0, 0
+	index: -1
+a_hair2_duci
+	rotate: false
+	xy: 80, 0
+	size: 105, 112
+	orig: 105, 112
+	offset: 0, 0
+	index: -1
+v_body_duci
+	rotate: true
+	xy: 47, 389
+	size: 80, 67
+	orig: 80, 67
+	offset: 0, 0
+	index: -1
+f_body_duci
+	rotate: false
+	xy: 47, 301
+	size: 69, 87
+	orig: 69, 87
+	offset: 0, 0
+	index: -1
+m_Lthigh_duci
+	rotate: false
+	xy: 357, 296
+	size: 46, 69
+	orig: 46, 69
+	offset: 0, 0
+	index: -1
+g_body_duci
+	rotate: true
+	xy: 201, 378
+	size: 72, 81
+	orig: 72, 81
+	offset: 0, 0
+	index: -1
+m_Lthin_duci
+	rotate: false
+	xy: 457, 436
+	size: 28, 69
+	orig: 28, 69
+	offset: 0, 0
+	index: -1
+v_Rthin_duci
+	rotate: false
+	xy: 426, 457
+	size: 30, 55
+	orig: 30, 55
+	offset: 0, 0
+	index: -1
+f_Rarm_duci
+	rotate: false
+	xy: 455, 402
+	size: 57, 33
+	orig: 57, 33
+	offset: 0, 0
+	index: -1
+a_Rhand2_duci
+	rotate: false
+	xy: 486, 493
+	size: 25, 19
+	orig: 25, 19
+	offset: 0, 0
+	index: -1
+j_Rarm_duci
+	rotate: true
+	xy: 486, 436
+	size: 56, 26
+	orig: 56, 26
+	offset: 0, 0
+	index: -1
+s_Rforearm_duci
+	rotate: false
+	xy: 483, 138
+	size: 29, 27
+	orig: 29, 27
+	offset: 0, 0
+	index: -1
+j_body_duci
+	rotate: true
+	xy: 306, 447
+	size: 65, 80
+	orig: 65, 80
+	offset: 0, 0
+	index: -1
+d_Rthin_duci
+	rotate: false
+	xy: 0, 470
+	size: 57, 42
+	orig: 57, 42
+	offset: 0, 0
+	index: -1
+u_body_duci
+	rotate: true
+	xy: 398, 93
+	size: 69, 84
+	orig: 69, 84
+	offset: 0, 0
+	index: -1
+d_head_duci
+	rotate: true
+	xy: 185, 155
+	size: 61, 64
+	orig: 61, 64
+	offset: 0, 0
+	index: -1
+bz_zuodabi_duci
+	rotate: false
+	xy: 469, 166
+	size: 43, 59
+	orig: 43, 59
+	offset: 0, 0
+	index: -1
+d_body_duci
+	rotate: true
+	xy: 282, 298
+	size: 77, 74
+	orig: 77, 74
+	offset: 0, 0
+	index: -1
+f_hair1_duci
+	rotate: true
+	xy: 398, 0
+	size: 92, 103
+	orig: 92, 103
+	offset: 0, 0
+	index: -1
+a_Rarm_duci
+	rotate: false
+	xy: 250, 155
+	size: 32, 61
+	orig: 32, 61
+	offset: 0, 0
+	index: -1
+a_coxa_duci
+	rotate: false
+	xy: 58, 470
+	size: 56, 42
+	orig: 56, 42
+	offset: 0, 0
+	index: -1
+a_Ryanqiu_duci
+	rotate: false
+	xy: 40, 301
+	size: 6, 7
+	orig: 6, 7
+	offset: 0, 0
+	index: -1
+a_spear_duci
+	rotate: false
+	xy: 0, 0
+	size: 39, 314
+	orig: 39, 314
+	offset: 0, 0
+	index: -1
+p_body_duci
+	rotate: false
+	xy: 291, 97
+	size: 67, 73
+	orig: 67, 73
+	offset: 0, 0
+	index: -1
+v_Lthigh_duci
+	rotate: true
+	xy: 402, 163
+	size: 56, 66
+	orig: 56, 66
+	offset: 0, 0
+	index: -1
+h_body_duci
+	rotate: true
+	xy: 283, 376
+	size: 70, 75
+	orig: 70, 75
+	offset: 0, 0
+	index: -1
+h_Rthigh_duci
+	rotate: false
+	xy: 404, 320
+	size: 55, 44
+	orig: 55, 44
+	offset: 0, 0
+	index: -1
+m_body_duci
+	rotate: true
+	xy: 186, 100
+	size: 54, 87
+	orig: 54, 87
+	offset: 0, 0
+	index: -1
+v_Rthigh_duci
+	rotate: false
+	xy: 400, 220
+	size: 62, 54
+	orig: 62, 54
+	offset: 0, 0
+	index: -1
+o_Rarm_duci
+	rotate: true
+	xy: 387, 457
+	size: 55, 38
+	orig: 55, 38
+	offset: 0, 0
+	index: -1
+m_Rarm_duci
+	rotate: true
+	xy: 460, 332
+	size: 34, 52
+	orig: 34, 52
+	offset: 0, 0
+	index: -1
+t_body_duci
+	rotate: false
+	xy: 224, 217
+	size: 54, 86
+	orig: 54, 86
+	offset: 0, 0
+	index: -1
+a_Lyanqiu_duci
+	rotate: false
+	xy: 457, 506
+	size: 6, 6
+	orig: 6, 6
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,265 @@
+
+asset/anim/tianxinjiamian2YCH0.png
+size: 128,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e-youmei_tianxinjiamian2extYCH
+	rotate: false
+	xy: 61, 259
+	size: 22, 7
+	orig: 22, 7
+	offset: 0, 0
+	index: -1
+e-youjiao_tianxinjiamian2extYCH
+	rotate: true
+	xy: 51, 424
+	size: 26, 31
+	orig: 26, 31
+	offset: 0, 0
+	index: -1
+e-fa1_tianxinjiamian2extYCH
+	rotate: false
+	xy: 0, 200
+	size: 61, 34
+	orig: 61, 34
+	offset: 0, 0
+	index: -1
+e-kua_tianxinjiamian2extYCH
+	rotate: true
+	xy: 86, 239
+	size: 54, 42
+	orig: 54, 42
+	offset: 0, 0
+	index: -1
+d-youshou1_tianxinjiamian2extYCH
+	rotate: true
+	xy: 62, 200
+	size: 31, 24
+	orig: 31, 24
+	offset: 0, 0
+	index: -1
+e-zuojiao_tianxinjiamian2extYCH
+	rotate: false
+	xy: 83, 454
+	size: 44, 25
+	orig: 44, 25
+	offset: 0, 0
+	index: -1
+e-zuodatui_tianxinjiamian2extYCH
+	rotate: true
+	xy: 0, 235
+	size: 30, 60
+	orig: 30, 60
+	offset: 0, 0
+	index: -1
+e-lian_tianxinjiamian2extYCH
+	rotate: true
+	xy: 0, 88
+	size: 80, 86
+	orig: 80, 86
+	offset: 0, 0
+	index: -1
+e-zuoxiaobi_tianxinjiamian2extYCH
+	rotate: false
+	xy: 0, 343
+	size: 55, 27
+	orig: 55, 27
+	offset: 0, 0
+	index: -1
+e-youxiaobi_tianxinjiamian2extYCH
+	rotate: true
+	xy: 0, 371
+	size: 26, 51
+	orig: 26, 51
+	offset: 0, 0
+	index: -1
+e-youyan_tianxinjiamian2extYCH
+	rotate: false
+	xy: 28, 492
+	size: 21, 14
+	orig: 21, 14
+	offset: 0, 0
+	index: -1
+d-youshou2_tianxinjiamian2extYCH
+	rotate: false
+	xy: 86, 393
+	size: 31, 31
+	orig: 31, 33
+	offset: 0, 0
+	index: -1
+a-mai_tianxinjiamian2extYCH
+	rotate: false
+	xy: 51, 464
+	size: 25, 46
+	orig: 25, 46
+	offset: 0, 0
+	index: -1
+e-zuoyan_tianxinjiamian2extYCH
+	rotate: false
+	xy: 103, 480
+	size: 21, 12
+	orig: 21, 12
+	offset: 0, 0
+	index: -1
+e-fa4_tianxinjiamian2extYCH
+	rotate: true
+	xy: 51, 451
+	size: 12, 31
+	orig: 12, 31
+	offset: 0, 0
+	index: -1
+e-youshou1_tianxinjiamian2extYCH
+	rotate: true
+	xy: 62, 232
+	size: 26, 23
+	orig: 26, 23
+	offset: 0, 0
+	index: -1
+e-youdabi_tianxinjiamian2extYCH
+	rotate: false
+	xy: 0, 447
+	size: 50, 44
+	orig: 50, 44
+	offset: 0, 0
+	index: -1
+d-youxiaobi_tianxinjiamian2extYCH
+	rotate: false
+	xy: 87, 149
+	size: 38, 55
+	orig: 38, 55
+	offset: 0, 0
+	index: -1
+e-fa2_tianxinjiamian2extYCH
+	rotate: false
+	xy: 0, 266
+	size: 59, 43
+	orig: 59, 43
+	offset: 0, 0
+	index: -1
+d-zuoshou_tianxinjiamian2extYCH
+	rotate: false
+	xy: 52, 378
+	size: 33, 45
+	orig: 33, 47
+	offset: 0, 1
+	index: -1
+e-youshou2_tianxinjiamian2extYCH
+	rotate: false
+	xy: 77, 480
+	size: 25, 25
+	orig: 25, 25
+	offset: 0, 0
+	index: -1
+e-zuodabi_tianxinjiamian2extYCH
+	rotate: true
+	xy: 87, 88
+	size: 60, 41
+	orig: 60, 41
+	offset: 0, 0
+	index: -1
+e-zuoshou_tianxinjiamian2extYCH
+	rotate: false
+	xy: 83, 425
+	size: 44, 28
+	orig: 44, 28
+	offset: 0, 0
+	index: -1
+c-zuoshou_tianxinjiamian2extYCH
+	rotate: true
+	xy: 86, 348
+	size: 44, 37
+	orig: 44, 37
+	offset: 0, 0
+	index: -1
+e-zuomei_tianxinjiamian2extYCH
+	rotate: true
+	xy: 118, 393
+	size: 25, 7
+	orig: 25, 7
+	offset: 0, 0
+	index: -1
+d-youdabi_tianxinjiamian2extYCH
+	rotate: true
+	xy: 0, 398
+	size: 48, 50
+	orig: 48, 50
+	offset: 0, 0
+	index: -1
+e-zuobiyan_tianxin2extyanYCH
+	rotate: false
+	xy: 103, 493
+	size: 21, 11
+	orig: 21, 11
+	offset: 0, 0
+	index: -1
+e-zuoxaiotui_tianxinjiamian2extYCH
+	rotate: false
+	xy: 59, 322
+	size: 26, 55
+	orig: 26, 55
+	offset: 0, 0
+	index: -1
+e-youbiyan_tianxin2extyanYCH
+	rotate: false
+	xy: 66, 185
+	size: 18, 14
+	orig: 18, 14
+	offset: 0, 0
+	index: -1
+e-fa3_tianxinjiamian2extYCH
+	rotate: true
+	xy: 0, 492
+	size: 15, 27
+	orig: 15, 27
+	offset: 0, 0
+	index: -1
+d-zuodabi_tianxinjiamian2extYCH
+	rotate: true
+	xy: 86, 294
+	size: 53, 37
+	orig: 53, 37
+	offset: 0, 0
+	index: -1
+c-zuoxiaobi_tianxinjiamian2extYCH
+	rotate: false
+	xy: 87, 205
+	size: 38, 33
+	orig: 38, 33
+	offset: 0, 0
+	index: -1
+e-shen_tianxinjiamian2extYCH
+	rotate: true
+	xy: 0, 0
+	size: 87, 127
+	orig: 87, 127
+	offset: 0, 0
+	index: -1
+e-youdatui_tianxinjiamian2extYCH
+	rotate: true
+	xy: 0, 310
+	size: 32, 58
+	orig: 32, 58
+	offset: 0, 0
+	index: -1
+e-zui_tianxinjiamian2extYCH
+	rotate: false
+	xy: 66, 169
+	size: 18, 15
+	orig: 18, 15
+	offset: 0, 0
+	index: -1
+e-youxiaotui_tianxinjiamian2extYCH
+	rotate: true
+	xy: 0, 169
+	size: 30, 65
+	orig: 30, 67
+	offset: 0, 2
+	index: -1
+d-zuoxiaobi_tianxinjiamian2extYCH
+	rotate: false
+	xy: 60, 267
+	size: 25, 54
+	orig: 25, 54
+	offset: 0, 0
+	index: -1

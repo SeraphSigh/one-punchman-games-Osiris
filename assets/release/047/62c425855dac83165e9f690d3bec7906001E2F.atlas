@@ -1,0 +1,420 @@
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0001
+	rotate: true
+	xy: 639, 329
+	size: 98, 27
+	orig: 280, 73
+	offset: 89, 18
+	index: -1
+global/a_global_pangxieguai_yanquan14
+	rotate: true
+	xy: 327, 110
+	size: 121, 31
+	orig: 215, 53
+	offset: 52, 15
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0009
+	rotate: false
+	xy: 840, 0
+	size: 184, 63
+	orig: 280, 73
+	offset: 46, 7
+	index: -1
+global/a_global_pangxieguai_yanquan18
+	rotate: false
+	xy: 601, 567
+	size: 211, 49
+	orig: 215, 53
+	offset: 2, 3
+	index: -1
+global/a_global_pangxieguai_yanquan19
+	rotate: false
+	xy: 601, 221
+	size: 211, 51
+	orig: 215, 53
+	offset: 2, 1
+	index: -1
+global/a_global_texiao34_shenhaiwang_0010
+	rotate: false
+	xy: 836, 891
+	size: 188, 63
+	orig: 280, 73
+	offset: 43, 7
+	index: -1
+global/a_global_pangxieguai_yanquan20
+	rotate: false
+	xy: 601, 515
+	size: 211, 51
+	orig: 215, 53
+	offset: 2, 1
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0005
+	rotate: false
+	xy: 846, 78
+	size: 178, 59
+	orig: 280, 73
+	offset: 49, 9
+	index: -1
+global/a_global_pangxieguai_yanquan24
+	rotate: true
+	xy: 540, 216
+	size: 215, 43
+	orig: 215, 53
+	offset: 0, 0
+	index: -1
+global/a_global_pangxieguai_yanquan21
+	rotate: true
+	xy: 484, 519
+	size: 213, 53
+	orig: 215, 53
+	offset: 0, 0
+	index: -1
+global/a_global_pangxieguai_yanquan23
+	rotate: true
+	xy: 538, 519
+	size: 213, 45
+	orig: 215, 53
+	offset: 0, 0
+	index: -1
+global/a_global_pangxieguai_yanquan22
+	rotate: true
+	xy: 518, 733
+	size: 213, 53
+	orig: 215, 53
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0007
+	rotate: false
+	xy: 370, 519
+	size: 182, 61
+	orig: 280, 73
+	offset: 47, 8
+	index: -1
+global/a_global_pangxieguai_yanquan16
+	rotate: false
+	xy: 0, 557
+	size: 183, 43
+	orig: 215, 53
+	offset: 19, 8
+	index: -1
+global/a_global_pangxieguai_yanquan17
+	rotate: false
+	xy: 400, 259
+	size: 193, 45
+	orig: 215, 53
+	offset: 13, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0011
+	rotate: false
+	xy: 799, 224
+	size: 190, 65
+	orig: 280, 73
+	offset: 42, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0012
+	rotate: false
+	xy: 400, 305
+	size: 192, 65
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0013
+	rotate: false
+	xy: 799, 290
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0014
+	rotate: false
+	xy: 593, 319
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 5
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_yanquan15
+	rotate: true
+	xy: 664, 225
+	size: 155, 37
+	orig: 215, 53
+	offset: 35, 11
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0003
+	rotate: false
+	xy: 276, 251
+	size: 156, 53
+	orig: 280, 73
+	offset: 59, 11
+	index: -1
+global/a_global_texiao34_shenhaiwang_0002
+	rotate: false
+	xy: 889, 238
+	size: 126, 47
+	orig: 280, 73
+	offset: 71, 12
+	index: -1
+global/a_global_didiwang_Light_Decal
+	rotate: false
+	xy: 139, 687
+	size: 125, 127
+	orig: 125, 127
+	offset: 0, 0
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON8.png
+size: 955,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwUR_zhuanhuoDOWN_019
+	rotate: true
+	xy: 829, 726
+	size: 149, 84
+	orig: 197, 154
+	offset: 24, 16
+	index: -1
+common/ddwUR_zhuanhuoDOWN_011
+	rotate: false
+	xy: 670, 880
+	size: 141, 124
+	orig: 197, 154
+	offset: 28, 16
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON1.png
+size: 1024,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwUR_zhuanhuoDOWN_023
+	rotate: true
+	xy: 445, 447
+	size: 137, 66
+	orig: 197, 154
+	offset: 31, 16
+	index: -1
+common/ddwUR_zhuanhuoDOWN_022
+	rotate: true
+	xy: 0, 885
+	size: 137, 74
+	orig: 197, 154
+	offset: 31, 16
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON2.png
+size: 1023,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwUR_zhuanhuoDOWN_021
+	rotate: false
+	xy: 525, 956
+	size: 145, 68
+	orig: 197, 154
+	offset: 24, 16
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwUR_zhuanhuoDOWN_012
+	rotate: true
+	xy: 780, 801
+	size: 141, 112
+	orig: 197, 154
+	offset: 29, 16
+	index: -1
+common/ddwUR_zhuanhuoDOWN_020
+	rotate: false
+	xy: 613, 948
+	size: 145, 76
+	orig: 197, 154
+	offset: 25, 16
+	index: -1
+common/ddwUR_zhuanhuoDOWN_024
+	rotate: false
+	xy: 759, 947
+	size: 135, 76
+	orig: 197, 154
+	offset: 33, 16
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwUR_zhuanhuoDOWN_014
+	rotate: false
+	xy: 467, 635
+	size: 143, 110
+	orig: 197, 154
+	offset: 27, 16
+	index: -1
+common/ddwUR_zhuanhuoDOWN_015
+	rotate: false
+	xy: 753, 635
+	size: 143, 108
+	orig: 197, 154
+	offset: 26, 16
+	index: -1
+common/ddwUR_zhuanhuoDOWN_013
+	rotate: false
+	xy: 611, 635
+	size: 141, 112
+	orig: 197, 154
+	offset: 29, 16
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwUR_zhuanhuoDOWN_018
+	rotate: false
+	xy: 506, 506
+	size: 149, 84
+	orig: 197, 154
+	offset: 25, 22
+	index: -1
+common/ddwUR_zhuanhuoDOWN_017
+	rotate: false
+	xy: 0, 495
+	size: 149, 96
+	orig: 197, 154
+	offset: 25, 17
+	index: -1
+common/ddwUR_zhuanhuoDOWN_025
+	rotate: false
+	xy: 889, 932
+	size: 131, 84
+	orig: 197, 154
+	offset: 36, 17
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwUR_shenhouhuo_019
+	rotate: false
+	xy: 0, 413
+	size: 297, 150
+	orig: 297, 296
+	offset: 0, 0
+	index: -1
+common/ddwUR_shenhouhuo_017
+	rotate: false
+	xy: 298, 370
+	size: 297, 150
+	orig: 297, 296
+	offset: 0, 0
+	index: -1
+common/ddwUR_shenhouhuo_015
+	rotate: false
+	xy: 0, 262
+	size: 297, 150
+	orig: 297, 296
+	offset: 0, 0
+	index: -1
+common/ddwUR_shenhouhuo_013
+	rotate: false
+	xy: 702, 362
+	size: 297, 150
+	orig: 297, 296
+	offset: 0, 0
+	index: -1
+common/ddwUR_shenhouhuo_011
+	rotate: false
+	xy: 371, 219
+	size: 297, 150
+	orig: 297, 296
+	offset: 0, 0
+	index: -1
+common/ddwUR_zhuanhuoDOWN_016
+	rotate: true
+	xy: 596, 533
+	size: 147, 102
+	orig: 197, 154
+	offset: 25, 16
+	index: -1
+common/ddwUR_shenhouhuo_023
+	rotate: false
+	xy: 0, 564
+	size: 297, 150
+	orig: 297, 296
+	offset: 0, 0
+	index: -1
+common/ddwUR_shenhouhuo_021
+	rotate: false
+	xy: 298, 521
+	size: 297, 150
+	orig: 297, 296
+	offset: 0, 0
+	index: -1
+common/ddwUR_shenhouhuo_009
+	rotate: false
+	xy: 716, 211
+	size: 297, 150
+	orig: 297, 296
+	offset: 0, 0
+	index: -1
+common/ddwUR_zhuanhuoDOWN_026
+	rotate: true
+	xy: 612, 681
+	size: 123, 88
+	orig: 197, 154
+	offset: 43, 17
+	index: -1

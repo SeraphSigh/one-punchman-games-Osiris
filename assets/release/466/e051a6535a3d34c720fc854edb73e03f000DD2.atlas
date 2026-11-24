@@ -1,0 +1,197 @@
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_02
+	rotate: false
+	xy: 526, 860
+	size: 203, 163
+	orig: 255, 183
+	offset: 8, 11
+	index: -1
+global/a_global_quanbaodian_03
+	rotate: false
+	xy: 306, 860
+	size: 219, 163
+	orig: 255, 183
+	offset: 7, 10
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_04
+	rotate: false
+	xy: 617, 780
+	size: 195, 139
+	orig: 255, 183
+	offset: 38, 10
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_01
+	rotate: false
+	xy: 784, 534
+	size: 179, 147
+	orig: 255, 183
+	offset: 29, 12
+	index: -1
+global/a_global_quanbaodian_05
+	rotate: false
+	xy: 814, 0
+	size: 195, 129
+	orig: 255, 183
+	offset: 46, 16
+	index: -1
+global/a_global_quanbaodian_06
+	rotate: false
+	xy: 204, 73
+	size: 201, 137
+	orig: 255, 183
+	offset: 46, 16
+	index: -1
+
+asset/anim/hamujiSEATTACK0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/hamuj_atk_quan2_00030
+	rotate: true
+	xy: 326, 339
+	size: 162, 54
+	orig: 400, 180
+	offset: 220, 35
+	index: -1
+attack/hamuj_atk_quan2_00024
+	rotate: false
+	xy: 0, 0
+	size: 378, 80
+	orig: 400, 180
+	offset: 5, 82
+	index: -1
+attack/hamuj_atk_quan2_00025
+	rotate: false
+	xy: 0, 81
+	size: 374, 146
+	orig: 400, 180
+	offset: 9, 15
+	index: -1
+attack/hamuj_atk_quan2_00026
+	rotate: true
+	xy: 379, 0
+	size: 338, 128
+	orig: 400, 180
+	offset: 45, 15
+	index: -1
+attack/hamuj_atk_quan2_00028
+	rotate: false
+	xy: 153, 228
+	size: 206, 108
+	orig: 400, 180
+	offset: 177, 27
+	index: -1
+attack/hamuj_atk_quan2_00029
+	rotate: true
+	xy: 223, 339
+	size: 168, 102
+	orig: 400, 180
+	offset: 215, 30
+	index: -1
+attack/hamuji_atk_quanying_00024
+	rotate: true
+	xy: 481, 339
+	size: 99, 25
+	orig: 387, 143
+	offset: 270, 33
+	index: -1
+attack/hamuj_atk_quan2_00023
+	rotate: true
+	xy: 82, 228
+	size: 280, 70
+	orig: 400, 180
+	offset: 6, 93
+	index: -1
+attack/hamuji_atk_quanying_00022
+	rotate: true
+	xy: 0, 228
+	size: 283, 81
+	orig: 387, 143
+	offset: 86, 23
+	index: -1
+attack/hamuji_atk_quanying_00023
+	rotate: true
+	xy: 153, 339
+	size: 169, 69
+	orig: 387, 143
+	offset: 200, 26
+	index: -1
+attack/hamuji_atk_quanying_00017
+	rotate: false
+	xy: 381, 339
+	size: 99, 53
+	orig: 387, 143
+	offset: 18, 55
+	index: -1
+
+asset/anim/hamujiSEATTACK1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/hamuj_atk_quan2_00027
+	rotate: true
+	xy: 0, 220
+	size: 276, 114
+	orig: 400, 180
+	offset: 107, 22
+	index: -1
+attack/hamuji_atk_quanying_00020
+	rotate: true
+	xy: 352, 0
+	size: 349, 115
+	orig: 387, 143
+	offset: 20, 10
+	index: -1
+attack/hamuji_atk_quanying_00021
+	rotate: false
+	xy: 0, 116
+	size: 337, 103
+	orig: 387, 143
+	offset: 32, 11
+	index: -1
+attack/hamuji_atk_quanying_00019
+	rotate: false
+	xy: 0, 0
+	size: 351, 115
+	orig: 387, 143
+	offset: 18, 10
+	index: -1
+attack/hamuji_atk_quanying_00018
+	rotate: false
+	xy: 115, 350
+	size: 333, 83
+	orig: 387, 143
+	offset: 17, 36
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_00
+	rotate: false
+	xy: 889, 457
+	size: 125, 99
+	orig: 255, 183
+	offset: 53, 31
+	index: -1

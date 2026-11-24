@@ -1,0 +1,27 @@
+
+asset/anim/wanshengjiezhandouchangjing0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wanshengjiepaotu_buliao
+	rotate: false
+	xy: 245, 0
+	size: 253, 52
+	orig: 253, 52
+	offset: 0, 0
+	index: -1
+wanshengjiepaotu_qi1
+	rotate: true
+	xy: 0, 298
+	size: 210, 41
+	orig: 210, 41
+	offset: 0, 0
+	index: -1
+wanshengjiepaotu_qi2
+	rotate: true
+	xy: 118, 351
+	size: 157, 34
+	orig: 157, 34
+	offset: 0, 0
+	index: -1

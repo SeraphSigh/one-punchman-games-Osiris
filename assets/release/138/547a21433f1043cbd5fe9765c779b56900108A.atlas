@@ -1,0 +1,225 @@
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_xuliyanquan_19
+	rotate: false
+	xy: 180, 147
+	size: 156, 103
+	orig: 162, 111
+	offset: 1, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao_tanhuanghuzi_109
+	rotate: false
+	xy: 893, 991
+	size: 57, 32
+	orig: 95, 58
+	offset: 1, 9
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao_tanhuanghuzi_125
+	rotate: false
+	xy: 673, 804
+	size: 53, 54
+	orig: 95, 58
+	offset: 42, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_xuliyanquan_17
+	rotate: false
+	xy: 834, 926
+	size: 122, 97
+	orig: 162, 111
+	offset: 8, 0
+	index: -1
+global/a_global_dujiaoxian_xuliyanquan_16
+	rotate: false
+	xy: 159, 779
+	size: 158, 95
+	orig: 162, 111
+	offset: 4, 0
+	index: -1
+global/a_global_dujiaoxian_xuliyanquan_20
+	rotate: false
+	xy: 340, 288
+	size: 160, 107
+	orig: 162, 111
+	offset: 2, 3
+	index: -1
+global/a_global_dujiaoxian_xuliyanquan_21
+	rotate: false
+	xy: 501, 288
+	size: 160, 107
+	orig: 162, 111
+	offset: 2, 3
+	index: -1
+global/a_global_texiao_tanhuanghuzi_110
+	rotate: true
+	xy: 116, 787
+	size: 75, 42
+	orig: 95, 58
+	offset: 1, 7
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_xuliyanquan_18
+	rotate: false
+	xy: 735, 137
+	size: 134, 101
+	orig: 162, 111
+	offset: 3, 0
+	index: -1
+global/a_global_dujiaoxian_xuliyanquan_23
+	rotate: true
+	xy: 781, 546
+	size: 118, 107
+	orig: 162, 111
+	offset: 44, 3
+	index: -1
+global/a_global_texiao_tanhuanghuzi_114
+	rotate: true
+	xy: 855, 830
+	size: 91, 56
+	orig: 95, 58
+	offset: 0, 2
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao_tanhuanghuzi_120
+	rotate: true
+	xy: 833, 302
+	size: 79, 58
+	orig: 95, 58
+	offset: 16, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_121
+	rotate: true
+	xy: 377, 707
+	size: 77, 58
+	orig: 95, 58
+	offset: 18, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_122
+	rotate: false
+	xy: 843, 677
+	size: 57, 58
+	orig: 95, 58
+	offset: 38, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_124
+	rotate: true
+	xy: 81, 821
+	size: 55, 56
+	orig: 95, 58
+	offset: 40, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_126
+	rotate: true
+	xy: 813, 825
+	size: 51, 54
+	orig: 95, 58
+	offset: 44, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_127
+	rotate: false
+	xy: 848, 736
+	size: 51, 48
+	orig: 95, 58
+	offset: 44, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_123
+	rotate: true
+	xy: 901, 677
+	size: 57, 58
+	orig: 95, 58
+	offset: 38, 0
+	index: -1
+global/a_global_dujiaoxian_xuliyanquan_22
+	rotate: false
+	xy: 0, 366
+	size: 108, 105
+	orig: 162, 111
+	offset: 54, 4
+	index: -1
+global/a_global_texiao_tanhuanghuzi_119
+	rotate: true
+	xy: 838, 222
+	size: 79, 58
+	orig: 95, 58
+	offset: 15, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_118
+	rotate: true
+	xy: 327, 785
+	size: 91, 56
+	orig: 95, 58
+	offset: 3, 2
+	index: -1
+global/a_global_texiao_tanhuanghuzi_115
+	rotate: true
+	xy: 213, 785
+	size: 91, 56
+	orig: 95, 58
+	offset: 1, 2
+	index: -1
+global/a_global_texiao_tanhuanghuzi_117
+	rotate: true
+	xy: 639, 389
+	size: 89, 56
+	orig: 95, 58
+	offset: 4, 2
+	index: -1
+global/a_global_texiao_tanhuanghuzi_116
+	rotate: true
+	xy: 270, 785
+	size: 91, 56
+	orig: 95, 58
+	offset: 2, 2
+	index: -1
+global/a_global_texiao_tanhuanghuzi_111
+	rotate: true
+	xy: 533, 405
+	size: 91, 52
+	orig: 95, 58
+	offset: 0, 5
+	index: -1
+global/a_global_texiao_tanhuanghuzi_113
+	rotate: false
+	xy: 110, 311
+	size: 91, 54
+	orig: 95, 58
+	offset: 0, 4
+	index: -1
+global/a_global_texiao_tanhuanghuzi_112
+	rotate: true
+	xy: 586, 405
+	size: 91, 52
+	orig: 95, 58
+	offset: 0, 5
+	index: -1

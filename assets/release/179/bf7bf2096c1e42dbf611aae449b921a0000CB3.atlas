@@ -1,0 +1,216 @@
+
+asset/anim/xiaozhu.png
+size: 498,802
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Reyeball_xiaozhu
+	rotate: true
+	xy: 454, 752
+	size: 35, 44
+	orig: 35, 44
+	offset: 0, 0
+	index: -1
+a_Ljiemao_xiaozhu
+	rotate: false
+	xy: 175, 386
+	size: 20, 26
+	orig: 20, 26
+	offset: 0, 0
+	index: -1
+a_Reye_xiaozhu
+	rotate: true
+	xy: 335, 555
+	size: 56, 60
+	orig: 56, 60
+	offset: 0, 0
+	index: -1
+a_Lleg_xiaozhu
+	rotate: true
+	xy: 396, 67
+	size: 95, 99
+	orig: 95, 99
+	offset: 0, 0
+	index: -1
+a_Larm2_xiaozhu
+	rotate: true
+	xy: 333, 482
+	size: 72, 62
+	orig: 72, 62
+	offset: 0, 0
+	index: -1
+a_Rear_xiaozhuzhu
+	rotate: true
+	xy: 0, 715
+	size: 87, 85
+	orig: 87, 85
+	offset: 0, 0
+	index: -1
+a_Lfoot_xiaozhu
+	rotate: true
+	xy: 180, 715
+	size: 82, 78
+	orig: 82, 78
+	offset: 0, 0
+	index: -1
+a_Rarm2_xiaozhu
+	rotate: false
+	xy: 417, 577
+	size: 74, 64
+	orig: 74, 64
+	offset: 0, 0
+	index: -1
+a_Larm_xiaozhu
+	rotate: true
+	xy: 342, 612
+	size: 89, 74
+	orig: 89, 74
+	offset: 0, 0
+	index: -1
+a_Leye_xiaozhu
+	rotate: false
+	xy: 282, 545
+	size: 49, 57
+	orig: 49, 57
+	offset: 0, 0
+	index: -1
+a_body_xiaozhu
+	rotate: false
+	xy: 0, 0
+	size: 395, 385
+	orig: 395, 385
+	offset: 0, 0
+	index: -1
+a_head_xiaozhu
+	rotate: false
+	xy: 0, 419
+	size: 281, 295
+	orig: 281, 295
+	offset: 0, 0
+	index: -1
+a_Rfoot_xiaozhu
+	rotate: true
+	xy: 259, 715
+	size: 82, 75
+	orig: 82, 75
+	offset: 0, 0
+	index: -1
+a_Lear_xiaozhuzhu
+	rotate: false
+	xy: 396, 498
+	size: 89, 78
+	orig: 89, 78
+	offset: 0, 0
+	index: -1
+a_nose_xiaozhu
+	rotate: true
+	xy: 282, 386
+	size: 66, 51
+	orig: 66, 51
+	offset: 0, 0
+	index: -1
+a_mouth_xiaozhu
+	rotate: true
+	xy: 282, 453
+	size: 91, 50
+	orig: 91, 50
+	offset: 0, 0
+	index: -1
+a_Leyeball_xiaozhu
+	rotate: true
+	xy: 0, 386
+	size: 32, 43
+	orig: 32, 43
+	offset: 0, 0
+	index: -1
+a_Ryanpi_xiaozhuzhu2
+	rotate: false
+	xy: 72, 386
+	size: 57, 29
+	orig: 57, 29
+	offset: 0, 0
+	index: -1
+a_Rear2_xiaozhuzhu
+	rotate: false
+	xy: 282, 603
+	size: 45, 41
+	orig: 45, 41
+	offset: 0, 0
+	index: -1
+a_Ryanpi_xiaozhu
+	rotate: false
+	xy: 417, 697
+	size: 57, 54
+	orig: 57, 54
+	offset: 0, 0
+	index: -1
+a_Rhand_xiaozhu
+	rotate: true
+	xy: 335, 714
+	size: 77, 61
+	orig: 77, 61
+	offset: 0, 0
+	index: -1
+a_Lleg2_xiaozhu
+	rotate: true
+	xy: 396, 163
+	size: 64, 99
+	orig: 64, 99
+	offset: 0, 0
+	index: -1
+a_nose2_xiaozhu
+	rotate: false
+	xy: 396, 0
+	size: 102, 66
+	orig: 102, 66
+	offset: 0, 0
+	index: -1
+a_Rleg_xiaozhu
+	rotate: false
+	xy: 396, 228
+	size: 97, 111
+	orig: 97, 111
+	offset: 0, 0
+	index: -1
+a_Rleg2_xiaozhu
+	rotate: false
+	xy: 335, 386
+	size: 60, 95
+	orig: 60, 95
+	offset: 0, 0
+	index: -1
+a_Lyanpi_xiaozhuzhu3
+	rotate: false
+	xy: 130, 386
+	size: 44, 28
+	orig: 44, 28
+	offset: 0, 0
+	index: -1
+a_Lear2_xiaozhuzhu
+	rotate: false
+	xy: 417, 642
+	size: 62, 54
+	orig: 62, 54
+	offset: 0, 0
+	index: -1
+a_Rarm_xiaozhu
+	rotate: false
+	xy: 396, 419
+	size: 91, 78
+	orig: 91, 78
+	offset: 0, 0
+	index: -1
+a_Lhand_xiaozhu
+	rotate: true
+	xy: 282, 645
+	size: 68, 59
+	orig: 68, 59
+	offset: 0, 0
+	index: -1
+a_Rjiemao_xiaozhu
+	rotate: false
+	xy: 44, 386
+	size: 27, 30
+	orig: 27, 30
+	offset: 0, 0
+	index: -1

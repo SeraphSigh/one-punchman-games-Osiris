@@ -1,0 +1,331 @@
+
+asset/anim/haojie2SECOMMON0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/haojie2_gy_diyan1_013
+	rotate: true
+	xy: 1487, 1485
+	size: 203, 91
+	orig: 383, 155
+	offset: 64, 12
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/haojie2SEATTACK0.png
+size: 933,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/haojie2_attack_putong1_010
+	rotate: true
+	xy: 0, 484
+	size: 215, 249
+	orig: 299, 273
+	offset: 65, 23
+	index: -1
+attack/haojie2_attack_putong1_011
+	rotate: true
+	xy: 0, 828
+	size: 163, 133
+	orig: 299, 273
+	offset: 120, 118
+	index: -1
+attack/haojie2_attack_putong1_012
+	rotate: true
+	xy: 134, 828
+	size: 163, 121
+	orig: 299, 273
+	offset: 121, 118
+	index: -1
+attack/haojie2_attack_putong1_013
+	rotate: true
+	xy: 250, 518
+	size: 157, 119
+	orig: 299, 273
+	offset: 123, 119
+	index: -1
+attack/haojie2_attack_add_09
+	rotate: true
+	xy: 384, 884
+	size: 133, 125
+	orig: 155, 137
+	offset: 19, 4
+	index: -1
+attack/haojie2_attack_add_08
+	rotate: true
+	xy: 256, 884
+	size: 133, 127
+	orig: 155, 137
+	offset: 19, 4
+	index: -1
+attack/haojie2_attack_add_05
+	rotate: true
+	xy: 806, 276
+	size: 147, 127
+	orig: 155, 137
+	offset: 5, 4
+	index: -1
+attack/haojie2_attack_add_04
+	rotate: true
+	xy: 806, 424
+	size: 145, 127
+	orig: 155, 137
+	offset: 4, 4
+	index: -1
+attack/haojie2_attack_add_07
+	rotate: false
+	xy: 138, 700
+	size: 137, 127
+	orig: 155, 137
+	offset: 15, 4
+	index: -1
+attack/haojie2_attack_add_06
+	rotate: false
+	xy: 0, 700
+	size: 137, 127
+	orig: 155, 137
+	offset: 15, 4
+	index: -1
+attack/haojie2_attack_add_01
+	rotate: true
+	xy: 808, 0
+	size: 141, 125
+	orig: 155, 137
+	offset: 7, 4
+	index: -1
+attack/haojie2_attack_add_03
+	rotate: false
+	xy: 788, 700
+	size: 141, 127
+	orig: 155, 137
+	offset: 8, 4
+	index: -1
+attack/haojie2_attack_add_02
+	rotate: false
+	xy: 788, 570
+	size: 141, 129
+	orig: 155, 137
+	offset: 7, 3
+	index: -1
+attack/haojie2_attack_putong1_08
+	rotate: true
+	xy: 536, 514
+	size: 237, 251
+	orig: 299, 273
+	offset: 48, 21
+	index: -1
+attack/haojie2_attack_putong1_09
+	rotate: true
+	xy: 0, 264
+	size: 219, 249
+	orig: 299, 273
+	offset: 64, 23
+	index: -1
+attack/haojie2_attack_add_015
+	rotate: true
+	xy: 756, 876
+	size: 131, 121
+	orig: 155, 137
+	offset: 18, 9
+	index: -1
+attack/haojie2_attack_putong1_07
+	rotate: true
+	xy: 540, 250
+	size: 263, 265
+	orig: 299, 273
+	offset: 20, 7
+	index: -1
+attack/haojie2_attack_putong1_04
+	rotate: true
+	xy: 270, 0
+	size: 255, 269
+	orig: 299, 273
+	offset: 14, 2
+	index: -1
+attack/haojie2_attack_putong1_05
+	rotate: true
+	xy: 0, 0
+	size: 263, 269
+	orig: 299, 273
+	offset: 14, 2
+	index: -1
+attack/haojie2_attack_add_011
+	rotate: true
+	xy: 510, 884
+	size: 133, 123
+	orig: 155, 137
+	offset: 19, 6
+	index: -1
+attack/haojie2_attack_add_010
+	rotate: true
+	xy: 808, 142
+	size: 133, 125
+	orig: 155, 137
+	offset: 19, 5
+	index: -1
+attack/haojie2_attack_add_013
+	rotate: true
+	xy: 634, 876
+	size: 133, 121
+	orig: 155, 137
+	offset: 18, 8
+	index: -1
+attack/haojie2_attack_putong1_01
+	rotate: true
+	xy: 370, 518
+	size: 113, 75
+	orig: 299, 273
+	offset: 7, 12
+	index: -1
+attack/haojie2_attack_putong1_06
+	rotate: true
+	xy: 270, 256
+	size: 261, 265
+	orig: 299, 273
+	offset: 20, 7
+	index: -1
+attack/haojie2_attack_add_014
+	rotate: true
+	xy: 512, 752
+	size: 131, 121
+	orig: 155, 137
+	offset: 18, 8
+	index: -1
+attack/haojie2_attack_putong1_02
+	rotate: true
+	xy: 276, 676
+	size: 207, 235
+	orig: 299, 273
+	offset: 13, 2
+	index: -1
+attack/haojie2_attack_putong1_03
+	rotate: true
+	xy: 540, 0
+	size: 249, 267
+	orig: 299, 273
+	offset: 14, 3
+	index: -1
+attack/haojie2_attack_add_012
+	rotate: false
+	xy: 634, 752
+	size: 133, 123
+	orig: 155, 137
+	offset: 19, 6
+	index: -1
+
+asset/anim/haojie2SECOMMON2.png
+size: 1910,2046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/haojie2_gy_diyan1_01
+	rotate: true
+	xy: 1777, 1286
+	size: 215, 103
+	orig: 383, 155
+	offset: 148, 13
+	index: -1
+
+asset/anim/haojie2SECOMMON1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/haojie2_gy_diyan1_010
+	rotate: true
+	xy: 1828, 840
+	size: 295, 97
+	orig: 383, 155
+	offset: 34, 7
+	index: -1
+common/haojie2_gy_diyan1_011
+	rotate: false
+	xy: 1319, 1763
+	size: 297, 97
+	orig: 383, 155
+	offset: 34, 7
+	index: -1
+common/haojie2_gy_diyan1_012
+	rotate: true
+	xy: 1946, 1463
+	size: 269, 95
+	orig: 383, 155
+	offset: 58, 10
+	index: -1
+common/haojie2_gy_diyan1_014
+	rotate: true
+	xy: 1953, 1733
+	size: 193, 81
+	orig: 383, 155
+	offset: 64, 22
+	index: -1
+common/haojie2_gy_diyan1_06
+	rotate: false
+	xy: 1331, 256
+	size: 359, 123
+	orig: 383, 155
+	offset: 12, 7
+	index: -1
+common/haojie2_gy_diyan1_07
+	rotate: true
+	xy: 1925, 348
+	size: 337, 95
+	orig: 383, 155
+	offset: 17, 7
+	index: -1
+common/haojie2_gy_diyan1_04
+	rotate: false
+	xy: 0, 1060
+	size: 349, 129
+	orig: 383, 155
+	offset: 17, 7
+	index: -1
+common/haojie2_gy_diyan1_05
+	rotate: false
+	xy: 1322, 380
+	size: 353, 127
+	orig: 383, 155
+	offset: 16, 7
+	index: -1
+common/haojie2_gy_diyan1_02
+	rotate: true
+	xy: 1597, 508
+	size: 341, 123
+	orig: 383, 155
+	offset: 30, 8
+	index: -1
+common/haojie2_gy_diyan1_03
+	rotate: true
+	xy: 224, 1190
+	size: 337, 125
+	orig: 383, 155
+	offset: 32, 9
+	index: -1
+common/haojie2_gy_diyan1_08
+	rotate: false
+	xy: 701, 1712
+	size: 309, 97
+	orig: 383, 155
+	offset: 31, 7
+	index: -1
+common/haojie2_gy_diyan1_09
+	rotate: false
+	xy: 1011, 1752
+	size: 307, 97
+	orig: 383, 155
+	offset: 33, 7
+	index: -1

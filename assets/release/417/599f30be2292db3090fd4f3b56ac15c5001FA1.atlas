@@ -1,0 +1,482 @@
+
+asset/anim/dajiongyan21.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2b_meimao_lansexiaoguaiA
+	rotate: false
+	xy: 358, 422
+	size: 72, 90
+	orig: 72, 90
+	offset: 0, 0
+	index: -1
+DJY2b_weiba_lansexiaoguaiA
+	rotate: false
+	xy: 370, 234
+	size: 141, 72
+	orig: 141, 72
+	offset: 0, 0
+	index: -1
+DJY2g_weiba_lansexiaoguaiA
+	rotate: true
+	xy: 0, 334
+	size: 160, 47
+	orig: 160, 47
+	offset: 0, 0
+	index: -1
+DJY2e_zuoxiaobi_lansexiaoguaiA
+	rotate: false
+	xy: 173, 470
+	size: 55, 42
+	orig: 55, 42
+	offset: 0, 0
+	index: -1
+DJY2g_shenti_lansexiaoguaiA
+	rotate: false
+	xy: 151, 324
+	size: 124, 145
+	orig: 124, 145
+	offset: 0, 0
+	index: -1
+DJY2b_shenti_lansexiaoguaiA
+	rotate: false
+	xy: 143, 167
+	size: 107, 150
+	orig: 107, 150
+	offset: 0, 0
+	index: -1
+DJY2d_shenti_lansexiaoguaiA
+	rotate: true
+	xy: 370, 307
+	size: 114, 139
+	orig: 114, 139
+	offset: 0, 0
+	index: -1
+DJY2f_shenti_lansexiaoguaiA
+	rotate: true
+	xy: 370, 119
+	size: 114, 141
+	orig: 114, 141
+	offset: 0, 0
+	index: -1
+DJY2b_zuoshou_lansexiaoguaiA
+	rotate: false
+	xy: 229, 470
+	size: 49, 42
+	orig: 49, 42
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan20.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2c_youxiaobi_lansexiaoguaiA
+	rotate: true
+	xy: 244, 374
+	size: 60, 31
+	orig: 60, 31
+	offset: 0, 0
+	index: -1
+DJY2d_zuoxiaobi_lansexiaoguaiA
+	rotate: true
+	xy: 244, 311
+	size: 62, 31
+	orig: 62, 31
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan23.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2b_youshou_lansexiaoguaiA
+	rotate: false
+	xy: 470, 156
+	size: 42, 34
+	orig: 42, 34
+	offset: 0, 0
+	index: -1
+DJY2e_dabi_lansexiaoguaiA
+	rotate: false
+	xy: 214, 0
+	size: 85, 43
+	orig: 85, 43
+	offset: 0, 0
+	index: -1
+DJY2e_youdatui_lansexiaoguaiA
+	rotate: true
+	xy: 403, 169
+	size: 68, 66
+	orig: 68, 66
+	offset: 0, 0
+	index: -1
+DJY2b_zuoxiaobi_lansexiaoguaiA
+	rotate: false
+	xy: 470, 83
+	size: 42, 36
+	orig: 42, 36
+	offset: 0, 0
+	index: -1
+DJY2e_tou_lansexiaoguaiA
+	rotate: false
+	xy: 403, 0
+	size: 66, 85
+	orig: 66, 85
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan22.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2e_shenti_lansexiaoguaiA
+	rotate: true
+	xy: 140, 0
+	size: 113, 138
+	orig: 113, 138
+	offset: 0, 0
+	index: -1
+DJY2c_shenti_lansexiaoguaiA
+	rotate: true
+	xy: 0, 224
+	size: 124, 131
+	orig: 124, 131
+	offset: 0, 0
+	index: -1
+DJY2a_shenti_lansexiaoguaiA
+	rotate: true
+	xy: 0, 113
+	size: 110, 137
+	orig: 110, 137
+	offset: 0, 0
+	index: -1
+DJY2e_youjiao_lansexiaoguaiA
+	rotate: true
+	xy: 480, 402
+	size: 59, 32
+	orig: 59, 32
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan25.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2d_youdabi_lansexiaoguaiA
+	rotate: false
+	xy: 232, 288
+	size: 50, 67
+	orig: 50, 67
+	offset: 0, 0
+	index: -1
+DJY2e_youxiaotui_lansexiaoguaiA
+	rotate: true
+	xy: 408, 124
+	size: 44, 60
+	orig: 44, 60
+	offset: 0, 0
+	index: -1
+DJY2c_zuoxiaobi_lansexiaoguaiA
+	rotate: true
+	xy: 322, 137
+	size: 64, 28
+	orig: 64, 28
+	offset: 0, 0
+	index: -1
+DJY2a_zuoxiaobi_lansexiaoguaiA
+	rotate: true
+	xy: 469, 309
+	size: 53, 41
+	orig: 53, 41
+	offset: 0, 0
+	index: -1
+DJY2d_zuoshou_lansexiaoguaiA
+	rotate: true
+	xy: 387, 412
+	size: 46, 25
+	orig: 46, 25
+	offset: 0, 0
+	index: -1
+DJY2e_zuoxiaotui_lansexiaoguaiA
+	rotate: false
+	xy: 346, 362
+	size: 59, 49
+	orig: 59, 49
+	offset: 0, 0
+	index: -1
+DJY2f_youxiaobi_lansexiaoguaiA
+	rotate: true
+	xy: 374, 0
+	size: 62, 47
+	orig: 62, 47
+	offset: 0, 0
+	index: -1
+DJY2e_xiaobi_lansexiaoguaiA
+	rotate: false
+	xy: 325, 273
+	size: 35, 62
+	orig: 35, 62
+	offset: 0, 0
+	index: -1
+DJY2d_youxiaobi_lansexiaoguaiA
+	rotate: true
+	xy: 210, 436
+	size: 68, 35
+	orig: 68, 35
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan24.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2b_youdabi_lansexiaoguaiA
+	rotate: false
+	xy: 286, 454
+	size: 67, 58
+	orig: 67, 58
+	offset: 0, 0
+	index: -1
+DJY2b_youxiaotui_lansexiaoguaiA
+	rotate: false
+	xy: 62, 464
+	size: 52, 48
+	orig: 52, 48
+	offset: 0, 0
+	index: -1
+DJY2c_tou_lansexiaoguaiA
+	rotate: true
+	xy: 354, 451
+	size: 61, 77
+	orig: 61, 77
+	offset: 0, 0
+	index: -1
+DJY2e_zuodatui_lansexiaoguaiA
+	rotate: false
+	xy: 344, 188
+	size: 69, 67
+	orig: 69, 67
+	offset: 0, 0
+	index: -1
+DJY2f_youdabi_lansexiaoguaiA
+	rotate: false
+	xy: 79, 93
+	size: 58, 89
+	orig: 58, 89
+	offset: 0, 0
+	index: -1
+DJY2c_youdabi_lansexiaoguaiA
+	rotate: true
+	xy: 205, 263
+	size: 84, 46
+	orig: 84, 46
+	offset: 0, 0
+	index: -1
+DJY2c_zuodabi_lansexiaoguaiA
+	rotate: true
+	xy: 215, 371
+	size: 84, 39
+	orig: 84, 39
+	offset: 0, 0
+	index: -1
+DJY2b_zuodabi_lansexiaoguaiA
+	rotate: true
+	xy: 366, 94
+	size: 59, 66
+	orig: 59, 66
+	offset: 0, 0
+	index: -1
+DJY2e_zuodabi_lansexiaoguaiA
+	rotate: false
+	xy: 313, 81
+	size: 52, 72
+	orig: 52, 72
+	offset: 0, 0
+	index: -1
+DJY2d_youdatui_lansexiaoguaiA
+	rotate: false
+	xy: 423, 391
+	size: 51, 59
+	orig: 51, 59
+	offset: 0, 0
+	index: -1
+DJY2a_zuodatui_lansexiaoguaiA
+	rotate: false
+	xy: 366, 48
+	size: 65, 45
+	orig: 65, 45
+	offset: 0, 0
+	index: -1
+DJY2a_youxiaobi_lansexiaoguaiA
+	rotate: false
+	xy: 475, 391
+	size: 34, 59
+	orig: 34, 59
+	offset: 0, 0
+	index: -1
+DJY2a_youdabi_lansexiaoguaiA
+	rotate: false
+	xy: 115, 463
+	size: 85, 49
+	orig: 85, 49
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan26.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2a_youjiao_lansexiaoguaiA
+	rotate: false
+	xy: 309, 210
+	size: 33, 37
+	orig: 33, 37
+	offset: 0, 0
+	index: -1
+DJY2b_youdatui_lansexiaoguaiA
+	rotate: true
+	xy: 45, 178
+	size: 54, 50
+	orig: 54, 50
+	offset: 0, 0
+	index: -1
+DJY2e_zuojiao_lansexiaoguaiA
+	rotate: true
+	xy: 0, 355
+	size: 58, 34
+	orig: 58, 34
+	offset: 0, 0
+	index: -1
+DJY2a_youshou_lansexiaoguaiA
+	rotate: true
+	xy: 130, 106
+	size: 47, 38
+	orig: 47, 38
+	offset: 0, 0
+	index: -1
+DJY2c_youshou_lansexiaoguaiA
+	rotate: true
+	xy: 345, 77
+	size: 37, 27
+	orig: 37, 27
+	offset: 0, 0
+	index: -1
+DJY2d_youxiaotui_lansexiaoguaiA
+	rotate: false
+	xy: 35, 296
+	size: 50, 56
+	orig: 50, 56
+	offset: 0, 0
+	index: -1
+DJY2d_youjiao_lansexiaoguaiA
+	rotate: true
+	xy: 289, 40
+	size: 38, 33
+	orig: 38, 33
+	offset: 0, 0
+	index: -1
+DJY2a_zuojiao_lansexiaoguaiA
+	rotate: true
+	xy: 188, 453
+	size: 49, 28
+	orig: 49, 28
+	offset: 0, 0
+	index: -1
+DJY2a_youdatui_lansexiaoguaiA
+	rotate: false
+	xy: 35, 353
+	size: 46, 52
+	orig: 46, 52
+	offset: 0, 0
+	index: -1
+DJY2a_zuodabi_lansexiaoguaiA
+	rotate: true
+	xy: 40, 0
+	size: 58, 49
+	orig: 58, 49
+	offset: 0, 0
+	index: -1
+DJY2a_zuoshou_lansexiaoguaiA
+	rotate: true
+	xy: 130, 201
+	size: 45, 35
+	orig: 45, 35
+	offset: 0, 0
+	index: -1
+DJY2f_youshou_lansexiaoguaiA
+	rotate: false
+	xy: 271, 398
+	size: 37, 44
+	orig: 37, 44
+	offset: 0, 0
+	index: -1
+DJY2d_youshou_lansexiaoguaiA
+	rotate: true
+	xy: 154, 403
+	size: 49, 35
+	orig: 49, 35
+	offset: 0, 0
+	index: -1
+DJY2b_youxiaobi_lansexiaoguaiA
+	rotate: false
+	xy: 169, 100
+	size: 44, 46
+	orig: 44, 46
+	offset: 0, 0
+	index: -1
+DJY2e_youshou_lansexiaoguaiA
+	rotate: false
+	xy: 193, 278
+	size: 44, 44
+	orig: 44, 44
+	offset: 0, 0
+	index: -1
+DJY2b_youjiao_lansexiaoguaiA
+	rotate: true
+	xy: 288, 172
+	size: 37, 34
+	orig: 37, 34
+	offset: 0, 0
+	index: -1
+DJY2a_youxiaotui_lansexiaoguaiA
+	rotate: true
+	xy: 54, 472
+	size: 40, 53
+	orig: 40, 53
+	offset: 0, 0
+	index: -1
+DJY2a_zuoxiaotui_lansexiaoguaiA
+	rotate: false
+	xy: 90, 0
+	size: 31, 53
+	orig: 31, 53
+	offset: 0, 0
+	index: -1
+DJY2e_zuoshou_lansexiaoguaiA
+	rotate: false
+	xy: 357, 38
+	size: 36, 36
+	orig: 36, 36
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1

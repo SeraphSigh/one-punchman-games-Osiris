@@ -1,0 +1,87 @@
+
+asset/anim/dajiongyanmunaiyiSETarget0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+i_Rwing_dajiongyan_munaiyi
+	rotate: true
+	xy: 323, 374
+	size: 76, 56
+	orig: 76, 56
+	offset: 0, 0
+	index: -1
+i_headarm3_dajiongyan_munaiyi
+	rotate: true
+	xy: 248, 176
+	size: 18, 56
+	orig: 18, 56
+	offset: 0, 0
+	index: -1
+i_headarm2_dajiongyan_munaiyi
+	rotate: false
+	xy: 489, 198
+	size: 22, 58
+	orig: 22, 58
+	offset: 0, 0
+	index: -1
+i_head_dajiongyan_munaiyi
+	rotate: true
+	xy: 297, 304
+	size: 69, 70
+	orig: 69, 70
+	offset: 0, 0
+	index: -1
+i_Lwing_dajiongyan_munaiyi
+	rotate: false
+	xy: 349, 451
+	size: 34, 61
+	orig: 34, 61
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyanmunaiyiSETarget1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+i_headarm1_dajiongyan_munaiyi
+	rotate: false
+	xy: 163, 52
+	size: 20, 51
+	orig: 20, 51
+	offset: 0, 0
+	index: -1
+i_headarm4_dajiongyan_munaiyi
+	rotate: false
+	xy: 209, 188
+	size: 29, 45
+	orig: 29, 45
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaojiongyantu
+	rotate: false
+	xy: 0, 376
+	size: 128, 128
+	orig: 128, 128
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+djy_tanhao
+	rotate: false
+	xy: 343, 327
+	size: 20, 46
+	orig: 20, 46
+	offset: 0, 0
+	index: -1

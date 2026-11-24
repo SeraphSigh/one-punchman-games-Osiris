@@ -1,0 +1,40 @@
+
+asset/anim/maikesiSE2.png
+size: 1000,1019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sdmks_ss_000
+	rotate: true
+	xy: 509, 666
+	size: 82, 96
+	orig: 160, 160
+	offset: 40, 30
+	index: -1
+sdmks_ss_002
+	rotate: false
+	xy: 531, 837
+	size: 68, 90
+	orig: 160, 160
+	offset: 35, 23
+	index: -1
+
+asset/anim/maikesiSE3.png
+size: 779,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sdmks_ss_001
+	rotate: false
+	xy: 430, 0
+	size: 66, 68
+	orig: 160, 160
+	offset: 48, 25
+	index: -1
+sdmks_ss_003
+	rotate: true
+	xy: 701, 0
+	size: 58, 78
+	orig: 160, 160
+	offset: 33, 27
+	index: -1

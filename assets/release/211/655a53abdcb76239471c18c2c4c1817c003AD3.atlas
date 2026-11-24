@@ -1,0 +1,1011 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+
+asset/anim/tulong1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e_Rforearm_tulong
+	rotate: true
+	xy: 239, 423
+	size: 30, 32
+	orig: 30, 32
+	offset: 0, 0
+	index: -1
+k_Lhand3_tulong
+	rotate: false
+	xy: 262, 400
+	size: 17, 22
+	orig: 17, 22
+	offset: 0, 0
+	index: -1
+b_Lhand1_tulong
+	rotate: true
+	xy: 42, 386
+	size: 28, 19
+	orig: 28, 19
+	offset: 0, 0
+	index: -1
+f_Lhand1_tulong
+	rotate: true
+	xy: 62, 340
+	size: 43, 44
+	orig: 43, 44
+	offset: 0, 0
+	index: -1
+f_head_tulong
+	rotate: true
+	xy: 107, 216
+	size: 78, 97
+	orig: 78, 97
+	offset: 0, 0
+	index: -1
+k_Lhand6_tulong
+	rotate: false
+	xy: 478, 499
+	size: 17, 12
+	orig: 17, 12
+	offset: 0, 0
+	index: -1
+j_Rarm_tulong
+	rotate: false
+	xy: 62, 384
+	size: 44, 38
+	orig: 44, 38
+	offset: 0, 0
+	index: -1
+k_Rhand6_tulong
+	rotate: false
+	xy: 198, 499
+	size: 20, 13
+	orig: 20, 13
+	offset: 0, 0
+	index: -1
+a_Rhand6_tulong
+	rotate: true
+	xy: 168, 500
+	size: 12, 29
+	orig: 12, 29
+	offset: 0, 0
+	index: -1
+a_Rthigh_tulong
+	rotate: true
+	xy: 168, 423
+	size: 30, 36
+	orig: 30, 36
+	offset: 0, 0
+	index: -1
+g_Lhand_tulong
+	rotate: true
+	xy: 263, 307
+	size: 45, 48
+	orig: 45, 48
+	offset: 0, 0
+	index: -1
+k_Lhand11_tulong
+	rotate: true
+	xy: 443, 424
+	size: 30, 18
+	orig: 30, 18
+	offset: 0, 0
+	index: -1
+b_Larm_tulong
+	rotate: true
+	xy: 107, 396
+	size: 26, 37
+	orig: 26, 37
+	offset: 0, 0
+	index: -1
+k_Rhand4_tulong
+	rotate: false
+	xy: 219, 499
+	size: 18, 13
+	orig: 18, 13
+	offset: 0, 0
+	index: -1
+b_Rforearm_tulong
+	rotate: false
+	xy: 478, 463
+	size: 29, 35
+	orig: 29, 35
+	offset: 0, 0
+	index: -1
+e_Rhand_tulong
+	rotate: false
+	xy: 263, 353
+	size: 48, 42
+	orig: 48, 42
+	offset: 0, 0
+	index: -1
+a_Lfoot_tulong
+	rotate: false
+	xy: 455, 344
+	size: 54, 29
+	orig: 54, 29
+	offset: 0, 0
+	index: -1
+a_Rhand3_tulong
+	rotate: true
+	xy: 235, 407
+	size: 15, 20
+	orig: 15, 20
+	offset: 0, 0
+	index: -1
+a_eye1_tulong
+	rotate: true
+	xy: 168, 455
+	size: 44, 20
+	orig: 44, 20
+	offset: 0, 0
+	index: -1
+k_Lhand7_tulong
+	rotate: false
+	xy: 403, 455
+	size: 17, 20
+	orig: 17, 20
+	offset: 0, 0
+	index: -1
+a_Lforearm_tulong
+	rotate: false
+	xy: 272, 424
+	size: 25, 30
+	orig: 25, 30
+	offset: 0, 0
+	index: -1
+b_Lhand2_tulong
+	rotate: false
+	xy: 149, 366
+	size: 46, 39
+	orig: 46, 39
+	offset: 0, 0
+	index: -1
+h_Rarm_tulong
+	rotate: false
+	xy: 394, 386
+	size: 50, 29
+	orig: 50, 29
+	offset: 0, 0
+	index: -1
+k_Lhand9_tulong
+	rotate: false
+	xy: 459, 455
+	size: 17, 19
+	orig: 17, 19
+	offset: 0, 0
+	index: -1
+k_Rhand10_tulong
+	rotate: false
+	xy: 440, 455
+	size: 18, 19
+	orig: 18, 19
+	offset: 0, 0
+	index: -1
+h_head_tulong
+	rotate: false
+	xy: 205, 226
+	size: 106, 80
+	orig: 106, 80
+	offset: 0, 0
+	index: -1
+c_Rhand_tulong
+	rotate: true
+	xy: 312, 339
+	size: 34, 59
+	orig: 34, 59
+	offset: 0, 0
+	index: -1
+a_Rhand1_tulong
+	rotate: true
+	xy: 169, 406
+	size: 16, 23
+	orig: 16, 23
+	offset: 0, 0
+	index: -1
+a_Larm_tulong
+	rotate: true
+	xy: 196, 370
+	size: 29, 39
+	orig: 29, 39
+	offset: 0, 0
+	index: -1
+a_Lhand8_tulong
+	rotate: true
+	xy: 134, 501
+	size: 11, 16
+	orig: 11, 16
+	offset: 0, 0
+	index: -1
+a_Rhand9_tulong
+	rotate: true
+	xy: 238, 499
+	size: 13, 16
+	orig: 13, 16
+	offset: 0, 0
+	index: -1
+k_Rhand9_tulong
+	rotate: true
+	xy: 112, 423
+	size: 31, 29
+	orig: 31, 29
+	offset: 0, 0
+	index: -1
+a_Lhand10_tulong
+	rotate: false
+	xy: 462, 424
+	size: 14, 14
+	orig: 14, 14
+	offset: 0, 0
+	index: -1
+j_Lhand3_tulong
+	rotate: false
+	xy: 445, 475
+	size: 32, 37
+	orig: 32, 37
+	offset: 0, 0
+	index: -1
+a_Rfoot_tulong
+	rotate: false
+	xy: 394, 351
+	size: 58, 34
+	orig: 58, 34
+	offset: 0, 0
+	index: -1
+j_Lhand2_tulong
+	rotate: false
+	xy: 0, 340
+	size: 61, 45
+	orig: 61, 45
+	offset: 0, 0
+	index: -1
+k_Lhand5_tulong
+	rotate: false
+	xy: 386, 455
+	size: 16, 22
+	orig: 16, 22
+	offset: 0, 0
+	index: -1
+a_eye3_tulong
+	rotate: true
+	xy: 147, 455
+	size: 45, 20
+	orig: 45, 20
+	offset: 0, 0
+	index: -1
+k_Rhand7_tulong
+	rotate: false
+	xy: 145, 406
+	size: 23, 16
+	orig: 23, 16
+	offset: 0, 0
+	index: -1
+a_Lhand9_tulong
+	rotate: true
+	xy: 394, 254
+	size: 15, 10
+	orig: 15, 10
+	offset: 0, 0
+	index: -1
+c_body_b_tulong
+	rotate: true
+	xy: 202, 339
+	size: 30, 60
+	orig: 30, 60
+	offset: 0, 0
+	index: -1
+a_Rarm_tulong
+	rotate: false
+	xy: 324, 400
+	size: 40, 41
+	orig: 40, 41
+	offset: 0, 0
+	index: -1
+a_Lhand11_tulong
+	rotate: false
+	xy: 298, 424
+	size: 25, 30
+	orig: 25, 30
+	offset: 0, 0
+	index: -1
+a_Lhige_tulong
+	rotate: true
+	xy: 365, 453
+	size: 25, 20
+	orig: 25, 20
+	offset: 0, 0
+	index: -1
+e_Lforearm_tulong
+	rotate: false
+	xy: 280, 396
+	size: 30, 27
+	orig: 30, 27
+	offset: 0, 0
+	index: -1
+g_Rarm_tulong
+	rotate: false
+	xy: 0, 423
+	size: 41, 31
+	orig: 41, 31
+	offset: 0, 0
+	index: -1
+k_Rarm_tulong
+	rotate: false
+	xy: 112, 455
+	size: 34, 45
+	orig: 34, 45
+	offset: 0, 0
+	index: -1
+k_Rhand3_tulong
+	rotate: true
+	xy: 302, 455
+	size: 22, 17
+	orig: 22, 17
+	offset: 0, 0
+	index: -1
+g_Larm_tulong
+	rotate: true
+	xy: 0, 386
+	size: 36, 41
+	orig: 36, 41
+	offset: 0, 0
+	index: -1
+k_Lforearm_tulong
+	rotate: false
+	xy: 365, 423
+	size: 28, 29
+	orig: 28, 29
+	offset: 0, 0
+	index: -1
+i_Rarm_tulong
+	rotate: true
+	xy: 189, 455
+	size: 43, 35
+	orig: 43, 35
+	offset: 0, 0
+	index: -1
+j_Rforearm_tulong
+	rotate: true
+	xy: 302, 479
+	size: 33, 36
+	orig: 33, 36
+	offset: 0, 0
+	index: -1
+a_Rhand11_tulong
+	rotate: true
+	xy: 205, 423
+	size: 30, 33
+	orig: 30, 33
+	offset: 0, 0
+	index: -1
+a_Lhand2_tulong
+	rotate: false
+	xy: 421, 455
+	size: 18, 19
+	orig: 18, 19
+	offset: 0, 0
+	index: -1
+i_body_tulong
+	rotate: true
+	xy: 0, 216
+	size: 86, 106
+	orig: 86, 106
+	offset: 0, 0
+	index: -1
+a_Lthigh_tulong
+	rotate: false
+	xy: 373, 479
+	size: 32, 33
+	orig: 32, 33
+	offset: 0, 0
+	index: -1
+h_Rhand_tulong
+	rotate: false
+	xy: 71, 455
+	size: 40, 47
+	orig: 40, 47
+	offset: 0, 0
+	index: -1
+b_Lforearm_tulong
+	rotate: true
+	xy: 142, 423
+	size: 31, 25
+	orig: 31, 25
+	offset: 0, 0
+	index: -1
+j_Larm_tulong
+	rotate: false
+	xy: 365, 380
+	size: 28, 42
+	orig: 28, 42
+	offset: 0, 0
+	index: -1
+g_Rforearm_tulong
+	rotate: false
+	xy: 42, 423
+	size: 39, 31
+	orig: 39, 31
+	offset: 0, 0
+	index: -1
+f_Lforearm_tulong
+	rotate: true
+	xy: 82, 423
+	size: 31, 29
+	orig: 31, 29
+	offset: 0, 0
+	index: -1
+e_Lhand2_tulong
+	rotate: true
+	xy: 36, 455
+	size: 48, 34
+	orig: 48, 34
+	offset: 0, 0
+	index: -1
+a_head_tulong
+	rotate: true
+	xy: 107, 295
+	size: 70, 94
+	orig: 70, 94
+	offset: 0, 0
+	index: -1
+paotutulong_12
+	rotate: false
+	xy: 206, 117
+	size: 198, 108
+	orig: 198, 108
+	offset: 0, 0
+	index: -1
+paotutulong_13
+	rotate: false
+	xy: 0, 0
+	size: 207, 111
+	orig: 207, 111
+	offset: 0, 0
+	index: -1
+b_Rarm_tulong
+	rotate: true
+	xy: 477, 424
+	size: 38, 35
+	orig: 38, 35
+	offset: 0, 0
+	index: -1
+f_Rforearm_tulong
+	rotate: true
+	xy: 278, 455
+	size: 42, 23
+	orig: 42, 23
+	offset: 0, 0
+	index: -1
+a_eye4_tulong
+	rotate: false
+	xy: 312, 374
+	size: 52, 25
+	orig: 52, 25
+	offset: 0, 0
+	index: -1
+k_Rhand8_tulong
+	rotate: true
+	xy: 311, 400
+	size: 20, 12
+	orig: 20, 12
+	offset: 0, 0
+	index: -1
+c_Rforearm_tulong
+	rotate: false
+	xy: 196, 400
+	size: 38, 22
+	orig: 38, 22
+	offset: 0, 0
+	index: -1
+paotutulong_03
+	rotate: false
+	xy: 0, 112
+	size: 205, 103
+	orig: 205, 103
+	offset: 0, 0
+	index: -1
+paotutulong_02
+	rotate: true
+	xy: 414, 0
+	size: 205, 97
+	orig: 205, 97
+	offset: 0, 0
+	index: -1
+paotutulong_07
+	rotate: false
+	xy: 208, 0
+	size: 205, 116
+	orig: 205, 116
+	offset: 0, 0
+	index: -1
+k_Rhand11_tulong
+	rotate: false
+	xy: 372, 350
+	size: 21, 14
+	orig: 21, 14
+	offset: 0, 0
+	index: -1
+c_Rarm_tulong
+	rotate: true
+	xy: 107, 366
+	size: 29, 41
+	orig: 29, 41
+	offset: 0, 0
+	index: -1
+f_Larm_tulong
+	rotate: false
+	xy: 406, 476
+	size: 38, 36
+	orig: 38, 36
+	offset: 0, 0
+	index: -1
+h_Larm_tulong
+	rotate: true
+	xy: 0, 455
+	size: 48, 35
+	orig: 48, 35
+	offset: 0, 0
+	index: -1
+e_Larm_tulong
+	rotate: false
+	xy: 236, 370
+	size: 25, 36
+	orig: 25, 36
+	offset: 0, 0
+	index: -1
+e_Rarm_tulong
+	rotate: false
+	xy: 394, 416
+	size: 48, 38
+	orig: 48, 38
+	offset: 0, 0
+	index: -1
+a_Lhand1_tulong
+	rotate: false
+	xy: 394, 226
+	size: 10, 27
+	orig: 10, 27
+	offset: 0, 0
+	index: -1
+a_eye2_tulong
+	rotate: true
+	xy: 373, 304
+	size: 45, 20
+	orig: 45, 20
+	offset: 0, 0
+	index: -1
+k_Lhand4_tulong
+	rotate: false
+	xy: 274, 498
+	size: 17, 14
+	orig: 17, 14
+	offset: 0, 0
+	index: -1
+a_soil2_tulong
+	rotate: false
+	xy: 0, 303
+	size: 105, 36
+	orig: 105, 36
+	offset: 0, 0
+	index: -1
+k_Rhand1_tulong
+	rotate: false
+	xy: 372, 365
+	size: 21, 14
+	orig: 21, 14
+	offset: 0, 0
+	index: -1
+k_Lhand10_tulong
+	rotate: false
+	xy: 496, 499
+	size: 16, 12
+	orig: 16, 12
+	offset: 0, 0
+	index: -1
+f_Rarm_tulong
+	rotate: false
+	xy: 324, 442
+	size: 40, 36
+	orig: 40, 36
+	offset: 0, 0
+	index: -1
+a_Lhand5_tulong
+	rotate: true
+	xy: 112, 501
+	size: 11, 21
+	orig: 11, 21
+	offset: 0, 0
+	index: -1
+i_Rhand_tulong
+	rotate: false
+	xy: 394, 301
+	size: 60, 49
+	orig: 60, 49
+	offset: 0, 0
+	index: -1
+i_body_b_tulong
+	rotate: true
+	xy: 202, 307
+	size: 31, 60
+	orig: 31, 60
+	offset: 0, 0
+	index: -1
+f_body_b_tulong
+	rotate: true
+	xy: 312, 304
+	size: 34, 60
+	orig: 34, 60
+	offset: 0, 0
+	index: -1
+c_body_tulong
+	rotate: true
+	xy: 405, 206
+	size: 94, 106
+	orig: 94, 106
+	offset: 0, 0
+	index: -1
+a_body_b_tulong
+	rotate: false
+	xy: 339, 479
+	size: 33, 33
+	orig: 33, 33
+	offset: 0, 0
+	index: -1
+gedang_tulong
+	rotate: true
+	xy: 312, 226
+	size: 77, 81
+	orig: 79, 81
+	offset: 0, 0
+	index: -1
+a_Lhand6_tulong
+	rotate: true
+	xy: 255, 498
+	size: 14, 18
+	orig: 14, 18
+	offset: 0, 0
+	index: -1
+j_Rhand1_tulong
+	rotate: false
+	xy: 453, 374
+	size: 52, 49
+	orig: 52, 49
+	offset: 0, 0
+	index: -1
+b_Rhand_tulong
+	rotate: false
+	xy: 455, 301
+	size: 55, 42
+	orig: 55, 42
+	offset: 0, 0
+	index: -1
+k_Larm_tulong
+	rotate: false
+	xy: 225, 455
+	size: 27, 43
+	orig: 27, 43
+	offset: 0, 0
+	index: -1
+k_Lhand8_tulong
+	rotate: true
+	xy: 462, 439
+	size: 15, 12
+	orig: 15, 12
+	offset: 0, 0
+	index: -1
+h_Lforearm_tulong
+	rotate: true
+	xy: 253, 455
+	size: 42, 24
+	orig: 42, 24
+	offset: 0, 0
+	index: -1
+
+asset/anim/tulong0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Rhand8_tulong
+	rotate: false
+	xy: 423, 343
+	size: 14, 27
+	orig: 14, 27
+	offset: 0, 0
+	index: -1
+a_Rhand10_tulong
+	rotate: false
+	xy: 497, 491
+	size: 15, 20
+	orig: 15, 20
+	offset: 0, 0
+	index: -1
+a_body_tulong
+	rotate: true
+	xy: 331, 436
+	size: 74, 106
+	orig: 74, 106
+	offset: 0, 0
+	index: -1
+f_body_tulong
+	rotate: true
+	xy: 115, 436
+	size: 75, 108
+	orig: 75, 108
+	offset: 0, 0
+	index: -1
+d_body_tulong
+	rotate: false
+	xy: 224, 436
+	size: 106, 74
+	orig: 106, 74
+	offset: 0, 0
+	index: -1
+g_Rhand_tulong
+	rotate: true
+	xy: 445, 0
+	size: 58, 66
+	orig: 58, 66
+	offset: 0, 0
+	index: -1
+a_Rhand4_tulong
+	rotate: false
+	xy: 433, 218
+	size: 11, 29
+	orig: 11, 29
+	offset: 0, 0
+	index: -1
+a_soil1_tulong
+	rotate: true
+	xy: 445, 59
+	size: 193, 62
+	orig: 193, 62
+	offset: 0, 0
+	index: -1
+k_Lhand1_tulong
+	rotate: true
+	xy: 423, 397
+	size: 21, 14
+	orig: 21, 14
+	offset: 0, 0
+	index: -1
+h_body_tulong
+	rotate: true
+	xy: 0, 436
+	size: 76, 114
+	orig: 76, 114
+	offset: 0, 0
+	index: -1
+e_Lhand1_tulong
+	rotate: true
+	xy: 423, 371
+	size: 25, 14
+	orig: 25, 14
+	offset: 0, 0
+	index: -1
+k_Rhand2_tulong
+	rotate: true
+	xy: 423, 419
+	size: 16, 14
+	orig: 16, 14
+	offset: 0, 0
+	index: -1
+c_head_tulong
+	rotate: false
+	xy: 438, 343
+	size: 73, 98
+	orig: 73, 98
+	offset: 0, 0
+	index: -1
+paotutulong_14
+	rotate: false
+	xy: 217, 218
+	size: 215, 111
+	orig: 215, 111
+	offset: 0, 0
+	index: -1
+paotutulong_08
+	rotate: false
+	xy: 0, 320
+	size: 214, 115
+	orig: 214, 115
+	offset: 0, 0
+	index: -1
+paotutulong_10
+	rotate: false
+	xy: 221, 114
+	size: 218, 103
+	orig: 218, 103
+	offset: 0, 0
+	index: -1
+paotutulong_11
+	rotate: false
+	xy: 0, 0
+	size: 222, 107
+	orig: 222, 107
+	offset: 0, 0
+	index: -1
+i_head_tulong
+	rotate: false
+	xy: 433, 253
+	size: 79, 89
+	orig: 79, 89
+	offset: 0, 0
+	index: -1
+paotutulong_06
+	rotate: false
+	xy: 223, 0
+	size: 221, 113
+	orig: 221, 113
+	offset: 0, 0
+	index: -1
+paotutulong_05
+	rotate: false
+	xy: 0, 211
+	size: 216, 108
+	orig: 216, 108
+	offset: 0, 0
+	index: -1
+paotutulong_04
+	rotate: false
+	xy: 215, 330
+	size: 207, 105
+	orig: 207, 105
+	offset: 0, 0
+	index: -1
+paotutulong_09
+	rotate: false
+	xy: 0, 108
+	size: 220, 102
+	orig: 220, 102
+	offset: 0, 0
+	index: -1
+a_Rhand5_tulong
+	rotate: false
+	xy: 497, 469
+	size: 15, 21
+	orig: 15, 21
+	offset: 0, 0
+	index: -1
+f_Rhand_tulong
+	rotate: true
+	xy: 438, 442
+	size: 62, 58
+	orig: 62, 58
+	offset: 0, 0
+	index: -1
+a_Lhand3_tulong
+	rotate: false
+	xy: 497, 442
+	size: 15, 26
+	orig: 15, 26
+	offset: 0, 0
+	index: -1
+
+asset/anim/tulong2.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k_Rforearm_tulong
+	rotate: true
+	xy: 42, 0
+	size: 36, 25
+	orig: 36, 25
+	offset: 0, 0
+	index: -1
+a_tail_tulong
+	rotate: true
+	xy: 68, 0
+	size: 36, 24
+	orig: 36, 24
+	offset: 0, 0
+	index: -1
+a_Rforearm_tulong
+	rotate: false
+	xy: 0, 42
+	size: 27, 41
+	orig: 27, 41
+	offset: 0, 0
+	index: -1
+j_Rhand3_tulong
+	rotate: false
+	xy: 0, 0
+	size: 41, 41
+	orig: 41, 41
+	offset: 0, 0
+	index: -1
+a_Lhand7_tulong
+	rotate: false
+	xy: 50, 74
+	size: 17, 17
+	orig: 17, 17
+	offset: 0, 0
+	index: -1
+d_tail_tulong
+	rotate: false
+	xy: 47, 37
+	size: 24, 36
+	orig: 24, 36
+	offset: 0, 0
+	index: -1
+a_Lhand4_tulong
+	rotate: false
+	xy: 50, 110
+	size: 15, 15
+	orig: 15, 15
+	offset: 0, 0
+	index: -1
+h_Rforearm_tulong
+	rotate: true
+	xy: 93, 25
+	size: 25, 29
+	orig: 25, 29
+	offset: 0, 0
+	index: -1
+a_Rhige_tulong
+	rotate: true
+	xy: 28, 42
+	size: 37, 18
+	orig: 37, 18
+	offset: 0, 0
+	index: -1
+j_Lforearm_tulong
+	rotate: true
+	xy: 93, 0
+	size: 24, 35
+	orig: 24, 35
+	offset: 0, 0
+	index: -1
+k_Lhand2_tulong
+	rotate: true
+	xy: 50, 92
+	size: 17, 15
+	orig: 17, 15
+	offset: 0, 0
+	index: -1
+a_Rhand7_tulong
+	rotate: true
+	xy: 72, 54
+	size: 15, 19
+	orig: 15, 19
+	offset: 0, 0
+	index: -1
+g_Lforearm_tulong
+	rotate: true
+	xy: 0, 84
+	size: 41, 24
+	orig: 41, 24
+	offset: 0, 0
+	index: -1
+a_Rhand2_tulong
+	rotate: true
+	xy: 72, 37
+	size: 16, 19
+	orig: 16, 19
+	offset: 0, 0
+	index: -1
+i_Rforearm_tulong
+	rotate: true
+	xy: 25, 84
+	size: 40, 24
+	orig: 40, 24
+	offset: 0, 0
+	index: -1
+k_Rhand5_tulong
+	rotate: false
+	xy: 92, 51
+	size: 24, 18
+	orig: 24, 18
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,250 @@
+
+asset/anim/linglingkapai1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youlingdang_linglingkp
+	rotate: true
+	xy: 94, 121
+	size: 57, 55
+	orig: 57, 55
+	offset: 0, 0
+	index: -1
+zuoxiaobi_linglingkp
+	rotate: false
+	xy: 0, 144
+	size: 93, 103
+	orig: 93, 103
+	offset: 0, 0
+	index: -1
+youbian1_linglingkp
+	rotate: false
+	xy: 90, 0
+	size: 58, 99
+	orig: 58, 99
+	offset: 0, 0
+	index: -1
+youbian2_linglingkp
+	rotate: true
+	xy: 150, 93
+	size: 52, 81
+	orig: 52, 81
+	offset: 0, 0
+	index: -1
+liuhai_linglingkp
+	rotate: false
+	xy: 149, 0
+	size: 93, 92
+	orig: 93, 92
+	offset: 0, 0
+	index: -1
+zuodabi_linglingkp
+	rotate: false
+	xy: 0, 0
+	size: 89, 143
+	orig: 89, 143
+	offset: 0, 0
+	index: -1
+zuoliuhai_linglingkp
+	rotate: true
+	xy: 90, 100
+	size: 20, 59
+	orig: 20, 59
+	offset: 0, 0
+	index: -1
+
+asset/anim/linglingkapai0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youdabi_linglingkp
+	rotate: true
+	xy: 441, 167
+	size: 102, 69
+	orig: 102, 69
+	offset: 0, 0
+	index: -1
+youxiaotui_linglingkp
+	rotate: false
+	xy: 219, 0
+	size: 109, 241
+	orig: 109, 241
+	offset: 0, 0
+	index: -1
+youyan2_linglingkp
+	rotate: false
+	xy: 289, 242
+	size: 36, 27
+	orig: 36, 27
+	offset: 0, 0
+	index: -1
+zuoxiaotui_linglingkp
+	rotate: false
+	xy: 0, 0
+	size: 107, 285
+	orig: 107, 285
+	offset: 0, 0
+	index: -1
+zuojiao_linglingkp
+	rotate: true
+	xy: 284, 442
+	size: 69, 130
+	orig: 69, 130
+	offset: 0, 0
+	index: -1
+tou_linglingkp
+	rotate: false
+	xy: 329, 167
+	size: 111, 113
+	orig: 111, 113
+	offset: 0, 0
+	index: -1
+youxiaobi_linglingkp
+	rotate: true
+	xy: 329, 86
+	size: 66, 73
+	orig: 66, 73
+	offset: 0, 0
+	index: -1
+weibo1_linglingkp
+	rotate: false
+	xy: 87, 464
+	size: 83, 48
+	orig: 83, 48
+	offset: 0, 0
+	index: -1
+zuolingdang_linglingkp
+	rotate: false
+	xy: 405, 385
+	size: 59, 55
+	orig: 59, 55
+	offset: 0, 0
+	index: -1
+lian_linglingkp
+	rotate: true
+	xy: 415, 281
+	size: 103, 94
+	orig: 103, 94
+	offset: 0, 0
+	index: -1
+zuoerzhui_linglingkp
+	rotate: false
+	xy: 486, 385
+	size: 20, 20
+	orig: 20, 20
+	offset: 0, 0
+	index: -1
+bo_linglingkp
+	rotate: false
+	xy: 108, 250
+	size: 38, 35
+	orig: 38, 35
+	offset: 0, 0
+	index: -1
+kua_linglingkp
+	rotate: false
+	xy: 154, 284
+	size: 127, 177
+	orig: 127, 177
+	offset: 0, 0
+	index: -1
+weibo2_linglingkp
+	rotate: false
+	xy: 329, 61
+	size: 74, 24
+	orig: 74, 24
+	offset: 0, 0
+	index: -1
+shen_linglingkp
+	rotate: false
+	xy: 282, 282
+	size: 122, 159
+	orig: 122, 159
+	offset: 0, 0
+	index: -1
+youdatui_linglingkp
+	rotate: false
+	xy: 108, 0
+	size: 110, 249
+	orig: 110, 249
+	offset: 0, 0
+	index: -1
+youshou_linglingkp
+	rotate: false
+	xy: 0, 464
+	size: 86, 48
+	orig: 86, 48
+	offset: 0, 0
+	index: -1
+yan_linglingkp
+	rotate: false
+	xy: 175, 250
+	size: 83, 30
+	orig: 83, 30
+	offset: 0, 0
+	index: -1
+zuoshou_linglingkp
+	rotate: false
+	xy: 329, 0
+	size: 74, 60
+	orig: 74, 60
+	offset: 0, 0
+	index: -1
+youjiao_linglingkp
+	rotate: true
+	xy: 405, 0
+	size: 101, 107
+	orig: 101, 107
+	offset: 0, 0
+	index: -1
+zuobian2_linglingkp
+	rotate: true
+	xy: 415, 441
+	size: 58, 88
+	orig: 58, 88
+	offset: 0, 0
+	index: -1
+houpian_linglingkp
+	rotate: false
+	xy: 171, 462
+	size: 62, 49
+	orig: 62, 49
+	offset: 0, 0
+	index: -1
+zuoyan2_linglingkp
+	rotate: true
+	xy: 259, 242
+	size: 39, 29
+	orig: 43, 31
+	offset: 2, 0
+	index: -1
+youliuhai_linglingkp
+	rotate: false
+	xy: 234, 462
+	size: 19, 49
+	orig: 19, 49
+	offset: 0, 0
+	index: -1
+youerzhui_linglingkp
+	rotate: false
+	xy: 465, 385
+	size: 20, 20
+	orig: 20, 20
+	offset: 0, 0
+	index: -1
+zuobian1_linglingkp
+	rotate: true
+	xy: 405, 102
+	size: 64, 106
+	orig: 64, 106
+	offset: 0, 0
+	index: -1
+zuodatui_linglingkp
+	rotate: true
+	xy: 0, 286
+	size: 177, 153
+	orig: 177, 153
+	offset: 0, 0
+	index: -1

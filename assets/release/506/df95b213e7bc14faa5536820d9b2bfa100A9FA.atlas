@@ -1,0 +1,2648 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishi_chunjie1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cc_neck_shanguangchunjie
+	rotate: true
+	xy: 818, 271
+	size: 71, 92
+	orig: 71, 92
+	offset: 0, 0
+	index: -1
+z_Lforearm_shanguangchunjie
+	rotate: true
+	xy: 513, 644
+	size: 43, 52
+	orig: 43, 52
+	offset: 0, 0
+	index: -1
+s_Lfoot_shanguangchunjie
+	rotate: true
+	xy: 868, 888
+	size: 47, 29
+	orig: 47, 29
+	offset: 0, 0
+	index: -1
+a_hair2_shanguangfulaishi
+	rotate: true
+	xy: 695, 275
+	size: 35, 93
+	orig: 35, 93
+	offset: 0, 0
+	index: -1
+m_Rfoot_shanguangchunjie
+	rotate: true
+	xy: 204, 972
+	size: 47, 27
+	orig: 47, 27
+	offset: 0, 0
+	index: -1
+s_neck_shanguangchunjie
+	rotate: false
+	xy: 979, 958
+	size: 35, 27
+	orig: 35, 27
+	offset: 0, 0
+	index: -1
+c_body_shanguangchunjie
+	rotate: true
+	xy: 437, 602
+	size: 74, 75
+	orig: 74, 75
+	offset: 0, 0
+	index: -1
+a_head2_shanguangfulaishi
+	rotate: true
+	xy: 567, 633
+	size: 68, 81
+	orig: 68, 81
+	offset: 0, 0
+	index: -1
+cc_head_shanguangfulaishi
+	rotate: true
+	xy: 155, 344
+	size: 67, 86
+	orig: 67, 86
+	offset: 0, 0
+	index: -1
+e_Rarm_shanguangchunjie
+	rotate: false
+	xy: 566, 732
+	size: 59, 36
+	orig: 59, 36
+	offset: 0, 0
+	index: -1
+a_Lhand1_shanguangchunjie
+	rotate: false
+	xy: 324, 986
+	size: 25, 25
+	orig: 25, 25
+	offset: 0, 0
+	index: -1
+o_Rforearm_shanguangchunjie
+	rotate: true
+	xy: 693, 774
+	size: 47, 55
+	orig: 47, 55
+	offset: 0, 0
+	index: -1
+dd_Larm_shanguangchunjie
+	rotate: true
+	xy: 788, 376
+	size: 76, 29
+	orig: 76, 29
+	offset: 0, 0
+	index: -1
+n_Lfoot_shanguangchunjie
+	rotate: true
+	xy: 232, 972
+	size: 46, 34
+	orig: 46, 34
+	offset: 0, 0
+	index: -1
+z_Rshin2_shanguangchunjie
+	rotate: true
+	xy: 437, 455
+	size: 78, 83
+	orig: 78, 83
+	offset: 0, 0
+	index: -1
+d_Rforearm2_shanguangchunjie
+	rotate: true
+	xy: 442, 44
+	size: 58, 124
+	orig: 58, 124
+	offset: 0, 0
+	index: -1
+e_Lthigh_shanguangchunjie
+	rotate: true
+	xy: 232, 584
+	size: 67, 62
+	orig: 67, 62
+	offset: 0, 0
+	index: -1
+f_Lhand_shanguangchunjie
+	rotate: false
+	xy: 47, 871
+	size: 30, 24
+	orig: 30, 24
+	offset: 0, 0
+	index: -1
+z_Rhand_shanguangchunjie
+	rotate: false
+	xy: 376, 834
+	size: 25, 25
+	orig: 25, 25
+	offset: 0, 0
+	index: -1
+n_body_shanguangchunjie
+	rotate: true
+	xy: 567, 557
+	size: 75, 81
+	orig: 75, 81
+	offset: 0, 0
+	index: -1
+cc_Lforearm_shanguangchunjie
+	rotate: false
+	xy: 415, 803
+	size: 56, 36
+	orig: 56, 36
+	offset: 0, 0
+	index: -1
+c_collar1_shanguangchunjie
+	rotate: false
+	xy: 910, 425
+	size: 90, 79
+	orig: 90, 79
+	offset: 0, 0
+	index: -1
+o_neck_shanguangchunjie
+	rotate: false
+	xy: 649, 686
+	size: 44, 51
+	orig: 44, 51
+	offset: 0, 0
+	index: -1
+cc_collar1_shanguangchunjie
+	rotate: true
+	xy: 379, 456
+	size: 78, 57
+	orig: 78, 57
+	offset: 0, 0
+	index: -1
+a_head1_shanguangfulaishi
+	rotate: true
+	xy: 695, 576
+	size: 68, 81
+	orig: 68, 81
+	offset: 0, 0
+	index: -1
+a_Lforearm4_shanguangchunjie
+	rotate: true
+	xy: 569, 0
+	size: 35, 126
+	orig: 35, 126
+	offset: 0, 0
+	index: -1
+m_Rthigh_shanguangchunjie
+	rotate: false
+	xy: 695, 500
+	size: 81, 75
+	orig: 81, 75
+	offset: 0, 0
+	index: -1
+q_Lshin_shanguangchunjie
+	rotate: false
+	xy: 539, 168
+	size: 27, 61
+	orig: 27, 61
+	offset: 0, 0
+	index: -1
+e_head_star_shanguangfulaishi
+	rotate: false
+	xy: 185, 810
+	size: 39, 31
+	orig: 39, 31
+	offset: 0, 0
+	index: -1
+cc_Lfoot_shanguangchunjie
+	rotate: true
+	xy: 188, 893
+	size: 23, 26
+	orig: 23, 26
+	offset: 0, 0
+	index: -1
+v_Rthigh_shanguangchunjie
+	rotate: false
+	xy: 911, 344
+	size: 91, 80
+	orig: 91, 80
+	offset: 0, 0
+	index: -1
+g_Lhand_shanguangchunjie
+	rotate: true
+	xy: 125, 810
+	size: 29, 27
+	orig: 29, 27
+	offset: 0, 0
+	index: -1
+s_body_shanguangchunjie
+	rotate: true
+	xy: 295, 493
+	size: 60, 83
+	orig: 60, 83
+	offset: 0, 0
+	index: -1
+n_Rthigh_shanguangchunjie
+	rotate: true
+	xy: 153, 559
+	size: 77, 78
+	orig: 77, 78
+	offset: 0, 0
+	index: -1
+e_Rforearm2_shanguangchunjie
+	rotate: false
+	xy: 0, 290
+	size: 110, 73
+	orig: 110, 73
+	offset: 0, 0
+	index: -1
+e_Rforearm_shanguangchunjie
+	rotate: false
+	xy: 242, 337
+	size: 53, 27
+	orig: 53, 27
+	offset: 0, 0
+	index: -1
+q_Lhand2_shanguangchunjie
+	rotate: false
+	xy: 450, 986
+	size: 23, 23
+	orig: 23, 23
+	offset: 0, 0
+	index: -1
+v_collar1_shanguangchunjie
+	rotate: false
+	xy: 230, 688
+	size: 63, 74
+	orig: 63, 74
+	offset: 0, 0
+	index: -1
+o_body_shanguangchunjie
+	rotate: true
+	xy: 295, 554
+	size: 67, 78
+	orig: 67, 78
+	offset: 0, 0
+	index: -1
+c_Lforearm2_shanguangchunjie
+	rotate: true
+	xy: 296, 129
+	size: 78, 122
+	orig: 78, 122
+	offset: 0, 0
+	index: -1
+e_Lhand_shanguangchunjie
+	rotate: true
+	xy: 98, 896
+	size: 29, 23
+	orig: 29, 23
+	offset: 0, 0
+	index: -1
+a_Lshin2_shanguangchunjie
+	rotate: true
+	xy: 155, 266
+	size: 77, 86
+	orig: 77, 86
+	offset: 0, 0
+	index: -1
+m_neck_shanguangchunjie
+	rotate: false
+	xy: 655, 429
+	size: 39, 47
+	orig: 39, 47
+	offset: 0, 0
+	index: -1
+j_Lhand_shanguangchunjie
+	rotate: false
+	xy: 293, 832
+	size: 30, 25
+	orig: 30, 25
+	offset: 0, 0
+	index: -1
+n_Rforearm_shanguangchunjie
+	rotate: true
+	xy: 693, 822
+	size: 46, 55
+	orig: 46, 55
+	offset: 0, 0
+	index: -1
+u_Lhand_shanguangchunjie
+	rotate: true
+	xy: 749, 808
+	size: 30, 26
+	orig: 30, 26
+	offset: 0, 0
+	index: -1
+cc_Larm_shanguangchunjie
+	rotate: true
+	xy: 227, 763
+	size: 47, 66
+	orig: 47, 66
+	offset: 0, 0
+	index: -1
+a_sword2_shanguangchunjie
+	rotate: true
+	xy: 1005, 335
+	size: 65, 14
+	orig: 65, 14
+	offset: 0, 0
+	index: -1
+a_Rthigh_shanguangchunjie
+	rotate: true
+	xy: 296, 343
+	size: 66, 85
+	orig: 66, 85
+	offset: 0, 0
+	index: -1
+o_body2_shanguangchunjie
+	rotate: true
+	xy: 0, 806
+	size: 31, 60
+	orig: 31, 60
+	offset: 0, 0
+	index: -1
+m_body2_shanguangchunjie
+	rotate: true
+	xy: 694, 711
+	size: 62, 81
+	orig: 62, 81
+	offset: 0, 0
+	index: -1
+n_Rforearm2_shanguangchunjie
+	rotate: true
+	xy: 155, 136
+	size: 82, 123
+	orig: 82, 123
+	offset: 0, 0
+	index: -1
+bb_Rforearm2_shanguangchunjie
+	rotate: true
+	xy: 0, 149
+	size: 60, 119
+	orig: 60, 119
+	offset: 0, 0
+	index: -1
+q_Rforearm_shanguangchunjie
+	rotate: true
+	xy: 269, 236
+	size: 57, 26
+	orig: 57, 26
+	offset: 0, 0
+	index: -1
+z_Lshin_shanguangchunjie
+	rotate: true
+	xy: 437, 778
+	size: 24, 59
+	orig: 24, 59
+	offset: 0, 0
+	index: -1
+e_Rthigh_shanguangchunjie
+	rotate: true
+	xy: 296, 208
+	size: 74, 90
+	orig: 74, 90
+	offset: 0, 0
+	index: -1
+o_belt1_shanguangchunjie
+	rotate: true
+	xy: 805, 39
+	size: 43, 16
+	orig: 43, 16
+	offset: 0, 0
+	index: -1
+n_Lhand_shanguangchunjie
+	rotate: false
+	xy: 183, 842
+	size: 29, 25
+	orig: 29, 25
+	offset: 0, 0
+	index: -1
+s_Rshin_shanguangchunjie
+	rotate: false
+	xy: 386, 320
+	size: 50, 54
+	orig: 50, 54
+	offset: 0, 0
+	index: -1
+m_collar1_shanguangchunjie
+	rotate: false
+	xy: 695, 195
+	size: 96, 79
+	orig: 96, 79
+	offset: 0, 0
+	index: -1
+d_Rarm_shanguangchunjie
+	rotate: false
+	xy: 777, 629
+	size: 40, 51
+	orig: 40, 51
+	offset: 0, 0
+	index: -1
+q_Rshin_shanguangchunjie
+	rotate: false
+	xy: 64, 791
+	size: 60, 35
+	orig: 60, 35
+	offset: 0, 0
+	index: -1
+e_sword2_shanguangchunjie
+	rotate: true
+	xy: 292, 986
+	size: 33, 31
+	orig: 33, 31
+	offset: 0, 0
+	index: -1
+a_Rforearm3_shanguangchunjie
+	rotate: true
+	xy: 695, 115
+	size: 79, 103
+	orig: 79, 103
+	offset: 0, 0
+	index: -1
+z_Lthigh_shanguangchunjie
+	rotate: true
+	xy: 296, 283
+	size: 59, 89
+	orig: 59, 89
+	offset: 0, 0
+	index: -1
+q_Lforearm_shanguangchunjie
+	rotate: true
+	xy: 672, 75
+	size: 57, 22
+	orig: 57, 22
+	offset: 0, 0
+	index: -1
+r_Rforearm2_shanguangchunjie
+	rotate: true
+	xy: 0, 109
+	size: 39, 127
+	orig: 39, 127
+	offset: 0, 0
+	index: -1
+n_Lshin_shanguangchunjie
+	rotate: true
+	xy: 979, 854
+	size: 35, 44
+	orig: 35, 44
+	offset: 0, 0
+	index: -1
+e_Lshin2_shanguangchunjie
+	rotate: true
+	xy: 295, 622
+	size: 74, 75
+	orig: 74, 75
+	offset: 0, 0
+	index: -1
+dd_Rhand1_shanguangchunjie
+	rotate: false
+	xy: 401, 986
+	size: 24, 24
+	orig: 24, 24
+	offset: 0, 0
+	index: -1
+l_Rhand1_shanguangchunjie
+	rotate: false
+	xy: 215, 896
+	size: 23, 26
+	orig: 23, 26
+	offset: 0, 0
+	index: -1
+p_neck_shanguangchunjie
+	rotate: false
+	xy: 527, 368
+	size: 39, 50
+	orig: 39, 50
+	offset: 0, 0
+	index: -1
+bb_Rforearm_shanguangchunjie
+	rotate: false
+	xy: 513, 726
+	size: 52, 29
+	orig: 52, 29
+	offset: 0, 0
+	index: -1
+cc_Rhand1_shanguangchunjie
+	rotate: false
+	xy: 50, 842
+	size: 28, 28
+	orig: 28, 28
+	offset: 0, 0
+	index: -1
+o_Rfoot_shanguangchunjie
+	rotate: true
+	xy: 979, 890
+	size: 39, 43
+	orig: 39, 43
+	offset: 0, 0
+	index: -1
+a_Learm_shanguangchunjie
+	rotate: true
+	xy: 0, 871
+	size: 48, 46
+	orig: 48, 46
+	offset: 0, 0
+	index: -1
+dd_Rforearm_shanguangchunjie
+	rotate: true
+	xy: 610, 870
+	size: 51, 37
+	orig: 51, 37
+	offset: 0, 0
+	index: -1
+dd_head_shanguangfulaishi
+	rotate: true
+	xy: 818, 628
+	size: 67, 81
+	orig: 67, 81
+	offset: 0, 0
+	index: -1
+n_Lthigh_shanguangchunjie
+	rotate: true
+	xy: 437, 328
+	size: 44, 89
+	orig: 44, 89
+	offset: 0, 0
+	index: -1
+q_Rhand_shanguangchunjie
+	rotate: false
+	xy: 251, 864
+	size: 31, 24
+	orig: 31, 24
+	offset: 0, 0
+	index: -1
+cc_Rshin_shanguangchunjie
+	rotate: false
+	xy: 792, 196
+	size: 25, 65
+	orig: 25, 65
+	offset: 0, 0
+	index: -1
+dd_Lforearm2_shanguangchunjie
+	rotate: true
+	xy: 442, 0
+	size: 43, 126
+	orig: 43, 126
+	offset: 0, 0
+	index: -1
+cc_Lshin_shanguangchunjie
+	rotate: false
+	xy: 777, 509
+	size: 40, 64
+	orig: 40, 64
+	offset: 0, 0
+	index: -1
+q_Rarm_shanguangchunjie
+	rotate: false
+	xy: 783, 453
+	size: 34, 55
+	orig: 34, 55
+	offset: 0, 0
+	index: -1
+a_Lforearm1_shanguangchunjie
+	rotate: true
+	xy: 387, 224
+	size: 48, 49
+	orig: 48, 49
+	offset: 0, 0
+	index: -1
+a_Lforearm2_shanguangchunjie
+	rotate: true
+	xy: 155, 94
+	size: 41, 124
+	orig: 41, 124
+	offset: 0, 0
+	index: -1
+q_Rfoot_shanguangchunjie
+	rotate: false
+	xy: 225, 811
+	size: 30, 30
+	orig: 30, 30
+	offset: 0, 0
+	index: -1
+t_Lhand_shanguangchunjie
+	rotate: false
+	xy: 1001, 476
+	size: 23, 35
+	orig: 23, 35
+	offset: 0, 0
+	index: -1
+a_Lshin1_shanguangchunjie
+	rotate: false
+	xy: 982, 613
+	size: 42, 58
+	orig: 42, 58
+	offset: 0, 0
+	index: -1
+a_Rshin2_shanguangchunjie
+	rotate: true
+	xy: 155, 412
+	size: 78, 84
+	orig: 78, 84
+	offset: 0, 0
+	index: -1
+s_Lshin_shanguangchunjie
+	rotate: false
+	xy: 81, 364
+	size: 29, 65
+	orig: 29, 65
+	offset: 0, 0
+	index: -1
+s_Rthigh_shanguangchunjie
+	rotate: true
+	xy: 818, 408
+	size: 67, 91
+	orig: 67, 91
+	offset: 0, 0
+	index: -1
+a_eye2_shanguangfulaishi
+	rotate: true
+	xy: 421, 85
+	size: 47, 18
+	orig: 47, 18
+	offset: 0, 0
+	index: -1
+a_Lfoot_shanguangchunjie
+	rotate: false
+	xy: 979, 818
+	size: 44, 35
+	orig: 44, 35
+	offset: 0, 0
+	index: -1
+aa_sword1_shanguangfulaishi
+	rotate: true
+	xy: 0, 750
+	size: 55, 63
+	orig: 55, 63
+	offset: 0, 0
+	index: -1
+q_Rforearm3_shanguangchunjie
+	rotate: false
+	xy: 116, 251
+	size: 38, 107
+	orig: 38, 107
+	offset: 0, 0
+	index: -1
+e_Larm_shanguangchunjie
+	rotate: true
+	xy: 513, 688
+	size: 37, 52
+	orig: 37, 52
+	offset: 0, 0
+	index: -1
+a_head_shanguangfulaishi
+	rotate: true
+	xy: 900, 584
+	size: 68, 81
+	orig: 68, 81
+	offset: 0, 0
+	index: -1
+v_Rforearm_shanguangchunjie
+	rotate: true
+	xy: 613, 821
+	size: 48, 35
+	orig: 48, 35
+	offset: 0, 0
+	index: -1
+w_Rhand_shanguangchunjie
+	rotate: true
+	xy: 122, 896
+	size: 29, 23
+	orig: 29, 23
+	offset: 0, 0
+	index: -1
+s_sword2_shanguangchunjie
+	rotate: true
+	xy: 128, 124
+	size: 65, 26
+	orig: 65, 26
+	offset: 0, 0
+	index: -1
+cc_Rhand2_shanguangchunjie
+	rotate: false
+	xy: 1003, 401
+	size: 14, 13
+	orig: 14, 13
+	offset: 0, 0
+	index: -1
+v_Lshin_shanguangchunjie
+	rotate: false
+	xy: 437, 752
+	size: 60, 25
+	orig: 60, 25
+	offset: 0, 0
+	index: -1
+c_Rforearm_shanguangchunjie
+	rotate: true
+	xy: 817, 838
+	size: 48, 51
+	orig: 48, 51
+	offset: 0, 0
+	index: -1
+b_Rforearm1_shanguangchunjie
+	rotate: true
+	xy: 93, 972
+	size: 48, 24
+	orig: 48, 24
+	offset: 0, 0
+	index: -1
+a_Rshin1_shanguangchunjie
+	rotate: false
+	xy: 521, 472
+	size: 45, 58
+	orig: 45, 58
+	offset: 0, 0
+	index: -1
+dd_Rarm_shanguangchunjie
+	rotate: false
+	xy: 497, 828
+	size: 56, 33
+	orig: 56, 33
+	offset: 0, 0
+	index: -1
+x_Lhand_shanguangchunjie
+	rotate: false
+	xy: 219, 871
+	size: 31, 24
+	orig: 31, 24
+	offset: 0, 0
+	index: -1
+m_Rforearm_shanguangchunjie
+	rotate: true
+	xy: 776, 757
+	size: 51, 40
+	orig: 51, 40
+	offset: 0, 0
+	index: -1
+y_Rhand_shanguangchunjie
+	rotate: false
+	xy: 350, 986
+	size: 25, 25
+	orig: 25, 25
+	offset: 0, 0
+	index: -1
+aa_neck_shanguangchunjie
+	rotate: true
+	xy: 567, 339
+	size: 54, 88
+	orig: 54, 88
+	offset: 0, 0
+	index: -1
+a_Rfoot_shanguangchunjie
+	rotate: true
+	xy: 219, 936
+	size: 35, 36
+	orig: 35, 36
+	offset: 0, 0
+	index: -1
+o_Rarm_shanguangchunjie
+	rotate: true
+	xy: 374, 580
+	size: 35, 62
+	orig: 35, 62
+	offset: 0, 0
+	index: -1
+p_body2_shanguangchunjie
+	rotate: false
+	xy: 650, 536
+	size: 44, 56
+	orig: 44, 56
+	offset: 0, 0
+	index: -1
+z_Rforearm_shanguangchunjie
+	rotate: false
+	xy: 0, 972
+	size: 36, 49
+	orig: 36, 49
+	offset: 0, 0
+	index: -1
+b_collar1_shanguangchunjie
+	rotate: false
+	xy: 912, 269
+	size: 92, 74
+	orig: 92, 74
+	offset: 0, 0
+	index: -1
+e_Lforearm_shanguangchunjie
+	rotate: true
+	xy: 979, 930
+	size: 27, 43
+	orig: 27, 43
+	offset: 0, 0
+	index: -1
+m_Rshin_shanguangchunjie
+	rotate: false
+	xy: 992, 512
+	size: 32, 67
+	orig: 32, 67
+	offset: 0, 0
+	index: -1
+s_Lshin2_shanguangchunjie
+	rotate: true
+	xy: 151, 697
+	size: 74, 75
+	orig: 74, 75
+	offset: 0, 0
+	index: -1
+o_Rthigh_shanguangchunjie
+	rotate: true
+	xy: 818, 210
+	size: 60, 93
+	orig: 60, 93
+	offset: 0, 0
+	index: -1
+dd_Rforearm2_shanguangchunjie
+	rotate: true
+	xy: 695, 39
+	size: 75, 109
+	orig: 75, 109
+	offset: 0, 0
+	index: -1
+i_Lforearm_shanguangchunjie
+	rotate: true
+	xy: 649, 593
+	size: 40, 45
+	orig: 40, 45
+	offset: 0, 0
+	index: -1
+v_Rarm_shanguangchunjie
+	rotate: true
+	xy: 497, 792
+	size: 35, 57
+	orig: 35, 57
+	offset: 0, 0
+	index: -1
+a_Rforearm4_shanguangchunjie
+	rotate: false
+	xy: 78, 871
+	size: 29, 24
+	orig: 29, 24
+	offset: 0, 0
+	index: -1
+n_Rarm_shanguangchunjie
+	rotate: false
+	xy: 649, 634
+	size: 44, 51
+	orig: 44, 51
+	offset: 0, 0
+	index: -1
+c_neck_shanguangchunjie
+	rotate: true
+	xy: 28, 934
+	size: 37, 48
+	orig: 37, 48
+	offset: 0, 0
+	index: -1
+b_Lforearm1_shanguangchunjie
+	rotate: true
+	xy: 650, 477
+	size: 58, 44
+	orig: 58, 44
+	offset: 0, 0
+	index: -1
+m_Lforearm4_shanguangchunjie
+	rotate: true
+	xy: 696, 0
+	size: 38, 125
+	orig: 38, 125
+	offset: 0, 0
+	index: -1
+o_Lhand_shanguangchunjie
+	rotate: false
+	xy: 949, 941
+	size: 29, 30
+	orig: 29, 30
+	offset: 0, 0
+	index: -1
+q_Rshin2_shanguangchunjie
+	rotate: false
+	xy: 567, 394
+	size: 87, 81
+	orig: 87, 81
+	offset: 0, 0
+	index: -1
+x_Rforearm_shanguangchunjie
+	rotate: false
+	xy: 525, 419
+	size: 41, 52
+	orig: 41, 52
+	offset: 0, 0
+	index: -1
+cc_Rarm_shanguangchunjie
+	rotate: true
+	xy: 898, 870
+	size: 48, 50
+	orig: 48, 50
+	offset: 0, 0
+	index: -1
+k_Rhand_shanguangchunjie
+	rotate: true
+	xy: 267, 986
+	size: 35, 24
+	orig: 35, 24
+	offset: 0, 0
+	index: -1
+s_Rfoot_shanguangchunjie
+	rotate: true
+	xy: 185, 934
+	size: 37, 33
+	orig: 37, 33
+	offset: 0, 0
+	index: -1
+m_Rshin2_shanguangchunjie
+	rotate: true
+	xy: 437, 677
+	size: 74, 75
+	orig: 74, 75
+	offset: 0, 0
+	index: -1
+p_Rfoot_shanguangchunjie
+	rotate: false
+	xy: 789, 323
+	size: 28, 52
+	orig: 28, 52
+	offset: 0, 0
+	index: -1
+m_Lfoot_shanguangchunjie
+	rotate: false
+	xy: 664, 333
+	size: 30, 36
+	orig: 30, 36
+	offset: 0, 0
+	index: -1
+n_neck_shanguangchunjie
+	rotate: false
+	xy: 114, 934
+	size: 36, 37
+	orig: 36, 37
+	offset: 0, 0
+	index: -1
+cc_Lthigh_shanguangchunjie
+	rotate: true
+	xy: 818, 343
+	size: 64, 92
+	orig: 64, 92
+	offset: 0, 0
+	index: -1
+n_Lshin2_shanguangchunjie
+	rotate: true
+	xy: 234, 524
+	size: 59, 60
+	orig: 59, 60
+	offset: 0, 0
+	index: -1
+a_pendant_shanguangchunjie
+	rotate: true
+	xy: 79, 662
+	size: 69, 71
+	orig: 69, 71
+	offset: 0, 0
+	index: -1
+n_collar1_shanguangchunjie
+	rotate: true
+	xy: 900, 719
+	size: 79, 80
+	orig: 79, 80
+	offset: 0, 0
+	index: -1
+n_collar3_shanguangchunjie
+	rotate: true
+	xy: 419, 192
+	size: 31, 17
+	orig: 31, 17
+	offset: 0, 0
+	index: -1
+a_belt1_shanguangchunjie
+	rotate: true
+	xy: 279, 188
+	size: 45, 16
+	orig: 45, 16
+	offset: 0, 0
+	index: -1
+a_Lforearm3_shanguangchunjie
+	rotate: true
+	xy: 79, 842
+	size: 28, 27
+	orig: 28, 27
+	offset: 0, 0
+	index: -1
+s_Lthigh_shanguangchunjie
+	rotate: true
+	xy: 370, 718
+	size: 71, 66
+	orig: 71, 66
+	offset: 0, 0
+	index: -1
+v_neck_shanguangchunjie
+	rotate: true
+	xy: 567, 476
+	size: 80, 82
+	orig: 80, 82
+	offset: 0, 0
+	index: -1
+c_Lhand_shanguangchunjie
+	rotate: false
+	xy: 242, 266
+	size: 26, 27
+	orig: 26, 27
+	offset: 0, 0
+	index: -1
+s_sword1_shanguangfulaishi
+	rotate: false
+	xy: 0, 0
+	size: 154, 61
+	orig: 154, 61
+	offset: 0, 0
+	index: -1
+q_Rthigh_shanguangchunjie
+	rotate: true
+	xy: 695, 347
+	size: 71, 92
+	orig: 71, 92
+	offset: 0, 0
+	index: -1
+v_Rhand1_shanguangchunjie
+	rotate: false
+	xy: 108, 871
+	size: 28, 24
+	orig: 28, 24
+	offset: 0, 0
+	index: -1
+a_eye3_shanguangfulaishi
+	rotate: true
+	xy: 280, 94
+	size: 46, 15
+	orig: 46, 15
+	offset: 0, 0
+	index: -1
+e_Lshin_shanguangchunjie
+	rotate: false
+	xy: 792, 262
+	size: 25, 60
+	orig: 25, 60
+	offset: 0, 0
+	index: -1
+q_Lthigh_shanguangchunjie
+	rotate: false
+	xy: 80, 610
+	size: 72, 51
+	orig: 72, 51
+	offset: 0, 0
+	index: -1
+b_body1_shanguangchunjie
+	rotate: true
+	xy: 154, 491
+	size: 67, 79
+	orig: 67, 79
+	offset: 0, 0
+	index: -1
+v_Lfoot_shanguangchunjie
+	rotate: true
+	xy: 982, 672
+	size: 41, 42
+	orig: 41, 42
+	offset: 0, 0
+	index: -1
+n_head_shanguangfulaishi
+	rotate: true
+	xy: 818, 558
+	size: 69, 81
+	orig: 69, 81
+	offset: 0, 0
+	index: -1
+o_Lshin_shanguangchunjie
+	rotate: true
+	xy: 777, 574
+	size: 54, 40
+	orig: 54, 40
+	offset: 0, 0
+	index: -1
+cc_head_star_shanguangfulaishi
+	rotate: false
+	xy: 982, 714
+	size: 42, 40
+	orig: 42, 40
+	offset: 0, 0
+	index: -1
+c_sword2_shanguangchunjie
+	rotate: true
+	xy: 672, 133
+	size: 49, 22
+	orig: 49, 22
+	offset: 0, 0
+	index: -1
+e_body3_shanguangchunjie
+	rotate: true
+	xy: 555, 806
+	size: 27, 57
+	orig: 27, 57
+	offset: 0, 0
+	index: -1
+o_collar1_shanguangchunjie
+	rotate: false
+	xy: 929, 105
+	size: 94, 79
+	orig: 94, 79
+	offset: 0, 0
+	index: -1
+b_belt1_shanguangchunjie
+	rotate: true
+	xy: 799, 150
+	size: 45, 18
+	orig: 45, 18
+	offset: 0, 0
+	index: -1
+cc_hair2_shanguangfulaishi
+	rotate: true
+	xy: 695, 311
+	size: 35, 93
+	orig: 35, 93
+	offset: 0, 0
+	index: -1
+o_Lforearm_shanguangchunjie
+	rotate: false
+	xy: 816, 887
+	size: 51, 46
+	orig: 51, 46
+	offset: 0, 0
+	index: -1
+a_neck_shanguangchunjie
+	rotate: false
+	xy: 776, 857
+	size: 39, 46
+	orig: 39, 46
+	offset: 0, 0
+	index: -1
+v_Lforearm2_shanguangchunjie
+	rotate: false
+	xy: 0, 210
+	size: 115, 79
+	orig: 115, 79
+	offset: 0, 0
+	index: -1
+e_Rshin2_shanguangchunjie
+	rotate: false
+	xy: 695, 419
+	size: 87, 80
+	orig: 87, 80
+	offset: 0, 0
+	index: -1
+cc_Lshin2_shanguangchunjie
+	rotate: true
+	xy: 905, 505
+	size: 78, 86
+	orig: 78, 86
+	offset: 0, 0
+	index: -1
+o_Rshin2_shanguangchunjie
+	rotate: false
+	xy: 818, 476
+	size: 86, 81
+	orig: 86, 81
+	offset: 0, 0
+	index: -1
+e_collar1_shanguangchunjie
+	rotate: false
+	xy: 382, 375
+	size: 54, 80
+	orig: 54, 80
+	offset: 0, 0
+	index: -1
+bb_Rhand_shanguangchunjie
+	rotate: true
+	xy: 107, 842
+	size: 28, 25
+	orig: 28, 25
+	offset: 0, 0
+	index: -1
+h_Lhand_shanguangchunjie
+	rotate: false
+	xy: 256, 840
+	size: 32, 23
+	orig: 32, 23
+	offset: 0, 0
+	index: -1
+q_Lfoot_shanguangchunjie
+	rotate: true
+	xy: 147, 972
+	size: 47, 28
+	orig: 47, 28
+	offset: 0, 0
+	index: -1
+o_Larm_shanguangchunjie
+	rotate: false
+	xy: 520, 579
+	size: 46, 64
+	orig: 46, 64
+	offset: 0, 0
+	index: -1
+o_Rshin_shanguangchunjie
+	rotate: false
+	xy: 230, 652
+	size: 64, 35
+	orig: 64, 35
+	offset: 0, 0
+	index: -1
+b_Larm_shanguangchunjie
+	rotate: true
+	xy: 554, 834
+	size: 36, 55
+	orig: 36, 55
+	offset: 0, 0
+	index: -1
+g_Larm_shanguangchunjie
+	rotate: false
+	xy: 358, 790
+	size: 56, 43
+	orig: 56, 43
+	offset: 0, 0
+	index: -1
+cc_Lforearm3_shanguangchunjie
+	rotate: true
+	xy: 437, 176
+	size: 84, 96
+	orig: 84, 96
+	offset: 0, 0
+	index: -1
+m_collar3_shanguangchunjie
+	rotate: true
+	xy: 419, 160
+	size: 31, 17
+	orig: 31, 17
+	offset: 0, 0
+	index: -1
+e_belt2_shanguangchunjie
+	rotate: true
+	xy: 155, 48
+	size: 45, 140
+	orig: 45, 140
+	offset: 0, 0
+	index: -1
+v_Rshin2_shanguangchunjie
+	rotate: false
+	xy: 295, 410
+	size: 83, 82
+	orig: 83, 82
+	offset: 0, 0
+	index: -1
+v_Rfoot_shanguangchunjie
+	rotate: false
+	xy: 0, 922
+	size: 27, 49
+	orig: 27, 49
+	offset: 0, 0
+	index: -1
+a_body3_shanguangchunjie
+	rotate: false
+	xy: 130, 62
+	size: 24, 61
+	orig: 24, 61
+	offset: 0, 0
+	index: -1
+v_sword2_shanguangchunjie
+	rotate: true
+	xy: 805, 83
+	size: 66, 14
+	orig: 66, 14
+	offset: 0, 0
+	index: -1
+n_Rhand_shanguangchunjie
+	rotate: true
+	xy: 47, 896
+	size: 30, 25
+	orig: 30, 25
+	offset: 0, 0
+	index: -1
+e_body_shanguangchunjie
+	rotate: false
+	xy: 80, 550
+	size: 72, 59
+	orig: 72, 59
+	offset: 0, 0
+	index: -1
+q_body_shanguangchunjie
+	rotate: false
+	xy: 81, 478
+	size: 72, 71
+	orig: 72, 71
+	offset: 0, 0
+	index: -1
+cc_Rforearm_shanguangchunjie
+	rotate: false
+	xy: 219, 842
+	size: 31, 28
+	orig: 31, 28
+	offset: 0, 0
+	index: -1
+n_Larm_shanguangchunjie
+	rotate: false
+	xy: 558, 769
+	size: 57, 36
+	orig: 57, 36
+	offset: 0, 0
+	index: -1
+dd_Lhand_shanguangchunjie
+	rotate: false
+	xy: 664, 296
+	size: 30, 36
+	orig: 30, 36
+	offset: 0, 0
+	index: -1
+c_Rforearm4_shanguangchunjie
+	rotate: true
+	xy: 296, 85
+	size: 43, 124
+	orig: 43, 124
+	offset: 0, 0
+	index: -1
+a_collar1_shanguangchunjie
+	rotate: false
+	xy: 567, 261
+	size: 96, 77
+	orig: 96, 77
+	offset: 0, 0
+	index: -1
+a_Rearm_shanguangchunjie
+	rotate: true
+	xy: 869, 838
+	size: 49, 28
+	orig: 49, 28
+	offset: 0, 0
+	index: -1
+z_Lfoot_shanguangchunjie
+	rotate: true
+	xy: 65, 972
+	size: 48, 27
+	orig: 48, 27
+	offset: 0, 0
+	index: -1
+p_body_shanguangchunjie
+	rotate: true
+	xy: 0, 500
+	size: 68, 79
+	orig: 68, 79
+	offset: 0, 0
+	index: -1
+o_hair2_shanguangfulaishi
+	rotate: true
+	xy: 81, 430
+	size: 47, 73
+	orig: 47, 73
+	offset: 0, 0
+	index: -1
+z_Rfoot_shanguangchunjie
+	rotate: true
+	xy: 324, 832
+	size: 28, 33
+	orig: 28, 33
+	offset: 0, 0
+	index: -1
+n_Lforearm2_shanguangchunjie
+	rotate: true
+	xy: 822, 0
+	size: 88, 109
+	orig: 88, 109
+	offset: 0, 0
+	index: -1
+p_Rshin_shanguangchunjie
+	rotate: false
+	xy: 120, 190
+	size: 34, 60
+	orig: 34, 60
+	offset: 0, 0
+	index: -1
+e_Rhand_shanguangchunjie
+	rotate: false
+	xy: 256, 811
+	size: 36, 28
+	orig: 36, 28
+	offset: 0, 0
+	index: -1
+cc_Rfoot_shanguangchunjie
+	rotate: true
+	xy: 37, 972
+	size: 48, 27
+	orig: 48, 27
+	offset: 0, 0
+	index: -1
+e_head_shanguangfulaishi
+	rotate: true
+	xy: 0, 364
+	size: 68, 80
+	orig: 68, 80
+	offset: 0, 0
+	index: -1
+m_Rforearm4_shanguangchunjie
+	rotate: true
+	xy: 569, 36
+	size: 38, 125
+	orig: 38, 125
+	offset: 0, 0
+	index: -1
+a_Rforearm2_shanguangchunjie
+	rotate: false
+	xy: 567, 75
+	size: 104, 91
+	orig: 104, 91
+	offset: 0, 0
+	index: -1
+v_Rhand2_shanguangchunjie
+	rotate: false
+	xy: 269, 219
+	size: 9, 16
+	orig: 9, 16
+	offset: 0, 0
+	index: -1
+o_Lshin2_shanguangchunjie
+	rotate: false
+	xy: 294, 772
+	size: 63, 59
+	orig: 63, 59
+	offset: 0, 0
+	index: -1
+m_Rhand_shanguangchunjie
+	rotate: true
+	xy: 73, 896
+	size: 30, 24
+	orig: 30, 24
+	offset: 0, 0
+	index: -1
+m_Lforearm_shanguangchunjie
+	rotate: true
+	xy: 649, 738
+	size: 58, 43
+	orig: 58, 43
+	offset: 0, 0
+	index: -1
+a_Lhand2_shanguangchunjie
+	rotate: false
+	xy: 426, 986
+	size: 23, 24
+	orig: 23, 24
+	offset: 0, 0
+	index: -1
+m_head_shanguangfulaishi
+	rotate: true
+	xy: 694, 645
+	size: 65, 81
+	orig: 65, 81
+	offset: 0, 0
+	index: -1
+n_Lforearm4_shanguangchunjie
+	rotate: true
+	xy: 567, 167
+	size: 93, 96
+	orig: 93, 96
+	offset: 0, 0
+	index: -1
+a_Rforearm1_shanguangchunjie
+	rotate: false
+	xy: 498, 756
+	size: 59, 35
+	orig: 59, 35
+	offset: 0, 0
+	index: -1
+r_Lhand_shanguangchunjie
+	rotate: false
+	xy: 992, 580
+	size: 32, 32
+	orig: 32, 32
+	offset: 0, 0
+	index: -1
+z_Rshin_shanguangchunjie
+	rotate: false
+	xy: 528, 301
+	size: 38, 66
+	orig: 38, 66
+	offset: 0, 0
+	index: -1
+e_Rshin_shanguangchunjie
+	rotate: false
+	xy: 379, 535
+	size: 57, 44
+	orig: 57, 44
+	offset: 0, 0
+	index: -1
+g_Lforearm_shanguangchunjie
+	rotate: true
+	xy: 664, 247
+	size: 48, 30
+	orig: 48, 30
+	offset: 0, 0
+	index: -1
+o_sword2_shanguangchunjie
+	rotate: true
+	xy: 776, 719
+	size: 37, 41
+	orig: 37, 41
+	offset: 0, 0
+	index: -1
+cc_Rshin2_shanguangchunjie
+	rotate: true
+	xy: 0, 433
+	size: 66, 80
+	orig: 66, 80
+	offset: 0, 0
+	index: -1
+o_Lforearm2_shanguangchunjie
+	rotate: true
+	xy: 921, 185
+	size: 83, 101
+	orig: 83, 101
+	offset: 0, 0
+	index: -1
+dd_sword2_shanguangchunjie
+	rotate: true
+	xy: 176, 972
+	size: 47, 27
+	orig: 47, 27
+	offset: 0, 0
+	index: -1
+y_Rarm_shanguangchunjie
+	rotate: false
+	xy: 566, 702
+	size: 60, 29
+	orig: 60, 29
+	offset: 0, 0
+	index: -1
+a_Lthigh_shanguangchunjie
+	rotate: true
+	xy: 437, 534
+	size: 67, 82
+	orig: 67, 82
+	offset: 0, 0
+	index: -1
+e_benghuai_shanguangfulaishi
+	rotate: true
+	xy: 0, 621
+	size: 68, 78
+	orig: 68, 78
+	offset: 0, 0
+	index: -1
+m_Lhand_shanguangchunjie
+	rotate: false
+	xy: 153, 837
+	size: 29, 25
+	orig: 29, 25
+	offset: 0, 0
+	index: -1
+v_Lforearm_shanguangchunjie
+	rotate: true
+	xy: 374, 616
+	size: 37, 61
+	orig: 37, 61
+	offset: 0, 0
+	index: -1
+bb_Rarm_shanguangchunjie
+	rotate: true
+	xy: 664, 183
+	size: 63, 30
+	orig: 63, 30
+	offset: 0, 0
+	index: -1
+z_Lhand_shanguangchunjie
+	rotate: false
+	xy: 749, 774
+	size: 26, 33
+	orig: 26, 33
+	offset: 0, 0
+	index: -1
+l_Rhand2_shanguangchunjie
+	rotate: false
+	xy: 419, 133
+	size: 18, 26
+	orig: 18, 26
+	offset: 0, 0
+	index: -1
+i_Larm_shanguangchunjie
+	rotate: false
+	xy: 521, 531
+	size: 45, 47
+	orig: 45, 47
+	offset: 0, 0
+	index: -1
+o_Rhand1_shanguangchunjie
+	rotate: true
+	xy: 616, 795
+	size: 25, 32
+	orig: 25, 32
+	offset: 0, 0
+	index: -1
+b_collar3_shanguangchunjie
+	rotate: false
+	xy: 376, 986
+	size: 24, 25
+	orig: 24, 25
+	offset: 0, 0
+	index: -1
+c_Rarm_shanguangchunjie
+	rotate: false
+	xy: 240, 472
+	size: 54, 51
+	orig: 54, 51
+	offset: 0, 0
+	index: -1
+a_Rhand1_shanguangchunjie
+	rotate: true
+	xy: 749, 839
+	size: 29, 26
+	orig: 29, 26
+	offset: 0, 0
+	index: -1
+n_Rforearm4_shanguangchunjie
+	rotate: true
+	xy: 440, 103
+	size: 72, 98
+	orig: 72, 98
+	offset: 0, 0
+	index: -1
+r_Rhand_shanguangchunjie
+	rotate: false
+	xy: 137, 868
+	size: 27, 27
+	orig: 27, 27
+	offset: 0, 0
+	index: -1
+n_Rfoot_shanguangchunjie
+	rotate: false
+	xy: 776, 681
+	size: 41, 37
+	orig: 41, 37
+	offset: 0, 0
+	index: -1
+s_Rhand_shanguangchunjie
+	rotate: true
+	xy: 949, 906
+	size: 34, 29
+	orig: 34, 29
+	offset: 0, 0
+	index: -1
+q_sword2_shanguangchunjie
+	rotate: false
+	xy: 1005, 269
+	size: 14, 65
+	orig: 14, 65
+	offset: 0, 0
+	index: -1
+s_collar1_shanguangchunjie
+	rotate: false
+	xy: 153, 637
+	size: 76, 59
+	orig: 76, 59
+	offset: 0, 0
+	index: -1
+aa_Rforearm2_shanguangchunjie
+	rotate: true
+	xy: 155, 219
+	size: 46, 113
+	orig: 46, 113
+	offset: 0, 0
+	index: -1
+n_Lforearm_shanguangchunjie
+	rotate: true
+	xy: 981, 755
+	size: 62, 43
+	orig: 62, 43
+	offset: 0, 0
+	index: -1
+z_body2_shanguangchunjie
+	rotate: true
+	xy: 898, 799
+	size: 70, 80
+	orig: 70, 80
+	offset: 0, 0
+	index: -1
+q_Lshin2_shanguangchunjie
+	rotate: true
+	xy: 294, 697
+	size: 74, 75
+	orig: 74, 75
+	offset: 0, 0
+	index: -1
+aa_Rforearm_shanguangchunjie
+	rotate: true
+	xy: 472, 803
+	size: 55, 24
+	orig: 55, 24
+	offset: 0, 0
+	index: -1
+n_Rshin_shanguangchunjie
+	rotate: false
+	xy: 242, 365
+	size: 52, 47
+	orig: 52, 47
+	offset: 0, 0
+	index: -1
+d_Rforearm_shanguangchunjie
+	rotate: false
+	xy: 77, 934
+	size: 36, 37
+	orig: 36, 37
+	offset: 0, 0
+	index: -1
+b_neck_shanguangchunjie
+	rotate: false
+	xy: 776, 809
+	size: 40, 47
+	orig: 40, 47
+	offset: 0, 0
+	index: -1
+d_Rhand_shanguangchunjie
+	rotate: false
+	xy: 949, 870
+	size: 29, 35
+	orig: 29, 35
+	offset: 0, 0
+	index: -1
+z_Lforearm2_shanguangchunjie
+	rotate: true
+	xy: 155, 0
+	size: 47, 143
+	orig: 47, 143
+	offset: 0, 0
+	index: -1
+q_collar1_shanguangchunjie
+	rotate: true
+	xy: 0, 690
+	size: 59, 76
+	orig: 59, 76
+	offset: 0, 0
+	index: -1
+c_Lforearm_shanguangchunjie
+	rotate: false
+	xy: 649, 797
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+o_hair1_shanguangfulaishi
+	rotate: true
+	xy: 0, 569
+	size: 51, 79
+	orig: 51, 79
+	offset: 0, 0
+	index: -1
+i_Lhand_shanguangchunjie
+	rotate: true
+	xy: 188, 868
+	size: 24, 26
+	orig: 24, 26
+	offset: 0, 0
+	index: -1
+v_Lthigh_shanguangchunjie
+	rotate: true
+	xy: 77, 732
+	size: 58, 67
+	orig: 58, 67
+	offset: 0, 0
+	index: -1
+c_Rhand_shanguangchunjie
+	rotate: true
+	xy: 256, 936
+	size: 35, 27
+	orig: 35, 27
+	offset: 0, 0
+	index: -1
+bb_Rforearm3_shanguangchunjie
+	rotate: true
+	xy: 820, 89
+	size: 62, 108
+	orig: 62, 108
+	offset: 0, 0
+	index: -1
+a_head_star_shanguangfulaishi
+	rotate: true
+	xy: 111, 359
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+e_Lfoot_shanguangchunjie
+	rotate: true
+	xy: 118, 972
+	size: 47, 28
+	orig: 47, 28
+	offset: 0, 0
+	index: -1
+p_Lshin2_shanguangchunjie
+	rotate: true
+	xy: 817, 759
+	size: 78, 80
+	orig: 78, 80
+	offset: 0, 0
+	index: -1
+z_Rarm_shanguangchunjie
+	rotate: true
+	xy: 145, 772
+	size: 37, 61
+	orig: 37, 61
+	offset: 0, 0
+	index: -1
+m_Lforearm2_shanguangchunjie
+	rotate: true
+	xy: 0, 62
+	size: 46, 129
+	orig: 46, 129
+	offset: 0, 0
+	index: -1
+n_Rshin2_shanguangchunjie
+	rotate: true
+	xy: 437, 373
+	size: 81, 87
+	orig: 81, 87
+	offset: 0, 0
+	index: -1
+m_Larm_shanguangchunjie
+	rotate: true
+	xy: 387, 273
+	size: 46, 49
+	orig: 46, 49
+	offset: 0, 0
+	index: -1
+b_Lhand_shanguangchunjie
+	rotate: false
+	xy: 153, 810
+	size: 29, 26
+	orig: 29, 26
+	offset: 0, 0
+	index: -1
+cc_sword2_shanguangchunjie
+	rotate: true
+	xy: 898, 919
+	size: 48, 50
+	orig: 48, 50
+	offset: 0, 0
+	index: -1
+r_Lforearm_shanguangchunjie
+	rotate: false
+	xy: 242, 294
+	size: 53, 42
+	orig: 53, 42
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishi_chunjie0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+v_Rshin_shanguangchunjie
+	rotate: true
+	xy: 556, 707
+	size: 62, 37
+	orig: 62, 37
+	offset: 0, 0
+	index: -1
+cc_hair4_shanguangfulaishi
+	rotate: true
+	xy: 584, 100
+	size: 147, 159
+	orig: 147, 159
+	offset: 0, 0
+	index: -1
+dd_Lforearm4_shanguangchunjie
+	rotate: false
+	xy: 666, 759
+	size: 44, 124
+	orig: 44, 124
+	offset: 0, 0
+	index: -1
+dd_Lforearm_shanguangchunjie
+	rotate: false
+	xy: 873, 451
+	size: 33, 58
+	orig: 33, 58
+	offset: 0, 0
+	index: -1
+a_belt2_shanguangchunjie
+	rotate: true
+	xy: 756, 392
+	size: 58, 150
+	orig: 58, 150
+	offset: 0, 0
+	index: -1
+fulaishi_run_00011
+	rotate: true
+	xy: 188, 780
+	size: 244, 85
+	orig: 268, 127
+	offset: 16, 27
+	index: -1
+fulaishi_run_00010
+	rotate: false
+	xy: 744, 112
+	size: 246, 85
+	orig: 268, 127
+	offset: 19, 27
+	index: -1
+fulaishi_run_00013
+	rotate: true
+	xy: 220, 260
+	size: 256, 95
+	orig: 268, 127
+	offset: 7, 24
+	index: -1
+fulaishi_run_00015
+	rotate: false
+	xy: 530, 0
+	size: 264, 99
+	orig: 268, 127
+	offset: 0, 18
+	index: -1
+fulaishi_run_00014
+	rotate: true
+	xy: 208, 517
+	size: 260, 95
+	orig: 268, 127
+	offset: 0, 23
+	index: -1
+fulaishi_run_00017
+	rotate: true
+	xy: 112, 260
+	size: 256, 107
+	orig: 268, 127
+	offset: 0, 13
+	index: -1
+fulaishi_run_00016
+	rotate: true
+	xy: 0, 519
+	size: 260, 105
+	orig: 268, 127
+	offset: 0, 15
+	index: -1
+p_Rthigh_shanguangchunjie
+	rotate: false
+	xy: 975, 661
+	size: 49, 61
+	orig: 49, 61
+	offset: 0, 0
+	index: -1
+c_Larm_shanguangchunjie
+	rotate: true
+	xy: 912, 971
+	size: 53, 50
+	orig: 53, 50
+	offset: 0, 0
+	index: -1
+c_Lforearm4_shanguangchunjie
+	rotate: true
+	xy: 304, 716
+	size: 61, 114
+	orig: 61, 114
+	offset: 0, 0
+	index: -1
+m_Lshin_shanguangchunjie
+	rotate: true
+	xy: 776, 975
+	size: 49, 56
+	orig: 49, 56
+	offset: 0, 0
+	index: -1
+q_sword1_shanguangfulaishi
+	rotate: true
+	xy: 718, 525
+	size: 32, 156
+	orig: 32, 156
+	offset: 0, 0
+	index: -1
+o_Rhand2_shanguangchunjie
+	rotate: false
+	xy: 744, 100
+	size: 16, 11
+	orig: 16, 11
+	offset: 0, 0
+	index: -1
+b_Lforearm2_shanguangchunjie
+	rotate: false
+	xy: 587, 550
+	size: 63, 122
+	orig: 63, 122
+	offset: 0, 0
+	index: -1
+i_Rforearm2_shanguangchunjie
+	rotate: false
+	xy: 548, 894
+	size: 46, 126
+	orig: 46, 126
+	offset: 0, 0
+	index: -1
+e_Lforearm2_shanguangchunjie
+	rotate: false
+	xy: 528, 553
+	size: 58, 124
+	orig: 58, 124
+	offset: 0, 0
+	index: -1
+i_Rforearm3_shanguangchunjie
+	rotate: false
+	xy: 748, 882
+	size: 27, 118
+	orig: 27, 118
+	offset: 0, 0
+	index: -1
+o_Lthigh_shanguangchunjie
+	rotate: false
+	xy: 975, 568
+	size: 49, 92
+	orig: 49, 92
+	offset: 0, 0
+	index: -1
+q_Lhand1_shanguangchunjie
+	rotate: false
+	xy: 736, 1004
+	size: 27, 20
+	orig: 27, 20
+	offset: 0, 0
+	index: -1
+e_sword1_shanguangfulaishi
+	rotate: false
+	xy: 907, 198
+	size: 83, 74
+	orig: 83, 74
+	offset: 0, 0
+	index: -1
+oLforearm4_shanguangchunjie
+	rotate: true
+	xy: 877, 568
+	size: 85, 97
+	orig: 85, 97
+	offset: 0, 0
+	index: -1
+v_sword3_shanguangchunjie
+	rotate: false
+	xy: 904, 273
+	size: 120, 16
+	orig: 120, 16
+	offset: 0, 0
+	index: -1
+l_sword2_shanguangchunjie
+	rotate: true
+	xy: 595, 1001
+	size: 23, 64
+	orig: 23, 64
+	offset: 0, 0
+	index: -1
+o_Lfoot_shanguangchunjie
+	rotate: false
+	xy: 875, 510
+	size: 31, 47
+	orig: 31, 47
+	offset: 0, 0
+	index: -1
+u_sword1_shanguangfulaishi
+	rotate: true
+	xy: 382, 778
+	size: 156, 69
+	orig: 156, 69
+	offset: 0, 0
+	index: -1
+a_hair1_shanguangfulaishi
+	rotate: false
+	xy: 651, 670
+	size: 64, 88
+	orig: 64, 88
+	offset: 0, 0
+	index: -1
+a_body2_shanguangchunjie
+	rotate: false
+	xy: 594, 673
+	size: 56, 57
+	orig: 56, 57
+	offset: 0, 0
+	index: -1
+aa_Rhand_shanguangchunjie
+	rotate: false
+	xy: 707, 1004
+	size: 28, 20
+	orig: 28, 20
+	offset: 0, 0
+	index: -1
+e_Lforearm4_shanguangchunjie
+	rotate: false
+	xy: 667, 884
+	size: 45, 118
+	orig: 45, 118
+	offset: 0, 0
+	index: -1
+a_hair4_shanguangfulaishi
+	rotate: true
+	xy: 221, 110
+	size: 149, 109
+	orig: 149, 109
+	offset: 0, 0
+	index: -1
+cc_Rforearm2_shanguangchunjie
+	rotate: false
+	xy: 651, 550
+	size: 64, 119
+	orig: 64, 119
+	offset: 0, 0
+	index: -1
+g_Rforearm3_shanguangchunjie
+	rotate: true
+	xy: 903, 325
+	size: 34, 121
+	orig: 34, 121
+	offset: 0, 0
+	index: -1
+a_sword3_shanguangchunjie
+	rotate: false
+	xy: 595, 894
+	size: 71, 106
+	orig: 71, 106
+	offset: 0, 0
+	index: -1
+a_hair3_shanguangfulaishi
+	rotate: false
+	xy: 744, 198
+	size: 162, 66
+	orig: 162, 66
+	offset: 0, 0
+	index: -1
+o_Rforearm2_shanguangchunjie
+	rotate: false
+	xy: 497, 778
+	size: 60, 115
+	orig: 60, 115
+	offset: 0, 0
+	index: -1
+c_sword1_shanguangfulaishi
+	rotate: false
+	xy: 718, 451
+	size: 154, 73
+	orig: 154, 73
+	offset: 0, 0
+	index: -1
+p_collar1_shanguangchunjie
+	rotate: false
+	xy: 939, 816
+	size: 85, 78
+	orig: 85, 78
+	offset: 0, 0
+	index: -1
+v_Rforearm3_shanguangchunjie
+	rotate: true
+	xy: 904, 290
+	size: 34, 119
+	orig: 34, 119
+	offset: 0, 0
+	index: -1
+e_Rforearm3_shanguangchunjie
+	rotate: false
+	xy: 907, 434
+	size: 112, 71
+	orig: 112, 71
+	offset: 0, 0
+	index: -1
+fulaishi_run_00012
+	rotate: true
+	xy: 0, 780
+	size: 244, 95
+	orig: 268, 127
+	offset: 16, 26
+	index: -1
+cc_Rthigh_shanguangchunjie
+	rotate: false
+	xy: 822, 835
+	size: 57, 103
+	orig: 57, 103
+	offset: 0, 0
+	index: -1
+a_eye1_shanguangfulaishi
+	rotate: false
+	xy: 660, 1003
+	size: 46, 19
+	orig: 46, 19
+	offset: 0, 0
+	index: -1
+r_Larm_shanguangchunjie
+	rotate: true
+	xy: 975, 774
+	size: 39, 49
+	orig: 39, 49
+	offset: 0, 0
+	index: -1
+cc_Rforearm3_shanguangchunjie
+	rotate: false
+	xy: 593, 788
+	size: 72, 105
+	orig: 72, 105
+	offset: 0, 0
+	index: -1
+m_Lshin2_shanguangchunjie
+	rotate: false
+	xy: 716, 664
+	size: 80, 87
+	orig: 80, 87
+	offset: 0, 0
+	index: -1
+a_collar3_shanguangchunjie
+	rotate: false
+	xy: 718, 432
+	size: 30, 18
+	orig: 30, 18
+	offset: 0, 0
+	index: -1
+g_Rforearm2_shanguangchunjie
+	rotate: false
+	xy: 415, 579
+	size: 56, 127
+	orig: 56, 127
+	offset: 0, 0
+	index: -1
+m_Rforearm2_shanguangchunjie
+	rotate: false
+	xy: 709, 301
+	size: 46, 130
+	orig: 46, 130
+	offset: 0, 0
+	index: -1
+n_belt2_shanguangchunjie
+	rotate: false
+	xy: 587, 301
+	size: 121, 132
+	orig: 121, 132
+	offset: 0, 0
+	index: -1
+cc_Lforearm2_shanguangchunjie
+	rotate: false
+	xy: 716, 558
+	size: 80, 105
+	orig: 80, 105
+	offset: 0, 0
+	index: -1
+a_sword1_shanguangfulaishi
+	rotate: false
+	xy: 743, 265
+	size: 160, 34
+	orig: 160, 34
+	offset: 0, 0
+	index: -1
+m_Lthigh_shanguangchunjie
+	rotate: false
+	xy: 382, 935
+	size: 73, 89
+	orig: 73, 89
+	offset: 0, 0
+	index: -1
+o_sword1_shanguangfulaishi
+	rotate: false
+	xy: 304, 579
+	size: 110, 136
+	orig: 110, 136
+	offset: 0, 0
+	index: -1
+v_Rforearm2_shanguangchunjie
+	rotate: false
+	xy: 711, 759
+	size: 42, 122
+	orig: 42, 122
+	offset: 0, 0
+	index: -1
+dd_sword1_shanguangfulaishi
+	rotate: false
+	xy: 756, 300
+	size: 146, 91
+	orig: 146, 91
+	offset: 0, 0
+	index: -1
+d_Rforearm3_shanguangchunjie
+	rotate: false
+	xy: 558, 770
+	size: 34, 123
+	orig: 34, 123
+	offset: 0, 0
+	index: -1
+dd_neck_shanguangchunjie
+	rotate: false
+	xy: 810, 733
+	size: 64, 101
+	orig: 64, 101
+	offset: 0, 0
+	index: -1
+v_sword1_shanguangfulaishi
+	rotate: true
+	xy: 991, 112
+	size: 157, 33
+	orig: 157, 33
+	offset: 0, 0
+	index: -1
+a_body1_shanguangchunjie
+	rotate: true
+	xy: 797, 663
+	size: 69, 79
+	orig: 69, 79
+	offset: 0, 0
+	index: -1
+v_Rforearm4_shanguangchunjie
+	rotate: true
+	xy: 754, 752
+	size: 112, 55
+	orig: 112, 55
+	offset: 0, 0
+	index: -1
+q_Rforearm2_shanguangchunjie
+	rotate: false
+	xy: 776, 865
+	size: 45, 109
+	orig: 45, 109
+	offset: 0, 0
+	index: -1
+q_Lforearm2_shanguangchunjie
+	rotate: false
+	xy: 452, 778
+	size: 44, 128
+	orig: 44, 128
+	offset: 0, 0
+	index: -1
+v_Lshin2_shanguangchunjie
+	rotate: true
+	xy: 483, 707
+	size: 70, 72
+	orig: 70, 72
+	offset: 0, 0
+	index: -1
+fulaishi_run_00009
+	rotate: true
+	xy: 96, 780
+	size: 244, 91
+	orig: 268, 127
+	offset: 24, 22
+	index: -1
+fulaishi_run_00008
+	rotate: true
+	xy: 106, 519
+	size: 260, 101
+	orig: 268, 127
+	offset: 8, 13
+	index: -1
+fulaishi_run_00002
+	rotate: false
+	xy: 331, 100
+	size: 252, 107
+	orig: 268, 127
+	offset: 0, 10
+	index: -1
+fulaishi_run_00003
+	rotate: true
+	xy: 274, 778
+	size: 246, 107
+	orig: 268, 127
+	offset: 1, 10
+	index: -1
+fulaishi_run_00000
+	rotate: false
+	xy: 0, 0
+	size: 262, 109
+	orig: 268, 127
+	offset: 0, 10
+	index: -1
+fulaishi_run_00001
+	rotate: true
+	xy: 0, 260
+	size: 258, 111
+	orig: 268, 127
+	offset: 0, 8
+	index: -1
+fulaishi_run_00006
+	rotate: false
+	xy: 263, 0
+	size: 266, 99
+	orig: 268, 127
+	offset: 2, 18
+	index: -1
+fulaishi_run_00007
+	rotate: true
+	xy: 485, 306
+	size: 246, 101
+	orig: 268, 127
+	offset: 18, 15
+	index: -1
+fulaishi_run_00004
+	rotate: false
+	xy: 795, 0
+	size: 226, 111
+	orig: 268, 127
+	offset: 19, 8
+	index: -1
+fulaishi_run_00005
+	rotate: false
+	xy: 331, 208
+	size: 250, 97
+	orig: 268, 127
+	offset: 13, 22
+	index: -1
+dd_Rforearm3_shanguangchunjie
+	rotate: true
+	xy: 907, 360
+	size: 73, 110
+	orig: 73, 110
+	offset: 0, 0
+	index: -1
+q_bletnew_shanguangchunjie
+	rotate: false
+	xy: 875, 733
+	size: 48, 101
+	orig: 48, 101
+	offset: 0, 0
+	index: -1
+o_head_shanguangfulaishi
+	rotate: false
+	xy: 419, 707
+	size: 63, 70
+	orig: 63, 70
+	offset: 0, 0
+	index: -1
+z_Lshin2_shanguangchunjie
+	rotate: true
+	xy: 939, 895
+	size: 75, 84
+	orig: 75, 84
+	offset: 0, 0
+	index: -1
+z_Rthigh_shanguangchunjie
+	rotate: false
+	xy: 924, 722
+	size: 50, 93
+	orig: 50, 93
+	offset: 0, 0
+	index: -1
+b_Lforearm4_shanguangchunjie
+	rotate: false
+	xy: 491, 907
+	size: 56, 116
+	orig: 56, 116
+	offset: 0, 0
+	index: -1
+o_belt2_shanguangchunjie
+	rotate: true
+	xy: 316, 496
+	size: 82, 159
+	orig: 82, 159
+	offset: 0, 0
+	index: -1
+r_Rforearm3_shanguangchunjie
+	rotate: false
+	xy: 713, 882
+	size: 34, 121
+	orig: 34, 121
+	offset: 0, 0
+	index: -1
+c_Rforearm2_shanguangchunjie
+	rotate: false
+	xy: 472, 579
+	size: 55, 127
+	orig: 55, 127
+	offset: 0, 0
+	index: -1
+z_Lforearm4_shanguangchunjie
+	rotate: false
+	xy: 456, 907
+	size: 34, 117
+	orig: 34, 117
+	offset: 0, 0
+	index: -1
+aa_Rarm_shanguangchunjie
+	rotate: false
+	xy: 963, 971
+	size: 61, 41
+	orig: 61, 41
+	offset: 0, 0
+	index: -1
+cc_sword1_shanguangfulaishi
+	rotate: true
+	xy: 587, 434
+	size: 115, 130
+	orig: 115, 130
+	offset: 0, 0
+	index: -1
+e_Rfoot_shanguangchunjie
+	rotate: false
+	xy: 912, 929
+	size: 26, 36
+	orig: 26, 36
+	offset: 0, 0
+	index: -1
+v_Larm_shanguangchunjie
+	rotate: false
+	xy: 528, 678
+	size: 65, 28
+	orig: 65, 28
+	offset: 0, 0
+	index: -1
+n_body3_shanguangchunjie
+	rotate: false
+	xy: 975, 723
+	size: 49, 50
+	orig: 49, 50
+	offset: 0, 0
+	index: -1
+l_sword1_shanguangfulaishi
+	rotate: true
+	xy: 582, 248
+	size: 52, 160
+	orig: 52, 160
+	offset: 0, 0
+	index: -1
+s_Rshin2_shanguangchunjie
+	rotate: false
+	xy: 833, 939
+	size: 78, 85
+	orig: 78, 85
+	offset: 0, 0
+	index: -1
+j_Lforearm_shanguangchunjie
+	rotate: false
+	xy: 476, 553
+	size: 51, 22
+	orig: 51, 22
+	offset: 0, 0
+	index: -1
+gd_shanguangxinnian
+	rotate: false
+	xy: 316, 306
+	size: 168, 189
+	orig: 168, 189
+	offset: 0, 0
+	index: -1
+v_hair4_shanguangfulaishi
+	rotate: false
+	xy: 877, 654
+	size: 97, 67
+	orig: 97, 67
+	offset: 0, 0
+	index: -1
+o_Rforearm4_shanguangchunjie
+	rotate: true
+	xy: 907, 506
+	size: 61, 113
+	orig: 61, 113
+	offset: 0, 0
+	index: -1
+cc_hair1_shanguangfulaishi
+	rotate: false
+	xy: 880, 835
+	size: 58, 93
+	orig: 58, 93
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

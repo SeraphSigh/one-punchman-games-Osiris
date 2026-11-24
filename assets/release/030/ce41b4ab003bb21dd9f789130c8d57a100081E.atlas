@@ -1,0 +1,123 @@
+
+asset/anim/KINGSEATTACK0.png
+size: 977,503
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/king_attackguangzhao_032
+	rotate: false
+	xy: 300, 274
+	size: 123, 221
+	orig: 133, 229
+	offset: 3, 8
+	index: -1
+attack/king_attackbao_049
+	rotate: false
+	xy: 660, 241
+	size: 102, 121
+	orig: 424, 349
+	offset: 66, 97
+	index: -1
+attack/king_attackbao_056
+	rotate: false
+	xy: 719, 369
+	size: 96, 119
+	orig: 424, 349
+	offset: 100, 125
+	index: -1
+attack/king_attackbao_057
+	rotate: false
+	xy: 816, 361
+	size: 96, 103
+	orig: 424, 349
+	offset: 102, 141
+	index: -1
+attack/king_attackbao_054
+	rotate: false
+	xy: 358, 0
+	size: 176, 273
+	orig: 424, 349
+	offset: 27, 19
+	index: -1
+attack/king_attackbao_055
+	rotate: true
+	xy: 577, 369
+	size: 134, 141
+	orig: 424, 349
+	offset: 67, 102
+	index: -1
+attack/king_attackbao_052
+	rotate: true
+	xy: 0, 302
+	size: 196, 299
+	orig: 424, 349
+	offset: 9, 20
+	index: -1
+attack/king_attackbao_053
+	rotate: false
+	xy: 177, 0
+	size: 180, 273
+	orig: 424, 349
+	offset: 26, 19
+	index: -1
+attack/king_attackbao_050
+	rotate: false
+	xy: 424, 274
+	size: 152, 219
+	orig: 424, 349
+	offset: 50, 66
+	index: -1
+attack/king_attackbao_051
+	rotate: false
+	xy: 0, 0
+	size: 176, 301
+	orig: 424, 349
+	offset: 31, 29
+	index: -1
+attack/king_hanshui_029
+	rotate: true
+	xy: 177, 274
+	size: 24, 54
+	orig: 42, 70
+	offset: 9, 8
+	index: -1
+attack/king_attackbao_048
+	rotate: false
+	xy: 913, 369
+	size: 64, 85
+	orig: 424, 349
+	offset: 74, 114
+	index: -1
+
+asset/anim/KINGSESKILL0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/king_skillxuanwo_050
+	rotate: false
+	xy: 338, 172
+	size: 153, 130
+	orig: 173, 150
+	offset: 10, 9
+	index: -1
+
+asset/anim/KINGSECOMMON0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/king_tanhao
+	rotate: true
+	xy: 248, 474
+	size: 36, 98
+	orig: 36, 98
+	offset: 0, 0
+	index: -1
+common/king_heixian
+	rotate: false
+	xy: 168, 121
+	size: 4, 119
+	orig: 4, 119
+	offset: 0, 0
+	index: -1

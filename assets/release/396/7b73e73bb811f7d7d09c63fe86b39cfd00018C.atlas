@@ -1,0 +1,27 @@
+
+asset/anim/huaxuechangzhuchangjing0.png
+size: 121,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qi
+	rotate: false
+	xy: 78, 149
+	size: 29, 55
+	orig: 37, 65
+	offset: 2, 5
+	index: -1
+xueren
+	rotate: false
+	xy: 0, 0
+	size: 121, 148
+	orig: 147, 174
+	offset: 17, 13
+	index: -1
+hengfu
+	rotate: false
+	xy: 0, 149
+	size: 77, 39
+	orig: 79, 43
+	offset: 0, 3
+	index: -1

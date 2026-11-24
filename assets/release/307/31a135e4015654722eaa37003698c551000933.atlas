@@ -1,0 +1,136 @@
+
+asset/anim/wenzhangbeidongji2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenzhangbeidongji_shangadd_3
+	rotate: false
+	xy: 0, 359
+	size: 417, 330
+	orig: 425, 368
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_shangadd_4
+	rotate: false
+	xy: 420, 0
+	size: 419, 336
+	orig: 425, 368
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_shangadd_7
+	rotate: false
+	xy: 0, 0
+	size: 419, 358
+	orig: 425, 368
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_shangadd_13
+	rotate: false
+	xy: 420, 337
+	size: 417, 368
+	orig: 425, 368
+	offset: 0, 0
+	index: -1
+
+asset/anim/wenzhangbeidongji3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenzhangbeidongji_shangadd_2
+	rotate: false
+	xy: 0, 0
+	size: 415, 358
+	orig: 425, 368
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_shangadd_15
+	rotate: false
+	xy: 0, 359
+	size: 411, 368
+	orig: 425, 368
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_shangadd_14
+	rotate: false
+	xy: 416, 0
+	size: 411, 368
+	orig: 425, 368
+	offset: 0, 0
+	index: -1
+
+asset/anim/wenzhangbeidongji0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenzhangbeidongji_shangadd_10
+	rotate: false
+	xy: 0, 0
+	size: 421, 368
+	orig: 425, 368
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_shangadd_11
+	rotate: false
+	xy: 422, 0
+	size: 421, 368
+	orig: 425, 368
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_shangadd_9
+	rotate: true
+	xy: 369, 369
+	size: 421, 368
+	orig: 425, 368
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_shangadd_8
+	rotate: true
+	xy: 0, 369
+	size: 421, 368
+	orig: 425, 368
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_kejitiao_5
+	rotate: false
+	xy: 844, 93
+	size: 126, 31
+	orig: 136, 43
+	offset: 5, 7
+	index: -1
+
+asset/anim/wenzhangbeidongji1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenzhangbeidongji_shangadd_5
+	rotate: true
+	xy: 0, 369
+	size: 419, 358
+	orig: 425, 368
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_shangadd_6
+	rotate: true
+	xy: 359, 369
+	size: 419, 358
+	orig: 425, 368
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_shangadd_1
+	rotate: false
+	xy: 0, 0
+	size: 419, 368
+	orig: 425, 368
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_shangadd_12
+	rotate: false
+	xy: 420, 0
+	size: 419, 368
+	orig: 425, 368
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,221 @@
+
+asset/anim/zhushenSEMAX2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/zhushen1_max_xi_00064
+	rotate: false
+	xy: 0, 574
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_xi_00063
+	rotate: false
+	xy: 0, 287
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_xi_00062
+	rotate: false
+	xy: 0, 0
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_xi_00065
+	rotate: true
+	xy: 253, 0
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushenSEMAX1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/zhushen1_max_xi_00047
+	rotate: true
+	xy: 1542, 1069
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_xi_00048
+	rotate: true
+	xy: 1542, 1322
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_xi_00060
+	rotate: false
+	xy: 1518, 1575
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_xi_00061
+	rotate: false
+	xy: 1771, 1575
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_xi_00053
+	rotate: false
+	xy: 537, 1110
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_xi_00052
+	rotate: false
+	xy: 506, 1575
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_xi_00051
+	rotate: false
+	xy: 284, 1110
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_xi_00050
+	rotate: false
+	xy: 253, 1575
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_xi_00057
+	rotate: false
+	xy: 759, 1604
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_xi_00056
+	rotate: true
+	xy: 790, 1351
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_xi_00055
+	rotate: true
+	xy: 1077, 1325
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_xi_00054
+	rotate: true
+	xy: 790, 1098
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_xi_00059
+	rotate: false
+	xy: 1265, 1578
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_xi_00058
+	rotate: false
+	xy: 1012, 1604
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_xi_00049
+	rotate: false
+	xy: 0, 1575
+	size: 252, 286
+	orig: 252, 286
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushenSEMAX0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/kou_zhushenbishashenti_00033
+	rotate: true
+	xy: 690, 627
+	size: 253, 146
+	orig: 253, 146
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_bg_00039
+	rotate: false
+	xy: 1636, 922
+	size: 409, 238
+	orig: 409, 238
+	offset: 0, 0
+	index: -1
+max/houjie_zhushenbisha
+	rotate: false
+	xy: 690, 881
+	size: 146, 94
+	orig: 146, 94
+	offset: 0, 0
+	index: -1
+max/lian3_zhushenbisha
+	rotate: false
+	xy: 878, 0
+	size: 877, 389
+	orig: 877, 389
+	offset: 0, 0
+	index: -1
+max/lian2_zhushenbisha
+	rotate: false
+	xy: 0, 468
+	size: 689, 225
+	orig: 689, 225
+	offset: 0, 0
+	index: -1
+max/lian4_zhushenbisha
+	rotate: false
+	xy: 0, 694
+	size: 689, 224
+	orig: 689, 224
+	offset: 0, 0
+	index: -1
+max/zhushen1_max_pingmu_00035
+	rotate: true
+	xy: 676, 976
+	size: 234, 141
+	orig: 252, 167
+	offset: 0, 26
+	index: -1
+max/zhushen1_max_bghei_00033
+	rotate: false
+	xy: 1644, 390
+	size: 6, 5
+	orig: 6, 5
+	offset: 0, 0
+	index: -1
+max/kou_zhushenbisha
+	rotate: false
+	xy: 878, 390
+	size: 765, 502
+	orig: 765, 502
+	offset: 0, 0
+	index: -1
+max/lian1_zhushenbisha
+	rotate: false
+	xy: 0, 0
+	size: 877, 467
+	orig: 877, 467
+	offset: 0, 0
+	index: -1

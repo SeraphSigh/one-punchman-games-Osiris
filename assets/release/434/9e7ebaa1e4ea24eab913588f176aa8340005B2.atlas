@@ -1,0 +1,83 @@
+
+asset/anim/jiangshinanSEATTACK0.png
+size: 867,851
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/jiangshinan_jizhong17
+	rotate: true
+	xy: 427, 654
+	size: 141, 140
+	orig: 207, 176
+	offset: 42, 12
+	index: -1
+attack/jiangshinan_jizhong23
+	rotate: false
+	xy: 206, 177
+	size: 195, 134
+	orig: 207, 176
+	offset: 8, 14
+	index: -1
+attack/jiangshinan_jizhong22
+	rotate: false
+	xy: 204, 312
+	size: 191, 138
+	orig: 207, 176
+	offset: 8, 12
+	index: -1
+attack/jiangshinan_jizhong21
+	rotate: false
+	xy: 402, 169
+	size: 185, 140
+	orig: 207, 176
+	offset: 11, 12
+	index: -1
+attack/jiangshinan_jizhong20
+	rotate: false
+	xy: 206, 0
+	size: 193, 176
+	orig: 207, 176
+	offset: 14, 0
+	index: -1
+attack/jiangshinan_jizhong27
+	rotate: false
+	xy: 174, 592
+	size: 159, 116
+	orig: 207, 176
+	offset: 33, 23
+	index: -1
+attack/jiangshinan_jizhong26
+	rotate: false
+	xy: 396, 429
+	size: 185, 118
+	orig: 207, 176
+	offset: 11, 22
+	index: -1
+attack/jiangshinan_jizhong18
+	rotate: false
+	xy: 0, 363
+	size: 187, 176
+	orig: 207, 176
+	offset: 19, 0
+	index: -1
+attack/jiangshinan_jizhong19
+	rotate: false
+	xy: 0, 186
+	size: 203, 176
+	orig: 207, 176
+	offset: 4, 0
+	index: -1
+attack/jiangshinan_jizhong25
+	rotate: false
+	xy: 402, 310
+	size: 185, 118
+	orig: 207, 176
+	offset: 11, 22
+	index: -1
+attack/jiangshinan_jizhong24
+	rotate: false
+	xy: 188, 451
+	size: 189, 140
+	orig: 207, 176
+	offset: 7, 0
+	index: -1

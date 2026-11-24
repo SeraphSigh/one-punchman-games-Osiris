@@ -1,0 +1,27 @@
+
+asset/anim/xinniannianshouzhuchangjing20230.png
+size: 427,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jianzhu2_xinniannianshouzhuchangjing
+	rotate: false
+	xy: 0, 0
+	size: 427, 292
+	orig: 573, 392
+	offset: 74, 49
+	index: -1
+denglong1_xinniannianshouzhuchangjing
+	rotate: false
+	xy: 167, 293
+	size: 31, 61
+	orig: 31, 61
+	offset: 0, 0
+	index: -1
+guangyun_xinniannianshouzhuchangjing
+	rotate: true
+	xy: 0, 293
+	size: 131, 166
+	orig: 189, 226
+	offset: 27, 33
+	index: -1

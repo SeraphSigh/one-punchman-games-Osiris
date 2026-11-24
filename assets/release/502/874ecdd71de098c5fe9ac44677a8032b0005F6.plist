@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>a_pifeng8_siwangjiatelinkapai.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{183,222}</string>
+                <key>spriteSourceSize</key>
+                <string>{183,222}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{183,222}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>siwangjiatelinkapai2.png</string>
+            <key>size</key>
+            <string>{256,256}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:9cb891cb9d1ef9e073e4ea0e051a014c:0d9e87ee486d973af4e4d5e0776b872f:5c117e6557a45fb1d8611448ef8c78cb$</string>
+            <key>textureFileName</key>
+            <string>siwangjiatelinkapai2.png</string>
+        </dict>
+    </dict>
+</plist>

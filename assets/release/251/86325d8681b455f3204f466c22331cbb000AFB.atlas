@@ -1,0 +1,156 @@
+
+asset/anim/longjuan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/lj2_skill_houcengyanchen_00008
+	rotate: true
+	xy: 226, 704
+	size: 297, 104
+	orig: 357, 162
+	offset: 23, 9
+	index: -1
+
+asset/anim/longjuan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/lj2_skill_suishi0008
+	rotate: false
+	xy: 888, 707
+	size: 101, 142
+	orig: 101, 142
+	offset: 0, 0
+	index: -1
+common/lj2_skill_suishi0011
+	rotate: true
+	xy: 888, 192
+	size: 118, 133
+	orig: 118, 133
+	offset: 0, 0
+	index: -1
+
+asset/anim/longjuan2SECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/longjuan2skillext_shitou2
+	rotate: true
+	xy: 986, 300
+	size: 56, 36
+	orig: 56, 36
+	offset: 0, 0
+	index: -1
+common/longjuan2skillext_shitou1
+	rotate: false
+	xy: 971, 671
+	size: 50, 45
+	orig: 50, 45
+	offset: 0, 0
+	index: -1
+common/lj2_skill_suishi0001
+	rotate: true
+	xy: 971, 785
+	size: 57, 48
+	orig: 57, 48
+	offset: 0, 0
+	index: -1
+
+asset/anim/longjuan2SECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/lj2_skill_dimiansuikuai7
+	rotate: false
+	xy: 0, 480
+	size: 740, 287
+	orig: 740, 287
+	offset: 0, 0
+	index: -1
+common/lj2_skill_suishi0006
+	rotate: true
+	xy: 379, 930
+	size: 66, 59
+	orig: 66, 59
+	offset: 0, 0
+	index: -1
+common/lj2_skill_suishi0003
+	rotate: false
+	xy: 238, 930
+	size: 60, 90
+	orig: 60, 90
+	offset: 0, 0
+	index: -1
+
+asset/anim/longjuan2SECOMMON5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/lj2_skill_houcengyanchen_00026
+	rotate: false
+	xy: 342, 500
+	size: 341, 152
+	orig: 357, 162
+	offset: 8, 10
+	index: -1
+common/lj2_skill_houcengyanchen_00012
+	rotate: false
+	xy: 684, 416
+	size: 339, 154
+	orig: 357, 162
+	offset: 11, 8
+	index: -1
+common/lj2_skill_houcengyanchen_00024
+	rotate: false
+	xy: 0, 506
+	size: 337, 154
+	orig: 357, 162
+	offset: 10, 8
+	index: -1
+common/lj2_skill_houcengyanchen_00010
+	rotate: false
+	xy: 338, 653
+	size: 327, 142
+	orig: 357, 162
+	offset: 11, 9
+	index: -1
+common/lj2_skill_houcengyanchen_00016
+	rotate: false
+	xy: 684, 571
+	size: 337, 154
+	orig: 357, 162
+	offset: 9, 8
+	index: -1
+common/lj2_skill_houcengyanchen_00020
+	rotate: false
+	xy: 0, 353
+	size: 341, 152
+	orig: 357, 162
+	offset: 6, 10
+	index: -1
+common/lj2_skill_houcengyanchen_00014
+	rotate: false
+	xy: 423, 190
+	size: 341, 154
+	orig: 357, 162
+	offset: 9, 8
+	index: -1
+common/lj2_skill_houcengyanchen_00018
+	rotate: false
+	xy: 0, 198
+	size: 341, 154
+	orig: 357, 162
+	offset: 7, 8
+	index: -1
+common/lj2_skill_houcengyanchen_00022
+	rotate: false
+	xy: 342, 345
+	size: 341, 154
+	orig: 357, 162
+	offset: 10, 8
+	index: -1

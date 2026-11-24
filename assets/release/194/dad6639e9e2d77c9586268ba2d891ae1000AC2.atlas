@@ -1,0 +1,154 @@
+
+asset/anim/mengzhongdidiwangSEATTACK0.png
+size: 487,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/ddwUR_baozhadaoguang1_2
+	rotate: true
+	xy: 130, 364
+	size: 147, 126
+	orig: 183, 180
+	offset: 15, 37
+	index: -1
+attack/ddwUR_baozhadaoguang1_7
+	rotate: false
+	xy: 371, 362
+	size: 89, 150
+	orig: 183, 180
+	offset: 15, 0
+	index: -1
+attack/ddwUR_baozhadaoguang1_6
+	rotate: false
+	xy: 257, 362
+	size: 113, 150
+	orig: 183, 180
+	offset: 15, 3
+	index: -1
+attack/ddwUR_baozhadaoguang1_5
+	rotate: false
+	xy: 0, 364
+	size: 129, 148
+	orig: 183, 180
+	offset: 14, 10
+	index: -1
+
+asset/anim/mengzhongdidiwangSEATTACK3.png
+size: 471,485
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/ddwUR_baozhadaoguang1_8
+	rotate: false
+	xy: 144, 348
+	size: 71, 136
+	orig: 183, 180
+	offset: 16, 2
+	index: -1
+attack/ddwUR_baozhadaoguang1_3
+	rotate: false
+	xy: 0, 348
+	size: 143, 132
+	orig: 183, 180
+	offset: 14, 27
+	index: -1
+
+asset/anim/mengzhongdidiwangSEATTACK2.png
+size: 469,503
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/ddwUR_baozhadaoguang1_9
+	rotate: true
+	xy: 352, 440
+	size: 63, 102
+	orig: 183, 180
+	offset: 20, 7
+	index: -1
+attack/ddwUR_baozhadaoguang1_4
+	rotate: false
+	xy: 214, 354
+	size: 137, 140
+	orig: 183, 180
+	offset: 15, 18
+	index: -1
+
+asset/anim/mengzhongdidiwangSEATTACK4.png
+size: 484,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/ddwUR_baozhadaoguang1_1
+	rotate: true
+	xy: 424, 302
+	size: 123, 60
+	orig: 183, 180
+	offset: 41, 105
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON8.png
+size: 955,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwur_shan_00044
+	rotate: true
+	xy: 512, 839
+	size: 185, 157
+	orig: 245, 245
+	offset: 34, 56
+	index: -1
+common/ddwur_shan_00043
+	rotate: true
+	xy: 512, 839
+	size: 185, 157
+	orig: 245, 245
+	offset: 34, 56
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON2.png
+size: 1023,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwur_shan_00040
+	rotate: true
+	xy: 818, 956
+	size: 47, 69
+	orig: 245, 245
+	offset: 86, 100
+	index: -1
+common/ddwur_shan_00039
+	rotate: true
+	xy: 818, 956
+	size: 47, 69
+	orig: 245, 245
+	offset: 86, 100
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwur_shan_00045
+	rotate: true
+	xy: 848, 363
+	size: 229, 173
+	orig: 245, 245
+	offset: 16, 44
+	index: -1
+common/ddwur_shan_00041
+	rotate: true
+	xy: 889, 766
+	size: 165, 135
+	orig: 245, 245
+	offset: 41, 62
+	index: -1
+common/ddwur_shan_00042
+	rotate: true
+	xy: 889, 766
+	size: 165, 135
+	orig: 245, 245
+	offset: 41, 62
+	index: -1

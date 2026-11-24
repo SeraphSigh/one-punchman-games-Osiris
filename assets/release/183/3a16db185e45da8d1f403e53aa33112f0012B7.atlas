@@ -1,0 +1,292 @@
+
+asset/anim/yuanziwushikapai0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuoyanqiuyuanziwushikapai
+	rotate: false
+	xy: 1003, 30
+	size: 17, 5
+	orig: 17, 5
+	offset: 0, 0
+	index: -1
+yaqianyuanziwushikapai
+	rotate: true
+	xy: 1003, 36
+	size: 41, 16
+	orig: 41, 16
+	offset: 0, 0
+	index: -1
+youdabixiuzishangyuanziwushikapai
+	rotate: true
+	xy: 189, 956
+	size: 60, 36
+	orig: 60, 36
+	offset: 0, 0
+	index: -1
+youyanqiuyuanziwushikapai
+	rotate: false
+	xy: 1003, 92
+	size: 10, 9
+	orig: 10, 9
+	offset: 0, 0
+	index: -1
+toufayuanziwushikapai
+	rotate: false
+	xy: 837, 905
+	size: 102, 102
+	orig: 102, 102
+	offset: 0, 0
+	index: -1
+zuodatuiyuanziwushikapai
+	rotate: true
+	xy: 385, 583
+	size: 323, 291
+	orig: 323, 291
+	offset: 0, 0
+	index: -1
+touyuanziwushikapai
+	rotate: false
+	xy: 533, 907
+	size: 97, 116
+	orig: 97, 116
+	offset: 0, 0
+	index: -1
+zuoshouyuanziwushikapai
+	rotate: true
+	xy: 982, 583
+	size: 82, 41
+	orig: 82, 41
+	offset: 0, 0
+	index: -1
+kuzihouyuanziwushikapai
+	rotate: true
+	xy: 224, 583
+	size: 333, 160
+	orig: 333, 160
+	offset: 0, 0
+	index: -1
+pifengyuanziwushikapai
+	rotate: false
+	xy: 0, 0
+	size: 1002, 582
+	orig: 1002, 582
+	offset: 0, 0
+	index: -1
+zuoyanpishangyuanziwushikapai
+	rotate: true
+	xy: 1003, 102
+	size: 22, 5
+	orig: 22, 5
+	offset: 0, 0
+	index: -1
+daoxiayuanziwushikapai
+	rotate: false
+	xy: 226, 917
+	size: 155, 107
+	orig: 155, 107
+	offset: 0, 0
+	index: -1
+zuodabiyuanziwushikapai
+	rotate: true
+	xy: 39, 956
+	size: 67, 61
+	orig: 67, 61
+	offset: 0, 0
+	index: -1
+youxiayanpiyuanziwushikapai
+	rotate: false
+	xy: 1003, 78
+	size: 13, 13
+	orig: 13, 13
+	offset: 0, 0
+	index: -1
+zuojiaoyuanziwushikapai
+	rotate: false
+	xy: 763, 905
+	size: 73, 103
+	orig: 73, 103
+	offset: 0, 0
+	index: -1
+zuoxiaotuiyuanziwushikapai
+	rotate: true
+	xy: 940, 905
+	size: 69, 84
+	orig: 69, 84
+	offset: 0, 0
+	index: -1
+zuodabixiuzishangyuanziwushikapai
+	rotate: true
+	xy: 0, 956
+	size: 68, 38
+	orig: 68, 38
+	offset: 0, 0
+	index: -1
+yuanzidktx2
+	rotate: false
+	xy: 631, 907
+	size: 131, 111
+	orig: 131, 111
+	offset: 0, 0
+	index: -1
+youshangyanpiyuanziwushikapai
+	rotate: true
+	xy: 1003, 15
+	size: 14, 17
+	orig: 14, 17
+	offset: 0, 0
+	index: -1
+youmeimaoyuanziwushikapai
+	rotate: true
+	xy: 1003, 0
+	size: 14, 20
+	orig: 14, 20
+	offset: 0, 0
+	index: -1
+shangyizuoyuanziwushikapai
+	rotate: false
+	xy: 677, 583
+	size: 304, 321
+	orig: 304, 321
+	offset: 0, 0
+	index: -1
+zuoyanpixiayuanziwushikapai
+	rotate: true
+	xy: 1017, 78
+	size: 24, 7
+	orig: 24, 7
+	offset: 0, 0
+	index: -1
+dao2xiayuanziwushikapai
+	rotate: true
+	xy: 148, 956
+	size: 61, 40
+	orig: 61, 40
+	offset: 0, 0
+	index: -1
+dao2shangyuanziwushikapai
+	rotate: true
+	xy: 0, 583
+	size: 372, 223
+	orig: 372, 223
+	offset: 0, 0
+	index: -1
+youdabixiuziyuanziwushikapai
+	rotate: false
+	xy: 382, 917
+	size: 150, 105
+	orig: 150, 105
+	offset: 0, 0
+	index: -1
+youxiaobiyuanziwushikapai
+	rotate: false
+	xy: 101, 956
+	size: 46, 61
+	orig: 46, 61
+	offset: 0, 0
+	index: -1
+
+asset/anim/yuanziwushikapai1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youjiaoyuanziwushikapai
+	rotate: false
+	xy: 359, 380
+	size: 98, 86
+	orig: 98, 86
+	offset: 0, 0
+	index: -1
+yaodaiyuanziwushikapai
+	rotate: true
+	xy: 158, 369
+	size: 129, 45
+	orig: 129, 45
+	offset: 0, 0
+	index: -1
+shangyiyouxiayuanziwushikapai
+	rotate: false
+	xy: 158, 208
+	size: 47, 160
+	orig: 47, 160
+	offset: 0, 0
+	index: -1
+shentiyuanziwushikapai
+	rotate: false
+	xy: 206, 209
+	size: 173, 169
+	orig: 173, 169
+	offset: 0, 0
+	index: -1
+shangyiyouyuanziwushikapai
+	rotate: false
+	xy: 384, 0
+	size: 59, 152
+	orig: 59, 152
+	offset: 0, 0
+	index: -1
+youxiaotuiyuanziwushikapai
+	rotate: true
+	xy: 0, 390
+	size: 82, 141
+	orig: 82, 141
+	offset: 0, 0
+	index: -1
+zuodabixiuziyuanziwushikapai
+	rotate: true
+	xy: 0, 208
+	size: 181, 157
+	orig: 181, 157
+	offset: 0, 0
+	index: -1
+zuoxiaobiyuanziwushikapai
+	rotate: true
+	xy: 444, 0
+	size: 133, 50
+	orig: 133, 50
+	offset: 0, 0
+	index: -1
+youdatuiyuanziwushikapai
+	rotate: false
+	xy: 0, 0
+	size: 220, 207
+	orig: 220, 207
+	offset: 0, 0
+	index: -1
+youshouyuanziwushikapai
+	rotate: true
+	xy: 306, 379
+	size: 54, 52
+	orig: 54, 52
+	offset: 0, 0
+	index: -1
+lingziyuanziwushikapai
+	rotate: true
+	xy: 221, 0
+	size: 208, 162
+	orig: 208, 162
+	offset: 0, 0
+	index: -1
+yuanzidktx3
+	rotate: true
+	xy: 204, 379
+	size: 90, 101
+	orig: 90, 105
+	offset: 0, 2
+	index: -1
+yuanzidktx1
+	rotate: true
+	xy: 380, 209
+	size: 170, 131
+	orig: 170, 131
+	offset: 0, 0
+	index: -1
+dao1shangyuanziwushikapai
+	rotate: false
+	xy: 384, 153
+	size: 81, 52
+	orig: 81, 52
+	offset: 0, 0
+	index: -1

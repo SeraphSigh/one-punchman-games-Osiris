@@ -1,0 +1,248 @@
+
+asset/anim/zhushijuehaibao21.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sv_hair2_suonikehaibao2
+	rotate: true
+	xy: 395, 1013
+	size: 10, 8
+	orig: 10, 8
+	offset: 0, 0
+	index: -1
+sv_Rarm2_suonikehaibao2
+	rotate: false
+	xy: 374, 1013
+	size: 10, 10
+	orig: 10, 10
+	offset: 0, 0
+	index: -1
+sv_Rleg1_suonikehaibao2
+	rotate: false
+	xy: 569, 192
+	size: 26, 39
+	orig: 26, 39
+	offset: 0, 0
+	index: -1
+sv_hair5_suonikehaibao2
+	rotate: false
+	xy: 442, 1013
+	size: 8, 9
+	orig: 8, 9
+	offset: 0, 0
+	index: -1
+sv_NECK_suonikehaibao2
+	rotate: false
+	xy: 424, 1013
+	size: 8, 9
+	orig: 8, 9
+	offset: 0, 0
+	index: -1
+sv_Rhand_suonikehaibao2
+	rotate: false
+	xy: 433, 1013
+	size: 8, 9
+	orig: 8, 9
+	offset: 0, 0
+	index: -1
+sv_Lleg1_suonikehaibao2
+	rotate: true
+	xy: 569, 258
+	size: 30, 25
+	orig: 30, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushijuehaibao20.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sv_hair6_suonikehaibao2
+	rotate: false
+	xy: 917, 1011
+	size: 9, 12
+	orig: 9, 12
+	offset: 0, 0
+	index: -1
+sv_Lhand_suonikehaibao2
+	rotate: false
+	xy: 904, 1011
+	size: 12, 12
+	orig: 12, 12
+	offset: 0, 0
+	index: -1
+sv_Larm2_suonikehaibao2
+	rotate: false
+	xy: 1009, 67
+	size: 15, 15
+	orig: 15, 15
+	offset: 0, 0
+	index: -1
+sv_hair7_suonikehaibao2
+	rotate: false
+	xy: 1015, 1019
+	size: 5, 5
+	orig: 5, 5
+	offset: 0, 0
+	index: -1
+sv_hair1_suonikehaibao2
+	rotate: true
+	xy: 1009, 99
+	size: 6, 15
+	orig: 6, 15
+	offset: 0, 0
+	index: -1
+canying0_suonikehaibao2
+	rotate: true
+	xy: 0, 749
+	size: 275, 71
+	orig: 275, 71
+	offset: 0, 0
+	index: -1
+sv_Rarm1_suonikehaibao2
+	rotate: false
+	xy: 1009, 139
+	size: 10, 27
+	orig: 10, 27
+	offset: 0, 0
+	index: -1
+sv_hair3_suonikehaibao2
+	rotate: true
+	xy: 462, 1010
+	size: 14, 7
+	orig: 14, 7
+	offset: 0, 0
+	index: -1
+sv_HEAD_suonikehaibao2
+	rotate: false
+	xy: 1008, 277
+	size: 16, 16
+	orig: 16, 16
+	offset: 0, 0
+	index: -1
+sv_hair4_suonikehaibao2
+	rotate: false
+	xy: 1020, 106
+	size: 4, 10
+	orig: 4, 10
+	offset: 0, 0
+	index: -1
+canying2_suonikehaibao2
+	rotate: false
+	xy: 696, 912
+	size: 194, 108
+	orig: 244, 108
+	offset: 30, 0
+	index: -1
+scanyingzi0_suonikehaibao2
+	rotate: true
+	xy: 427, 749
+	size: 260, 89
+	orig: 260, 89
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushijuehaibao23.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scanyingzi1_suonikehaibao2
+	rotate: false
+	xy: 227, 217
+	size: 248, 127
+	orig: 248, 127
+	offset: 0, 0
+	index: -1
+sv_Lleg2_suonikehaibao2
+	rotate: false
+	xy: 640, 656
+	size: 19, 17
+	orig: 19, 17
+	offset: 0, 0
+	index: -1
+sv_dai2_suonikehaibao2
+	rotate: true
+	xy: 982, 226
+	size: 46, 42
+	orig: 46, 42
+	offset: 0, 0
+	index: -1
+canying3_suonikehaibao2
+	rotate: true
+	xy: 556, 345
+	size: 194, 106
+	orig: 244, 108
+	offset: 34, 2
+	index: -1
+sv_jian_suonikehaibao2
+	rotate: false
+	xy: 450, 593
+	size: 72, 30
+	orig: 72, 30
+	offset: 0, 0
+	index: -1
+sv_body_suonikehaibao2
+	rotate: false
+	xy: 484, 163
+	size: 28, 38
+	orig: 28, 38
+	offset: 0, 0
+	index: -1
+sv_Rleg2_suonikehaibao2
+	rotate: true
+	xy: 513, 203
+	size: 22, 28
+	orig: 22, 28
+	offset: 0, 0
+	index: -1
+scanyingzi3_suonikehaibao2
+	rotate: true
+	xy: 513, 638
+	size: 121, 126
+	orig: 121, 126
+	offset: 0, 0
+	index: -1
+sv_Larm1_suonikehaibao2
+	rotate: true
+	xy: 832, 820
+	size: 23, 18
+	orig: 23, 18
+	offset: 0, 0
+	index: -1
+sv_dai1_suonikehaibao2
+	rotate: true
+	xy: 832, 771
+	size: 48, 75
+	orig: 48, 75
+	offset: 0, 0
+	index: -1
+sv_kua_suonikehaibao2
+	rotate: false
+	xy: 851, 820
+	size: 18, 19
+	orig: 18, 19
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushijuehaibao24.png
+size: 1023,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scanyingzi2_suonikehaibao2
+	rotate: true
+	xy: 490, 212
+	size: 178, 126
+	orig: 178, 126
+	offset: 0, 0
+	index: -1
+canying1_suonikehaibao2
+	rotate: false
+	xy: 322, 474
+	size: 164, 108
+	orig: 244, 108
+	offset: 47, 0
+	index: -1

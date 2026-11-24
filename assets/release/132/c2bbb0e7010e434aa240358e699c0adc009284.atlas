@@ -1,0 +1,2282 @@
+
+asset/anim/shanguangfulaishi0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_cape4_shanguangfulaishi
+	rotate: false
+	xy: 0, 174
+	size: 236, 186
+	orig: 236, 186
+	offset: 0, 0
+	index: -1
+a_Rthigh_shanguangfulaishi
+	rotate: false
+	xy: 170, 935
+	size: 62, 64
+	orig: 62, 64
+	offset: 0, 0
+	index: -1
+y_Rarm_shanguangfulaishi
+	rotate: true
+	xy: 995, 566
+	size: 63, 29
+	orig: 63, 29
+	offset: 0, 0
+	index: -1
+e_Rarm_shanguangfulaishi
+	rotate: false
+	xy: 516, 994
+	size: 63, 30
+	orig: 63, 30
+	offset: 0, 0
+	index: -1
+n_body_shanguangfulaishi
+	rotate: false
+	xy: 917, 510
+	size: 76, 81
+	orig: 76, 81
+	offset: 0, 0
+	index: -1
+n_cape1_shanguangfulaishi
+	rotate: false
+	xy: 916, 414
+	size: 108, 95
+	orig: 108, 95
+	offset: 0, 0
+	index: -1
+q_body_shanguangfulaishi
+	rotate: false
+	xy: 531, 770
+	size: 87, 80
+	orig: 87, 80
+	offset: 0, 0
+	index: -1
+a_body_shanguangfulaishi
+	rotate: false
+	xy: 856, 610
+	size: 65, 74
+	orig: 65, 74
+	offset: 0, 0
+	index: -1
+g_Larm_shanguangfulaishi
+	rotate: true
+	xy: 802, 928
+	size: 58, 43
+	orig: 58, 43
+	offset: 0, 0
+	index: -1
+dd_cape1_shanguangfulaishi
+	rotate: true
+	xy: 716, 817
+	size: 74, 83
+	orig: 74, 83
+	offset: 0, 0
+	index: -1
+z_hip_shanguangfulaishi
+	rotate: false
+	xy: 378, 975
+	size: 55, 49
+	orig: 55, 49
+	offset: 0, 0
+	index: -1
+aa_Rarm_shanguangfulaishi
+	rotate: true
+	xy: 979, 687
+	size: 62, 45
+	orig: 62, 45
+	offset: 0, 0
+	index: -1
+k_Rhand_shanguangfulaishi
+	rotate: false
+	xy: 904, 892
+	size: 36, 25
+	orig: 36, 25
+	offset: 0, 0
+	index: -1
+a_sword3_shanguangfulaishi
+	rotate: true
+	xy: 718, 685
+	size: 75, 112
+	orig: 75, 112
+	offset: 0, 0
+	index: -1
+a_Rearm_shanguangfulaishi
+	rotate: true
+	xy: 957, 764
+	size: 45, 21
+	orig: 45, 21
+	offset: 0, 0
+	index: -1
+v_cape4_shanguangfulaishi
+	rotate: false
+	xy: 242, 516
+	size: 213, 133
+	orig: 213, 133
+	offset: 0, 0
+	index: -1
+v_sword2_shanguangfulaishi
+	rotate: true
+	xy: 1009, 108
+	size: 69, 15
+	orig: 69, 15
+	offset: 0, 0
+	index: -1
+a_Lshin_shanguangfulaishi
+	rotate: false
+	xy: 979, 750
+	size: 45, 61
+	orig: 45, 61
+	offset: 0, 0
+	index: -1
+n_cape4_shanguangfulaishi
+	rotate: false
+	xy: 0, 0
+	size: 253, 173
+	orig: 253, 173
+	offset: 0, 0
+	index: -1
+dd_body_shanguangfulaishi
+	rotate: true
+	xy: 619, 848
+	size: 67, 96
+	orig: 67, 96
+	offset: 0, 0
+	index: -1
+t_Lhand_shanguangfulaishi
+	rotate: true
+	xy: 108, 772
+	size: 23, 37
+	orig: 23, 37
+	offset: 0, 0
+	index: -1
+cc_Lthigh_shanguangfulaishi
+	rotate: true
+	xy: 233, 975
+	size: 49, 84
+	orig: 49, 84
+	offset: 0, 0
+	index: -1
+o_cape4_shanguangfulaishi
+	rotate: false
+	xy: 0, 361
+	size: 217, 189
+	orig: 217, 189
+	offset: 0, 0
+	index: -1
+v_Rarm_shanguangfulaishi
+	rotate: true
+	xy: 911, 989
+	size: 35, 58
+	orig: 35, 58
+	offset: 0, 0
+	index: -1
+n_hip_shanguangfulaishi
+	rotate: true
+	xy: 901, 764
+	size: 57, 55
+	orig: 57, 55
+	offset: 0, 0
+	index: -1
+v_Rthigh_shanguangfulaishi
+	rotate: false
+	xy: 816, 764
+	size: 84, 57
+	orig: 84, 57
+	offset: 0, 0
+	index: -1
+s_body_shanguangfulaishi
+	rotate: true
+	xy: 439, 924
+	size: 63, 95
+	orig: 63, 95
+	offset: 0, 0
+	index: -1
+p_cape1_shanguangfulaishi
+	rotate: false
+	xy: 718, 761
+	size: 97, 55
+	orig: 97, 55
+	offset: 0, 0
+	index: -1
+e_body_shanguangfulaishi
+	rotate: true
+	xy: 108, 935
+	size: 89, 61
+	orig: 89, 61
+	offset: 0, 0
+	index: -1
+p_body_shanguangfulaishi
+	rotate: false
+	xy: 922, 592
+	size: 72, 81
+	orig: 72, 81
+	offset: 0, 0
+	index: -1
+a_belt1_shanguangfulaishi
+	rotate: true
+	xy: 995, 630
+	size: 56, 29
+	orig: 56, 29
+	offset: 0, 0
+	index: -1
+dd_cape3_shanguangfulaishi
+	rotate: true
+	xy: 456, 688
+	size: 81, 167
+	orig: 81, 167
+	offset: 0, 0
+	index: -1
+cc_Larm_shanguangfulaishi
+	rotate: false
+	xy: 867, 449
+	size: 48, 67
+	orig: 48, 67
+	offset: 0, 0
+	index: -1
+l_sword2_shanguangfulaishi
+	rotate: false
+	xy: 999, 918
+	size: 25, 68
+	orig: 25, 68
+	offset: 0, 0
+	index: -1
+dd_Rarm_shanguangfulaishi
+	rotate: false
+	xy: 637, 990
+	size: 58, 34
+	orig: 58, 34
+	offset: 0, 0
+	index: -1
+z_cape1_shanguangfulaishi
+	rotate: true
+	xy: 402, 650
+	size: 115, 53
+	orig: 115, 53
+	offset: 0, 0
+	index: -1
+dd_belt1_shanguangfulaishi
+	rotate: false
+	xy: 580, 994
+	size: 56, 30
+	orig: 56, 30
+	offset: 0, 0
+	index: -1
+q_Lforearm_shanguangfulaishi
+	rotate: false
+	xy: 170, 1000
+	size: 60, 24
+	orig: 60, 24
+	offset: 0, 0
+	index: -1
+q_Rshin_shanguangfulaishi
+	rotate: false
+	xy: 776, 987
+	size: 67, 37
+	orig: 67, 37
+	offset: 0, 0
+	index: -1
+z_Rforearm_shanguangfulaishi
+	rotate: true
+	xy: 710, 420
+	size: 28, 39
+	orig: 28, 39
+	offset: 0, 0
+	index: -1
+c_body_shanguangfulaishi
+	rotate: false
+	xy: 831, 685
+	size: 78, 78
+	orig: 78, 78
+	offset: 0, 0
+	index: -1
+o_Rhand2_shanguangfulaishi
+	rotate: true
+	xy: 1012, 318
+	size: 17, 12
+	orig: 17, 12
+	offset: 0, 0
+	index: -1
+q_Rthigh_shanguangfulaishi
+	rotate: false
+	xy: 882, 822
+	size: 61, 69
+	orig: 61, 69
+	offset: 0, 0
+	index: -1
+o_Rarm_shanguangfulaishi
+	rotate: true
+	xy: 844, 988
+	size: 36, 66
+	orig: 36, 66
+	offset: 0, 0
+	index: -1
+cc_body_shanguangfulaishi
+	rotate: true
+	xy: 619, 772
+	size: 75, 95
+	orig: 75, 95
+	offset: 0, 0
+	index: -1
+dd_Larm_shanguangfulaishi
+	rotate: false
+	xy: 944, 891
+	size: 80, 26
+	orig: 80, 26
+	offset: 0, 0
+	index: -1
+z_body_shanguangfulaishi
+	rotate: true
+	xy: 916, 918
+	size: 70, 82
+	orig: 70, 82
+	offset: 0, 0
+	index: -1
+o_Rshin_shanguangfulaishi
+	rotate: false
+	xy: 708, 987
+	size: 67, 37
+	orig: 67, 37
+	offset: 0, 0
+	index: -1
+v_body_shanguangfulaishi
+	rotate: false
+	xy: 446, 770
+	size: 84, 88
+	orig: 84, 88
+	offset: 0, 0
+	index: -1
+q_Lthigh_shanguangfulaishi
+	rotate: false
+	xy: 434, 988
+	size: 81, 36
+	orig: 81, 36
+	offset: 0, 0
+	index: -1
+cc_hip_shanguangfulaishi
+	rotate: false
+	xy: 318, 975
+	size: 59, 49
+	orig: 59, 49
+	offset: 0, 0
+	index: -1
+o_body_shanguangfulaishi
+	rotate: true
+	xy: 622, 916
+	size: 73, 85
+	orig: 73, 85
+	offset: 0, 0
+	index: -1
+m_belt1_shanguangfulaishi
+	rotate: true
+	xy: 994, 510
+	size: 55, 30
+	orig: 55, 30
+	offset: 0, 0
+	index: -1
+gd_shanguangfulaishi
+	rotate: false
+	xy: 108, 796
+	size: 124, 138
+	orig: 124, 138
+	offset: 0, 0
+	index: -1
+a_Lthigh_shanguangfulaishi
+	rotate: false
+	xy: 846, 928
+	size: 69, 59
+	orig: 69, 59
+	offset: 0, 0
+	index: -1
+m_cape1_shanguangfulaishi
+	rotate: true
+	xy: 383, 798
+	size: 106, 62
+	orig: 106, 62
+	offset: 0, 0
+	index: -1
+a_cape1_shanguangfulaishi
+	rotate: false
+	xy: 624, 688
+	size: 93, 83
+	orig: 93, 83
+	offset: 0, 0
+	index: -1
+dd_Rshin_shanguangfulaishi
+	rotate: false
+	xy: 396, 905
+	size: 42, 69
+	orig: 42, 69
+	offset: 0, 0
+	index: -1
+r_Larm_shanguangfulaishi
+	rotate: true
+	xy: 970, 989
+	size: 35, 48
+	orig: 35, 48
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishi1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e_Lthigh_shanguangfulaishi
+	rotate: true
+	xy: 69, 762
+	size: 77, 50
+	orig: 77, 50
+	offset: 0, 0
+	index: -1
+x_Rforearm_shanguangfulaishi
+	rotate: false
+	xy: 395, 809
+	size: 35, 45
+	orig: 35, 45
+	offset: 0, 0
+	index: -1
+n_belt1_shanguangfulaishi
+	rotate: false
+	xy: 420, 235
+	size: 38, 52
+	orig: 38, 52
+	offset: 0, 0
+	index: -1
+n_Rhand_shanguangfulaishi
+	rotate: true
+	xy: 443, 656
+	size: 31, 26
+	orig: 31, 26
+	offset: 0, 0
+	index: -1
+a_cape2_shanguangfulaishi
+	rotate: false
+	xy: 254, 986
+	size: 61, 38
+	orig: 61, 38
+	offset: 0, 0
+	index: -1
+q_sword2_shanguangfulaishi
+	rotate: true
+	xy: 34, 304
+	size: 14, 70
+	orig: 14, 70
+	offset: 0, 0
+	index: -1
+aa_Rhand_shanguangfulaishi
+	rotate: false
+	xy: 234, 608
+	size: 29, 21
+	orig: 29, 21
+	offset: 0, 0
+	index: -1
+v_Larm_shanguangfulaishi
+	rotate: true
+	xy: 186, 913
+	size: 74, 27
+	orig: 74, 27
+	offset: 0, 0
+	index: -1
+e_Rfoot_shanguangfulaishi
+	rotate: true
+	xy: 442, 109
+	size: 27, 37
+	orig: 27, 37
+	offset: 0, 0
+	index: -1
+a_Rforearm_shanguangfulaishi
+	rotate: false
+	xy: 191, 988
+	size: 62, 36
+	orig: 62, 36
+	offset: 0, 0
+	index: -1
+e_Rforearm_shanguangfulaishi
+	rotate: true
+	xy: 367, 235
+	size: 56, 28
+	orig: 56, 28
+	offset: 0, 0
+	index: -1
+m_body_shanguangfulaishi
+	rotate: false
+	xy: 175, 235
+	size: 65, 83
+	orig: 65, 83
+	offset: 0, 0
+	index: -1
+q_belt1_shanguangfulaishi
+	rotate: false
+	xy: 135, 610
+	size: 49, 19
+	orig: 49, 19
+	offset: 0, 0
+	index: -1
+q_Lhand1_shanguangfulaishi
+	rotate: false
+	xy: 273, 964
+	size: 28, 21
+	orig: 28, 21
+	offset: 0, 0
+	index: -1
+v_Lfoot_shanguangfulaishi
+	rotate: false
+	xy: 349, 945
+	size: 43, 38
+	orig: 43, 38
+	offset: 0, 0
+	index: -1
+a_Lfoot_shanguangfulaishi
+	rotate: true
+	xy: 497, 978
+	size: 41, 34
+	orig: 41, 34
+	offset: 0, 0
+	index: -1
+c_Rarm_shanguangfulaishi
+	rotate: true
+	xy: 389, 80
+	size: 56, 52
+	orig: 56, 52
+	offset: 0, 0
+	index: -1
+o_Lshin_shanguangfulaishi
+	rotate: true
+	xy: 302, 465
+	size: 64, 42
+	orig: 64, 42
+	offset: 0, 0
+	index: -1
+v_cape1_shanguangfulaishi
+	rotate: false
+	xy: 442, 59
+	size: 39, 49
+	orig: 39, 49
+	offset: 0, 0
+	index: -1
+m_Rforearm_shanguangfulaishi
+	rotate: true
+	xy: 345, 82
+	size: 54, 43
+	orig: 54, 43
+	offset: 0, 0
+	index: -1
+dd_Rforearm_shanguangfulaishi
+	rotate: true
+	xy: 523, 186
+	size: 48, 31
+	orig: 48, 31
+	offset: 0, 0
+	index: -1
+c_Lhand_shanguangfulaishi
+	rotate: false
+	xy: 505, 844
+	size: 28, 28
+	orig: 28, 28
+	offset: 0, 0
+	index: -1
+a_Lforearm_shanguangfulaishi
+	rotate: true
+	xy: 429, 193
+	size: 41, 46
+	orig: 41, 46
+	offset: 0, 0
+	index: -1
+c_Lforearm_shanguangfulaishi
+	rotate: false
+	xy: 508, 48
+	size: 43, 47
+	orig: 43, 47
+	offset: 0, 0
+	index: -1
+a_Rfoot_shanguangfulaishi
+	rotate: false
+	xy: 370, 690
+	size: 35, 35
+	orig: 35, 35
+	offset: 0, 0
+	index: -1
+z_Rshin_shanguangfulaishi
+	rotate: false
+	xy: 163, 465
+	size: 40, 71
+	orig: 40, 71
+	offset: 0, 0
+	index: -1
+v_sword3_shanguangfulaishi
+	rotate: true
+	xy: 62, 465
+	size: 125, 16
+	orig: 125, 16
+	offset: 0, 0
+	index: -1
+q_Rforearm_shanguangfulaishi
+	rotate: true
+	xy: 330, 630
+	size: 61, 27
+	orig: 61, 27
+	offset: 0, 0
+	index: -1
+l_Rhand1_shanguangfulaishi
+	rotate: false
+	xy: 428, 569
+	size: 25, 27
+	orig: 25, 27
+	offset: 0, 0
+	index: -1
+dd_cape2_shanguangfulaishi
+	rotate: true
+	xy: 352, 354
+	size: 56, 47
+	orig: 56, 47
+	offset: 0, 0
+	index: -1
+dd_Lthigh_shanguangfulaishi
+	rotate: true
+	xy: 132, 915
+	size: 74, 53
+	orig: 74, 53
+	offset: 0, 0
+	index: -1
+z_Lhand_shanguangfulaishi
+	rotate: true
+	xy: 480, 109
+	size: 27, 35
+	orig: 27, 35
+	offset: 0, 0
+	index: -1
+m_Larm_shanguangfulaishi
+	rotate: false
+	xy: 352, 809
+	size: 42, 46
+	orig: 42, 46
+	offset: 0, 0
+	index: -1
+o_belt1_shanguangfulaishi
+	rotate: true
+	xy: 406, 137
+	size: 55, 30
+	orig: 55, 30
+	offset: 0, 0
+	index: -1
+e_Rthigh_shanguangfulaishi
+	rotate: false
+	xy: 120, 839
+	size: 59, 75
+	orig: 59, 75
+	offset: 0, 0
+	index: -1
+o_Lfoot_shanguangfulaishi
+	rotate: false
+	xy: 467, 137
+	size: 33, 49
+	orig: 33, 49
+	offset: 0, 0
+	index: -1
+d_Rforearm_shanguangfulaishi
+	rotate: false
+	xy: 369, 984
+	size: 36, 39
+	orig: 36, 39
+	offset: 0, 0
+	index: -1
+aa_belt1_shanguangfulaishi
+	rotate: false
+	xy: 185, 610
+	size: 48, 19
+	orig: 48, 19
+	offset: 0, 0
+	index: -1
+q_Lhand2_shanguangfulaishi
+	rotate: false
+	xy: 524, 930
+	size: 23, 23
+	orig: 23, 23
+	offset: 0, 0
+	index: -1
+g_Lforearm_shanguangfulaishi
+	rotate: true
+	xy: 466, 0
+	size: 48, 26
+	orig: 48, 26
+	offset: 0, 0
+	index: -1
+q_Lfoot_shanguangfulaishi
+	rotate: true
+	xy: 335, 897
+	size: 47, 25
+	orig: 47, 25
+	offset: 0, 0
+	index: -1
+a_Lhand_shanguangfulaishi
+	rotate: false
+	xy: 559, 978
+	size: 25, 27
+	orig: 25, 27
+	offset: 0, 0
+	index: -1
+s_Rfoot_shanguangfulaishi
+	rotate: true
+	xy: 333, 197
+	size: 37, 34
+	orig: 37, 34
+	offset: 0, 0
+	index: -1
+b_hip_shanguangfulaishi
+	rotate: false
+	xy: 169, 418
+	size: 55, 46
+	orig: 55, 46
+	offset: 0, 0
+	index: -1
+q_hip_shanguangfulaishi
+	rotate: false
+	xy: 476, 187
+	size: 46, 47
+	orig: 46, 47
+	offset: 0, 0
+	index: -1
+o_Rfoot_shanguangfulaishi
+	rotate: true
+	xy: 404, 855
+	size: 41, 43
+	orig: 41, 43
+	offset: 0, 0
+	index: -1
+s_hip_shanguangfulaishi
+	rotate: false
+	xy: 493, 0
+	size: 45, 47
+	orig: 45, 47
+	offset: 0, 0
+	index: -1
+m_Rthigh_shanguangfulaishi
+	rotate: true
+	xy: 214, 913
+	size: 72, 58
+	orig: 72, 58
+	offset: 0, 0
+	index: -1
+o_Rforearm_shanguangfulaishi
+	rotate: true
+	xy: 164, 91
+	size: 45, 54
+	orig: 45, 54
+	offset: 0, 0
+	index: -1
+l_Rhand2_shanguangfulaishi
+	rotate: true
+	xy: 377, 60
+	size: 19, 28
+	orig: 19, 28
+	offset: 0, 0
+	index: -1
+c_Rforearm_shanguangfulaishi
+	rotate: false
+	xy: 361, 897
+	size: 46, 46
+	orig: 46, 46
+	offset: 0, 0
+	index: -1
+i_Larm_shanguangfulaishi
+	rotate: false
+	xy: 345, 520
+	size: 51, 51
+	orig: 51, 51
+	offset: 0, 0
+	index: -1
+dd_hip_shanguangfulaishi
+	rotate: true
+	xy: 252, 701
+	size: 60, 51
+	orig: 60, 51
+	offset: 0, 0
+	index: -1
+j_Lhand_shanguangfulaishi
+	rotate: true
+	xy: 436, 688
+	size: 31, 26
+	orig: 31, 26
+	offset: 0, 0
+	index: -1
+r_Lforearm_shanguangfulaishi
+	rotate: false
+	xy: 316, 984
+	size: 52, 40
+	orig: 52, 40
+	offset: 0, 0
+	index: -1
+z_Rhand_shanguangfulaishi
+	rotate: false
+	xy: 524, 902
+	size: 27, 27
+	orig: 27, 27
+	offset: 0, 0
+	index: -1
+a_cape3_shanguangfulaishi
+	rotate: false
+	xy: 33, 319
+	size: 56, 145
+	orig: 56, 145
+	offset: 0, 0
+	index: -1
+d_Rhand_shanguangfulaishi
+	rotate: false
+	xy: 468, 941
+	size: 30, 36
+	orig: 30, 36
+	offset: 0, 0
+	index: -1
+dd_Rthigh_shanguangfulaishi
+	rotate: false
+	xy: 116, 709
+	size: 70, 52
+	orig: 70, 52
+	offset: 0, 0
+	index: -1
+s_Lshin_shanguangfulaishi
+	rotate: false
+	xy: 203, 537
+	size: 31, 70
+	orig: 31, 70
+	offset: 0, 0
+	index: -1
+n_Lshin_shanguangfulaishi
+	rotate: false
+	xy: 459, 235
+	size: 39, 50
+	orig: 39, 50
+	offset: 0, 0
+	index: -1
+z_Rarm_shanguangfulaishi
+	rotate: false
+	xy: 264, 465
+	size: 37, 65
+	orig: 37, 65
+	offset: 0, 0
+	index: -1
+z_Lthigh_shanguangfulaishi
+	rotate: false
+	xy: 198, 0
+	size: 38, 88
+	orig: 38, 88
+	offset: 0, 0
+	index: -1
+c_Larm_shanguangfulaishi
+	rotate: false
+	xy: 280, 418
+	size: 53, 46
+	orig: 53, 46
+	offset: 0, 0
+	index: -1
+b_Rforearm_shanguangfulaishi
+	rotate: true
+	xy: 449, 346
+	size: 51, 24
+	orig: 51, 24
+	offset: 0, 0
+	index: -1
+a_Rshin_shanguangfulaishi
+	rotate: false
+	xy: 279, 299
+	size: 47, 61
+	orig: 47, 61
+	offset: 0, 0
+	index: -1
+n_Rshin_shanguangfulaishi
+	rotate: true
+	xy: 354, 137
+	size: 59, 51
+	orig: 59, 51
+	offset: 0, 0
+	index: -1
+aa_hip_shanguangfulaishi
+	rotate: false
+	xy: 334, 412
+	size: 46, 52
+	orig: 46, 52
+	offset: 0, 0
+	index: -1
+e_Lfoot_shanguangfulaishi
+	rotate: true
+	xy: 326, 810
+	size: 47, 25
+	orig: 47, 25
+	offset: 0, 0
+	index: -1
+s_Lfoot_shanguangfulaishi
+	rotate: true
+	xy: 588, 48
+	size: 47, 26
+	orig: 47, 26
+	offset: 0, 0
+	index: -1
+v_belt1_shanguangfulaishi
+	rotate: true
+	xy: 583, 0
+	size: 47, 30
+	orig: 47, 30
+	offset: 0, 0
+	index: -1
+n_RArm_shanguangfulaishi
+	rotate: false
+	xy: 401, 292
+	size: 48, 53
+	orig: 48, 53
+	offset: 0, 0
+	index: -1
+n_Rthigh_shanguangfulaishi
+	rotate: false
+	xy: 259, 830
+	size: 66, 66
+	orig: 66, 66
+	offset: 0, 0
+	index: -1
+o_Lhand_shanguangfulaishi
+	rotate: false
+	xy: 459, 794
+	size: 30, 32
+	orig: 30, 32
+	offset: 0, 0
+	index: -1
+z_belt1_shanguangfulaishi
+	rotate: true
+	xy: 498, 286
+	size: 50, 27
+	orig: 50, 27
+	offset: 0, 0
+	index: -1
+cc_Rshin_shanguangfulaishi
+	rotate: false
+	xy: 135, 465
+	size: 27, 72
+	orig: 27, 72
+	offset: 0, 0
+	index: -1
+q_Rhand_shanguangfulaishi
+	rotate: true
+	xy: 457, 760
+	size: 33, 25
+	orig: 33, 25
+	offset: 0, 0
+	index: -1
+b_Lforearm_shanguangfulaishi
+	rotate: true
+	xy: 345, 465
+	size: 54, 36
+	orig: 54, 36
+	offset: 0, 0
+	index: -1
+z_Lshin_shanguangfulaishi
+	rotate: false
+	xy: 241, 235
+	size: 25, 65
+	orig: 25, 65
+	offset: 0, 0
+	index: -1
+e_belt1_shanguangfulaishi
+	rotate: false
+	xy: 438, 897
+	size: 34, 43
+	orig: 34, 43
+	offset: 0, 0
+	index: -1
+dd_Rhand1_shanguangfulaishi
+	rotate: false
+	xy: 553, 953
+	size: 25, 24
+	orig: 25, 24
+	offset: 0, 0
+	index: -1
+e_Rshin_shanguangfulaishi
+	rotate: true
+	xy: 267, 235
+	size: 63, 47
+	orig: 63, 47
+	offset: 0, 0
+	index: -1
+b_body_shanguangfulaishi
+	rotate: false
+	xy: 237, 0
+	size: 70, 81
+	orig: 70, 81
+	offset: 0, 0
+	index: -1
+cc_Rforearm_shanguangfulaishi
+	rotate: true
+	xy: 448, 855
+	size: 32, 29
+	orig: 32, 29
+	offset: 0, 0
+	index: -1
+n_Lfoot_shanguangfulaishi
+	rotate: true
+	xy: 552, 48
+	size: 47, 35
+	orig: 47, 35
+	offset: 0, 0
+	index: -1
+s_Rhand_shanguangfulaishi
+	rotate: true
+	xy: 404, 726
+	size: 34, 30
+	orig: 34, 30
+	offset: 0, 0
+	index: -1
+u_sword2_shanguangfulaishi
+	rotate: true
+	xy: 301, 630
+	size: 67, 28
+	orig: 67, 28
+	offset: 0, 0
+	index: -1
+dd_Lhand_shanguangfulaishi
+	rotate: false
+	xy: 371, 856
+	size: 32, 38
+	orig: 32, 38
+	offset: 0, 0
+	index: -1
+dd_sword2_shanguangfulaishi
+	rotate: true
+	xy: 474, 339
+	size: 50, 28
+	orig: 50, 28
+	offset: 0, 0
+	index: -1
+v_Rhand1_shanguangfulaishi
+	rotate: true
+	xy: 497, 814
+	size: 29, 25
+	orig: 29, 25
+	offset: 0, 0
+	index: -1
+a_hip_shanguangfulaishi
+	rotate: true
+	xy: 315, 235
+	size: 59, 51
+	orig: 59, 51
+	offset: 0, 0
+	index: -1
+v_Lthigh_shanguangfulaishi
+	rotate: false
+	xy: 204, 465
+	size: 59, 68
+	orig: 59, 68
+	offset: 0, 0
+	index: -1
+z_Rthigh_shanguangfulaishi
+	rotate: false
+	xy: 187, 137
+	size: 40, 84
+	orig: 40, 84
+	offset: 0, 0
+	index: -1
+p_Rthigh_shanguangfulaishi
+	rotate: false
+	xy: 499, 235
+	size: 39, 48
+	orig: 39, 48
+	offset: 0, 0
+	index: -1
+e_sword2_shanguangfulaishi
+	rotate: true
+	xy: 396, 761
+	size: 34, 32
+	orig: 34, 32
+	offset: 0, 0
+	index: -1
+n_Rforearm_shanguangfulaishi
+	rotate: false
+	xy: 539, 0
+	size: 43, 47
+	orig: 43, 47
+	offset: 0, 0
+	index: -1
+s_sword2_shanguangfulaishi
+	rotate: true
+	xy: 231, 831
+	size: 68, 27
+	orig: 68, 27
+	offset: 0, 0
+	index: -1
+e_hip_shanguangfulaishi
+	rotate: false
+	xy: 452, 980
+	size: 44, 44
+	orig: 44, 44
+	offset: 0, 0
+	index: -1
+s_Rshin_shanguangfulaishi
+	rotate: false
+	xy: 297, 137
+	size: 56, 59
+	orig: 56, 59
+	offset: 0, 0
+	index: -1
+p_hip_shanguangfulaishi
+	rotate: true
+	xy: 293, 82
+	size: 54, 51
+	orig: 54, 51
+	offset: 0, 0
+	index: -1
+m_Lhand_shanguangfulaishi
+	rotate: true
+	xy: 490, 783
+	size: 30, 27
+	orig: 30, 27
+	offset: 0, 0
+	index: -1
+aa_body_shanguangfulaishi
+	rotate: false
+	xy: 148, 319
+	size: 62, 98
+	orig: 62, 98
+	offset: 0, 0
+	index: -1
+n_Rfoot_shanguangfulaishi
+	rotate: false
+	xy: 326, 858
+	size: 44, 38
+	orig: 44, 38
+	offset: 0, 0
+	index: -1
+a_sword2_shanguangfulaishi
+	rotate: false
+	xy: 105, 304
+	size: 69, 14
+	orig: 69, 14
+	offset: 0, 0
+	index: -1
+v_Rfoot_shanguangfulaishi
+	rotate: false
+	xy: 326, 762
+	size: 25, 47
+	orig: 25, 47
+	offset: 0, 0
+	index: -1
+a_Lhand2_shanguangfulaishi
+	rotate: false
+	xy: 470, 649
+	size: 24, 25
+	orig: 24, 25
+	offset: 0, 0
+	index: -1
+p_belt1_shanguangfulaishi
+	rotate: true
+	xy: 403, 0
+	size: 59, 23
+	orig: 59, 23
+	offset: 0, 0
+	index: -1
+r_Lhand_shanguangfulaishi
+	rotate: false
+	xy: 370, 726
+	size: 33, 34
+	orig: 33, 34
+	offset: 0, 0
+	index: -1
+cc_Lshin_shanguangfulaishi
+	rotate: false
+	xy: 235, 534
+	size: 42, 68
+	orig: 42, 68
+	offset: 0, 0
+	index: -1
+o_Rhand1_shanguangfulaishi
+	rotate: false
+	xy: 429, 761
+	size: 27, 34
+	orig: 27, 34
+	offset: 0, 0
+	index: -1
+m_Lshin_shanguangfulaishi
+	rotate: false
+	xy: 358, 630
+	size: 56, 59
+	orig: 56, 59
+	offset: 0, 0
+	index: -1
+u_Lhand_shanguangfulaishi
+	rotate: true
+	xy: 431, 796
+	size: 33, 27
+	orig: 33, 27
+	offset: 0, 0
+	index: -1
+o_cape2_shanguangfulaishi
+	rotate: false
+	xy: 53, 137
+	size: 65, 23
+	orig: 65, 23
+	offset: 0, 0
+	index: -1
+m_Lthigh_shanguangfulaishi
+	rotate: true
+	xy: 187, 701
+	size: 60, 64
+	orig: 60, 64
+	offset: 0, 0
+	index: -1
+bb_Rarm_shanguangfulaishi
+	rotate: true
+	xy: 269, 630
+	size: 67, 31
+	orig: 67, 31
+	offset: 0, 0
+	index: -1
+a_Rhand_shanguangfulaishi
+	rotate: false
+	xy: 464, 827
+	size: 32, 27
+	orig: 32, 27
+	offset: 0, 0
+	index: -1
+n_Lhand_shanguangfulaishi
+	rotate: true
+	xy: 512, 751
+	size: 30, 27
+	orig: 30, 27
+	offset: 0, 0
+	index: -1
+o_hip_shanguangfulaishi
+	rotate: false
+	xy: 270, 367
+	size: 56, 50
+	orig: 56, 50
+	offset: 0, 0
+	index: -1
+cc_Rhand1_shanguangfulaishi
+	rotate: false
+	xy: 523, 812
+	size: 28, 28
+	orig: 28, 28
+	offset: 0, 0
+	index: -1
+r_Rhand_shanguangfulaishi
+	rotate: false
+	xy: 523, 873
+	size: 28, 28
+	orig: 28, 28
+	offset: 0, 0
+	index: -1
+c_cape1_shanguangfulaishi
+	rotate: true
+	xy: 79, 465
+	size: 113, 55
+	orig: 113, 55
+	offset: 0, 0
+	index: -1
+s_Lthigh_shanguangfulaishi
+	rotate: true
+	xy: 180, 838
+	size: 74, 50
+	orig: 74, 50
+	offset: 0, 0
+	index: -1
+o_cape1_shanguangfulaishi
+	rotate: true
+	xy: 164, 0
+	size: 90, 33
+	orig: 90, 33
+	offset: 0, 0
+	index: -1
+cc_Lforearm_shanguangfulaishi
+	rotate: true
+	xy: 362, 295
+	size: 56, 38
+	orig: 56, 38
+	offset: 0, 0
+	index: -1
+c_sword2_shanguangfulaishi
+	rotate: true
+	xy: 424, 346
+	size: 52, 24
+	orig: 52, 24
+	offset: 0, 0
+	index: -1
+j_Lforearm_shanguangfulaishi
+	rotate: true
+	xy: 396, 235
+	size: 56, 23
+	orig: 56, 23
+	offset: 0, 0
+	index: -1
+n_Lthigh_shanguangfulaishi
+	rotate: false
+	xy: 162, 762
+	size: 38, 75
+	orig: 38, 75
+	offset: 0, 0
+	index: -1
+s_Rthigh_shanguangfulaishi
+	rotate: false
+	xy: 135, 538
+	size: 67, 71
+	orig: 67, 71
+	offset: 0, 0
+	index: -1
+h_Lhand_shanguangfulaishi
+	rotate: true
+	xy: 435, 725
+	size: 34, 24
+	orig: 34, 24
+	offset: 0, 0
+	index: -1
+i_Lhand_shanguangfulaishi
+	rotate: false
+	xy: 532, 978
+	size: 26, 27
+	orig: 26, 27
+	offset: 0, 0
+	index: -1
+cc_Rarm_shanguangfulaishi
+	rotate: false
+	xy: 450, 288
+	size: 47, 50
+	orig: 47, 50
+	offset: 0, 0
+	index: -1
+g_Lhand_shanguangfulaishi
+	rotate: true
+	xy: 483, 752
+	size: 30, 28
+	orig: 30, 28
+	offset: 0, 0
+	index: -1
+bb_Rhand_shanguangfulaishi
+	rotate: true
+	xy: 486, 720
+	size: 30, 27
+	orig: 30, 27
+	offset: 0, 0
+	index: -1
+p_Rshin_shanguangfulaishi
+	rotate: false
+	xy: 288, 762
+	size: 37, 66
+	orig: 37, 66
+	offset: 0, 0
+	index: -1
+cc_sword2_shanguangfulaishi
+	rotate: false
+	xy: 381, 411
+	size: 51, 53
+	orig: 51, 53
+	offset: 0, 0
+	index: -1
+n_Larm_shanguangfulaishi
+	rotate: true
+	xy: 201, 762
+	size: 68, 42
+	orig: 68, 42
+	offset: 0, 0
+	index: -1
+y_Rhand_shanguangfulaishi
+	rotate: true
+	xy: 428, 597
+	size: 25, 27
+	orig: 25, 27
+	offset: 0, 0
+	index: -1
+n_Lforearm_shanguangfulaishi
+	rotate: true
+	xy: 306, 530
+	size: 61, 38
+	orig: 61, 38
+	offset: 0, 0
+	index: -1
+x_Lhand_shanguangfulaishi
+	rotate: true
+	xy: 478, 855
+	size: 32, 26
+	orig: 32, 26
+	offset: 0, 0
+	index: -1
+a_Learm_shanguangfulaishi
+	rotate: false
+	xy: 297, 197
+	size: 35, 37
+	orig: 35, 37
+	offset: 0, 0
+	index: -1
+v_hip_shanguangfulaishi
+	rotate: false
+	xy: 382, 465
+	size: 51, 51
+	orig: 51, 51
+	offset: 0, 0
+	index: -1
+v_Lshin_shanguangfulaishi
+	rotate: true
+	xy: 253, 301
+	size: 65, 25
+	orig: 65, 25
+	offset: 0, 0
+	index: -1
+cc_Rfoot_shanguangfulaishi
+	rotate: true
+	xy: 482, 49
+	size: 48, 25
+	orig: 48, 25
+	offset: 0, 0
+	index: -1
+e_Rhand_shanguangfulaishi
+	rotate: true
+	xy: 368, 197
+	size: 37, 30
+	orig: 37, 30
+	offset: 0, 0
+	index: -1
+dd_Lforearm_shanguangfulaishi
+	rotate: false
+	xy: 327, 354
+	size: 24, 57
+	orig: 24, 57
+	offset: 0, 0
+	index: -1
+e_Lforearm_shanguangfulaishi
+	rotate: false
+	xy: 408, 897
+	size: 29, 45
+	orig: 29, 45
+	offset: 0, 0
+	index: -1
+e_Lhand_shanguangfulaishi
+	rotate: true
+	xy: 463, 688
+	size: 31, 24
+	orig: 31, 24
+	offset: 0, 0
+	index: -1
+v_Rshin_shanguangfulaishi
+	rotate: false
+	xy: 62, 591
+	size: 72, 39
+	orig: 72, 39
+	offset: 0, 0
+	index: -1
+m_cape2_shanguangfulaishi
+	rotate: true
+	xy: 211, 319
+	size: 65, 41
+	orig: 65, 41
+	offset: 0, 0
+	index: -1
+c_hip_shanguangfulaishi
+	rotate: true
+	xy: 397, 517
+	size: 51, 45
+	orig: 51, 45
+	offset: 0, 0
+	index: -1
+m_Rfoot_shanguangfulaishi
+	rotate: true
+	xy: 550, 137
+	size: 47, 26
+	orig: 47, 26
+	offset: 0, 0
+	index: -1
+ee_belt1_shanguangfulaishi
+	rotate: false
+	xy: 264, 603
+	size: 58, 26
+	orig: 58, 26
+	offset: 0, 0
+	index: -1
+c_Rhand_shanguangfulaishi
+	rotate: true
+	xy: 399, 197
+	size: 37, 29
+	orig: 37, 29
+	offset: 0, 0
+	index: -1
+d_Rarm_shanguangfulaishi
+	rotate: false
+	xy: 433, 399
+	size: 44, 51
+	orig: 44, 51
+	offset: 0, 0
+	index: -1
+v_Lforearm_shanguangfulaishi
+	rotate: true
+	xy: 211, 385
+	size: 32, 58
+	orig: 32, 58
+	offset: 0, 0
+	index: -1
+m_Lforearm_shanguangfulaishi
+	rotate: false
+	xy: 323, 592
+	size: 55, 37
+	orig: 55, 37
+	offset: 0, 0
+	index: -1
+b_Lhand_shanguangfulaishi
+	rotate: true
+	xy: 415, 656
+	size: 31, 27
+	orig: 31, 27
+	offset: 0, 0
+	index: -1
+m_Rhand_shanguangfulaishi
+	rotate: true
+	xy: 460, 720
+	size: 31, 25
+	orig: 31, 25
+	offset: 0, 0
+	index: -1
+p_Rfoot_shanguangfulaishi
+	rotate: false
+	xy: 437, 137
+	size: 29, 52
+	orig: 29, 52
+	offset: 0, 0
+	index: -1
+bb_Rforearm_shanguangfulaishi
+	rotate: true
+	xy: 400, 352
+	size: 54, 23
+	orig: 54, 23
+	offset: 0, 0
+	index: -1
+o_Rthigh_shanguangfulaishi
+	rotate: true
+	xy: 90, 422
+	size: 42, 78
+	orig: 42, 78
+	offset: 0, 0
+	index: -1
+u_Lforearm_shanguangfulaishi
+	rotate: true
+	xy: 406, 983
+	size: 41, 45
+	orig: 41, 45
+	offset: 0, 0
+	index: -1
+cc_Rhand2_shanguangfulaishi
+	rotate: false
+	xy: 0, 1008
+	size: 13, 13
+	orig: 13, 13
+	offset: 0, 0
+	index: -1
+e_Larm_shanguangfulaishi
+	rotate: true
+	xy: 393, 944
+	size: 38, 42
+	orig: 38, 42
+	offset: 0, 0
+	index: -1
+f_Lhand_shanguangfulaishi
+	rotate: true
+	xy: 473, 888
+	size: 32, 26
+	orig: 32, 26
+	offset: 0, 0
+	index: -1
+w_Rhand_shanguangfulaishi
+	rotate: false
+	xy: 499, 954
+	size: 30, 23
+	orig: 30, 23
+	offset: 0, 0
+	index: -1
+q_Rarm_shanguangfulaishi
+	rotate: false
+	xy: 327, 295
+	size: 34, 58
+	orig: 34, 58
+	offset: 0, 0
+	index: -1
+cc_Rthigh_shanguangfulaishi
+	rotate: false
+	xy: 120, 762
+	size: 41, 76
+	orig: 41, 76
+	offset: 0, 0
+	index: -1
+b_Larm_shanguangfulaishi
+	rotate: true
+	xy: 132, 990
+	size: 34, 58
+	orig: 34, 58
+	offset: 0, 0
+	index: -1
+m_hip_shanguangfulaishi
+	rotate: false
+	xy: 501, 137
+	size: 48, 48
+	orig: 48, 48
+	offset: 0, 0
+	index: -1
+e_Lshin_shanguangfulaishi
+	rotate: false
+	xy: 307, 897
+	size: 27, 66
+	orig: 27, 66
+	offset: 0, 0
+	index: -1
+o_Lthigh_shanguangfulaishi
+	rotate: false
+	xy: 116, 631
+	size: 44, 77
+	orig: 44, 77
+	offset: 0, 0
+	index: -1
+o_Lforearm_shanguangfulaishi
+	rotate: true
+	xy: 379, 572
+	size: 51, 48
+	orig: 51, 48
+	offset: 0, 0
+	index: -1
+m_Lfoot_shanguangfulaishi
+	rotate: false
+	xy: 436, 943
+	size: 31, 36
+	orig: 31, 36
+	offset: 0, 0
+	index: -1
+z_Lforearm_shanguangfulaishi
+	rotate: true
+	xy: 225, 418
+	size: 46, 54
+	orig: 46, 54
+	offset: 0, 0
+	index: -1
+z_Lfoot_shanguangfulaishi
+	rotate: true
+	xy: 614, 0
+	size: 47, 26
+	orig: 47, 26
+	offset: 0, 0
+	index: -1
+q_Rfoot_shanguangfulaishi
+	rotate: true
+	xy: 415, 624
+	size: 31, 30
+	orig: 31, 30
+	offset: 0, 0
+	index: -1
+v_Rhand2_shanguangfulaishi
+	rotate: true
+	xy: 33, 465
+	size: 9, 17
+	orig: 9, 17
+	offset: 0, 0
+	index: -1
+aa_Rforearm_shanguangfulaishi
+	rotate: true
+	xy: 377, 0
+	size: 59, 25
+	orig: 59, 25
+	offset: 0, 0
+	index: -1
+m_Rshin_shanguangfulaishi
+	rotate: false
+	xy: 273, 897
+	size: 33, 66
+	orig: 33, 66
+	offset: 0, 0
+	index: -1
+q_Lshin_shanguangfulaishi
+	rotate: false
+	xy: 278, 531
+	size: 27, 65
+	orig: 27, 65
+	offset: 0, 0
+	index: -1
+o_sword2_shanguangfulaishi
+	rotate: true
+	xy: 559, 96
+	size: 39, 43
+	orig: 39, 43
+	offset: 0, 0
+	index: -1
+cc_Lfoot_shanguangfulaishi
+	rotate: false
+	xy: 446, 623
+	size: 25, 25
+	orig: 25, 25
+	offset: 0, 0
+	index: -1
+z_Rfoot_shanguangfulaishi
+	rotate: false
+	xy: 406, 690
+	size: 29, 34
+	orig: 29, 34
+	offset: 0, 0
+	index: -1
+o_Larm_shanguangfulaishi
+	rotate: false
+	xy: 244, 762
+	size: 43, 67
+	orig: 43, 67
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishi_chunjie1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_sword1_shanguangfulaishi
+	rotate: false
+	xy: 0, 0
+	size: 154, 61
+	orig: 154, 61
+	offset: 0, 0
+	index: -1
+a_hair2_shanguangfulaishi
+	rotate: true
+	xy: 695, 275
+	size: 35, 93
+	orig: 35, 93
+	offset: 0, 0
+	index: -1
+a_head2_shanguangfulaishi
+	rotate: true
+	xy: 567, 633
+	size: 68, 81
+	orig: 68, 81
+	offset: 0, 0
+	index: -1
+cc_head_shanguangfulaishi
+	rotate: true
+	xy: 155, 344
+	size: 67, 86
+	orig: 67, 86
+	offset: 0, 0
+	index: -1
+a_eye2_shanguangfulaishi
+	rotate: true
+	xy: 421, 85
+	size: 47, 18
+	orig: 47, 18
+	offset: 0, 0
+	index: -1
+dd_head_shanguangfulaishi
+	rotate: true
+	xy: 818, 628
+	size: 67, 81
+	orig: 67, 81
+	offset: 0, 0
+	index: -1
+a_eye3_shanguangfulaishi
+	rotate: true
+	xy: 280, 94
+	size: 46, 15
+	orig: 46, 15
+	offset: 0, 0
+	index: -1
+a_cape_star_shanguangfulaishi
+	rotate: true
+	xy: 289, 858
+	size: 23, 32
+	orig: 23, 32
+	offset: 0, 0
+	index: -1
+n_head_shanguangfulaishi
+	rotate: true
+	xy: 818, 558
+	size: 69, 81
+	orig: 69, 81
+	offset: 0, 0
+	index: -1
+o_hair1_shanguangfulaishi
+	rotate: true
+	xy: 0, 569
+	size: 51, 79
+	orig: 51, 79
+	offset: 0, 0
+	index: -1
+cc_head_star_shanguangfulaishi
+	rotate: false
+	xy: 982, 714
+	size: 42, 40
+	orig: 42, 40
+	offset: 0, 0
+	index: -1
+a_head1_shanguangfulaishi
+	rotate: true
+	xy: 695, 576
+	size: 68, 81
+	orig: 68, 81
+	offset: 0, 0
+	index: -1
+cc_hair2_shanguangfulaishi
+	rotate: true
+	xy: 695, 311
+	size: 35, 93
+	orig: 35, 93
+	offset: 0, 0
+	index: -1
+n_cape_star_shanguangfulaishi
+	rotate: true
+	xy: 474, 859
+	size: 23, 22
+	orig: 23, 22
+	offset: 0, 0
+	index: -1
+e_benghuai_shanguangfulaishi
+	rotate: true
+	xy: 0, 621
+	size: 68, 78
+	orig: 68, 78
+	offset: 0, 0
+	index: -1
+v_Rforearm_shanguangfulaishi
+	rotate: true
+	xy: 656, 370
+	size: 58, 38
+	orig: 58, 38
+	offset: 0, 0
+	index: -1
+a_head_shanguangfulaishi
+	rotate: true
+	xy: 900, 584
+	size: 68, 81
+	orig: 68, 81
+	offset: 0, 0
+	index: -1
+e_head_star_shanguangfulaishi
+	rotate: false
+	xy: 185, 810
+	size: 39, 31
+	orig: 39, 31
+	offset: 0, 0
+	index: -1
+e_cape1_shanguangfulaishi
+	rotate: false
+	xy: 371, 654
+	size: 65, 63
+	orig: 65, 63
+	offset: 0, 0
+	index: -1
+e_cape_star_shanguangfulaishi
+	rotate: true
+	xy: 626, 732
+	size: 32, 22
+	orig: 32, 22
+	offset: 0, 0
+	index: -1
+a_head_star_shanguangfulaishi
+	rotate: true
+	xy: 111, 359
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+aa_sword1_shanguangfulaishi
+	rotate: true
+	xy: 0, 750
+	size: 55, 63
+	orig: 55, 63
+	offset: 0, 0
+	index: -1
+m_cape_star_shanguangfulaishi
+	rotate: false
+	xy: 626, 765
+	size: 22, 29
+	orig: 22, 29
+	offset: 0, 0
+	index: -1
+s_belt1_shanguangfulaishi
+	rotate: true
+	xy: 1001, 425
+	size: 50, 23
+	orig: 50, 23
+	offset: 0, 0
+	index: -1
+s_cape1_shanguangfulaishi
+	rotate: true
+	xy: 649, 849
+	size: 46, 43
+	orig: 46, 43
+	offset: 0, 0
+	index: -1
+o_hair2_shanguangfulaishi
+	rotate: true
+	xy: 81, 430
+	size: 47, 73
+	orig: 47, 73
+	offset: 0, 0
+	index: -1
+z_cape_star_shanguangfulaishi
+	rotate: false
+	xy: 25, 838
+	size: 24, 32
+	orig: 24, 32
+	offset: 0, 0
+	index: -1
+m_head_shanguangfulaishi
+	rotate: true
+	xy: 694, 645
+	size: 65, 81
+	orig: 65, 81
+	offset: 0, 0
+	index: -1
+c_cape_star_shanguangfulaishi
+	rotate: false
+	xy: 146, 896
+	size: 22, 28
+	orig: 22, 28
+	offset: 0, 0
+	index: -1
+o_cape_shanguangfulaishi
+	rotate: false
+	xy: 0, 838
+	size: 24, 32
+	orig: 24, 32
+	offset: 0, 0
+	index: -1
+p_cape_star_shanguangfulaishi
+	rotate: false
+	xy: 165, 868
+	size: 22, 27
+	orig: 22, 27
+	offset: 0, 0
+	index: -1
+e_head_shanguangfulaishi
+	rotate: true
+	xy: 0, 364
+	size: 68, 80
+	orig: 68, 80
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishi_chunjie0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e_sword1_shanguangfulaishi
+	rotate: false
+	xy: 907, 198
+	size: 83, 74
+	orig: 83, 74
+	offset: 0, 0
+	index: -1
+fulaishi_run_00012
+	rotate: true
+	xy: 0, 780
+	size: 244, 95
+	orig: 268, 127
+	offset: 16, 26
+	index: -1
+u_sword1_shanguangfulaishi
+	rotate: true
+	xy: 382, 778
+	size: 156, 69
+	orig: 156, 69
+	offset: 0, 0
+	index: -1
+fulaishi_run_00008
+	rotate: true
+	xy: 106, 519
+	size: 260, 101
+	orig: 268, 127
+	offset: 8, 13
+	index: -1
+fulaishi_run_00009
+	rotate: true
+	xy: 96, 780
+	size: 244, 91
+	orig: 268, 127
+	offset: 24, 22
+	index: -1
+fulaishi_run_00002
+	rotate: false
+	xy: 331, 100
+	size: 252, 107
+	orig: 268, 127
+	offset: 0, 10
+	index: -1
+fulaishi_run_00003
+	rotate: true
+	xy: 274, 778
+	size: 246, 107
+	orig: 268, 127
+	offset: 1, 10
+	index: -1
+a_hair1_shanguangfulaishi
+	rotate: false
+	xy: 651, 670
+	size: 64, 88
+	orig: 64, 88
+	offset: 0, 0
+	index: -1
+fulaishi_run_00001
+	rotate: true
+	xy: 0, 260
+	size: 258, 111
+	orig: 268, 127
+	offset: 0, 8
+	index: -1
+fulaishi_run_00006
+	rotate: false
+	xy: 263, 0
+	size: 266, 99
+	orig: 268, 127
+	offset: 2, 18
+	index: -1
+fulaishi_run_00007
+	rotate: true
+	xy: 485, 306
+	size: 246, 101
+	orig: 268, 127
+	offset: 18, 15
+	index: -1
+fulaishi_run_00004
+	rotate: false
+	xy: 795, 0
+	size: 226, 111
+	orig: 268, 127
+	offset: 19, 8
+	index: -1
+fulaishi_run_00000
+	rotate: false
+	xy: 0, 0
+	size: 262, 109
+	orig: 268, 127
+	offset: 0, 10
+	index: -1
+fulaishi_run_00005
+	rotate: false
+	xy: 331, 208
+	size: 250, 97
+	orig: 268, 127
+	offset: 13, 22
+	index: -1
+fulaishi_run_00011
+	rotate: true
+	xy: 188, 780
+	size: 244, 85
+	orig: 268, 127
+	offset: 16, 27
+	index: -1
+fulaishi_run_00010
+	rotate: false
+	xy: 744, 112
+	size: 246, 85
+	orig: 268, 127
+	offset: 19, 27
+	index: -1
+fulaishi_run_00013
+	rotate: true
+	xy: 220, 260
+	size: 256, 95
+	orig: 268, 127
+	offset: 7, 24
+	index: -1
+fulaishi_run_00015
+	rotate: false
+	xy: 530, 0
+	size: 264, 99
+	orig: 268, 127
+	offset: 0, 18
+	index: -1
+fulaishi_run_00014
+	rotate: true
+	xy: 208, 517
+	size: 260, 95
+	orig: 268, 127
+	offset: 0, 23
+	index: -1
+fulaishi_run_00017
+	rotate: true
+	xy: 112, 260
+	size: 256, 107
+	orig: 268, 127
+	offset: 0, 13
+	index: -1
+fulaishi_run_00016
+	rotate: true
+	xy: 0, 519
+	size: 260, 105
+	orig: 268, 127
+	offset: 0, 15
+	index: -1
+o_head_shanguangfulaishi
+	rotate: false
+	xy: 419, 707
+	size: 63, 70
+	orig: 63, 70
+	offset: 0, 0
+	index: -1
+a_hair4_shanguangfulaishi
+	rotate: true
+	xy: 221, 110
+	size: 149, 109
+	orig: 149, 109
+	offset: 0, 0
+	index: -1
+cc_hair4_shanguangfulaishi
+	rotate: true
+	xy: 584, 100
+	size: 147, 159
+	orig: 147, 159
+	offset: 0, 0
+	index: -1
+q_sword1_shanguangfulaishi
+	rotate: true
+	xy: 718, 525
+	size: 32, 156
+	orig: 32, 156
+	offset: 0, 0
+	index: -1
+v_hair4_shanguangfulaishi
+	rotate: false
+	xy: 877, 654
+	size: 97, 67
+	orig: 97, 67
+	offset: 0, 0
+	index: -1
+o_sword1_shanguangfulaishi
+	rotate: false
+	xy: 304, 579
+	size: 110, 136
+	orig: 110, 136
+	offset: 0, 0
+	index: -1
+cc_sword1_shanguangfulaishi
+	rotate: true
+	xy: 587, 434
+	size: 115, 130
+	orig: 115, 130
+	offset: 0, 0
+	index: -1
+a_hair3_shanguangfulaishi
+	rotate: false
+	xy: 744, 198
+	size: 162, 66
+	orig: 162, 66
+	offset: 0, 0
+	index: -1
+c_sword1_shanguangfulaishi
+	rotate: false
+	xy: 718, 451
+	size: 154, 73
+	orig: 154, 73
+	offset: 0, 0
+	index: -1
+v_sword1_shanguangfulaishi
+	rotate: true
+	xy: 991, 112
+	size: 157, 33
+	orig: 157, 33
+	offset: 0, 0
+	index: -1
+a_eye1_shanguangfulaishi
+	rotate: false
+	xy: 660, 1003
+	size: 46, 19
+	orig: 46, 19
+	offset: 0, 0
+	index: -1
+l_sword1_shanguangfulaishi
+	rotate: true
+	xy: 582, 248
+	size: 52, 160
+	orig: 52, 160
+	offset: 0, 0
+	index: -1
+a_sword1_shanguangfulaishi
+	rotate: false
+	xy: 743, 265
+	size: 160, 34
+	orig: 160, 34
+	offset: 0, 0
+	index: -1
+dd_sword1_shanguangfulaishi
+	rotate: false
+	xy: 756, 300
+	size: 146, 91
+	orig: 146, 91
+	offset: 0, 0
+	index: -1
+e_cape4_shanguangfulaishi
+	rotate: false
+	xy: 0, 110
+	size: 220, 149
+	orig: 220, 149
+	offset: 0, 0
+	index: -1
+cc_hair1_shanguangfulaishi
+	rotate: false
+	xy: 880, 835
+	size: 58, 93
+	orig: 58, 93
+	offset: 0, 0
+	index: -1

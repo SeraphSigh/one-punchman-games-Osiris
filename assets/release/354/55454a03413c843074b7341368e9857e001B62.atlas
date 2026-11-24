@@ -1,0 +1,419 @@
+
+asset/anim/dajiongyan2kapai.png
+size: 1017,737
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_zuoxiaobi_dajongyan2kapai
+	rotate: true
+	xy: 682, 464
+	size: 137, 83
+	orig: 137, 83
+	offset: 0, 0
+	index: -1
+zhencha1_chibang2_dajongyan2kapai
+	rotate: false
+	xy: 0, 698
+	size: 99, 35
+	orig: 99, 35
+	offset: 0, 0
+	index: -1
+a_zuodabi_dajongyan2kapai
+	rotate: true
+	xy: 805, 228
+	size: 107, 134
+	orig: 107, 134
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi2_dajongyan2kapai
+	rotate: false
+	xy: 907, 472
+	size: 66, 53
+	orig: 66, 53
+	offset: 0, 0
+	index: -1
+zhencha2_tui2_dajongyan2kapai
+	rotate: false
+	xy: 987, 692
+	size: 19, 42
+	orig: 19, 42
+	offset: 0, 0
+	index: -1
+a_youxiaobi_dajongyan2kapai
+	rotate: false
+	xy: 808, 336
+	size: 98, 69
+	orig: 98, 69
+	offset: 0, 0
+	index: -1
+a_zuodabi2_dajongyan2kapai
+	rotate: false
+	xy: 932, 160
+	size: 82, 55
+	orig: 82, 55
+	offset: 0, 0
+	index: -1
+a_youdabi2_dajongyan2kapai
+	rotate: false
+	xy: 846, 654
+	size: 49, 50
+	orig: 49, 50
+	offset: 0, 0
+	index: -1
+zhencha2_chibang2_dajongyan2kapai
+	rotate: false
+	xy: 592, 722
+	size: 60, 15
+	orig: 60, 15
+	offset: 0, 0
+	index: -1
+a_chushou3_dajongyan2kapai
+	rotate: true
+	xy: 828, 533
+	size: 44, 87
+	orig: 44, 87
+	offset: 0, 0
+	index: -1
+a_zuoshou2_dajongyan2kapai
+	rotate: true
+	xy: 810, 679
+	size: 36, 23
+	orig: 36, 23
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui_dajongyan2kapai
+	rotate: true
+	xy: 337, 621
+	size: 97, 169
+	orig: 97, 169
+	offset: 0, 0
+	index: -1
+a_youdatui_dajongyan2kapai
+	rotate: false
+	xy: 661, 361
+	size: 146, 102
+	orig: 146, 102
+	offset: 0, 0
+	index: -1
+a_youxiaobi2_dajongyan2kapai
+	rotate: true
+	xy: 981, 403
+	size: 78, 36
+	orig: 78, 36
+	offset: 0, 0
+	index: -1
+a_zuodatui_dajongyan2kapai
+	rotate: true
+	xy: 932, 0
+	size: 159, 84
+	orig: 159, 84
+	offset: 0, 0
+	index: -1
+zhencha1_tui1_dajongyan2kapai
+	rotate: true
+	xy: 757, 693
+	size: 23, 52
+	orig: 23, 52
+	offset: 0, 0
+	index: -1
+a_shenti_dajongyan2kapai
+	rotate: false
+	xy: 337, 474
+	size: 257, 146
+	orig: 257, 146
+	offset: 0, 0
+	index: -1
+a_yanpi_dajongyan2kapai
+	rotate: true
+	xy: 846, 578
+	size: 75, 46
+	orig: 75, 46
+	offset: 0, 0
+	index: -1
+a_youjiao_dajongyan2kapai
+	rotate: true
+	xy: 688, 602
+	size: 114, 68
+	orig: 114, 68
+	offset: 0, 0
+	index: -1
+zhencha1_tui8_dajongyan2kapai
+	rotate: true
+	xy: 766, 574
+	size: 24, 57
+	orig: 24, 57
+	offset: 0, 0
+	index: -1
+a_chushou8_dajongyan2kapai
+	rotate: true
+	xy: 802, 599
+	size: 79, 43
+	orig: 79, 43
+	offset: 0, 0
+	index: -1
+a_chushou1_dajongyan2kapai
+	rotate: false
+	xy: 907, 403
+	size: 73, 68
+	orig: 73, 68
+	offset: 0, 0
+	index: -1
+zhencha1_tui4_dajongyan2kapai
+	rotate: true
+	xy: 688, 717
+	size: 20, 58
+	orig: 20, 58
+	offset: 0, 0
+	index: -1
+a_chushou2_dajongyan2kapai
+	rotate: true
+	xy: 808, 406
+	size: 43, 93
+	orig: 43, 93
+	offset: 0, 0
+	index: -1
+zhencha2_tui6_dajongyan2kapai
+	rotate: true
+	xy: 747, 717
+	size: 20, 48
+	orig: 20, 48
+	offset: 0, 0
+	index: -1
+zhencha2_tui4_dajongyan2kapai
+	rotate: true
+	xy: 796, 717
+	size: 20, 41
+	orig: 20, 41
+	offset: 0, 0
+	index: -1
+a_yan2_dajongyan2kapai
+	rotate: false
+	xy: 916, 607
+	size: 68, 41
+	orig: 68, 41
+	offset: 0, 0
+	index: -1
+a_zuoshou_dajongyan2kapai
+	rotate: true
+	xy: 940, 216
+	size: 88, 75
+	orig: 88, 75
+	offset: 0, 0
+	index: -1
+a_chushou4_dajongyan2kapai
+	rotate: true
+	xy: 974, 482
+	size: 86, 43
+	orig: 86, 43
+	offset: 0, 0
+	index: -1
+a_shenti2_dajongyan2kapai
+	rotate: false
+	xy: 661, 0
+	size: 270, 227
+	orig: 270, 227
+	offset: 0, 0
+	index: -1
+zhencha1_tui7_dajongyan2kapai
+	rotate: false
+	xy: 987, 569
+	size: 30, 54
+	orig: 30, 54
+	offset: 0, 0
+	index: -1
+zhencha2_tui8_dajongyan2kapai
+	rotate: true
+	xy: 363, 719
+	size: 18, 35
+	orig: 18, 35
+	offset: 0, 0
+	index: -1
+zhencha1_tui6_dajongyan2kapai
+	rotate: false
+	xy: 958, 649
+	size: 28, 61
+	orig: 28, 61
+	offset: 0, 0
+	index: -1
+a_yan_dajongyan2kapai
+	rotate: false
+	xy: 985, 624
+	size: 23, 24
+	orig: 23, 24
+	offset: 0, 0
+	index: -1
+zhencha1_tui2_dajongyan2kapai
+	rotate: true
+	xy: 310, 719
+	size: 18, 52
+	orig: 18, 52
+	offset: 0, 0
+	index: -1
+a_youshou_dajongyan2kapai
+	rotate: false
+	xy: 907, 338
+	size: 87, 64
+	orig: 87, 64
+	offset: 0, 0
+	index: -1
+a_youxiaotui_dajongyan2kapai
+	rotate: false
+	xy: 595, 474
+	size: 86, 150
+	orig: 86, 150
+	offset: 0, 0
+	index: -1
+zhencha1_tui3_dajongyan2kapai
+	rotate: false
+	xy: 893, 578
+	size: 22, 53
+	orig: 22, 53
+	offset: 0, 0
+	index: -1
+a_shafa2_dajongyan2kapai
+	rotate: false
+	xy: 0, 0
+	size: 660, 473
+	orig: 660, 473
+	offset: 0, 0
+	index: -1
+a_chushou5_dajongyan2kapai
+	rotate: false
+	xy: 100, 698
+	size: 93, 29
+	orig: 93, 29
+	offset: 0, 0
+	index: -1
+zhencha2_tou_dajongyan2kapai
+	rotate: true
+	xy: 896, 649
+	size: 55, 61
+	orig: 55, 61
+	offset: 0, 0
+	index: -1
+a_youshou2_dajongyan2kapai
+	rotate: true
+	xy: 987, 649
+	size: 42, 24
+	orig: 42, 24
+	offset: 0, 0
+	index: -1
+zhencha1_tou_dajongyan2kapai
+	rotate: false
+	xy: 828, 450
+	size: 78, 82
+	orig: 78, 82
+	offset: 0, 0
+	index: -1
+zhencha2_yan_dajongyan2kapai
+	rotate: true
+	xy: 824, 578
+	size: 20, 21
+	orig: 20, 21
+	offset: 0, 0
+	index: -1
+zhencha2_tui1_dajongyan2kapai
+	rotate: true
+	xy: 838, 705
+	size: 23, 58
+	orig: 23, 58
+	offset: 0, 0
+	index: -1
+zhencha1_chibang_dajongyan2kapai
+	rotate: true
+	xy: 766, 464
+	size: 109, 61
+	orig: 109, 61
+	offset: 0, 0
+	index: -1
+a_chushou6_dajongyan2kapai
+	rotate: true
+	xy: 916, 526
+	size: 80, 56
+	orig: 80, 56
+	offset: 0, 0
+	index: -1
+zhencha2_chibang1_dajongyan2kapai
+	rotate: true
+	xy: 757, 602
+	size: 90, 44
+	orig: 90, 44
+	offset: 0, 0
+	index: -1
+a_chushou7_dajongyan2kapai
+	rotate: false
+	xy: 194, 698
+	size: 86, 31
+	orig: 86, 31
+	offset: 0, 0
+	index: -1
+a_yanpi2_dajongyan2kapai
+	rotate: false
+	xy: 940, 305
+	size: 76, 32
+	orig: 76, 32
+	offset: 0, 0
+	index: -1
+a_youdabi_dajongyan2kapai
+	rotate: false
+	xy: 592, 625
+	size: 95, 96
+	orig: 95, 96
+	offset: 0, 0
+	index: -1
+a_tou_dajongyan2kapai
+	rotate: false
+	xy: 661, 228
+	size: 143, 132
+	orig: 143, 132
+	offset: 0, 0
+	index: -1
+zhencha2_tui3_dajongyan2kapai
+	rotate: false
+	xy: 281, 698
+	size: 28, 39
+	orig: 28, 39
+	offset: 0, 0
+	index: -1
+zhencha2_tui5_dajongyan2kapai
+	rotate: true
+	xy: 897, 705
+	size: 22, 48
+	orig: 22, 48
+	offset: 0, 0
+	index: -1
+zhencha1_tui5_dajongyan2kapai
+	rotate: false
+	xy: 995, 338
+	size: 22, 56
+	orig: 22, 56
+	offset: 0, 0
+	index: -1
+zhencha2_tui7_dajongyan2kapai
+	rotate: true
+	xy: 399, 719
+	size: 15, 41
+	orig: 15, 41
+	offset: 0, 0
+	index: -1
+a_shafa1_dajongyan2kapai
+	rotate: false
+	xy: 0, 474
+	size: 336, 223
+	orig: 336, 223
+	offset: 0, 0
+	index: -1
+a_zuojiao_dajongyan2kapai
+	rotate: true
+	xy: 507, 621
+	size: 109, 84
+	orig: 109, 84
+	offset: 0, 0
+	index: -1
+zhencha1_yan_dajongyan2kapai
+	rotate: true
+	xy: 946, 711
+	size: 26, 27
+	orig: 26, 27
+	offset: 0, 0
+	index: -1

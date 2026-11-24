@@ -1,0 +1,1226 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/tanglangnan2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+i_2_youjiao_tanglangnan
+	rotate: true
+	xy: 98, 0
+	size: 54, 39
+	orig: 54, 39
+	offset: 0, 0
+	index: -1
+f_2_houshangbi_tanglangnan
+	rotate: false
+	xy: 201, 20
+	size: 31, 27
+	orig: 31, 27
+	offset: 0, 0
+	index: -1
+i_2_youdatui_tanglangnan
+	rotate: false
+	xy: 120, 55
+	size: 52, 53
+	orig: 52, 53
+	offset: 0, 0
+	index: -1
+g_2_zuoxiaobi_tanglangnan
+	rotate: false
+	xy: 89, 62
+	size: 30, 56
+	orig: 30, 56
+	offset: 0, 0
+	index: -1
+g_1_zuojianbang_tanglangnan
+	rotate: false
+	xy: 57, 188
+	size: 58, 58
+	orig: 58, 58
+	offset: 0, 0
+	index: -1
+c_2_zuojianbang_tanglangnan
+	rotate: false
+	xy: 31, 63
+	size: 57, 61
+	orig: 57, 61
+	offset: 0, 0
+	index: -1
+d_1_houjianbang_tanglangnan
+	rotate: false
+	xy: 102, 119
+	size: 53, 53
+	orig: 53, 53
+	offset: 0, 0
+	index: -1
+b_1_zuoxiaotui_tanglangnan
+	rotate: false
+	xy: 138, 0
+	size: 30, 52
+	orig: 36, 58
+	offset: 6, 0
+	index: -1
+c_2_youjianbang_tanglangnan
+	rotate: true
+	xy: 0, 188
+	size: 61, 56
+	orig: 61, 56
+	offset: 0, 0
+	index: -1
+e_1_houjianbang_tanglangnan
+	rotate: false
+	xy: 0, 126
+	size: 61, 61
+	orig: 61, 61
+	offset: 0, 0
+	index: -1
+f_1_zuodatui_tanglangnan
+	rotate: false
+	xy: 0, 0
+	size: 39, 62
+	orig: 39, 62
+	offset: 0, 0
+	index: -1
+e_1_jiao_tanglangnan
+	rotate: false
+	xy: 169, 0
+	size: 31, 50
+	orig: 31, 50
+	offset: 0, 0
+	index: -1
+g_2_zuodabi_tanglangnan
+	rotate: false
+	xy: 201, 0
+	size: 50, 19
+	orig: 50, 19
+	offset: 0, 0
+	index: -1
+d_2_zuoxiaobi_tanglangnan
+	rotate: false
+	xy: 0, 63
+	size: 30, 62
+	orig: 30, 62
+	offset: 0, 0
+	index: -1
+e_1_datui_tanglangnan
+	rotate: false
+	xy: 62, 125
+	size: 39, 57
+	orig: 39, 57
+	offset: 0, 0
+	index: -1
+a_Rforearm_tanglangnan
+	rotate: true
+	xy: 40, 0
+	size: 61, 57
+	orig: 61, 57
+	offset: 0, 0
+	index: -1
+
+asset/anim/tanglangnan0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_2_youxigai_tanglangnan
+	rotate: true
+	xy: 159, 143
+	size: 10, 16
+	orig: 10, 16
+	offset: 0, 0
+	index: -1
+i_1_youqianzi_tanglangnan
+	rotate: false
+	xy: 172, 154
+	size: 74, 135
+	orig: 74, 141
+	offset: 0, 6
+	index: -1
+i_1_youxigai_tanglangnan
+	rotate: true
+	xy: 141, 143
+	size: 10, 17
+	orig: 10, 17
+	offset: 0, 0
+	index: -1
+a_zui_tanglangnan
+	rotate: true
+	xy: 468, 329
+	size: 38, 44
+	orig: 38, 44
+	offset: 0, 0
+	index: -1
+i_2_youxigai_tanglangnan
+	rotate: true
+	xy: 125, 143
+	size: 11, 15
+	orig: 11, 15
+	offset: 0, 0
+	index: -1
+i_2_zuoshangbi_tanglangnan
+	rotate: true
+	xy: 356, 410
+	size: 22, 34
+	orig: 22, 34
+	offset: 0, 0
+	index: -1
+e_1_kuabu_tanglangnan
+	rotate: false
+	xy: 453, 469
+	size: 45, 43
+	orig: 45, 43
+	offset: 0, 0
+	index: -1
+a_Larm_tanglangnan
+	rotate: true
+	xy: 366, 254
+	size: 35, 56
+	orig: 35, 56
+	offset: 0, 0
+	index: -1
+a_Lforearm_tanglangnan
+	rotate: true
+	xy: 453, 172
+	size: 46, 59
+	orig: 46, 59
+	offset: 0, 0
+	index: -1
+j_1_youxigai_tanglangnan
+	rotate: false
+	xy: 129, 436
+	size: 12, 21
+	orig: 12, 21
+	offset: 0, 0
+	index: -1
+j_1_zuoxigai_tanglangnan
+	rotate: true
+	xy: 289, 277
+	size: 12, 18
+	orig: 12, 18
+	offset: 0, 0
+	index: -1
+c_1_youxigai_tanglangnan
+	rotate: false
+	xy: 196, 418
+	size: 12, 17
+	orig: 12, 17
+	offset: 0, 0
+	index: -1
+f_1_zuoxigai_tanglangnan
+	rotate: false
+	xy: 88, 300
+	size: 13, 14
+	orig: 13, 14
+	offset: 0, 0
+	index: -1
+a_Lthigh_tanglangnan
+	rotate: true
+	xy: 60, 461
+	size: 51, 43
+	orig: 51, 43
+	offset: 0, 0
+	index: -1
+c_1_youjiao_tanglangnan
+	rotate: true
+	xy: 104, 461
+	size: 51, 37
+	orig: 51, 37
+	offset: 0, 0
+	index: -1
+j_1_zuoxiaobi_tanglangnan
+	rotate: true
+	xy: 199, 130
+	size: 23, 83
+	orig: 23, 83
+	offset: 0, 0
+	index: -1
+c_1_zuoxigai_tanglangnan
+	rotate: false
+	xy: 70, 300
+	size: 17, 14
+	orig: 17, 14
+	offset: 0, 0
+	index: -1
+d_1_tou_tanglangnan
+	rotate: true
+	xy: 375, 433
+	size: 79, 77
+	orig: 79, 77
+	offset: 0, 0
+	index: -1
+g_2_zuoxiaotui_tanglangnan
+	rotate: true
+	xy: 468, 368
+	size: 41, 38
+	orig: 41, 38
+	offset: 0, 0
+	index: -1
+i_1_zuoshangbi_tanglangnan
+	rotate: true
+	xy: 283, 130
+	size: 23, 29
+	orig: 23, 29
+	offset: 0, 0
+	index: -1
+d_1_youqianzi_tanglangnan
+	rotate: false
+	xy: 0, 158
+	size: 69, 156
+	orig: 69, 156
+	offset: 0, 0
+	index: -1
+j_1_shenti_tanglangnan
+	rotate: false
+	xy: 375, 114
+	size: 77, 108
+	orig: 77, 108
+	offset: 0, 0
+	index: -1
+d_2_youqianzi_tanglangnan
+	rotate: false
+	xy: 0, 0
+	size: 33, 157
+	orig: 33, 157
+	offset: 0, 0
+	index: -1
+a_coxa_tanglangnan
+	rotate: true
+	xy: 408, 0
+	size: 50, 44
+	orig: 50, 44
+	offset: 0, 0
+	index: -1
+a_Rhand_tanglangnan
+	rotate: false
+	xy: 86, 0
+	size: 101, 142
+	orig: 101, 142
+	offset: 0, 0
+	index: -1
+i_2_zuoxiaobi_tanglangnan
+	rotate: true
+	xy: 453, 124
+	size: 47, 59
+	orig: 47, 59
+	offset: 0, 0
+	index: -1
+h_1_youxiaotui_tanglangnan
+	rotate: false
+	xy: 466, 219
+	size: 46, 63
+	orig: 46, 63
+	offset: 0, 0
+	index: -1
+j_1_zuoshangbi_tanglangnan
+	rotate: true
+	xy: 313, 130
+	size: 21, 26
+	orig: 21, 26
+	offset: 0, 0
+	index: -1
+b_1_zuojianzi_tanglangnan
+	rotate: false
+	xy: 196, 290
+	size: 74, 127
+	orig: 74, 127
+	offset: 0, 0
+	index: -1
+f_2_houjianbang_tanglangnan
+	rotate: false
+	xy: 453, 410
+	size: 59, 58
+	orig: 59, 58
+	offset: 0, 0
+	index: -1
+c_2_youqianzi_tanglangnan
+	rotate: true
+	xy: 247, 154
+	size: 122, 53
+	orig: 122, 53
+	offset: 0, 0
+	index: -1
+j_2_zuoxiaotui_tanglangnan
+	rotate: true
+	xy: 308, 254
+	size: 35, 57
+	orig: 35, 57
+	offset: 0, 0
+	index: -1
+e_1_xigai_tanglangnan
+	rotate: true
+	xy: 229, 418
+	size: 16, 12
+	orig: 16, 12
+	offset: 0, 0
+	index: -1
+a_1_biyan_tanglangnan
+	rotate: false
+	xy: 391, 410
+	size: 40, 21
+	orig: 40, 21
+	offset: 0, 0
+	index: -1
+j_2_youxigai_tanglangnan
+	rotate: true
+	xy: 106, 143
+	size: 11, 18
+	orig: 11, 18
+	offset: 0, 0
+	index: -1
+g_2_zuoxigai_tanglangnan
+	rotate: true
+	xy: 102, 300
+	size: 14, 13
+	orig: 14, 13
+	offset: 0, 0
+	index: -1
+b_2_youxiaobi_tanglangnan
+	rotate: false
+	xy: 375, 223
+	size: 42, 30
+	orig: 42, 30
+	offset: 0, 0
+	index: -1
+d_2_zuoqianzi_tanglangnan
+	rotate: true
+	xy: 188, 0
+	size: 129, 111
+	orig: 129, 111
+	offset: 0, 0
+	index: -1
+b_2_zuoxigai_tanglangnan
+	rotate: false
+	xy: 408, 101
+	size: 15, 12
+	orig: 15, 12
+	offset: 0, 0
+	index: -1
+b_1_zuodabi_tanglangnan
+	rotate: true
+	xy: 209, 418
+	size: 16, 19
+	orig: 16, 19
+	offset: 0, 0
+	index: -1
+c_1_youqianzi_tanglangnan
+	rotate: false
+	xy: 142, 436
+	size: 129, 76
+	orig: 129, 76
+	offset: 0, 0
+	index: -1
+a_Lthin_tanglangnan
+	rotate: false
+	xy: 363, 0
+	size: 44, 62
+	orig: 44, 62
+	offset: 0, 0
+	index: -1
+a_Rarm_tanglangnan
+	rotate: false
+	xy: 0, 461
+	size: 59, 51
+	orig: 59, 51
+	offset: 0, 0
+	index: -1
+c_2_kuabu_tanglangnan
+	rotate: true
+	xy: 364, 63
+	size: 50, 43
+	orig: 50, 43
+	offset: 0, 0
+	index: -1
+e_1_shenti_tanglangnan
+	rotate: true
+	xy: 272, 434
+	size: 78, 102
+	orig: 78, 102
+	offset: 0, 0
+	index: -1
+a_Lhand_tanglangnan
+	rotate: false
+	xy: 34, 0
+	size: 51, 154
+	orig: 51, 154
+	offset: 0, 0
+	index: -1
+c_1_zuojianbang_tanglangnan
+	rotate: true
+	xy: 453, 0
+	size: 62, 59
+	orig: 62, 59
+	offset: 0, 0
+	index: -1
+f_1_qianshangbi_tanglangnan
+	rotate: false
+	xy: 321, 410
+	size: 34, 22
+	orig: 36, 22
+	offset: 0, 0
+	index: -1
+f_1_youxigai_tanglangnan
+	rotate: true
+	xy: 176, 143
+	size: 9, 22
+	orig: 9, 22
+	offset: 0, 0
+	index: -1
+g_2_houxiaobi_tanglangnan
+	rotate: false
+	xy: 242, 418
+	size: 38, 15
+	orig: 38, 15
+	offset: 0, 0
+	index: -1
+f_1_zuojiao_tanglangnan
+	rotate: true
+	xy: 408, 51
+	size: 49, 44
+	orig: 49, 44
+	offset: 0, 0
+	index: -1
+h_1_youxigai_tanglangnan
+	rotate: true
+	xy: 268, 277
+	size: 12, 20
+	orig: 12, 20
+	offset: 0, 0
+	index: -1
+f_1_kuabu_tanglangnan
+	rotate: true
+	xy: 468, 283
+	size: 45, 44
+	orig: 45, 44
+	offset: 0, 0
+	index: -1
+j_2_shenti_tanglangnan
+	rotate: true
+	xy: 271, 290
+	size: 119, 103
+	orig: 119, 103
+	offset: 0, 0
+	index: -1
+i_2_zuoxigai_tanglangnan
+	rotate: false
+	xy: 86, 143
+	size: 19, 11
+	orig: 19, 11
+	offset: 0, 0
+	index: -1
+i_1_zuoxigai_tanglangnan
+	rotate: true
+	xy: 432, 410
+	size: 19, 20
+	orig: 19, 20
+	offset: 0, 0
+	index: -1
+j_2_youqianzi_tanglangnan
+	rotate: false
+	xy: 118, 155
+	size: 53, 141
+	orig: 53, 141
+	offset: 0, 0
+	index: -1
+a_head_tanglangnan
+	rotate: false
+	xy: 301, 154
+	size: 73, 99
+	orig: 73, 99
+	offset: 0, 0
+	index: -1
+b_2_zuojianbang_tanglangnan
+	rotate: false
+	xy: 300, 63
+	size: 63, 66
+	orig: 63, 66
+	offset: 0, 0
+	index: -1
+j_2_zuoqianzi_tanglangnan
+	rotate: false
+	xy: 375, 290
+	size: 92, 119
+	orig: 92, 119
+	offset: 0, 0
+	index: -1
+i_1_youdatui_tanglangnan
+	rotate: false
+	xy: 423, 223
+	size: 42, 66
+	orig: 42, 66
+	offset: 0, 0
+	index: -1
+a_body_tanglangnan
+	rotate: true
+	xy: 0, 315
+	size: 145, 128
+	orig: 145, 128
+	offset: 0, 0
+	index: -1
+b_1_zuoxigai_tanglangnan
+	rotate: true
+	xy: 247, 277
+	size: 12, 20
+	orig: 12, 20
+	offset: 0, 0
+	index: -1
+h_1_zuoshangbi_tanglangnan
+	rotate: true
+	xy: 281, 410
+	size: 22, 39
+	orig: 22, 39
+	offset: 0, 0
+	index: -1
+i_1_zuojianbang_tanglangnan
+	rotate: false
+	xy: 300, 0
+	size: 62, 62
+	orig: 62, 62
+	offset: 0, 0
+	index: -1
+b_1_youjianbang_tanglangnan
+	rotate: true
+	xy: 453, 63
+	size: 60, 59
+	orig: 60, 59
+	offset: 0, 0
+	index: -1
+c_2_zuoqianzi_tanglangnan
+	rotate: false
+	xy: 129, 297
+	size: 66, 138
+	orig: 66, 138
+	offset: 0, 0
+	index: -1
+e_1_youqianzi_tanglangnan
+	rotate: false
+	xy: 70, 155
+	size: 47, 144
+	orig: 47, 144
+	offset: 0, 0
+	index: -1
+g_2_youxigai_tanglangnan
+	rotate: true
+	xy: 116, 300
+	size: 14, 12
+	orig: 14, 12
+	offset: 0, 0
+	index: -1
+h_1_zuoxigai_tanglangnan
+	rotate: false
+	xy: 499, 469
+	size: 13, 18
+	orig: 13, 18
+	offset: 0, 0
+	index: -1
+j_2_zuoxigai_tanglangnan
+	rotate: false
+	xy: 340, 130
+	size: 18, 21
+	orig: 18, 21
+	offset: 0, 0
+	index: -1
+
+asset/anim/tanglangnan1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d_2_tou_tanglangnan
+	rotate: false
+	xy: 154, 218
+	size: 65, 101
+	orig: 65, 101
+	offset: 0, 0
+	index: -1
+d_1_qianxiaobi_tanglangnan
+	rotate: false
+	xy: 292, 420
+	size: 42, 71
+	orig: 42, 71
+	offset: 0, 0
+	index: -1
+i_2_youxiaobi_tanglangnan
+	rotate: false
+	xy: 317, 73
+	size: 42, 63
+	orig: 42, 63
+	offset: 0, 0
+	index: -1
+i_1_youxiaobi_tanglangnan
+	rotate: false
+	xy: 273, 0
+	size: 53, 72
+	orig: 53, 72
+	offset: 0, 0
+	index: -1
+b_2_zuoxiaotui_tanglangnan
+	rotate: true
+	xy: 391, 319
+	size: 48, 46
+	orig: 48, 46
+	offset: 0, 0
+	index: -1
+b_1_shenti_tanglangnan
+	rotate: false
+	xy: 0, 116
+	size: 82, 109
+	orig: 82, 109
+	offset: 0, 0
+	index: -1
+j_2_youdatui_tanglangnan
+	rotate: true
+	xy: 360, 38
+	size: 45, 69
+	orig: 45, 69
+	offset: 0, 0
+	index: -1
+j_1_tou_tanglangnan
+	rotate: true
+	xy: 0, 442
+	size: 70, 96
+	orig: 72, 96
+	offset: 0, 0
+	index: -1
+f_1_qianjianbang_tanglangnan
+	rotate: true
+	xy: 431, 0
+	size: 67, 69
+	orig: 67, 69
+	offset: 0, 0
+	index: -1
+i_1_youxiaotui_tanglangnan
+	rotate: false
+	xy: 471, 421
+	size: 41, 58
+	orig: 41, 58
+	offset: 0, 0
+	index: -1
+f_1_youdatui_tanglangnan
+	rotate: false
+	xy: 280, 293
+	size: 59, 26
+	orig: 59, 26
+	offset: 0, 0
+	index: -1
+a_Lfoot_tanglangnan
+	rotate: true
+	xy: 475, 180
+	size: 49, 37
+	orig: 49, 37
+	offset: 0, 0
+	index: -1
+j_2_youshangbi_tanglangnan
+	rotate: false
+	xy: 219, 93
+	size: 26, 20
+	orig: 26, 20
+	offset: 0, 0
+	index: -1
+g_1_zuoxiaobi_tanglangnan
+	rotate: false
+	xy: 93, 95
+	size: 54, 20
+	orig: 54, 20
+	offset: 0, 0
+	index: -1
+c_1_kuabu_tanglangnan
+	rotate: true
+	xy: 317, 137
+	size: 43, 42
+	orig: 43, 42
+	offset: 0, 0
+	index: -1
+d_1_houqianzi_tanglangnan
+	rotate: false
+	xy: 0, 226
+	size: 68, 109
+	orig: 68, 109
+	offset: 0, 0
+	index: -1
+i_1_zuoxiaobi_tanglangnan
+	rotate: true
+	xy: 430, 68
+	size: 38, 69
+	orig: 38, 69
+	offset: 0, 0
+	index: -1
+gedangcanying_tanglangnan
+	rotate: false
+	xy: 179, 320
+	size: 86, 100
+	orig: 86, 100
+	offset: 0, 0
+	index: -1
+d_2_shenti_tanglangnan
+	rotate: false
+	xy: 69, 226
+	size: 84, 105
+	orig: 84, 105
+	offset: 0, 0
+	index: -1
+b_2_zuoqianzi_tanglangnan
+	rotate: false
+	xy: 0, 0
+	size: 92, 115
+	orig: 92, 115
+	offset: 0, 0
+	index: -1
+g_2_qianjianbang_tanglangnan
+	rotate: true
+	xy: 327, 320
+	size: 64, 63
+	orig: 64, 63
+	offset: 0, 0
+	index: -1
+h_1_zuodatui_tanglangnan
+	rotate: false
+	xy: 266, 320
+	size: 60, 71
+	orig: 60, 71
+	offset: 0, 0
+	index: -1
+d_1_kuabu_tanglangnan
+	rotate: false
+	xy: 317, 181
+	size: 48, 45
+	orig: 48, 45
+	offset: 0, 0
+	index: -1
+c_1_shenti_tanglangnan
+	rotate: false
+	xy: 164, 0
+	size: 78, 92
+	orig: 78, 92
+	offset: 0, 0
+	index: -1
+f_2_shangxiaobi_tanglangnan
+	rotate: true
+	xy: 364, 227
+	size: 63, 55
+	orig: 63, 55
+	offset: 0, 0
+	index: -1
+j_2_zuodatui_tanglangnan
+	rotate: false
+	xy: 475, 276
+	size: 37, 38
+	orig: 37, 38
+	offset: 0, 0
+	index: -1
+i_1_zuodatui_tanglangnan
+	rotate: false
+	xy: 438, 348
+	size: 36, 45
+	orig: 36, 45
+	offset: 0, 0
+	index: -1
+h_1_zuojiao_tanglangnan
+	rotate: false
+	xy: 393, 368
+	size: 42, 32
+	orig: 42, 32
+	offset: 0, 0
+	index: -1
+g_1_shenti_tanglangnan
+	rotate: true
+	xy: 97, 436
+	size: 76, 97
+	orig: 76, 97
+	offset: 0, 0
+	index: -1
+b_2_youxiaotui_tanglangnan
+	rotate: true
+	xy: 423, 152
+	size: 27, 53
+	orig: 27, 53
+	offset: 0, 0
+	index: -1
+j_1_zuodatui_tanglangnan
+	rotate: false
+	xy: 238, 114
+	size: 32, 75
+	orig: 32, 75
+	offset: 0, 0
+	index: -1
+e_1_qianxiaobi_tanglangnan
+	rotate: true
+	xy: 271, 227
+	size: 65, 55
+	orig: 65, 55
+	offset: 0, 0
+	index: -1
+b_2_zuoxiaobi_tanglangnan
+	rotate: true
+	xy: 428, 107
+	size: 44, 19
+	orig: 44, 19
+	offset: 0, 0
+	index: -1
+j_2_kuabu_tanglangnan
+	rotate: false
+	xy: 422, 180
+	size: 52, 46
+	orig: 52, 46
+	offset: 0, 0
+	index: -1
+d_1_shenti_tanglangnan
+	rotate: false
+	xy: 0, 336
+	size: 86, 105
+	orig: 86, 105
+	offset: 0, 0
+	index: -1
+i_2_tou_tanglangnan
+	rotate: false
+	xy: 93, 0
+	size: 70, 94
+	orig: 70, 94
+	offset: 0, 0
+	index: -1
+e_1_qiandabi_tanglangnan
+	rotate: true
+	xy: 471, 480
+	size: 24, 40
+	orig: 24, 40
+	offset: 0, 0
+	index: -1
+d_2_zuoshangbi_tanglangnan
+	rotate: false
+	xy: 436, 394
+	size: 34, 33
+	orig: 34, 33
+	offset: 0, 0
+	index: -1
+e_1_youxiaobi_tanglangnan
+	rotate: true
+	xy: 329, 385
+	size: 34, 63
+	orig: 34, 63
+	offset: 0, 0
+	index: -1
+a_Rthigh_tanglangnan
+	rotate: false
+	xy: 366, 180
+	size: 55, 46
+	orig: 55, 46
+	offset: 0, 0
+	index: -1
+h_1_youdatui_tanglangnan
+	rotate: false
+	xy: 360, 0
+	size: 70, 37
+	orig: 70, 37
+	offset: 0, 0
+	index: -1
+f_1_qianxiaobi_tanglangnan
+	rotate: true
+	xy: 292, 492
+	size: 19, 67
+	orig: 19, 67
+	offset: 0, 0
+	index: -1
+i_2_shenti_tanglangnan
+	rotate: false
+	xy: 83, 116
+	size: 82, 101
+	orig: 82, 101
+	offset: 0, 0
+	index: -1
+c_2_zuoshangbi_tanglangnan
+	rotate: false
+	xy: 220, 294
+	size: 31, 25
+	orig: 31, 25
+	offset: 0, 0
+	index: -1
+d_1_qianshangbi_tanglangnan
+	rotate: true
+	xy: 475, 372
+	size: 48, 34
+	orig: 48, 34
+	offset: 0, 0
+	index: -1
+b_2_zuodabi_tanglangnan
+	rotate: false
+	xy: 252, 294
+	size: 27, 25
+	orig: 27, 25
+	offset: 0, 0
+	index: -1
+c_1_zuodatui_tanglangnan
+	rotate: false
+	xy: 438, 291
+	size: 36, 56
+	orig: 36, 56
+	offset: 0, 0
+	index: -1
+b_1_zuoxiaobi_tanglangnan
+	rotate: true
+	xy: 246, 87
+	size: 26, 70
+	orig: 26, 70
+	offset: 0, 0
+	index: -1
+f_2_shenti_tanglangnan
+	rotate: true
+	xy: 87, 332
+	size: 103, 91
+	orig: 103, 91
+	offset: 0, 0
+	index: -1
+b_1_zuodatui_tanglangnan
+	rotate: false
+	xy: 360, 480
+	size: 56, 32
+	orig: 56, 32
+	offset: 0, 0
+	index: -1
+a_eye_tanglangnan
+	rotate: false
+	xy: 148, 95
+	size: 40, 20
+	orig: 40, 20
+	offset: 0, 0
+	index: -1
+i_1_youdabi_tanglangnan
+	rotate: false
+	xy: 335, 462
+	size: 24, 26
+	orig: 24, 26
+	offset: 0, 0
+	index: -1
+g_2_youdatui_tanglangnan
+	rotate: false
+	xy: 417, 483
+	size: 53, 29
+	orig: 53, 29
+	offset: 0, 0
+	index: -1
+j_1_youshangbi_tanglangnan
+	rotate: true
+	xy: 189, 93
+	size: 20, 29
+	orig: 20, 29
+	offset: 0, 0
+	index: -1
+i_1_youjiao_tanglangnan
+	rotate: false
+	xy: 477, 107
+	size: 34, 49
+	orig: 34, 49
+	offset: 0, 0
+	index: -1
+c_1_youxiaobi_tanglangnan
+	rotate: false
+	xy: 381, 291
+	size: 56, 27
+	orig: 56, 27
+	offset: 0, 0
+	index: -1
+g_1_youxiaobi_tanglangnan
+	rotate: true
+	xy: 475, 230
+	size: 45, 37
+	orig: 45, 37
+	offset: 0, 0
+	index: -1
+b_2_shenti_tanglangnan
+	rotate: true
+	xy: 195, 421
+	size: 86, 96
+	orig: 86, 96
+	offset: 0, 0
+	index: -1
+i_1_zuoxiaotui_tanglangnan
+	rotate: false
+	xy: 420, 227
+	size: 24, 63
+	orig: 24, 63
+	offset: 0, 0
+	index: -1
+g_1_zuoshangbi_tanglangnan
+	rotate: true
+	xy: 340, 293
+	size: 26, 40
+	orig: 26, 40
+	offset: 0, 0
+	index: -1
+a_Rthin_tanglangnan
+	rotate: true
+	xy: 266, 392
+	size: 27, 62
+	orig: 27, 62
+	offset: 0, 0
+	index: -1
+c_1_zuoxiaotui_tanglangnan
+	rotate: true
+	xy: 445, 227
+	size: 53, 29
+	orig: 53, 29
+	offset: 0, 0
+	index: -1
+d_2_kuabu_tanglangnan
+	rotate: true
+	xy: 271, 174
+	size: 52, 45
+	orig: 52, 45
+	offset: 0, 0
+	index: -1
+d_2_youxiaobi_tanglangnan
+	rotate: false
+	xy: 243, 0
+	size: 29, 86
+	orig: 29, 86
+	offset: 0, 0
+	index: -1
+j_1_zuojiao_tanglangnan
+	rotate: true
+	xy: 360, 152
+	size: 27, 62
+	orig: 27, 62
+	offset: 0, 0
+	index: -1
+c_1_youdabi_tanglangnan
+	rotate: true
+	xy: 335, 420
+	size: 41, 24
+	orig: 41, 24
+	offset: 0, 0
+	index: -1
+g_2_houjianbang_tanglangnan
+	rotate: false
+	xy: 417, 428
+	size: 53, 54
+	orig: 53, 54
+	offset: 0, 0
+	index: -1
+c_2_zuoxiaobi_tanglangnan
+	rotate: false
+	xy: 327, 0
+	size: 32, 66
+	orig: 32, 66
+	offset: 0, 0
+	index: -1
+i_2_zuoxiaotui_tanglangnan
+	rotate: true
+	xy: 327, 227
+	size: 65, 36
+	orig: 65, 36
+	offset: 0, 0
+	index: -1
+d_1_qianjianbang_tanglangnan
+	rotate: false
+	xy: 360, 84
+	size: 67, 67
+	orig: 67, 67
+	offset: 0, 0
+	index: -1
+b_1_zuojianbang_tanglangnan
+	rotate: false
+	xy: 271, 114
+	size: 45, 59
+	orig: 45, 59
+	offset: 0, 0
+	index: -1
+a_Rfoot_tanglangnan
+	rotate: true
+	xy: 475, 315
+	size: 56, 36
+	orig: 56, 36
+	offset: 0, 0
+	index: -1
+f_1_shenti_tanglangnan
+	rotate: false
+	xy: 166, 116
+	size: 71, 92
+	orig: 71, 92
+	offset: 0, 0
+	index: -1
+j_2_zuoxiaobi_tanglangnan
+	rotate: false
+	xy: 220, 209
+	size: 50, 84
+	orig: 50, 84
+	offset: 0, 0
+	index: -1
+f_2_qianshangbi_tanglangnan
+	rotate: true
+	xy: 448, 107
+	size: 34, 27
+	orig: 34, 27
+	offset: 0, 0
+	index: -1
+i_1_kuabu_tanglangnan
+	rotate: false
+	xy: 360, 420
+	size: 56, 49
+	orig: 56, 49
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

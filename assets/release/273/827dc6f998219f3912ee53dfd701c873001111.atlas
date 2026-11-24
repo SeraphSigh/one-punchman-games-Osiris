@@ -1,0 +1,269 @@
+
+asset/anim/spineGlobalPic/pc_global0.png
+size: 710,923
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_tongyongxuli_002
+	rotate: false
+	xy: 579, 370
+	size: 125, 134
+	orig: 155, 150
+	offset: 11, 8
+	index: -1
+global/a_global_tongyongxuli_011
+	rotate: true
+	xy: 174, 906
+	size: 17, 18
+	orig: 155, 150
+	offset: 75, 62
+	index: -1
+global/a_global_tongyongxuli_010
+	rotate: false
+	xy: 546, 167
+	size: 21, 22
+	orig: 155, 150
+	offset: 73, 60
+	index: -1
+
+asset/anim/beixinheidongSE.png
+size: 1002,934
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodianSNX_21
+	rotate: false
+	xy: 541, 0
+	size: 243, 181
+	orig: 243, 181
+	offset: 0, 0
+	index: -1
+baodianSNX_20
+	rotate: false
+	xy: 0, 375
+	size: 262, 190
+	orig: 262, 190
+	offset: 0, 0
+	index: -1
+baodianSNX_22
+	rotate: false
+	xy: 0, 785
+	size: 149, 149
+	orig: 149, 151
+	offset: 0, 0
+	index: -1
+baodianSA_21
+	rotate: true
+	xy: 636, 756
+	size: 117, 100
+	orig: 117, 100
+	offset: 0, 0
+	index: -1
+baodianSA_20
+	rotate: false
+	xy: 213, 769
+	size: 145, 165
+	orig: 145, 165
+	offset: 0, 0
+	index: -1
+baodianSN_24
+	rotate: false
+	xy: 636, 874
+	size: 102, 52
+	orig: 102, 52
+	offset: 0, 0
+	index: -1
+baodianSN_25
+	rotate: false
+	xy: 427, 889
+	size: 101, 45
+	orig: 101, 45
+	offset: 0, 0
+	index: -1
+baodianSN_22
+	rotate: true
+	xy: 476, 540
+	size: 153, 140
+	orig: 155, 140
+	offset: 2, 0
+	index: -1
+baodianSN_23
+	rotate: false
+	xy: 476, 694
+	size: 133, 86
+	orig: 133, 86
+	offset: 0, 0
+	index: -1
+baodianSN_20
+	rotate: true
+	xy: 858, 195
+	size: 158, 144
+	orig: 158, 144
+	offset: 0, 0
+	index: -1
+baodianSN_21
+	rotate: true
+	xy: 441, 373
+	size: 166, 150
+	orig: 168, 152
+	offset: 2, 0
+	index: -1
+baodianSNX_18
+	rotate: false
+	xy: 0, 189
+	size: 282, 185
+	orig: 282, 185
+	offset: 0, 0
+	index: -1
+baodianSNX_19
+	rotate: false
+	xy: 0, 0
+	size: 284, 188
+	orig: 284, 188
+	offset: 0, 0
+	index: -1
+baodianSNX_16
+	rotate: false
+	xy: 427, 781
+	size: 120, 107
+	orig: 120, 107
+	offset: 0, 0
+	index: -1
+baodianSNX_17
+	rotate: false
+	xy: 285, 0
+	size: 255, 177
+	orig: 255, 177
+	offset: 0, 0
+	index: -1
+baodianSA_16
+	rotate: false
+	xy: 775, 714
+	size: 99, 102
+	orig: 99, 102
+	offset: 0, 0
+	index: -1
+baodianSA_17
+	rotate: false
+	xy: 488, 182
+	size: 180, 188
+	orig: 180, 188
+	offset: 0, 0
+	index: -1
+baodianSA_18
+	rotate: true
+	xy: 669, 195
+	size: 180, 188
+	orig: 180, 188
+	offset: 0, 0
+	index: -1
+baodianSA_19
+	rotate: false
+	xy: 263, 375
+	size: 177, 177
+	orig: 177, 177
+	offset: 0, 0
+	index: -1
+baodianSN_17
+	rotate: false
+	xy: 755, 571
+	size: 111, 105
+	orig: 111, 105
+	offset: 0, 0
+	index: -1
+baodianSN_16
+	rotate: false
+	xy: 408, 713
+	size: 33, 23
+	orig: 33, 23
+	offset: 0, 0
+	index: -1
+baodianSN_19
+	rotate: true
+	xy: 617, 537
+	size: 152, 137
+	orig: 156, 137
+	offset: 4, 0
+	index: -1
+baodianSN_18
+	rotate: true
+	xy: 757, 376
+	size: 157, 155
+	orig: 157, 155
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_tongyongxuli_003
+	rotate: true
+	xy: 918, 754
+	size: 85, 91
+	orig: 109, 105
+	offset: 9, 6
+	index: -1
+global/a_global_tongyongxuli_001
+	rotate: false
+	xy: 617, 877
+	size: 91, 95
+	orig: 109, 105
+	offset: 6, 6
+	index: -1
+global/a_global_tongyongxuli_007
+	rotate: false
+	xy: 912, 840
+	size: 75, 77
+	orig: 109, 105
+	offset: 18, 10
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_tongyongxuli_000
+	rotate: false
+	xy: 203, 332
+	size: 93, 101
+	orig: 109, 105
+	offset: 4, 2
+	index: -1
+global/a_global_tongyongxuli_004
+	rotate: false
+	xy: 665, 297
+	size: 83, 89
+	orig: 109, 105
+	offset: 10, 6
+	index: -1
+global/a_global_tongyongxuli_005
+	rotate: false
+	xy: 204, 244
+	size: 81, 87
+	orig: 109, 105
+	offset: 12, 6
+	index: -1
+global/a_global_tongyongxuli_008
+	rotate: true
+	xy: 707, 677
+	size: 71, 69
+	orig: 109, 105
+	offset: 21, 13
+	index: -1
+global/a_global_tongyongxuli_009
+	rotate: false
+	xy: 777, 677
+	size: 65, 61
+	orig: 109, 105
+	offset: 25, 15
+	index: -1
+global/a_global_tongyongxuli_006
+	rotate: false
+	xy: 785, 458
+	size: 79, 83
+	orig: 109, 105
+	offset: 14, 7
+	index: -1

@@ -1,0 +1,96 @@
+
+asset/anim/didiren3SE.png
+size: 1006,981
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+didiren3_dilie1_023
+	rotate: false
+	xy: 205, 566
+	size: 197, 68
+	orig: 197, 68
+	offset: 0, 0
+	index: -1
+didiren3_diyan_down_040
+	rotate: true
+	xy: 959, 93
+	size: 107, 47
+	orig: 269, 253
+	offset: 11, 55
+	index: -1
+didiren3_dilie2_023
+	rotate: false
+	xy: 446, 202
+	size: 257, 83
+	orig: 257, 83
+	offset: 0, 0
+	index: -1
+didiren3_diyan_down_038
+	rotate: true
+	xy: 946, 201
+	size: 109, 59
+	orig: 269, 253
+	offset: 9, 55
+	index: -1
+didiren3_diyan_down_028
+	rotate: false
+	xy: 732, 576
+	size: 125, 147
+	orig: 269, 253
+	offset: 5, 57
+	index: -1
+didiren3_diyan_down_034
+	rotate: true
+	xy: 523, 800
+	size: 113, 71
+	orig: 269, 253
+	offset: 7, 56
+	index: -1
+didiren3_diyan_down_026
+	rotate: false
+	xy: 757, 724
+	size: 123, 117
+	orig: 269, 253
+	offset: 4, 57
+	index: -1
+didiren3_diyan_down_036
+	rotate: false
+	xy: 881, 828
+	size: 111, 59
+	orig: 269, 253
+	offset: 8, 55
+	index: -1
+didiren3_diyan_down_024
+	rotate: false
+	xy: 740, 842
+	size: 113, 55
+	orig: 269, 253
+	offset: 7, 57
+	index: -1
+didiren3_diyan_down_030
+	rotate: false
+	xy: 595, 885
+	size: 115, 81
+	orig: 269, 253
+	offset: 8, 55
+	index: -1
+didiren3_diyan_down_032
+	rotate: false
+	xy: 711, 898
+	size: 113, 83
+	orig: 269, 253
+	offset: 7, 56
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_didiwang_Light_Decal
+	rotate: false
+	xy: 139, 687
+	size: 125, 127
+	orig: 125, 127
+	offset: 0, 0
+	index: -1

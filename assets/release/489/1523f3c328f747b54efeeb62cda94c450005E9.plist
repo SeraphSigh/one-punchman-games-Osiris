@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>pic_wsj_wstc_tx_0401.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-73,-10}</string>
+                <key>spriteSize</key>
+                <string>{340,400}</string>
+                <key>spriteSourceSize</key>
+                <string>{678,428}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{340,400}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>candytrickerRes4.png</string>
+            <key>size</key>
+            <string>{340,400}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:ae9386ea977f6a0a3bec6443a70f17f8:f680c73753e61ca9055a5f1f8f357975:87b5942c8a47e5eb4f1f0bca9daefbce$</string>
+            <key>textureFileName</key>
+            <string>candytrickerRes4.png</string>
+        </dict>
+    </dict>
+</plist>

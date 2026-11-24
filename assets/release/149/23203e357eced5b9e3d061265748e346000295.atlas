@@ -1,0 +1,39 @@
+
+asset/anim/yehuofuleimuMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/hei
+	rotate: false
+	xy: 1002, 0
+	size: 17, 15
+	orig: 17, 15
+	offset: 0, 0
+	index: -1
+
+asset/anim/yehuofuleimuMAX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yehuo_juexing_bg1_00024
+	rotate: false
+	xy: 0, 0
+	size: 670, 640
+	orig: 670, 640
+	offset: 0, 0
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>guairenqiaoze_pg_baixian_000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			</array>
+			<key>spriteOffset</key>
+			<string>{-25,-15}</string>
+			<key>spriteSize</key>
+			<string>{178,95}</string>
+			<key>spriteSourceSize</key>
+			<string>{254,143}</string>
+			<key>textureRect</key>
+			<string>{{0,0},{178,95}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>pixelFormat</key>
+		<string>RGBA8888</string>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>guairenqiaozeSECOMMON3.png</string>
+		<key>scale</key>
+		<real>0.97</real>
+		<key>size</key>
+		<string>{256,256}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:510d9bae006d53da98f33447f6f475d5:6729f919c5bc135e6084d7c501a6472e:2471af4b422acf6c5fdc123b7bf98306$</string>
+		<key>textureFileName</key>
+		<string>guairenqiaozeSECOMMON3.png</string>
+	</dict>
+</dict>
+</plist>

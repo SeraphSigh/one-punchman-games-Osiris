@@ -1,0 +1,97 @@
+
+asset/anim/taoyuantuanlouluoBkapai.png
+size: 762,694
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youxiaobi_taoyuantuanlouluoBkapai
+	rotate: false
+	xy: 191, 523
+	size: 136, 145
+	orig: 136, 145
+	offset: 0, 0
+	index: -1
+zuodatui_taoyuantuanlouluoBkapai
+	rotate: false
+	xy: 191, 246
+	size: 176, 276
+	orig: 176, 276
+	offset: 0, 0
+	index: -1
+youdatui_taoyuantuanlouluoBkapai
+	rotate: true
+	xy: 368, 326
+	size: 176, 267
+	orig: 176, 267
+	offset: 0, 0
+	index: -1
+bozi2_taoyuantuanlouluoBkapai
+	rotate: false
+	xy: 368, 246
+	size: 65, 45
+	orig: 65, 45
+	offset: 0, 0
+	index: -1
+tou2_taoyuantuanlouluoBkapai
+	rotate: false
+	xy: 636, 326
+	size: 109, 157
+	orig: 109, 157
+	offset: 0, 0
+	index: -1
+youdabi_taoyuantuanlouluoBkapai
+	rotate: false
+	xy: 564, 503
+	size: 166, 191
+	orig: 166, 191
+	offset: 0, 0
+	index: -1
+zuoshou_taoyuantuanlouluoBkapai
+	rotate: true
+	xy: 642, 128
+	size: 121, 116
+	orig: 121, 116
+	offset: 0, 0
+	index: -1
+zuodabi_taoyuantuanlouluoBkapai
+	rotate: true
+	xy: 368, 503
+	size: 148, 195
+	orig: 148, 195
+	offset: 0, 0
+	index: -1
+zuoxiaotui_taoyuantuanlouluoBkapai
+	rotate: false
+	xy: 0, 246
+	size: 190, 321
+	orig: 190, 321
+	offset: 0, 0
+	index: -1
+shenti2_taoyuantuanlouluoBkapai
+	rotate: true
+	xy: 0, 0
+	size: 245, 450
+	orig: 245, 450
+	offset: 0, 0
+	index: -1
+youxiaotui_taoyuantuanlouluoBkapai
+	rotate: false
+	xy: 451, 0
+	size: 190, 325
+	orig: 190, 325
+	offset: 0, 0
+	index: -1
+youshou_taoyuantuanlouluoBkapai
+	rotate: true
+	xy: 642, 0
+	size: 127, 120
+	orig: 127, 120
+	offset: 0, 0
+	index: -1
+zuoxiaobi_taoyuantuanlouluoBkapai
+	rotate: true
+	xy: 0, 568
+	size: 114, 145
+	orig: 114, 145
+	offset: 0, 0
+	index: -1

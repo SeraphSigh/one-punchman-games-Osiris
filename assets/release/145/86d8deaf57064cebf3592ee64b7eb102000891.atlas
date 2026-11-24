@@ -1,0 +1,122 @@
+
+asset/anim/URshenhaiwangSECOMMON0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/bowen_URshenhaiwang
+	rotate: false
+	xy: 0, 0
+	size: 354, 360
+	orig: 394, 392
+	offset: 13, 19
+	index: -1
+
+asset/anim/URshenhaiwangSECOMMON1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/guangqiu_URshenhaiwnag
+	rotate: false
+	xy: 0, 0
+	size: 318, 338
+	orig: 424, 424
+	offset: 50, 32
+	index: -1
+
+asset/anim/URshenhaiwangSEMAX0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/quanquan_URshenhaiwnag0007
+	rotate: false
+	xy: 1311, 1362
+	size: 145, 412
+	orig: 157, 430
+	offset: 11, 9
+	index: -1
+max/quanquan_URshenhaiwnag0008
+	rotate: false
+	xy: 1019, 1371
+	size: 143, 416
+	orig: 157, 430
+	offset: 13, 8
+	index: -1
+max/quanquan_URshenhaiwnag0009
+	rotate: false
+	xy: 879, 1371
+	size: 139, 418
+	orig: 157, 430
+	offset: 16, 8
+	index: -1
+max/quanquan_URshenhaiwnag0005
+	rotate: true
+	xy: 1644, 1077
+	size: 147, 404
+	orig: 157, 430
+	offset: 8, 10
+	index: -1
+max/quanquan_URshenhaiwnag0004
+	rotate: false
+	xy: 1163, 1364
+	size: 147, 412
+	orig: 157, 430
+	offset: 6, 10
+	index: -1
+max/quanquan_URshenhaiwnag0012
+	rotate: false
+	xy: 1057, 882
+	size: 129, 416
+	orig: 157, 430
+	offset: 6, 9
+	index: -1
+max/quanquan_URshenhaiwnag0011
+	rotate: true
+	xy: 1390, 616
+	size: 133, 416
+	orig: 157, 430
+	offset: 12, 9
+	index: -1
+max/quanquan_URshenhaiwnag0010
+	rotate: true
+	xy: 1390, 750
+	size: 129, 416
+	orig: 157, 430
+	offset: 22, 9
+	index: -1
+max/quanquan_URshenhaiwnag0003
+	rotate: false
+	xy: 1457, 1362
+	size: 149, 410
+	orig: 157, 430
+	offset: 0, 11
+	index: -1
+
+asset/anim/URshenhaiwangSEMAX1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/quanquan_URshenhaiwnag0001
+	rotate: true
+	xy: 706, 1966
+	size: 79, 176
+	orig: 157, 430
+	offset: 49, 129
+	index: -1
+max/quanquan_URshenhaiwnag0006
+	rotate: false
+	xy: 778, 213
+	size: 149, 394
+	orig: 157, 430
+	offset: 7, 9
+	index: -1
+max/quanquan_URshenhaiwnag0002
+	rotate: false
+	xy: 509, 1677
+	size: 115, 292
+	orig: 157, 430
+	offset: 19, 71
+	index: -1

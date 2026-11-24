@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>newyear_jiayuan_01.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-52}</string>
+                <key>spriteSize</key>
+                <string>{1010,896}</string>
+                <key>spriteSourceSize</key>
+                <string>{1010,1000}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{1010,896}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>scenebg_newyearhomebg0.png</string>
+            <key>size</key>
+            <string>{1010,896}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:7b8d9358a6ca8c8a46f0406f68325e05:8221290edc0f200ec30f3d276002696a:1065133b4fcef2324d24d11a48d4f785$</string>
+            <key>textureFileName</key>
+            <string>scenebg_newyearhomebg0.png</string>
+        </dict>
+    </dict>
+</plist>

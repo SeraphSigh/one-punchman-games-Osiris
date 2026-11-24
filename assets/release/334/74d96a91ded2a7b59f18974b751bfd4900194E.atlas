@@ -1,0 +1,358 @@
+
+asset/anim/fenghuangnanSECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/fenghuangnan_jnbaozha_00115
+	rotate: false
+	xy: 291, 92
+	size: 265, 246
+	orig: 351, 288
+	offset: 46, 0
+	index: -1
+common/fenghuangnan_jnbaozha_00114
+	rotate: false
+	xy: 557, 228
+	size: 231, 154
+	orig: 351, 288
+	offset: 52, 0
+	index: -1
+common/fenghuangnan_jnbaozha_00131
+	rotate: true
+	xy: 573, 0
+	size: 227, 272
+	orig: 351, 288
+	offset: 70, 0
+	index: -1
+common/fenghuangnan_jnbaozha_00135
+	rotate: true
+	xy: 135, 875
+	size: 149, 136
+	orig: 351, 288
+	offset: 95, 0
+	index: -1
+
+asset/anim/fenghuangnanSECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/fenghuangnan_jnbaozha_00120
+	rotate: false
+	xy: 619, 71
+	size: 305, 272
+	orig: 351, 288
+	offset: 17, 0
+	index: -1
+common/fenghuangnan_jnbaozha_00122
+	rotate: false
+	xy: 0, 0
+	size: 311, 270
+	orig: 351, 288
+	offset: 17, 0
+	index: -1
+common/fenghuangnan_jnhuoqiu_00013
+	rotate: true
+	xy: 312, 75
+	size: 74, 304
+	orig: 80, 330
+	offset: 5, 0
+	index: -1
+common/fenghuangnan_jnhuoqiu_00010
+	rotate: true
+	xy: 312, 150
+	size: 70, 298
+	orig: 80, 330
+	offset: 6, 0
+	index: -1
+common/fenghuangnan_jnhuoqiu_00011
+	rotate: true
+	xy: 312, 221
+	size: 70, 298
+	orig: 80, 330
+	offset: 6, 0
+	index: -1
+common/fenghuangnan_jnhuoqiu_00014
+	rotate: true
+	xy: 619, 0
+	size: 70, 306
+	orig: 80, 330
+	offset: 7, 0
+	index: -1
+common/fenghuangnan_jnhuoqiu_00015
+	rotate: true
+	xy: 312, 0
+	size: 74, 306
+	orig: 80, 330
+	offset: 5, 0
+	index: -1
+common/fenghuangnan_jnbaozha_00139
+	rotate: true
+	xy: 285, 947
+	size: 77, 106
+	orig: 351, 288
+	offset: 107, 19
+	index: -1
+common/fenghuangnan_jnbaozha_00138
+	rotate: false
+	xy: 644, 907
+	size: 87, 116
+	orig: 351, 288
+	offset: 102, 5
+	index: -1
+
+asset/anim/fenghuangnanSECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/fenghuangnan_jnbaozha_00128
+	rotate: false
+	xy: 0, 0
+	size: 315, 262
+	orig: 351, 288
+	offset: 16, 0
+	index: -1
+common/fenghuangnan_jnbaozha_00124
+	rotate: false
+	xy: 316, 253
+	size: 315, 238
+	orig: 351, 288
+	offset: 16, 2
+	index: -1
+common/fenghuangnan_jnbaozha_00125
+	rotate: false
+	xy: 632, 251
+	size: 315, 242
+	orig: 351, 288
+	offset: 16, 5
+	index: -1
+common/fenghuangnan_jnbaozha_00126
+	rotate: false
+	xy: 632, 0
+	size: 315, 250
+	orig: 351, 288
+	offset: 16, 4
+	index: -1
+common/fenghuangnan_jnbaozha_00127
+	rotate: false
+	xy: 316, 0
+	size: 315, 252
+	orig: 351, 288
+	offset: 16, 0
+	index: -1
+common/fenghuangnan_jnbaozha_00121
+	rotate: false
+	xy: 0, 498
+	size: 313, 272
+	orig: 351, 288
+	offset: 16, 0
+	index: -1
+common/fenghuangnan_jnbaozha_00123
+	rotate: false
+	xy: 0, 263
+	size: 315, 234
+	orig: 351, 288
+	offset: 16, 0
+	index: -1
+common/fenghuangnan_jnbaozha_00116
+	rotate: false
+	xy: 694, 770
+	size: 273, 254
+	orig: 351, 288
+	offset: 40, 0
+	index: -1
+common/fenghuangnan_jnhuoqiu_00012
+	rotate: false
+	xy: 948, 315
+	size: 76, 302
+	orig: 80, 330
+	offset: 4, 0
+	index: -1
+common/fenghuangnan_jnhuoqiu_00016
+	rotate: false
+	xy: 948, 0
+	size: 76, 314
+	orig: 80, 330
+	offset: 3, 0
+	index: -1
+
+asset/anim/fenghuangnanSECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/fenghuangnan_jnbaozha_00129
+	rotate: false
+	xy: 412, 739
+	size: 315, 268
+	orig: 351, 288
+	offset: 16, 0
+	index: -1
+common/fenghuangnan_jnxian_00000
+	rotate: false
+	xy: 0, 0
+	size: 411, 97
+	orig: 435, 109
+	offset: 9, 9
+	index: -1
+common/fenghuangnan_jnhuoqiu_00009
+	rotate: true
+	xy: 728, 708
+	size: 72, 296
+	orig: 80, 330
+	offset: 4, 0
+	index: -1
+common/fenghuangnan_jnhuoqiu_00008
+	rotate: true
+	xy: 412, 79
+	size: 74, 330
+	orig: 80, 330
+	offset: 4, 0
+	index: -1
+common/fenghuangnan_jnhuoqiu_00001
+	rotate: true
+	xy: 412, 229
+	size: 78, 322
+	orig: 80, 330
+	offset: 1, 0
+	index: -1
+common/fenghuangnan_jnhuoqiu_00000
+	rotate: true
+	xy: 412, 387
+	size: 78, 316
+	orig: 80, 330
+	offset: 1, 0
+	index: -1
+common/fenghuangnan_jnhuoqiu_00003
+	rotate: true
+	xy: 412, 308
+	size: 78, 322
+	orig: 80, 330
+	offset: 1, 0
+	index: -1
+common/fenghuangnan_jnhuoqiu_00002
+	rotate: true
+	xy: 412, 0
+	size: 78, 330
+	orig: 80, 330
+	offset: 1, 0
+	index: -1
+common/fenghuangnan_jnhuoqiu_00005
+	rotate: true
+	xy: 0, 171
+	size: 72, 328
+	orig: 80, 330
+	offset: 6, 0
+	index: -1
+common/fenghuangnan_jnhuoqiu_00004
+	rotate: true
+	xy: 412, 154
+	size: 74, 326
+	orig: 80, 330
+	offset: 5, 0
+	index: -1
+common/fenghuangnan_jnhuoqiu_00007
+	rotate: true
+	xy: 0, 98
+	size: 72, 330
+	orig: 80, 330
+	offset: 6, 0
+	index: -1
+common/fenghuangnan_jnhuoqiu_00006
+	rotate: true
+	xy: 0, 244
+	size: 72, 326
+	orig: 80, 330
+	offset: 6, 0
+	index: -1
+common/fenghuangnan_jnbaozha_00119
+	rotate: false
+	xy: 729, 439
+	size: 295, 268
+	orig: 351, 288
+	offset: 20, 0
+	index: -1
+common/fenghuangnan_jnbaozha_00118
+	rotate: true
+	xy: 0, 739
+	size: 285, 262
+	orig: 351, 288
+	offset: 26, 0
+	index: -1
+common/fenghuangnan_jnbaozha_00117
+	rotate: false
+	xy: 743, 0
+	size: 281, 254
+	orig: 351, 288
+	offset: 32, 0
+	index: -1
+common/fenghuangnan_jnbaozha_00130
+	rotate: false
+	xy: 412, 466
+	size: 315, 272
+	orig: 351, 288
+	offset: 16, 0
+	index: -1
+common/fenghuangnan_jnbaozha_00137
+	rotate: true
+	xy: 195, 317
+	size: 133, 130
+	orig: 351, 288
+	offset: 101, 1
+	index: -1
+
+asset/anim/fenghuangnanSECOMMON4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/fenghuangnan_jnbaozha_00140
+	rotate: false
+	xy: 70, 885
+	size: 69, 90
+	orig: 351, 288
+	offset: 111, 33
+	index: -1
+common/fenghuangnan_jnbaozha_00133
+	rotate: false
+	xy: 719, 166
+	size: 161, 136
+	orig: 351, 288
+	offset: 89, 0
+	index: -1
+common/fenghuangnan_jnbaozha_00132
+	rotate: true
+	xy: 890, 0
+	size: 165, 134
+	orig: 351, 288
+	offset: 88, 0
+	index: -1
+common/fenghuangnan_jnbaozha_00136
+	rotate: false
+	xy: 873, 323
+	size: 137, 136
+	orig: 351, 288
+	offset: 101, 0
+	index: -1
+common/fenghuangnan_jnbaozha_00134
+	rotate: false
+	xy: 372, 325
+	size: 155, 136
+	orig: 351, 288
+	offset: 92, 0
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

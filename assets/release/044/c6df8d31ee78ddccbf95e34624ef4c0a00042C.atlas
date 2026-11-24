@@ -1,0 +1,61 @@
+
+asset/anim/longjuanSEATTACK0.png
+size: 890,664
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/longjuan_yan
+	rotate: true
+	xy: 600, 164
+	size: 128, 123
+	orig: 128, 123
+	offset: 0, 0
+	index: -1
+attack/longjuan_juqifeng_004
+	rotate: true
+	xy: 642, 589
+	size: 75, 76
+	orig: 355, 284
+	offset: 168, 139
+	index: -1
+attack/longjuan_juqifeng_000
+	rotate: true
+	xy: 0, 0
+	size: 175, 102
+	orig: 355, 284
+	offset: 139, 144
+	index: -1
+attack/longjuan_juqifeng_001
+	rotate: false
+	xy: 0, 176
+	size: 163, 168
+	orig: 355, 284
+	offset: 142, 105
+	index: -1
+attack/longjuan_juqifeng_002
+	rotate: true
+	xy: 724, 0
+	size: 111, 152
+	orig: 355, 284
+	offset: 168, 119
+	index: -1
+attack/longjuan_juqifeng_003
+	rotate: true
+	xy: 724, 364
+	size: 107, 120
+	orig: 355, 284
+	offset: 139, 125
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

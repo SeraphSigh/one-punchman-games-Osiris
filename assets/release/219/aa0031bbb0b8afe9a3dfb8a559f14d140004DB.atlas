@@ -1,0 +1,76 @@
+
+asset/anim/jinshuqishi0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jinshuqishitx_70
+	rotate: true
+	xy: 386, 988
+	size: 32, 103
+	orig: 32, 103
+	offset: 0, 0
+	index: -1
+common/jinshuqishitx_71
+	rotate: false
+	xy: 273, 703
+	size: 31, 104
+	orig: 31, 104
+	offset: 0, 0
+	index: -1
+common/jinshuqishitx_72
+	rotate: true
+	xy: 312, 601
+	size: 28, 103
+	orig: 28, 103
+	offset: 0, 0
+	index: -1
+common/jinshuqishitx_73
+	rotate: false
+	xy: 396, 845
+	size: 31, 101
+	orig: 31, 101
+	offset: 0, 0
+	index: -1
+common/jinshuqishitx_74
+	rotate: false
+	xy: 303, 248
+	size: 31, 98
+	orig: 31, 98
+	offset: 0, 0
+	index: -1
+common/jinshuqishitx_75
+	rotate: true
+	xy: 231, 459
+	size: 29, 94
+	orig: 29, 94
+	offset: 0, 0
+	index: -1
+common/jinshuqishitx_67
+	rotate: true
+	xy: 273, 808
+	size: 32, 100
+	orig: 32, 100
+	offset: 0, 0
+	index: -1
+common/jinshuqishitx_69
+	rotate: true
+	xy: 127, 459
+	size: 30, 103
+	orig: 30, 103
+	offset: 0, 0
+	index: -1
+common/jinshuqishitx_68
+	rotate: true
+	xy: 301, 173
+	size: 32, 103
+	orig: 32, 103
+	offset: 0, 0
+	index: -1
+common/jinshuqishitx_66
+	rotate: false
+	xy: 305, 703
+	size: 31, 102
+	orig: 31, 102
+	offset: 0, 0
+	index: -1

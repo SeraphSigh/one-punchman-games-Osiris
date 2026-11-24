@@ -1,0 +1,177 @@
+
+asset/anim/yimiaorenshouxingSEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/uryimiaoren_beijingyun_00011
+	rotate: true
+	xy: 0, 479
+	size: 486, 252
+	orig: 486, 272
+	offset: 0, 20
+	index: -1
+max/uryimiaoren_cj2_00078
+	rotate: false
+	xy: 253, 437
+	size: 590, 129
+	orig: 590, 143
+	offset: 0, 0
+	index: -1
+max/uryimiaoren_beijing3_00011_00058_00036
+	rotate: true
+	xy: 844, 0
+	size: 478, 180
+	orig: 486, 190
+	offset: 4, 0
+	index: -1
+max/uryimiaoren_beijing2_00011_00058
+	rotate: false
+	xy: 0, 0
+	size: 843, 436
+	orig: 843, 518
+	offset: 0, 0
+	index: -1
+
+asset/anim/yimiaorenshouxingSESKILL0.png
+size: 475,463
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/uryimiaoren_shanbai_00100
+	rotate: true
+	xy: 347, 221
+	size: 220, 128
+	orig: 220, 128
+	offset: 0, 0
+	index: -1
+
+asset/anim/yimiaorenshouxingSEMAX2.png
+size: 1017,1007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/uryimiaoren_juexingjixuli_00000
+	rotate: false
+	xy: 0, 885
+	size: 122, 122
+	orig: 122, 122
+	offset: 0, 0
+	index: -1
+max/uryimiaoren_juexingjixuli_00006
+	rotate: false
+	xy: 246, 875
+	size: 122, 122
+	orig: 122, 122
+	offset: 0, 0
+	index: -1
+max/uryimiaoren_juexingjixuli_00004
+	rotate: false
+	xy: 123, 885
+	size: 122, 122
+	orig: 122, 122
+	offset: 0, 0
+	index: -1
+max/uryimiaoren_juexingjixuli_00008
+	rotate: false
+	xy: 800, 626
+	size: 122, 122
+	orig: 122, 122
+	offset: 0, 0
+	index: -1
+max/uryimiaoren_changji1_00078
+	rotate: false
+	xy: 0, 175
+	size: 238, 74
+	orig: 238, 76
+	offset: 0, 2
+	index: -1
+max/uryimiaoren_juexingjixuli_00020
+	rotate: false
+	xy: 800, 749
+	size: 122, 122
+	orig: 122, 122
+	offset: 0, 0
+	index: -1
+max/uryimiaoren_juexingjixuli_00022
+	rotate: false
+	xy: 724, 872
+	size: 122, 122
+	orig: 122, 122
+	offset: 0, 0
+	index: -1
+
+asset/anim/yimiaorenshouxingSEMAX3.png
+size: 245,590
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/uryimiaoren_juexingjixuli_00010
+	rotate: true
+	xy: 0, 81
+	size: 116, 122
+	orig: 122, 122
+	offset: 6, 0
+	index: -1
+max/uryimiaoren_juexingjixuli_00002
+	rotate: false
+	xy: 119, 347
+	size: 122, 120
+	orig: 122, 122
+	offset: 0, 2
+	index: -1
+max/uryimiaoren_juexingjixuli_00012
+	rotate: true
+	xy: 123, 111
+	size: 116, 122
+	orig: 122, 122
+	offset: 6, 0
+	index: -1
+max/uryimiaoren_juexingjixuli_00014
+	rotate: true
+	xy: 0, 198
+	size: 116, 122
+	orig: 122, 122
+	offset: 6, 0
+	index: -1
+max/uryimiaoren_juexingjixuli_00016
+	rotate: true
+	xy: 123, 228
+	size: 118, 122
+	orig: 122, 122
+	offset: 4, 0
+	index: -1
+max/uryimiaoren_juexingjixuli_00028
+	rotate: false
+	xy: 123, 468
+	size: 122, 122
+	orig: 122, 122
+	offset: 0, 0
+	index: -1
+max/uryimiaoren_juexingjixuli_00026
+	rotate: false
+	xy: 0, 468
+	size: 122, 122
+	orig: 122, 122
+	offset: 0, 0
+	index: -1
+max/uryimiaoren_juexingjixuli_00024
+	rotate: true
+	xy: 123, 0
+	size: 110, 122
+	orig: 122, 122
+	offset: 11, 0
+	index: -1
+
+asset/anim/yimiaorenshouxingSEMAX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/uryimiaoren_juexingjixuli_00018
+	rotate: false
+	xy: 669, 887
+	size: 120, 122
+	orig: 122, 122
+	offset: 2, 0
+	index: -1

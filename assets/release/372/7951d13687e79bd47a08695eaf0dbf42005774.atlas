@@ -1,0 +1,1427 @@
+
+asset/anim/lianbuding4.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+o_zuoshou2_lianbuding
+	rotate: true
+	xy: 180, 114
+	size: 34, 32
+	orig: 34, 32
+	offset: 0, 0
+	index: -1
+e_zuoxiaobi_lianbuding
+	rotate: false
+	xy: 0, 209
+	size: 34, 34
+	orig: 34, 34
+	offset: 0, 0
+	index: -1
+q_youshou_lianbuding
+	rotate: true
+	xy: 61, 61
+	size: 39, 40
+	orig: 39, 40
+	offset: 0, 0
+	index: -1
+a_youshou2_lianbuding
+	rotate: false
+	xy: 0, 173
+	size: 28, 35
+	orig: 28, 35
+	offset: 0, 0
+	index: -1
+a_zuoshou1_lianbuding
+	rotate: false
+	xy: 88, 157
+	size: 28, 31
+	orig: 28, 31
+	offset: 0, 0
+	index: -1
+d_youxiaobi_lianbuding
+	rotate: false
+	xy: 170, 74
+	size: 42, 39
+	orig: 42, 39
+	offset: 0, 0
+	index: -1
+r_youshou2_lianbuding
+	rotate: true
+	xy: 213, 115
+	size: 34, 37
+	orig: 34, 37
+	offset: 0, 0
+	index: -1
+t_zuoshou1_lianbuding
+	rotate: false
+	xy: 40, 101
+	size: 39, 35
+	orig: 39, 35
+	offset: 0, 0
+	index: -1
+s_youshou1_lianbuding
+	rotate: true
+	xy: 184, 38
+	size: 35, 44
+	orig: 35, 44
+	offset: 0, 0
+	index: -1
+n_zuoshou1_lianbuding
+	rotate: false
+	xy: 213, 79
+	size: 41, 35
+	orig: 41, 35
+	offset: 0, 0
+	index: -1
+c_zuoshou1_lianbuding
+	rotate: true
+	xy: 35, 207
+	size: 33, 28
+	orig: 33, 28
+	offset: 0, 0
+	index: -1
+t_youshou2_lianbuding
+	rotate: false
+	xy: 29, 173
+	size: 28, 33
+	orig: 28, 33
+	offset: 0, 0
+	index: -1
+e_zuoshou2_lianbuding
+	rotate: false
+	xy: 80, 125
+	size: 36, 31
+	orig: 36, 31
+	offset: 0, 0
+	index: -1
+j_xiaobi_lianbuding
+	rotate: true
+	xy: 38, 137
+	size: 34, 35
+	orig: 34, 35
+	offset: 0, 0
+	index: -1
+a_zuoshou2_lianbuding
+	rotate: true
+	xy: 64, 205
+	size: 31, 29
+	orig: 31, 29
+	offset: 0, 0
+	index: -1
+g_youjiao_lianbuding
+	rotate: false
+	xy: 184, 0
+	size: 50, 37
+	orig: 50, 37
+	offset: 0, 0
+	index: -1
+t_zuojiao_lianbuding
+	rotate: true
+	xy: 125, 0
+	size: 52, 58
+	orig: 52, 58
+	offset: 0, 0
+	index: -1
+r_youshou1_lianbuding
+	rotate: true
+	xy: 125, 53
+	size: 34, 44
+	orig: 34, 44
+	offset: 0, 0
+	index: -1
+c_zuoxiaobi_lianbuding
+	rotate: false
+	xy: 0, 96
+	size: 39, 39
+	orig: 39, 39
+	offset: 0, 0
+	index: -1
+l_youshou2_lianbuding
+	rotate: false
+	xy: 102, 88
+	size: 39, 36
+	orig: 39, 36
+	offset: 0, 0
+	index: -1
+a_zuojiao_lianbuding
+	rotate: false
+	xy: 0, 0
+	size: 63, 37
+	orig: 63, 37
+	offset: 0, 0
+	index: -1
+r_youjiao_lianbuding
+	rotate: true
+	xy: 229, 38
+	size: 40, 27
+	orig: 40, 27
+	offset: 0, 0
+	index: -1
+o_zuoshou1_lianbuding
+	rotate: true
+	xy: 0, 136
+	size: 36, 37
+	orig: 36, 37
+	offset: 0, 0
+	index: -1
+q_youxiaobi_lianbuding
+	rotate: false
+	xy: 142, 114
+	size: 37, 34
+	orig: 37, 34
+	offset: 0, 0
+	index: -1
+c_zuodabi_lianbuding
+	rotate: false
+	xy: 0, 38
+	size: 60, 57
+	orig: 66, 57
+	offset: 0, 0
+	index: -1
+h_youshou2_lianbuding
+	rotate: false
+	xy: 58, 172
+	size: 29, 32
+	orig: 29, 32
+	offset: 0, 0
+	index: -1
+s_youxiaobi_lianbuding
+	rotate: false
+	xy: 64, 0
+	size: 60, 60
+	orig: 60, 60
+	offset: 0, 0
+	index: -1
+
+asset/anim/lianbuding1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+t_youdatui_lianbuding
+	rotate: true
+	xy: 50, 289
+	size: 83, 60
+	orig: 83, 60
+	offset: 0, 0
+	index: -1
+r_dao2_lianbuding
+	rotate: true
+	xy: 159, 375
+	size: 137, 75
+	orig: 137, 75
+	offset: 0, 0
+	index: -1
+t_zuoxiaobi_lianbuding
+	rotate: true
+	xy: 422, 402
+	size: 49, 72
+	orig: 49, 72
+	offset: 0, 0
+	index: -1
+g_shenti_lianbuding
+	rotate: true
+	xy: 0, 63
+	size: 101, 176
+	orig: 101, 176
+	offset: 0, 0
+	index: -1
+g_youdatui_lianbuding
+	rotate: false
+	xy: 0, 289
+	size: 49, 84
+	orig: 49, 84
+	offset: 0, 0
+	index: -1
+gd_lianbuding
+	rotate: false
+	xy: 360, 0
+	size: 152, 158
+	orig: 160, 164
+	offset: 2, 0
+	index: -1
+p_youdabi_lianbuding
+	rotate: true
+	xy: 334, 305
+	size: 69, 87
+	orig: 69, 87
+	offset: 0, 0
+	index: -1
+c_youdabi_lianbuding
+	rotate: false
+	xy: 376, 452
+	size: 93, 60
+	orig: 93, 60
+	offset: 0, 0
+	index: -1
+j_dao_lianbuding
+	rotate: true
+	xy: 235, 375
+	size: 134, 140
+	orig: 134, 140
+	offset: 0, 0
+	index: -1
+i_dao_lianbuding
+	rotate: true
+	xy: 181, 0
+	size: 139, 178
+	orig: 143, 178
+	offset: 0, 0
+	index: -1
+b_zuoshou2_lianbuding
+	rotate: true
+	xy: 495, 402
+	size: 22, 17
+	orig: 22, 17
+	offset: 0, 0
+	index: -1
+k_dao_lianbuding
+	rotate: true
+	xy: 422, 305
+	size: 96, 90
+	orig: 96, 90
+	offset: 0, 0
+	index: -1
+b_dao1_lianbuding
+	rotate: false
+	xy: 349, 246
+	size: 163, 58
+	orig: 163, 58
+	offset: 0, 0
+	index: -1
+f_zuoxiaobi_lianbuding
+	rotate: true
+	xy: 470, 452
+	size: 60, 38
+	orig: 60, 38
+	offset: 0, 0
+	index: -1
+h_dao_lianbuding
+	rotate: true
+	xy: 168, 223
+	size: 151, 165
+	orig: 151, 165
+	offset: 0, 0
+	index: -1
+o_youshou2_lianbuding
+	rotate: false
+	xy: 334, 249
+	size: 14, 23
+	orig: 14, 23
+	offset: 0, 0
+	index: -1
+e_dao_lianbuding
+	rotate: false
+	xy: 350, 159
+	size: 160, 86
+	orig: 174, 94
+	offset: 14, 0
+	index: -1
+n_youshou2_lianbuding
+	rotate: false
+	xy: 334, 223
+	size: 14, 25
+	orig: 14, 25
+	offset: 0, 0
+	index: -1
+t_youxiaobi_lianbuding
+	rotate: false
+	xy: 111, 289
+	size: 56, 73
+	orig: 56, 73
+	offset: 0, 0
+	index: -1
+i_youxiaobi_lianbuding
+	rotate: false
+	xy: 376, 375
+	size: 45, 76
+	orig: 45, 76
+	offset: 0, 0
+	index: -1
+f_dao1_lianbuding
+	rotate: false
+	xy: 0, 0
+	size: 180, 62
+	orig: 182, 62
+	offset: 0, 0
+	index: -1
+h_shenti_lianbuding
+	rotate: true
+	xy: 0, 165
+	size: 123, 167
+	orig: 123, 167
+	offset: 0, 0
+	index: -1
+n_shenti_lianbuding
+	rotate: false
+	xy: 0, 375
+	size: 158, 137
+	orig: 158, 137
+	offset: 0, 0
+	index: -1
+s_dao1_lianbuding
+	rotate: true
+	xy: 177, 140
+	size: 82, 172
+	orig: 90, 190
+	offset: 8, 18
+	index: -1
+
+asset/anim/lianbuding0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_zuodabi_lianbuding
+	rotate: true
+	xy: 87, 348
+	size: 46, 69
+	orig: 46, 69
+	offset: 0, 0
+	index: -1
+a_youdabi_lianbuding
+	rotate: true
+	xy: 0, 457
+	size: 55, 91
+	orig: 55, 91
+	offset: 0, 0
+	index: -1
+g_youshou1_lianbuding
+	rotate: true
+	xy: 186, 109
+	size: 35, 26
+	orig: 35, 26
+	offset: 0, 0
+	index: -1
+h_youxiaobi_lianbuding
+	rotate: false
+	xy: 158, 457
+	size: 64, 55
+	orig: 64, 55
+	offset: 0, 0
+	index: -1
+k_shenti_lianbuding
+	rotate: true
+	xy: 223, 395
+	size: 116, 167
+	orig: 116, 167
+	offset: 0, 0
+	index: -1
+n_zuodabi_lianbuding
+	rotate: true
+	xy: 158, 329
+	size: 119, 53
+	orig: 119, 53
+	offset: 0, 0
+	index: -1
+c_zuoshou2_lianbuding
+	rotate: false
+	xy: 186, 175
+	size: 26, 23
+	orig: 26, 23
+	offset: 0, 0
+	index: -1
+c_dao2_lianbuding
+	rotate: false
+	xy: 402, 0
+	size: 110, 114
+	orig: 110, 114
+	offset: 0, 0
+	index: -1
+a_dao1_lianbuding
+	rotate: false
+	xy: 0, 0
+	size: 212, 70
+	orig: 212, 70
+	offset: 0, 0
+	index: -1
+g_zuoshou_lianbuding
+	rotate: true
+	xy: 186, 71
+	size: 37, 26
+	orig: 37, 26
+	offset: 0, 0
+	index: -1
+r_zuoshou2_lianbuding
+	rotate: true
+	xy: 459, 497
+	size: 15, 27
+	orig: 15, 27
+	offset: 0, 0
+	index: -1
+s_zuoxaobi_lianbuding
+	rotate: false
+	xy: 158, 272
+	size: 54, 56
+	orig: 54, 56
+	offset: 0, 0
+	index: -1
+a_dao2_lianbuding
+	rotate: false
+	xy: 213, 152
+	size: 180, 139
+	orig: 180, 139
+	offset: 0, 0
+	index: -1
+o_youxiaobi_lianbuding
+	rotate: true
+	xy: 92, 457
+	size: 55, 65
+	orig: 55, 65
+	offset: 0, 0
+	index: -1
+b_youdatui_lianbuding
+	rotate: true
+	xy: 88, 395
+	size: 58, 68
+	orig: 58, 68
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi_lianbuding
+	rotate: true
+	xy: 0, 348
+	size: 46, 86
+	orig: 46, 86
+	offset: 0, 0
+	index: -1
+s_youshou2_lianbuding
+	rotate: true
+	xy: 487, 497
+	size: 15, 25
+	orig: 15, 25
+	offset: 0, 0
+	index: -1
+a_zuodabi_lianbuding
+	rotate: false
+	xy: 459, 457
+	size: 53, 39
+	orig: 53, 39
+	offset: 0, 0
+	index: -1
+c_dao1_lianbuding
+	rotate: false
+	xy: 213, 292
+	size: 180, 102
+	orig: 212, 102
+	offset: 32, 0
+	index: -1
+o_tou_lianbuding
+	rotate: true
+	xy: 0, 395
+	size: 61, 87
+	orig: 61, 87
+	offset: 0, 0
+	index: -1
+f_zuoshou1_lianbuding
+	rotate: true
+	xy: 186, 145
+	size: 29, 26
+	orig: 29, 26
+	offset: 0, 0
+	index: -1
+q_dao_lianbuding
+	rotate: false
+	xy: 402, 115
+	size: 107, 160
+	orig: 107, 160
+	offset: 0, 0
+	index: -1
+r_youxiaotui_lianbuding
+	rotate: true
+	xy: 391, 457
+	size: 53, 67
+	orig: 53, 67
+	offset: 0, 0
+	index: -1
+m_dao_lianbuding
+	rotate: true
+	xy: 0, 71
+	size: 128, 185
+	orig: 132, 185
+	offset: 4, 0
+	index: -1
+d_dao_lianbuding
+	rotate: true
+	xy: 0, 200
+	size: 147, 157
+	orig: 147, 157
+	offset: 0, 0
+	index: -1
+t_youxiaotui_lianbuding
+	rotate: false
+	xy: 158, 200
+	size: 54, 71
+	orig: 54, 71
+	offset: 0, 0
+	index: -1
+s_dao2_lianbuding
+	rotate: true
+	xy: 213, 0
+	size: 151, 188
+	orig: 151, 188
+	offset: 0, 0
+	index: -1
+l_shenti_lianbuding
+	rotate: false
+	xy: 394, 276
+	size: 118, 180
+	orig: 118, 180
+	offset: 0, 0
+	index: -1
+
+asset/anim/lianbuding3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouji_lianbuding
+	rotate: true
+	xy: 309, 76
+	size: 64, 92
+	orig: 64, 92
+	offset: 0, 0
+	index: -1
+k_youshou1_lianbuding
+	rotate: true
+	xy: 243, 438
+	size: 35, 52
+	orig: 35, 52
+	offset: 0, 0
+	index: -1
+j_youshou2_lianbuding
+	rotate: false
+	xy: 366, 239
+	size: 21, 29
+	orig: 21, 29
+	offset: 0, 0
+	index: -1
+a_tou_lianbuding
+	rotate: true
+	xy: 218, 0
+	size: 66, 95
+	orig: 70, 95
+	offset: 2, 0
+	index: -1
+n_youxiaobi_lianbuding
+	rotate: true
+	xy: 310, 396
+	size: 46, 36
+	orig: 46, 36
+	offset: 0, 0
+	index: -1
+n_zuoshou2_lianbuding
+	rotate: true
+	xy: 39, 425
+	size: 37, 31
+	orig: 37, 31
+	offset: 0, 0
+	index: -1
+r_youdabi_lianbuding
+	rotate: false
+	xy: 0, 233
+	size: 82, 75
+	orig: 82, 75
+	offset: 0, 0
+	index: -1
+c_youxiaobi_lianbuding
+	rotate: false
+	xy: 114, 365
+	size: 70, 42
+	orig: 70, 42
+	offset: 0, 0
+	index: -1
+i_youdabi_lianbuding
+	rotate: false
+	xy: 314, 0
+	size: 93, 75
+	orig: 93, 77
+	offset: 0, 2
+	index: -1
+t_zuoshou2_lianbuding
+	rotate: false
+	xy: 449, 480
+	size: 36, 32
+	orig: 36, 32
+	offset: 0, 0
+	index: -1
+i_youshou1_lianbuding
+	rotate: false
+	xy: 471, 244
+	size: 41, 44
+	orig: 41, 44
+	offset: 0, 0
+	index: -1
+h_youdabi_lianbuding
+	rotate: false
+	xy: 119, 0
+	size: 98, 57
+	orig: 98, 57
+	offset: 0, 0
+	index: -1
+q_youshou2_lianbuding
+	rotate: false
+	xy: 88, 205
+	size: 23, 27
+	orig: 23, 27
+	offset: 0, 0
+	index: -1
+s_zuodabi_lianbuding
+	rotate: true
+	xy: 285, 202
+	size: 62, 80
+	orig: 62, 80
+	offset: 0, 0
+	index: -1
+baozou_lianbuding
+	rotate: true
+	xy: 215, 67
+	size: 64, 93
+	orig: 64, 93
+	offset: 0, 0
+	index: -1
+a_youxiaobi_lianbuding
+	rotate: true
+	xy: 197, 248
+	size: 50, 78
+	orig: 50, 78
+	offset: 0, 0
+	index: -1
+t_zuodabi_lianbuding
+	rotate: false
+	xy: 0, 0
+	size: 118, 52
+	orig: 118, 52
+	offset: 0, 0
+	index: -1
+r_zuodabi_lianbuding
+	rotate: true
+	xy: 388, 266
+	size: 66, 79
+	orig: 66, 79
+	offset: 0, 0
+	index: -1
+g_youxiaobi_lianbuding
+	rotate: false
+	xy: 0, 390
+	size: 70, 34
+	orig: 70, 34
+	offset: 0, 0
+	index: -1
+b_zuodabi_lianbuding
+	rotate: false
+	xy: 388, 333
+	size: 75, 60
+	orig: 75, 60
+	offset: 0, 0
+	index: -1
+t_zuodatui_lianbuding
+	rotate: false
+	xy: 197, 299
+	size: 75, 69
+	orig: 75, 69
+	offset: 0, 0
+	index: -1
+d_youxiaotui_lianbuding
+	rotate: false
+	xy: 0, 135
+	size: 88, 60
+	orig: 88, 60
+	offset: 0, 0
+	index: -1
+f_youxiaobi_lianbuding
+	rotate: true
+	xy: 347, 352
+	size: 67, 40
+	orig: 67, 40
+	offset: 0, 0
+	index: -1
+d_youdatui_lianbuding
+	rotate: false
+	xy: 114, 408
+	size: 68, 65
+	orig: 68, 65
+	offset: 0, 0
+	index: -1
+i_youshou2_lianbuding
+	rotate: false
+	xy: 81, 378
+	size: 32, 40
+	orig: 32, 40
+	offset: 0, 0
+	index: -1
+b_youshou2_lianbuding
+	rotate: false
+	xy: 354, 323
+	size: 33, 28
+	orig: 33, 28
+	offset: 0, 0
+	index: -1
+d_youdabi_lianbuding
+	rotate: false
+	xy: 201, 197
+	size: 83, 50
+	orig: 83, 50
+	offset: 0, 0
+	index: -1
+g_dao2_lianbuding
+	rotate: false
+	xy: 0, 196
+	size: 87, 36
+	orig: 87, 36
+	offset: 0, 0
+	index: -1
+s_youdabi_lianbuding
+	rotate: false
+	xy: 0, 309
+	size: 80, 80
+	orig: 80, 80
+	offset: 0, 0
+	index: -1
+l_youshou1_lianbuding
+	rotate: false
+	xy: 230, 474
+	size: 42, 38
+	orig: 42, 38
+	offset: 0, 0
+	index: -1
+siwang_lianbuding
+	rotate: true
+	xy: 402, 132
+	size: 64, 90
+	orig: 64, 90
+	offset: 0, 0
+	index: -1
+b_zuoshou_lianbuding
+	rotate: true
+	xy: 89, 135
+	size: 40, 25
+	orig: 40, 25
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui_lianbuding
+	rotate: true
+	xy: 183, 438
+	size: 35, 59
+	orig: 35, 59
+	offset: 0, 0
+	index: -1
+l_zuoshou1_lianbuding
+	rotate: true
+	xy: 409, 480
+	size: 32, 39
+	orig: 32, 39
+	offset: 0, 0
+	index: -1
+g_zuoxiaobi_lianbuding
+	rotate: true
+	xy: 374, 420
+	size: 67, 34
+	orig: 67, 34
+	offset: 0, 0
+	index: -1
+j_youshou_lianbuding
+	rotate: true
+	xy: 65, 469
+	size: 43, 41
+	orig: 43, 41
+	offset: 0, 0
+	index: -1
+g_youshou2_lianbuding
+	rotate: true
+	xy: 83, 233
+	size: 53, 30
+	orig: 53, 30
+	offset: 0, 0
+	index: -1
+c_youshou2_lianbuding
+	rotate: true
+	xy: 310, 474
+	size: 38, 35
+	orig: 38, 35
+	offset: 0, 0
+	index: -1
+o_youshou1_lianbuding
+	rotate: false
+	xy: 71, 419
+	size: 42, 49
+	orig: 42, 49
+	offset: 0, 0
+	index: -1
+r_dao1_lianbuding
+	rotate: true
+	xy: 346, 443
+	size: 68, 27
+	orig: 68, 27
+	offset: 0, 0
+	index: -1
+e_youdabi_lianbuding
+	rotate: true
+	xy: 0, 53
+	size: 81, 97
+	orig: 81, 97
+	offset: 0, 0
+	index: -1
+q_youdabi_lianbuding
+	rotate: true
+	xy: 390, 197
+	size: 68, 80
+	orig: 68, 80
+	offset: 0, 0
+	index: -1
+k_youshou2_lianbuding
+	rotate: false
+	xy: 98, 83
+	size: 16, 33
+	orig: 16, 33
+	offset: 0, 0
+	index: -1
+g_youxiaotui_lianbuding
+	rotate: false
+	xy: 119, 58
+	size: 95, 50
+	orig: 95, 50
+	offset: 0, 0
+	index: -1
+s_zuoshou1_lianbuding
+	rotate: false
+	xy: 81, 331
+	size: 32, 46
+	orig: 32, 46
+	offset: 0, 0
+	index: -1
+c_youshou1_lianbuding
+	rotate: true
+	xy: 476, 439
+	size: 40, 36
+	orig: 40, 36
+	offset: 0, 0
+	index: -1
+p_youshou1_lianbuding
+	rotate: false
+	xy: 476, 394
+	size: 36, 44
+	orig: 36, 44
+	offset: 0, 0
+	index: -1
+b_youshou_lianbuding
+	rotate: true
+	xy: 354, 269
+	size: 53, 33
+	orig: 53, 33
+	offset: 0, 0
+	index: -1
+a_zuoshou3_lianbuding
+	rotate: true
+	xy: 0, 425
+	size: 43, 38
+	orig: 43, 38
+	offset: 0, 0
+	index: -1
+s_zuoshou2_lianbuding
+	rotate: false
+	xy: 98, 53
+	size: 20, 29
+	orig: 20, 29
+	offset: 0, 0
+	index: -1
+a_youxiaotui_lianbuding
+	rotate: false
+	xy: 185, 369
+	size: 69, 68
+	orig: 69, 68
+	offset: 0, 0
+	index: -1
+r_tou_lianbuding
+	rotate: true
+	xy: 114, 188
+	size: 56, 86
+	orig: 56, 86
+	offset: 0, 0
+	index: -1
+l_zuoxiaobi_lianbuding
+	rotate: true
+	xy: 408, 0
+	size: 66, 92
+	orig: 66, 92
+	offset: 0, 0
+	index: -1
+t_youshou1_lianbuding
+	rotate: false
+	xy: 464, 342
+	size: 47, 51
+	orig: 47, 51
+	offset: 0, 0
+	index: -1
+benghuai_lianbuding
+	rotate: true
+	xy: 408, 67
+	size: 64, 92
+	orig: 64, 92
+	offset: 0, 0
+	index: -1
+j_dabi_lianbuding
+	rotate: true
+	xy: 468, 289
+	size: 52, 44
+	orig: 52, 44
+	offset: 0, 0
+	index: -1
+r_youdatui_lianbuding
+	rotate: false
+	xy: 409, 394
+	size: 66, 64
+	orig: 66, 64
+	offset: 0, 0
+	index: -1
+k_tou_lianbuding
+	rotate: true
+	xy: 208, 132
+	size: 64, 90
+	orig: 64, 90
+	offset: 0, 0
+	index: -1
+d_youshou1_lianbuding
+	rotate: false
+	xy: 273, 474
+	size: 36, 38
+	orig: 36, 38
+	offset: 0, 0
+	index: -1
+t_youjiao_lianbuding
+	rotate: false
+	xy: 0, 469
+	size: 64, 43
+	orig: 64, 43
+	offset: 0, 0
+	index: -1
+m_youdabi_lianbuding
+	rotate: true
+	xy: 276, 265
+	size: 64, 77
+	orig: 64, 77
+	offset: 0, 0
+	index: -1
+n_youdabi_lianbuding
+	rotate: true
+	xy: 115, 109
+	size: 78, 92
+	orig: 78, 92
+	offset: 0, 0
+	index: -1
+b_youdabi_lianbuding
+	rotate: false
+	xy: 114, 245
+	size: 82, 69
+	orig: 82, 69
+	offset: 0, 0
+	index: -1
+e_zuoshou1_lianbuding
+	rotate: true
+	xy: 89, 176
+	size: 28, 24
+	orig: 28, 24
+	offset: 0, 0
+	index: -1
+h_youshou1_lianbuding
+	rotate: true
+	xy: 255, 396
+	size: 41, 42
+	orig: 41, 42
+	offset: 0, 0
+	index: -1
+r_youxiaobi_lianbuding
+	rotate: true
+	xy: 107, 474
+	size: 38, 65
+	orig: 38, 65
+	offset: 0, 0
+	index: -1
+a_youjiao_lianbuding
+	rotate: true
+	xy: 83, 287
+	size: 43, 30
+	orig: 43, 30
+	offset: 0, 0
+	index: -1
+f_youshou_lianbuding
+	rotate: true
+	xy: 471, 197
+	size: 46, 41
+	orig: 46, 41
+	offset: 0, 0
+	index: -1
+l_youdabi_lianbuding
+	rotate: false
+	xy: 273, 330
+	size: 73, 65
+	orig: 73, 65
+	offset: 0, 0
+	index: -1
+t_tou_lianbuding
+	rotate: true
+	xy: 299, 141
+	size: 60, 90
+	orig: 60, 90
+	offset: 0, 0
+	index: -1
+l_zuoshou2_lianbuding
+	rotate: true
+	xy: 296, 443
+	size: 30, 34
+	orig: 30, 34
+	offset: 0, 0
+	index: -1
+a_biyan_lianbuding
+	rotate: true
+	xy: 366, 202
+	size: 36, 22
+	orig: 36, 22
+	offset: 0, 0
+	index: -1
+m_youshou1_lianbuding
+	rotate: true
+	xy: 173, 474
+	size: 38, 56
+	orig: 38, 56
+	offset: 0, 0
+	index: -1
+o_zuoxiaobi_lianbuding
+	rotate: true
+	xy: 114, 315
+	size: 49, 71
+	orig: 49, 71
+	offset: 0, 0
+	index: -1
+
+asset/anim/lianbuding2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e_shenti_lianbuding
+	rotate: false
+	xy: 0, 0
+	size: 157, 132
+	orig: 157, 132
+	offset: 0, 0
+	index: -1
+p_youshou2_lianbuding
+	rotate: false
+	xy: 366, 488
+	size: 20, 22
+	orig: 20, 22
+	offset: 0, 0
+	index: -1
+m_shenti_lianbuding
+	rotate: true
+	xy: 158, 0
+	size: 127, 157
+	orig: 127, 157
+	offset: 0, 0
+	index: -1
+b_youxiaobi_lianbuding
+	rotate: true
+	xy: 471, 0
+	size: 76, 41
+	orig: 76, 41
+	offset: 0, 0
+	index: -1
+t_shenti_lianbuding
+	rotate: false
+	xy: 312, 191
+	size: 151, 144
+	orig: 151, 144
+	offset: 0, 0
+	index: -1
+t_zuoxiaotui_lianbuding
+	rotate: true
+	xy: 471, 77
+	size: 75, 41
+	orig: 75, 41
+	offset: 0, 0
+	index: -1
+a_youshou1_lianbuding
+	rotate: false
+	xy: 275, 348
+	size: 43, 46
+	orig: 43, 46
+	offset: 0, 0
+	index: -1
+a_shenti_lianbuding
+	rotate: true
+	xy: 0, 150
+	size: 139, 152
+	orig: 139, 152
+	offset: 0, 0
+	index: -1
+f_zuoshou2_lianbuding
+	rotate: false
+	xy: 327, 488
+	size: 38, 24
+	orig: 38, 24
+	offset: 0, 0
+	index: -1
+f_dao2_lianbuding
+	rotate: false
+	xy: 316, 123
+	size: 154, 67
+	orig: 166, 71
+	offset: 0, 0
+	index: -1
+d_youjiao_lianbuding
+	rotate: false
+	xy: 46, 336
+	size: 47, 28
+	orig: 47, 28
+	offset: 0, 0
+	index: -1
+r_zuoxiaobi_lianbuding
+	rotate: true
+	xy: 122, 290
+	size: 44, 60
+	orig: 44, 60
+	offset: 0, 0
+	index: -1
+p_dao_lianbuding
+	rotate: true
+	xy: 126, 395
+	size: 114, 150
+	orig: 124, 162
+	offset: 0, 0
+	index: -1
+n_youshou_lianbuding
+	rotate: true
+	xy: 46, 290
+	size: 45, 41
+	orig: 45, 41
+	offset: 0, 0
+	index: -1
+o_zuodabi_lianbuding
+	rotate: true
+	xy: 277, 395
+	size: 105, 49
+	orig: 105, 49
+	offset: 0, 0
+	index: -1
+o_shenti_lianbuding
+	rotate: true
+	xy: 0, 365
+	size: 143, 125
+	orig: 143, 125
+	offset: 0, 0
+	index: -1
+f_youdabi_lianbuding
+	rotate: true
+	xy: 319, 336
+	size: 58, 71
+	orig: 58, 71
+	offset: 0, 0
+	index: -1
+r_zuoshou1_lianbuding
+	rotate: true
+	xy: 94, 336
+	size: 28, 46
+	orig: 28, 46
+	offset: 0, 0
+	index: -1
+t_youdabi_lianbuding
+	rotate: true
+	xy: 391, 408
+	size: 104, 59
+	orig: 104, 59
+	offset: 0, 0
+	index: -1
+n_zuoxiaobi_lianbuding
+	rotate: false
+	xy: 141, 335
+	size: 67, 59
+	orig: 67, 59
+	offset: 0, 0
+	index: -1
+g_youdabi_lianbuding
+	rotate: true
+	xy: 464, 205
+	size: 87, 48
+	orig: 87, 48
+	offset: 0, 0
+	index: -1
+p_youxiaobi_lianbuding
+	rotate: false
+	xy: 471, 153
+	size: 41, 51
+	orig: 41, 51
+	offset: 0, 0
+	index: -1
+g_zuodabi_lianbuding
+	rotate: false
+	xy: 210, 241
+	size: 100, 56
+	orig: 100, 56
+	offset: 0, 0
+	index: -1
+b_dao2_lianbuding
+	rotate: false
+	xy: 0, 133
+	size: 153, 16
+	orig: 153, 16
+	offset: 0, 0
+	index: -1
+r_dao3_lianbuding
+	rotate: true
+	xy: 158, 128
+	size: 112, 153
+	orig: 120, 165
+	offset: 0, 12
+	index: -1
+a_youdatui_lianbuding
+	rotate: true
+	xy: 209, 348
+	size: 46, 65
+	orig: 46, 65
+	offset: 0, 0
+	index: -1
+a_zuodatui_lianbuding
+	rotate: false
+	xy: 209, 298
+	size: 99, 49
+	orig: 99, 49
+	offset: 0, 0
+	index: -1
+b_youxiaotui_lianbuding
+	rotate: false
+	xy: 391, 336
+	size: 72, 71
+	orig: 72, 71
+	offset: 0, 0
+	index: -1
+k_youxiaobi_lianbuding
+	rotate: false
+	xy: 464, 365
+	size: 43, 42
+	orig: 43, 42
+	offset: 0, 0
+	index: -1
+b_zuoxiaobi_lianbuding
+	rotate: true
+	xy: 88, 290
+	size: 45, 33
+	orig: 45, 33
+	offset: 0, 0
+	index: -1
+l_youxiaobi_lianbuding
+	rotate: false
+	xy: 464, 293
+	size: 47, 71
+	orig: 47, 71
+	offset: 0, 0
+	index: -1
+o_youdabi_lianbuding
+	rotate: false
+	xy: 327, 395
+	size: 63, 92
+	orig: 63, 92
+	offset: 0, 0
+	index: -1
+g_dao1_lianbuding
+	rotate: true
+	xy: 451, 408
+	size: 103, 56
+	orig: 103, 56
+	offset: 0, 0
+	index: -1
+f_zuodabi_lianbuding
+	rotate: false
+	xy: 153, 241
+	size: 56, 47
+	orig: 56, 47
+	offset: 0, 0
+	index: -1
+b_youjiao_lianbuding
+	rotate: true
+	xy: 183, 289
+	size: 41, 25
+	orig: 41, 25
+	offset: 0, 0
+	index: -1
+r_shenti_lianbuding
+	rotate: true
+	xy: 316, 0
+	size: 122, 154
+	orig: 122, 154
+	offset: 0, 0
+	index: -1
+m_youxiaobi_lianbuding
+	rotate: false
+	xy: 0, 290
+	size: 45, 74
+	orig: 45, 74
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

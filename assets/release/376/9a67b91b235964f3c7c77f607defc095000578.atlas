@@ -1,0 +1,76 @@
+
+asset/anim/xinniannianshouzhuchangjingimage0.png
+size: 852,591
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+denglong1_xinniannianshouzhuchangjing
+	rotate: true
+	xy: 789, 298
+	size: 31, 61
+	orig: 31, 61
+	offset: 0, 0
+	index: -1
+zhezhi2_xinniannianshouzhuchangjing
+	rotate: false
+	xy: 167, 541
+	size: 264, 31
+	orig: 264, 31
+	offset: 0, 0
+	index: -1
+zhezhi1_xinniannianshouzhuchangjing
+	rotate: false
+	xy: 729, 553
+	size: 54, 28
+	orig: 54, 28
+	offset: 0, 0
+	index: -1
+jianzhu1_xinniannianshouzhuchangjing
+	rotate: true
+	xy: 434, 298
+	size: 293, 294
+	orig: 429, 428
+	offset: 68, 67
+	index: -1
+jianzhu2_xinniannianshouzhuchangjing
+	rotate: true
+	xy: 0, 0
+	size: 435, 332
+	orig: 587, 456
+	offset: 75, 58
+	index: -1
+jianzhu4_xinniannianshouzhuchangjing
+	rotate: false
+	xy: 434, 0
+	size: 418, 297
+	orig: 544, 391
+	offset: 63, 45
+	index: -1
+guangyun_xinniannianshouzhuchangjing
+	rotate: true
+	xy: 0, 436
+	size: 131, 166
+	orig: 189, 226
+	offset: 27, 33
+	index: -1
+lianzi_xinniannianshouzhuchangjing
+	rotate: true
+	xy: 729, 298
+	size: 254, 59
+	orig: 254, 59
+	offset: 0, 0
+	index: -1
+lianzi1_xinniannianshouzhuchangjing
+	rotate: true
+	xy: 789, 330
+	size: 253, 59
+	orig: 253, 59
+	offset: 0, 0
+	index: -1
+jianzhu1_1_xinniannianshouzhuchangjing
+	rotate: false
+	xy: 167, 436
+	size: 266, 104
+	orig: 266, 104
+	offset: 0, 0
+	index: -1

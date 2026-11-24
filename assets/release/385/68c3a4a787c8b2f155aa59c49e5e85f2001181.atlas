@@ -1,0 +1,279 @@
+
+asset/anim/wennvkapai0.png
+size: 989,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_bozi_wennvkapai
+	rotate: true
+	xy: 170, 969
+	size: 42, 74
+	orig: 42, 74
+	offset: 0, 0
+	index: -1
+a_zuohuxu_wennvkapai
+	rotate: false
+	xy: 0, 0
+	size: 282, 527
+	orig: 282, 527
+	offset: 0, 0
+	index: -1
+a_youchibang_wennvkapai
+	rotate: false
+	xy: 270, 652
+	size: 231, 186
+	orig: 231, 186
+	offset: 0, 0
+	index: -1
+a_youtougai_wennvkapai
+	rotate: false
+	xy: 449, 961
+	size: 20, 31
+	orig: 20, 31
+	offset: 0, 0
+	index: -1
+a_zuotougai_wennvkapai
+	rotate: true
+	xy: 547, 275
+	size: 37, 35
+	orig: 37, 35
+	offset: 0, 0
+	index: -1
+a_youshou2_wennvkapai
+	rotate: true
+	xy: 525, 495
+	size: 185, 206
+	orig: 185, 206
+	offset: 0, 0
+	index: -1
+a_shenti_wennvkapai
+	rotate: false
+	xy: 794, 332
+	size: 170, 176
+	orig: 170, 176
+	offset: 0, 0
+	index: -1
+a_youyanzhu_wennvkapai
+	rotate: true
+	xy: 502, 670
+	size: 10, 9
+	orig: 10, 9
+	offset: 0, 0
+	index: -1
+a_zuoyanjing_wennvkapai
+	rotate: true
+	xy: 974, 27
+	size: 26, 15
+	orig: 26, 15
+	offset: 0, 0
+	index: -1
+a_zuoshangyanpi_wennvkapai
+	rotate: true
+	xy: 974, 0
+	size: 26, 15
+	orig: 26, 15
+	offset: 0, 0
+	index: -1
+a_kua_wennvkapai
+	rotate: true
+	xy: 847, 818
+	size: 136, 141
+	orig: 136, 141
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui_wennvkapai
+	rotate: true
+	xy: 583, 110
+	size: 124, 341
+	orig: 124, 341
+	offset: 0, 0
+	index: -1
+a_zuodatui_wennvkapai
+	rotate: true
+	xy: 283, 491
+	size: 160, 241
+	orig: 160, 241
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui2_wennvkapai
+	rotate: true
+	xy: 502, 681
+	size: 161, 201
+	orig: 161, 201
+	offset: 0, 0
+	index: -1
+a_youxiayanpi_wennvkapai
+	rotate: false
+	xy: 0, 1008
+	size: 19, 14
+	orig: 19, 14
+	offset: 0, 0
+	index: -1
+yanpi_q_wennvkapai
+	rotate: false
+	xy: 928, 272
+	size: 17, 16
+	orig: 17, 16
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui1_wennvkapai
+	rotate: true
+	xy: 0, 969
+	size: 38, 169
+	orig: 38, 169
+	offset: 0, 0
+	index: -1
+a_youhuxu_wennvkapai
+	rotate: false
+	xy: 0, 528
+	size: 269, 440
+	orig: 269, 440
+	offset: 0, 0
+	index: -1
+a_youxiaotui_wennvkapai
+	rotate: true
+	xy: 270, 961
+	size: 61, 178
+	orig: 61, 178
+	offset: 0, 0
+	index: -1
+a_toufa1_wennvkapai
+	rotate: false
+	xy: 245, 969
+	size: 18, 53
+	orig: 18, 53
+	offset: 0, 0
+	index: -1
+a_youchujiao_wennvkapai
+	rotate: false
+	xy: 732, 509
+	size: 147, 159
+	orig: 147, 159
+	offset: 0, 0
+	index: -1
+a_youyanjing_wennvkapai
+	rotate: false
+	xy: 502, 652
+	size: 21, 17
+	orig: 21, 17
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi_wennvkapai
+	rotate: true
+	xy: 847, 681
+	size: 136, 142
+	orig: 136, 142
+	offset: 0, 0
+	index: -1
+a_zuodabi_wennvkapai
+	rotate: false
+	xy: 704, 681
+	size: 142, 153
+	orig: 142, 153
+	offset: 0, 0
+	index: -1
+a_toufa2_wennvkapai
+	rotate: false
+	xy: 801, 955
+	size: 66, 57
+	orig: 66, 57
+	offset: 0, 0
+	index: -1
+a_zuoxiayanpi_wennvkapai
+	rotate: false
+	xy: 547, 313
+	size: 21, 17
+	orig: 21, 17
+	offset: 0, 0
+	index: -1
+a_youjiao_wennvkapai
+	rotate: true
+	xy: 583, 235
+	size: 96, 344
+	orig: 96, 344
+	offset: 0, 0
+	index: -1
+a_toufa4_wennvkapai
+	rotate: false
+	xy: 928, 193
+	size: 56, 78
+	orig: 56, 78
+	offset: 0, 0
+	index: -1
+a_zuochibang_wennvkapai
+	rotate: false
+	xy: 283, 275
+	size: 263, 215
+	orig: 263, 215
+	offset: 0, 0
+	index: -1
+a_tou_wennvkapai
+	rotate: false
+	xy: 678, 843
+	size: 122, 129
+	orig: 122, 129
+	offset: 0, 0
+	index: -1
+a_zuohuxu1_wennvkapai
+	rotate: false
+	xy: 487, 843
+	size: 190, 129
+	orig: 190, 129
+	offset: 0, 0
+	index: -1
+a_tpufa3_wennvkapai
+	rotate: false
+	xy: 925, 110
+	size: 64, 82
+	orig: 64, 82
+	offset: 0, 0
+	index: -1
+a_zuoyanqiou_wennvkapai
+	rotate: false
+	xy: 704, 835
+	size: 9, 7
+	orig: 9, 7
+	offset: 0, 0
+	index: -1
+a_pigu_wennvkapai
+	rotate: false
+	xy: 283, 0
+	size: 299, 274
+	orig: 299, 274
+	offset: 0, 0
+	index: -1
+a_youdabi_wennvkapai
+	rotate: true
+	xy: 880, 509
+	size: 171, 91
+	orig: 171, 91
+	offset: 0, 0
+	index: -1
+a_youdatui_wennvkapai
+	rotate: true
+	xy: 270, 839
+	size: 121, 216
+	orig: 121, 216
+	offset: 0, 0
+	index: -1
+a_youxiaotui1_wennvkapai
+	rotate: true
+	xy: 547, 332
+	size: 162, 246
+	orig: 162, 246
+	offset: 0, 0
+	index: -1
+a_youshangyanpi_wennvkapai
+	rotate: true
+	xy: 470, 961
+	size: 19, 16
+	orig: 19, 16
+	offset: 0, 0
+	index: -1
+a_youshou_wennvkapai
+	rotate: true
+	xy: 583, 0
+	size: 109, 390
+	orig: 109, 390
+	offset: 0, 0
+	index: -1

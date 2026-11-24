@@ -1,0 +1,20 @@
+
+asset/anim/zhushijue_qizi0.png
+size: 242,356
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qizi_zhushijue2
+	rotate: false
+	xy: 178, 0
+	size: 64, 269
+	orig: 64, 269
+	offset: 0, 0
+	index: -1
+ganzi_zhushijue2
+	rotate: false
+	xy: 0, 0
+	size: 177, 356
+	orig: 177, 356
+	offset: 0, 0
+	index: -1

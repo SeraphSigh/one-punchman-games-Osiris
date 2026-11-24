@@ -1,0 +1,397 @@
+
+asset/anim/tianxinjiamianqingrenjiekapai1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_hair11_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 0, 301
+	size: 57, 118
+	orig: 57, 118
+	offset: 0, 0
+	index: -1
+a_Larm_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 0, 0
+	size: 84, 171
+	orig: 84, 171
+	offset: 0, 0
+	index: -1
+a_whiterose6_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 85, 119
+	size: 53, 52
+	orig: 53, 52
+	offset: 0, 0
+	index: -1
+a_Rforearm_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 51, 420
+	size: 63, 70
+	orig: 63, 70
+	offset: 0, 0
+	index: -1
+a_face_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 115, 417
+	size: 67, 94
+	orig: 71, 96
+	offset: 1, 2
+	index: -1
+a_Lforearm_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 0, 172
+	size: 89, 128
+	orig: 89, 128
+	offset: 0, 0
+	index: -1
+a_whiterose4_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 210, 0
+	size: 53, 53
+	orig: 53, 53
+	offset: 0, 0
+	index: -1
+a_Lhand_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 156, 63
+	size: 54, 59
+	orig: 54, 59
+	offset: 0, 0
+	index: -1
+a_whiterose7_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 119, 267
+	size: 50, 40
+	orig: 50, 40
+	offset: 0, 0
+	index: -1
+a_whiterose8_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 163, 485
+	size: 31, 20
+	orig: 31, 20
+	offset: 0, 0
+	index: -1
+a_Rhand_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 139, 119
+	size: 65, 50
+	orig: 65, 50
+	offset: 0, 0
+	index: -1
+a_suitback_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 125, 485
+	size: 27, 37
+	orig: 27, 37
+	offset: 0, 0
+	index: -1
+a_whiterose1_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 156, 0
+	size: 62, 53
+	orig: 62, 53
+	offset: 0, 0
+	index: -1
+a_hair5_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 90, 172
+	size: 63, 94
+	orig: 63, 96
+	offset: 0, 2
+	index: -1
+a_ribbon_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 0, 420
+	size: 73, 50
+	orig: 73, 50
+	offset: 0, 0
+	index: -1
+a_hair8_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 58, 301
+	size: 60, 115
+	orig: 60, 115
+	offset: 0, 0
+	index: -1
+a_zuoshangyanpi_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 0, 494
+	size: 35, 16
+	orig: 37, 16
+	offset: 1, 0
+	index: -1
+a_Rfoot_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 85, 0
+	size: 118, 70
+	orig: 118, 70
+	offset: 0, 0
+	index: -1
+a_hair2_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 51, 491
+	size: 30, 21
+	orig: 30, 21
+	offset: 0, 0
+	index: -1
+a_whiterose9_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 154, 170
+	size: 46, 34
+	orig: 46, 34
+	offset: 0, 0
+	index: -1
+a_hair1_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 82, 491
+	size: 20, 42
+	orig: 20, 42
+	offset: 0, 0
+	index: -1
+
+asset/anim/tianxinjiamianqingrenjiekapai0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_coxa_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 214, 0
+	size: 157, 145
+	orig: 157, 145
+	offset: 0, 0
+	index: -1
+a_hair10_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 0, 466
+	size: 46, 144
+	orig: 46, 144
+	offset: 0, 0
+	index: -1
+a_bouquet_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 372, 0
+	size: 134, 143
+	orig: 134, 143
+	offset: 0, 0
+	index: -1
+a_whiterose5_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 325, 316
+	size: 44, 50
+	orig: 44, 50
+	offset: 0, 0
+	index: -1
+a_hair9_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 404, 316
+	size: 17, 88
+	orig: 17, 88
+	offset: 0, 0
+	index: -1
+a_Lfoot_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 292, 456
+	size: 55, 90
+	orig: 55, 90
+	offset: 0, 0
+	index: -1
+a_zuoyanbai_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 245, 456
+	size: 21, 8
+	orig: 21, 8
+	offset: 0, 0
+	index: -1
+a_Lshank_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 438, 235
+	size: 59, 271
+	orig: 59, 271
+	offset: 0, 0
+	index: -1
+a_youshagnyanpi_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 498, 264
+	size: 26, 14
+	orig: 26, 14
+	offset: 0, 0
+	index: -1
+a_redrose_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 214, 316
+	size: 53, 46
+	orig: 53, 46
+	offset: 0, 0
+	index: -1
+a_hair4_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 498, 433
+	size: 12, 24
+	orig: 12, 24
+	offset: 0, 0
+	index: -1
+a_zuoxiayanpi_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 498, 350
+	size: 29, 12
+	orig: 31, 12
+	offset: 1, 0
+	index: -1
+a_whiterose3_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 234, 466
+	size: 56, 45
+	orig: 56, 45
+	offset: 0, 0
+	index: -1
+a_youyanbai_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 422, 316
+	size: 19, 10
+	orig: 19, 10
+	offset: 0, 0
+	index: -1
+a_hair7_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 480, 144
+	size: 25, 90
+	orig: 25, 90
+	offset: 0, 0
+	index: -1
+a_xiazuoyanpibiyan_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 498, 291
+	size: 30, 12
+	orig: 30, 12
+	offset: 0, 0
+	index: -1
+a_dou_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 268, 316
+	size: 40, 56
+	orig: 40, 56
+	offset: 0, 0
+	index: -1
+a_Leyebrow_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 498, 458
+	size: 28, 10
+	orig: 28, 10
+	offset: 0, 0
+	index: -1
+a_Rleg_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 214, 232
+	size: 83, 223
+	orig: 83, 223
+	offset: 0, 0
+	index: -1
+a_Reyebrow_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 498, 407
+	size: 25, 12
+	orig: 25, 12
+	offset: 0, 0
+	index: -1
+a_Lleg_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 0, 366
+	size: 99, 244
+	orig: 99, 244
+	offset: 0, 0
+	index: -1
+a_youxiayanpi_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 498, 487
+	size: 24, 10
+	orig: 24, 10
+	offset: 0, 0
+	index: -1
+a_Rshank_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 214, 146
+	size: 85, 265
+	orig: 85, 265
+	offset: 0, 0
+	index: -1
+a_Rarm_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 245, 363
+	size: 92, 158
+	orig: 92, 158
+	offset: 0, 0
+	index: -1
+a_xiayouyanpibiyan_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 498, 322
+	size: 27, 13
+	orig: 27, 13
+	offset: 0, 0
+	index: -1
+a_shangyouyanpibiyan_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 498, 380
+	size: 26, 13
+	orig: 26, 13
+	offset: 0, 0
+	index: -1
+a_youyanqiu_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 267, 456
+	size: 11, 8
+	orig: 11, 8
+	offset: 0, 0
+	index: -1
+a_suit1_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 0, 0
+	size: 213, 365
+	orig: 213, 365
+	offset: 0, 0
+	index: -1
+a_zuoyanqiu_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 279, 456
+	size: 12, 7
+	orig: 12, 7
+	offset: 0, 0
+	index: -1
+a_hair3_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 376, 316
+	size: 25, 43
+	orig: 25, 43
+	offset: 0, 0
+	index: -1
+a_ribbon2_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 404, 405
+	size: 44, 28
+	orig: 44, 28
+	offset: 0, 0
+	index: -1
+a_hair6_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 145, 466
+	size: 45, 88
+	orig: 45, 88
+	offset: 0, 0
+	index: -1
+a_whiterose2_tianxinjiamianqingrenjiekp
+	rotate: false
+	xy: 383, 456
+	size: 53, 53
+	orig: 53, 53
+	offset: 0, 0
+	index: -1
+a_shangzuoyanpibiyan_tianxinjiamianqingrenjiekp
+	rotate: true
+	xy: 498, 235
+	size: 28, 13
+	orig: 28, 13
+	offset: 0, 0
+	index: -1

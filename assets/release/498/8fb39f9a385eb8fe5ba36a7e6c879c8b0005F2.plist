@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>pic_cj_2023_bg_ground_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-56}</string>
+                <key>spriteSize</key>
+                <string>{1000,740}</string>
+                <key>spriteSourceSize</key>
+                <string>{1000,852}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{1000,740}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>springFest2023Res0.png</string>
+            <key>size</key>
+            <string>{1000,740}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:1ac200d3f8f8930e8a9ef9e39df813ab:5d87c0b008fd45d706b5676c77304e93:f8e7098252ac0994d972af37937684f8$</string>
+            <key>textureFileName</key>
+            <string>springFest2023Res0.png</string>
+        </dict>
+    </dict>
+</plist>

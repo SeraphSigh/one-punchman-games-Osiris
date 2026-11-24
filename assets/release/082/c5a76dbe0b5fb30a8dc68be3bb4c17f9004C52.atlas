@@ -1,0 +1,1246 @@
+
+asset/anim/lingling_yinghuaji1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Rthigh_linglingYHJ
+	rotate: false
+	xy: 39, 459
+	size: 30, 53
+	orig: 30, 53
+	offset: 0, 0
+	index: -1
+c1_youdabi_linglingYHJ
+	rotate: false
+	xy: 225, 150
+	size: 33, 44
+	orig: 33, 44
+	offset: 0, 0
+	index: -1
+a_Rarm_linglingYHJ
+	rotate: true
+	xy: 280, 79
+	size: 42, 38
+	orig: 42, 38
+	offset: 0, 0
+	index: -1
+r_Rhand_linglingYHJ
+	rotate: true
+	xy: 223, 445
+	size: 35, 27
+	orig: 35, 27
+	offset: 0, 0
+	index: -1
+j_Lhand_linglingYHJ
+	rotate: false
+	xy: 148, 126
+	size: 32, 23
+	orig: 32, 23
+	offset: 0, 0
+	index: -1
+y_Lhand_linglingYHJ
+	rotate: true
+	xy: 299, 306
+	size: 26, 19
+	orig: 26, 19
+	offset: 0, 0
+	index: -1
+u_Rhand_linglingYHJ
+	rotate: true
+	xy: 304, 279
+	size: 25, 22
+	orig: 25, 22
+	offset: 0, 0
+	index: -1
+a_front22_linglingYHJ
+	rotate: false
+	xy: 121, 459
+	size: 44, 52
+	orig: 44, 52
+	offset: 0, 0
+	index: -1
+b1_zuojiao_linglingYHJ
+	rotate: false
+	xy: 233, 368
+	size: 29, 34
+	orig: 29, 34
+	offset: 0, 0
+	index: -1
+w_Rforearm_linglingYHJ
+	rotate: false
+	xy: 269, 238
+	size: 24, 40
+	orig: 24, 40
+	offset: 0, 0
+	index: -1
+c1_tou_linglingYHJ
+	rotate: false
+	xy: 0, 157
+	size: 83, 100
+	orig: 83, 100
+	offset: 0, 0
+	index: -1
+z_Rhand_linglingYHJ
+	rotate: true
+	xy: 210, 368
+	size: 35, 22
+	orig: 35, 22
+	offset: 0, 0
+	index: -1
+f_Rfoot_linglingYHJ
+	rotate: true
+	xy: 263, 354
+	size: 29, 20
+	orig: 29, 20
+	offset: 0, 0
+	index: -1
+x_Lhand_linglingYHJ
+	rotate: true
+	xy: 323, 331
+	size: 21, 23
+	orig: 21, 23
+	offset: 0, 0
+	index: -1
+e_Rhand_linglingYHJ
+	rotate: true
+	xy: 312, 186
+	size: 22, 19
+	orig: 22, 19
+	offset: 0, 0
+	index: -1
+a_Rfoot_linglingYHJ
+	rotate: false
+	xy: 251, 438
+	size: 22, 34
+	orig: 22, 34
+	offset: 0, 0
+	index: -1
+b1_youxiaobi_linglingYHJ
+	rotate: false
+	xy: 139, 79
+	size: 38, 46
+	orig: 38, 46
+	offset: 0, 0
+	index: -1
+j_Rhand_linglingYHJ
+	rotate: false
+	xy: 197, 481
+	size: 27, 30
+	orig: 27, 30
+	offset: 0, 0
+	index: -1
+bz_zuodabi_linglingYHJ
+	rotate: false
+	xy: 84, 150
+	size: 26, 52
+	orig: 26, 52
+	offset: 0, 0
+	index: -1
+a_liusu1_linglingYHJ
+	rotate: true
+	xy: 87, 446
+	size: 12, 27
+	orig: 12, 27
+	offset: 0, 0
+	index: -1
+a_Rforearm_linglingYHJ
+	rotate: true
+	xy: 97, 79
+	size: 50, 41
+	orig: 50, 41
+	offset: 0, 0
+	index: -1
+a_toushi1_linglingYHJ
+	rotate: true
+	xy: 260, 0
+	size: 44, 38
+	orig: 44, 38
+	offset: 0, 0
+	index: -1
+c1_youjiao_linglingYHJ
+	rotate: true
+	xy: 195, 445
+	size: 35, 27
+	orig: 35, 27
+	offset: 0, 0
+	index: -1
+b1_zuodabi_linglingYHJ
+	rotate: true
+	xy: 158, 252
+	size: 49, 38
+	orig: 49, 38
+	offset: 0, 0
+	index: -1
+a_Rhand_linglingYHJ
+	rotate: true
+	xy: 309, 353
+	size: 25, 22
+	orig: 25, 22
+	offset: 0, 0
+	index: -1
+bz_zuoxiaobi_linglingYHJ
+	rotate: false
+	xy: 325, 41
+	size: 34, 35
+	orig: 34, 35
+	offset: 0, 0
+	index: -1
+a_Lfoot_linglingYHJ
+	rotate: false
+	xy: 294, 122
+	size: 36, 27
+	orig: 36, 27
+	offset: 0, 0
+	index: -1
+c1_shenti_linglingYHJ
+	rotate: false
+	xy: 22, 394
+	size: 64, 64
+	orig: 64, 64
+	offset: 0, 0
+	index: -1
+s_Rfoot_linglingYHJ
+	rotate: false
+	xy: 166, 482
+	size: 30, 30
+	orig: 30, 30
+	offset: 0, 0
+	index: -1
+h_Larm_linglingYHJ
+	rotate: true
+	xy: 225, 0
+	size: 46, 34
+	orig: 46, 34
+	offset: 0, 0
+	index: -1
+h_Lforearm_linglingYHJ
+	rotate: true
+	xy: 178, 79
+	size: 46, 38
+	orig: 46, 38
+	offset: 0, 0
+	index: -1
+e_front_linglingYHJ
+	rotate: false
+	xy: 0, 258
+	size: 26, 68
+	orig: 26, 68
+	offset: 0, 0
+	index: -1
+g_Lforearm_linglingYHJ
+	rotate: false
+	xy: 129, 369
+	size: 40, 43
+	orig: 40, 43
+	offset: 0, 0
+	index: -1
+r_Rforearm_linglingYHJ
+	rotate: true
+	xy: 299, 0
+	size: 40, 36
+	orig: 40, 36
+	offset: 0, 0
+	index: -1
+a1_Rfoot_linglingYHJ
+	rotate: false
+	xy: 245, 403
+	size: 24, 34
+	orig: 24, 34
+	offset: 0, 0
+	index: -1
+a_front_linglingYHJ
+	rotate: false
+	xy: 70, 459
+	size: 26, 53
+	orig: 26, 53
+	offset: 0, 0
+	index: -1
+a1_Rhand_linglingYHJ
+	rotate: false
+	xy: 234, 124
+	size: 33, 25
+	orig: 33, 25
+	offset: 0, 0
+	index: -1
+g_Rarm_linglingYHJ
+	rotate: true
+	xy: 128, 0
+	size: 49, 25
+	orig: 49, 25
+	offset: 0, 0
+	index: -1
+j_Rfoot_linglingYHJ
+	rotate: true
+	xy: 253, 473
+	size: 32, 20
+	orig: 32, 20
+	offset: 0, 0
+	index: -1
+z_Lforearm_linglingYHJ
+	rotate: true
+	xy: 300, 150
+	size: 35, 30
+	orig: 35, 30
+	offset: 0, 0
+	index: -1
+d_Rhand_linglingYHJ
+	rotate: false
+	xy: 211, 126
+	size: 22, 23
+	orig: 22, 23
+	offset: 0, 0
+	index: -1
+a_body_linglingYHJ
+	rotate: false
+	xy: 22, 0
+	size: 52, 78
+	orig: 52, 78
+	offset: 0, 0
+	index: -1
+x_Rarm_linglingYHJ
+	rotate: true
+	xy: 88, 255
+	size: 51, 26
+	orig: 51, 26
+	offset: 0, 0
+	index: -1
+x_Rforearm_linglingYHJ
+	rotate: true
+	xy: 259, 150
+	size: 42, 40
+	orig: 42, 40
+	offset: 0, 0
+	index: -1
+bz_zuoshou_linglingYHJ
+	rotate: true
+	xy: 294, 232
+	size: 25, 22
+	orig: 25, 22
+	offset: 0, 0
+	index: -1
+b1_youxiaotui_linglingYHJ
+	rotate: false
+	xy: 74, 79
+	size: 22, 70
+	orig: 22, 70
+	offset: 0, 0
+	index: -1
+bz_youxiaobi_linglingYHJ
+	rotate: true
+	xy: 185, 150
+	size: 44, 39
+	orig: 44, 39
+	offset: 0, 0
+	index: -1
+bz_youdabi_linglingYHJ
+	rotate: true
+	xy: 210, 195
+	size: 44, 35
+	orig: 44, 35
+	offset: 0, 0
+	index: -1
+n_Rfoot_linglingYHJ
+	rotate: false
+	xy: 245, 324
+	size: 24, 29
+	orig: 24, 29
+	offset: 0, 0
+	index: -1
+b1_zuoshou_linglingYHJ
+	rotate: true
+	xy: 271, 45
+	size: 33, 18
+	orig: 33, 18
+	offset: 0, 0
+	index: -1
+g_Larm_linglingYHJ
+	rotate: false
+	xy: 336, 0
+	size: 24, 40
+	orig: 24, 40
+	offset: 0, 0
+	index: -1
+c_Lhand_linglingYHJ
+	rotate: false
+	xy: 268, 124
+	size: 25, 25
+	orig: 25, 25
+	offset: 0, 0
+	index: -1
+g_Rforearm_linglingYHJ
+	rotate: true
+	xy: 111, 150
+	size: 50, 39
+	orig: 50, 39
+	offset: 0, 0
+	index: -1
+z_Rarm_linglingYHJ
+	rotate: false
+	xy: 115, 255
+	size: 19, 51
+	orig: 19, 51
+	offset: 0, 0
+	index: -1
+r_Rarm_linglingYHJ
+	rotate: true
+	xy: 129, 324
+	size: 44, 38
+	orig: 44, 38
+	offset: 0, 0
+	index: -1
+a_head1_linglingYHJ
+	rotate: true
+	xy: 317, 231
+	size: 19, 18
+	orig: 19, 18
+	offset: 0, 0
+	index: -1
+y_Rhand_linglingYHJ
+	rotate: false
+	xy: 287, 382
+	size: 22, 20
+	orig: 22, 20
+	offset: 0, 0
+	index: -1
+a_Lforearm_linglingYHJ
+	rotate: false
+	xy: 197, 241
+	size: 35, 44
+	orig: 35, 44
+	offset: 0, 0
+	index: -1
+a1_Larm_linglingYHJ
+	rotate: true
+	xy: 97, 459
+	size: 53, 23
+	orig: 53, 23
+	offset: 0, 0
+	index: -1
+b1_youdabi_linglingYHJ
+	rotate: false
+	xy: 154, 0
+	size: 31, 48
+	orig: 31, 48
+	offset: 0, 0
+	index: -1
+a1_Lforearm_linglingYHJ
+	rotate: false
+	xy: 246, 195
+	size: 40, 42
+	orig: 40, 42
+	offset: 0, 0
+	index: -1
+c1_youshou_linglingYHJ
+	rotate: false
+	xy: 319, 305
+	size: 21, 25
+	orig: 21, 25
+	offset: 0, 0
+	index: -1
+m_Lhand_linglingYHJ
+	rotate: false
+	xy: 299, 333
+	size: 23, 19
+	orig: 23, 19
+	offset: 0, 0
+	index: -1
+c1_youxiaobi_linglingYHJ
+	rotate: false
+	xy: 169, 196
+	size: 40, 44
+	orig: 40, 44
+	offset: 0, 0
+	index: -1
+b1_zuoxiaotui_linglingYHJ
+	rotate: false
+	xy: 0, 327
+	size: 21, 67
+	orig: 21, 67
+	offset: 0, 0
+	index: -1
+x_Larm_linglingYHJ
+	rotate: true
+	xy: 151, 150
+	size: 45, 33
+	orig: 45, 33
+	offset: 0, 0
+	index: -1
+v_youshou_linglingYHJ
+	rotate: false
+	xy: 225, 481
+	size: 27, 30
+	orig: 27, 30
+	offset: 0, 0
+	index: -1
+i_Lfoot_linglingYHJ
+	rotate: false
+	xy: 284, 353
+	size: 24, 28
+	orig: 24, 28
+	offset: 0, 0
+	index: -1
+q_Lthigh_linglingYHJ
+	rotate: false
+	xy: 75, 0
+	size: 52, 78
+	orig: 52, 78
+	offset: 0, 0
+	index: -1
+b1_youjiao_linglingYHJ
+	rotate: true
+	xy: 160, 302
+	size: 21, 39
+	orig: 21, 39
+	offset: 0, 0
+	index: -1
+b1_zuoxiaobi_linglingYHJ
+	rotate: false
+	xy: 208, 324
+	size: 36, 43
+	orig: 36, 43
+	offset: 0, 0
+	index: -1
+e_Larm_linglingYHJ
+	rotate: true
+	xy: 170, 368
+	size: 43, 39
+	orig: 43, 39
+	offset: 0, 0
+	index: -1
+q_Larm_linglingYHJ
+	rotate: false
+	xy: 123, 201
+	size: 22, 50
+	orig: 22, 50
+	offset: 0, 0
+	index: -1
+a_liusu2_linglingYHJ
+	rotate: true
+	xy: 115, 446
+	size: 12, 27
+	orig: 12, 27
+	offset: 0, 0
+	index: -1
+a_Larm_linglingYHJ
+	rotate: false
+	xy: 0, 463
+	size: 38, 49
+	orig: 38, 49
+	offset: 0, 0
+	index: -1
+z_Rforearm_linglingYHJ
+	rotate: true
+	xy: 217, 79
+	size: 44, 39
+	orig: 44, 39
+	offset: 0, 0
+	index: -1
+c1_front_linglingYHJ
+	rotate: true
+	xy: 97, 130
+	size: 19, 50
+	orig: 19, 50
+	offset: 0, 0
+	index: -1
+c1_qunbai_linglingYHJ
+	rotate: true
+	xy: 27, 258
+	size: 65, 60
+	orig: 65, 60
+	offset: 0, 0
+	index: -1
+n_Rshin_linglingYHJ
+	rotate: true
+	xy: 166, 446
+	size: 35, 28
+	orig: 35, 28
+	offset: 0, 0
+	index: -1
+b1_youshou_linglingYHJ
+	rotate: true
+	xy: 250, 47
+	size: 31, 20
+	orig: 31, 20
+	offset: 0, 0
+	index: -1
+c1_ling_linglingYHJ
+	rotate: true
+	xy: 319, 78
+	size: 41, 38
+	orig: 41, 38
+	offset: 0, 0
+	index: -1
+v_zuoxiaobi_linglingYHJ
+	rotate: true
+	xy: 186, 0
+	size: 46, 38
+	orig: 46, 38
+	offset: 0, 0
+	index: -1
+a_Lhand_linglingYHJ
+	rotate: false
+	xy: 282, 279
+	size: 21, 26
+	orig: 21, 26
+	offset: 0, 0
+	index: -1
+bz_youshou_linglingYHJ
+	rotate: false
+	xy: 312, 209
+	size: 21, 21
+	orig: 21, 21
+	offset: 0, 0
+	index: -1
+a_ring2_linglingYHJ
+	rotate: false
+	xy: 0, 0
+	size: 21, 156
+	orig: 21, 156
+	offset: 0, 0
+	index: -1
+c1_youxiaotui_linglingYHJ
+	rotate: false
+	xy: 0, 395
+	size: 21, 67
+	orig: 21, 67
+	offset: 0, 0
+	index: -1
+b_Rforearm_linglingYHJ
+	rotate: false
+	xy: 287, 193
+	size: 24, 38
+	orig: 24, 38
+	offset: 0, 0
+	index: -1
+c1_back_linglingYHJ
+	rotate: false
+	xy: 241, 284
+	size: 40, 39
+	orig: 40, 39
+	offset: 0, 0
+	index: -1
+n_Lfoot_linglingYHJ
+	rotate: false
+	xy: 125, 307
+	size: 34, 16
+	orig: 34, 16
+	offset: 0, 0
+	index: -1
+a_Lthigh_linglingYHJ
+	rotate: true
+	xy: 22, 79
+	size: 70, 51
+	orig: 70, 51
+	offset: 0, 0
+	index: -1
+f_Larm_linglingYHJ
+	rotate: true
+	xy: 135, 252
+	size: 50, 22
+	orig: 50, 22
+	offset: 0, 0
+	index: -1
+z_Lhand_linglingYHJ
+	rotate: false
+	xy: 270, 324
+	size: 28, 28
+	orig: 28, 28
+	offset: 0, 0
+	index: -1
+m_Larm_linglingYHJ
+	rotate: true
+	xy: 128, 50
+	size: 28, 36
+	orig: 28, 36
+	offset: 0, 0
+	index: -1
+y_Larm_linglingYHJ
+	rotate: true
+	xy: 146, 201
+	size: 50, 22
+	orig: 50, 22
+	offset: 0, 0
+	index: -1
+x_Rhand_linglingYHJ
+	rotate: false
+	xy: 88, 307
+	size: 36, 16
+	orig: 36, 16
+	offset: 0, 0
+	index: -1
+x_Lforearm_linglingYHJ
+	rotate: true
+	xy: 200, 286
+	size: 37, 40
+	orig: 37, 40
+	offset: 0, 0
+	index: -1
+a_back_linglingYHJ
+	rotate: false
+	xy: 22, 327
+	size: 50, 66
+	orig: 50, 66
+	offset: 0, 0
+	index: -1
+c1_youdatui_linglingYHJ
+	rotate: true
+	xy: 87, 385
+	size: 60, 41
+	orig: 60, 41
+	offset: 0, 0
+	index: -1
+v_youxiaobi_linglingYHJ
+	rotate: true
+	xy: 84, 203
+	size: 51, 38
+	orig: 51, 38
+	offset: 0, 0
+	index: -1
+v_zuoshou_linglingYHJ
+	rotate: true
+	xy: 199, 412
+	size: 32, 24
+	orig: 32, 24
+	offset: 0, 0
+	index: -1
+b_Rhand_linglingYHJ
+	rotate: true
+	xy: 294, 258
+	size: 20, 22
+	orig: 20, 22
+	offset: 0, 0
+	index: -1
+r_Lfoot_linglingYHJ
+	rotate: true
+	xy: 263, 384
+	size: 18, 23
+	orig: 18, 23
+	offset: 0, 0
+	index: -1
+a_toushi2_linglingYHJ
+	rotate: true
+	xy: 211, 47
+	size: 31, 38
+	orig: 31, 38
+	offset: 0, 0
+	index: -1
+e_Rforearm_linglingYHJ
+	rotate: false
+	xy: 129, 413
+	size: 41, 32
+	orig: 41, 32
+	offset: 0, 0
+	index: -1
+n_Lthigh_linglingYHJ
+	rotate: false
+	xy: 168, 324
+	size: 39, 43
+	orig: 39, 43
+	offset: 0, 0
+	index: -1
+y_Rforearm_linglingYHJ
+	rotate: true
+	xy: 290, 45
+	size: 32, 34
+	orig: 32, 34
+	offset: 0, 0
+	index: -1
+a1_Lhand_linglingYHJ
+	rotate: false
+	xy: 224, 404
+	size: 20, 35
+	orig: 20, 35
+	offset: 0, 0
+	index: -1
+o_Rhand_linglingYHJ
+	rotate: false
+	xy: 270, 403
+	size: 22, 27
+	orig: 22, 27
+	offset: 0, 0
+	index: -1
+w_youshou_linglingYHJ
+	rotate: true
+	xy: 171, 412
+	size: 32, 27
+	orig: 32, 27
+	offset: 0, 0
+	index: -1
+w_zuoshou_linglingYHJ
+	rotate: false
+	xy: 181, 126
+	size: 29, 23
+	orig: 29, 23
+	offset: 0, 0
+	index: -1
+
+asset/anim/lingling_yinghuaji0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_head3_linglingYHJ
+	rotate: false
+	xy: 149, 367
+	size: 14, 15
+	orig: 14, 15
+	offset: 0, 0
+	index: -1
+d_head_linglingYHJ
+	rotate: false
+	xy: 139, 0
+	size: 131, 95
+	orig: 131, 95
+	offset: 0, 0
+	index: -1
+v_youdabi_linglingYHJ
+	rotate: false
+	xy: 362, 195
+	size: 29, 48
+	orig: 29, 48
+	offset: 0, 0
+	index: -1
+d_body1_linglingYHJ
+	rotate: false
+	xy: 0, 392
+	size: 77, 116
+	orig: 77, 116
+	offset: 0, 0
+	index: -1
+i_Lthigh_linglingYHJ
+	rotate: true
+	xy: 164, 361
+	size: 31, 55
+	orig: 31, 55
+	offset: 0, 0
+	index: -1
+I_Lshin2_linglingYHJ
+	rotate: false
+	xy: 87, 367
+	size: 61, 25
+	orig: 61, 25
+	offset: 0, 0
+	index: -1
+f_Rshin_linglingYHJ
+	rotate: true
+	xy: 404, 352
+	size: 36, 61
+	orig: 36, 61
+	offset: 0, 0
+	index: -1
+a_hair3_lingling
+	rotate: false
+	xy: 367, 364
+	size: 36, 45
+	orig: 36, 45
+	offset: 0, 0
+	index: -1
+canying_linglingYHJ
+	rotate: false
+	xy: 0, 0
+	size: 138, 241
+	orig: 138, 241
+	offset: 0, 0
+	index: -1
+a1_Rarm_linglingYHJ
+	rotate: true
+	xy: 201, 472
+	size: 40, 47
+	orig: 40, 47
+	offset: 0, 0
+	index: -1
+a_coxa_linglingYHJ
+	rotate: false
+	xy: 295, 393
+	size: 57, 54
+	orig: 57, 54
+	offset: 0, 0
+	index: -1
+a_Lshin22_lingling2YHJ
+	rotate: true
+	xy: 220, 361
+	size: 33, 63
+	orig: 33, 63
+	offset: 0, 0
+	index: -1
+j_Rleg_linglingYHJ
+	rotate: false
+	xy: 171, 393
+	size: 30, 78
+	orig: 30, 78
+	offset: 0, 0
+	index: -1
+a_Lshin_linglingYHJ
+	rotate: true
+	xy: 220, 361
+	size: 33, 63
+	orig: 33, 63
+	offset: 0, 0
+	index: -1
+b1_body_linglingYHJ
+	rotate: false
+	xy: 78, 393
+	size: 60, 119
+	orig: 60, 119
+	offset: 0, 0
+	index: -1
+b1_youdatui_linglingYHJ
+	rotate: true
+	xy: 307, 448
+	size: 56, 48
+	orig: 56, 48
+	offset: 0, 0
+	index: -1
+y_Rarm_linglingYHJ
+	rotate: false
+	xy: 469, 296
+	size: 43, 42
+	orig: 43, 42
+	offset: 0, 0
+	index: -1
+a_ring1_linglingYHJ
+	rotate: false
+	xy: 0, 242
+	size: 86, 149
+	orig: 86, 149
+	offset: 0, 0
+	index: -1
+g_body1_linglingYHJ
+	rotate: true
+	xy: 270, 128
+	size: 66, 121
+	orig: 66, 121
+	offset: 0, 0
+	index: -1
+b1_tou_linglingYHJ
+	rotate: false
+	xy: 139, 96
+	size: 130, 95
+	orig: 130, 95
+	offset: 0, 0
+	index: -1
+f_Rthigh_linglingYHJ
+	rotate: false
+	xy: 202, 395
+	size: 66, 58
+	orig: 66, 58
+	offset: 0, 0
+	index: -1
+n_Lshin_linglingYHJ
+	rotate: false
+	xy: 404, 389
+	size: 61, 20
+	orig: 61, 20
+	offset: 0, 0
+	index: -1
+s_Rthigh_linglingYHJ
+	rotate: false
+	xy: 405, 457
+	size: 50, 50
+	orig: 50, 50
+	offset: 0, 0
+	index: -1
+e_body2_linglingYHJ
+	rotate: true
+	xy: 164, 291
+	size: 69, 119
+	orig: 69, 119
+	offset: 0, 0
+	index: -1
+a1_body_linglingYHJ
+	rotate: false
+	xy: 87, 242
+	size: 76, 124
+	orig: 76, 124
+	offset: 0, 0
+	index: -1
+e_Rarm_linglingYHJ
+	rotate: false
+	xy: 456, 479
+	size: 46, 33
+	orig: 46, 33
+	offset: 0, 0
+	index: -1
+a1_Lthigh_linglingYHJ
+	rotate: false
+	xy: 406, 239
+	size: 70, 52
+	orig: 70, 52
+	offset: 0, 0
+	index: -1
+m_Rthigh_linglingYHJ
+	rotate: false
+	xy: 353, 410
+	size: 56, 37
+	orig: 56, 37
+	offset: 0, 0
+	index: -1
+bz_lian_linglingYHJ
+	rotate: false
+	xy: 164, 192
+	size: 99, 98
+	orig: 99, 98
+	offset: 0, 0
+	index: -1
+a1_Rthigh_linglingYHJ
+	rotate: false
+	xy: 139, 472
+	size: 61, 40
+	orig: 61, 40
+	offset: 0, 0
+	index: -1
+a_head11_linglingYHJ
+	rotate: false
+	xy: 466, 380
+	size: 46, 55
+	orig: 46, 55
+	offset: 0, 0
+	index: -1
+a_Rshin_linglingYHJ
+	rotate: false
+	xy: 362, 244
+	size: 43, 46
+	orig: 43, 46
+	offset: 0, 0
+	index: -1
+a_head2_linglingYHJ
+	rotate: false
+	xy: 264, 195
+	size: 97, 95
+	orig: 97, 95
+	offset: 0, 0
+	index: -1
+e_body1_linglingYHJ
+	rotate: true
+	xy: 271, 0
+	size: 69, 132
+	orig: 69, 132
+	offset: 0, 0
+	index: -1
+v_shangshen_linglingYHJ
+	rotate: true
+	xy: 271, 70
+	size: 57, 124
+	orig: 57, 124
+	offset: 0, 0
+	index: -1
+I_Lshin_linglingYHJ
+	rotate: true
+	xy: 269, 395
+	size: 61, 25
+	orig: 61, 25
+	offset: 0, 0
+	index: -1
+f_body1_linglingYHJ
+	rotate: true
+	xy: 396, 96
+	size: 71, 116
+	orig: 71, 116
+	offset: 0, 0
+	index: -1
+c1_bodyhou_linglingYHJ
+	rotate: true
+	xy: 410, 410
+	size: 46, 54
+	orig: 46, 54
+	offset: 0, 0
+	index: -1
+a1_bu_linglingYHJ
+	rotate: true
+	xy: 202, 454
+	size: 17, 24
+	orig: 17, 24
+	offset: 0, 0
+	index: -1
+e_Rthigh_linglingYHJ
+	rotate: true
+	xy: 477, 239
+	size: 56, 35
+	orig: 56, 35
+	offset: 0, 0
+	index: -1
+a1_Rforearm_linglingYHJ
+	rotate: false
+	xy: 469, 339
+	size: 43, 40
+	orig: 43, 40
+	offset: 0, 0
+	index: -1
+a_eyes1_lingling
+	rotate: true
+	xy: 139, 192
+	size: 47, 24
+	orig: 47, 24
+	offset: 0, 0
+	index: -1
+f_tou_linglingYHJ
+	rotate: false
+	xy: 404, 0
+	size: 106, 95
+	orig: 106, 95
+	offset: 0, 0
+	index: -1
+a_hair2_lingling
+	rotate: false
+	xy: 249, 457
+	size: 57, 55
+	orig: 57, 55
+	offset: 0, 0
+	index: -1
+i_body1_linglingYHJ
+	rotate: true
+	xy: 392, 168
+	size: 70, 114
+	orig: 70, 114
+	offset: 0, 0
+	index: -1
+d_Lthigh_linglingYHJ
+	rotate: false
+	xy: 404, 292
+	size: 64, 59
+	orig: 64, 59
+	offset: 0, 0
+	index: -1
+b1_zuodatui_linglingYHJ
+	rotate: false
+	xy: 139, 393
+	size: 31, 78
+	orig: 31, 78
+	offset: 0, 0
+	index: -1
+d_Lforearm_linglingYHJ
+	rotate: true
+	xy: 465, 436
+	size: 42, 47
+	orig: 42, 47
+	offset: 0, 0
+	index: -1
+c1_benghuai_linglingYHJ
+	rotate: false
+	xy: 284, 291
+	size: 82, 101
+	orig: 82, 101
+	offset: 0, 0
+	index: -1
+qLshin_linglingYHJ
+	rotate: true
+	xy: 356, 448
+	size: 56, 48
+	orig: 56, 48
+	offset: 0, 0
+	index: -1
+s_Rshin_linglingYHJ
+	rotate: true
+	xy: 367, 291
+	size: 72, 36
+	orig: 72, 36
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/lingling0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_siwang_lingling
+	rotate: true
+	xy: 442, 299
+	size: 44, 22
+	orig: 44, 22
+	offset: 0, 0
+	index: -1
+a_shouji_lingling
+	rotate: false
+	xy: 351, 216
+	size: 43, 35
+	orig: 43, 35
+	offset: 0, 0
+	index: -1
+
+asset/anim/lingling1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_hair1_lingling
+	rotate: true
+	xy: 176, 104
+	size: 60, 55
+	orig: 60, 55
+	offset: 0, 0
+	index: -1
+a_hair4_lingling
+	rotate: true
+	xy: 119, 74
+	size: 29, 45
+	orig: 29, 45
+	offset: 0, 0
+	index: -1

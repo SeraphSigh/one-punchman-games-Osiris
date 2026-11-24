@@ -1,0 +1,223 @@
+
+asset/anim/jixiebi_spine.png
+size: 506,326
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jixiebi_17_jixiebi
+	rotate: true
+	xy: 248, 231
+	size: 43, 32
+	orig: 43, 32
+	offset: 0, 0
+	index: -1
+jixiebi_15_jixiebi
+	rotate: false
+	xy: 370, 0
+	size: 136, 80
+	orig: 136, 80
+	offset: 0, 0
+	index: -1
+jixiebi_29_jixiebi
+	rotate: true
+	xy: 248, 304
+	size: 19, 42
+	orig: 19, 42
+	offset: 0, 0
+	index: -1
+jixiebi_1_jixiebi
+	rotate: false
+	xy: 98, 215
+	size: 74, 108
+	orig: 74, 108
+	offset: 0, 0
+	index: -1
+jixiebi_37_jixiebi
+	rotate: false
+	xy: 370, 81
+	size: 136, 80
+	orig: 136, 80
+	offset: 0, 0
+	index: -1
+jixiebi_20_jixiebi
+	rotate: false
+	xy: 208, 0
+	size: 19, 152
+	orig: 19, 152
+	offset: 0, 0
+	index: -1
+jixiebi_6_jixiebi
+	rotate: false
+	xy: 350, 120
+	size: 19, 17
+	orig: 19, 17
+	offset: 0, 0
+	index: -1
+jixiebi_14_jixiebi
+	rotate: true
+	xy: 248, 275
+	size: 28, 26
+	orig: 28, 26
+	offset: 0, 0
+	index: -1
+jixiebi_0_jixiebi
+	rotate: true
+	xy: 360, 162
+	size: 93, 49
+	orig: 93, 49
+	offset: 0, 0
+	index: -1
+jixiebi_36_jixiebi
+	rotate: false
+	xy: 370, 300
+	size: 28, 26
+	orig: 28, 26
+	offset: 0, 0
+	index: -1
+jixiebi_31_jixiebi
+	rotate: false
+	xy: 62, 0
+	size: 72, 152
+	orig: 72, 152
+	offset: 0, 0
+	index: -1
+jixiebi_23_jixiebi
+	rotate: false
+	xy: 173, 212
+	size: 74, 108
+	orig: 74, 108
+	offset: 0, 0
+	index: -1
+jixiebi_21_jixiebi
+	rotate: true
+	xy: 228, 0
+	size: 151, 77
+	orig: 151, 77
+	offset: 0, 0
+	index: -1
+jixiebi_5_jixiebi
+	rotate: false
+	xy: 236, 152
+	size: 45, 55
+	orig: 45, 55
+	offset: 0, 0
+	index: -1
+jixiebi_19_jixiebi
+	rotate: false
+	xy: 0, 215
+	size: 97, 111
+	orig: 97, 111
+	offset: 0, 0
+	index: -1
+jixiebi_9_jixiebi
+	rotate: false
+	xy: 135, 0
+	size: 72, 152
+	orig: 72, 152
+	offset: 0, 0
+	index: -1
+jixiebi_24_jixiebi
+	rotate: true
+	xy: 306, 110
+	size: 37, 43
+	orig: 37, 43
+	offset: 0, 0
+	index: -1
+jixiebi_3_jixiebi
+	rotate: true
+	xy: 248, 208
+	size: 22, 33
+	orig: 22, 33
+	offset: 0, 0
+	index: -1
+jixiebi_7_jixiebi
+	rotate: true
+	xy: 291, 304
+	size: 19, 42
+	orig: 19, 42
+	offset: 0, 0
+	index: -1
+jixiebi_2_jixiebi
+	rotate: false
+	xy: 360, 256
+	size: 37, 43
+	orig: 37, 43
+	offset: 0, 0
+	index: -1
+jixiebi_43_jixiebi
+	rotate: true
+	xy: 282, 152
+	size: 151, 77
+	orig: 151, 77
+	offset: 0, 0
+	index: -1
+jixiebi_28_jixiebi
+	rotate: true
+	xy: 352, 304
+	size: 19, 17
+	orig: 19, 17
+	offset: 0, 0
+	index: -1
+jixiebi_4_jixiebi
+	rotate: true
+	xy: 62, 153
+	size: 61, 60
+	orig: 61, 60
+	offset: 0, 0
+	index: -1
+jixiebi_16_jixiebi
+	rotate: false
+	xy: 306, 0
+	size: 55, 41
+	orig: 57, 43
+	offset: 1, 2
+	index: -1
+jixiebi_32_jixiebi
+	rotate: true
+	xy: 410, 241
+	size: 78, 87
+	orig: 78, 87
+	offset: 0, 0
+	index: -1
+jixiebi_11_jixiebi
+	rotate: true
+	xy: 334, 304
+	size: 19, 17
+	orig: 19, 17
+	offset: 0, 0
+	index: -1
+jixiebi_18_jixiebi
+	rotate: false
+	xy: 306, 42
+	size: 55, 39
+	orig: 55, 41
+	offset: 0, 1
+	index: -1
+jixiebi_12_jixiebi
+	rotate: true
+	xy: 353, 82
+	size: 37, 15
+	orig: 37, 15
+	offset: 0, 0
+	index: -1
+jixiebi_10_jixiebi
+	rotate: true
+	xy: 410, 162
+	size: 78, 87
+	orig: 78, 87
+	offset: 0, 0
+	index: -1
+jixiebi_13_jixiebi
+	rotate: false
+	xy: 123, 153
+	size: 112, 58
+	orig: 112, 58
+	offset: 0, 0
+	index: -1
+jixiebi_30_jixiebi
+	rotate: true
+	xy: 306, 82
+	size: 27, 46
+	orig: 27, 46
+	offset: 0, 0
+	index: -1

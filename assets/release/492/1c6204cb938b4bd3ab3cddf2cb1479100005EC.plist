@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>aaaaam_dengjitishengimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{690,36}</string>
+                <key>spriteSourceSize</key>
+                <string>{690,36}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{690,36}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>dengjitishengimage0.png</string>
+            <key>size</key>
+            <string>{690,36}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:c803da4a545ce7bf84812d4f5837f5aa:ae66302c33942f14aa014764a75892ba:3e0b717bd25a4d750a89c90399eb42ca$</string>
+            <key>textureFileName</key>
+            <string>dengjitishengimage0.png</string>
+        </dict>
+    </dict>
+</plist>

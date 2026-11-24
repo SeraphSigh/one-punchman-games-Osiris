@@ -1,0 +1,20 @@
+
+asset/anim/futieqiyuanchangjing0.png
+size: 119,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+futieqiyuan_dl1
+	rotate: false
+	xy: 0, 0
+	size: 60, 148
+	orig: 60, 148
+	offset: 0, 0
+	index: -1
+futieqiyuan_dl2
+	rotate: false
+	xy: 61, 0
+	size: 58, 148
+	orig: 58, 148
+	offset: 0, 0
+	index: -1

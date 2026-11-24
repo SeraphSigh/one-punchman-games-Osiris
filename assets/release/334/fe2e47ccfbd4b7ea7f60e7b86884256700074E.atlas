@@ -1,0 +1,111 @@
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hexinjitexiao_dimianguang_020
+	rotate: false
+	xy: 584, 158
+	size: 160, 67
+	orig: 160, 67
+	offset: 0, 0
+	index: -1
+hexinjitexiao_zhuan02hong
+	rotate: false
+	xy: 0, 323
+	size: 168, 167
+	orig: 168, 167
+	offset: 0, 0
+	index: -1
+henxinjitexiao_diquan_013
+	rotate: true
+	xy: 169, 155
+	size: 177, 82
+	orig: 247, 110
+	offset: 36, 15
+	index: -1
+hexinjitexiao_quan_down
+	rotate: false
+	xy: 555, 485
+	size: 138, 39
+	orig: 158, 79
+	offset: 10, 31
+	index: -1
+henxinjitexiao_diquan_019
+	rotate: true
+	xy: 0, 727
+	size: 221, 58
+	orig: 247, 110
+	offset: 9, 17
+	index: -1
+henxinjitexiao_diquan_020
+	rotate: true
+	xy: 59, 727
+	size: 207, 18
+	orig: 247, 110
+	offset: 21, 50
+	index: -1
+henxinjitexiao_diquan_018
+	rotate: true
+	xy: 0, 491
+	size: 235, 80
+	orig: 247, 110
+	offset: 7, 7
+	index: -1
+henxinjitexiao_diquan_014
+	rotate: false
+	xy: 642, 0
+	size: 183, 86
+	orig: 247, 110
+	offset: 33, 14
+	index: -1
+henxinjitexiao_diquan_015
+	rotate: true
+	xy: 81, 491
+	size: 209, 88
+	orig: 247, 110
+	offset: 20, 10
+	index: -1
+hexinjitexiao_zhuanhong01
+	rotate: false
+	xy: 826, 0
+	size: 158, 157
+	orig: 158, 157
+	offset: 0, 0
+	index: -1
+henxinjitexiao_diquan_017
+	rotate: true
+	xy: 0, 491
+	size: 235, 80
+	orig: 247, 110
+	offset: 7, 7
+	index: -1
+henxinjitexiao_diquan_016
+	rotate: false
+	xy: 414, 0
+	size: 227, 82
+	orig: 247, 110
+	offset: 11, 9
+	index: -1
+hexinjitexiao_zhuan02
+	rotate: false
+	xy: 0, 155
+	size: 168, 167
+	orig: 168, 167
+	offset: 0, 0
+	index: -1
+hexinjitexiao_zhuan01
+	rotate: false
+	xy: 252, 145
+	size: 158, 157
+	orig: 158, 157
+	offset: 0, 0
+	index: -1
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

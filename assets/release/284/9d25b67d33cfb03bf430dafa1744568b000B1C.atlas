@@ -1,0 +1,180 @@
+
+asset/anim/yimiaoluoli.png
+size: 262,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_hair4_yimiaorenluoli
+	rotate: false
+	xy: 71, 0
+	size: 34, 64
+	orig: 34, 64
+	offset: 0, 0
+	index: -1
+a_hair1_yimiaorenluoli
+	rotate: true
+	xy: 0, 86
+	size: 42, 51
+	orig: 42, 51
+	offset: 0, 0
+	index: -1
+a_etebrow_yimiaorenluoli
+	rotate: false
+	xy: 145, 52
+	size: 39, 12
+	orig: 39, 12
+	offset: 0, 0
+	index: -1
+a_hair3_yimiaorenluoli
+	rotate: true
+	xy: 52, 86
+	size: 41, 49
+	orig: 41, 49
+	offset: 0, 0
+	index: -1
+a_Rforearm_yimiaorenluoli
+	rotate: true
+	xy: 188, 84
+	size: 22, 31
+	orig: 22, 31
+	offset: 0, 0
+	index: -1
+a_Rhand_yimiaorenluoli
+	rotate: false
+	xy: 216, 107
+	size: 30, 18
+	orig: 30, 18
+	offset: 0, 0
+	index: -1
+a_Larm_yimiaorenluoli
+	rotate: true
+	xy: 220, 86
+	size: 16, 30
+	orig: 16, 30
+	offset: 0, 0
+	index: -1
+a_Lhand_yimiaorenluoli
+	rotate: false
+	xy: 71, 65
+	size: 20, 20
+	orig: 20, 20
+	offset: 0, 0
+	index: -1
+a_Rthigh_yimiaorenluoli
+	rotate: false
+	xy: 174, 0
+	size: 19, 51
+	orig: 19, 51
+	offset: 0, 0
+	index: -1
+a_Lthigh_yimiaorenluoli
+	rotate: false
+	xy: 146, 65
+	size: 19, 50
+	orig: 19, 50
+	offset: 0, 0
+	index: -1
+a_Lfoot_yimiaorenluoli
+	rotate: false
+	xy: 238, 35
+	size: 24, 23
+	orig: 24, 23
+	offset: 0, 0
+	index: -1
+a_Lforearm_yimiaorenluoli
+	rotate: false
+	xy: 228, 59
+	size: 32, 26
+	orig: 32, 26
+	offset: 0, 0
+	index: -1
+a_Rfoot_yimiaorenluoli
+	rotate: false
+	xy: 188, 107
+	size: 27, 21
+	orig: 27, 21
+	offset: 0, 0
+	index: -1
+a_head_yimiaorenluoli
+	rotate: false
+	xy: 0, 0
+	size: 70, 85
+	orig: 70, 85
+	offset: 0, 0
+	index: -1
+a_body_yimiaorenluoli
+	rotate: false
+	xy: 102, 65
+	size: 43, 62
+	orig: 43, 62
+	offset: 0, 0
+	index: -1
+a_Rthin_yimiaorenluoli
+	rotate: true
+	xy: 194, 0
+	size: 28, 43
+	orig: 28, 43
+	offset: 0, 0
+	index: -1
+a_Rarm_yimiaorenluoli
+	rotate: false
+	xy: 238, 0
+	size: 24, 34
+	orig: 24, 34
+	offset: 0, 0
+	index: -1
+a_hair5_yimiaorenluoli
+	rotate: false
+	xy: 145, 0
+	size: 28, 51
+	orig: 28, 51
+	offset: 0, 0
+	index: -1
+a_hair2_yimiaorenluoli
+	rotate: false
+	xy: 166, 65
+	size: 21, 48
+	orig: 21, 48
+	offset: 0, 0
+	index: -1
+a_zui2_yimiaorenluoli
+	rotate: false
+	xy: 166, 114
+	size: 19, 14
+	orig: 19, 14
+	offset: 0, 0
+	index: -1
+a_Lthin_yimiaorenluoli
+	rotate: true
+	xy: 188, 55
+	size: 28, 39
+	orig: 28, 39
+	offset: 0, 0
+	index: -1
+a_coxa_yimiaorenluoli
+	rotate: true
+	xy: 106, 0
+	size: 59, 38
+	orig: 59, 38
+	offset: 0, 0
+	index: -1
+a_eye_yimiaorenluoli
+	rotate: false
+	xy: 194, 29
+	size: 43, 25
+	orig: 43, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1

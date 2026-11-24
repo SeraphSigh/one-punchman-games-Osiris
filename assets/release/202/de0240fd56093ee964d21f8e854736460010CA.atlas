@@ -1,0 +1,255 @@
+
+asset/anim/zhushen2SEMAX0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/zs2_max_baiping
+	rotate: false
+	xy: 944, 794
+	size: 10, 10
+	orig: 10, 10
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00091
+	rotate: true
+	xy: 1412, 1468
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00089
+	rotate: true
+	xy: 926, 1216
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00087
+	rotate: true
+	xy: 1416, 1069
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00085
+	rotate: true
+	xy: 0, 1077
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushen2SEMAX1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/zs2_max_bg_hong_00107
+	rotate: false
+	xy: 399, 600
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00109
+	rotate: false
+	xy: 399, 1049
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00103
+	rotate: true
+	xy: 857, 0
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00105
+	rotate: true
+	xy: 1306, 0
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00099
+	rotate: false
+	xy: 0, 1347
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00101
+	rotate: true
+	xy: 408, 0
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00095
+	rotate: false
+	xy: 0, 449
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00097
+	rotate: false
+	xy: 0, 898
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00093
+	rotate: false
+	xy: 0, 0
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00111
+	rotate: true
+	xy: 955, 399
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00113
+	rotate: true
+	xy: 955, 798
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00115
+	rotate: true
+	xy: 1579, 1097
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushen2SEMAX2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/zs2_max_bg_hong_00129
+	rotate: true
+	xy: 1485, 0
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00133
+	rotate: false
+	xy: 399, 1033
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00121
+	rotate: false
+	xy: 0, 898
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00123
+	rotate: false
+	xy: 0, 1347
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00127
+	rotate: true
+	xy: 1036, 0
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00125
+	rotate: true
+	xy: 587, 0
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00117
+	rotate: false
+	xy: 0, 0
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00119
+	rotate: false
+	xy: 0, 449
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00131
+	rotate: false
+	xy: 399, 584
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00137
+	rotate: false
+	xy: 798, 1033
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00135
+	rotate: false
+	xy: 798, 584
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00141
+	rotate: true
+	xy: 1349, 798
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00139
+	rotate: true
+	xy: 1350, 399
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushen2SEMAX3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/zs2_max_bg_hong_00143
+	rotate: false
+	xy: 0, 0
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00147
+	rotate: false
+	xy: 0, 898
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1
+max/zs2_max_bg_hong_00145
+	rotate: false
+	xy: 0, 449
+	size: 398, 448
+	orig: 398, 448
+	offset: 0, 0
+	index: -1

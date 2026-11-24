@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>anniversary3_dimian02_0401.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1010,350}</string>
+                <key>spriteSourceSize</key>
+                <string>{1010,350}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{1010,350}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>scenebg_gardenanniversary30.png</string>
+            <key>size</key>
+            <string>{1010,350}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:464db55607ce2a7cb2120d5eeee0ecd0:3a893deb8d71b1fd56bb8384a1ab52e8:b346d4e5f249e1920024d7f13451702a$</string>
+            <key>textureFileName</key>
+            <string>scenebg_gardenanniversary30.png</string>
+        </dict>
+    </dict>
+</plist>

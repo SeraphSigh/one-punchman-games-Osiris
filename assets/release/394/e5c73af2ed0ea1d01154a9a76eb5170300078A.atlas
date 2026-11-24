@@ -1,0 +1,109 @@
+
+asset/anim/siwangjiatelinSECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/siwangjiatelin_zidan_3
+	rotate: false
+	xy: 0, 118
+	size: 771, 113
+	orig: 821, 139
+	offset: 38, 9
+	index: -1
+common/siwangjiatelin_zidan_4
+	rotate: false
+	xy: 0, 0
+	size: 771, 117
+	orig: 821, 139
+	offset: 38, 6
+	index: -1
+common/siwangjiatelin_zidan_5
+	rotate: false
+	xy: 0, 232
+	size: 767, 117
+	orig: 821, 139
+	offset: 39, 6
+	index: -1
+common/siwangjiatelin_zidan_6
+	rotate: false
+	xy: 0, 350
+	size: 765, 117
+	orig: 821, 139
+	offset: 38, 6
+	index: -1
+common/siwangjiatelin_zidan_7
+	rotate: false
+	xy: 0, 468
+	size: 765, 117
+	orig: 821, 139
+	offset: 38, 6
+	index: -1
+common/siwangjiatelin_zidan_9
+	rotate: false
+	xy: 0, 702
+	size: 753, 115
+	orig: 821, 139
+	offset: 38, 5
+	index: -1
+common/siwangjiatelin_zidan_15
+	rotate: false
+	xy: 0, 932
+	size: 705, 47
+	orig: 821, 139
+	offset: 50, 54
+	index: -1
+
+asset/anim/siwangjiatelinSECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/siwangjiatelin_zidan_2
+	rotate: false
+	xy: 0, 198
+	size: 533, 131
+	orig: 821, 139
+	offset: 18, 8
+	index: -1
+common/siwangjiatelin_zidan_13
+	rotate: false
+	xy: 0, 102
+	size: 735, 95
+	orig: 821, 139
+	offset: 38, 6
+	index: -1
+common/siwangjiatelin_zidan_11
+	rotate: false
+	xy: 0, 0
+	size: 751, 101
+	orig: 821, 139
+	offset: 38, 5
+	index: -1
+
+asset/anim/siwangjiatelinSECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/siwangjiatelin_zidan_1
+	rotate: false
+	xy: 738, 0
+	size: 277, 113
+	orig: 821, 139
+	offset: 16, 18
+	index: -1
+common/siwangjiatelin_zidan_19
+	rotate: false
+	xy: 0, 162
+	size: 529, 51
+	orig: 821, 139
+	offset: 170, 47
+	index: -1
+common/siwangjiatelin_zidan_17
+	rotate: false
+	xy: 0, 96
+	size: 593, 65
+	orig: 821, 139
+	offset: 148, 37
+	index: -1

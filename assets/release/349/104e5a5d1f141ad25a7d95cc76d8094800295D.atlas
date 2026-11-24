@@ -1,0 +1,573 @@
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0001
+	rotate: true
+	xy: 639, 329
+	size: 98, 27
+	orig: 280, 73
+	offset: 89, 18
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0010
+	rotate: false
+	xy: 836, 891
+	size: 188, 63
+	orig: 280, 73
+	offset: 43, 7
+	index: -1
+global/a_global_texiao34_shenhaiwang_0009
+	rotate: false
+	xy: 840, 0
+	size: 184, 63
+	orig: 280, 73
+	offset: 46, 7
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0005
+	rotate: false
+	xy: 846, 78
+	size: 178, 59
+	orig: 280, 73
+	offset: 49, 9
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0011
+	rotate: false
+	xy: 799, 224
+	size: 190, 65
+	orig: 280, 73
+	offset: 42, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0012
+	rotate: false
+	xy: 400, 305
+	size: 192, 65
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0013
+	rotate: false
+	xy: 799, 290
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0014
+	rotate: false
+	xy: 593, 319
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 5
+	index: -1
+global/a_global_texiao34_shenhaiwang_0007
+	rotate: false
+	xy: 370, 519
+	size: 182, 61
+	orig: 280, 73
+	offset: 47, 8
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0003
+	rotate: false
+	xy: 276, 251
+	size: 156, 53
+	orig: 280, 73
+	offset: 59, 11
+	index: -1
+global/a_global_texiao34_shenhaiwang_0002
+	rotate: false
+	xy: 889, 238
+	size: 126, 47
+	orig: 280, 73
+	offset: 71, 12
+	index: -1
+
+asset/anim/hudiedxSESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/hudiedx_skill_zhuanfenli_00026
+	rotate: false
+	xy: 486, 243
+	size: 320, 242
+	orig: 344, 242
+	offset: 24, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli_00024
+	rotate: true
+	xy: 243, 243
+	size: 326, 242
+	orig: 344, 242
+	offset: 18, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli_00022
+	rotate: true
+	xy: 0, 578
+	size: 328, 242
+	orig: 344, 242
+	offset: 16, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli_00021
+	rotate: true
+	xy: 0, 243
+	size: 334, 242
+	orig: 344, 242
+	offset: 10, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli_00020
+	rotate: false
+	xy: 337, 0
+	size: 336, 242
+	orig: 344, 242
+	offset: 8, 0
+	index: -1
+skill/hudiedx_skill_zhuan_00017
+	rotate: true
+	xy: 166, 907
+	size: 117, 165
+	orig: 153, 195
+	offset: 14, 21
+	index: -1
+skill/hudiedx_skill_zhuan_00016
+	rotate: true
+	xy: 0, 907
+	size: 117, 165
+	orig: 153, 195
+	offset: 9, 21
+	index: -1
+skill/hudiedx_skill_zhuanfenli2_00047
+	rotate: false
+	xy: 540, 729
+	size: 251, 244
+	orig: 261, 252
+	offset: 10, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli2_00041
+	rotate: true
+	xy: 792, 827
+	size: 191, 206
+	orig: 261, 252
+	offset: 70, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli_00016
+	rotate: false
+	xy: 486, 486
+	size: 318, 242
+	orig: 344, 242
+	offset: 6, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli_00014
+	rotate: true
+	xy: 807, 243
+	size: 268, 194
+	orig: 344, 242
+	offset: 6, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli_00015
+	rotate: true
+	xy: 805, 512
+	size: 314, 218
+	orig: 344, 242
+	offset: 5, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli_00018
+	rotate: false
+	xy: 674, 0
+	size: 334, 242
+	orig: 344, 242
+	offset: 7, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli_00019
+	rotate: false
+	xy: 0, 0
+	size: 336, 242
+	orig: 344, 242
+	offset: 8, 0
+	index: -1
+skill/hudiedx_skill_shangti_00047
+	rotate: false
+	xy: 332, 891
+	size: 207, 132
+	orig: 229, 226
+	offset: 10, 87
+	index: -1
+skill/hudiedx_skill_zhuanfenli_00017
+	rotate: true
+	xy: 243, 570
+	size: 320, 242
+	orig: 344, 242
+	offset: 6, 0
+	index: -1
+
+asset/anim/hudiedxSESKILL1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/hudiedx_skill_zhuanfenli2_00054
+	rotate: false
+	xy: 608, 735
+	size: 249, 244
+	orig: 261, 252
+	offset: 12, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli2_00051
+	rotate: false
+	xy: 622, 490
+	size: 249, 244
+	orig: 261, 252
+	offset: 12, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli2_00053
+	rotate: false
+	xy: 252, 243
+	size: 251, 244
+	orig: 261, 252
+	offset: 10, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli2_00052
+	rotate: false
+	xy: 0, 488
+	size: 249, 244
+	orig: 261, 252
+	offset: 12, 0
+	index: -1
+skill/hudiedx_skill_shangti_00046
+	rotate: true
+	xy: 858, 818
+	size: 201, 160
+	orig: 229, 226
+	offset: 16, 59
+	index: -1
+skill/hudiedx_skill_zhuanfenli_00028
+	rotate: false
+	xy: 0, 0
+	size: 316, 242
+	orig: 344, 242
+	offset: 28, 0
+	index: -1
+skill/hudiedx_skill_shangti_00040
+	rotate: true
+	xy: 499, 733
+	size: 167, 108
+	orig: 229, 226
+	offset: 50, 12
+	index: -1
+skill/hudiedx_skill_zhuan_00015
+	rotate: false
+	xy: 499, 571
+	size: 113, 161
+	orig: 153, 195
+	offset: 6, 20
+	index: -1
+skill/hudiedx_skill_zhuanfenli2_00050
+	rotate: false
+	xy: 0, 243
+	size: 251, 244
+	orig: 261, 252
+	offset: 10, 0
+	index: -1
+skill/hudiedx_skill_zhuan_00019
+	rotate: false
+	xy: 504, 407
+	size: 117, 163
+	orig: 153, 195
+	offset: 18, 21
+	index: -1
+skill/hudiedx_skill_zhuan_00018
+	rotate: false
+	xy: 504, 243
+	size: 119, 163
+	orig: 153, 195
+	offset: 14, 21
+	index: -1
+skill/hudiedx_skill_zhuanfenli2_00044
+	rotate: true
+	xy: 245, 810
+	size: 213, 244
+	orig: 261, 252
+	offset: 48, 0
+	index: -1
+skill/hudiedx_skill_shangti_00043
+	rotate: false
+	xy: 872, 609
+	size: 151, 208
+	orig: 229, 226
+	offset: 67, 12
+	index: -1
+skill/hudiedx_skill_zhuanfenli2_00040
+	rotate: true
+	xy: 882, 210
+	size: 175, 118
+	orig: 261, 252
+	offset: 69, 11
+	index: -1
+skill/hudiedx_skill_zhuan_00024
+	rotate: true
+	xy: 0, 735
+	size: 73, 173
+	orig: 153, 195
+	offset: 69, 6
+	index: -1
+skill/hudiedx_skill_zhuan_00025
+	rotate: true
+	xy: 468, 745
+	size: 43, 29
+	orig: 153, 195
+	offset: 66, 22
+	index: -1
+skill/hudiedx_skill_zhuanfenli2_00048
+	rotate: false
+	xy: 630, 0
+	size: 251, 244
+	orig: 261, 252
+	offset: 10, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli2_00049
+	rotate: false
+	xy: 624, 245
+	size: 249, 244
+	orig: 261, 252
+	offset: 12, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli_00012
+	rotate: true
+	xy: 874, 386
+	size: 222, 148
+	orig: 344, 242
+	offset: 4, 9
+	index: -1
+skill/hudiedx_skill_zhuanfenli_00013
+	rotate: true
+	xy: 328, 488
+	size: 256, 170
+	orig: 344, 242
+	offset: 5, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli2_00043
+	rotate: true
+	xy: 0, 818
+	size: 191, 244
+	orig: 261, 252
+	offset: 70, 0
+	index: -1
+skill/hudiedx_skill_shangti_00048
+	rotate: true
+	xy: 882, 0
+	size: 209, 134
+	orig: 229, 226
+	offset: 6, 86
+	index: -1
+skill/hudiedx_skill_zhuanfenli2_00039
+	rotate: false
+	xy: 174, 735
+	size: 153, 74
+	orig: 261, 252
+	offset: 69, 20
+	index: -1
+skill/hudiedx_skill_zhuanfenli_00030
+	rotate: false
+	xy: 317, 0
+	size: 312, 242
+	orig: 344, 242
+	offset: 32, 0
+	index: -1
+skill/hudiedx_skill_shangti_00039
+	rotate: false
+	xy: 722, 980
+	size: 129, 38
+	orig: 229, 226
+	offset: 53, 12
+	index: -1
+
+asset/anim/hudiedxSESKILL2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/hudiedx_skill_zhuanfenli2_00055
+	rotate: false
+	xy: 0, 0
+	size: 249, 244
+	orig: 261, 252
+	offset: 12, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli2_00057
+	rotate: false
+	xy: 500, 0
+	size: 247, 244
+	orig: 261, 252
+	offset: 14, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli2_00056
+	rotate: false
+	xy: 250, 0
+	size: 249, 244
+	orig: 261, 252
+	offset: 12, 0
+	index: -1
+skill/hudiedx_skill_shangti_00050
+	rotate: true
+	xy: 346, 245
+	size: 185, 162
+	orig: 229, 226
+	offset: 6, 58
+	index: -1
+skill/hudiedx_skill_shangti_00044
+	rotate: false
+	xy: 0, 245
+	size: 173, 208
+	orig: 229, 226
+	offset: 44, 12
+	index: -1
+skill/hudiedx_skill_shangti_00042
+	rotate: false
+	xy: 174, 245
+	size: 171, 208
+	orig: 229, 226
+	offset: 47, 12
+	index: -1
+skill/hudiedx_skill_shangti_00041
+	rotate: false
+	xy: 153, 731
+	size: 171, 196
+	orig: 229, 226
+	offset: 47, 12
+	index: -1
+skill/hudiedx_skill_zhuan_00014
+	rotate: false
+	xy: 381, 431
+	size: 111, 161
+	orig: 153, 195
+	offset: 5, 21
+	index: -1
+skill/hudiedx_skill_zhuan_00013
+	rotate: true
+	xy: 493, 537
+	size: 105, 157
+	orig: 153, 195
+	offset: 2, 21
+	index: -1
+skill/hudiedx_skill_zhuan_00012
+	rotate: false
+	xy: 426, 796
+	size: 101, 151
+	orig: 153, 195
+	offset: 7, 21
+	index: -1
+skill/hudiedx_skill_zhuan_00011
+	rotate: false
+	xy: 528, 796
+	size: 89, 151
+	orig: 153, 195
+	offset: 5, 21
+	index: -1
+skill/hudiedx_skill_zhuan_00010
+	rotate: true
+	xy: 190, 680
+	size: 41, 59
+	orig: 153, 195
+	offset: 14, 74
+	index: -1
+skill/hudiedx_skill_zhuanfenli2_00046
+	rotate: true
+	xy: 748, 244
+	size: 243, 244
+	orig: 261, 252
+	offset: 18, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli2_00045
+	rotate: true
+	xy: 748, 0
+	size: 243, 244
+	orig: 261, 252
+	offset: 18, 0
+	index: -1
+skill/hudiedx_skill_zhuanfenli2_00042
+	rotate: false
+	xy: 0, 488
+	size: 189, 242
+	orig: 261, 252
+	offset: 72, 0
+	index: -1
+skill/hudiedx_skill_zhuan_00022
+	rotate: true
+	xy: 509, 349
+	size: 87, 175
+	orig: 153, 195
+	offset: 56, 5
+	index: -1
+skill/hudiedx_skill_zhuan_00023
+	rotate: true
+	xy: 509, 245
+	size: 103, 175
+	orig: 153, 195
+	offset: 40, 5
+	index: -1
+skill/hudiedx_skill_zhuan_00021
+	rotate: false
+	xy: 325, 680
+	size: 97, 173
+	orig: 153, 195
+	offset: 45, 9
+	index: -1
+skill/hudiedx_skill_zhuanfenli_00011
+	rotate: true
+	xy: 423, 643
+	size: 152, 130
+	orig: 344, 242
+	offset: 5, 27
+	index: -1
+skill/hudiedx_skill_zhuan_00020
+	rotate: true
+	xy: 493, 437
+	size: 99, 165
+	orig: 153, 195
+	offset: 39, 19
+	index: -1
+skill/hudiedx_skill_shangti_00049
+	rotate: true
+	xy: 0, 731
+	size: 199, 152
+	orig: 229, 226
+	offset: 6, 67
+	index: -1
+skill/hudiedx_skill_zhuanfenli_00010
+	rotate: false
+	xy: 618, 929
+	size: 98, 90
+	orig: 344, 242
+	offset: 5, 63
+	index: -1
+skill/hudiedx_skill_shangti_00045
+	rotate: true
+	xy: 190, 488
+	size: 191, 190
+	orig: 229, 226
+	offset: 26, 29
+	index: -1

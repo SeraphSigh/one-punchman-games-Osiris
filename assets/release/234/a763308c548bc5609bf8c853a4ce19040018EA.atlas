@@ -1,0 +1,368 @@
+
+asset/anim/tongdiSECOMMON.png
+size: 951,1002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tongdi_shitou_021
+	rotate: false
+	xy: 0, 323
+	size: 106, 306
+	orig: 340, 380
+	offset: 43, 44
+	index: -1
+common/tongdi_shitou_020
+	rotate: false
+	xy: 111, 0
+	size: 100, 290
+	orig: 340, 380
+	offset: 49, 52
+	index: -1
+common/tongdi_shitou_008
+	rotate: false
+	xy: 894, 184
+	size: 54, 140
+	orig: 340, 380
+	offset: 98, 83
+	index: -1
+common/tongdi_shitou_024
+	rotate: false
+	xy: 815, 342
+	size: 120, 144
+	orig: 340, 380
+	offset: 29, 83
+	index: -1
+common/tongdi_shitou_026
+	rotate: true
+	xy: 637, 554
+	size: 132, 156
+	orig: 340, 380
+	offset: 17, 62
+	index: -1
+common/tongdi_shitou_010
+	rotate: false
+	xy: 805, 827
+	size: 62, 170
+	orig: 340, 380
+	offset: 90, 80
+	index: -1
+common/tongdi_shitou_014
+	rotate: false
+	xy: 97, 630
+	size: 76, 210
+	orig: 340, 380
+	offset: 73, 80
+	index: -1
+common/tongdi_shitou_019
+	rotate: false
+	xy: 0, 630
+	size: 96, 274
+	orig: 340, 380
+	offset: 53, 60
+	index: -1
+common/tongdi_shitou_018
+	rotate: true
+	xy: 460, 95
+	size: 90, 258
+	orig: 340, 380
+	offset: 59, 65
+	index: -1
+common/tongdi_shitou_016
+	rotate: true
+	xy: 719, 99
+	size: 84, 232
+	orig: 340, 380
+	offset: 65, 75
+	index: -1
+common/tongdi_shitou_017
+	rotate: true
+	xy: 470, 186
+	size: 86, 244
+	orig: 340, 380
+	offset: 63, 70
+	index: -1
+common/tongdi_shitou_022
+	rotate: false
+	xy: 0, 0
+	size: 110, 322
+	orig: 340, 380
+	offset: 39, 35
+	index: -1
+common/tongdi_shitou_012
+	rotate: true
+	xy: 432, 659
+	size: 68, 190
+	orig: 340, 380
+	offset: 81, 82
+	index: -1
+
+asset/anim/tongdiSEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/tongdijuexingyan_00117
+	rotate: true
+	xy: 936, 287
+	size: 112, 84
+	orig: 112, 84
+	offset: 0, 0
+	index: -1
+max/tongdijuexingyan_00114
+	rotate: true
+	xy: 262, 485
+	size: 112, 78
+	orig: 112, 84
+	offset: 0, 0
+	index: -1
+max/tongdijuexingdigunlei_00095
+	rotate: false
+	xy: 0, 141
+	size: 283, 126
+	orig: 379, 200
+	offset: 96, 55
+	index: -1
+max/tongdijuexingdigunlei_00099
+	rotate: false
+	xy: 344, 256
+	size: 265, 114
+	orig: 379, 200
+	offset: 114, 55
+	index: -1
+max/tongdijuexingyan_00090
+	rotate: false
+	xy: 711, 957
+	size: 62, 40
+	orig: 112, 84
+	offset: 38, 0
+	index: -1
+max/tongdijuexingdigunlei_00119
+	rotate: false
+	xy: 0, 268
+	size: 267, 134
+	orig: 379, 200
+	offset: 112, 11
+	index: -1
+max/tongdijuexingyan_00099
+	rotate: true
+	xy: 268, 372
+	size: 112, 72
+	orig: 112, 84
+	offset: 0, 0
+	index: -1
+max/tongdijuexingdigunlei_00123
+	rotate: false
+	xy: 0, 0
+	size: 343, 140
+	orig: 379, 200
+	offset: 36, 17
+	index: -1
+max/tongdijuexingdigunlei_00121
+	rotate: false
+	xy: 344, 0
+	size: 305, 138
+	orig: 379, 200
+	offset: 74, 15
+	index: -1
+max/tongdijuexingdigunlei_00101
+	rotate: false
+	xy: 642, 252
+	size: 293, 114
+	orig: 379, 200
+	offset: 86, 54
+	index: -1
+max/tongdijuexingdigunlei_00103
+	rotate: false
+	xy: 642, 141
+	size: 295, 110
+	orig: 379, 200
+	offset: 84, 52
+	index: -1
+max/tongdijuexingdigunlei_00105
+	rotate: false
+	xy: 344, 139
+	size: 297, 116
+	orig: 379, 200
+	offset: 82, 43
+	index: -1
+max/tongdijuexingdigunlei_00107
+	rotate: true
+	xy: 546, 567
+	size: 183, 126
+	orig: 379, 200
+	offset: 196, 32
+	index: -1
+max/tongdijuexingsuileihua_00126
+	rotate: false
+	xy: 790, 546
+	size: 234, 107
+	orig: 236, 125
+	offset: 2, 7
+	index: -1
+max/tongdijuexingyan_00105
+	rotate: true
+	xy: 711, 858
+	size: 98, 78
+	orig: 112, 84
+	offset: 14, 0
+	index: -1
+max/tongdijuexingyan_00120
+	rotate: true
+	xy: 936, 400
+	size: 106, 84
+	orig: 112, 84
+	offset: 6, 0
+	index: -1
+max/tongdijuexingdigunlei_00113
+	rotate: false
+	xy: 0, 403
+	size: 261, 104
+	orig: 379, 200
+	offset: 118, 36
+	index: -1
+max/tongdijuexingdigunlei_00111
+	rotate: false
+	xy: 341, 468
+	size: 261, 98
+	orig: 379, 200
+	offset: 118, 40
+	index: -1
+max/tongdijuexingyan_00108
+	rotate: true
+	xy: 711, 749
+	size: 108, 78
+	orig: 112, 84
+	offset: 4, 0
+	index: -1
+max/tongdijuexingdigunlei_00115
+	rotate: false
+	xy: 344, 371
+	size: 263, 96
+	orig: 379, 200
+	offset: 116, 39
+	index: -1
+
+asset/anim/tongdiSEMAX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/tongdijuexingyan_00111
+	rotate: true
+	xy: 305, 646
+	size: 112, 76
+	orig: 112, 84
+	offset: 0, 0
+	index: -1
+max/tongdijuexingsuileihua_00119
+	rotate: false
+	xy: 0, 497
+	size: 176, 83
+	orig: 236, 125
+	offset: 29, 21
+	index: -1
+max/tongdijuexingdigunlei_00097
+	rotate: false
+	xy: 699, 282
+	size: 231, 112
+	orig: 379, 200
+	offset: 148, 43
+	index: -1
+max/tongdijuexingyan_00096
+	rotate: true
+	xy: 556, 646
+	size: 110, 66
+	orig: 112, 84
+	offset: 1, 0
+	index: -1
+max/tongdijuexingyan_00093
+	rotate: true
+	xy: 349, 915
+	size: 98, 54
+	orig: 112, 84
+	offset: 14, 0
+	index: -1
+max/tongdijuexingdigunlei_00109
+	rotate: false
+	xy: 464, 336
+	size: 229, 112
+	orig: 379, 200
+	offset: 150, 39
+	index: -1
+max/tongdijuexingsuileihua_00125
+	rotate: false
+	xy: 720, 0
+	size: 236, 109
+	orig: 236, 125
+	offset: 0, 7
+	index: -1
+max/tongdijuexingsuileihua_00124
+	rotate: false
+	xy: 483, 0
+	size: 236, 113
+	orig: 236, 125
+	offset: 0, 6
+	index: -1
+max/tongdijuexingsuileihua_00121
+	rotate: false
+	xy: 231, 338
+	size: 228, 111
+	orig: 236, 125
+	offset: 7, 8
+	index: -1
+max/tongdijuexingsuileihua_00120
+	rotate: true
+	xy: 923, 419
+	size: 202, 101
+	orig: 236, 125
+	offset: 13, 13
+	index: -1
+max/tongdijuexingsuileihua_00123
+	rotate: false
+	xy: 720, 110
+	size: 236, 103
+	orig: 236, 125
+	offset: 0, 3
+	index: -1
+max/tongdijuexingsuileihua_00122
+	rotate: false
+	xy: 0, 117
+	size: 236, 113
+	orig: 236, 125
+	offset: 0, 5
+	index: -1
+max/tongdijuexingdigunlei_00117
+	rotate: false
+	xy: 0, 0
+	size: 241, 116
+	orig: 379, 200
+	offset: 138, 26
+	index: -1
+max/tongdijuexingyan_00123
+	rotate: true
+	xy: 836, 481
+	size: 104, 84
+	orig: 112, 84
+	offset: 8, 0
+	index: -1
+max/tongdijuexingyan_00126
+	rotate: true
+	xy: 0, 915
+	size: 108, 82
+	orig: 112, 84
+	offset: 4, 2
+	index: -1
+max/tongdijuexingyan_00102
+	rotate: true
+	xy: 228, 646
+	size: 112, 76
+	orig: 112, 84
+	offset: 0, 0
+	index: -1
+max/tongdijuexingyan_00129
+	rotate: false
+	xy: 584, 489
+	size: 94, 80
+	orig: 112, 84
+	offset: 3, 4
+	index: -1

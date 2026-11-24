@@ -1,0 +1,87 @@
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/longjuanSESKILL3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/lou2_longjuanbs
+	rotate: true
+	xy: 283, 0
+	size: 99, 235
+	orig: 99, 235
+	offset: 0, 0
+	index: -1
+skill/lou1_longjuanbs
+	rotate: false
+	xy: 324, 406
+	size: 23, 43
+	orig: 23, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/longjuanSESKILL0.png
+size: 1023,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/lou7_longjuanbs
+	rotate: false
+	xy: 317, 629
+	size: 175, 296
+	orig: 183, 314
+	offset: 0, 10
+	index: -1
+skill/lou8_longjuanbs
+	rotate: false
+	xy: 84, 240
+	size: 133, 350
+	orig: 133, 350
+	offset: 0, 0
+	index: -1
+skill/lou4_longjuanbs
+	rotate: true
+	xy: 218, 553
+	size: 33, 81
+	orig: 33, 81
+	offset: 0, 0
+	index: -1
+skill/lou6_longjuanbs
+	rotate: true
+	xy: 317, 452
+	size: 176, 298
+	orig: 188, 314
+	offset: 0, 6
+	index: -1
+skill/lou3_longjuanbs
+	rotate: false
+	xy: 389, 0
+	size: 191, 451
+	orig: 191, 453
+	offset: 0, 2
+	index: -1
+
+asset/anim/longjuanSESKILL1.png
+size: 1024,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/lou5_longjuanbs
+	rotate: false
+	xy: 926, 0
+	size: 71, 172
+	orig: 71, 172
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,390 @@
+
+asset/anim/tongdi2SECOMMON1.png
+size: 1957,2011
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tongdi2_dianziping2_5
+	rotate: true
+	xy: 0, 1345
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_8
+	rotate: true
+	xy: 504, 997
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_9
+	rotate: true
+	xy: 504, 1345
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping1_11
+	rotate: true
+	xy: 1044, 756
+	size: 270, 346
+	orig: 312, 374
+	offset: 25, 11
+	index: -1
+common/tongdi2_dianziping1_12
+	rotate: true
+	xy: 1386, 1277
+	size: 270, 344
+	orig: 312, 374
+	offset: 25, 14
+	index: -1
+common/tongdi2_dianziping2_2
+	rotate: true
+	xy: 1740, 632
+	size: 315, 217
+	orig: 347, 251
+	offset: 20, 0
+	index: -1
+common/tongdi2_dianziping2_3
+	rotate: false
+	xy: 1391, 1025
+	size: 345, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping1_3
+	rotate: false
+	xy: 807, 1691
+	size: 288, 320
+	orig: 312, 374
+	offset: 11, 0
+	index: -1
+common/tongdi2_dianziping2_28
+	rotate: true
+	xy: 1744, 0
+	size: 305, 203
+	orig: 347, 251
+	offset: 30, 0
+	index: -1
+common/tongdi2_dianziping1_7
+	rotate: true
+	xy: 1391, 756
+	size: 268, 346
+	orig: 312, 374
+	offset: 26, 12
+	index: -1
+common/tongdi2_dianziping2_27
+	rotate: true
+	xy: 1740, 306
+	size: 325, 217
+	orig: 347, 251
+	offset: 10, 0
+	index: -1
+common/tongdi2_dianziping2_26
+	rotate: false
+	xy: 696, 756
+	size: 347, 237
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_21
+	rotate: false
+	xy: 696, 504
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_20
+	rotate: false
+	xy: 1392, 252
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_23
+	rotate: false
+	xy: 348, 745
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_7
+	rotate: true
+	xy: 252, 1345
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_25
+	rotate: false
+	xy: 1392, 504
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_24
+	rotate: false
+	xy: 1044, 504
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_4
+	rotate: true
+	xy: 0, 997
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping1_22
+	rotate: true
+	xy: 1041, 1027
+	size: 272, 344
+	orig: 312, 374
+	offset: 23, 15
+	index: -1
+common/tongdi2_dianziping1_23
+	rotate: true
+	xy: 1035, 1300
+	size: 270, 342
+	orig: 312, 374
+	offset: 24, 16
+	index: -1
+common/tongdi2_dianziping2_17
+	rotate: false
+	xy: 0, 493
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_14
+	rotate: false
+	xy: 1048, 0
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_15
+	rotate: false
+	xy: 1396, 0
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_16
+	rotate: false
+	xy: 696, 252
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_6
+	rotate: true
+	xy: 252, 997
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_11
+	rotate: false
+	xy: 700, 0
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_12
+	rotate: false
+	xy: 0, 241
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_13
+	rotate: false
+	xy: 348, 241
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_22
+	rotate: false
+	xy: 0, 745
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_18
+	rotate: false
+	xy: 348, 493
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_19
+	rotate: false
+	xy: 1044, 252
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+
+asset/anim/tongdi2SECOMMON0.png
+size: 2012,2042
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tongdi2_dianziping1_15
+	rotate: true
+	xy: 700, 851
+	size: 272, 346
+	orig: 312, 374
+	offset: 23, 12
+	index: -1
+common/tongdi2_dianziping1_14
+	rotate: true
+	xy: 710, 578
+	size: 272, 346
+	orig: 312, 374
+	offset: 23, 12
+	index: -1
+common/tongdi2_dianziping1_16
+	rotate: true
+	xy: 662, 1124
+	size: 272, 346
+	orig: 312, 374
+	offset: 23, 13
+	index: -1
+common/tongdi2_dianziping1_19
+	rotate: true
+	xy: 1438, 564
+	size: 272, 346
+	orig: 312, 374
+	offset: 23, 14
+	index: -1
+common/tongdi2_dianziping1_18
+	rotate: true
+	xy: 1091, 562
+	size: 272, 346
+	orig: 312, 374
+	offset: 23, 14
+	index: -1
+common/tongdi2_dianziping1_10
+	rotate: true
+	xy: 742, 307
+	size: 270, 348
+	orig: 312, 374
+	offset: 25, 10
+	index: -1
+common/tongdi2_dianziping1_13
+	rotate: true
+	xy: 252, 1764
+	size: 272, 348
+	orig: 312, 374
+	offset: 23, 11
+	index: -1
+common/tongdi2_dianziping1_17
+	rotate: true
+	xy: 658, 1397
+	size: 272, 346
+	orig: 312, 374
+	offset: 23, 14
+	index: -1
+common/tongdi2_dianziping2_1
+	rotate: true
+	xy: 1817, 295
+	size: 277, 191
+	orig: 347, 251
+	offset: 58, 0
+	index: -1
+common/tongdi2_dianziping1_1
+	rotate: true
+	xy: 1689, 1481
+	size: 112, 120
+	orig: 312, 374
+	offset: 96, 22
+	index: -1
+common/tongdi2_dianziping1_2
+	rotate: false
+	xy: 1785, 573
+	size: 178, 194
+	orig: 312, 374
+	offset: 68, 0
+	index: -1
+common/tongdi2_dianziping1_5
+	rotate: false
+	xy: 0, 951
+	size: 294, 374
+	orig: 312, 374
+	offset: 5, 0
+	index: -1
+common/tongdi2_dianziping1_6
+	rotate: false
+	xy: 0, 1326
+	size: 286, 368
+	orig: 312, 374
+	offset: 13, 0
+	index: -1
+common/tongdi2_dianziping1_9
+	rotate: true
+	xy: 1468, 291
+	size: 272, 348
+	orig: 312, 374
+	offset: 23, 9
+	index: -1
+common/tongdi2_dianziping1_8
+	rotate: true
+	xy: 1119, 289
+	size: 272, 348
+	orig: 312, 374
+	offset: 23, 9
+	index: -1
+common/tongdi2_dianziping1_4
+	rotate: true
+	xy: 1488, 0
+	size: 290, 360
+	orig: 312, 374
+	offset: 10, 0
+	index: -1
+common/tongdi2_dianziping1_20
+	rotate: true
+	xy: 1005, 1397
+	size: 272, 344
+	orig: 312, 374
+	offset: 23, 15
+	index: -1
+common/tongdi2_dianziping1_21
+	rotate: true
+	xy: 1009, 1124
+	size: 272, 344
+	orig: 312, 374
+	offset: 23, 15
+	index: -1
+common/tongdi2_dianziping1_24
+	rotate: true
+	xy: 1119, 0
+	size: 288, 368
+	orig: 312, 374
+	offset: 11, 0
+	index: -1
+common/tongdi2_dianziping1_25
+	rotate: false
+	xy: 995, 1670
+	size: 296, 326
+	orig: 312, 374
+	offset: 3, 0
+	index: -1
+common/tongdi2_dianziping1_26
+	rotate: true
+	xy: 1847, 1050
+	size: 158, 154
+	orig: 312, 374
+	offset: 71, 2
+	index: -1
+common/tongdi2_dianziping2_10
+	rotate: true
+	xy: 0, 1695
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1

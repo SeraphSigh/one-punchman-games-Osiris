@@ -1,0 +1,90 @@
+
+asset/anim/tuziimage0.png
+size: 228,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye2_tuzicj
+	rotate: false
+	xy: 22, 53
+	size: 14, 11
+	orig: 14, 11
+	offset: 0, 0
+	index: -1
+ear2_tuzicj
+	rotate: true
+	xy: 148, 41
+	size: 21, 40
+	orig: 21, 40
+	offset: 0, 0
+	index: -1
+foot_tuzicj
+	rotate: false
+	xy: 86, 46
+	size: 29, 18
+	orig: 29, 18
+	offset: 0, 0
+	index: -1
+ear1_tuzicj
+	rotate: true
+	xy: 86, 0
+	size: 45, 44
+	orig: 45, 44
+	offset: 0, 0
+	index: -1
+hand2_tuzicj
+	rotate: false
+	xy: 0, 53
+	size: 21, 10
+	orig: 21, 10
+	offset: 0, 0
+	index: -1
+leg_tuzicj
+	rotate: true
+	xy: 180, 0
+	size: 38, 35
+	orig: 38, 35
+	offset: 0, 0
+	index: -1
+eye1_tuzicj
+	rotate: true
+	xy: 216, 0
+	size: 13, 12
+	orig: 13, 12
+	offset: 0, 0
+	index: -1
+hand1_tuzicj
+	rotate: false
+	xy: 116, 46
+	size: 31, 16
+	orig: 31, 16
+	offset: 0, 0
+	index: -1
+body_tuzicj
+	rotate: false
+	xy: 0, 0
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+tui_tuzicj
+	rotate: true
+	xy: 209, 39
+	size: 25, 18
+	orig: 25, 18
+	offset: 0, 0
+	index: -1
+head_tuzicj
+	rotate: false
+	xy: 131, 0
+	size: 48, 40
+	orig: 48, 40
+	offset: 0, 0
+	index: -1
+tail_tuzicj
+	rotate: false
+	xy: 189, 39
+	size: 19, 25
+	orig: 19, 25
+	offset: 0, 0
+	index: -1

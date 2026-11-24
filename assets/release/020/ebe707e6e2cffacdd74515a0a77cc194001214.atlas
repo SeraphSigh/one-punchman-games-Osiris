@@ -1,0 +1,298 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+
+asset/anim/jurendidi1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_zuodabi_jurendinpc
+	rotate: true
+	xy: 0, 123
+	size: 68, 116
+	orig: 68, 116
+	offset: 0, 0
+	index: -1
+b_youshou2_jurendinpc
+	rotate: false
+	xy: 326, 125
+	size: 56, 52
+	orig: 56, 52
+	offset: 0, 0
+	index: -1
+a_Rforearm_jurendinpc
+	rotate: true
+	xy: 326, 94
+	size: 30, 60
+	orig: 30, 60
+	offset: 0, 0
+	index: -1
+b_youshou1_jurendinpc
+	rotate: true
+	xy: 422, 90
+	size: 57, 61
+	orig: 57, 61
+	offset: 0, 0
+	index: -1
+b_bao5_jurendinpc
+	rotate: false
+	xy: 0, 0
+	size: 170, 122
+	orig: 170, 122
+	offset: 0, 0
+	index: -1
+b_tou_jurendinpc
+	rotate: true
+	xy: 326, 0
+	size: 93, 95
+	orig: 93, 95
+	offset: 0, 0
+	index: -1
+a_coxa_jurendinpc
+	rotate: false
+	xy: 422, 46
+	size: 71, 43
+	orig: 71, 43
+	offset: 0, 0
+	index: -1
+b_bao1_jurendinpc
+	rotate: true
+	xy: 171, 0
+	size: 131, 154
+	orig: 131, 154
+	offset: 0, 0
+	index: -1
+b_zuoxiaobi_jurendinpc
+	rotate: false
+	xy: 422, 0
+	size: 72, 45
+	orig: 72, 45
+	offset: 0, 0
+	index: -1
+a_Lthigh_jurendinpc
+	rotate: true
+	xy: 117, 123
+	size: 48, 53
+	orig: 48, 53
+	offset: 0, 0
+	index: -1
+
+asset/anim/jurendidi0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Rthin_jurendinpc
+	rotate: false
+	xy: 181, 462
+	size: 34, 45
+	orig: 34, 45
+	offset: 0, 0
+	index: -1
+b_bao6_jurendinpc
+	rotate: true
+	xy: 405, 239
+	size: 165, 103
+	orig: 165, 103
+	offset: 0, 0
+	index: -1
+a_Rfoot_jurendinpc
+	rotate: false
+	xy: 193, 192
+	size: 28, 30
+	orig: 28, 30
+	offset: 0, 0
+	index: -1
+a_Lforearm_jurendinpc
+	rotate: true
+	xy: 181, 389
+	size: 40, 36
+	orig: 40, 36
+	offset: 0, 0
+	index: -1
+b_zuoshou2_jurendinpc
+	rotate: false
+	xy: 430, 459
+	size: 53, 53
+	orig: 53, 53
+	offset: 0, 0
+	index: -1
+b_zuoshou1_jurendinpc
+	rotate: true
+	xy: 405, 405
+	size: 53, 61
+	orig: 53, 61
+	offset: 0, 0
+	index: -1
+b_tou1_jurendinpc
+	rotate: false
+	xy: 81, 389
+	size: 99, 116
+	orig: 99, 116
+	offset: 0, 0
+	index: -1
+a_Lthin_jurendinpc
+	rotate: true
+	xy: 0, 366
+	size: 31, 43
+	orig: 31, 43
+	offset: 0, 0
+	index: -1
+b_bao4_jurendinpc
+	rotate: false
+	xy: 0, 192
+	size: 192, 173
+	orig: 192, 173
+	offset: 0, 0
+	index: -1
+a_dumbbell2_jurendinpc
+	rotate: false
+	xy: 467, 405
+	size: 42, 47
+	orig: 42, 47
+	offset: 0, 0
+	index: -1
+a_body_jurendinpc
+	rotate: true
+	xy: 218, 405
+	size: 97, 124
+	orig: 97, 124
+	offset: 0, 0
+	index: -1
+b_shenti_jurendinpc
+	rotate: true
+	xy: 218, 237
+	size: 160, 186
+	orig: 160, 186
+	offset: 0, 0
+	index: -1
+a_dumbbel3_jurendinpc
+	rotate: false
+	xy: 420, 173
+	size: 86, 65
+	orig: 86, 65
+	offset: 0, 0
+	index: -1
+b_youdabi_jurendinpc
+	rotate: false
+	xy: 0, 398
+	size: 67, 113
+	orig: 67, 113
+	offset: 0, 0
+	index: -1
+a_eye3_jurendinpc
+	rotate: true
+	xy: 193, 263
+	size: 42, 19
+	orig: 42, 19
+	offset: 0, 0
+	index: -1
+b_bao7_jurendinpc
+	rotate: false
+	xy: 223, 0
+	size: 204, 80
+	orig: 204, 80
+	offset: 0, 0
+	index: -1
+a_Lhand_jurendinpc
+	rotate: true
+	xy: 181, 430
+	size: 31, 35
+	orig: 31, 35
+	offset: 0, 0
+	index: -1
+b_bao3_jurendinpc
+	rotate: false
+	xy: 0, 0
+	size: 222, 191
+	orig: 222, 191
+	offset: 0, 0
+	index: -1
+a_Rthigh_jurendinpc
+	rotate: false
+	xy: 343, 461
+	size: 43, 50
+	orig: 43, 50
+	offset: 0, 0
+	index: -1
+a_Rarm_jurendinpc
+	rotate: false
+	xy: 343, 398
+	size: 61, 62
+	orig: 61, 62
+	offset: 0, 0
+	index: -1
+a_Rhand_jurendinpc
+	rotate: false
+	xy: 44, 366
+	size: 36, 31
+	orig: 36, 31
+	offset: 0, 0
+	index: -1
+a_Lfoot_jurendinpc
+	rotate: true
+	xy: 193, 223
+	size: 39, 24
+	orig: 39, 24
+	offset: 0, 0
+	index: -1
+a_dumbbell1_jurendinpc
+	rotate: false
+	xy: 387, 461
+	size: 42, 50
+	orig: 42, 50
+	offset: 0, 0
+	index: -1
+a_eye1_jurendinpc
+	rotate: true
+	xy: 193, 348
+	size: 40, 19
+	orig: 40, 19
+	offset: 0, 0
+	index: -1
+a_Larm_jurendinpc
+	rotate: true
+	xy: 420, 120
+	size: 52, 90
+	orig: 52, 90
+	offset: 0, 0
+	index: -1
+b_youxiaobi_jurendinpc
+	rotate: false
+	xy: 428, 68
+	size: 75, 51
+	orig: 75, 51
+	offset: 0, 0
+	index: -1
+a_head_jurendinpc
+	rotate: true
+	xy: 428, 0
+	size: 67, 83
+	orig: 67, 83
+	offset: 0, 0
+	index: -1
+a_eye2_jurendinpc
+	rotate: true
+	xy: 193, 306
+	size: 41, 19
+	orig: 41, 19
+	offset: 0, 0
+	index: -1
+b_bao2_jurendinpc
+	rotate: true
+	xy: 223, 81
+	size: 155, 196
+	orig: 155, 196
+	offset: 0, 0
+	index: -1

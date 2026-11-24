@@ -1,0 +1,407 @@
+
+asset/anim/qiyu0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_zuoyanzhu_qiyu
+	rotate: true
+	xy: 569, 398
+	size: 3, 2
+	orig: 3, 2
+	offset: 0, 0
+	index: -1
+g_youyanjing_qiyu
+	rotate: false
+	xy: 94, 930
+	size: 17, 10
+	orig: 17, 10
+	offset: 0, 0
+	index: -1
+g_zuoxiayanpi_qiyu
+	rotate: true
+	xy: 946, 307
+	size: 12, 9
+	orig: 12, 9
+	offset: 0, 0
+	index: -1
+k_tou_qiyu
+	rotate: true
+	xy: 940, 418
+	size: 65, 84
+	orig: 65, 84
+	offset: 0, 0
+	index: -1
+g_zuoyaning_qiyu
+	rotate: true
+	xy: 946, 320
+	size: 11, 9
+	orig: 11, 9
+	offset: 0, 0
+	index: -1
+g_zuoshangyanpi_qiyu
+	rotate: false
+	xy: 705, 386
+	size: 14, 9
+	orig: 14, 9
+	offset: 0, 0
+	index: -1
+g_youshangyanpi_qiyu
+	rotate: false
+	xy: 676, 876
+	size: 21, 11
+	orig: 21, 11
+	offset: 0, 0
+	index: -1
+g_youxiayanpi_qiyu
+	rotate: true
+	xy: 1012, 0
+	size: 19, 12
+	orig: 19, 12
+	offset: 0, 0
+	index: -1
+
+asset/anim/qiyu1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_eye2_qiyu
+	rotate: false
+	xy: 733, 249
+	size: 36, 17
+	orig: 36, 17
+	offset: 0, 0
+	index: -1
+g_head_qiyu
+	rotate: true
+	xy: 87, 70
+	size: 63, 85
+	orig: 63, 85
+	offset: 0, 0
+	index: -1
+g_eye3_qiyu
+	rotate: false
+	xy: 956, 136
+	size: 39, 22
+	orig: 39, 22
+	offset: 0, 0
+	index: -1
+g_youyanzhu_qiyu
+	rotate: false
+	xy: 93, 56
+	size: 3, 3
+	orig: 3, 3
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/qiyu_xifu0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m_Rshin_qiyuxifusz
+	rotate: false
+	xy: 23, 287
+	size: 35, 63
+	orig: 35, 63
+	offset: 0, 0
+	index: -1
+m_Lforearm_qiyuxifusz
+	rotate: false
+	xy: 62, 364
+	size: 25, 48
+	orig: 25, 48
+	offset: 0, 0
+	index: -1
+m_Rarm_qiyuxifusz
+	rotate: false
+	xy: 99, 0
+	size: 33, 55
+	orig: 33, 55
+	offset: 0, 0
+	index: -1
+n_Rfoot_qiyuxifusz
+	rotate: false
+	xy: 59, 335
+	size: 47, 28
+	orig: 47, 28
+	offset: 0, 0
+	index: -1
+m_coxa_qiyuxifusz
+	rotate: true
+	xy: 66, 209
+	size: 60, 40
+	orig: 60, 40
+	offset: 0, 0
+	index: -1
+m_Rhand_qiyuxifusz
+	rotate: false
+	xy: 62, 457
+	size: 26, 35
+	orig: 26, 35
+	offset: 0, 0
+	index: -1
+n_coxa_qiyuxifusz
+	rotate: true
+	xy: 73, 58
+	size: 49, 44
+	orig: 49, 44
+	offset: 0, 0
+	index: -1
+m_Rfoot_qiyuxifusz
+	rotate: true
+	xy: 107, 331
+	size: 32, 33
+	orig: 32, 33
+	offset: 0, 0
+	index: -1
+m_lingdaifm_qiyuxifusz
+	rotate: false
+	xy: 0, 287
+	size: 22, 77
+	orig: 22, 77
+	offset: 0, 0
+	index: -1
+n_Rarm_qiyuxifusz
+	rotate: true
+	xy: 104, 108
+	size: 54, 37
+	orig: 54, 37
+	offset: 0, 0
+	index: -1
+n_Larm_qiyuxifusz
+	rotate: true
+	xy: 59, 169
+	size: 39, 45
+	orig: 39, 45
+	offset: 0, 0
+	index: -1
+m_body_qiyuxifusz
+	rotate: false
+	xy: 0, 0
+	size: 72, 107
+	orig: 72, 107
+	offset: 0, 0
+	index: -1
+n_Lshin_qiyuxifusz
+	rotate: true
+	xy: 17, 365
+	size: 63, 44
+	orig: 63, 44
+	offset: 0, 0
+	index: -1
+n_Lthigh_qiyuxifusz
+	rotate: false
+	xy: 59, 108
+	size: 44, 60
+	orig: 44, 60
+	offset: 0, 0
+	index: -1
+m_coxa1_qiyuxifusz
+	rotate: false
+	xy: 24, 272
+	size: 14, 14
+	orig: 14, 14
+	offset: 0, 0
+	index: -1
+m_Larm_qiyuxifusz
+	rotate: false
+	xy: 107, 209
+	size: 22, 50
+	orig: 22, 50
+	offset: 0, 0
+	index: -1
+n_Lshou_qiyuxifusz
+	rotate: false
+	xy: 89, 457
+	size: 30, 32
+	orig: 30, 32
+	offset: 0, 0
+	index: -1
+n_Rthigh_qiyuxifusz
+	rotate: true
+	xy: 14, 443
+	size: 65, 47
+	orig: 65, 47
+	offset: 0, 0
+	index: -1
+n_lingdai_qiyuxifusz
+	rotate: false
+	xy: 0, 365
+	size: 16, 77
+	orig: 16, 77
+	offset: 0, 0
+	index: -1
+m_lingdai_qiyuxifusz
+	rotate: false
+	xy: 0, 209
+	size: 23, 77
+	orig: 23, 77
+	offset: 0, 0
+	index: -1
+m_Lhand_qiyuxifusz
+	rotate: true
+	xy: 89, 490
+	size: 22, 32
+	orig: 22, 32
+	offset: 0, 0
+	index: -1
+m_Rthigh_qiyuxifusz
+	rotate: false
+	xy: 59, 272
+	size: 34, 62
+	orig: 34, 62
+	offset: 0, 0
+	index: -1
+n_Lforearm_qiyuxifusz
+	rotate: false
+	xy: 62, 413
+	size: 38, 43
+	orig: 38, 43
+	offset: 0, 0
+	index: -1
+m_Lshin_qiyuxifusz
+	rotate: false
+	xy: 94, 270
+	size: 30, 60
+	orig: 30, 60
+	offset: 0, 0
+	index: -1
+m_Lfoot_qiyuxifusz
+	rotate: true
+	xy: 105, 163
+	size: 45, 31
+	orig: 45, 31
+	offset: 0, 0
+	index: -1
+m_Rforearm_qiyuxifusz
+	rotate: false
+	xy: 118, 56
+	size: 25, 51
+	orig: 25, 51
+	offset: 0, 0
+	index: -1
+n_body_qiyuxifusz
+	rotate: false
+	xy: 0, 108
+	size: 58, 100
+	orig: 58, 100
+	offset: 0, 0
+	index: -1
+n_Rforearm_qiyuxifusz
+	rotate: false
+	xy: 73, 0
+	size: 25, 57
+	orig: 25, 57
+	offset: 0, 0
+	index: -1
+n_coxafm_qiyuxifusz
+	rotate: false
+	xy: 17, 429
+	size: 7, 12
+	orig: 7, 12
+	offset: 0, 0
+	index: -1
+n_Rshin_qiyuxifusz
+	rotate: false
+	xy: 24, 209
+	size: 41, 62
+	orig: 41, 62
+	offset: 0, 0
+	index: -1
+m_Lthigh_qiyuxifusz
+	rotate: false
+	xy: 133, 0
+	size: 34, 54
+	orig: 34, 54
+	offset: 0, 0
+	index: -1
+n_Lfoot_qiyuxifusz
+	rotate: true
+	xy: 88, 364
+	size: 41, 40
+	orig: 41, 40
+	offset: 0, 0
+	index: -1
+n_Rshou_qiyuxifusz
+	rotate: false
+	xy: 101, 406
+	size: 27, 30
+	orig: 27, 30
+	offset: 0, 0
+	index: -1
+n_lingdaifm_qiyuxifusz
+	rotate: false
+	xy: 0, 443
+	size: 13, 69
+	orig: 13, 69
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

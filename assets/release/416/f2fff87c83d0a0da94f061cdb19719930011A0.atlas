@@ -1,0 +1,290 @@
+
+asset/anim/qiyu_shuiyi0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+n_body_shuiyiqiyu
+	rotate: false
+	xy: 0, 117
+	size: 59, 110
+	orig: 59, 110
+	offset: 0, 0
+	index: -1
+m_Lfoot_shuiyiqiyu
+	rotate: true
+	xy: 93, 420
+	size: 44, 36
+	orig: 44, 36
+	offset: 0, 0
+	index: -1
+g_eye_shuiyiqiyu
+	rotate: false
+	xy: 70, 494
+	size: 42, 11
+	orig: 42, 11
+	offset: 0, 0
+	index: -1
+m_Rshin_shuiyiqiyu
+	rotate: false
+	xy: 42, 313
+	size: 41, 58
+	orig: 41, 58
+	offset: 0, 0
+	index: -1
+n_Rforearm_shuiyiqiyu
+	rotate: true
+	xy: 60, 202
+	size: 24, 57
+	orig: 24, 57
+	offset: 0, 0
+	index: -1
+m_coxa_shuiyiqiyu
+	rotate: true
+	xy: 0, 378
+	size: 64, 39
+	orig: 64, 39
+	offset: 0, 0
+	index: -1
+m_Lhand_shuiyiqiyu
+	rotate: false
+	xy: 127, 280
+	size: 22, 32
+	orig: 22, 32
+	offset: 0, 0
+	index: -1
+n_Rthigh_shuiyiqiyu
+	rotate: true
+	xy: 71, 0
+	size: 77, 52
+	orig: 77, 52
+	offset: 0, 0
+	index: -1
+m_Rforearm_shuiyiqiyu
+	rotate: false
+	xy: 113, 465
+	size: 22, 44
+	orig: 22, 44
+	offset: 0, 0
+	index: -1
+n_Lshin_shuiyiqiyu
+	rotate: true
+	xy: 40, 378
+	size: 59, 49
+	orig: 59, 49
+	offset: 0, 0
+	index: -1
+n_Lfoot_shuiyiqiyu
+	rotate: true
+	xy: 66, 227
+	size: 54, 43
+	orig: 54, 43
+	offset: 0, 0
+	index: -1
+n_Rarm_shuiyiqiyu
+	rotate: false
+	xy: 71, 78
+	size: 51, 37
+	orig: 51, 37
+	offset: 0, 0
+	index: -1
+n_Larm_shuiyiqiyu
+	rotate: false
+	xy: 90, 368
+	size: 41, 51
+	orig: 41, 51
+	offset: 0, 0
+	index: -1
+m_Larm_shuiyiqiyu
+	rotate: false
+	xy: 70, 438
+	size: 22, 55
+	orig: 22, 55
+	offset: 0, 0
+	index: -1
+g_head_shuiyiqiyu
+	rotate: false
+	xy: 60, 117
+	size: 64, 84
+	orig: 64, 84
+	offset: 0, 0
+	index: -1
+n_Lthigh_shuiyiqiyu
+	rotate: false
+	xy: 170, 0
+	size: 45, 67
+	orig: 45, 67
+	offset: 0, 0
+	index: -1
+m_body_shuiyiqiyu
+	rotate: false
+	xy: 0, 0
+	size: 70, 116
+	orig: 70, 116
+	offset: 0, 0
+	index: -1
+m_Rfoot_shuiyiqiyu
+	rotate: false
+	xy: 157, 226
+	size: 36, 45
+	orig: 36, 45
+	offset: 0, 0
+	index: -1
+n_Rshin_shuiyiqiyu
+	rotate: false
+	xy: 124, 0
+	size: 45, 71
+	orig: 45, 71
+	offset: 0, 0
+	index: -1
+n_Rshou_shuiyiqiyu
+	rotate: false
+	xy: 99, 282
+	size: 27, 30
+	orig: 27, 30
+	offset: 0, 0
+	index: -1
+n_Lshou_shuiyiqiyu
+	rotate: true
+	xy: 66, 282
+	size: 30, 32
+	orig: 30, 32
+	offset: 0, 0
+	index: -1
+m_Lshin_shuiyiqiyu
+	rotate: false
+	xy: 35, 443
+	size: 34, 60
+	orig: 34, 60
+	offset: 0, 0
+	index: -1
+n_coxa_shuiyiqiyu
+	rotate: true
+	xy: 110, 227
+	size: 52, 46
+	orig: 52, 46
+	offset: 0, 0
+	index: -1
+m_Rarm_shuiyiqiyu
+	rotate: false
+	xy: 0, 443
+	size: 34, 61
+	orig: 34, 61
+	offset: 0, 0
+	index: -1
+m_Rhand_shuiyiqiyu
+	rotate: true
+	xy: 150, 280
+	size: 26, 35
+	orig: 26, 35
+	offset: 0, 0
+	index: -1
+n_Rfoot_shuiyiqiyu
+	rotate: false
+	xy: 123, 78
+	size: 51, 36
+	orig: 51, 36
+	offset: 0, 0
+	index: -1
+m_Rthigh_shuiyiqiyu
+	rotate: false
+	xy: 0, 313
+	size: 41, 64
+	orig: 41, 64
+	offset: 0, 0
+	index: -1
+n_Lforearm_shuiyiqiyu
+	rotate: false
+	xy: 119, 313
+	size: 43, 49
+	orig: 43, 49
+	offset: 0, 0
+	index: -1
+m_Lforearm_shuiyiqiyu
+	rotate: true
+	xy: 118, 202
+	size: 23, 41
+	orig: 23, 41
+	offset: 0, 0
+	index: -1
+m_Lthigh_shuiyiqiyu
+	rotate: false
+	xy: 84, 313
+	size: 34, 54
+	orig: 34, 54
+	offset: 0, 0
+	index: -1
+n_tou_shuiyiqiyu
+	rotate: false
+	xy: 0, 228
+	size: 65, 84
+	orig: 65, 84
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1

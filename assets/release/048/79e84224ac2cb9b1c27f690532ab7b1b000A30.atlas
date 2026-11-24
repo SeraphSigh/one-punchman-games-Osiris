@@ -1,0 +1,143 @@
+
+asset/anim/geliuganxiupu2SESKILL3.png
+size: 1021,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/geliuganxiupu2_jn_diquan_036
+	rotate: true
+	xy: 224, 321
+	size: 217, 103
+	orig: 291, 113
+	offset: 39, 0
+	index: -1
+skill/geliuganxiupu2_jn_diquan_035
+	rotate: false
+	xy: 678, 641
+	size: 193, 99
+	orig: 291, 113
+	offset: 50, 0
+	index: -1
+skill/geliuganxiupu2_jn_diqi_038
+	rotate: false
+	xy: 724, 0
+	size: 289, 187
+	orig: 291, 187
+	offset: 2, 0
+	index: -1
+
+asset/anim/geliuganxiupu2SESKILL2.png
+size: 1016,886
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/geliuganxiupu2_jn_diquan_038
+	rotate: false
+	xy: 433, 186
+	size: 269, 111
+	orig: 291, 113
+	offset: 14, 0
+	index: -1
+skill/geliuganxiupu2_jn_diquan_046
+	rotate: false
+	xy: 725, 114
+	size: 291, 113
+	orig: 291, 113
+	offset: 0, 0
+	index: -1
+skill/geliuganxiupu2_jn_diquan_037
+	rotate: false
+	xy: 300, 597
+	size: 243, 109
+	orig: 291, 113
+	offset: 27, 0
+	index: -1
+skill/geliuganxiupu2_jn_diquan_041
+	rotate: false
+	xy: 725, 0
+	size: 291, 113
+	orig: 291, 113
+	offset: 0, 0
+	index: -1
+skill/geliuganxiupu2_jn_diqi_037
+	rotate: false
+	xy: 433, 0
+	size: 291, 185
+	orig: 291, 187
+	offset: 0, 0
+	index: -1
+
+asset/anim/geliuganxiupu2SESKILL1.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/geliuganxiupu2_jn_diquan_039
+	rotate: false
+	xy: 724, 376
+	size: 291, 113
+	orig: 291, 113
+	offset: 0, 0
+	index: -1
+skill/geliuganxiupu2_jn_diquan_044
+	rotate: false
+	xy: 710, 718
+	size: 291, 113
+	orig: 291, 113
+	offset: 0, 0
+	index: -1
+skill/geliuganxiupu2_jn_diquan_045
+	rotate: false
+	xy: 618, 832
+	size: 291, 113
+	orig: 291, 113
+	offset: 0, 0
+	index: -1
+skill/geliuganxiupu2_jn_diquan_042
+	rotate: false
+	xy: 722, 604
+	size: 291, 113
+	orig: 291, 113
+	offset: 0, 0
+	index: -1
+skill/geliuganxiupu2_jn_diquan_040
+	rotate: false
+	xy: 722, 490
+	size: 291, 113
+	orig: 291, 113
+	offset: 0, 0
+	index: -1
+skill/geliuganxiupu2_jn_diquan_043
+	rotate: false
+	xy: 0, 460
+	size: 291, 113
+	orig: 291, 113
+	offset: 0, 0
+	index: -1
+skill/geliuganxiupu2_jn_diqi_035
+	rotate: false
+	xy: 724, 188
+	size: 285, 187
+	orig: 291, 187
+	offset: 0, 0
+	index: -1
+skill/geliuganxiupu2_jn_diqi_036
+	rotate: false
+	xy: 724, 0
+	size: 291, 187
+	orig: 291, 187
+	offset: 0, 0
+	index: -1
+
+asset/anim/geliuganxiupu2SESKILL0.png
+size: 1024,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/geliuganxiupu2_jn_diqi_039
+	rotate: true
+	xy: 927, 724
+	size: 291, 97
+	orig: 291, 187
+	offset: 0, 12
+	index: -1

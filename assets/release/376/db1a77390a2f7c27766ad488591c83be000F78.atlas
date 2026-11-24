@@ -1,0 +1,230 @@
+
+asset/anim/dengliziwujiSECOMMON0.png
+size: 870,983
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/dengliziwuji_quan_008
+	rotate: true
+	xy: 219, 332
+	size: 116, 123
+	orig: 128, 133
+	offset: 6, 7
+	index: -1
+common/dengliziwuji_quan_009
+	rotate: true
+	xy: 560, 574
+	size: 128, 117
+	orig: 128, 133
+	offset: 0, 11
+	index: -1
+common/dengliziwuji_shandian01_009
+	rotate: false
+	xy: 347, 114
+	size: 344, 95
+	orig: 402, 131
+	offset: 20, 20
+	index: -1
+common/dengliziwuji_shandian001_007
+	rotate: false
+	xy: 694, 939
+	size: 61, 44
+	orig: 139, 70
+	offset: 0, 12
+	index: -1
+common/dengliziwuji_quan_007
+	rotate: false
+	xy: 0, 875
+	size: 112, 103
+	orig: 128, 133
+	offset: 9, 19
+	index: -1
+common/dengliziwuji_shandian001_009
+	rotate: true
+	xy: 215, 804
+	size: 139, 60
+	orig: 139, 70
+	offset: 0, 4
+	index: -1
+common/dengliziwuji_shandian001_008
+	rotate: false
+	xy: 556, 703
+	size: 137, 52
+	orig: 139, 70
+	offset: 2, 17
+	index: -1
+common/baodian_009
+	rotate: false
+	xy: 694, 790
+	size: 162, 148
+	orig: 220, 238
+	offset: 0, 58
+	index: -1
+common/dengliziwuji_shandian01_015
+	rotate: false
+	xy: 343, 324
+	size: 274, 79
+	orig: 402, 131
+	offset: 127, 0
+	index: -1
+common/dengliziwuji_shandian01_014
+	rotate: false
+	xy: 0, 240
+	size: 342, 91
+	orig: 402, 131
+	offset: 20, 14
+	index: -1
+common/dengliziwuji_shandian01_013
+	rotate: false
+	xy: 343, 210
+	size: 342, 113
+	orig: 402, 131
+	offset: 20, 17
+	index: -1
+common/dengliziwuji_shandian01_012
+	rotate: false
+	xy: 0, 118
+	size: 342, 121
+	orig: 402, 131
+	offset: 20, 10
+	index: -1
+common/dengliziwuji_shandian01_011
+	rotate: false
+	xy: 0, 0
+	size: 346, 117
+	orig: 402, 131
+	offset: 18, 14
+	index: -1
+common/dengliziwuji_shandian01_010
+	rotate: false
+	xy: 347, 0
+	size: 344, 113
+	orig: 402, 131
+	offset: 18, 18
+	index: -1
+common/dengliziwuji_quan_013
+	rotate: false
+	xy: 219, 449
+	size: 122, 111
+	orig: 128, 133
+	offset: 2, 14
+	index: -1
+common/dengliziwuji_quan_012
+	rotate: false
+	xy: 560, 458
+	size: 124, 115
+	orig: 128, 133
+	offset: 2, 12
+	index: -1
+common/dengliziwuji_quan_011
+	rotate: false
+	xy: 215, 688
+	size: 126, 115
+	orig: 128, 133
+	offset: 1, 12
+	index: -1
+common/dengliziwuji_quan_010
+	rotate: true
+	xy: 217, 561
+	size: 126, 125
+	orig: 128, 133
+	offset: 1, 5
+	index: -1
+common/baodian_020
+	rotate: true
+	xy: 342, 762
+	size: 210, 154
+	orig: 220, 238
+	offset: 7, 28
+	index: -1
+common/baodian_010
+	rotate: false
+	xy: 694, 643
+	size: 166, 146
+	orig: 220, 238
+	offset: 5, 64
+	index: -1
+common/baodian_011
+	rotate: false
+	xy: 343, 607
+	size: 212, 154
+	orig: 220, 238
+	offset: 0, 58
+	index: -1
+common/baodian_012
+	rotate: false
+	xy: 0, 503
+	size: 216, 162
+	orig: 220, 238
+	offset: 0, 50
+	index: -1
+common/baodian_013
+	rotate: false
+	xy: 0, 332
+	size: 218, 170
+	orig: 220, 238
+	offset: 0, 42
+	index: -1
+common/baodian_014
+	rotate: true
+	xy: 692, 0
+	size: 218, 178
+	orig: 220, 238
+	offset: 0, 34
+	index: -1
+common/baodian_015
+	rotate: true
+	xy: 686, 219
+	size: 212, 184
+	orig: 220, 238
+	offset: 6, 27
+	index: -1
+common/baodian_016
+	rotate: true
+	xy: 685, 432
+	size: 210, 178
+	orig: 220, 238
+	offset: 8, 20
+	index: -1
+common/baodian_017
+	rotate: false
+	xy: 0, 666
+	size: 214, 208
+	orig: 220, 238
+	offset: 4, 14
+	index: -1
+common/baodian_018
+	rotate: true
+	xy: 343, 404
+	size: 202, 216
+	orig: 220, 238
+	offset: 3, 7
+	index: -1
+common/baodian_019
+	rotate: true
+	xy: 497, 762
+	size: 206, 196
+	orig: 220, 238
+	offset: 5, 25
+	index: -1
+common/dengliziwuji_shandian001_012
+	rotate: false
+	xy: 276, 804
+	size: 61, 66
+	orig: 139, 70
+	offset: 0, 4
+	index: -1
+common/dengliziwuji_shandian001_010
+	rotate: true
+	xy: 618, 324
+	size: 133, 66
+	orig: 139, 70
+	offset: 0, 2
+	index: -1
+common/dengliziwuji_shandian001_011
+	rotate: true
+	xy: 560, 404
+	size: 53, 48
+	orig: 139, 70
+	offset: 0, 3
+	index: -1

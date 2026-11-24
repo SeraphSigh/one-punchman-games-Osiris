@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>guairenbaoshan_abaoquan_009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			</array>
+			<key>spriteOffset</key>
+			<string>{0,-1}</string>
+			<key>spriteSize</key>
+			<string>{129,143}</string>
+			<key>spriteSourceSize</key>
+			<string>{193,205}</string>
+			<key>textureRect</key>
+			<string>{{0,0},{129,143}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>guairenbaoshan_abaoyan_009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			</array>
+			<key>spriteOffset</key>
+			<string>{-7,-1}</string>
+			<key>spriteSize</key>
+			<string>{129,130}</string>
+			<key>spriteSourceSize</key>
+			<string>{161,184}</string>
+			<key>textureRect</key>
+			<string>{{0,144},{129,130}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>pixelFormat</key>
+		<string>RGBA8888</string>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>guairenhuabaoshanSEATTACK1.png</string>
+		<key>scale</key>
+		<real>0.85</real>
+		<key>size</key>
+		<string>{129,274}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:5b690144fe83bcf64ed6e4cd36e918bf:9b6d149d8cbb14fdea1a1009c42dbcb0:01b6c2fa4ec42e8074aa2101d1b41575$</string>
+		<key>textureFileName</key>
+		<string>guairenhuabaoshanSEATTACK1.png</string>
+	</dict>
+</dict>
+</plist>

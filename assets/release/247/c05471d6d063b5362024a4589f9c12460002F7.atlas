@@ -1,0 +1,48 @@
+
+asset/anim/xianshitemai0.png
+size: 932,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xianshitemai_biaoti
+	rotate: false
+	xy: 23, 0
+	size: 688, 124
+	orig: 688, 124
+	offset: 0, 0
+	index: -1
+xianshitemai_caidai4
+	rotate: true
+	xy: 712, 0
+	size: 37, 220
+	orig: 37, 220
+	offset: 0, 0
+	index: -1
+xianshitemai_caidai5
+	rotate: false
+	xy: 0, 0
+	size: 22, 137
+	orig: 22, 137
+	offset: 0, 0
+	index: -1
+xianshitemai_caidai6
+	rotate: true
+	xy: 712, 38
+	size: 34, 200
+	orig: 34, 200
+	offset: 0, 0
+	index: -1
+xianshitemai_caidai7
+	rotate: true
+	xy: 23, 125
+	size: 18, 218
+	orig: 18, 218
+	offset: 0, 0
+	index: -1
+xianshitemai_caidai3
+	rotate: true
+	xy: 712, 73
+	size: 65, 166
+	orig: 65, 166
+	offset: 0, 0
+	index: -1

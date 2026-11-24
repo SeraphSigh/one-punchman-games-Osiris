@@ -1,0 +1,328 @@
+
+asset/anim/wuxianhaidaikapai.png
+size: 1004,859
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yan_wuxianhaidaikapai
+	rotate: false
+	xy: 0, 836
+	size: 53, 22
+	orig: 53, 22
+	offset: 0, 0
+	index: -1
+zuojiao_wuxianhaidaikapai
+	rotate: false
+	xy: 469, 443
+	size: 46, 61
+	orig: 46, 61
+	offset: 0, 0
+	index: -1
+haidai12_wuxianhaidaikapai
+	rotate: false
+	xy: 612, 258
+	size: 350, 67
+	orig: 350, 67
+	offset: 0, 0
+	index: -1
+shenti_wuxianhaidaikapai
+	rotate: false
+	xy: 360, 507
+	size: 103, 227
+	orig: 103, 227
+	offset: 0, 0
+	index: -1
+haidai24_wuxianhaidaikapai
+	rotate: true
+	xy: 796, 437
+	size: 51, 186
+	orig: 51, 186
+	offset: 0, 0
+	index: -1
+haidai27_wuxianhaidaikapai
+	rotate: true
+	xy: 489, 744
+	size: 80, 165
+	orig: 80, 165
+	offset: 0, 0
+	index: -1
+haidai11_wuxianhaidaikapai
+	rotate: false
+	xy: 788, 593
+	size: 153, 67
+	orig: 153, 67
+	offset: 0, 0
+	index: -1
+haidai8_wuxianhaidaikapai
+	rotate: false
+	xy: 427, 0
+	size: 97, 374
+	orig: 97, 374
+	offset: 0, 0
+	index: -1
+haidai29_wuxianhaidaikapai
+	rotate: false
+	xy: 826, 811
+	size: 162, 48
+	orig: 162, 48
+	offset: 0, 0
+	index: -1
+zui_wuxianhaidaikapai
+	rotate: true
+	xy: 989, 811
+	size: 42, 15
+	orig: 42, 15
+	offset: 0, 0
+	index: -1
+haidai22_wuxianhaidaikapai
+	rotate: false
+	xy: 934, 0
+	size: 70, 222
+	orig: 70, 222
+	offset: 0, 0
+	index: -1
+fa-hou1_wuxianhaidaikapai
+	rotate: false
+	xy: 195, 0
+	size: 231, 431
+	orig: 231, 431
+	offset: 0, 0
+	index: -1
+haidai15_wuxianhaidaikapai
+	rotate: false
+	xy: 612, 124
+	size: 316, 72
+	orig: 316, 72
+	offset: 0, 0
+	index: -1
+haidai14_wuxianhaidaikapai
+	rotate: false
+	xy: 0, 0
+	size: 194, 512
+	orig: 194, 512
+	offset: 0, 0
+	index: -1
+zuoxiaobi_wuxianhaidaikapai#
+	rotate: true
+	xy: 427, 375
+	size: 31, 109
+	orig: 31, 109
+	offset: 0, 0
+	index: -1
+haidai20_wuxianhaidaikapai
+	rotate: true
+	xy: 676, 710
+	size: 45, 184
+	orig: 45, 184
+	offset: 0, 0
+	index: -1
+zuodabi_wuxianhaidaikapai
+	rotate: true
+	xy: 537, 690
+	size: 53, 138
+	orig: 53, 138
+	offset: 0, 0
+	index: -1
+haidai1_wuxianhaidaikapai
+	rotate: false
+	xy: 788, 489
+	size: 147, 103
+	orig: 147, 103
+	offset: 0, 0
+	index: -1
+haidai23_wuxianhaidaikapai
+	rotate: false
+	xy: 655, 810
+	size: 170, 48
+	orig: 170, 48
+	offset: 0, 0
+	index: -1
+haidai16_wuxianhaidaikapai
+	rotate: true
+	xy: 270, 762
+	size: 97, 218
+	orig: 97, 218
+	offset: 0, 0
+	index: -1
+yanpi_wuxianhaidaikapai
+	rotate: true
+	xy: 983, 437
+	size: 29, 21
+	orig: 29, 21
+	offset: 0, 0
+	index: -1
+youdatui_wuxianhaidaikapai
+	rotate: false
+	xy: 942, 581
+	size: 55, 172
+	orig: 55, 172
+	offset: 0, 0
+	index: -1
+zuoshou_wuxianhaidaikapai
+	rotate: true
+	xy: 469, 407
+	size: 35, 67
+	orig: 35, 67
+	offset: 0, 0
+	index: -1
+haidai18_wuxianhaidaikapai
+	rotate: false
+	xy: 537, 450
+	size: 63, 239
+	orig: 63, 239
+	offset: 0, 0
+	index: -1
+haidai4_wuxianhaidaikapai
+	rotate: false
+	xy: 612, 0
+	size: 321, 123
+	orig: 321, 123
+	offset: 0, 0
+	index: -1
+haidai17_wuxianhaidaikapai
+	rotate: true
+	xy: 612, 326
+	size: 55, 323
+	orig: 55, 323
+	offset: 0, 0
+	index: -1
+haidai13_wuxianhaidaikapai
+	rotate: false
+	xy: 464, 507
+	size: 72, 229
+	orig: 72, 229
+	offset: 0, 0
+	index: -1
+haidai6_wuxianhaidaikapai
+	rotate: true
+	xy: 537, 382
+	size: 67, 258
+	orig: 67, 258
+	offset: 0, 0
+	index: -1
+haidai3_wuxianhaidaikapai
+	rotate: true
+	xy: 270, 507
+	size: 254, 89
+	orig: 254, 89
+	offset: 0, 0
+	index: -1
+haidai30_wuxianhaidaikapai
+	rotate: true
+	xy: 840, 756
+	size: 54, 150
+	orig: 54, 150
+	offset: 0, 0
+	index: -1
+haidai21_wuxianhaidaikapai
+	rotate: false
+	xy: 210, 507
+	size: 59, 300
+	orig: 59, 300
+	offset: 0, 0
+	index: -1
+haidai28_wuxianhaidaikapai
+	rotate: false
+	xy: 676, 450
+	size: 111, 171
+	orig: 111, 171
+	offset: 0, 0
+	index: -1
+haidai9_wuxianhaidaikapai
+	rotate: true
+	xy: 612, 197
+	size: 60, 301
+	orig: 60, 301
+	offset: 0, 0
+	index: -1
+youjiao_wuxianhaidaikapai
+	rotate: true
+	xy: 210, 808
+	size: 48, 59
+	orig: 48, 59
+	offset: 0, 0
+	index: -1
+yanpi2_wuxianhaidaikapai
+	rotate: false
+	xy: 360, 735
+	size: 27, 17
+	orig: 27, 17
+	offset: 0, 0
+	index: -1
+tou_wuxianhaidaikapai
+	rotate: false
+	xy: 936, 489
+	size: 66, 91
+	orig: 66, 91
+	offset: 0, 0
+	index: -1
+youxiaotui_wuxianhaidaikapai
+	rotate: true
+	xy: 489, 825
+	size: 32, 139
+	orig: 32, 139
+	offset: 0, 0
+	index: -1
+haidai10_wuxianhaidaikapai
+	rotate: true
+	xy: 0, 513
+	size: 322, 135
+	orig: 322, 135
+	offset: 0, 0
+	index: -1
+haidai19_wuxianhaidaikapai
+	rotate: false
+	xy: 676, 661
+	size: 236, 48
+	orig: 236, 48
+	offset: 0, 0
+	index: -1
+haidai26_wuxianhaidaikapai
+	rotate: true
+	xy: 195, 432
+	size: 74, 273
+	orig: 74, 273
+	offset: 0, 0
+	index: -1
+zuodatui_wuxianhaidaikapai
+	rotate: true
+	xy: 655, 756
+	size: 53, 184
+	orig: 53, 184
+	offset: 0, 0
+	index: -1
+haidai7_wuxianhaidaikapai
+	rotate: true
+	xy: 601, 450
+	size: 217, 74
+	orig: 217, 74
+	offset: 0, 0
+	index: -1
+haidai5_wuxianhaidaikapai
+	rotate: true
+	xy: 136, 513
+	size: 335, 73
+	orig: 335, 73
+	offset: 0, 0
+	index: -1
+haidai2_wuxianhaidaikapai
+	rotate: false
+	xy: 525, 0
+	size: 86, 360
+	orig: 86, 360
+	offset: 0, 0
+	index: -1
+zuoxiaotui_wuxianhaidaikapai
+	rotate: false
+	xy: 963, 223
+	size: 35, 156
+	orig: 35, 156
+	offset: 0, 0
+	index: -1
+haidai25_wuxianhaidaikapai
+	rotate: true
+	xy: 796, 382
+	size: 54, 208
+	orig: 54, 208
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,138 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+
+asset/anim/hongzhawurenjiA0.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_wurenjiAhz
+	rotate: false
+	xy: 242, 15
+	size: 14, 14
+	orig: 14, 14
+	offset: 0, 0
+	index: -1
+A_luoxuanjiang4_wurenjiAhz
+	rotate: false
+	xy: 172, 43
+	size: 13, 10
+	orig: 13, 10
+	offset: 0, 0
+	index: -1
+A_luoxuanjiang1_wurenjiAhz
+	rotate: false
+	xy: 242, 53
+	size: 13, 10
+	orig: 13, 10
+	offset: 0, 0
+	index: -1
+A_luoxuanjiang6_wurenjilanAhz
+	rotate: false
+	xy: 183, 60
+	size: 45, 31
+	orig: 45, 31
+	offset: 0, 0
+	index: -1
+11_wurenjiAhz
+	rotate: true
+	xy: 242, 30
+	size: 12, 14
+	orig: 12, 14
+	offset: 0, 0
+	index: -1
+zhadan_wurenjiAhz
+	rotate: false
+	xy: 188, 21
+	size: 53, 19
+	orig: 53, 19
+	offset: 0, 0
+	index: -1
+zhutilan_wurenjiAhz
+	rotate: false
+	xy: 97, 0
+	size: 90, 42
+	orig: 90, 42
+	offset: 0, 0
+	index: -1
+A_luoxuanjiang2_wurenjiAhz
+	rotate: false
+	xy: 182, 92
+	size: 35, 7
+	orig: 35, 7
+	offset: 0, 0
+	index: -1
+gd_wurenjiAhz
+	rotate: false
+	xy: 0, 0
+	size: 96, 72
+	orig: 100, 76
+	offset: 3, 1
+	index: -1
+1_wurenjiAhz
+	rotate: true
+	xy: 242, 43
+	size: 9, 14
+	orig: 9, 14
+	offset: 0, 0
+	index: -1
+A_luoxuanjiang5_wurenjiAhz
+	rotate: true
+	xy: 172, 78
+	size: 32, 9
+	orig: 32, 9
+	offset: 0, 0
+	index: -1
+00_wurenjiAhz
+	rotate: false
+	xy: 242, 0
+	size: 14, 14
+	orig: 14, 14
+	offset: 0, 0
+	index: -1
+youyilan_wurenjiAhz
+	rotate: true
+	xy: 229, 64
+	size: 38, 22
+	orig: 38, 22
+	offset: 0, 0
+	index: -1
+A_luoxuanjiang3_wurenjiAhz
+	rotate: true
+	xy: 172, 54
+	size: 23, 10
+	orig: 23, 10
+	offset: 0, 0
+	index: -1
+jiazilan_wurenjiAhz
+	rotate: false
+	xy: 188, 41
+	size: 53, 18
+	orig: 53, 18
+	offset: 0, 0
+	index: -1
+danyao2_wurenjiAhz
+	rotate: false
+	xy: 188, 0
+	size: 53, 20
+	orig: 53, 20
+	offset: 0, 0
+	index: -1
+dancanglan_wurenjiAhz
+	rotate: false
+	xy: 97, 43
+	size: 74, 49
+	orig: 74, 49
+	offset: 0, 0
+	index: -1

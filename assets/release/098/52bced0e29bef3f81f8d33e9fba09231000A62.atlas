@@ -1,0 +1,160 @@
+
+asset/anim/beixinsushipaikapai.png
+size: 564,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_eyebrow_beixinsushipaikp
+	rotate: true
+	xy: 545, 108
+	size: 62, 15
+	orig: 62, 15
+	offset: 0, 0
+	index: -1
+a_Lforearm_beixinsushipaikp
+	rotate: false
+	xy: 242, 440
+	size: 126, 70
+	orig: 126, 70
+	offset: 0, 0
+	index: -1
+a_Lshank_beixinsushipaikp
+	rotate: true
+	xy: 0, 324
+	size: 86, 242
+	orig: 86, 242
+	offset: 0, 0
+	index: -1
+a_Lfinger2_beixinsushipaikp
+	rotate: true
+	xy: 508, 358
+	size: 58, 42
+	orig: 58, 42
+	offset: 0, 0
+	index: -1
+a_Lfoot_beixinsushipaikp
+	rotate: false
+	xy: 380, 273
+	size: 143, 84
+	orig: 143, 84
+	offset: 0, 0
+	index: -1
+a_Rthigh_beixinsushipaikp
+	rotate: false
+	xy: 197, 0
+	size: 130, 233
+	orig: 130, 233
+	offset: 0, 0
+	index: -1
+a_head_beixinsushipaikp
+	rotate: true
+	xy: 378, 358
+	size: 96, 129
+	orig: 96, 129
+	offset: 0, 0
+	index: -1
+a_Larm_beixinsushipaikp
+	rotate: true
+	xy: 243, 323
+	size: 116, 134
+	orig: 116, 134
+	offset: 0, 0
+	index: -1
+a_closeeyes1_beixinsushipaikp
+	rotate: true
+	xy: 524, 273
+	size: 56, 11
+	orig: 56, 11
+	offset: 0, 0
+	index: -1
+a_body_beixinsushipaikp
+	rotate: false
+	xy: 0, 0
+	size: 196, 323
+	orig: 196, 323
+	offset: 0, 0
+	index: -1
+a_coxa_beixinsushipaikp
+	rotate: false
+	xy: 197, 234
+	size: 182, 88
+	orig: 182, 88
+	offset: 0, 0
+	index: -1
+a_Lfinger1_beixinsushipaikp
+	rotate: true
+	xy: 482, 455
+	size: 52, 50
+	orig: 52, 50
+	offset: 0, 0
+	index: -1
+a_Rshank_beixinsushipaikp
+	rotate: true
+	xy: 328, 0
+	size: 107, 236
+	orig: 107, 236
+	offset: 0, 0
+	index: -1
+a_Rhand_beixinsushipaikp
+	rotate: false
+	xy: 369, 455
+	size: 112, 52
+	orig: 112, 52
+	offset: 0, 0
+	index: -1
+a_closeeyes_beixinsushipaikp
+	rotate: true
+	xy: 536, 273
+	size: 56, 10
+	orig: 56, 10
+	offset: 0, 0
+	index: -1
+a_Rfoot_beixinsushipaikp
+	rotate: false
+	xy: 144, 411
+	size: 97, 100
+	orig: 97, 100
+	offset: 0, 0
+	index: -1
+a_Lfinger3_beixinsushipaikp
+	rotate: false
+	xy: 508, 417
+	size: 36, 29
+	orig: 36, 29
+	offset: 0, 0
+	index: -1
+a_Lthigh_beixinsushipaikp
+	rotate: true
+	xy: 328, 108
+	size: 89, 216
+	orig: 89, 216
+	offset: 0, 0
+	index: -1
+a_Lfinger4_beixinsushipaikp
+	rotate: false
+	xy: 524, 330
+	size: 33, 25
+	orig: 33, 25
+	offset: 0, 0
+	index: -1
+a_Lhand_beixinsushipaikp
+	rotate: true
+	xy: 328, 198
+	size: 35, 42
+	orig: 35, 42
+	offset: 0, 0
+	index: -1
+a_Rarm_beixinsushipaikp
+	rotate: true
+	xy: 0, 411
+	size: 101, 143
+	orig: 101, 143
+	offset: 0, 0
+	index: -1
+a_Rforearm_beixinsushipaikp
+	rotate: false
+	xy: 380, 198
+	size: 162, 74
+	orig: 162, 74
+	offset: 0, 0
+	index: -1

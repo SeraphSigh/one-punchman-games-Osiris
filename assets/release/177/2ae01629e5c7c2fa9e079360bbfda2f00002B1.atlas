@@ -1,0 +1,41 @@
+
+asset/anim/zhushijuehaibao60.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yun2_zhushijuehaibao6
+	rotate: true
+	xy: 1935, 862
+	size: 315, 84
+	orig: 315, 84
+	offset: 0, 0
+	index: -1
+tiankong_zhushijuehaibao6
+	rotate: false
+	xy: 0, 922
+	size: 1438, 681
+	orig: 1438, 681
+	offset: 0, 0
+	index: -1
+yun1_zhushijuehaibao6
+	rotate: false
+	xy: 1439, 1504
+	size: 414, 374
+	orig: 414, 374
+	offset: 0, 0
+	index: -1
+yun_zhushijuehaibao6
+	rotate: true
+	xy: 1439, 0
+	size: 861, 526
+	orig: 861, 526
+	offset: 0, 0
+	index: -1
+feichuan_zhushijuehaibao6
+	rotate: true
+	xy: 1323, 1604
+	size: 112, 107
+	orig: 112, 107
+	offset: 0, 0
+	index: -1

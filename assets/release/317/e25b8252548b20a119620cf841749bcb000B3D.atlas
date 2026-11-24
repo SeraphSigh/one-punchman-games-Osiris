@@ -1,0 +1,154 @@
+
+asset/anim/shanguangfulaishi2SEMAX3.png
+size: 1024,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shanguangfulaishi2_m_smoke2_1_076
+	rotate: true
+	xy: 819, 498
+	size: 128, 84
+	orig: 312, 144
+	offset: 84, 8
+	index: -1
+max/shanguangfulaishi2_m_smoke2_1_080
+	rotate: true
+	xy: 904, 406
+	size: 298, 120
+	orig: 312, 144
+	offset: 7, 10
+	index: -1
+
+asset/anim/shanguangfulaishi2SEMAX1.png
+size: 1024,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shanguangfulaishi2_m_smoke2_1_088
+	rotate: false
+	xy: 752, 837
+	size: 262, 124
+	orig: 312, 144
+	offset: 26, 9
+	index: -1
+max/shanguangfulaishi2_m_smoke2_1_087
+	rotate: false
+	xy: 752, 710
+	size: 272, 126
+	orig: 312, 144
+	offset: 20, 8
+	index: -1
+max/shanguangfulaishi2_m_smoke2_1_085
+	rotate: true
+	xy: 619, 710
+	size: 312, 132
+	orig: 312, 144
+	offset: 0, 5
+	index: -1
+max/shanguangfulaishi2_m_smoke2_1_078
+	rotate: true
+	xy: 835, 273
+	size: 288, 116
+	orig: 312, 144
+	offset: 12, 12
+	index: -1
+
+asset/anim/shanguangfulaishi2SEMAX6.png
+size: 1022,960
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shanguangfulaishi2_m_smoke2_1_077
+	rotate: false
+	xy: 474, 828
+	size: 278, 102
+	orig: 312, 144
+	offset: 16, 12
+	index: -1
+
+asset/anim/shanguangfulaishi2SEMAX7.png
+size: 256,591
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shanguangfulaishi2_m_guangzhu_000
+	rotate: false
+	xy: 0, 121
+	size: 255, 96
+	orig: 263, 104
+	offset: 4, 8
+	index: -1
+max/shanguangfulaishi2_m_smoke2_1_089
+	rotate: false
+	xy: 0, 0
+	size: 256, 120
+	orig: 312, 144
+	offset: 28, 11
+	index: -1
+
+asset/anim/shanguangfulaishi2SEMAX4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shanguangfulaishi2_m_smoke2_1_083
+	rotate: true
+	xy: 896, 635
+	size: 304, 128
+	orig: 312, 144
+	offset: 4, 7
+	index: -1
+max/shanguangfulaishi2_m_smoke2_1_081
+	rotate: true
+	xy: 902, 0
+	size: 302, 122
+	orig: 312, 144
+	offset: 5, 9
+	index: -1
+
+asset/anim/shanguangfulaishi2SEMAX5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shanguangfulaishi2_m_smoke2_1_086
+	rotate: true
+	xy: 0, 714
+	size: 302, 128
+	orig: 312, 144
+	offset: 5, 7
+	index: -1
+max/shanguangfulaishi2_m_smoke2_1_084
+	rotate: false
+	xy: 568, 262
+	size: 308, 130
+	orig: 312, 144
+	offset: 2, 6
+	index: -1
+max/shanguangfulaishi2_m_smoke2_1_082
+	rotate: false
+	xy: 568, 393
+	size: 306, 126
+	orig: 312, 144
+	offset: 3, 8
+	index: -1
+max/shanguangfulaishi2_m_smoke2_1_079
+	rotate: true
+	xy: 129, 714
+	size: 296, 120
+	orig: 312, 144
+	offset: 8, 11
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

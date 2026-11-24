@@ -1,0 +1,195 @@
+
+asset/anim/bengpukapai.png
+size: 580,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_shenti_bengpukapai
+	rotate: false
+	xy: 0, 542
+	size: 173, 209
+	orig: 173, 209
+	offset: 0, 0
+	index: -1
+a_zuoshou_bengpukapai
+	rotate: false
+	xy: 273, 937
+	size: 90, 70
+	orig: 90, 70
+	offset: 0, 0
+	index: -1
+a_yifu1_bengpukapai
+	rotate: false
+	xy: 482, 967
+	size: 90, 51
+	orig: 90, 51
+	offset: 0, 0
+	index: -1
+a_youxiaobi_bengpukapai
+	rotate: true
+	xy: 0, 956
+	size: 64, 138
+	orig: 64, 138
+	offset: 0, 0
+	index: -1
+a_yaodai_bengpukapai
+	rotate: false
+	xy: 174, 727
+	size: 145, 76
+	orig: 145, 76
+	offset: 0, 0
+	index: -1
+a_zuoxiuzi_bengpukapai
+	rotate: false
+	xy: 451, 235
+	size: 128, 155
+	orig: 128, 155
+	offset: 0, 0
+	index: -1
+a_youshou_bengpukapai
+	rotate: false
+	xy: 498, 850
+	size: 77, 116
+	orig: 77, 116
+	offset: 0, 0
+	index: -1
+a_zuoxiuzi2_bengpukapai
+	rotate: false
+	xy: 170, 804
+	size: 109, 124
+	orig: 109, 124
+	offset: 0, 0
+	index: -1
+a_huzi_bengpukapai
+	rotate: false
+	xy: 0, 0
+	size: 242, 283
+	orig: 242, 283
+	offset: 0, 0
+	index: -1
+a_yifu2_bengpukapai
+	rotate: true
+	xy: 458, 0
+	size: 234, 121
+	orig: 234, 121
+	offset: 0, 0
+	index: -1
+a_youxiaotui_bengpukapai
+	rotate: false
+	xy: 459, 391
+	size: 121, 172
+	orig: 121, 172
+	offset: 0, 0
+	index: -1
+a_toufa4_bengpukapai
+	rotate: false
+	xy: 0, 752
+	size: 169, 203
+	orig: 169, 203
+	offset: 0, 0
+	index: -1
+a_toufa3_bengpukapai
+	rotate: false
+	xy: 174, 560
+	size: 195, 166
+	orig: 195, 166
+	offset: 0, 0
+	index: -1
+a_toufa5_bengpukapai
+	rotate: false
+	xy: 370, 560
+	size: 88, 159
+	orig: 88, 159
+	offset: 0, 0
+	index: -1
+a_youdabi_bengpukapai
+	rotate: true
+	xy: 243, 405
+	size: 154, 215
+	orig: 154, 215
+	offset: 0, 0
+	index: -1
+a_youdatui_bengpukapai
+	rotate: false
+	xy: 243, 0
+	size: 214, 231
+	orig: 214, 231
+	offset: 0, 0
+	index: -1
+a_youbiyan_bengpukapai
+	rotate: false
+	xy: 320, 727
+	size: 25, 11
+	orig: 25, 11
+	offset: 0, 0
+	index: -1
+a_tou_bengpukapai
+	rotate: false
+	xy: 280, 804
+	size: 95, 132
+	orig: 95, 132
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi_bengpukapai
+	rotate: false
+	xy: 364, 961
+	size: 117, 53
+	orig: 117, 53
+	offset: 0, 0
+	index: -1
+a_zuodabi_bengpukapai
+	rotate: false
+	xy: 459, 564
+	size: 92, 153
+	orig: 92, 153
+	offset: 0, 0
+	index: -1
+a_toufa1_bengpukapai
+	rotate: true
+	xy: 170, 929
+	size: 67, 102
+	orig: 67, 102
+	offset: 0, 0
+	index: -1
+a_zuodatui_bengpukapai
+	rotate: false
+	xy: 243, 232
+	size: 207, 172
+	orig: 207, 172
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui_bengpukapai
+	rotate: false
+	xy: 376, 720
+	size: 101, 131
+	orig: 101, 131
+	offset: 0, 0
+	index: -1
+a_zuojiao_bengpukapai
+	rotate: false
+	xy: 376, 852
+	size: 121, 108
+	orig: 121, 108
+	offset: 0, 0
+	index: -1
+a_toufa2_bengpukapai
+	rotate: false
+	xy: 0, 284
+	size: 242, 257
+	orig: 242, 257
+	offset: 0, 0
+	index: -1
+a_zuobiyan_bengpukapai
+	rotate: false
+	xy: 174, 542
+	size: 25, 12
+	orig: 27, 14
+	offset: 1, 1
+	index: -1
+a_youjiao_bengpukapai
+	rotate: false
+	xy: 478, 718
+	size: 79, 131
+	orig: 79, 131
+	offset: 0, 0
+	index: -1

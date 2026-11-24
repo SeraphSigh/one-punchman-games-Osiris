@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>dianhu5_zhuanpanchoujiangdiyiqiimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{26,-23}</string>
+                <key>spriteSize</key>
+                <string>{175,144}</string>
+                <key>spriteSourceSize</key>
+                <string>{255,212}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{175,144}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>zhuanpanchoujiangdiyiqiimage1.png</string>
+            <key>size</key>
+            <string>{175,144}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:eadc40a0cb30adbd831f4966b5e187d5:0b16e2e5cb1fde86814b46fd12ef4843:f2f7b8bc74acfc0b7b2d1ab230a81214$</string>
+            <key>textureFileName</key>
+            <string>zhuanpanchoujiangdiyiqiimage1.png</string>
+        </dict>
+    </dict>
+</plist>

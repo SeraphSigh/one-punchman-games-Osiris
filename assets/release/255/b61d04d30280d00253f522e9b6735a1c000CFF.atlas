@@ -1,0 +1,213 @@
+
+asset/anim/qiyuSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plotqitiao4_qiyutx
+	rotate: true
+	xy: 777, 513
+	size: 30, 34
+	orig: 54, 56
+	offset: 9, 3
+	index: -1
+plotqitiao9_qiyutx
+	rotate: true
+	xy: 777, 326
+	size: 42, 34
+	orig: 54, 56
+	offset: 0, 10
+	index: -1
+plotqitiao2_qiyutx
+	rotate: true
+	xy: 777, 544
+	size: 28, 34
+	orig: 54, 56
+	offset: 13, 1
+	index: -1
+plotqitiao3_qiyutx
+	rotate: true
+	xy: 777, 573
+	size: 28, 34
+	orig: 54, 56
+	offset: 12, 2
+	index: -1
+plotqitiao7_qiyutx
+	rotate: true
+	xy: 777, 369
+	size: 38, 34
+	orig: 54, 56
+	offset: 1, 7
+	index: -1
+plotqitiao17_qiyutx
+	rotate: false
+	xy: 778, 199
+	size: 32, 46
+	orig: 54, 56
+	offset: 9, 9
+	index: -1
+plotqitiao22_qiyutx
+	rotate: true
+	xy: 984, 994
+	size: 30, 38
+	orig: 54, 56
+	offset: 21, 8
+	index: -1
+plotqitiao18_qiyutx
+	rotate: true
+	xy: 935, 994
+	size: 30, 48
+	orig: 54, 56
+	offset: 9, 8
+	index: -1
+plotqitiao16_qiyutx
+	rotate: false
+	xy: 777, 281
+	size: 34, 44
+	orig: 54, 56
+	offset: 8, 10
+	index: -1
+plotqitiao23_qiyutx
+	rotate: false
+	xy: 777, 408
+	size: 34, 34
+	orig: 54, 56
+	offset: 20, 9
+	index: -1
+plotqitiao6_qiyutx
+	rotate: false
+	xy: 777, 478
+	size: 34, 34
+	orig: 54, 56
+	offset: 4, 6
+	index: -1
+plotqitiao25_qiyutx
+	rotate: false
+	xy: 778, 246
+	size: 32, 34
+	orig: 54, 56
+	offset: 22, 10
+	index: -1
+plotqitiao24_qiyutx
+	rotate: false
+	xy: 777, 443
+	size: 34, 34
+	orig: 54, 56
+	offset: 20, 10
+	index: -1
+
+asset/anim/qiyuSE1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiyuxiaotu
+	rotate: false
+	xy: 283, 736
+	size: 20, 24
+	orig: 24, 26
+	offset: 1, 1
+	index: -1
+plotqitiao13_qiyutx
+	rotate: false
+	xy: 602, 982
+	size: 44, 42
+	orig: 54, 56
+	offset: 1, 10
+	index: -1
+plotqitiao19_qiyutx
+	rotate: true
+	xy: 911, 972
+	size: 30, 48
+	orig: 54, 56
+	offset: 9, 8
+	index: -1
+
+asset/anim/qiyuSE2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plotqitiao10_qiyutx
+	rotate: false
+	xy: 117, 529
+	size: 44, 36
+	orig: 54, 56
+	offset: 0, 10
+	index: -1
+plotqitiao0_qiyutx
+	rotate: false
+	xy: 187, 812
+	size: 26, 32
+	orig: 54, 56
+	offset: 16, 0
+	index: -1
+plotqitiao12_qiyutx
+	rotate: false
+	xy: 251, 241
+	size: 44, 40
+	orig: 54, 56
+	offset: 1, 10
+	index: -1
+plotqitiao5_qiyutx
+	rotate: false
+	xy: 474, 844
+	size: 30, 36
+	orig: 54, 56
+	offset: 8, 4
+	index: -1
+plotqitiao11_qiyutx
+	rotate: false
+	xy: 254, 803
+	size: 46, 38
+	orig: 54, 56
+	offset: 0, 10
+	index: -1
+plotqitiao8_qiyutx
+	rotate: false
+	xy: 162, 529
+	size: 40, 36
+	orig: 54, 56
+	offset: 0, 8
+	index: -1
+plotqitiao15_qiyutx
+	rotate: true
+	xy: 301, 803
+	size: 38, 44
+	orig: 54, 56
+	offset: 5, 10
+	index: -1
+plotqitiao14_qiyutx
+	rotate: true
+	xy: 296, 241
+	size: 40, 42
+	orig: 54, 56
+	offset: 4, 10
+	index: -1
+plotqitiao21_qiyutx
+	rotate: false
+	xy: 636, 236
+	size: 28, 36
+	orig: 54, 56
+	offset: 10, 10
+	index: -1
+
+asset/anim/qiyuSE3.png
+size: 1022,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plotqitiao1_qiyutx
+	rotate: false
+	xy: 649, 159
+	size: 26, 34
+	orig: 54, 56
+	offset: 15, 0
+	index: -1
+plotqitiao20_qiyutx
+	rotate: false
+	xy: 845, 222
+	size: 28, 48
+	orig: 54, 56
+	offset: 10, 8
+	index: -1

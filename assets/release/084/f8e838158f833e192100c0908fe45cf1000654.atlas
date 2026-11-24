@@ -1,0 +1,111 @@
+
+asset/anim/nianshouhuizhang.png
+size: 128,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sheng
+	rotate: false
+	xy: 78, 105
+	size: 23, 28
+	orig: 23, 28
+	offset: 0, 0
+	index: -1
+baozhu4
+	rotate: false
+	xy: 80, 39
+	size: 10, 20
+	orig: 40, 40
+	offset: 16, 2
+	index: -1
+baozhu5
+	rotate: true
+	xy: 80, 60
+	size: 20, 10
+	orig: 40, 40
+	offset: 6, 25
+	index: -1
+baozhawanzi20007
+	rotate: true
+	xy: 39, 74
+	size: 30, 32
+	orig: 58, 60
+	offset: 16, 12
+	index: -1
+baozhu2
+	rotate: true
+	xy: 102, 105
+	size: 14, 20
+	orig: 40, 40
+	offset: 21, 9
+	index: -1
+baozhu3
+	rotate: true
+	xy: 72, 81
+	size: 20, 16
+	orig: 40, 40
+	offset: 2, 12
+	index: -1
+baozhawanzi20005
+	rotate: true
+	xy: 39, 105
+	size: 34, 38
+	orig: 58, 60
+	offset: 12, 11
+	index: -1
+baozhawanzi_00000
+	rotate: false
+	xy: 0, 74
+	size: 38, 30
+	orig: 52, 38
+	offset: 11, 6
+	index: -1
+baozhawanzi20001
+	rotate: true
+	xy: 92, 35
+	size: 34, 36
+	orig: 58, 60
+	offset: 13, 13
+	index: -1
+baozhawanzi_00004
+	rotate: false
+	xy: 92, 0
+	size: 36, 34
+	orig: 52, 38
+	offset: 10, 4
+	index: -1
+baozhawanzi20003
+	rotate: true
+	xy: 91, 70
+	size: 34, 36
+	orig: 58, 60
+	offset: 13, 13
+	index: -1
+baozhawanzi_00002
+	rotate: false
+	xy: 41, 39
+	size: 38, 34
+	orig: 52, 38
+	offset: 8, 2
+	index: -1
+baozhawanzi_00003
+	rotate: false
+	xy: 0, 0
+	size: 46, 32
+	orig: 52, 38
+	offset: 3, 4
+	index: -1
+baozhudi
+	rotate: false
+	xy: 0, 33
+	size: 40, 40
+	orig: 40, 40
+	offset: 0, 0
+	index: -1
+baozhawanzi_00001
+	rotate: false
+	xy: 47, 0
+	size: 44, 38
+	orig: 52, 38
+	offset: 8, 0
+	index: -1

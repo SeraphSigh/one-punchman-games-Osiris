@@ -1,0 +1,20 @@
+
+asset/anim/xinchundaolancerukouimage0.png
+size: 32,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xinchundaolancerukou_1
+	rotate: true
+	xy: 0, 13
+	size: 19, 31
+	orig: 19, 31
+	offset: 0, 0
+	index: -1
+xinchundaolancerukou_2
+	rotate: false
+	xy: 0, 0
+	size: 32, 12
+	orig: 32, 12
+	offset: 0, 0
+	index: -1

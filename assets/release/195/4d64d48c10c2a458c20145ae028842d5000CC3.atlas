@@ -1,0 +1,177 @@
+
+asset/anim/suonike2SECOMMON4.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/snk2_common_yanqianceng_00018
+	rotate: false
+	xy: 0, 104
+	size: 191, 133
+	orig: 203, 143
+	offset: 7, 8
+	index: -1
+common/snk2_common_yanqianceng_00024
+	rotate: false
+	xy: 0, 0
+	size: 193, 103
+	orig: 203, 143
+	offset: 7, 10
+	index: -1
+
+asset/anim/suonike2SECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/snk2_common_yanqianceng_00021
+	rotate: false
+	xy: 674, 804
+	size: 193, 133
+	orig: 203, 143
+	offset: 6, 10
+	index: -1
+common/snk2_common_yanqianceng_00013
+	rotate: false
+	xy: 872, 0
+	size: 139, 89
+	orig: 203, 143
+	offset: 5, 17
+	index: -1
+common/snk2_common_xiaoshiyanwu_00027
+	rotate: false
+	xy: 273, 396
+	size: 162, 156
+	orig: 214, 214
+	offset: 22, 28
+	index: -1
+common/snk2_common_yanqianceng_00017
+	rotate: true
+	xy: 272, 553
+	size: 191, 123
+	orig: 203, 143
+	offset: 6, 3
+	index: -1
+common/snk2_common_yanqianceng_00025
+	rotate: true
+	xy: 396, 553
+	size: 135, 39
+	orig: 203, 143
+	offset: 17, 72
+	index: -1
+common/snk2_common_xiaoshiyanwu_00028
+	rotate: false
+	xy: 868, 892
+	size: 136, 122
+	orig: 214, 214
+	offset: 39, 43
+	index: -1
+common/snk2_common_xiaoshiyanwu_00029
+	rotate: true
+	xy: 0, 396
+	size: 156, 96
+	orig: 214, 214
+	offset: 29, 51
+	index: -1
+common/snk2_common_yanqianceng_00020
+	rotate: true
+	xy: 872, 284
+	size: 193, 137
+	orig: 203, 143
+	offset: 6, 6
+	index: -1
+common/snk2_common_yanqianceng_00019
+	rotate: true
+	xy: 872, 90
+	size: 193, 137
+	orig: 203, 143
+	offset: 6, 6
+	index: -1
+
+asset/anim/suonike2SECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/snk2_common_xiaoshiyanwu_00033
+	rotate: false
+	xy: 946, 683
+	size: 46, 46
+	orig: 214, 214
+	offset: 82, 62
+	index: -1
+common/snk2_common_xiaoshiyanwu_00032
+	rotate: true
+	xy: 891, 683
+	size: 56, 54
+	orig: 214, 214
+	offset: 77, 59
+	index: -1
+common/snk2_common_xiaoshiyanwu_00031
+	rotate: true
+	xy: 891, 683
+	size: 56, 54
+	orig: 214, 214
+	offset: 77, 59
+	index: -1
+
+asset/anim/suonike2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/snk2_common_xiaoshiyanwu_00030
+	rotate: false
+	xy: 722, 536
+	size: 176, 108
+	orig: 214, 214
+	offset: 19, 43
+	index: -1
+common/snk2_common_yanqianceng_00023
+	rotate: true
+	xy: 598, 536
+	size: 193, 103
+	orig: 203, 143
+	offset: 7, 10
+	index: -1
+common/snk2_common_xiaoshiyanwu_00026
+	rotate: false
+	xy: 399, 511
+	size: 198, 190
+	orig: 214, 214
+	offset: 4, 13
+	index: -1
+common/snk2_common_yanqianceng_00016
+	rotate: false
+	xy: 0, 612
+	size: 191, 119
+	orig: 203, 143
+	offset: 5, 2
+	index: -1
+common/snk2_common_yanqianceng_00015
+	rotate: true
+	xy: 897, 739
+	size: 191, 111
+	orig: 203, 143
+	offset: 4, 4
+	index: -1
+common/snk2_common_yanqianceng_00014
+	rotate: false
+	xy: 722, 755
+	size: 171, 103
+	orig: 203, 143
+	offset: 3, 14
+	index: -1
+
+asset/anim/suonike2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/snk2_common_yanqianceng_00022
+	rotate: true
+	xy: 592, 316
+	size: 193, 133
+	orig: 203, 143
+	offset: 7, 10
+	index: -1

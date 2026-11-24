@@ -1,0 +1,237 @@
+
+asset/anim/longjuan2SESKILL1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/lj2_skill_guangshutiao_00000
+	rotate: false
+	xy: 647, 365
+	size: 182, 81
+	orig: 190, 101
+	offset: 0, 11
+	index: -1
+skill/lj2_xiaoguangguang
+	rotate: false
+	xy: 380, 255
+	size: 71, 52
+	orig: 71, 52
+	offset: 0, 0
+	index: -1
+
+asset/anim/longjuan2SESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/lj2_skill_shanhei0004
+	rotate: false
+	xy: 545, 322
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/lj2_skill_shanhei0001
+	rotate: true
+	xy: 0, 544
+	size: 278, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/lj2_skill_shanhei0002
+	rotate: false
+	xy: 545, 0
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/lj2_skill_shanhei0003
+	rotate: false
+	xy: 545, 161
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/lj2_skill_yangshipingtaiguang_00104
+	rotate: false
+	xy: 0, 0
+	size: 544, 467
+	orig: 544, 475
+	offset: 0, 0
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/longjuan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/lj2_skill_bg1_00115
+	rotate: false
+	xy: 0, 0
+	size: 506, 285
+	orig: 506, 285
+	offset: 0, 0
+	index: -1
+common/lj2_skill_qiu_00000
+	rotate: false
+	xy: 507, 0
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1
+common/lj2_skill_qiu_00003
+	rotate: false
+	xy: 0, 286
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1
+
+asset/anim/longjuan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/lj2_skill_suishi0011
+	rotate: true
+	xy: 888, 192
+	size: 118, 133
+	orig: 118, 133
+	offset: 0, 0
+	index: -1
+common/lj2_skill_qiu_00009
+	rotate: false
+	xy: 444, 0
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1
+common/lj2_skill_qiu_00012
+	rotate: true
+	xy: 0, 549
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1
+common/lj2_skill_qiu_00006
+	rotate: false
+	xy: 0, 0
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1
+common/lj2_skill_qiu_00015
+	rotate: true
+	xy: 470, 418
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1
+
+asset/anim/longjuan2SECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/longjuan2skillext_shitou2
+	rotate: true
+	xy: 986, 300
+	size: 56, 36
+	orig: 56, 36
+	offset: 0, 0
+	index: -1
+common/longjuan2skillext_shitou1
+	rotate: false
+	xy: 971, 671
+	size: 50, 45
+	orig: 50, 45
+	offset: 0, 0
+	index: -1
+common/lj2_skill_yangshipingtai
+	rotate: true
+	xy: 757, 140
+	size: 303, 228
+	orig: 303, 228
+	offset: 0, 0
+	index: -1
+common/lj2_skill_quanjv_00000
+	rotate: false
+	xy: 757, 444
+	size: 228, 226
+	orig: 228, 228
+	offset: 0, 1
+	index: -1
+common/lj2_skill_shitoulizi_00006
+	rotate: false
+	xy: 971, 717
+	size: 48, 67
+	orig: 48, 67
+	offset: 0, 0
+	index: -1
+common/lj2_skill_suishi0001
+	rotate: true
+	xy: 971, 785
+	size: 57, 48
+	orig: 57, 48
+	offset: 0, 0
+	index: -1
+
+asset/anim/longjuan2SECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/lj2_skill_jvqizhuangtai_00091
+	rotate: true
+	xy: 741, 619
+	size: 310, 282
+	orig: 310, 282
+	offset: 0, 0
+	index: -1
+
+asset/anim/longjuan2SECOMMON4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/lj2_skill_guangqiu
+	rotate: false
+	xy: 888, 190
+	size: 114, 114
+	orig: 114, 114
+	offset: 0, 0
+	index: -1
+common/lj2_skill_qiu_00021
+	rotate: false
+	xy: 444, 0
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1
+common/lj2_skill_qiu_00018
+	rotate: false
+	xy: 0, 0
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1
+common/lj2_skill_qiu_00024
+	rotate: true
+	xy: 0, 484
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1

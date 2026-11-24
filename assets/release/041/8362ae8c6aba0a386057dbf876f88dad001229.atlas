@@ -1,0 +1,277 @@
+
+asset/anim/geluolibasi2kapai2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duye009_geluolibasi2kapai
+	rotate: false
+	xy: 0, 0
+	size: 514, 260
+	orig: 658, 482
+	offset: 42, 101
+	index: -1
+Rthigh_geluolibasi2kapai
+	rotate: false
+	xy: 0, 856
+	size: 244, 166
+	orig: 244, 166
+	offset: 0, 0
+	index: -1
+Larm1_geluolibasi2kapai
+	rotate: false
+	xy: 0, 397
+	size: 131, 140
+	orig: 131, 140
+	offset: 0, 0
+	index: -1
+Lknee_geluolibasi2kapai
+	rotate: false
+	xy: 141, 592
+	size: 145, 155
+	orig: 145, 155
+	offset: 0, 0
+	index: -1
+duye0010_geluolibasi2kapai
+	rotate: false
+	xy: 515, 0
+	size: 484, 244
+	orig: 658, 482
+	offset: 44, 109
+	index: -1
+Lshin_geluolibasi2kapai
+	rotate: true
+	xy: 790, 245
+	size: 171, 199
+	orig: 171, 199
+	offset: 0, 0
+	index: -1
+suanye2_geluolibasi2kapai
+	rotate: true
+	xy: 515, 245
+	size: 238, 274
+	orig: 238, 274
+	offset: 0, 0
+	index: -1
+Lfoot_geluolibasi2kapai
+	rotate: true
+	xy: 287, 261
+	size: 135, 142
+	orig: 135, 142
+	offset: 0, 0
+	index: -1
+Lhand3_geluolibasi2kapai
+	rotate: false
+	xy: 790, 417
+	size: 185, 174
+	orig: 185, 174
+	offset: 0, 0
+	index: -1
+tail_geluolibasi2kapai
+	rotate: true
+	xy: 0, 592
+	size: 263, 140
+	orig: 263, 140
+	offset: 0, 0
+	index: -1
+
+asset/anim/geluolibasi2kapai1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lthigh_geluolibasi2kapai
+	rotate: true
+	xy: 793, 307
+	size: 182, 222
+	orig: 182, 222
+	offset: 0, 0
+	index: -1
+Lhand2_geluolibasi2kapai
+	rotate: false
+	xy: 308, 924
+	size: 188, 93
+	orig: 188, 93
+	offset: 0, 0
+	index: -1
+suanye1_geluolibasi2kapai
+	rotate: false
+	xy: 613, 914
+	size: 179, 102
+	orig: 179, 102
+	offset: 0, 0
+	index: -1
+head2_geluolibasi2kapai
+	rotate: false
+	xy: 497, 914
+	size: 115, 105
+	orig: 115, 105
+	offset: 0, 0
+	index: -1
+body_geluolibasi2kapai
+	rotate: false
+	xy: 787, 490
+	size: 235, 285
+	orig: 235, 285
+	offset: 0, 0
+	index: -1
+duye005_geluolibasi2kapai
+	rotate: false
+	xy: 0, 0
+	size: 576, 368
+	orig: 658, 482
+	offset: 35, 8
+	index: -1
+neck_geluolibasi2kapai
+	rotate: false
+	xy: 156, 924
+	size: 151, 96
+	orig: 151, 96
+	offset: 0, 0
+	index: -1
+Rhand1_geluolibasi2kapai
+	rotate: false
+	xy: 0, 924
+	size: 155, 96
+	orig: 155, 96
+	offset: 0, 0
+	index: -1
+duye007_geluolibasi2kapai
+	rotate: true
+	xy: 345, 369
+	size: 544, 328
+	orig: 658, 482
+	offset: 40, 37
+	index: -1
+duye006_geluolibasi2kapai
+	rotate: true
+	xy: 0, 369
+	size: 554, 344
+	orig: 658, 482
+	offset: 46, 21
+	index: -1
+Rshin_geluolibasi2kapai
+	rotate: true
+	xy: 674, 307
+	size: 175, 115
+	orig: 175, 115
+	offset: 0, 0
+	index: -1
+guangyun0001_geluolibasi2kapai
+	rotate: false
+	xy: 827, 776
+	size: 197, 198
+	orig: 257, 262
+	offset: 26, 34
+	index: -1
+duye001_geluolibasi2kapai
+	rotate: false
+	xy: 577, 0
+	size: 372, 306
+	orig: 658, 482
+	offset: 240, 40
+	index: -1
+Rhand3_geluolibasi2kapai
+	rotate: true
+	xy: 674, 483
+	size: 130, 112
+	orig: 130, 112
+	offset: 0, 0
+	index: -1
+Larm2_geluolibasi2kapai
+	rotate: false
+	xy: 674, 776
+	size: 152, 137
+	orig: 152, 137
+	offset: 0, 0
+	index: -1
+
+asset/anim/geluolibasi2kapai0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duye004_geluolibasi2kapai
+	rotate: true
+	xy: 627, 0
+	size: 584, 390
+	orig: 658, 482
+	offset: 43, 0
+	index: -1
+Rarm2_geluolibasi2kapai
+	rotate: true
+	xy: 938, 585
+	size: 104, 84
+	orig: 104, 84
+	offset: 0, 0
+	index: -1
+duye003_geluolibasi2kapai
+	rotate: true
+	xy: 0, 419
+	size: 598, 404
+	orig: 658, 482
+	offset: 44, 0
+	index: -1
+Rhand2_geluolibasi2kapai
+	rotate: false
+	xy: 789, 585
+	size: 141, 100
+	orig: 141, 100
+	offset: 0, 0
+	index: -1
+head3_geluolibasi2kapai
+	rotate: true
+	xy: 938, 891
+	size: 92, 75
+	orig: 92, 75
+	offset: 0, 0
+	index: -1
+kua_geluolibasi2kapai
+	rotate: false
+	xy: 405, 419
+	size: 217, 125
+	orig: 217, 125
+	offset: 0, 0
+	index: -1
+duye002_geluolibasi2kapai
+	rotate: false
+	xy: 0, 0
+	size: 626, 418
+	orig: 658, 482
+	offset: 32, 0
+	index: -1
+Rfoot_geluolibasi2kapai
+	rotate: true
+	xy: 610, 585
+	size: 125, 178
+	orig: 125, 178
+	offset: 0, 0
+	index: -1
+duye008_geluolibasi2kapai
+	rotate: false
+	xy: 405, 713
+	size: 532, 308
+	orig: 658, 482
+	offset: 42, 57
+	index: -1
+Rarm1_geluolibasi2kapai
+	rotate: false
+	xy: 938, 798
+	size: 82, 92
+	orig: 82, 92
+	offset: 0, 0
+	index: -1
+Lhand1_geluolibasi2kapai
+	rotate: false
+	xy: 405, 545
+	size: 204, 167
+	orig: 204, 167
+	offset: 0, 0
+	index: -1
+head1_geluolibasi2kapai
+	rotate: true
+	xy: 938, 690
+	size: 107, 83
+	orig: 107, 83
+	offset: 0, 0
+	index: -1

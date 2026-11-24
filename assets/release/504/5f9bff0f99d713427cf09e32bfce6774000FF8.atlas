@@ -1,0 +1,226 @@
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_chuancibaodian_004
+	rotate: false
+	xy: 359, 0
+	size: 326, 122
+	orig: 326, 122
+	offset: 0, 0
+	index: -1
+global/a_global_chuancibaodian_005
+	rotate: false
+	xy: 686, 121
+	size: 326, 104
+	orig: 326, 122
+	offset: 0, 18
+	index: -1
+global/a_global_chuancibaodian_002
+	rotate: false
+	xy: 0, 330
+	size: 304, 116
+	orig: 326, 122
+	offset: 7, 6
+	index: -1
+global/a_global_chuancibaodian_003
+	rotate: false
+	xy: 686, 0
+	size: 326, 120
+	orig: 326, 122
+	offset: 0, 2
+	index: -1
+
+asset/anim/tianxinjiamianSEATTACK.png
+size: 497,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/tianxinjiamian_pugong_baodian10
+	rotate: true
+	xy: 260, 0
+	size: 145, 139
+	orig: 145, 139
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_daoguagnA_09
+	rotate: true
+	xy: 399, 207
+	size: 129, 84
+	orig: 129, 84
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_pugong_baodian11
+	rotate: true
+	xy: 186, 149
+	size: 147, 142
+	orig: 147, 142
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_yanwu_10
+	rotate: false
+	xy: 0, 413
+	size: 95, 81
+	orig: 95, 81
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_yanwu_13
+	rotate: false
+	xy: 329, 281
+	size: 40, 54
+	orig: 40, 54
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_daoguagnA_08
+	rotate: true
+	xy: 88, 172
+	size: 161, 97
+	orig: 161, 97
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_yanwu_11
+	rotate: false
+	xy: 96, 413
+	size: 95, 81
+	orig: 95, 81
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_pugong_baodian09
+	rotate: false
+	xy: 432, 337
+	size: 65, 65
+	orig: 65, 65
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_pugong_baodian12
+	rotate: true
+	xy: 138, 0
+	size: 148, 121
+	orig: 148, 121
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_yanwu_09
+	rotate: false
+	xy: 192, 413
+	size: 107, 80
+	orig: 107, 80
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_yanwu_08
+	rotate: true
+	xy: 215, 297
+	size: 112, 77
+	orig: 112, 77
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_pugong_baodian13
+	rotate: false
+	xy: 400, 83
+	size: 91, 123
+	orig: 91, 123
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_daoguagnA_11
+	rotate: false
+	xy: 293, 337
+	size: 138, 72
+	orig: 138, 72
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_daoguagnA_10
+	rotate: true
+	xy: 74, 0
+	size: 171, 63
+	orig: 171, 63
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_daoguagnA_13
+	rotate: true
+	xy: 329, 146
+	size: 134, 69
+	orig: 134, 69
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_daoguagnA_12
+	rotate: false
+	xy: 88, 334
+	size: 126, 78
+	orig: 126, 78
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_daoguagnA_15
+	rotate: true
+	xy: 0, 209
+	size: 203, 87
+	orig: 203, 87
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_daoguagnA_14
+	rotate: false
+	xy: 300, 410
+	size: 138, 72
+	orig: 138, 72
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_yanwu_12
+	rotate: false
+	xy: 400, 0
+	size: 94, 82
+	orig: 94, 82
+	offset: 0, 0
+	index: -1
+attack/tianxinjiamian_daoguagnA_16
+	rotate: true
+	xy: 0, 0
+	size: 208, 73
+	orig: 208, 73
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_chuancibaodian_006
+	rotate: true
+	xy: 379, 519
+	size: 216, 104
+	orig: 326, 122
+	offset: 38, 18
+	index: -1
+global/a_global_chuancibaodian_001
+	rotate: true
+	xy: 290, 227
+	size: 218, 110
+	orig: 326, 122
+	offset: 23, 10
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_chuancibaodian_007
+	rotate: false
+	xy: 206, 0
+	size: 204, 72
+	orig: 326, 122
+	offset: 44, 27
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_chuancibaodian_000
+	rotate: false
+	xy: 0, 235
+	size: 166, 100
+	orig: 326, 122
+	offset: 33, 16
+	index: -1

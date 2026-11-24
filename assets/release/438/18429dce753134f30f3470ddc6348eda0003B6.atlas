@@ -1,0 +1,55 @@
+
+asset/anim/zhushijuechunjiedenglong0.png
+size: 685,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang2_chunjiespinezhushijue
+	rotate: true
+	xy: 359, 94
+	size: 64, 124
+	orig: 64, 124
+	offset: 0, 0
+	index: -1
+denglong02_chunjiespinezhushijue
+	rotate: true
+	xy: 588, 100
+	size: 31, 77
+	orig: 31, 77
+	offset: 0, 0
+	index: -1
+guang3_chunjiespinezhushijue
+	rotate: true
+	xy: 484, 94
+	size: 53, 103
+	orig: 53, 103
+	offset: 0, 0
+	index: -1
+guang1_chunjiespinezhushijue
+	rotate: true
+	xy: 0, 0
+	size: 169, 358
+	orig: 169, 358
+	offset: 0, 0
+	index: -1
+denglong04_chunjiespinezhushijue
+	rotate: true
+	xy: 588, 132
+	size: 31, 77
+	orig: 31, 77
+	offset: 0, 0
+	index: -1
+denglong01_chunjiespinezhushijue
+	rotate: true
+	xy: 359, 0
+	size: 93, 288
+	orig: 93, 288
+	offset: 0, 0
+	index: -1
+denglong03_chunjiespinezhushijue
+	rotate: false
+	xy: 648, 0
+	size: 37, 99
+	orig: 37, 99
+	offset: 0, 0
+	index: -1

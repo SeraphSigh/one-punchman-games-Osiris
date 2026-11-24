@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>pic_hd_bjmb_bar_0401.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{536,112}</string>
+                <key>spriteSourceSize</key>
+                <string>{536,112}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{536,112}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>supplyTargetRes0.png</string>
+            <key>size</key>
+            <string>{536,112}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:f01e5910c80c76cf877adecf5c5e3fbf:e50567db760f7968b2bfd9ff731ecda8:3147cf1fcbf8ed1cffe93138bbbce04a$</string>
+            <key>textureFileName</key>
+            <string>supplyTargetRes0.png</string>
+        </dict>
+    </dict>
+</plist>

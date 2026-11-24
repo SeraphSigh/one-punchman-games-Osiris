@@ -1,0 +1,354 @@
+
+asset/anim/denglu2.png
+size: 947,704
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire01_Ddenglu_013
+	rotate: true
+	xy: 713, 0
+	size: 235, 234
+	orig: 235, 234
+	offset: 0, 0
+	index: -1
+fire01_Ddenglu_001
+	rotate: false
+	xy: 0, 235
+	size: 237, 235
+	orig: 237, 235
+	offset: 0, 0
+	index: -1
+fire01_Ddenglu_006
+	rotate: false
+	xy: 475, 235
+	size: 236, 232
+	orig: 236, 232
+	offset: 0, 0
+	index: -1
+fire01_Ddenglu_007
+	rotate: true
+	xy: 476, 468
+	size: 236, 230
+	orig: 236, 230
+	offset: 0, 0
+	index: -1
+fire01_Ddenglu_004
+	rotate: false
+	xy: 0, 0
+	size: 238, 234
+	orig: 238, 234
+	offset: 0, 0
+	index: -1
+fire01_Ddenglu_005
+	rotate: false
+	xy: 0, 471
+	size: 238, 233
+	orig: 238, 233
+	offset: 0, 0
+	index: -1
+fire01_Ddenglu_008
+	rotate: false
+	xy: 238, 235
+	size: 236, 234
+	orig: 236, 234
+	offset: 0, 0
+	index: -1
+fire01_Ddenglu_009
+	rotate: true
+	xy: 239, 0
+	size: 234, 237
+	orig: 234, 237
+	offset: 0, 0
+	index: -1
+fire01_Ddenglu_011
+	rotate: true
+	xy: 239, 470
+	size: 234, 236
+	orig: 234, 236
+	offset: 0, 0
+	index: -1
+fire01_Ddenglu_012
+	rotate: false
+	xy: 477, 0
+	size: 235, 234
+	orig: 235, 234
+	offset: 0, 0
+	index: -1
+fire01_Ddenglu_015
+	rotate: false
+	xy: 712, 236
+	size: 235, 233
+	orig: 235, 233
+	offset: 0, 0
+	index: -1
+fire01_Ddenglu_014
+	rotate: false
+	xy: 707, 470
+	size: 235, 232
+	orig: 235, 232
+	offset: 0, 0
+	index: -1
+
+asset/anim/denglu1.png
+size: 942,961
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xingguang_denglu
+	rotate: false
+	xy: 330, 273
+	size: 287, 224
+	orig: 287, 224
+	offset: 0, 0
+	index: -1
+guangqiu_denglu
+	rotate: false
+	xy: 814, 703
+	size: 128, 128
+	orig: 128, 128
+	offset: 0, 0
+	index: -1
+fire01_Ddenglu_002
+	rotate: false
+	xy: 632, 231
+	size: 238, 235
+	orig: 238, 235
+	offset: 0, 0
+	index: -1
+fire01_Ddenglu_003
+	rotate: false
+	xy: 575, 719
+	size: 238, 235
+	orig: 238, 235
+	offset: 0, 0
+	index: -1
+bowen01_Ddenglu_006
+	rotate: false
+	xy: 0, 316
+	size: 329, 315
+	orig: 329, 315
+	offset: 0, 0
+	index: -1
+bowen01_Ddenglu_007
+	rotate: true
+	xy: 0, 632
+	size: 329, 313
+	orig: 329, 315
+	offset: 0, 1
+	index: -1
+bowen01_Ddenglu_005
+	rotate: false
+	xy: 0, 0
+	size: 329, 315
+	orig: 329, 315
+	offset: 0, 0
+	index: -1
+quantou_Ddenglu_002
+	rotate: false
+	xy: 330, 0
+	size: 301, 272
+	orig: 301, 272
+	offset: 0, 0
+	index: -1
+a_shenti_denglu
+	rotate: true
+	xy: 632, 0
+	size: 230, 280
+	orig: 230, 280
+	offset: 0, 0
+	index: -1
+bing5_denglu
+	rotate: true
+	xy: 609, 612
+	size: 90, 213
+	orig: 90, 213
+	offset: 0, 0
+	index: -1
+a_tou_denglu
+	rotate: true
+	xy: 330, 498
+	size: 220, 278
+	orig: 220, 278
+	offset: 0, 0
+	index: -1
+a_yougebo_denglu
+	rotate: true
+	xy: 845, 467
+	size: 164, 78
+	orig: 164, 78
+	offset: 0, 0
+	index: -1
+a_quantou_denglu
+	rotate: false
+	xy: 314, 719
+	size: 260, 234
+	orig: 260, 234
+	offset: 0, 0
+	index: -1
+a_youtui_denglu
+	rotate: true
+	xy: 618, 467
+	size: 144, 226
+	orig: 144, 226
+	offset: 0, 0
+	index: -1
+
+asset/anim/denglu0.png
+size: 1024,1015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bing8_denglu
+	rotate: false
+	xy: 809, 894
+	size: 77, 95
+	orig: 77, 95
+	offset: 0, 0
+	index: -1
+bing1_denglu
+	rotate: true
+	xy: 330, 460
+	size: 442, 157
+	orig: 442, 157
+	offset: 0, 0
+	index: -1
+logo2_denglu
+	rotate: true
+	xy: 908, 267
+	size: 410, 72
+	orig: 410, 72
+	offset: 0, 0
+	index: -1
+logo_denglu
+	rotate: true
+	xy: 488, 460
+	size: 410, 72
+	orig: 410, 72
+	offset: 0, 0
+	index: -1
+heiping_denglu
+	rotate: false
+	xy: 1000, 129
+	size: 16, 16
+	orig: 16, 16
+	offset: 0, 0
+	index: -1
+a_zuotui_denglu
+	rotate: false
+	xy: 235, 776
+	size: 90, 136
+	orig: 90, 136
+	offset: 0, 0
+	index: -1
+bing13_denglu
+	rotate: false
+	xy: 235, 913
+	size: 80, 96
+	orig: 80, 96
+	offset: 0, 0
+	index: -1
+bing7_denglu
+	rotate: true
+	xy: 326, 903
+	size: 99, 129
+	orig: 99, 129
+	offset: 0, 0
+	index: -1
+bing3_denglu
+	rotate: false
+	xy: 971, 0
+	size: 50, 90
+	orig: 50, 90
+	offset: 0, 0
+	index: -1
+bing9_denglu
+	rotate: false
+	xy: 971, 91
+	size: 49, 37
+	orig: 49, 37
+	offset: 0, 0
+	index: -1
+bing4_denglu
+	rotate: false
+	xy: 891, 678
+	size: 133, 215
+	orig: 133, 215
+	offset: 0, 0
+	index: -1
+black
+	rotate: false
+	xy: 1017, 129
+	size: 5, 5
+	orig: 5, 5
+	offset: 0, 0
+	index: -1
+bing11_denglu
+	rotate: false
+	xy: 557, 894
+	size: 176, 106
+	orig: 176, 106
+	offset: 0, 0
+	index: -1
+bowen01_Ddenglu_004
+	rotate: false
+	xy: 561, 578
+	size: 329, 315
+	orig: 329, 315
+	offset: 0, 0
+	index: -1
+bowen01_Ddenglu_002
+	rotate: false
+	xy: 0, 460
+	size: 329, 315
+	orig: 329, 315
+	offset: 0, 0
+	index: -1
+a_pifeng_denglu
+	rotate: false
+	xy: 0, 0
+	size: 563, 459
+	orig: 563, 459
+	offset: 0, 0
+	index: -1
+bing12_denglu
+	rotate: false
+	xy: 734, 894
+	size: 74, 113
+	orig: 74, 113
+	offset: 0, 0
+	index: -1
+quantou_Ddenglu_001
+	rotate: false
+	xy: 564, 267
+	size: 343, 310
+	orig: 343, 310
+	offset: 0, 0
+	index: -1
+fire01_Ddenglu_010
+	rotate: false
+	xy: 0, 776
+	size: 234, 239
+	orig: 234, 239
+	offset: 0, 0
+	index: -1
+bing6_denglu
+	rotate: true
+	xy: 564, 0
+	size: 266, 406
+	orig: 266, 406
+	offset: 0, 0
+	index: -1
+bing10_denglu
+	rotate: false
+	xy: 971, 129
+	size: 28, 20
+	orig: 28, 20
+	offset: 0, 0
+	index: -1
+bing2_denglu
+	rotate: false
+	xy: 488, 871
+	size: 68, 103
+	orig: 68, 103
+	offset: 0, 0
+	index: -1

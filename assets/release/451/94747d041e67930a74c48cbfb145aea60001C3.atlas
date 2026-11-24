@@ -1,0 +1,27 @@
+
+asset/anim/suonikeSECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/canying3_suonike
+	rotate: true
+	xy: 540, 540
+	size: 103, 78
+	orig: 103, 78
+	offset: 0, 0
+	index: -1
+common/canying2_suonike
+	rotate: false
+	xy: 767, 466
+	size: 102, 97
+	orig: 102, 97
+	offset: 0, 0
+	index: -1
+common/canying_suonike
+	rotate: true
+	xy: 104, 894
+	size: 121, 100
+	orig: 123, 100
+	offset: 1, 0
+	index: -1

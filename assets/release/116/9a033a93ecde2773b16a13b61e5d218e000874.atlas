@@ -1,0 +1,132 @@
+
+asset/anim/jingquanxia2kapai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuobi_jingquanxia2kapai
+	rotate: true
+	xy: 325, 858
+	size: 165, 50
+	orig: 165, 50
+	offset: 0, 0
+	index: -1
+zuoxiaobi_jingquanxia2kapai
+	rotate: true
+	xy: 140, 914
+	size: 91, 61
+	orig: 91, 61
+	offset: 0, 0
+	index: -1
+youyanpi_jingquanxia2kapai
+	rotate: true
+	xy: 140, 1006
+	size: 18, 12
+	orig: 18, 12
+	offset: 0, 0
+	index: -1
+shenti_jingquanxia2kapai
+	rotate: true
+	xy: 0, 643
+	size: 270, 190
+	orig: 270, 190
+	offset: 0, 0
+	index: -1
+youbi_jingquanxia2kapai
+	rotate: true
+	xy: 0, 914
+	size: 109, 42
+	orig: 109, 42
+	offset: 0, 0
+	index: -1
+zuomeimao_jingquanxia2kapai
+	rotate: true
+	xy: 191, 869
+	size: 24, 5
+	orig: 24, 5
+	offset: 0, 0
+	index: -1
+zuoyan_jingquanxia2kapai
+	rotate: true
+	xy: 192, 1006
+	size: 13, 11
+	orig: 13, 11
+	offset: 0, 0
+	index: -1
+zuoyanpi_jingquanxia2kapai
+	rotate: false
+	xy: 167, 1006
+	size: 24, 13
+	orig: 24, 13
+	offset: 0, 0
+	index: -1
+youmeimao_jingquanxia2kapai
+	rotate: true
+	xy: 162, 1006
+	size: 15, 4
+	orig: 15, 4
+	offset: 0, 0
+	index: -1
+zuodabi_jingquanxia2kapai
+	rotate: false
+	xy: 43, 914
+	size: 96, 107
+	orig: 96, 107
+	offset: 0, 0
+	index: -1
+youyan_jingquanxia2kapai
+	rotate: false
+	xy: 191, 858
+	size: 10, 10
+	orig: 10, 10
+	offset: 0, 0
+	index: -1
+zuodatui_jingquanxia2kapai
+	rotate: true
+	xy: 202, 858
+	size: 146, 122
+	orig: 146, 122
+	offset: 0, 0
+	index: -1
+wei_jingquanxia2kapai
+	rotate: true
+	xy: 362, 643
+	size: 168, 164
+	orig: 168, 164
+	offset: 0, 0
+	index: -1
+tou_jingquanxia2kapai
+	rotate: false
+	xy: 191, 643
+	size: 170, 214
+	orig: 170, 214
+	offset: 0, 0
+	index: -1
+taizi_jingquanxia2kapai
+	rotate: false
+	xy: 0, 0
+	size: 596, 642
+	orig: 596, 642
+	offset: 0, 0
+	index: -1
+zuojiao_jingquanxia2kapai
+	rotate: true
+	xy: 376, 812
+	size: 78, 70
+	orig: 78, 70
+	offset: 0, 0
+	index: -1
+bizi_jingquanxia2kapai
+	rotate: false
+	xy: 153, 1006
+	size: 8, 17
+	orig: 8, 17
+	offset: 0, 0
+	index: -1
+zui_jingquanxia2kapai
+	rotate: false
+	xy: 43, 1022
+	size: 6, 1
+	orig: 6, 1
+	offset: 0, 0
+	index: -1

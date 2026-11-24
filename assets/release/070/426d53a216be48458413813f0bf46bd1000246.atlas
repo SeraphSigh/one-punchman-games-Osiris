@@ -1,0 +1,33 @@
+
+asset/anim/king2SECOMMON0.png
+size: 2044,2026
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/king2_com_pow_00020
+	rotate: true
+	xy: 1661, 1761
+	size: 109, 62
+	orig: 109, 62
+	offset: 0, 0
+	index: -1
+common/king2_com_guangying_00035
+	rotate: false
+	xy: 1372, 1858
+	size: 52, 89
+	orig: 52, 89
+	offset: 0, 0
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

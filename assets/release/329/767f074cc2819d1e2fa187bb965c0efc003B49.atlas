@@ -1,0 +1,981 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/changsheer2.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_zui1_changsheer
+	rotate: true
+	xy: 0, 72
+	size: 34, 33
+	orig: 34, 33
+	offset: 0, 0
+	index: -1
+j_Lfoot_changsheer
+	rotate: false
+	xy: 0, 0
+	size: 35, 35
+	orig: 35, 35
+	offset: 0, 0
+	index: -1
+b_Lforearm_changsheer
+	rotate: false
+	xy: 0, 36
+	size: 30, 35
+	orig: 30, 35
+	offset: 0, 0
+	index: -1
+g_zui_changsheer
+	rotate: true
+	xy: 31, 36
+	size: 34, 33
+	orig: 34, 33
+	offset: 0, 0
+	index: -1
+
+asset/anim/changsheer0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_head_changsheer
+	rotate: false
+	xy: 394, 197
+	size: 75, 104
+	orig: 75, 104
+	offset: 0, 0
+	index: -1
+q_Rforearm_changsheer
+	rotate: false
+	xy: 265, 287
+	size: 71, 24
+	orig: 71, 24
+	offset: 0, 0
+	index: -1
+m_she1_changsheer
+	rotate: false
+	xy: 291, 0
+	size: 156, 83
+	orig: 156, 83
+	offset: 0, 0
+	index: -1
+a_body_changsheer
+	rotate: true
+	xy: 160, 215
+	size: 95, 104
+	orig: 95, 104
+	offset: 0, 0
+	index: -1
+m_zui_changsheer
+	rotate: true
+	xy: 340, 442
+	size: 55, 38
+	orig: 55, 38
+	offset: 0, 0
+	index: -1
+m_Rfoot_changsheer
+	rotate: false
+	xy: 115, 470
+	size: 34, 42
+	orig: 34, 42
+	offset: 0, 0
+	index: -1
+n_Lshin_changsheer
+	rotate: true
+	xy: 319, 373
+	size: 38, 67
+	orig: 38, 67
+	offset: 0, 0
+	index: -1
+b_Larm_changsheer
+	rotate: false
+	xy: 260, 312
+	size: 58, 59
+	orig: 58, 59
+	offset: 0, 0
+	index: -1
+a_eye1_changsheer
+	rotate: false
+	xy: 379, 496
+	size: 45, 16
+	orig: 45, 16
+	offset: 0, 0
+	index: -1
+a_Lfoot_changsheer
+	rotate: true
+	xy: 431, 449
+	size: 46, 27
+	orig: 46, 27
+	offset: 0, 0
+	index: -1
+a_Rhand_changsheer
+	rotate: true
+	xy: 470, 78
+	size: 53, 42
+	orig: 53, 42
+	offset: 0, 0
+	index: -1
+g_Rhand_changsheer
+	rotate: true
+	xy: 470, 186
+	size: 49, 42
+	orig: 49, 42
+	offset: 0, 0
+	index: -1
+n_Rshin_changsheer
+	rotate: false
+	xy: 387, 376
+	size: 65, 37
+	orig: 65, 37
+	offset: 0, 0
+	index: -1
+b_Rshin_changsheer
+	rotate: true
+	xy: 387, 339
+	size: 36, 69
+	orig: 36, 69
+	offset: 0, 0
+	index: -1
+a_Rthigh_changsheer
+	rotate: true
+	xy: 337, 287
+	size: 44, 56
+	orig: 44, 56
+	offset: 0, 0
+	index: -1
+f_body_changsheer
+	rotate: false
+	xy: 264, 84
+	size: 115, 112
+	orig: 115, 112
+	offset: 0, 0
+	index: -1
+q_body_changsheer
+	rotate: false
+	xy: 132, 311
+	size: 127, 77
+	orig: 127, 77
+	offset: 0, 0
+	index: -1
+a_Lthigh_changsheer
+	rotate: false
+	xy: 319, 332
+	size: 67, 40
+	orig: 67, 40
+	offset: 0, 0
+	index: -1
+m_Lshin_changsheer
+	rotate: true
+	xy: 448, 46
+	size: 31, 64
+	orig: 31, 64
+	offset: 0, 0
+	index: -1
+q_Rshin_changsheer
+	rotate: true
+	xy: 115, 401
+	size: 68, 27
+	orig: 68, 27
+	offset: 0, 0
+	index: -1
+b_body_changsheer
+	rotate: false
+	xy: 380, 84
+	size: 89, 112
+	orig: 89, 112
+	offset: 0, 0
+	index: -1
+a_Rforearm_changsheer
+	rotate: false
+	xy: 260, 372
+	size: 58, 31
+	orig: 58, 31
+	offset: 0, 0
+	index: -1
+m_Rshin_changsheer
+	rotate: true
+	xy: 379, 414
+	size: 34, 60
+	orig: 34, 60
+	offset: 0, 0
+	index: -1
+e_Lhand_changsheer
+	rotate: false
+	xy: 459, 429
+	size: 44, 44
+	orig: 44, 44
+	offset: 0, 0
+	index: -1
+d_body_changsheer
+	rotate: false
+	xy: 160, 84
+	size: 103, 130
+	orig: 103, 130
+	offset: 0, 0
+	index: -1
+b_Lshin_changsheer
+	rotate: true
+	xy: 316, 412
+	size: 29, 62
+	orig: 29, 62
+	offset: 0, 0
+	index: -1
+b_Lfoot_changsheer
+	rotate: false
+	xy: 470, 277
+	size: 42, 34
+	orig: 42, 34
+	offset: 0, 0
+	index: -1
+gedang_changsheer
+	rotate: false
+	xy: 0, 84
+	size: 159, 203
+	orig: 159, 203
+	offset: 0, 0
+	index: -1
+a_eye2_changsheer
+	rotate: false
+	xy: 244, 497
+	size: 44, 13
+	orig: 44, 13
+	offset: 0, 0
+	index: -1
+h_Rshin_changsheer
+	rotate: false
+	xy: 252, 404
+	size: 63, 39
+	orig: 63, 39
+	offset: 0, 0
+	index: -1
+f_Lhand_changsheer
+	rotate: false
+	xy: 459, 474
+	size: 39, 38
+	orig: 39, 38
+	offset: 0, 0
+	index: -1
+n_body_changsheer
+	rotate: false
+	xy: 0, 401
+	size: 114, 109
+	orig: 114, 109
+	offset: 0, 0
+	index: -1
+b_Rthigh_changsheer
+	rotate: false
+	xy: 457, 374
+	size: 55, 54
+	orig: 55, 54
+	offset: 0, 0
+	index: -1
+m_Lthigh_changsheer
+	rotate: false
+	xy: 194, 389
+	size: 57, 52
+	orig: 57, 52
+	offset: 0, 0
+	index: -1
+k_Lhand_changsheer
+	rotate: false
+	xy: 379, 449
+	size: 51, 46
+	orig: 51, 46
+	offset: 0, 0
+	index: -1
+a_Larm_changsheer
+	rotate: true
+	xy: 150, 451
+	size: 58, 46
+	orig: 58, 46
+	offset: 0, 0
+	index: -1
+f_Rthigh_changsheer
+	rotate: false
+	xy: 197, 442
+	size: 46, 62
+	orig: 46, 62
+	offset: 0, 0
+	index: -1
+a_she_changsheer
+	rotate: false
+	xy: 0, 288
+	size: 131, 112
+	orig: 131, 112
+	offset: 0, 0
+	index: -1
+g_body_changsheer
+	rotate: false
+	xy: 265, 197
+	size: 128, 89
+	orig: 128, 89
+	offset: 0, 0
+	index: -1
+q_coxa_changsheer
+	rotate: true
+	xy: 470, 236
+	size: 40, 42
+	orig: 40, 42
+	offset: 0, 0
+	index: -1
+b_Rarm_changsheer
+	rotate: false
+	xy: 244, 444
+	size: 54, 52
+	orig: 54, 52
+	offset: 0, 0
+	index: -1
+m_coxa_changsheer
+	rotate: false
+	xy: 448, 0
+	size: 64, 45
+	orig: 64, 45
+	offset: 0, 0
+	index: -1
+g_she_changsheer
+	rotate: false
+	xy: 0, 0
+	size: 290, 83
+	orig: 290, 83
+	offset: 0, 0
+	index: -1
+g_Rforearm_changsheer
+	rotate: false
+	xy: 143, 389
+	size: 50, 61
+	orig: 50, 61
+	offset: 0, 0
+	index: -1
+j_Lhand_changsheer
+	rotate: true
+	xy: 470, 132
+	size: 53, 42
+	orig: 53, 42
+	offset: 0, 0
+	index: -1
+j_Lshin_changsheer
+	rotate: true
+	xy: 394, 302
+	size: 36, 70
+	orig: 36, 70
+	offset: 0, 0
+	index: -1
+j_Lthigh_changsheer
+	rotate: true
+	xy: 465, 312
+	size: 61, 47
+	orig: 61, 47
+	offset: 0, 0
+	index: -1
+f_coxa_changsheer
+	rotate: true
+	xy: 299, 444
+	size: 53, 40
+	orig: 53, 40
+	offset: 0, 0
+	index: -1
+
+asset/anim/changsheer1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+n_Lthigh_changsheer
+	rotate: false
+	xy: 238, 203
+	size: 56, 62
+	orig: 56, 62
+	offset: 0, 0
+	index: -1
+a_Lhand_changsheer
+	rotate: false
+	xy: 370, 382
+	size: 43, 41
+	orig: 43, 41
+	offset: 0, 0
+	index: -1
+a_Lshin_changsheer
+	rotate: true
+	xy: 238, 266
+	size: 39, 64
+	orig: 39, 64
+	offset: 0, 0
+	index: -1
+d_zui1_changsheer
+	rotate: true
+	xy: 485, 313
+	size: 32, 27
+	orig: 32, 27
+	offset: 0, 0
+	index: -1
+g_head_changsheer
+	rotate: false
+	xy: 103, 217
+	size: 77, 105
+	orig: 77, 105
+	offset: 0, 0
+	index: -1
+a_Rarm_changsheer
+	rotate: true
+	xy: 262, 306
+	size: 68, 47
+	orig: 68, 47
+	offset: 0, 0
+	index: -1
+f_Rarm_changsheer
+	rotate: false
+	xy: 403, 248
+	size: 43, 50
+	orig: 43, 50
+	offset: 0, 0
+	index: -1
+o_body_changsheer
+	rotate: true
+	xy: 0, 108
+	size: 108, 105
+	orig: 108, 105
+	offset: 0, 0
+	index: -1
+k_Lthigh_changsheer
+	rotate: false
+	xy: 341, 199
+	size: 52, 53
+	orig: 52, 53
+	offset: 0, 0
+	index: -1
+m_head_changsheer
+	rotate: false
+	xy: 181, 105
+	size: 77, 97
+	orig: 77, 97
+	offset: 0, 0
+	index: -1
+m_Larm_changsheer
+	rotate: true
+	xy: 259, 105
+	size: 59, 54
+	orig: 59, 54
+	offset: 0, 0
+	index: -1
+j_Rthigh_changsheer
+	rotate: true
+	xy: 352, 424
+	size: 47, 46
+	orig: 47, 46
+	offset: 0, 0
+	index: -1
+m_Lhand_changsheer
+	rotate: false
+	xy: 356, 301
+	size: 45, 49
+	orig: 45, 49
+	offset: 0, 0
+	index: -1
+f_Rshin_changsheer
+	rotate: true
+	xy: 415, 101
+	size: 53, 49
+	orig: 53, 49
+	offset: 0, 0
+	index: -1
+c_Rhand_changsheer
+	rotate: false
+	xy: 464, 155
+	size: 41, 39
+	orig: 41, 39
+	offset: 0, 0
+	index: -1
+n_coxa_changsheer
+	rotate: true
+	xy: 402, 301
+	size: 49, 44
+	orig: 49, 44
+	offset: 0, 0
+	index: -1
+g_head1_changsheer
+	rotate: true
+	xy: 126, 431
+	size: 77, 105
+	orig: 77, 105
+	offset: 0, 0
+	index: -1
+h_Rfoot_changsheer
+	rotate: true
+	xy: 440, 196
+	size: 43, 40
+	orig: 43, 40
+	offset: 0, 0
+	index: -1
+m_Lfoot_changsheer
+	rotate: true
+	xy: 400, 469
+	size: 42, 33
+	orig: 42, 33
+	offset: 0, 0
+	index: -1
+i_Lhand_changsheer
+	rotate: true
+	xy: 433, 419
+	size: 39, 35
+	orig: 39, 35
+	offset: 0, 0
+	index: -1
+m_Rarm_changsheer
+	rotate: true
+	xy: 314, 105
+	size: 59, 54
+	orig: 59, 54
+	offset: 0, 0
+	index: -1
+a_zui_changsheer
+	rotate: true
+	xy: 399, 424
+	size: 44, 33
+	orig: 44, 33
+	offset: 0, 0
+	index: -1
+f_Rfoot_changsheer
+	rotate: false
+	xy: 481, 195
+	size: 30, 38
+	orig: 30, 38
+	offset: 0, 0
+	index: -1
+d_zui_changsheer
+	rotate: false
+	xy: 401, 351
+	size: 49, 24
+	orig: 49, 24
+	offset: 0, 0
+	index: -1
+f_Rhand_changsheer
+	rotate: false
+	xy: 323, 384
+	size: 46, 39
+	orig: 46, 39
+	offset: 0, 0
+	index: -1
+q_Rarm_changsheer
+	rotate: true
+	xy: 289, 426
+	size: 65, 62
+	orig: 65, 62
+	offset: 0, 0
+	index: -1
+h_body_changsheer
+	rotate: true
+	xy: 0, 433
+	size: 71, 125
+	orig: 71, 125
+	offset: 0, 0
+	index: -1
+e_Rhand_changsheer
+	rotate: true
+	xy: 310, 301
+	size: 51, 45
+	orig: 51, 45
+	offset: 0, 0
+	index: -1
+a_tail_changsheer
+	rotate: true
+	xy: 181, 203
+	size: 102, 56
+	orig: 102, 56
+	offset: 0, 0
+	index: -1
+d_Rforearm_changsheer
+	rotate: false
+	xy: 447, 318
+	size: 37, 28
+	orig: 37, 28
+	offset: 0, 0
+	index: -1
+i_body_changsheer
+	rotate: false
+	xy: 0, 217
+	size: 102, 108
+	orig: 102, 108
+	offset: 0, 0
+	index: -1
+b_Rforearm_changsheer
+	rotate: false
+	xy: 418, 155
+	size: 45, 40
+	orig: 45, 40
+	offset: 0, 0
+	index: -1
+zz_Rthigh_changsheer
+	rotate: true
+	xy: 187, 384
+	size: 44, 68
+	orig: 44, 68
+	offset: 0, 0
+	index: -1
+d_head_changsheer
+	rotate: true
+	xy: 187, 306
+	size: 77, 74
+	orig: 77, 74
+	offset: 0, 0
+	index: -1
+j_head_changsheer
+	rotate: false
+	xy: 108, 0
+	size: 75, 104
+	orig: 75, 104
+	offset: 0, 0
+	index: -1
+a_Lforearm_changsheer
+	rotate: false
+	xy: 462, 483
+	size: 41, 28
+	orig: 41, 28
+	offset: 0, 0
+	index: -1
+j_body_changsheer
+	rotate: false
+	xy: 0, 326
+	size: 97, 106
+	orig: 97, 106
+	offset: 0, 0
+	index: -1
+h1_Rthigh1_changsheer
+	rotate: true
+	xy: 256, 384
+	size: 41, 66
+	orig: 41, 66
+	offset: 0, 0
+	index: -1
+m_she2_changsheer
+	rotate: true
+	xy: 290, 0
+	size: 62, 95
+	orig: 62, 95
+	offset: 0, 0
+	index: -1
+e_Rforearm_changsheer
+	rotate: false
+	xy: 434, 459
+	size: 27, 43
+	orig: 27, 43
+	offset: 0, 0
+	index: -1
+b_zui_changsheer
+	rotate: false
+	xy: 366, 165
+	size: 51, 31
+	orig: 51, 31
+	offset: 0, 0
+	index: -1
+k_Lfoot_changsheer
+	rotate: false
+	xy: 447, 240
+	size: 29, 39
+	orig: 29, 39
+	offset: 0, 0
+	index: -1
+q_Rhand_changsheer
+	rotate: false
+	xy: 354, 353
+	size: 46, 28
+	orig: 46, 28
+	offset: 0, 0
+	index: -1
+j_Rforearm_changsheer
+	rotate: false
+	xy: 469, 418
+	size: 41, 32
+	orig: 41, 32
+	offset: 0, 0
+	index: -1
+b_Lthigh_changsheer
+	rotate: false
+	xy: 386, 0
+	size: 63, 48
+	orig: 63, 48
+	offset: 0, 0
+	index: -1
+b_Rfoot_changsheer
+	rotate: false
+	xy: 414, 376
+	size: 33, 42
+	orig: 33, 42
+	offset: 0, 0
+	index: -1
+j_Lforearm_changsheer
+	rotate: true
+	xy: 448, 376
+	size: 41, 32
+	orig: 41, 32
+	offset: 0, 0
+	index: -1
+m_tail_changsheer
+	rotate: true
+	xy: 106, 108
+	size: 108, 74
+	orig: 108, 74
+	offset: 0, 0
+	index: -1
+m_body_changsheer
+	rotate: false
+	xy: 98, 326
+	size: 88, 104
+	orig: 88, 104
+	offset: 0, 0
+	index: -1
+n_Lfoot_changsheer
+	rotate: false
+	xy: 352, 472
+	size: 47, 31
+	orig: 47, 31
+	offset: 0, 0
+	index: -1
+j_zui_changsheer
+	rotate: true
+	xy: 468, 48
+	size: 49, 31
+	orig: 49, 31
+	offset: 0, 0
+	index: -1
+k_Lshin_changsheer
+	rotate: false
+	xy: 450, 0
+	size: 50, 47
+	orig: 50, 47
+	offset: 0, 0
+	index: -1
+b_Lhand_changsheer
+	rotate: false
+	xy: 354, 253
+	size: 48, 47
+	orig: 48, 47
+	offset: 0, 0
+	index: -1
+g_Rarm_changsheer
+	rotate: false
+	xy: 259, 165
+	size: 57, 34
+	orig: 57, 34
+	offset: 0, 0
+	index: -1
+m_Rhand_changsheer
+	rotate: true
+	xy: 417, 49
+	size: 51, 50
+	orig: 51, 50
+	offset: 0, 0
+	index: -1
+f_Rforearm_changsheer
+	rotate: true
+	xy: 367, 63
+	size: 37, 49
+	orig: 37, 49
+	offset: 0, 0
+	index: -1
+k_Lforearm_changsheer
+	rotate: false
+	xy: 477, 274
+	size: 29, 38
+	orig: 29, 38
+	offset: 0, 0
+	index: -1
+a_Rshin_changsheer
+	rotate: true
+	xy: 258, 70
+	size: 34, 58
+	orig: 34, 58
+	offset: 0, 0
+	index: -1
+a_zui1_changsheer
+	rotate: true
+	xy: 481, 369
+	size: 33, 24
+	orig: 33, 24
+	offset: 0, 0
+	index: -1
+p_body_changsheer
+	rotate: false
+	xy: 0, 0
+	size: 107, 107
+	orig: 107, 107
+	offset: 0, 0
+	index: -1
+shoujiguadian_changsheer
+	rotate: false
+	xy: 0, 505
+	size: 3, 3
+	orig: 50, 50
+	offset: 0, 46
+	index: -1
+m_Rforearm_changsheer
+	rotate: true
+	xy: 447, 280
+	size: 37, 29
+	orig: 37, 29
+	offset: 0, 0
+	index: -1
+a_eye3_changsheer
+	rotate: false
+	xy: 451, 347
+	size: 43, 21
+	orig: 43, 21
+	offset: 0, 0
+	index: -1
+a_head_changsheer
+	rotate: true
+	xy: 184, 0
+	size: 69, 105
+	orig: 69, 105
+	offset: 0, 0
+	index: -1
+b_Rhand_changsheer
+	rotate: false
+	xy: 317, 63
+	size: 49, 38
+	orig: 49, 38
+	offset: 0, 0
+	index: -1
+c_Lforearm_changsheer
+	rotate: true
+	xy: 303, 264
+	size: 36, 50
+	orig: 36, 50
+	offset: 0, 0
+	index: -1
+h_Rthigh_changsheer
+	rotate: true
+	xy: 232, 429
+	size: 79, 56
+	orig: 79, 56
+	offset: 0, 0
+	index: -1
+a_coxa_changsheer
+	rotate: true
+	xy: 295, 200
+	size: 63, 45
+	orig: 63, 45
+	offset: 0, 0
+	index: -1
+m_Rthigh_changsheer
+	rotate: true
+	xy: 394, 197
+	size: 50, 45
+	orig: 50, 45
+	offset: 0, 0
+	index: -1
+m_Lforearm_changsheer
+	rotate: false
+	xy: 310, 353
+	size: 43, 30
+	orig: 43, 30
+	offset: 0, 0
+	index: -1
+n_Rfoot_changsheer
+	rotate: false
+	xy: 465, 101
+	size: 45, 35
+	orig: 45, 35
+	offset: 0, 0
+	index: -1
+f_Larm_changsheer
+	rotate: false
+	xy: 184, 70
+	size: 73, 29
+	orig: 73, 29
+	offset: 0, 0
+	index: -1
+b_coxa_changsheer
+	rotate: true
+	xy: 369, 101
+	size: 61, 45
+	orig: 61, 45
+	offset: 0, 0
+	index: -1
+a_Rfoot_changsheer
+	rotate: false
+	xy: 481, 234
+	size: 29, 39
+	orig: 29, 39
+	offset: 0, 0
+	index: -1
+q_Rfoot_changsheer
+	rotate: false
+	xy: 317, 165
+	size: 48, 33
+	orig: 48, 33
+	offset: 0, 0
+	index: -1
+k_Rhand_changsheer
+	rotate: false
+	xy: 469, 451
+	size: 41, 31
+	orig: 41, 31
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

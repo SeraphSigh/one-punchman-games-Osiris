@@ -1,0 +1,1094 @@
+
+asset/anim/qiangdao0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_coxa_qiangdao
+	rotate: true
+	xy: 340, 342
+	size: 54, 35
+	orig: 54, 35
+	offset: 0, 0
+	index: -1
+g_Rthigh_qiangdao
+	rotate: false
+	xy: 438, 282
+	size: 44, 50
+	orig: 44, 50
+	offset: 0, 0
+	index: -1
+d_Lthigh_qiangdao
+	rotate: true
+	xy: 416, 389
+	size: 51, 42
+	orig: 51, 42
+	offset: 0, 0
+	index: -1
+d_Lhand2_qiangdao
+	rotate: false
+	xy: 453, 368
+	size: 15, 15
+	orig: 15, 15
+	offset: 0, 0
+	index: -1
+h_body_qiangdao
+	rotate: false
+	xy: 83, 133
+	size: 80, 104
+	orig: 80, 104
+	offset: 0, 0
+	index: -1
+a_Lthigh_qiangdao
+	rotate: false
+	xy: 325, 229
+	size: 28, 56
+	orig: 28, 56
+	offset: 0, 0
+	index: -1
+a_hair3_qiangdao
+	rotate: false
+	xy: 118, 396
+	size: 87, 68
+	orig: 87, 68
+	offset: 0, 0
+	index: -1
+c_Rhand2_qiangdao
+	rotate: false
+	xy: 55, 499
+	size: 18, 13
+	orig: 18, 13
+	offset: 0, 0
+	index: -1
+k_Lforearm_qiangdao
+	rotate: false
+	xy: 483, 314
+	size: 29, 35
+	orig: 29, 35
+	offset: 0, 0
+	index: -1
+d_body_qiangdao
+	rotate: false
+	xy: 141, 303
+	size: 73, 92
+	orig: 73, 92
+	offset: 0, 0
+	index: -1
+f_coxa_qiangdao
+	rotate: true
+	xy: 367, 284
+	size: 53, 36
+	orig: 53, 36
+	offset: 0, 0
+	index: -1
+zuodabi_qiangdaobaozou
+	rotate: false
+	xy: 445, 154
+	size: 29, 51
+	orig: 29, 51
+	offset: 0, 0
+	index: -1
+a_Larm_qiangdao
+	rotate: true
+	xy: 385, 154
+	size: 46, 59
+	orig: 46, 59
+	offset: 0, 0
+	index: -1
+d_head1_qiangdao
+	rotate: true
+	xy: 190, 229
+	size: 73, 91
+	orig: 73, 91
+	offset: 0, 0
+	index: -1
+a_ber_qiangdao
+	rotate: true
+	xy: 0, 145
+	size: 154, 55
+	orig: 154, 55
+	offset: 0, 0
+	index: -1
+h_Rthin_qiangdao
+	rotate: false
+	xy: 476, 0
+	size: 36, 64
+	orig: 36, 64
+	offset: 0, 0
+	index: -1
+b_Lfoot_qiangdao
+	rotate: false
+	xy: 381, 443
+	size: 34, 40
+	orig: 34, 40
+	offset: 0, 0
+	index: -1
+youdabi_qiangdaobaozou
+	rotate: true
+	xy: 289, 288
+	size: 56, 45
+	orig: 56, 45
+	offset: 0, 0
+	index: -1
+c_body_qiangdao
+	rotate: true
+	xy: 159, 69
+	size: 61, 115
+	orig: 61, 115
+	offset: 0, 0
+	index: -1
+k_head_qiangdao
+	rotate: false
+	xy: 164, 131
+	size: 85, 97
+	orig: 85, 97
+	offset: 0, 0
+	index: -1
+a_hair1_qiangdao
+	rotate: false
+	xy: 56, 292
+	size: 18, 10
+	orig: 18, 10
+	offset: 0, 0
+	index: -1
+c_coxa_qiangdao
+	rotate: true
+	xy: 381, 391
+	size: 51, 34
+	orig: 51, 34
+	offset: 0, 0
+	index: -1
+zuodatui_qiangdaobaozou
+	rotate: false
+	xy: 291, 398
+	size: 49, 52
+	orig: 49, 52
+	offset: 0, 0
+	index: -1
+c_hair3_qiangdao
+	rotate: true
+	xy: 407, 78
+	size: 75, 67
+	orig: 75, 67
+	offset: 0, 0
+	index: -1
+youxiaotui_qiangdaobaozou
+	rotate: false
+	xy: 410, 336
+	size: 42, 52
+	orig: 42, 52
+	offset: 0, 0
+	index: -1
+h_Rfoot_qiangdao
+	rotate: false
+	xy: 475, 127
+	size: 37, 32
+	orig: 37, 32
+	offset: 0, 0
+	index: -1
+c_tou_qiangdaobaozou
+	rotate: true
+	xy: 321, 78
+	size: 75, 85
+	orig: 75, 85
+	offset: 0, 0
+	index: -1
+dang_qiangdaobaozou
+	rotate: true
+	xy: 291, 128
+	size: 56, 29
+	orig: 56, 29
+	offset: 0, 0
+	index: -1
+e_ber_qiangdao
+	rotate: false
+	xy: 341, 397
+	size: 39, 54
+	orig: 39, 54
+	offset: 0, 0
+	index: -1
+a_Lhand1_qiangdao
+	rotate: true
+	xy: 352, 452
+	size: 30, 28
+	orig: 30, 28
+	offset: 0, 0
+	index: -1
+h_coxa_qiangdao
+	rotate: true
+	xy: 404, 283
+	size: 52, 33
+	orig: 52, 33
+	offset: 0, 0
+	index: -1
+youdatui_qiangdaobaozou
+	rotate: true
+	xy: 118, 465
+	size: 47, 50
+	orig: 47, 50
+	offset: 0, 0
+	index: -1
+k_ber_qiangdao
+	rotate: false
+	xy: 321, 35
+	size: 146, 24
+	orig: 146, 24
+	offset: 0, 0
+	index: -1
+d_ber_qiangdao
+	rotate: true
+	xy: 56, 145
+	size: 146, 26
+	orig: 146, 26
+	offset: 0, 0
+	index: -1
+g_Larm_qiangdao
+	rotate: false
+	xy: 475, 65
+	size: 37, 61
+	orig: 37, 61
+	offset: 0, 0
+	index: -1
+f_Larm_qiangdao
+	rotate: true
+	xy: 416, 441
+	size: 34, 42
+	orig: 34, 42
+	offset: 0, 0
+	index: -1
+a_Rthin_qiangdao
+	rotate: true
+	xy: 169, 475
+	size: 37, 68
+	orig: 37, 68
+	offset: 0, 0
+	index: -1
+g_Lthigh_qiangdao
+	rotate: true
+	xy: 428, 236
+	size: 45, 47
+	orig: 45, 47
+	offset: 0, 0
+	index: -1
+d_Lthin_qiangdao
+	rotate: false
+	xy: 376, 338
+	size: 33, 52
+	orig: 33, 52
+	offset: 0, 0
+	index: -1
+b_Rthigh_qiangdao
+	rotate: true
+	xy: 0, 457
+	size: 55, 54
+	orig: 55, 54
+	offset: 0, 0
+	index: -1
+d_Rarm2_qiangdao
+	rotate: true
+	xy: 289, 345
+	size: 52, 50
+	orig: 52, 50
+	offset: 0, 0
+	index: -1
+gedang_qiangdao
+	rotate: false
+	xy: 83, 0
+	size: 75, 132
+	orig: 75, 134
+	offset: 0, 0
+	index: -1
+shenti_qiangdaobaozou
+	rotate: false
+	xy: 215, 303
+	size: 73, 100
+	orig: 73, 100
+	offset: 0, 0
+	index: -1
+f_Lthin_qiangdao
+	rotate: false
+	xy: 250, 131
+	size: 40, 64
+	orig: 40, 64
+	offset: 0, 0
+	index: -1
+k_Rforearm_qiangdao
+	rotate: true
+	xy: 483, 350
+	size: 34, 29
+	orig: 34, 29
+	offset: 0, 0
+	index: -1
+a_head2_qiangdao
+	rotate: true
+	xy: 47, 392
+	size: 59, 70
+	orig: 59, 70
+	offset: 0, 0
+	index: -1
+a_hair2_qiangdao
+	rotate: false
+	xy: 250, 196
+	size: 46, 32
+	orig: 46, 32
+	offset: 0, 0
+	index: -1
+a_Lfoot_qiangdaobaozou
+	rotate: false
+	xy: 435, 206
+	size: 39, 29
+	orig: 39, 29
+	offset: 0, 0
+	index: -1
+k_Rhand_qiangdao
+	rotate: false
+	xy: 441, 476
+	size: 28, 36
+	orig: 28, 36
+	offset: 0, 0
+	index: -1
+j_Larm_qiangdao
+	rotate: false
+	xy: 385, 201
+	size: 49, 25
+	orig: 49, 25
+	offset: 0, 0
+	index: -1
+tiegun_qiangdaobaozou
+	rotate: false
+	xy: 0, 0
+	size: 82, 144
+	orig: 82, 144
+	offset: 0, 0
+	index: -1
+k_Larm_qiangdao
+	rotate: false
+	xy: 386, 227
+	size: 41, 55
+	orig: 41, 55
+	offset: 0, 0
+	index: -1
+a_Rthigh_qiangdao
+	rotate: true
+	xy: 297, 194
+	size: 34, 53
+	orig: 34, 53
+	offset: 0, 0
+	index: -1
+a_body_qiangdao
+	rotate: true
+	xy: 83, 238
+	size: 64, 106
+	orig: 64, 106
+	offset: 0, 0
+	index: -1
+a_Lfoot_qiangdao
+	rotate: false
+	xy: 399, 484
+	size: 41, 28
+	orig: 41, 28
+	offset: 0, 0
+	index: -1
+j_ber_qiangdao
+	rotate: false
+	xy: 321, 60
+	size: 143, 17
+	orig: 143, 17
+	offset: 0, 0
+	index: -1
+g_coxa_qiangdao
+	rotate: false
+	xy: 459, 424
+	size: 46, 34
+	orig: 46, 34
+	offset: 0, 0
+	index: -1
+c_Rthin_qiangdao
+	rotate: true
+	xy: 55, 452
+	size: 46, 62
+	orig: 46, 62
+	offset: 0, 0
+	index: -1
+c_Rthigh_qiangdao
+	rotate: true
+	xy: 303, 474
+	size: 38, 48
+	orig: 38, 48
+	offset: 0, 0
+	index: -1
+k_Lhand_qiangdao
+	rotate: true
+	xy: 475, 192
+	size: 29, 37
+	orig: 29, 37
+	offset: 0, 0
+	index: -1
+d_Larm_qiangdao
+	rotate: false
+	xy: 335, 286
+	size: 31, 55
+	orig: 31, 55
+	offset: 0, 0
+	index: -1
+f_RLarm_qiangdao
+	rotate: true
+	xy: 475, 160
+	size: 31, 37
+	orig: 31, 37
+	offset: 0, 0
+	index: -1
+a_ber1_qiangdao
+	rotate: false
+	xy: 159, 38
+	size: 161, 30
+	orig: 161, 30
+	offset: 0, 0
+	index: -1
+zuoxiaotui_qiangdaobaozou
+	rotate: true
+	xy: 352, 484
+	size: 28, 46
+	orig: 28, 46
+	offset: 0, 0
+	index: -1
+b_coxa_qiangdao
+	rotate: false
+	xy: 459, 385
+	size: 47, 38
+	orig: 47, 38
+	offset: 0, 0
+	index: -1
+d_Rforearm_qiangdao
+	rotate: false
+	xy: 291, 451
+	size: 40, 22
+	orig: 40, 22
+	offset: 0, 0
+	index: -1
+g_Rforearm_qiangdao
+	rotate: true
+	xy: 453, 333
+	size: 34, 29
+	orig: 34, 29
+	offset: 0, 0
+	index: -1
+j_Rarm_qiangdao
+	rotate: true
+	xy: 483, 262
+	size: 51, 29
+	orig: 51, 29
+	offset: 0, 0
+	index: -1
+g_Rarm_qiangdao
+	rotate: false
+	xy: 470, 459
+	size: 39, 41
+	orig: 39, 41
+	offset: 0, 0
+	index: -1
+c_head1_qiangdao
+	rotate: true
+	xy: 206, 404
+	size: 70, 84
+	orig: 70, 84
+	offset: 0, 0
+	index: -1
+h_Lforearm_qiangdao
+	rotate: false
+	xy: 351, 194
+	size: 33, 33
+	orig: 33, 33
+	offset: 0, 0
+	index: -1
+b_Rthin_qiangdao
+	rotate: true
+	xy: 238, 475
+	size: 37, 64
+	orig: 37, 64
+	offset: 0, 0
+	index: -1
+i_ber_qiangdao
+	rotate: false
+	xy: 476, 222
+	size: 36, 39
+	orig: 36, 39
+	offset: 0, 0
+	index: -1
+g_head1_qiangdao
+	rotate: false
+	xy: 47, 303
+	size: 93, 88
+	orig: 93, 88
+	offset: 0, 0
+	index: -1
+a_Rarm_qiangdao
+	rotate: true
+	xy: 321, 154
+	size: 39, 63
+	orig: 39, 63
+	offset: 0, 0
+	index: -1
+h_Larm_qiangdao
+	rotate: false
+	xy: 275, 69
+	size: 45, 58
+	orig: 45, 58
+	offset: 0, 0
+	index: -1
+
+asset/anim/qiangdao1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_Rfoot_qiangdao
+	rotate: false
+	xy: 139, 198
+	size: 27, 25
+	orig: 27, 25
+	offset: 0, 0
+	index: -1
+youshou_qiangdaobaozou
+	rotate: false
+	xy: 174, 82
+	size: 29, 28
+	orig: 29, 28
+	offset: 0, 0
+	index: -1
+h_Rarm_qiangdao
+	rotate: false
+	xy: 140, 224
+	size: 31, 50
+	orig: 31, 50
+	offset: 0, 0
+	index: -1
+j_Lhand_qiangdao
+	rotate: true
+	xy: 248, 404
+	size: 30, 29
+	orig: 30, 29
+	offset: 0, 0
+	index: -1
+d_Rhand1_qiangdao
+	rotate: false
+	xy: 252, 333
+	size: 26, 28
+	orig: 26, 28
+	offset: 0, 0
+	index: -1
+b_hair2_qiangdao
+	rotate: true
+	xy: 185, 325
+	size: 46, 36
+	orig: 46, 36
+	offset: 0, 0
+	index: -1
+b_Rhand_qiangdao
+	rotate: false
+	xy: 233, 213
+	size: 29, 31
+	orig: 29, 31
+	offset: 0, 0
+	index: -1
+h_Lthigh_qiangdao
+	rotate: true
+	xy: 202, 468
+	size: 43, 50
+	orig: 43, 50
+	offset: 0, 0
+	index: -1
+a_Lforearm_qiangdao
+	rotate: false
+	xy: 64, 474
+	size: 25, 38
+	orig: 25, 38
+	offset: 0, 0
+	index: -1
+c_hair3_qiangdaobaozou
+	rotate: true
+	xy: 132, 0
+	size: 81, 70
+	orig: 81, 70
+	offset: 0, 0
+	index: -1
+h_Rthigh_qiangdao
+	rotate: false
+	xy: 165, 388
+	size: 45, 50
+	orig: 45, 50
+	offset: 0, 0
+	index: -1
+c_head_baozou_qiangdao
+	rotate: false
+	xy: 160, 275
+	size: 34, 49
+	orig: 34, 49
+	offset: 0, 0
+	index: -1
+a_Lhand2_qiangdao
+	rotate: true
+	xy: 248, 275
+	size: 28, 27
+	orig: 28, 27
+	offset: 0, 0
+	index: -1
+f_Rhand_qiangdao
+	rotate: true
+	xy: 187, 147
+	size: 35, 24
+	orig: 35, 24
+	offset: 0, 0
+	index: -1
+a_Rhand1_qiangdao
+	rotate: true
+	xy: 159, 111
+	size: 35, 33
+	orig: 35, 33
+	offset: 0, 0
+	index: -1
+j_Rforearm_qiangdao
+	rotate: false
+	xy: 140, 448
+	size: 18, 20
+	orig: 18, 20
+	offset: 0, 0
+	index: -1
+f_Lthigh_qiangdao
+	rotate: true
+	xy: 118, 469
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+i_Rhand_qiangdao
+	rotate: false
+	xy: 194, 183
+	size: 30, 33
+	orig: 30, 33
+	offset: 0, 0
+	index: -1
+h_Rforearm_qiangdao
+	rotate: true
+	xy: 159, 448
+	size: 19, 32
+	orig: 19, 32
+	offset: 0, 0
+	index: -1
+a_eye2_qiangdao
+	rotate: true
+	xy: 140, 111
+	size: 38, 18
+	orig: 38, 18
+	offset: 0, 0
+	index: -1
+f_ber_qiangdao
+	rotate: false
+	xy: 33, 474
+	size: 30, 38
+	orig: 30, 38
+	offset: 0, 0
+	index: -1
+a_Rhand_qiangdao
+	rotate: false
+	xy: 193, 111
+	size: 31, 34
+	orig: 31, 34
+	offset: 0, 0
+	index: -1
+a_eye3_qiangdao
+	rotate: true
+	xy: 140, 150
+	size: 38, 18
+	orig: 38, 18
+	offset: 0, 0
+	index: -1
+b_Lthin_qiangdao
+	rotate: true
+	xy: 105, 224
+	size: 63, 34
+	orig: 63, 34
+	offset: 0, 0
+	index: -1
+j_Rhand_qiangdao
+	rotate: true
+	xy: 309, 444
+	size: 25, 24
+	orig: 25, 24
+	offset: 0, 0
+	index: -1
+b_Rforearm_qiangdao
+	rotate: true
+	xy: 68, 198
+	size: 25, 41
+	orig: 25, 41
+	offset: 0, 0
+	index: -1
+f_Lforearm_qiangdao
+	rotate: true
+	xy: 212, 146
+	size: 33, 30
+	orig: 33, 30
+	offset: 0, 0
+	index: -1
+b_Rarm1_qiangdao
+	rotate: false
+	xy: 72, 224
+	size: 32, 65
+	orig: 32, 65
+	offset: 0, 0
+	index: -1
+b_hair3_qiangdao
+	rotate: true
+	xy: 0, 402
+	size: 71, 65
+	orig: 71, 65
+	offset: 0, 0
+	index: -1
+b_body1_qiangdao
+	rotate: false
+	xy: 65, 0
+	size: 66, 110
+	orig: 66, 110
+	offset: 0, 0
+	index: -1
+a_Lhand4_qiangdao
+	rotate: false
+	xy: 281, 465
+	size: 27, 29
+	orig: 27, 29
+	offset: 0, 0
+	index: -1
+b_Rarm_qiangdao
+	rotate: true
+	xy: 136, 329
+	size: 58, 48
+	orig: 58, 48
+	offset: 0, 0
+	index: -1
+d_Lfoot_qiangdao
+	rotate: true
+	xy: 211, 372
+	size: 41, 26
+	orig: 41, 26
+	offset: 0, 0
+	index: -1
+b_head_benghuai_qiangdao
+	rotate: false
+	xy: 0, 329
+	size: 53, 72
+	orig: 53, 72
+	offset: 0, 0
+	index: -1
+a_Rfoot_qiangdao
+	rotate: true
+	xy: 249, 304
+	size: 28, 27
+	orig: 28, 27
+	offset: 0, 0
+	index: -1
+b_head2_qiangdao
+	rotate: false
+	xy: 54, 329
+	size: 53, 71
+	orig: 53, 71
+	offset: 0, 0
+	index: -1
+a_Lhand3_qiangdao
+	rotate: true
+	xy: 248, 245
+	size: 29, 26
+	orig: 29, 26
+	offset: 0, 0
+	index: -1
+g_Lforearm_qiangdao
+	rotate: false
+	xy: 116, 288
+	size: 22, 40
+	orig: 22, 40
+	offset: 0, 0
+	index: -1
+b_body2_qiangdao
+	rotate: false
+	xy: 0, 113
+	size: 67, 110
+	orig: 67, 110
+	offset: 0, 0
+	index: -1
+d_Rhand2_qiangdao
+	rotate: false
+	xy: 291, 418
+	size: 25, 25
+	orig: 25, 25
+	offset: 0, 0
+	index: -1
+d_Rarm1_qiangdao
+	rotate: false
+	xy: 172, 219
+	size: 30, 33
+	orig: 30, 33
+	offset: 0, 0
+	index: -1
+f_Lfoot_qiangdao
+	rotate: true
+	xy: 0, 474
+	size: 38, 32
+	orig: 38, 32
+	offset: 0, 0
+	index: -1
+b_body3_qiangdao
+	rotate: false
+	xy: 0, 0
+	size: 64, 112
+	orig: 64, 112
+	offset: 0, 0
+	index: -1
+b_Lthigh_qiangdao
+	rotate: false
+	xy: 113, 389
+	size: 51, 58
+	orig: 51, 58
+	offset: 0, 0
+	index: -1
+f_body_qiangdao
+	rotate: false
+	xy: 0, 224
+	size: 71, 104
+	orig: 71, 104
+	offset: 0, 0
+	index: -1
+a_head1_qiangdao
+	rotate: true
+	xy: 66, 401
+	size: 69, 46
+	orig: 69, 46
+	offset: 0, 0
+	index: -1
+f_Lhand1_qiangdao
+	rotate: true
+	xy: 220, 250
+	size: 32, 27
+	orig: 32, 27
+	offset: 0, 0
+	index: -1
+g_body_qiangdao
+	rotate: false
+	xy: 68, 111
+	size: 71, 86
+	orig: 71, 86
+	offset: 0, 0
+	index: -1
+d_Lhand1_qiangdao
+	rotate: true
+	xy: 227, 439
+	size: 28, 34
+	orig: 28, 34
+	offset: 0, 0
+	index: -1
+a_Rforearm_qiangdao
+	rotate: false
+	xy: 90, 471
+	size: 27, 41
+	orig: 27, 41
+	offset: 0, 0
+	index: -1
+i_Lhand1_qiangdao
+	rotate: false
+	xy: 113, 448
+	size: 26, 20
+	orig: 26, 20
+	offset: 0, 0
+	index: -1
+b_Rfoot_qiangdao
+	rotate: false
+	xy: 132, 82
+	size: 41, 28
+	orig: 41, 28
+	offset: 0, 0
+	index: -1
+a_Lthin_qiangdao
+	rotate: false
+	xy: 108, 329
+	size: 27, 59
+	orig: 27, 59
+	offset: 0, 0
+	index: -1
+d_Lforearm_qiangdao
+	rotate: true
+	xy: 192, 439
+	size: 28, 34
+	orig: 28, 34
+	offset: 0, 0
+	index: -1
+zuoshou_qiangdaobaozou
+	rotate: true
+	xy: 225, 180
+	size: 32, 29
+	orig: 32, 29
+	offset: 0, 0
+	index: -1
+i_Lhand2_qiangdao
+	rotate: false
+	xy: 211, 414
+	size: 36, 24
+	orig: 36, 24
+	offset: 0, 0
+	index: -1
+f_Rforearm_qiangdao
+	rotate: true
+	xy: 72, 290
+	size: 38, 24
+	orig: 38, 24
+	offset: 0, 0
+	index: -1
+h_Lhand_qiangdao
+	rotate: false
+	xy: 262, 435
+	size: 28, 29
+	orig: 28, 29
+	offset: 0, 0
+	index: -1
+b_eye1_qiangdao
+	rotate: false
+	xy: 172, 253
+	size: 24, 18
+	orig: 24, 18
+	offset: 0, 0
+	index: -1
+c_Rhand1_qiangdao
+	rotate: true
+	xy: 167, 183
+	size: 35, 26
+	orig: 35, 26
+	offset: 0, 0
+	index: -1
+zuoxiaobi_qiangdaobaozou
+	rotate: true
+	xy: 238, 372
+	size: 31, 26
+	orig: 31, 26
+	offset: 0, 0
+	index: -1
+youxie_qiangdaobaozou
+	rotate: true
+	xy: 253, 468
+	size: 39, 27
+	orig: 39, 27
+	offset: 0, 0
+	index: -1
+g_Lhand_qiangdao
+	rotate: true
+	xy: 222, 315
+	size: 31, 26
+	orig: 31, 26
+	offset: 0, 0
+	index: -1
+h_Rhand1_qiangdao
+	rotate: false
+	xy: 265, 362
+	size: 27, 27
+	orig: 27, 27
+	offset: 0, 0
+	index: -1
+a_eye1_qiangdao
+	rotate: true
+	xy: 97, 290
+	size: 38, 18
+	orig: 38, 18
+	offset: 0, 0
+	index: -1
+h_Rhand2_qiangdao
+	rotate: false
+	xy: 278, 390
+	size: 23, 27
+	orig: 23, 27
+	offset: 0, 0
+	index: -1
+youxiaobi_qiangdaobaozou
+	rotate: true
+	xy: 195, 272
+	size: 33, 24
+	orig: 33, 24
+	offset: 0, 0
+	index: -1
+d_coxa_qiangdao
+	rotate: true
+	xy: 170, 468
+	size: 44, 31
+	orig: 44, 31
+	offset: 0, 0
+	index: -1
+f_Lhand2_qiangdao
+	rotate: true
+	xy: 203, 217
+	size: 32, 29
+	orig: 32, 29
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1

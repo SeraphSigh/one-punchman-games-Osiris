@@ -1,0 +1,199 @@
+
+asset/anim/jiangshinanSECOMMON2.png
+size: 1018,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jiangshinan_xuanzhuanhou_00032
+	rotate: true
+	xy: 943, 755
+	size: 60, 42
+	orig: 138, 108
+	offset: 7, 26
+	index: -1
+common/jiangshinan_xuanzhuanhou_00033
+	rotate: false
+	xy: 572, 965
+	size: 86, 50
+	orig: 138, 108
+	offset: 7, 27
+	index: -1
+common/jiangshinan_xuanzhuanhou_00036
+	rotate: true
+	xy: 527, 841
+	size: 104, 44
+	orig: 138, 108
+	offset: 18, 40
+	index: -1
+common/canying2_jiangshinanxin
+	rotate: false
+	xy: 740, 0
+	size: 217, 112
+	orig: 217, 112
+	offset: 0, 0
+	index: -1
+common/jiangshinan_dimianguang2_00022_00035
+	rotate: false
+	xy: 0, 881
+	size: 151, 140
+	orig: 331, 214
+	offset: 53, 62
+	index: -1
+
+asset/anim/jiangshinanSECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jiangshinan_xuanzhuanhou_00031
+	rotate: true
+	xy: 992, 874
+	size: 36, 32
+	orig: 138, 108
+	offset: 7, 26
+	index: -1
+common/jiangshinan_xuanzhuanhou_00037
+	rotate: true
+	xy: 997, 0
+	size: 82, 26
+	orig: 138, 108
+	offset: 40, 54
+	index: -1
+common/jiangshinan_dimianguang2_00022_00029
+	rotate: false
+	xy: 368, 200
+	size: 331, 198
+	orig: 331, 214
+	offset: 0, 4
+	index: -1
+common/jiangshinan_dimianliewen_00033
+	rotate: false
+	xy: 0, 419
+	size: 357, 192
+	orig: 371, 202
+	offset: 10, 3
+	index: -1
+common/jiangshinan_dimianliewen_00036
+	rotate: true
+	xy: 841, 568
+	size: 305, 156
+	orig: 371, 202
+	offset: 32, 23
+	index: -1
+common/jiangshinan_dimianliewen_00034
+	rotate: false
+	xy: 368, 399
+	size: 329, 168
+	orig: 371, 202
+	offset: 23, 15
+	index: -1
+common/jiangshinan_dimianliewen_00035
+	rotate: true
+	xy: 678, 568
+	size: 319, 162
+	orig: 371, 202
+	offset: 28, 20
+	index: -1
+common/jiangshinan_dimianliewen_00038
+	rotate: false
+	xy: 505, 896
+	size: 273, 128
+	orig: 371, 202
+	offset: 53, 42
+	index: -1
+common/canying1_jiangshinanxin
+	rotate: true
+	xy: 880, 392
+	size: 175, 114
+	orig: 177, 114
+	offset: 2, 0
+	index: -1
+common/jiangshinan_dimianguang2_00022_00033
+	rotate: true
+	xy: 505, 568
+	size: 327, 172
+	orig: 331, 214
+	offset: 0, 31
+	index: -1
+common/jiangshinan_dimianguang2_00022_00032
+	rotate: true
+	xy: 332, 612
+	size: 331, 172
+	orig: 331, 214
+	offset: 0, 30
+	index: -1
+common/jiangshinan_dimianguang2_00022_00031
+	rotate: false
+	xy: 0, 811
+	size: 331, 198
+	orig: 331, 214
+	offset: 0, 5
+	index: -1
+common/jiangshinan_dimianguang2_00022_00030
+	rotate: false
+	xy: 0, 612
+	size: 331, 198
+	orig: 331, 214
+	offset: 0, 5
+	index: -1
+
+asset/anim/jiangshinanSECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jiangshinan_xuanzhuanhou_00038
+	rotate: true
+	xy: 610, 371
+	size: 54, 16
+	orig: 138, 108
+	offset: 68, 60
+	index: -1
+common/jiangshinan_xuanzhuanhou_00034
+	rotate: true
+	xy: 968, 0
+	size: 106, 56
+	orig: 138, 108
+	offset: 8, 27
+	index: -1
+common/jiangshinan_xuanzhuanhou_00035
+	rotate: true
+	xy: 966, 801
+	size: 110, 54
+	orig: 138, 108
+	offset: 11, 29
+	index: -1
+common/jiangshinan_dimianliewen_00037
+	rotate: false
+	xy: 0, 0
+	size: 277, 132
+	orig: 371, 202
+	offset: 52, 40
+	index: -1
+common/jiangshinan_dimianliewen_00039
+	rotate: false
+	xy: 0, 133
+	size: 269, 112
+	orig: 371, 202
+	offset: 55, 55
+	index: -1
+common/jiangshinan_dimianguang2_00022_00034
+	rotate: false
+	xy: 543, 0
+	size: 235, 152
+	orig: 331, 214
+	offset: 37, 51
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

@@ -1,0 +1,20 @@
+
+asset/anim/chuixue2COMMON0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/chuixue2_baidi_1
+	rotate: false
+	xy: 1023, 2015
+	size: 30, 30
+	orig: 30, 30
+	offset: 0, 0
+	index: -1
+common/chuixue2_heidi
+	rotate: false
+	xy: 1915, 1901
+	size: 99, 99
+	orig: 99, 99
+	offset: 0, 0
+	index: -1

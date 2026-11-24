@@ -1,0 +1,104 @@
+
+asset/anim/guairenqiaozeSEATTACK0.png
+size: 964,996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/guairenqiaoze_pg_guiji3_039
+	rotate: true
+	xy: 808, 365
+	size: 242, 156
+	orig: 334, 202
+	offset: 75, 0
+	index: -1
+attack/guairenqiaoze_pg_guiji3_038
+	rotate: true
+	xy: 263, 161
+	size: 178, 124
+	orig: 334, 202
+	offset: 148, 3
+	index: -1
+attack/guairenqiaoze_pg_guiji3_047
+	rotate: false
+	xy: 553, 528
+	size: 236, 168
+	orig: 334, 202
+	offset: 96, 7
+	index: -1
+attack/guairenqiaoze_pg_guiji3_037
+	rotate: true
+	xy: 827, 252
+	size: 108, 130
+	orig: 334, 202
+	offset: 219, 17
+	index: -1
+attack/guairenqiaoze_pg_guiji3_048
+	rotate: true
+	xy: 579, 780
+	size: 202, 160
+	orig: 334, 202
+	offset: 118, 8
+	index: -1
+attack/guairenqiaoze_pg_guiji3_049
+	rotate: false
+	xy: 740, 780
+	size: 90, 116
+	orig: 334, 202
+	offset: 171, 42
+	index: -1
+attack/guairenqiaoze_pg_guiji3_040
+	rotate: false
+	xy: 572, 0
+	size: 278, 148
+	orig: 334, 202
+	offset: 22, 1
+	index: -1
+attack/guairenqiaoze_pg_guiji3_041
+	rotate: false
+	xy: 0, 161
+	size: 262, 178
+	orig: 334, 202
+	offset: 11, 5
+	index: -1
+attack/guairenqiaoze_pg_guiji3_042
+	rotate: true
+	xy: 368, 563
+	size: 232, 176
+	orig: 334, 202
+	offset: 12, 14
+	index: -1
+attack/guairenqiaoze_pg_guiji3_043
+	rotate: false
+	xy: 0, 0
+	size: 290, 160
+	orig: 334, 202
+	offset: 33, 30
+	index: -1
+attack/guairenqiaoze_pg_guiji3_044
+	rotate: false
+	xy: 291, 0
+	size: 280, 156
+	orig: 334, 202
+	offset: 54, 31
+	index: -1
+attack/guairenqiaoze_pg_guiji3_045
+	rotate: true
+	xy: 215, 640
+	size: 268, 152
+	orig: 334, 202
+	offset: 66, 28
+	index: -1
+attack/guairenqiaoze_pg_guiji3_046
+	rotate: false
+	xy: 553, 365
+	size: 254, 162
+	orig: 334, 202
+	offset: 80, 15
+	index: -1
+attack/guairenqiaoze_pg_guiji3_050
+	rotate: true
+	xy: 215, 909
+	size: 86, 98
+	orig: 334, 202
+	offset: 167, 40
+	index: -1

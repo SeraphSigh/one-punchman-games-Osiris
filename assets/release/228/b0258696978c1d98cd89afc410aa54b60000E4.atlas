@@ -1,0 +1,13 @@
+
+asset/anim/suonike2SESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/snk2_atk_cihua_00076
+	rotate: true
+	xy: 596, 848
+	size: 171, 137
+	orig: 247, 219
+	offset: 57, 26
+	index: -1

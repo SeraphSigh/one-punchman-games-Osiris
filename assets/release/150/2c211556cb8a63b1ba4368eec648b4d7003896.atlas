@@ -1,0 +1,860 @@
+
+asset/anim/dajiongyan21.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2a_youmeimao_bishouxiaoguaiA
+	rotate: false
+	xy: 196, 148
+	size: 29, 18
+	orig: 29, 18
+	offset: 0, 0
+	index: -1
+DJY2h_youjiao_bishouxiaoguaiA
+	rotate: true
+	xy: 151, 470
+	size: 23, 20
+	orig: 23, 20
+	offset: 0, 0
+	index: -1
+DJY2a_tou_bishouxiaoguaiA
+	rotate: false
+	xy: 279, 422
+	size: 78, 90
+	orig: 78, 90
+	offset: 0, 0
+	index: -1
+DJY2f_zuoshou_bishouxiaoguaiA
+	rotate: false
+	xy: 143, 318
+	size: 74, 5
+	orig: 74, 5
+	offset: 0, 0
+	index: -1
+DJY2i_zuojiao_bishouxiaoguaiA
+	rotate: false
+	xy: 47, 495
+	size: 32, 17
+	orig: 32, 17
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan20.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2e_zuodabi_bishouxiaoguaiA
+	rotate: true
+	xy: 244, 435
+	size: 60, 31
+	orig: 60, 31
+	offset: 0, 0
+	index: -1
+DJY2a_zuobiao_bishouxiaoguaiA
+	rotate: false
+	xy: 492, 495
+	size: 7, 16
+	orig: 7, 16
+	offset: 0, 0
+	index: -1
+DJY2a_youyan_bishouxiaoguaiA
+	rotate: false
+	xy: 242, 497
+	size: 19, 11
+	orig: 19, 11
+	offset: 0, 0
+	index: -1
+DJY2a_zuoyan_bishouxiaoguaiA
+	rotate: true
+	xy: 262, 496
+	size: 16, 9
+	orig: 16, 9
+	offset: 0, 0
+	index: -1
+DJY2g_zuodabi_bishouxiaoguaiA
+	rotate: true
+	xy: 482, 0
+	size: 56, 30
+	orig: 56, 30
+	offset: 0, 0
+	index: -1
+DJY2c_zuodatui_bishouxiaoguaiA
+	rotate: true
+	xy: 482, 57
+	size: 50, 30
+	orig: 50, 30
+	offset: 0, 0
+	index: -1
+DJY2a_zuomeimao_bishouxiaoguaiA
+	rotate: false
+	xy: 162, 497
+	size: 18, 12
+	orig: 18, 12
+	offset: 0, 0
+	index: -1
+DJY2a_zuoshouhou_bishouxiaoguaiA
+	rotate: true
+	xy: 232, 497
+	size: 12, 9
+	orig: 12, 9
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan23.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2b_youshou1_bishouxiaoguaiA
+	rotate: true
+	xy: 338, 205
+	size: 48, 64
+	orig: 48, 64
+	offset: 0, 0
+	index: -1
+DJY2a_youbiao_bishouxiaoguaiA
+	rotate: false
+	xy: 340, 370
+	size: 62, 93
+	orig: 62, 93
+	offset: 0, 0
+	index: -1
+DJY2c_youbiao_bishouxiaoguaiA
+	rotate: true
+	xy: 430, 317
+	size: 77, 82
+	orig: 77, 82
+	offset: 0, 0
+	index: -1
+DJY2h_youxiaobi_bishouxiaoguaiA
+	rotate: true
+	xy: 294, 197
+	size: 22, 43
+	orig: 22, 43
+	offset: 0, 0
+	index: -1
+DJY2d_zuoxiaobi_bishouxiaoguaiA
+	rotate: false
+	xy: 249, 197
+	size: 44, 22
+	orig: 44, 22
+	offset: 0, 0
+	index: -1
+DJY2a_youjiao_bishouxiaoguaiA
+	rotate: true
+	xy: 86, 232
+	size: 17, 25
+	orig: 17, 25
+	offset: 0, 0
+	index: -1
+DJY2c_zuojiao_bishouxiaoguaiA
+	rotate: false
+	xy: 167, 106
+	size: 35, 16
+	orig: 35, 16
+	offset: 0, 0
+	index: -1
+DJY2i_zuodatui_bishouxiaoguaiA
+	rotate: false
+	xy: 307, 44
+	size: 42, 39
+	orig: 42, 39
+	offset: 0, 0
+	index: -1
+DJY2f_shenti_bishouxiaoguaiA
+	rotate: false
+	xy: 403, 86
+	size: 66, 82
+	orig: 66, 82
+	offset: 0, 0
+	index: -1
+DJY2c_youxiaotui_bishouxiaoguaiA
+	rotate: true
+	xy: 375, 0
+	size: 43, 26
+	orig: 43, 26
+	offset: 0, 0
+	index: -1
+DJY2c_youshou_bishouxiaoguaiA
+	rotate: true
+	xy: 484, 395
+	size: 68, 25
+	orig: 68, 25
+	offset: 0, 0
+	index: -1
+DJY2baozou_bishouxiaoguaiA
+	rotate: true
+	xy: 214, 44
+	size: 78, 92
+	orig: 78, 92
+	offset: 0, 0
+	index: -1
+DJY2a_zuoshou_bishouxiaoguaiA
+	rotate: false
+	xy: 403, 370
+	size: 26, 24
+	orig: 26, 24
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan22.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2f_youshou_bishouxiaoguaiA
+	rotate: false
+	xy: 331, 364
+	size: 79, 25
+	orig: 79, 25
+	offset: 0, 0
+	index: -1
+DJY2i_youshou_bishouxiaoguaiA
+	rotate: true
+	xy: 401, 341
+	size: 22, 78
+	orig: 22, 78
+	offset: 0, 0
+	index: -1
+DJY2h_zuojiao_bishouxiaoguaiA
+	rotate: false
+	xy: 335, 495
+	size: 30, 17
+	orig: 30, 17
+	offset: 0, 0
+	index: -1
+DJY2c_youdabi_bishouxiaoguaiA
+	rotate: false
+	xy: 76, 349
+	size: 55, 39
+	orig: 55, 39
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan25.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2j_zuoxiaotui_bishouxiaoguaiA
+	rotate: true
+	xy: 426, 94
+	size: 27, 42
+	orig: 27, 42
+	offset: 0, 0
+	index: -1
+DJY2j_zuoshou1_bishouxiaoguaiA
+	rotate: true
+	xy: 304, 349
+	size: 62, 41
+	orig: 62, 41
+	offset: 0, 0
+	index: -1
+DJY2d_youshou1_bishouxiaoguaiA
+	rotate: false
+	xy: 166, 451
+	size: 43, 61
+	orig: 43, 61
+	offset: 0, 0
+	index: -1
+DJY2j_youxiaotui_bishouxiaoguaiA
+	rotate: false
+	xy: 303, 485
+	size: 46, 27
+	orig: 46, 27
+	offset: 0, 0
+	index: -1
+DJY2d_shenti_bishouxiaoguaiA
+	rotate: false
+	xy: 144, 0
+	size: 74, 74
+	orig: 74, 74
+	offset: 0, 0
+	index: -1
+DJY2g_youdabi_bishouxiaoguaiA
+	rotate: false
+	xy: 453, 461
+	size: 59, 39
+	orig: 59, 39
+	offset: 0, 0
+	index: -1
+DJY2g_zuoxiaobi_bishouxiaoguaiA
+	rotate: false
+	xy: 469, 229
+	size: 42, 23
+	orig: 42, 23
+	offset: 0, 0
+	index: -1
+DJY2b_zuoshou1_bishouxiaoguaiA
+	rotate: false
+	xy: 194, 367
+	size: 63, 68
+	orig: 63, 68
+	offset: 0, 0
+	index: -1
+DJY2f_youdabi_bishouxiaoguaiA
+	rotate: true
+	xy: 0, 459
+	size: 53, 51
+	orig: 53, 51
+	offset: 0, 0
+	index: -1
+DJY2h_shenti_bishouxiaoguaiA
+	rotate: false
+	xy: 0, 310
+	size: 74, 75
+	orig: 74, 75
+	offset: 0, 0
+	index: -1
+DJY2c_zuoxiaotui_bishouxiaoguaiA
+	rotate: true
+	xy: 469, 179
+	size: 23, 43
+	orig: 23, 43
+	offset: 0, 0
+	index: -1
+DJY2d_zuoshou_bishouxiaoguaiA
+	rotate: false
+	xy: 469, 120
+	size: 43, 34
+	orig: 43, 34
+	offset: 0, 0
+	index: -1
+DJY2a_youxiaobi_bishouxiaoguaiA
+	rotate: false
+	xy: 426, 61
+	size: 42, 32
+	orig: 42, 32
+	offset: 0, 0
+	index: -1
+DJY2h_zuoshou_bishouxiaoguaiA
+	rotate: false
+	xy: 378, 63
+	size: 47, 60
+	orig: 47, 60
+	offset: 0, 0
+	index: -1
+DJY2a_zuodabi_bishouxiaoguaiA
+	rotate: true
+	xy: 469, 413
+	size: 47, 41
+	orig: 47, 41
+	offset: 0, 0
+	index: -1
+DJY2j_zuodatui_bishouxiaoguaiA
+	rotate: true
+	xy: 383, 192
+	size: 52, 24
+	orig: 52, 24
+	offset: 0, 0
+	index: -1
+DJY2j_youdao_bishouxiaoguaiA
+	rotate: false
+	xy: 265, 0
+	size: 21, 69
+	orig: 21, 69
+	offset: 0, 0
+	index: -1
+DJY2i_zuoshou_bishouxiaoguaiA
+	rotate: false
+	xy: 260, 70
+	size: 24, 69
+	orig: 24, 69
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan24.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2a_zuodao_bishouxiaoguaiA
+	rotate: false
+	xy: 414, 227
+	size: 77, 28
+	orig: 77, 28
+	offset: 0, 0
+	index: -1
+DJY2j_tou_bishouxiaoguaiA
+	rotate: false
+	xy: 80, 0
+	size: 75, 88
+	orig: 75, 88
+	offset: 0, 0
+	index: -1
+DJY2j_zuodabi_bishouxiaoguaiA
+	rotate: true
+	xy: 283, 137
+	size: 50, 29
+	orig: 50, 29
+	offset: 0, 0
+	index: -1
+DJY2j_shenti_bishouxiaoguaiA
+	rotate: false
+	xy: 346, 371
+	size: 76, 79
+	orig: 76, 79
+	offset: 0, 0
+	index: -1
+DJY2i_youjiao_bishouxiaoguaiA
+	rotate: false
+	xy: 492, 227
+	size: 20, 21
+	orig: 20, 21
+	offset: 0, 0
+	index: -1
+DJY2siwang_bishouxiaoguaiA
+	rotate: false
+	xy: 136, 371
+	size: 78, 89
+	orig: 78, 89
+	offset: 0, 0
+	index: -1
+DJY2h_tou_bishouxiaoguaiA
+	rotate: false
+	xy: 68, 186
+	size: 77, 89
+	orig: 77, 89
+	offset: 0, 0
+	index: -1
+DJY2j_youshou_bishouxiaoguaiA
+	rotate: false
+	xy: 414, 188
+	size: 20, 25
+	orig: 20, 25
+	offset: 0, 0
+	index: -1
+DJY2beiji_bishouxiaoguaiA
+	rotate: false
+	xy: 0, 93
+	size: 78, 92
+	orig: 78, 92
+	offset: 0, 0
+	index: -1
+DJY2i_shenti_bishouxiaoguaiA
+	rotate: false
+	xy: 208, 173
+	size: 57, 82
+	orig: 57, 82
+	offset: 0, 0
+	index: -1
+DJY2h_youshou_bishouxiaoguaiA
+	rotate: false
+	xy: 464, 356
+	size: 47, 34
+	orig: 47, 34
+	offset: 0, 0
+	index: -1
+DJY2j_youdabi_bishouxiaoguaiA
+	rotate: true
+	xy: 366, 334
+	size: 36, 56
+	orig: 36, 56
+	offset: 0, 0
+	index: -1
+DJY2c_tou_bishouxiaoguaiA
+	rotate: false
+	xy: 64, 279
+	size: 74, 91
+	orig: 74, 91
+	offset: 0, 0
+	index: -1
+DJY2a_youdao_bishouxiaoguaiA
+	rotate: false
+	xy: 261, 85
+	size: 21, 81
+	orig: 21, 81
+	offset: 0, 0
+	index: -1
+DJY2i_tou_bishouxiaoguaiA
+	rotate: false
+	xy: 0, 0
+	size: 79, 92
+	orig: 79, 92
+	offset: 0, 0
+	index: -1
+DJY2i_zuodabi_bishouxiaoguaiA
+	rotate: false
+	xy: 484, 451
+	size: 28, 53
+	orig: 28, 53
+	offset: 0, 0
+	index: -1
+DJY2a_zuoxiaotui_bishouxiaoguaiA
+	rotate: false
+	xy: 343, 39
+	size: 20, 41
+	orig: 20, 41
+	offset: 0, 0
+	index: -1
+DJY2c_zuodabi_bishouxiaoguaiA
+	rotate: true
+	xy: 283, 81
+	size: 55, 29
+	orig: 55, 29
+	offset: 0, 0
+	index: -1
+DJY2i_youxiaotui_bishouxiaoguaiA
+	rotate: false
+	xy: 343, 0
+	size: 22, 38
+	orig: 22, 38
+	offset: 0, 0
+	index: -1
+DJY2benghuai_bishouxiaoguaiA
+	rotate: false
+	xy: 0, 372
+	size: 78, 91
+	orig: 78, 91
+	offset: 0, 0
+	index: -1
+DJY2g_youshou_bishouxiaoguaiA
+	rotate: true
+	xy: 316, 371
+	size: 80, 29
+	orig: 80, 29
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan26.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2a_youdabi_bishouxiaoguaiA
+	rotate: true
+	xy: 0, 414
+	size: 58, 32
+	orig: 58, 32
+	offset: 0, 0
+	index: -1
+DJY2b_youdabi_bishouxiaoguaiA
+	rotate: true
+	xy: 96, 174
+	size: 52, 33
+	orig: 52, 33
+	offset: 0, 0
+	index: -1
+DJY2i_youdabi_bishouxiaoguaiA
+	rotate: true
+	xy: 283, 0
+	size: 39, 27
+	orig: 39, 27
+	offset: 0, 0
+	index: -1
+DJY2a_zuoxiaobi_bishouxiaoguaiA
+	rotate: false
+	xy: 343, 201
+	size: 24, 36
+	orig: 24, 36
+	offset: 0, 0
+	index: -1
+DJY2d_youxiaobi_bishouxiaoguaiA
+	rotate: true
+	xy: 353, 155
+	size: 36, 22
+	orig: 36, 22
+	offset: 0, 0
+	index: -1
+DJY2h_youdabi_bishouxiaoguaiA
+	rotate: false
+	xy: 170, 47
+	size: 41, 45
+	orig: 41, 45
+	offset: 0, 0
+	index: -1
+DJY2i_zuoxiaobi_bishouxiaoguaiA
+	rotate: true
+	xy: 198, 192
+	size: 44, 20
+	orig: 44, 20
+	offset: 0, 0
+	index: -1
+DJY2c_zuoshou_bishouxiaoguaiA
+	rotate: true
+	xy: 36, 237
+	size: 56, 23
+	orig: 56, 23
+	offset: 0, 0
+	index: -1
+DJY2c_youjiao_bishouxiaoguaiA
+	rotate: true
+	xy: 368, 192
+	size: 32, 25
+	orig: 32, 25
+	offset: 0, 0
+	index: -1
+DJY2f_youxiaobi_bishouxiaoguaiA
+	rotate: true
+	xy: 201, 353
+	size: 48, 32
+	orig: 48, 32
+	offset: 0, 0
+	index: -1
+DJY2a_youshou_bishouxiaoguaiA
+	rotate: true
+	xy: 339, 344
+	size: 28, 27
+	orig: 28, 27
+	offset: 0, 0
+	index: -1
+DJY2d_youdabi_bishouxiaoguaiA
+	rotate: true
+	xy: 0, 473
+	size: 39, 53
+	orig: 39, 53
+	offset: 0, 0
+	index: -1
+DJY2c_kua_bishouxiaoguaiA
+	rotate: true
+	xy: 394, 37
+	size: 35, 33
+	orig: 35, 33
+	offset: 0, 0
+	index: -1
+DJY2h_kua_bishouxiaoguaiA
+	rotate: false
+	xy: 243, 320
+	size: 39, 32
+	orig: 39, 32
+	offset: 0, 0
+	index: -1
+DJY2h_zuodatui_bishouxiaoguaiA
+	rotate: false
+	xy: 238, 92
+	size: 37, 39
+	orig: 37, 39
+	offset: 0, 0
+	index: -1
+DJY2d_bozi_bishouxiaoguaiA
+	rotate: true
+	xy: 302, 478
+	size: 34, 26
+	orig: 34, 26
+	offset: 0, 0
+	index: -1
+DJY2j_zuoxiaobi_bishouxiaoguaiA
+	rotate: false
+	xy: 282, 212
+	size: 26, 38
+	orig: 26, 38
+	offset: 0, 0
+	index: -1
+DJY2f_zuodabi_bishouxiaoguaiA
+	rotate: true
+	xy: 302, 443
+	size: 34, 28
+	orig: 34, 28
+	offset: 0, 0
+	index: -1
+DJY2h_youdatui_bishouxiaoguaiA
+	rotate: true
+	xy: 357, 115
+	size: 35, 34
+	orig: 35, 34
+	offset: 0, 0
+	index: -1
+DJY2b_youxiaobi_bishouxiaoguaiA
+	rotate: true
+	xy: 238, 278
+	size: 41, 38
+	orig: 41, 38
+	offset: 0, 0
+	index: -1
+DJY2b_zuoxiaobi_bishouxiaoguaiA
+	rotate: false
+	xy: 247, 132
+	size: 26, 39
+	orig: 26, 39
+	offset: 0, 0
+	index: -1
+DJY2a_youdatui_bishouxiaoguaiA
+	rotate: false
+	xy: 311, 272
+	size: 33, 37
+	orig: 33, 37
+	offset: 0, 0
+	index: -1
+DJY2j_kua_bishouxiaoguaiA
+	rotate: false
+	xy: 436, 0
+	size: 29, 31
+	orig: 29, 31
+	offset: 0, 0
+	index: -1
+DJY2h_zuodabi_bishouxiaoguaiA
+	rotate: false
+	xy: 130, 154
+	size: 45, 46
+	orig: 45, 46
+	offset: 0, 0
+	index: -1
+DJY2f_kua_bishouxiaoguaiA
+	rotate: false
+	xy: 170, 247
+	size: 32, 30
+	orig: 32, 30
+	offset: 0, 0
+	index: -1
+DJY2j_youdatui_bishouxiaoguaiA
+	rotate: true
+	xy: 212, 46
+	size: 45, 39
+	orig: 45, 39
+	offset: 0, 0
+	index: -1
+DJY2c_youdatui_bishouxiaoguaiA
+	rotate: false
+	xy: 176, 147
+	size: 36, 44
+	orig: 36, 44
+	offset: 0, 0
+	index: -1
+DJY2a_zuodatui_bishouxiaoguaiA
+	rotate: true
+	xy: 246, 0
+	size: 45, 36
+	orig: 45, 36
+	offset: 0, 0
+	index: -1
+DJY2i_youxiaobi_bishouxiaoguaiA
+	rotate: true
+	xy: 410, 0
+	size: 35, 25
+	orig: 35, 25
+	offset: 0, 0
+	index: -1
+DJY2d_kua_bishouxiaoguaiA
+	rotate: true
+	xy: 311, 79
+	size: 37, 33
+	orig: 37, 33
+	offset: 0, 0
+	index: -1
+DJY2j_youxiaobi_bishouxiaoguaiA
+	rotate: true
+	xy: 261, 172
+	size: 39, 26
+	orig: 39, 26
+	offset: 0, 0
+	index: -1
+DJY2b_zuodabi_bishouxiaoguaiA
+	rotate: false
+	xy: 190, 403
+	size: 38, 48
+	orig: 38, 48
+	offset: 0, 0
+	index: -1
+DJY2c_youxiaobi_bishouxiaoguaiA
+	rotate: true
+	xy: 328, 117
+	size: 37, 28
+	orig: 37, 28
+	offset: 0, 0
+	index: -1
+DJY2g_youxiaobi_bishouxiaoguaiA
+	rotate: false
+	xy: 294, 125
+	size: 33, 37
+	orig: 33, 37
+	offset: 0, 0
+	index: -1
+DJY2h_zuoxiaobi_bishouxiaoguaiA
+	rotate: true
+	xy: 240, 189
+	size: 41, 20
+	orig: 41, 20
+	offset: 0, 0
+	index: -1
+DJY2j_zuojiao_bishouxiaoguaiA
+	rotate: true
+	xy: 376, 151
+	size: 32, 23
+	orig: 32, 23
+	offset: 0, 0
+	index: -1
+DJY2j_youjiao_bishouxiaoguaiA
+	rotate: false
+	xy: 331, 430
+	size: 27, 30
+	orig: 27, 30
+	offset: 0, 0
+	index: -1
+DJY2i_youdatui_bishouxiaoguaiA
+	rotate: false
+	xy: 276, 86
+	size: 34, 38
+	orig: 34, 38
+	offset: 0, 0
+	index: -1
+DJY2g_zuoshou_bishouxiaoguaiA
+	rotate: true
+	xy: 213, 147
+	size: 41, 33
+	orig: 41, 33
+	offset: 0, 0
+	index: -1
+DJY2a_zuojiao_bishouxiaoguaiA
+	rotate: false
+	xy: 466, 30
+	size: 31, 21
+	orig: 31, 21
+	offset: 0, 0
+	index: -1
+DJY2a_kua_bishouxiaoguaiA
+	rotate: false
+	xy: 130, 247
+	size: 39, 30
+	orig: 39, 30
+	offset: 0, 0
+	index: -1
+DJY2h_zuoxiaotui_bishouxiaoguaiA
+	rotate: true
+	xy: 324, 248
+	size: 23, 36
+	orig: 23, 36
+	offset: 0, 0
+	index: -1
+DJY2c_zuoxiaobi_bishouxiaoguaiA
+	rotate: false
+	xy: 408, 73
+	size: 30, 31
+	orig: 30, 31
+	offset: 0, 0
+	index: -1
+DJY2a_youxiaotui_bishouxiaoguaiA
+	rotate: true
+	xy: 165, 328
+	size: 24, 38
+	orig: 24, 38
+	offset: 0, 0
+	index: -1
+DJY2i_kua_bishouxiaoguaiA
+	rotate: true
+	xy: 277, 272
+	size: 40, 33
+	orig: 40, 33
+	offset: 0, 0
+	index: -1
+DJY2i_zuoxiaotui_bishouxiaoguaiA
+	rotate: false
+	xy: 219, 189
+	size: 20, 41
+	orig: 20, 41
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1

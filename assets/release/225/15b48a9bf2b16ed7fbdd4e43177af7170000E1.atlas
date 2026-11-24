@@ -1,0 +1,13 @@
+
+asset/anim/yuanziwushi2SECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/yuanziwushi2_baiping
+	rotate: false
+	xy: 157, 717
+	size: 8, 8
+	orig: 8, 8
+	offset: 0, 0
+	index: -1

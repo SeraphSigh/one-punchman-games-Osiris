@@ -1,0 +1,118 @@
+
+asset/anim/hamujikapai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt_hamujikapai
+	rotate: false
+	xy: 0, 0
+	size: 364, 412
+	orig: 364, 412
+	offset: 0, 0
+	index: -1
+Rleg_hamujikapai
+	rotate: false
+	xy: 0, 774
+	size: 178, 242
+	orig: 178, 242
+	offset: 0, 0
+	index: -1
+Rfoot_hamujikapai
+	rotate: true
+	xy: 554, 468
+	size: 99, 76
+	orig: 99, 76
+	offset: 0, 0
+	index: -1
+Rforearm_hamujikapai
+	rotate: false
+	xy: 179, 710
+	size: 151, 259
+	orig: 151, 259
+	offset: 0, 0
+	index: -1
+kua_hamujikapai
+	rotate: true
+	xy: 144, 413
+	size: 296, 135
+	orig: 296, 135
+	offset: 0, 0
+	index: -1
+Lforearm_hamujikapai
+	rotate: false
+	xy: 331, 670
+	size: 145, 213
+	orig: 145, 213
+	offset: 0, 0
+	index: -1
+Rshin_hamujikapai
+	rotate: false
+	xy: 365, 0
+	size: 113, 204
+	orig: 113, 204
+	offset: 0, 0
+	index: -1
+Larm_hamujikapai
+	rotate: true
+	xy: 331, 884
+	size: 128, 169
+	orig: 128, 169
+	offset: 0, 0
+	index: -1
+Lleg_hamujikapai
+	rotate: false
+	xy: 280, 413
+	size: 168, 256
+	orig: 168, 256
+	offset: 0, 0
+	index: -1
+Rhand_hamujikapai
+	rotate: true
+	xy: 449, 573
+	size: 89, 142
+	orig: 89, 142
+	offset: 0, 0
+	index: -1
+Lfoot_hamujikapai
+	rotate: true
+	xy: 554, 365
+	size: 102, 89
+	orig: 102, 89
+	offset: 0, 0
+	index: -1
+Rarm_hamujikapai
+	rotate: false
+	xy: 449, 407
+	size: 104, 165
+	orig: 104, 165
+	offset: 0, 0
+	index: -1
+Lshin_hamujikapai
+	rotate: false
+	xy: 365, 205
+	size: 110, 201
+	orig: 110, 201
+	offset: 0, 0
+	index: -1
+head_hamujikapai
+	rotate: false
+	xy: 479, 0
+	size: 143, 158
+	orig: 143, 158
+	offset: 0, 0
+	index: -1
+oopai_hamujikapai
+	rotate: true
+	xy: 0, 413
+	size: 360, 143
+	orig: 360, 143
+	offset: 0, 0
+	index: -1
+Lhand_hamujikapai
+	rotate: false
+	xy: 476, 205
+	size: 119, 159
+	orig: 119, 159
+	offset: 0, 0
+	index: -1

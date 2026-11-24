@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>pic6_qimingimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{336,450}</string>
+                <key>spriteSourceSize</key>
+                <string>{336,450}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{336,450}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>qimingimage1.png</string>
+            <key>size</key>
+            <string>{336,450}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:a708acd92218283a01a0156d606dfb02:2356b6c3ef16167c4ae04a5316d1ae54:18d4e534ae12f3403cd51a8bc7ce9ec6$</string>
+            <key>textureFileName</key>
+            <string>qimingimage1.png</string>
+        </dict>
+    </dict>
+</plist>

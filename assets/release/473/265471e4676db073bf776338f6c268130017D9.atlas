@@ -1,0 +1,346 @@
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao_tanhuanghuzi_109
+	rotate: false
+	xy: 893, 991
+	size: 57, 32
+	orig: 95, 58
+	offset: 1, 9
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao_tanhuanghuzi_125
+	rotate: false
+	xy: 673, 804
+	size: 53, 54
+	orig: 95, 58
+	offset: 42, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao_tanhuanghuzi_110
+	rotate: true
+	xy: 116, 787
+	size: 75, 42
+	orig: 95, 58
+	offset: 1, 7
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao_tanhuanghuzi_114
+	rotate: true
+	xy: 855, 830
+	size: 91, 56
+	orig: 95, 58
+	offset: 0, 2
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao_tanhuanghuzi_120
+	rotate: true
+	xy: 833, 302
+	size: 79, 58
+	orig: 95, 58
+	offset: 16, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_121
+	rotate: true
+	xy: 377, 707
+	size: 77, 58
+	orig: 95, 58
+	offset: 18, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_122
+	rotate: false
+	xy: 843, 677
+	size: 57, 58
+	orig: 95, 58
+	offset: 38, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_124
+	rotate: true
+	xy: 81, 821
+	size: 55, 56
+	orig: 95, 58
+	offset: 40, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_126
+	rotate: true
+	xy: 813, 825
+	size: 51, 54
+	orig: 95, 58
+	offset: 44, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_115
+	rotate: true
+	xy: 213, 785
+	size: 91, 56
+	orig: 95, 58
+	offset: 1, 2
+	index: -1
+global/a_global_texiao_tanhuanghuzi_117
+	rotate: true
+	xy: 639, 389
+	size: 89, 56
+	orig: 95, 58
+	offset: 4, 2
+	index: -1
+global/a_global_texiao_tanhuanghuzi_116
+	rotate: true
+	xy: 270, 785
+	size: 91, 56
+	orig: 95, 58
+	offset: 2, 2
+	index: -1
+global/a_global_texiao_tanhuanghuzi_111
+	rotate: true
+	xy: 533, 405
+	size: 91, 52
+	orig: 95, 58
+	offset: 0, 5
+	index: -1
+global/a_global_texiao_tanhuanghuzi_113
+	rotate: false
+	xy: 110, 311
+	size: 91, 54
+	orig: 95, 58
+	offset: 0, 4
+	index: -1
+global/a_global_texiao_tanhuanghuzi_112
+	rotate: true
+	xy: 586, 405
+	size: 91, 52
+	orig: 95, 58
+	offset: 0, 5
+	index: -1
+global/a_global_texiao_tanhuanghuzi_123
+	rotate: true
+	xy: 901, 677
+	size: 57, 58
+	orig: 95, 58
+	offset: 38, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_119
+	rotate: true
+	xy: 838, 222
+	size: 79, 58
+	orig: 95, 58
+	offset: 15, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_118
+	rotate: true
+	xy: 327, 785
+	size: 91, 56
+	orig: 95, 58
+	offset: 3, 2
+	index: -1
+
+asset/anim/meiluzhagaluduo2SEATTACK4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/ml2_atk_1_00018
+	rotate: false
+	xy: 0, 0
+	size: 371, 227
+	orig: 401, 231
+	offset: 30, 4
+	index: -1
+attack/ml2_atk_1_00028
+	rotate: true
+	xy: 186, 228
+	size: 243, 181
+	orig: 401, 231
+	offset: 49, 8
+	index: -1
+attack/ml2_atk_1_00027
+	rotate: true
+	xy: 0, 228
+	size: 247, 185
+	orig: 401, 231
+	offset: 49, 8
+	index: -1
+
+asset/anim/meiluzhagaluduo2SEATTACK5.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/ml2_atk_1_00016
+	rotate: false
+	xy: 0, 196
+	size: 347, 161
+	orig: 401, 231
+	offset: 34, 8
+	index: -1
+attack/ml2_atk_2_00033
+	rotate: true
+	xy: 352, 0
+	size: 237, 153
+	orig: 305, 153
+	offset: 67, 0
+	index: -1
+attack/ml2_atk_2_00034
+	rotate: false
+	xy: 0, 358
+	size: 239, 145
+	orig: 305, 153
+	offset: 65, 0
+	index: -1
+attack/ml2_atk_1_00024
+	rotate: false
+	xy: 0, 0
+	size: 351, 195
+	orig: 401, 231
+	offset: 50, 3
+	index: -1
+
+asset/anim/meiluzhagaluduo2SEATTACK0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/ml2_atk_2_00035
+	rotate: true
+	xy: 402, 0
+	size: 235, 85
+	orig: 305, 153
+	offset: 69, 0
+	index: -1
+attack/ml2_atk_2_00036
+	rotate: false
+	xy: 0, 464
+	size: 231, 33
+	orig: 305, 153
+	offset: 71, 9
+	index: -1
+attack/ml2_atk_1_00029
+	rotate: true
+	xy: 402, 236
+	size: 243, 71
+	orig: 401, 231
+	offset: 49, 8
+	index: -1
+attack/ml2_atk_1_00020
+	rotate: false
+	xy: 0, 0
+	size: 401, 231
+	orig: 401, 231
+	offset: 0, 0
+	index: -1
+attack/ml2_atk_1_00021
+	rotate: false
+	xy: 0, 232
+	size: 401, 231
+	orig: 401, 231
+	offset: 0, 0
+	index: -1
+
+asset/anim/meiluzhagaluduo2SEATTACK1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/ml2_atk_2_00029
+	rotate: false
+	xy: 190, 384
+	size: 293, 119
+	orig: 305, 153
+	offset: 11, 34
+	index: -1
+attack/ml2_atk_2_00030
+	rotate: false
+	xy: 190, 230
+	size: 301, 153
+	orig: 305, 153
+	offset: 3, 0
+	index: -1
+attack/ml2_atk_1_00025
+	rotate: true
+	xy: 0, 230
+	size: 253, 189
+	orig: 401, 231
+	offset: 50, 8
+	index: -1
+attack/ml2_atk_1_00022
+	rotate: false
+	xy: 0, 0
+	size: 401, 229
+	orig: 401, 231
+	offset: 0, 2
+	index: -1
+
+asset/anim/meiluzhagaluduo2SEATTACK2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/ml2_atk_1_00017
+	rotate: false
+	xy: 154, 216
+	size: 357, 223
+	orig: 401, 231
+	offset: 25, 8
+	index: -1
+attack/ml2_atk_2_00032
+	rotate: true
+	xy: 0, 216
+	size: 287, 153
+	orig: 305, 153
+	offset: 17, 0
+	index: -1
+attack/ml2_atk_1_00023
+	rotate: false
+	xy: 0, 0
+	size: 401, 215
+	orig: 401, 231
+	offset: 0, 1
+	index: -1
+
+asset/anim/meiluzhagaluduo2SEATTACK3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/ml2_atk_1_00019
+	rotate: false
+	xy: 0, 0
+	size: 393, 231
+	orig: 401, 231
+	offset: 8, 0
+	index: -1
+attack/ml2_atk_2_00031
+	rotate: false
+	xy: 190, 232
+	size: 297, 153
+	orig: 305, 153
+	offset: 7, 0
+	index: -1
+attack/ml2_atk_1_00026
+	rotate: true
+	xy: 0, 232
+	size: 247, 189
+	orig: 401, 231
+	offset: 49, 8
+	index: -1

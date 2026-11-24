@@ -1,0 +1,150 @@
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/geliuganxiupuSEATTACK0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/geliuganxiupu_huo_down_022
+	rotate: true
+	xy: 259, 322
+	size: 106, 68
+	orig: 122, 82
+	offset: 10, 14
+	index: -1
+attack/geliuganxiupu_huo_down_034
+	rotate: false
+	xy: 407, 431
+	size: 104, 68
+	orig: 122, 82
+	offset: 11, 14
+	index: -1
+attack/geliuganxiupu_juqi_001
+	rotate: true
+	xy: 170, 0
+	size: 144, 160
+	orig: 144, 160
+	offset: 0, 0
+	index: -1
+
+asset/anim/geliuganxiupuSEATTACK1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/geliuganxiupu_huo_down_025
+	rotate: false
+	xy: 369, 115
+	size: 106, 68
+	orig: 122, 82
+	offset: 10, 14
+	index: -1
+attack/geliuganxiupu_huo_down_031
+	rotate: false
+	xy: 108, 186
+	size: 106, 68
+	orig: 122, 82
+	offset: 10, 14
+	index: -1
+attack/geliuganxiupu_huo_down_037
+	rotate: false
+	xy: 0, 202
+	size: 104, 68
+	orig: 122, 82
+	offset: 11, 14
+	index: -1
+attack/geliuganxiupu_huo_down_028
+	rotate: false
+	xy: 233, 146
+	size: 106, 68
+	orig: 122, 82
+	offset: 10, 14
+	index: -1
+attack/geliuganxiupu_huo_down_019
+	rotate: false
+	xy: 340, 184
+	size: 104, 66
+	orig: 122, 82
+	offset: 12, 15
+	index: -1
+
+asset/anim/geliuganxiupuSECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/geliuganxiupu_xuanzhuanyan_006
+	rotate: false
+	xy: 400, 427
+	size: 174, 76
+	orig: 284, 170
+	offset: 36, 48
+	index: -1
+common/geliuganxiupu_xuanzhuanyan_014
+	rotate: false
+	xy: 0, 99
+	size: 208, 96
+	orig: 284, 170
+	offset: 23, 37
+	index: -1
+common/geliuganxiupu_xuanzhuanyan_004
+	rotate: true
+	xy: 963, 631
+	size: 152, 42
+	orig: 284, 170
+	offset: 51, 52
+	index: -1
+common/geliuganxiupu_xuanzhuanyan_016
+	rotate: true
+	xy: 0, 784
+	size: 154, 92
+	orig: 284, 170
+	offset: 76, 38
+	index: -1
+common/geliuganxiupu_xuanzhuanyan_002
+	rotate: true
+	xy: 963, 510
+	size: 120, 46
+	orig: 284, 170
+	offset: 72, 60
+	index: -1
+common/geliuganxiupu_xuanzhuanyan_010
+	rotate: false
+	xy: 613, 286
+	size: 194, 100
+	orig: 284, 170
+	offset: 25, 38
+	index: -1
+common/geliuganxiupu_xuanzhuanyan_012
+	rotate: false
+	xy: 0, 0
+	size: 214, 98
+	orig: 284, 170
+	offset: 13, 39
+	index: -1
+common/geliuganxiupu_xuanzhuanyan_018
+	rotate: false
+	xy: 832, 85
+	size: 188, 86
+	orig: 284, 170
+	offset: 52, 37
+	index: -1
+common/geliuganxiupu_xuanzhuanyan_008
+	rotate: false
+	xy: 832, 0
+	size: 190, 84
+	orig: 284, 170
+	offset: 25, 43
+	index: -1

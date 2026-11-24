@@ -1,0 +1,48 @@
+
+asset/anim/jinuosiboshiSECOMMON.png
+size: 146,89
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jinuosiboshiS_xingguangA005
+	rotate: false
+	xy: 98, 45
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1
+common/jinuosiboshiS_xingguangA004
+	rotate: false
+	xy: 98, 0
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1
+common/jinuosiboshiS_xingguangA001
+	rotate: false
+	xy: 0, 45
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1
+common/jinuosiboshiS_xingguangA000
+	rotate: false
+	xy: 0, 0
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1
+common/jinuosiboshiS_xingguangA003
+	rotate: false
+	xy: 49, 45
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1
+common/jinuosiboshiS_xingguangA002
+	rotate: false
+	xy: 49, 0
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,355 @@
+
+asset/anim/shanguangxinniankapai0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_toufa8_shanguangxinniankapai
+	rotate: false
+	xy: 928, 599
+	size: 90, 146
+	orig: 90, 146
+	offset: 0, 0
+	index: -1
+a_Lfoot_shanguangxinniankapai
+	rotate: false
+	xy: 548, 947
+	size: 149, 77
+	orig: 149, 77
+	offset: 0, 0
+	index: -1
+a_toufa2_shanguangxinniankapai
+	rotate: false
+	xy: 483, 969
+	size: 54, 45
+	orig: 54, 45
+	offset: 0, 0
+	index: -1
+a_toufa1_shanguangxinniankapai
+	rotate: true
+	xy: 426, 609
+	size: 17, 60
+	orig: 17, 60
+	offset: 0, 0
+	index: -1
+a_jianqiao_shanguangxinniankapai
+	rotate: false
+	xy: 728, 0
+	size: 291, 400
+	orig: 291, 400
+	offset: 0, 0
+	index: -1
+a_toufa6_shanguangxinniankapai
+	rotate: true
+	xy: 698, 947
+	size: 52, 145
+	orig: 52, 145
+	offset: 0, 0
+	index: -1
+a_Lyanpi_shanguangxinniankapai
+	rotate: false
+	xy: 487, 609
+	size: 23, 17
+	orig: 25, 19
+	offset: 1, 1
+	index: -1
+a_Rxiu1_shanguangxinniankapai
+	rotate: true
+	xy: 548, 609
+	size: 337, 320
+	orig: 337, 320
+	offset: 0, 0
+	index: -1
+a_Rshou2_shanguangxinniankapai
+	rotate: false
+	xy: 698, 1000
+	size: 31, 24
+	orig: 31, 24
+	offset: 0, 0
+	index: -1
+a_jianbing_shanguangxinniankapai
+	rotate: false
+	xy: 923, 491
+	size: 80, 107
+	orig: 80, 107
+	offset: 0, 0
+	index: -1
+a_dai3_shanguangxinniankapai
+	rotate: false
+	xy: 0, 0
+	size: 182, 626
+	orig: 182, 626
+	offset: 0, 0
+	index: -1
+a_Rxiu2_shanguangxinniankapai
+	rotate: false
+	xy: 425, 0
+	size: 302, 391
+	orig: 302, 391
+	offset: 0, 0
+	index: -1
+a_Lpijian_shanguangxinniankapai
+	rotate: true
+	xy: 183, 507
+	size: 119, 242
+	orig: 119, 242
+	offset: 0, 0
+	index: -1
+a_Rxiaobi_shanguangxinniankapai
+	rotate: false
+	xy: 398, 969
+	size: 84, 46
+	orig: 84, 46
+	offset: 0, 0
+	index: -1
+a_2muzhi_shanguangxinniankapai
+	rotate: false
+	xy: 869, 909
+	size: 28, 23
+	orig: 28, 23
+	offset: 0, 0
+	index: -1
+a_yao_shanguangxinniankapai
+	rotate: false
+	xy: 722, 401
+	size: 200, 202
+	orig: 200, 202
+	offset: 0, 0
+	index: -1
+a_dai1_shanguangxinniankapai
+	rotate: false
+	xy: 869, 604
+	size: 58, 304
+	orig: 58, 304
+	offset: 0, 0
+	index: -1
+a_body_shanguangxinniankapai
+	rotate: true
+	xy: 426, 392
+	size: 216, 295
+	orig: 216, 295
+	offset: 0, 0
+	index: -1
+a_Rleg_shanguangxinniankapai
+	rotate: false
+	xy: 183, 0
+	size: 241, 506
+	orig: 241, 506
+	offset: 0, 0
+	index: -1
+a_lian_shanguangxinniankapai
+	rotate: true
+	xy: 923, 401
+	size: 89, 101
+	orig: 89, 101
+	offset: 0, 0
+	index: -1
+a_jian_shanguangxinniankapai
+	rotate: false
+	xy: 0, 627
+	size: 292, 386
+	orig: 292, 386
+	offset: 0, 0
+	index: -1
+a_toufa4_shanguangxinniankapai
+	rotate: false
+	xy: 928, 746
+	size: 53, 134
+	orig: 53, 134
+	offset: 0, 0
+	index: -1
+a_zhongzhi_shanguangxinniankapai
+	rotate: false
+	xy: 730, 1000
+	size: 30, 24
+	orig: 30, 24
+	offset: 0, 0
+	index: -1
+a_toufa7_shanguangxinniankapai
+	rotate: true
+	xy: 293, 969
+	size: 50, 104
+	orig: 50, 104
+	offset: 0, 0
+	index: -1
+a_zhongguojie_shanguangxinniankapai
+	rotate: false
+	xy: 293, 627
+	size: 254, 341
+	orig: 254, 341
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangxinniankapai1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Ryanpi_shanguangxinniankapai
+	rotate: true
+	xy: 278, 963
+	size: 18, 12
+	orig: 20, 14
+	offset: 1, 1
+	index: -1
+a_toufa5_shanguangxinniankapai
+	rotate: false
+	xy: 257, 749
+	size: 60, 193
+	orig: 60, 193
+	offset: 0, 0
+	index: -1
+a_Rfoot_shanguangxinniankapai
+	rotate: false
+	xy: 167, 749
+	size: 89, 213
+	orig: 89, 213
+	offset: 0, 0
+	index: -1
+a_Lxiaobi_shanguangxinniankapai
+	rotate: false
+	xy: 232, 0
+	size: 146, 172
+	orig: 146, 172
+	offset: 0, 0
+	index: -1
+a_damuzhi_shanguangxinniankapai
+	rotate: true
+	xy: 235, 963
+	size: 19, 27
+	orig: 19, 27
+	offset: 0, 0
+	index: -1
+a_Ljie_shanguangxinniankapai
+	rotate: true
+	xy: 471, 940
+	size: 56, 92
+	orig: 56, 92
+	offset: 0, 0
+	index: -1
+a_star3_xinniankapai
+	rotate: false
+	xy: 423, 940
+	size: 47, 72
+	orig: 47, 72
+	offset: 0, 0
+	index: -1
+a_Lshou_shanguangxinniankapai
+	rotate: false
+	xy: 370, 940
+	size: 52, 72
+	orig: 52, 72
+	offset: 0, 0
+	index: -1
+a_Ldabi_shanguangxinniankapai
+	rotate: false
+	xy: 131, 449
+	size: 78, 82
+	orig: 78, 82
+	offset: 0, 0
+	index: -1
+a_Lxiu1_shanguangxinniankapai
+	rotate: false
+	xy: 61, 0
+	size: 170, 448
+	orig: 170, 448
+	offset: 0, 0
+	index: -1
+a_Rdabi_shanguangxinniankapai
+	rotate: false
+	xy: 379, 0
+	size: 117, 135
+	orig: 117, 135
+	offset: 0, 0
+	index: -1
+a_Lleg_shanguangxinniankapai
+	rotate: false
+	xy: 0, 0
+	size: 60, 532
+	orig: 60, 532
+	offset: 0, 0
+	index: -1
+a_Rjie_shanguangxinniankapai
+	rotate: true
+	xy: 61, 449
+	size: 83, 69
+	orig: 83, 69
+	offset: 0, 0
+	index: -1
+a_star1_shanguangxinniankapai
+	rotate: true
+	xy: 318, 749
+	size: 190, 166
+	orig: 190, 166
+	offset: 0, 0
+	index: -1
+a_Rpijian_shanguangxinniankapai
+	rotate: false
+	xy: 167, 532
+	size: 166, 216
+	orig: 166, 216
+	offset: 0, 0
+	index: -1
+a_wumingzhi_shanguangxinniankapai
+	rotate: false
+	xy: 257, 943
+	size: 25, 19
+	orig: 25, 19
+	offset: 0, 0
+	index: -1
+a_star2_shanguangxinniankapai
+	rotate: false
+	xy: 232, 173
+	size: 152, 160
+	orig: 152, 160
+	offset: 0, 0
+	index: -1
+a_star4_shanguangxinniankapai
+	rotate: false
+	xy: 210, 449
+	size: 78, 81
+	orig: 78, 81
+	offset: 0, 0
+	index: -1
+a_dai2_shanguangxinniankapai
+	rotate: true
+	xy: 0, 988
+	size: 27, 259
+	orig: 27, 259
+	offset: 0, 0
+	index: -1
+a_xiaomuzhi_shanguangxinniankapai
+	rotate: true
+	xy: 263, 963
+	size: 19, 14
+	orig: 19, 14
+	offset: 0, 0
+	index: -1
+a_Lxiu2_shanguangxinniankapai
+	rotate: false
+	xy: 0, 533
+	size: 166, 454
+	orig: 166, 454
+	offset: 0, 0
+	index: -1
+a_Rshou1_shanguangxinniankapai
+	rotate: true
+	xy: 307, 943
+	size: 81, 62
+	orig: 81, 62
+	offset: 0, 0
+	index: -1
+a_jianqiaosheng_shanguangxinniankapai
+	rotate: true
+	xy: 167, 963
+	size: 23, 67
+	orig: 23, 67
+	offset: 0, 0
+	index: -1
+a_toufa3_shanguangxinniankapai
+	rotate: false
+	xy: 260, 983
+	size: 46, 38
+	orig: 46, 38
+	offset: 0, 0
+	index: -1

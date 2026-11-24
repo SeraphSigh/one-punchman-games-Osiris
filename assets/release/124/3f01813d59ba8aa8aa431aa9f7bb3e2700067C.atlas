@@ -1,0 +1,96 @@
+
+asset/anim/king2SEATTACK0.png
+size: 1024,1009
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/king2_atkbuf2_00050
+	rotate: false
+	xy: 0, 202
+	size: 364, 201
+	orig: 378, 229
+	offset: 9, 13
+	index: -1
+attack/king2_atkbuf2_00046
+	rotate: false
+	xy: 365, 202
+	size: 352, 201
+	orig: 378, 229
+	offset: 15, 13
+	index: -1
+attack/king2_atkbuf2_00052
+	rotate: false
+	xy: 656, 606
+	size: 306, 201
+	orig: 378, 229
+	offset: 35, 13
+	index: -1
+attack/king2_atkbuf2_00044
+	rotate: false
+	xy: 359, 404
+	size: 334, 201
+	orig: 378, 229
+	offset: 23, 13
+	index: -1
+attack/king2_atkbuf2_00042
+	rotate: false
+	xy: 343, 606
+	size: 312, 201
+	orig: 378, 229
+	offset: 33, 13
+	index: -1
+attack/king2_atkbuf2_00040
+	rotate: false
+	xy: 325, 808
+	size: 306, 201
+	orig: 378, 229
+	offset: 35, 13
+	index: -1
+attack/king2_atkbuf2_00058
+	rotate: true
+	xy: 963, 606
+	size: 170, 33
+	orig: 378, 229
+	offset: 107, 83
+	index: -1
+attack/king2_atkbuf2_00048
+	rotate: false
+	xy: 0, 404
+	size: 358, 201
+	orig: 378, 229
+	offset: 12, 13
+	index: -1
+attack/king2_atkbuf2_00038
+	rotate: false
+	xy: 728, 0
+	size: 284, 173
+	orig: 378, 229
+	offset: 44, 18
+	index: -1
+
+asset/anim/king2SEATTACK1.png
+size: 1014,983
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/king2_atkbuf2_00054
+	rotate: false
+	xy: 539, 0
+	size: 298, 103
+	orig: 378, 229
+	offset: 38, 14
+	index: -1
+attack/king2_atkbuf2_00056
+	rotate: true
+	xy: 104, 535
+	size: 294, 101
+	orig: 378, 229
+	offset: 41, 14
+	index: -1
+attack/king2_atkbuf2_00036
+	rotate: true
+	xy: 673, 546
+	size: 224, 71
+	orig: 378, 229
+	offset: 75, 26
+	index: -1

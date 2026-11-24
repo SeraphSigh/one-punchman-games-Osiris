@@ -1,0 +1,48 @@
+
+asset/anim/jinuosiboshiSE.png
+size: 490,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/jinuosiboshi_jizhong_10
+	rotate: false
+	xy: 134, 221
+	size: 121, 121
+	orig: 121, 121
+	offset: 0, 0
+	index: -1
+attack/jinuosiboshi_jizhong_08
+	rotate: false
+	xy: 0, 193
+	size: 133, 121
+	orig: 133, 121
+	offset: 0, 0
+	index: -1
+attack/jinuosiboshi_jizhong_09
+	rotate: false
+	xy: 271, 135
+	size: 131, 121
+	orig: 131, 121
+	offset: 0, 0
+	index: -1
+attack/jinuosiboshi_jizhong_11
+	rotate: false
+	xy: 271, 257
+	size: 121, 121
+	orig: 121, 121
+	offset: 0, 0
+	index: -1
+attack/jinuosiboshi_jizhong_07
+	rotate: false
+	xy: 272, 0
+	size: 147, 134
+	orig: 147, 138
+	offset: 0, 0
+	index: -1
+attack/jinuosiboshi_jizhong_06
+	rotate: true
+	xy: 393, 276
+	size: 105, 97
+	orig: 105, 97
+	offset: 0, 0
+	index: -1

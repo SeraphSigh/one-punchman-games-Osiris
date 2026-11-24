@@ -1,0 +1,251 @@
+
+asset/anim/jurengekapai.png
+size: 432,1019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+waitao1_jurengekapai
+	rotate: true
+	xy: 0, 128
+	size: 105, 340
+	orig: 105, 340
+	offset: 0, 0
+	index: -1
+pidang2_jurengekapai
+	rotate: false
+	xy: 121, 829
+	size: 81, 158
+	orig: 81, 158
+	offset: 0, 0
+	index: -1
+yeti_jurengekapai
+	rotate: true
+	xy: 409, 959
+	size: 16, 18
+	orig: 16, 18
+	offset: 0, 0
+	index: -1
+zuoxiaobi_jurengekapai
+	rotate: false
+	xy: 220, 653
+	size: 88, 86
+	orig: 88, 86
+	offset: 0, 0
+	index: -1
+zuoshou_jurengekapai
+	rotate: false
+	xy: 88, 740
+	size: 61, 87
+	orig: 61, 87
+	offset: 0, 0
+	index: -1
+zuodatui_jurengekapai
+	rotate: false
+	xy: 311, 560
+	size: 117, 268
+	orig: 117, 268
+	offset: 0, 0
+	index: -1
+yanjing_jurengekapai
+	rotate: true
+	xy: 397, 0
+	size: 89, 35
+	orig: 89, 35
+	offset: 0, 0
+	index: -1
+youshou_jurengekapai
+	rotate: false
+	xy: 220, 575
+	size: 63, 77
+	orig: 63, 77
+	offset: 0, 0
+	index: -1
+youxiaobi_jurengekapai
+	rotate: true
+	xy: 88, 662
+	size: 76, 99
+	orig: 76, 99
+	offset: 0, 0
+	index: -1
+toufa2_jurengekapai
+	rotate: true
+	xy: 150, 740
+	size: 56, 97
+	orig: 56, 97
+	offset: 0, 0
+	index: -1
+zuoxiaoyan_jurengekapai
+	rotate: true
+	xy: 113, 992
+	size: 22, 20
+	orig: 22, 20
+	offset: 0, 0
+	index: -1
+kua_jurengekapai
+	rotate: false
+	xy: 273, 938
+	size: 135, 81
+	orig: 135, 81
+	offset: 0, 0
+	index: -1
+toufa1_jurengekapai
+	rotate: false
+	xy: 203, 901
+	size: 69, 116
+	orig: 69, 116
+	offset: 0, 0
+	index: -1
+pidang1_jurengekapai
+	rotate: false
+	xy: 0, 829
+	size: 71, 166
+	orig: 71, 166
+	offset: 0, 0
+	index: -1
+zuodayan_jurengekapai
+	rotate: true
+	xy: 285, 565
+	size: 21, 25
+	orig: 21, 25
+	offset: 0, 0
+	index: -1
+waitao4_jurengekapai
+	rotate: true
+	xy: 0, 345
+	size: 69, 313
+	orig: 69, 313
+	offset: 0, 0
+	index: -1
+youbiyan_jurengekapai
+	rotate: false
+	xy: 285, 492
+	size: 26, 23
+	orig: 26, 23
+	offset: 0, 0
+	index: -1
+zuobiyan_jurengekapai
+	rotate: false
+	xy: 409, 938
+	size: 21, 20
+	orig: 21, 20
+	offset: 0, 0
+	index: -1
+youdayan_jurengekapai
+	rotate: false
+	xy: 285, 540
+	size: 25, 24
+	orig: 25, 24
+	offset: 0, 0
+	index: -1
+shouzhi_jurengekapai
+	rotate: true
+	xy: 397, 90
+	size: 53, 33
+	orig: 53, 33
+	offset: 0, 0
+	index: -1
+waitao2_jurengekapai
+	rotate: true
+	xy: 0, 234
+	size: 110, 327
+	orig: 110, 327
+	offset: 0, 0
+	index: -1
+youxiaoyan_jurengekapai
+	rotate: false
+	xy: 285, 516
+	size: 26, 23
+	orig: 26, 23
+	offset: 0, 0
+	index: -1
+waitao3_jurengekapai
+	rotate: true
+	xy: 0, 415
+	size: 76, 310
+	orig: 76, 310
+	offset: 0, 0
+	index: -1
+youdabi_jurengekapai
+	rotate: false
+	xy: 314, 402
+	size: 118, 157
+	orig: 118, 157
+	offset: 0, 0
+	index: -1
+youxiaotui_jurengekapai
+	rotate: true
+	xy: 203, 829
+	size: 71, 229
+	orig: 71, 229
+	offset: 0, 0
+	index: -1
+yanjingguang_jurengekapai
+	rotate: true
+	xy: 341, 128
+	size: 12, 30
+	orig: 12, 30
+	offset: 0, 0
+	index: -1
+pidang3_jurengekapai
+	rotate: true
+	xy: 273, 901
+	size: 36, 155
+	orig: 36, 155
+	offset: 0, 0
+	index: -1
+zuojiao_jurengekapai
+	rotate: false
+	xy: 341, 144
+	size: 91, 97
+	orig: 91, 97
+	offset: 0, 0
+	index: -1
+youjiao_jurengekapai
+	rotate: false
+	xy: 88, 575
+	size: 131, 86
+	orig: 131, 86
+	offset: 0, 0
+	index: -1
+tou_jurengekapai
+	rotate: false
+	xy: 328, 242
+	size: 104, 159
+	orig: 104, 159
+	offset: 0, 0
+	index: -1
+youdatui_jurengekapai
+	rotate: true
+	xy: 0, 492
+	size: 82, 284
+	orig: 82, 284
+	offset: 0, 0
+	index: -1
+shiguan_jurengekapai
+	rotate: true
+	xy: 0, 996
+	size: 23, 112
+	orig: 23, 112
+	offset: 0, 0
+	index: -1
+heishangshen_jurengekapai
+	rotate: true
+	xy: 0, 0
+	size: 127, 396
+	orig: 127, 396
+	offset: 0, 0
+	index: -1
+zuodabi_jurengekapai
+	rotate: false
+	xy: 72, 829
+	size: 48, 162
+	orig: 48, 162
+	offset: 0, 0
+	index: -1
+zuoxiaotui_jurengekapai
+	rotate: false
+	xy: 0, 587
+	size: 87, 218
+	orig: 87, 218
+	offset: 0, 0
+	index: -1

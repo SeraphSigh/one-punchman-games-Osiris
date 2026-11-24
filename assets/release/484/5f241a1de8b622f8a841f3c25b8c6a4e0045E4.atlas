@@ -1,0 +1,1004 @@
+
+asset/anim/elang2MAX2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/elang2_max_zhauji2_00060
+	rotate: false
+	xy: 0, 1241
+	size: 321, 217
+	orig: 525, 321
+	offset: 115, 27
+	index: -1
+max/elang2_max_hongci_00002
+	rotate: false
+	xy: 1021, 1441
+	size: 202, 167
+	orig: 244, 235
+	offset: 17, 21
+	index: -1
+max/elang2_max_hongci_00001
+	rotate: false
+	xy: 453, 1632
+	size: 176, 173
+	orig: 244, 235
+	offset: 20, 30
+	index: -1
+max/elang2_max_zhauji2_00053
+	rotate: false
+	xy: 0, 0
+	size: 435, 235
+	orig: 525, 321
+	offset: 28, 37
+	index: -1
+max/elang2_max_zhauji2_00055
+	rotate: false
+	xy: 872, 0
+	size: 431, 277
+	orig: 525, 321
+	offset: 54, 20
+	index: -1
+max/elang2_max_zhauji2_00058
+	rotate: false
+	xy: 1245, 1132
+	size: 361, 277
+	orig: 525, 321
+	offset: 118, 28
+	index: -1
+
+asset/anim/elang2MAX0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/elang2_max_chongjibo_UP_00075
+	rotate: false
+	xy: 1038, 1170
+	size: 516, 319
+	orig: 528, 445
+	offset: 12, 25
+	index: -1
+max/elang2_max_chongjibo_UP_00087
+	rotate: false
+	xy: 0, 802
+	size: 518, 375
+	orig: 528, 445
+	offset: 10, 25
+	index: -1
+max/elang2_max_chongjibo_UP_00089
+	rotate: false
+	xy: 1038, 0
+	size: 518, 397
+	orig: 528, 445
+	offset: 10, 14
+	index: -1
+max/elang2_max_chongjibo_UP_00088
+	rotate: false
+	xy: 0, 0
+	size: 518, 403
+	orig: 528, 445
+	offset: 10, 14
+	index: -1
+max/elang2_max_chongjibo_UP_00093
+	rotate: false
+	xy: 519, 792
+	size: 518, 383
+	orig: 528, 445
+	offset: 10, 14
+	index: -1
+max/elang2_max_zhauji2_00052
+	rotate: false
+	xy: 1166, 1490
+	size: 209, 97
+	orig: 525, 321
+	offset: 93, 87
+	index: -1
+max/elang2_max_zhauji2_00056
+	rotate: true
+	xy: 0, 1178
+	size: 415, 279
+	orig: 525, 321
+	offset: 72, 27
+	index: -1
+max/elang2_max_chongjibo_UP_00090
+	rotate: false
+	xy: 519, 404
+	size: 518, 387
+	orig: 528, 445
+	offset: 10, 14
+	index: -1
+max/elang2_max_chongjibo_UP_00091
+	rotate: false
+	xy: 519, 0
+	size: 518, 403
+	orig: 528, 445
+	offset: 10, 14
+	index: -1
+max/elang2_max_chongjibo_UP_00092
+	rotate: false
+	xy: 1038, 398
+	size: 518, 397
+	orig: 528, 445
+	offset: 10, 14
+	index: -1
+max/elang2_max_chongjibo_UP_00094
+	rotate: false
+	xy: 0, 404
+	size: 518, 397
+	orig: 528, 445
+	offset: 10, 14
+	index: -1
+max/elang2_max_chongjibo_UP_00095
+	rotate: false
+	xy: 1038, 796
+	size: 518, 373
+	orig: 528, 445
+	offset: 10, 13
+	index: -1
+
+asset/anim/elang2MAX1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/elang2_max_hongci_00003
+	rotate: true
+	xy: 1909, 985
+	size: 208, 139
+	orig: 244, 235
+	offset: 18, 22
+	index: -1
+max/elang2_max_hongci_00000
+	rotate: false
+	xy: 1912, 177
+	size: 124, 169
+	orig: 244, 235
+	offset: 19, 36
+	index: -1
+max/elang2_max_hongci_00004
+	rotate: true
+	xy: 1641, 985
+	size: 204, 117
+	orig: 244, 235
+	offset: 24, 25
+	index: -1
+max/elang2_max_hongci_00005
+	rotate: true
+	xy: 1466, 395
+	size: 82, 77
+	orig: 244, 235
+	offset: 147, 66
+	index: -1
+max/elang2_max_zhauji2_00059
+	rotate: false
+	xy: 398, 1814
+	size: 327, 229
+	orig: 525, 321
+	offset: 116, 27
+	index: -1
+max/elang2_max_zhauji2_00057
+	rotate: false
+	xy: 1467, 1777
+	size: 441, 271
+	orig: 525, 321
+	offset: 41, 29
+	index: -1
+max/elang2_max_zhauji2_00054
+	rotate: false
+	xy: 1029, 1780
+	size: 437, 265
+	orig: 525, 321
+	offset: 39, 34
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_yiquan_9
+	rotate: true
+	xy: 317, 467
+	size: 152, 41
+	orig: 152, 47
+	offset: 0, 5
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_yiquan_7
+	rotate: false
+	xy: 584, 518
+	size: 150, 43
+	orig: 152, 47
+	offset: 1, 4
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_13
+	rotate: false
+	xy: 553, 522
+	size: 181, 72
+	orig: 205, 90
+	offset: 16, 8
+	index: -1
+global/a_global_txskill_sinaike_19
+	rotate: false
+	xy: 0, 516
+	size: 185, 40
+	orig: 205, 90
+	offset: 0, 8
+	index: -1
+global/a_global_yiquan_8
+	rotate: true
+	xy: 740, 859
+	size: 152, 43
+	orig: 152, 47
+	offset: 0, 4
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_11
+	rotate: false
+	xy: 502, 225
+	size: 161, 62
+	orig: 205, 90
+	offset: 32, 8
+	index: -1
+global/a_global_longjuan_tuoci_055
+	rotate: false
+	xy: 479, 592
+	size: 158, 130
+	orig: 298, 168
+	offset: 84, 25
+	index: -1
+global/a_global_longjuan_tuoci_054
+	rotate: false
+	xy: 0, 541
+	size: 158, 132
+	orig: 298, 168
+	offset: 84, 20
+	index: -1
+global/a_global_longjuan_tuoci_057
+	rotate: false
+	xy: 478, 723
+	size: 158, 124
+	orig: 298, 168
+	offset: 84, 32
+	index: -1
+global/a_global_longjuan_tuoci_056
+	rotate: false
+	xy: 319, 631
+	size: 158, 128
+	orig: 298, 168
+	offset: 84, 28
+	index: -1
+global/a_global_longjuan_tuoci_059
+	rotate: false
+	xy: 0, 674
+	size: 158, 112
+	orig: 298, 168
+	offset: 84, 45
+	index: -1
+global/a_global_longjuan_tuoci_058
+	rotate: false
+	xy: 159, 660
+	size: 158, 118
+	orig: 298, 168
+	offset: 84, 38
+	index: -1
+global/a_global_longjuan_tuoci_060
+	rotate: false
+	xy: 318, 760
+	size: 158, 108
+	orig: 298, 168
+	offset: 83, 47
+	index: -1
+global/a_global_txskill_sinaike_23
+	rotate: false
+	xy: 160, 470
+	size: 159, 40
+	orig: 205, 90
+	offset: 0, 9
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_longjuan_tuoci_053
+	rotate: false
+	xy: 0, 0
+	size: 156, 128
+	orig: 298, 168
+	offset: 85, 17
+	index: -1
+global/a_global_yiquan_4
+	rotate: true
+	xy: 265, 836
+	size: 144, 47
+	orig: 152, 47
+	offset: 4, 0
+	index: -1
+global/a_global_yiquan_5
+	rotate: false
+	xy: 869, 286
+	size: 146, 47
+	orig: 152, 47
+	offset: 3, 0
+	index: -1
+global/a_global_yiquan_6
+	rotate: true
+	xy: 265, 687
+	size: 148, 47
+	orig: 152, 47
+	offset: 2, 0
+	index: -1
+global/a_global_yiquan_1
+	rotate: true
+	xy: 825, 909
+	size: 82, 29
+	orig: 152, 47
+	offset: 34, 9
+	index: -1
+global/a_global_yiquan_2
+	rotate: false
+	xy: 392, 587
+	size: 140, 47
+	orig: 152, 47
+	offset: 6, 0
+	index: -1
+global/a_global_yiquan_3
+	rotate: false
+	xy: 605, 829
+	size: 142, 47
+	orig: 152, 47
+	offset: 5, 0
+	index: -1
+global/a_global_longjuan_tuoci_061
+	rotate: false
+	xy: 428, 137
+	size: 156, 104
+	orig: 298, 168
+	offset: 84, 48
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_25
+	rotate: true
+	xy: 86, 472
+	size: 115, 40
+	orig: 205, 90
+	offset: 26, 9
+	index: -1
+global/a_global_txskill_sinaike_26
+	rotate: false
+	xy: 567, 170
+	size: 105, 38
+	orig: 205, 90
+	offset: 28, 9
+	index: -1
+
+asset/anim/huoqiu1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_20
+	rotate: false
+	xy: 549, 500
+	size: 226, 41
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+global/a_global_txskill_sinaike_22
+	rotate: false
+	xy: 197, 504
+	size: 220, 45
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+
+asset/anim/huoqiu0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_12
+	rotate: false
+	xy: 320, 704
+	size: 250, 87
+	orig: 252, 111
+	offset: 0, 10
+	index: -1
+global/a_global_txskill_sinaike_14
+	rotate: true
+	xy: 425, 485
+	size: 214, 91
+	orig: 252, 111
+	offset: 12, 10
+	index: -1
+global/a_global_txskill_sinaike_15
+	rotate: true
+	xy: 331, 362
+	size: 218, 93
+	orig: 252, 111
+	offset: 7, 11
+	index: -1
+global/a_global_txskill_sinaike_16
+	rotate: true
+	xy: 335, 135
+	size: 226, 93
+	orig: 252, 111
+	offset: 0, 10
+	index: -1
+global/a_global_txskill_sinaike_17
+	rotate: true
+	xy: 0, 792
+	size: 230, 91
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+global/a_global_txskill_sinaike_18
+	rotate: true
+	xy: 92, 792
+	size: 230, 83
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+global/a_global_txskill_sinaike_24
+	rotate: true
+	xy: 518, 792
+	size: 196, 49
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+global/a_global_txskill_sinaike_27
+	rotate: true
+	xy: 320, 581
+	size: 122, 35
+	orig: 252, 111
+	offset: 41, 12
+	index: -1
+
+asset/anim/huoqiu2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_21
+	rotate: true
+	xy: 983, 189
+	size: 226, 41
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/elang2SKILL2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/elang2_jn_daji_00032
+	rotate: false
+	xy: 0, 0
+	size: 221, 264
+	orig: 347, 334
+	offset: 82, 5
+	index: -1
+
+asset/anim/elang2SKILL1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/elang2_jn_chong_qilang1_00086
+	rotate: true
+	xy: 0, 1410
+	size: 340, 323
+	orig: 366, 353
+	offset: 0, 7
+	index: -1
+skill/elang2_jn_chong_qilang1_00089
+	rotate: true
+	xy: 324, 706
+	size: 338, 323
+	orig: 366, 353
+	offset: 0, 6
+	index: -1
+skill/elang2_jn_chong_qilang1_00097
+	rotate: false
+	xy: 914, 661
+	size: 302, 303
+	orig: 366, 353
+	offset: 30, 12
+	index: -1
+skill/elang2_jn_chong_qilang1_00096
+	rotate: true
+	xy: 590, 1716
+	size: 332, 319
+	orig: 366, 353
+	offset: 0, 12
+	index: -1
+skill/elang2_jn_daji_00035
+	rotate: true
+	xy: 1510, 0
+	size: 287, 238
+	orig: 347, 334
+	offset: 37, 8
+	index: -1
+skill/elang2_jn_daji_00051
+	rotate: true
+	xy: 1693, 1595
+	size: 259, 264
+	orig: 347, 334
+	offset: 39, 35
+	index: -1
+skill/elang2_jn_daji_00050
+	rotate: false
+	xy: 1188, 1258
+	size: 263, 278
+	orig: 347, 334
+	offset: 42, 30
+	index: -1
+skill/elang2_jn_chong_qilang1_00092
+	rotate: true
+	xy: 0, 1067
+	size: 342, 323
+	orig: 366, 353
+	offset: 0, 6
+	index: -1
+skill/elang2_jn_daji_00048
+	rotate: false
+	xy: 912, 1323
+	size: 275, 292
+	orig: 347, 334
+	offset: 51, 26
+	index: -1
+skill/elang2_jn_xuqi_00081
+	rotate: false
+	xy: 648, 687
+	size: 265, 326
+	orig: 313, 572
+	offset: 30, 119
+	index: -1
+skill/elang2_jn_xuqi_00080
+	rotate: false
+	xy: 648, 1376
+	size: 263, 328
+	orig: 313, 572
+	offset: 32, 119
+	index: -1
+skill/elang2_jn_xuqi_00083
+	rotate: false
+	xy: 1108, 317
+	size: 265, 300
+	orig: 313, 572
+	offset: 22, 116
+	index: -1
+skill/elang2_jn_xuqi_00082
+	rotate: false
+	xy: 990, 0
+	size: 263, 316
+	orig: 313, 572
+	offset: 30, 118
+	index: -1
+skill/elang2_jn_xuqi_00085
+	rotate: false
+	xy: 1452, 1188
+	size: 185, 244
+	orig: 313, 572
+	offset: 22, 126
+	index: -1
+skill/elang2_jn_daji_00039
+	rotate: false
+	xy: 1146, 965
+	size: 255, 292
+	orig: 347, 334
+	offset: 60, 6
+	index: -1
+skill/elang2_jn_daji_00038
+	rotate: true
+	xy: 1172, 1616
+	size: 281, 256
+	orig: 347, 334
+	offset: 35, 7
+	index: -1
+skill/elang2_jn_chong_qilang1_00099
+	rotate: true
+	xy: 1454, 588
+	size: 240, 155
+	orig: 366, 353
+	offset: 92, 68
+	index: -1
+skill/elang2_jn_chong_qilang1_00098
+	rotate: true
+	xy: 842, 1014
+	size: 308, 303
+	orig: 366, 353
+	offset: 31, 11
+	index: -1
+skill/elang2_jn_chong_qilang1_00095
+	rotate: true
+	xy: 508, 348
+	size: 338, 323
+	orig: 366, 353
+	offset: 0, 7
+	index: -1
+skill/elang2_jn_chong_qilang1_00094
+	rotate: true
+	xy: 0, 716
+	size: 350, 323
+	orig: 366, 353
+	offset: 0, 7
+	index: -1
+skill/elang2_jn_daji_00033
+	rotate: false
+	xy: 1655, 1083
+	size: 267, 266
+	orig: 347, 334
+	offset: 53, 2
+	index: -1
+skill/elang2_jn_chong_qilang1_00090
+	rotate: true
+	xy: 324, 1381
+	size: 334, 323
+	orig: 366, 353
+	offset: 0, 6
+	index: -1
+skill/elang2_jn_daji_00037
+	rotate: true
+	xy: 1402, 910
+	size: 277, 252
+	orig: 347, 334
+	offset: 40, 8
+	index: -1
+skill/elang2_jn_daji_00036
+	rotate: false
+	xy: 1638, 1350
+	size: 265, 244
+	orig: 347, 334
+	offset: 36, 10
+	index: -1
+skill/elang2_jn_daji_00049
+	rotate: true
+	xy: 1749, 0
+	size: 277, 286
+	orig: 347, 334
+	offset: 44, 28
+	index: -1
+skill/elang2_jn_xuqi_00079
+	rotate: false
+	xy: 580, 1045
+	size: 261, 330
+	orig: 313, 572
+	offset: 32, 117
+	index: -1
+skill/elang2_jn_daji_00042
+	rotate: true
+	xy: 323, 1751
+	size: 293, 266
+	orig: 347, 334
+	offset: 33, 17
+	index: -1
+skill/elang2_jn_daji_00043
+	rotate: true
+	xy: 1217, 618
+	size: 291, 236
+	orig: 347, 334
+	offset: 33, 18
+	index: -1
+skill/elang2_jn_daji_00044
+	rotate: false
+	xy: 1429, 1595
+	size: 263, 264
+	orig: 347, 334
+	offset: 34, 0
+	index: -1
+skill/elang2_jn_daji_00045
+	rotate: true
+	xy: 0, 1751
+	size: 293, 322
+	orig: 347, 334
+	offset: 36, 0
+	index: -1
+skill/elang2_jn_daji_00046
+	rotate: false
+	xy: 832, 338
+	size: 275, 322
+	orig: 347, 334
+	offset: 54, 2
+	index: -1
+skill/elang2_jn_daji_00040
+	rotate: true
+	xy: 1633, 557
+	size: 269, 282
+	orig: 347, 334
+	offset: 44, 14
+	index: -1
+skill/elang2_jn_daji_00041
+	rotate: false
+	xy: 1749, 278
+	size: 285, 278
+	orig: 347, 334
+	offset: 35, 16
+	index: -1
+skill/elang2_jn_daji_00034
+	rotate: true
+	xy: 1374, 300
+	size: 287, 258
+	orig: 347, 334
+	offset: 39, 3
+	index: -1
+
+asset/anim/elang2SKILL0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/elang2_jn_chong_qilang1_00087
+	rotate: true
+	xy: 1724, 623
+	size: 350, 323
+	orig: 366, 353
+	offset: 0, 7
+	index: -1
+skill/elang2_jn_chong_qilang1_00102
+	rotate: true
+	xy: 1896, 1556
+	size: 220, 121
+	orig: 366, 353
+	offset: 106, 82
+	index: -1
+skill/elang2_jn_chong_qilang1_00088
+	rotate: true
+	xy: 1724, 270
+	size: 352, 323
+	orig: 366, 353
+	offset: 0, 6
+	index: -1
+skill/elang2_jn_daji_00031
+	rotate: false
+	xy: 1476, 0
+	size: 139, 250
+	orig: 347, 334
+	offset: 119, 10
+	index: -1
+skill/elang2_jn_xuqi_00069
+	rotate: false
+	xy: 1139, 1481
+	size: 199, 412
+	orig: 313, 572
+	offset: 61, 76
+	index: -1
+skill/elang2_jn_chong_qilang1_00103
+	rotate: false
+	xy: 512, 1024
+	size: 194, 77
+	orig: 366, 353
+	offset: 124, 112
+	index: -1
+skill/elang2_jn_xuqi_00068
+	rotate: false
+	xy: 920, 0
+	size: 217, 454
+	orig: 313, 572
+	offset: 50, 55
+	index: -1
+skill/elang2_jn_xuqi_00067
+	rotate: false
+	xy: 272, 569
+	size: 239, 494
+	orig: 313, 572
+	offset: 39, 33
+	index: -1
+skill/elang2_jn_xuqi_00066
+	rotate: false
+	xy: 0, 1120
+	size: 263, 540
+	orig: 313, 572
+	offset: 27, 9
+	index: -1
+skill/elang2_jn_xuqi_00065
+	rotate: false
+	xy: 0, 0
+	size: 277, 568
+	orig: 313, 572
+	offset: 22, 4
+	index: -1
+skill/elang2_jn_daji_00052
+	rotate: true
+	xy: 735, 459
+	size: 75, 120
+	orig: 347, 334
+	offset: 206, 166
+	index: -1
+skill/elang2_jn_chong_qilang1_00093
+	rotate: false
+	xy: 1695, 1232
+	size: 350, 323
+	orig: 366, 353
+	offset: 0, 6
+	index: -1
+skill/elang2_jn_chong_qilang1_00101
+	rotate: false
+	xy: 1286, 1332
+	size: 232, 137
+	orig: 366, 353
+	offset: 97, 75
+	index: -1
+skill/elang2_jn_xuqi_00071
+	rotate: true
+	xy: 1282, 814
+	size: 193, 336
+	orig: 313, 572
+	offset: 69, 116
+	index: -1
+skill/elang2_jn_xuqi_00084
+	rotate: true
+	xy: 1695, 1830
+	size: 213, 308
+	orig: 313, 572
+	offset: 23, 113
+	index: -1
+skill/elang2_jn_xuqi_00086
+	rotate: false
+	xy: 1388, 251
+	size: 173, 182
+	orig: 313, 572
+	offset: 11, 161
+	index: -1
+skill/elang2_jn_chong_qilang1_00100
+	rotate: false
+	xy: 1139, 1894
+	size: 238, 147
+	orig: 366, 353
+	offset: 93, 71
+	index: -1
+skill/elang2_jn_chong_qilang1_00091
+	rotate: false
+	xy: 1286, 1008
+	size: 332, 323
+	orig: 366, 353
+	offset: 0, 6
+	index: -1
+skill/elang2_jn_xuqi_00070
+	rotate: false
+	xy: 1282, 439
+	size: 193, 374
+	orig: 313, 572
+	offset: 69, 96
+	index: -1
+skill/elang2_jn_xuqi_00072
+	rotate: true
+	xy: 1378, 1830
+	size: 215, 316
+	orig: 313, 572
+	offset: 57, 129
+	index: -1
+skill/elang2_jn_xuqi_00073
+	rotate: false
+	xy: 0, 569
+	size: 271, 550
+	orig: 313, 572
+	offset: 24, 0
+	index: -1
+skill/elang2_jn_xuqi_00074
+	rotate: false
+	xy: 264, 1120
+	size: 253, 526
+	orig: 313, 572
+	offset: 32, 6
+	index: -1
+skill/elang2_jn_xuqi_00075
+	rotate: false
+	xy: 278, 0
+	size: 241, 482
+	orig: 313, 572
+	offset: 44, 30
+	index: -1
+skill/elang2_jn_xuqi_00076
+	rotate: false
+	xy: 1138, 0
+	size: 249, 438
+	orig: 313, 572
+	offset: 39, 53
+	index: -1
+skill/elang2_jn_xuqi_00077
+	rotate: false
+	xy: 461, 1647
+	size: 253, 400
+	orig: 313, 572
+	offset: 37, 74
+	index: -1
+skill/elang2_jn_xuqi_00078
+	rotate: true
+	xy: 1619, 974
+	size: 257, 360
+	orig: 313, 572
+	offset: 34, 95
+	index: -1
+skill/elang2_jn_daji_00047
+	rotate: true
+	xy: 1595, 1556
+	size: 273, 300
+	orig: 347, 334
+	offset: 55, 24
+	index: -1
+
+asset/anim/elang2COMMON0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/elang2_dizhuanyan_00067
+	rotate: true
+	xy: 1061, 437
+	size: 204, 85
+	orig: 254, 115
+	offset: 35, 15
+	index: -1
+common/elang2_dizhuanyan_00068
+	rotate: true
+	xy: 1061, 642
+	size: 200, 85
+	orig: 254, 115
+	offset: 16, 13
+	index: -1
+
+asset/anim/elang2COMMON1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/elang2_dizhuanyan_00069
+	rotate: false
+	xy: 458, 1664
+	size: 222, 87
+	orig: 254, 115
+	offset: 9, 13
+	index: -1
+common/elang2_luodi_dilieUP_00015
+	rotate: false
+	xy: 1668, 217
+	size: 372, 195
+	orig: 372, 195
+	offset: 0, 0
+	index: -1
+common/elang2_dizhuanyan_00070
+	rotate: false
+	xy: 681, 1662
+	size: 228, 69
+	orig: 254, 115
+	offset: 26, 24
+	index: -1

@@ -1,0 +1,176 @@
+
+asset/anim/shenhaiwangbeijing0.png
+size: 996,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shenhaiwang_yu0002
+	rotate: false
+	xy: 0, 954
+	size: 390, 68
+	orig: 400, 80
+	offset: 4, 12
+	index: -1
+
+asset/anim/shenhaiwangSEMAX4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shenhaiwang_shandian_00000
+	rotate: false
+	xy: 429, 270
+	size: 182, 184
+	orig: 204, 200
+	offset: 11, 10
+	index: -1
+max/shenhaiwang_shandian_00001
+	rotate: true
+	xy: 335, 459
+	size: 186, 182
+	orig: 204, 200
+	offset: 9, 13
+	index: -1
+max/shenhaiwang_shandian_00002
+	rotate: false
+	xy: 788, 79
+	size: 192, 190
+	orig: 204, 200
+	offset: 7, 7
+	index: -1
+max/shenhaiwang_shandian_00003
+	rotate: true
+	xy: 246, 270
+	size: 188, 182
+	orig: 204, 200
+	offset: 12, 17
+	index: -1
+
+asset/anim/shenhaiwangSEMAX3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shenhaiwang_shuihua5_00011
+	rotate: true
+	xy: 70, 765
+	size: 243, 79
+	orig: 267, 87
+	offset: 3, 0
+	index: -1
+max/shenhaiwang_shuihua5_00013
+	rotate: true
+	xy: 150, 761
+	size: 243, 73
+	orig: 267, 87
+	offset: 4, 0
+	index: -1
+max/shenhaiwang_yu0009
+	rotate: false
+	xy: 466, 311
+	size: 306, 62
+	orig: 312, 62
+	offset: 2, 0
+	index: -1
+max/shenhaiwang_yu0008
+	rotate: false
+	xy: 466, 248
+	size: 306, 62
+	orig: 312, 62
+	offset: 2, 0
+	index: -1
+max/shenhaiwang_shuihua5_00017
+	rotate: true
+	xy: 0, 765
+	size: 257, 69
+	orig: 267, 87
+	offset: 3, 0
+	index: -1
+max/shenhaiwang_shuihua5_00015
+	rotate: true
+	xy: 224, 761
+	size: 243, 71
+	orig: 267, 87
+	offset: 4, 0
+	index: -1
+max/shenhaiwang_yu0003
+	rotate: false
+	xy: 464, 427
+	size: 302, 62
+	orig: 312, 62
+	offset: 6, 0
+	index: -1
+max/shenhaiwang_yu0001
+	rotate: false
+	xy: 464, 490
+	size: 302, 44
+	orig: 312, 62
+	offset: 6, 18
+	index: -1
+max/shenhaiwang_yu0006
+	rotate: false
+	xy: 466, 374
+	size: 306, 52
+	orig: 312, 62
+	offset: 2, 10
+	index: -1
+
+asset/anim/shenhaiwangSEMAX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shenhaiwang_shuihua5_00007
+	rotate: false
+	xy: 760, 461
+	size: 263, 73
+	orig: 267, 87
+	offset: 4, 0
+	index: -1
+max/shenhaiwang_shuihua5_00009
+	rotate: false
+	xy: 760, 377
+	size: 263, 83
+	orig: 267, 87
+	offset: 4, 0
+	index: -1
+max/shenhaiwang_yu0007
+	rotate: true
+	xy: 56, 370
+	size: 306, 62
+	orig: 312, 62
+	offset: 2, 0
+	index: -1
+max/shenhaiwang_yu0004
+	rotate: true
+	xy: 557, 679
+	size: 280, 62
+	orig: 312, 62
+	offset: 6, 0
+	index: -1
+
+asset/anim/shenhaiwangSEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shenhaiwang_yu0005
+	rotate: false
+	xy: 483, 497
+	size: 306, 62
+	orig: 312, 62
+	offset: 2, 0
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

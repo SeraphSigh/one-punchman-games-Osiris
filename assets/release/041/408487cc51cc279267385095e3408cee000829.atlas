@@ -1,0 +1,116 @@
+
+asset/anim/hudiedxSESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/hudiedx_skill_zhuan2_00025
+	rotate: true
+	xy: 676, 974
+	size: 35, 91
+	orig: 153, 195
+	offset: 101, 46
+	index: -1
+skill/hudiedx_skill_zhuan2_00022
+	rotate: false
+	xy: 486, 729
+	size: 37, 135
+	orig: 153, 195
+	offset: 100, 45
+	index: -1
+skill/hudiedx_skill_zhuan2_00023
+	rotate: true
+	xy: 540, 974
+	size: 37, 135
+	orig: 153, 195
+	offset: 100, 45
+	index: -1
+
+asset/anim/hudiedxSESKILL1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/hudiedx_skill_zhuan2_00012
+	rotate: false
+	xy: 250, 630
+	size: 73, 79
+	orig: 153, 195
+	offset: 40, 40
+	index: -1
+skill/hudiedx_skill_zhuan2_00013
+	rotate: false
+	xy: 490, 901
+	size: 97, 119
+	orig: 153, 195
+	offset: 41, 12
+	index: -1
+skill/hudiedx_skill_zhuan2_00024
+	rotate: true
+	xy: 588, 980
+	size: 37, 133
+	orig: 153, 195
+	offset: 99, 46
+	index: -1
+skill/hudiedx_skill_zhuan2_00021
+	rotate: true
+	xy: 328, 745
+	size: 61, 139
+	orig: 153, 195
+	offset: 82, 40
+	index: -1
+skill/hudiedx_skill_zhuan2_00020
+	rotate: false
+	xy: 250, 488
+	size: 63, 141
+	orig: 153, 195
+	offset: 81, 40
+	index: -1
+
+asset/anim/hudiedxSESKILL2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/hudiedx_skill_zhuan2_00016
+	rotate: true
+	xy: 156, 928
+	size: 95, 169
+	orig: 153, 195
+	offset: 47, 13
+	index: -1
+skill/hudiedx_skill_zhuan2_00017
+	rotate: true
+	xy: 0, 931
+	size: 93, 155
+	orig: 153, 195
+	offset: 51, 28
+	index: -1
+skill/hudiedx_skill_zhuan2_00014
+	rotate: false
+	xy: 554, 643
+	size: 97, 143
+	orig: 153, 195
+	offset: 42, 13
+	index: -1
+skill/hudiedx_skill_zhuan2_00015
+	rotate: false
+	xy: 326, 854
+	size: 99, 169
+	orig: 153, 195
+	offset: 42, 13
+	index: -1
+skill/hudiedx_skill_zhuan2_00018
+	rotate: false
+	xy: 618, 787
+	size: 91, 141
+	orig: 153, 195
+	offset: 53, 40
+	index: -1
+skill/hudiedx_skill_zhuan2_00019
+	rotate: false
+	xy: 659, 437
+	size: 87, 141
+	orig: 153, 195
+	offset: 57, 40
+	index: -1

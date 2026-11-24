@@ -1,0 +1,405 @@
+
+asset/anim/jienuosiqiaogu20.png
+size: 128,797
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gu
+	rotate: false
+	xy: 0, 0
+	size: 103, 114
+	orig: 103, 114
+	offset: 0, 0
+	index: -1
+c_zuoxiaobi_jienuosiqiaogu
+	rotate: false
+	xy: 53, 755
+	size: 25, 24
+	orig: 25, 24
+	offset: 0, 0
+	index: -1
+c_youshou_jienuosiqiaogu
+	rotate: false
+	xy: 29, 755
+	size: 23, 27
+	orig: 23, 27
+	offset: 0, 0
+	index: -1
+d_zuodabi_jienuosiqiaogu
+	rotate: true
+	xy: 87, 170
+	size: 47, 41
+	orig: 47, 41
+	offset: 0, 0
+	index: -1
+e_hair2_jienuosiqiaogu
+	rotate: false
+	xy: 0, 337
+	size: 87, 63
+	orig: 87, 63
+	offset: 0, 0
+	index: -1
+c_youmao_jienuosiqiaogu
+	rotate: false
+	xy: 86, 595
+	size: 21, 36
+	orig: 21, 36
+	offset: 0, 0
+	index: -1
+d_guchui1_jienuosiqiaogu
+	rotate: false
+	xy: 96, 274
+	size: 28, 61
+	orig: 28, 61
+	offset: 0, 0
+	index: -1
+e_youjiao_jienuosiqiaogu
+	rotate: false
+	xy: 101, 744
+	size: 22, 21
+	orig: 22, 21
+	offset: 0, 0
+	index: -1
+a_zuodabi_jienuosiqiaogu
+	rotate: false
+	xy: 104, 43
+	size: 24, 30
+	orig: 24, 30
+	offset: 0, 0
+	index: -1
+d_zuoxiaobi_jienuosiqiaogu
+	rotate: true
+	xy: 95, 464
+	size: 44, 31
+	orig: 44, 31
+	offset: 0, 0
+	index: -1
+a_guchui_jienuosiqiaogu
+	rotate: true
+	xy: 0, 688
+	size: 57, 29
+	orig: 57, 29
+	offset: 0, 0
+	index: -1
+c_zuomao_jienuosiqiaogu
+	rotate: true
+	xy: 54, 718
+	size: 17, 34
+	orig: 17, 34
+	offset: 0, 0
+	index: -1
+b_youshou2_jienuosiqiaogu
+	rotate: false
+	xy: 29, 783
+	size: 17, 14
+	orig: 17, 14
+	offset: 0, 0
+	index: -1
+c_zuoshou2_jienuosiqiaogu
+	rotate: false
+	xy: 74, 576
+	size: 22, 18
+	orig: 22, 18
+	offset: 0, 0
+	index: -1
+e_hair1_jienuosiqiaogu
+	rotate: true
+	xy: 0, 115
+	size: 122, 86
+	orig: 122, 86
+	offset: 0, 0
+	index: -1
+e_Lshin_jienuosiqiaogu
+	rotate: false
+	xy: 54, 678
+	size: 28, 39
+	orig: 28, 39
+	offset: 0, 0
+	index: -1
+c_zuoshou1_jienuosiqiaogu
+	rotate: true
+	xy: 108, 631
+	size: 23, 20
+	orig: 23, 20
+	offset: 0, 0
+	index: -1
+a_youshou2_jienuosiqiaogu
+	rotate: false
+	xy: 46, 583
+	size: 17, 11
+	orig: 17, 11
+	offset: 0, 0
+	index: -1
+b_zuoxiaobi_jienuosiqiaogu
+	rotate: true
+	xy: 30, 688
+	size: 47, 23
+	orig: 47, 23
+	offset: 0, 0
+	index: -1
+o_coxa_jienuosiqiaogu
+	rotate: true
+	xy: 97, 540
+	size: 41, 29
+	orig: 41, 29
+	offset: 0, 0
+	index: -1
+e_neck_jienuosiqiaogu
+	rotate: false
+	xy: 0, 401
+	size: 54, 76
+	orig: 54, 76
+	offset: 0, 0
+	index: -1
+e_zuoyanzhu_jienuosiqiaogu
+	rotate: false
+	xy: 0, 238
+	size: 95, 98
+	orig: 95, 98
+	offset: 0, 0
+	index: -1
+c_guchui2_jienuosiqiaogu
+	rotate: false
+	xy: 65, 474
+	size: 29, 55
+	orig: 29, 55
+	offset: 0, 0
+	index: -1
+a_zouxiaobi_jienuosiqiaogu
+	rotate: true
+	xy: 46, 537
+	size: 45, 27
+	orig: 45, 27
+	offset: 0, 0
+	index: -1
+e_youmeimao_jienuosiqiaogu
+	rotate: false
+	xy: 30, 736
+	size: 32, 18
+	orig: 32, 18
+	offset: 0, 0
+	index: -1
+c_youdabi_jienuosiqiaogu
+	rotate: false
+	xy: 0, 746
+	size: 28, 50
+	orig: 28, 50
+	offset: 0, 0
+	index: -1
+b_guchui_jienuosiqiaogu
+	rotate: false
+	xy: 0, 544
+	size: 45, 50
+	orig: 45, 50
+	offset: 0, 0
+	index: -1
+c_guchui1_jienuosiqiaogu
+	rotate: false
+	xy: 87, 115
+	size: 41, 54
+	orig: 41, 54
+	offset: 0, 0
+	index: -1
+e_Lthigh_jienuosiqiaogu
+	rotate: false
+	xy: 88, 337
+	size: 40, 40
+	orig: 40, 40
+	offset: 0, 0
+	index: -1
+a_guchui2_jienuosiqiaogu
+	rotate: false
+	xy: 39, 478
+	size: 25, 58
+	orig: 25, 58
+	offset: 0, 0
+	index: -1
+d_zuoshou1_jienuosiqiaogu
+	rotate: false
+	xy: 108, 582
+	size: 20, 24
+	orig: 20, 24
+	offset: 0, 0
+	index: -1
+e_hair4_jienuosiqiaogu
+	rotate: false
+	xy: 55, 401
+	size: 30, 72
+	orig: 30, 72
+	offset: 0, 0
+	index: -1
+b_youshou1_jienuosiqiaogu
+	rotate: true
+	xy: 104, 74
+	size: 27, 24
+	orig: 27, 24
+	offset: 0, 0
+	index: -1
+b_zuoshou2_jienuosiqiaogu
+	rotate: false
+	xy: 108, 672
+	size: 19, 25
+	orig: 19, 25
+	offset: 0, 0
+	index: -1
+b_youxiaobi_jienuosiqiaogu
+	rotate: false
+	xy: 86, 432
+	size: 42, 31
+	orig: 42, 31
+	offset: 0, 0
+	index: -1
+a_youdabi_jienuosiqiaogu
+	rotate: false
+	xy: 96, 218
+	size: 32, 55
+	orig: 32, 55
+	offset: 0, 0
+	index: -1
+c_youxiaobi_jienuosiqiaogu
+	rotate: true
+	xy: 100, 698
+	size: 22, 26
+	orig: 22, 26
+	offset: 0, 0
+	index: -1
+d_zuoshou2_jienuosiqiaogu
+	rotate: true
+	xy: 79, 755
+	size: 25, 21
+	orig: 25, 21
+	offset: 0, 0
+	index: -1
+d_youdabi_jienuosiqiaogu
+	rotate: false
+	xy: 44, 595
+	size: 41, 45
+	orig: 41, 45
+	offset: 0, 0
+	index: -1
+d_youshou1_jienuosiqiaogu
+	rotate: false
+	xy: 83, 663
+	size: 24, 23
+	orig: 24, 23
+	offset: 0, 0
+	index: -1
+a_youxiaobi_jienuosiqiaogu
+	rotate: true
+	xy: 74, 530
+	size: 45, 22
+	orig: 45, 22
+	offset: 0, 0
+	index: -1
+d_youshou2_jienuosiqiaogu
+	rotate: true
+	xy: 53, 780
+	size: 17, 19
+	orig: 17, 19
+	offset: 0, 0
+	index: -1
+e_zuomeimao_jienuosiqiaogu
+	rotate: false
+	xy: 73, 781
+	size: 23, 15
+	orig: 23, 15
+	offset: 0, 0
+	index: -1
+e_youxiaotui_jienuosiqiaogu
+	rotate: false
+	xy: 44, 641
+	size: 35, 36
+	orig: 35, 36
+	offset: 0, 0
+	index: -1
+a_zuoshou2_jienuosiqiaogu
+	rotate: false
+	xy: 108, 655
+	size: 20, 16
+	orig: 20, 16
+	offset: 0, 0
+	index: -1
+a_youshou1_jienuosiqiaogu
+	rotate: false
+	xy: 101, 721
+	size: 25, 22
+	orig: 25, 22
+	offset: 0, 0
+	index: -1
+e_hair3_jienuosiqiaogu
+	rotate: false
+	xy: 0, 478
+	size: 38, 65
+	orig: 38, 65
+	offset: 0, 0
+	index: -1
+e_youdatui_jienuosiqiaogu
+	rotate: false
+	xy: 104, 0
+	size: 24, 42
+	orig: 24, 42
+	offset: 0, 0
+	index: -1
+d_youxiaobi_jienuosiqiaogu
+	rotate: false
+	xy: 86, 632
+	size: 21, 30
+	orig: 21, 30
+	offset: 0, 0
+	index: -1
+a_zuoshou1_jienuosiqiaogu
+	rotate: false
+	xy: 101, 766
+	size: 21, 21
+	orig: 21, 21
+	offset: 0, 0
+	index: -1
+a_zuomao_jienuosiqiaogu
+	rotate: false
+	xy: 83, 687
+	size: 16, 30
+	orig: 16, 30
+	offset: 0, 0
+	index: -1
+d_guchui2_jienuosiqiaogu
+	rotate: false
+	xy: 95, 378
+	size: 33, 53
+	orig: 33, 53
+	offset: 0, 0
+	index: -1
+e_Lfoot_jienuosiqiaogu
+	rotate: false
+	xy: 63, 736
+	size: 26, 18
+	orig: 26, 18
+	offset: 0, 0
+	index: -1
+b_zuoshou1_jienuosiqiaogu
+	rotate: false
+	xy: 108, 607
+	size: 20, 23
+	orig: 20, 23
+	offset: 0, 0
+	index: -1
+b_youdabi_jienuosiqiaogu
+	rotate: true
+	xy: 0, 595
+	size: 47, 43
+	orig: 47, 43
+	offset: 0, 0
+	index: -1
+b_zuodabi_jienuosiqiaogu
+	rotate: false
+	xy: 97, 509
+	size: 31, 30
+	orig: 31, 30
+	offset: 0, 0
+	index: -1
+c_zuodabi_jienuosiqiaogu
+	rotate: true
+	xy: 0, 643
+	size: 44, 43
+	orig: 44, 43
+	offset: 0, 0
+	index: -1

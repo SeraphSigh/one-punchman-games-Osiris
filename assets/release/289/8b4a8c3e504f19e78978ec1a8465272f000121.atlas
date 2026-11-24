@@ -1,0 +1,20 @@
+
+asset/anim/shanbai0.png
+size: 190,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baikuang
+	rotate: false
+	xy: 140, 0
+	size: 50, 50
+	orig: 50, 50
+	offset: 0, 0
+	index: -1
+hongping1
+	rotate: false
+	xy: 0, 0
+	size: 139, 85
+	orig: 139, 85
+	offset: 0, 0
+	index: -1

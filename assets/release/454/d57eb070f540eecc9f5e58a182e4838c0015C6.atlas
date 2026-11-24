@@ -1,0 +1,326 @@
+
+asset/anim/shuilongxiuxiankapai1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuoxiaotui_shuilongxiuxiankapai
+	rotate: false
+	xy: 0, 276
+	size: 117, 233
+	orig: 117, 233
+	offset: 0, 0
+	index: -1
+zuodabi_shuilongxiuxiankapai
+	rotate: false
+	xy: 402, 240
+	size: 102, 168
+	orig: 102, 168
+	offset: 0, 0
+	index: -1
+youshou2_shuilongxiuxiankapai
+	rotate: true
+	xy: 330, 304
+	size: 42, 62
+	orig: 42, 62
+	offset: 0, 0
+	index: -1
+zuodatui_shuilongxiuxiankapai
+	rotate: false
+	xy: 89, 0
+	size: 117, 256
+	orig: 117, 256
+	offset: 0, 0
+	index: -1
+toufa4_shuilongxiuxiankapai
+	rotate: true
+	xy: 297, 97
+	size: 52, 99
+	orig: 52, 99
+	offset: 0, 0
+	index: -1
+lian_shuilongxiuxiankapai
+	rotate: true
+	xy: 298, 409
+	size: 97, 116
+	orig: 97, 116
+	offset: 0, 0
+	index: -1
+maoyi1_shuilongxiuxiankapai
+	rotate: false
+	xy: 415, 409
+	size: 77, 47
+	orig: 77, 47
+	offset: 0, 0
+	index: -1
+youxiaobi_shuilongxiuxiankapai
+	rotate: true
+	xy: 402, 66
+	size: 173, 103
+	orig: 173, 103
+	offset: 0, 0
+	index: -1
+xianglian_shuilongxiuxiankapai
+	rotate: false
+	xy: 207, 0
+	size: 89, 154
+	orig: 89, 154
+	offset: 0, 0
+	index: -1
+youdabi_shuilongxiuxiankapai
+	rotate: true
+	xy: 207, 155
+	size: 100, 194
+	orig: 100, 194
+	offset: 0, 0
+	index: -1
+waitaohou2_shuilongxiuxiankapai
+	rotate: true
+	xy: 118, 257
+	size: 250, 54
+	orig: 250, 54
+	offset: 0, 0
+	index: -1
+youxiaotui_shuilongxiuxiankapai
+	rotate: false
+	xy: 0, 0
+	size: 88, 275
+	orig: 88, 275
+	offset: 0, 0
+	index: -1
+youshou4_shuilongxiuxiankapai
+	rotate: false
+	xy: 330, 256
+	size: 66, 47
+	orig: 66, 47
+	offset: 0, 0
+	index: -1
+youguasheng_shuilongxiuxiankapai
+	rotate: false
+	xy: 298, 256
+	size: 31, 152
+	orig: 31, 152
+	offset: 0, 0
+	index: -1
+youshou1_shuilongxiuxiankapai
+	rotate: false
+	xy: 363, 347
+	size: 32, 40
+	orig: 32, 40
+	offset: 0, 0
+	index: -1
+youling_shuilongxiuxiankapai
+	rotate: false
+	xy: 173, 257
+	size: 124, 232
+	orig: 124, 232
+	offset: 0, 0
+	index: -1
+toufa6_shuilongxiuxiankapai
+	rotate: false
+	xy: 330, 347
+	size: 32, 51
+	orig: 32, 51
+	offset: 0, 0
+	index: -1
+maojing1_shuilongxiuxiankapai
+	rotate: true
+	xy: 298, 0
+	size: 65, 213
+	orig: 65, 213
+	offset: 0, 0
+	index: -1
+toufa1_shuilongxiuxiankapai
+	rotate: true
+	xy: 297, 66
+	size: 30, 103
+	orig: 30, 103
+	offset: 0, 0
+	index: -1
+
+asset/anim/shuilongxiuxiankapai0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuoxiaobi_shuilongxiuxiankapai
+	rotate: false
+	xy: 86, 398
+	size: 92, 109
+	orig: 92, 109
+	offset: 0, 0
+	index: -1
+youwaitao_shuilongxiuxiankapai
+	rotate: false
+	xy: 213, 0
+	size: 165, 381
+	orig: 165, 381
+	offset: 0, 0
+	index: -1
+maoyi2_shuilongxiuxiankapai
+	rotate: false
+	xy: 0, 0
+	size: 212, 397
+	orig: 212, 397
+	offset: 0, 0
+	index: -1
+youyan1_shuilongxiuxiankapai
+	rotate: true
+	xy: 258, 484
+	size: 28, 19
+	orig: 28, 19
+	offset: 0, 0
+	index: -1
+zuojiao_shuilongxiuxiankapai
+	rotate: false
+	xy: 379, 284
+	size: 123, 100
+	orig: 123, 100
+	offset: 0, 0
+	index: -1
+sheng2_shuilongxiuxiankapai
+	rotate: true
+	xy: 213, 382
+	size: 14, 64
+	orig: 14, 64
+	offset: 0, 0
+	index: -1
+toufa2_shuilongxiuxiankapai
+	rotate: true
+	xy: 379, 0
+	size: 65, 131
+	orig: 65, 131
+	offset: 0, 0
+	index: -1
+youshou5_shuilongxiuxiankapai
+	rotate: false
+	xy: 230, 484
+	size: 27, 28
+	orig: 27, 28
+	offset: 0, 0
+	index: -1
+sheng1_shuilongxiuxiankapai
+	rotate: true
+	xy: 366, 484
+	size: 15, 131
+	orig: 15, 131
+	offset: 0, 0
+	index: -1
+lihe_shuilongxiuxiankapai
+	rotate: false
+	xy: 379, 66
+	size: 126, 101
+	orig: 126, 101
+	offset: 0, 0
+	index: -1
+youshou6_shuilongxiuxiankapai
+	rotate: false
+	xy: 302, 484
+	size: 33, 19
+	orig: 33, 19
+	offset: 0, 0
+	index: -1
+zuowaitao_shuilongxiuxiankapai
+	rotate: true
+	xy: 179, 398
+	size: 85, 325
+	orig: 85, 325
+	offset: 0, 0
+	index: -1
+youjiao_shuilongxiuxiankapai
+	rotate: false
+	xy: 379, 168
+	size: 124, 115
+	orig: 124, 115
+	offset: 0, 0
+	index: -1
+zuoyan1_shuilongxiuxiankapai
+	rotate: true
+	xy: 278, 484
+	size: 26, 11
+	orig: 26, 11
+	offset: 0, 0
+	index: -1
+youyan2_shuilongxiuxiankapai
+	rotate: false
+	xy: 336, 484
+	size: 29, 19
+	orig: 29, 19
+	offset: 0, 0
+	index: -1
+toufa3_shuilongxiuxiankapai
+	rotate: false
+	xy: 0, 398
+	size: 85, 114
+	orig: 85, 114
+	offset: 0, 0
+	index: -1
+zuoyan2_shuilongxiuxiankapai
+	rotate: true
+	xy: 290, 484
+	size: 26, 11
+	orig: 26, 11
+	offset: 0, 0
+	index: -1
+youshou3_shuilongxiuxiankapai
+	rotate: true
+	xy: 179, 484
+	size: 28, 50
+	orig: 28, 50
+	offset: 0, 0
+	index: -1
+
+asset/anim/shuilongxiuxiankapai2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kua_shuilongxiuxiankapai
+	rotate: true
+	xy: 117, 220
+	size: 204, 150
+	orig: 204, 150
+	offset: 0, 0
+	index: -1
+maojing2_shuilongxiuxiankapai
+	rotate: false
+	xy: 303, 176
+	size: 193, 77
+	orig: 193, 77
+	offset: 0, 0
+	index: -1
+zuoling_shuilongxiuxiankapai
+	rotate: false
+	xy: 0, 0
+	size: 123, 219
+	orig: 123, 219
+	offset: 0, 0
+	index: -1
+toufa5_shuilongxiuxiankapai
+	rotate: false
+	xy: 303, 0
+	size: 201, 175
+	orig: 201, 175
+	offset: 0, 0
+	index: -1
+zuoguajian_shuilongxiuxiankapai
+	rotate: true
+	xy: 0, 440
+	size: 40, 159
+	orig: 40, 159
+	offset: 0, 0
+	index: -1
+youdatui_shuilongxiuxiankapai
+	rotate: false
+	xy: 0, 220
+	size: 116, 219
+	orig: 116, 219
+	offset: 0, 0
+	index: -1
+waitaohou_shuilongxiuxiankapai
+	rotate: false
+	xy: 160, 425
+	size: 142, 80
+	orig: 142, 80
+	offset: 0, 0
+	index: -1

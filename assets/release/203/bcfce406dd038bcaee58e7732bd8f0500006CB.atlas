@@ -1,0 +1,101 @@
+
+asset/anim/longjuan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/lj2_skill_dishifei_00028
+	rotate: false
+	xy: 444, 418
+	size: 376, 271
+	orig: 376, 271
+	offset: 0, 0
+	index: -1
+common/lj2_skill_qiu_00000
+	rotate: false
+	xy: 507, 0
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1
+common/lj2_skill_qiu_00003
+	rotate: false
+	xy: 0, 286
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1
+
+asset/anim/longjuan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/lj2_skill_qiu_00009
+	rotate: false
+	xy: 444, 0
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1
+common/lj2_skill_qiu_00012
+	rotate: true
+	xy: 0, 549
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1
+common/lj2_skill_qiu_00006
+	rotate: false
+	xy: 0, 0
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1
+common/lj2_skill_qiu_00015
+	rotate: true
+	xy: 470, 418
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1
+
+asset/anim/longjuan2SECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/shoujiguadian_longjuan2ext
+	rotate: false
+	xy: 1021, 0
+	size: 3, 3
+	orig: 45, 45
+	offset: 0, 42
+	index: -1
+
+asset/anim/longjuan2SECOMMON4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/lj2_skill_qiu_00018
+	rotate: false
+	xy: 0, 0
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1
+common/lj2_skill_qiu_00021
+	rotate: false
+	xy: 444, 0
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1
+common/lj2_skill_qiu_00024
+	rotate: true
+	xy: 0, 484
+	size: 443, 417
+	orig: 443, 417
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,124 @@
+
+asset/anim/xingganqiutu2SEATTACK1.png
+size: 500,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/xgqt2_atk_xuan_x_00001
+	rotate: false
+	xy: 157, 376
+	size: 156, 40
+	orig: 178, 132
+	offset: 8, 8
+	index: -1
+attack/xgqt2_atk_xuan_x_00002
+	rotate: false
+	xy: 318, 365
+	size: 156, 62
+	orig: 178, 132
+	offset: 8, 7
+	index: -1
+attack/xgqt2_atk_xuan_x_00003
+	rotate: false
+	xy: 0, 311
+	size: 156, 84
+	orig: 178, 132
+	offset: 8, 6
+	index: -1
+attack/xgqt2_atk_xuan_x_00013
+	rotate: false
+	xy: 338, 280
+	size: 162, 84
+	orig: 178, 132
+	offset: 13, 37
+	index: -1
+attack/xgqt2_atk_xuan_x_00005
+	rotate: false
+	xy: 340, 173
+	size: 160, 106
+	orig: 178, 132
+	offset: 5, 5
+	index: -1
+attack/xgqt2_atk_xuan_x_00011
+	rotate: true
+	xy: 356, 0
+	size: 172, 106
+	orig: 178, 132
+	offset: 6, 21
+	index: -1
+attack/xgqt2_atk_xuan_x_00014
+	rotate: false
+	xy: 149, 417
+	size: 152, 74
+	orig: 178, 132
+	offset: 17, 43
+	index: -1
+attack/xgqt2_atk_xuan_x_00010
+	rotate: false
+	xy: 0, 109
+	size: 174, 108
+	orig: 178, 132
+	offset: 4, 17
+	index: -1
+
+asset/anim/xingganqiutu2SEATTACK0.png
+size: 512,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/xgqt2_atk_xuan_x_00008
+	rotate: true
+	xy: 0, 230
+	size: 178, 112
+	orig: 178, 132
+	offset: 0, 7
+	index: -1
+attack/xgqt2_atk_xuan_x_00009
+	rotate: true
+	xy: 113, 230
+	size: 176, 110
+	orig: 178, 132
+	offset: 2, 12
+	index: -1
+attack/xgqt2_atk_xuan_x_00012
+	rotate: false
+	xy: 335, 334
+	size: 168, 98
+	orig: 178, 132
+	offset: 7, 28
+	index: -1
+attack/xgqt2_atk_xuan_x_00015
+	rotate: false
+	xy: 226, 433
+	size: 134, 66
+	orig: 178, 132
+	offset: 31, 48
+	index: -1
+attack/xgqt2_atk_xuan_x_00007
+	rotate: false
+	xy: 179, 0
+	size: 178, 112
+	orig: 178, 132
+	offset: 0, 5
+	index: -1
+attack/xgqt2_atk_xuan_x_00004
+	rotate: false
+	xy: 354, 124
+	size: 158, 100
+	orig: 178, 132
+	offset: 7, 5
+	index: -1
+attack/xgqt2_atk_xuan_x_00016
+	rotate: true
+	xy: 163, 407
+	size: 100, 62
+	orig: 178, 132
+	offset: 34, 52
+	index: -1
+attack/xgqt2_atk_xuan_x_00006
+	rotate: false
+	xy: 179, 113
+	size: 174, 110
+	orig: 178, 132
+	offset: 0, 5
+	index: -1

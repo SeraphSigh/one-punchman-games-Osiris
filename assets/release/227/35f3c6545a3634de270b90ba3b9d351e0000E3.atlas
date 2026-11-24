@@ -1,0 +1,13 @@
+
+asset/anim/qudongqishiCOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/qudongqishi_guangyun_1
+	rotate: true
+	xy: 751, 949
+	size: 74, 70
+	orig: 74, 70
+	offset: 0, 0
+	index: -1

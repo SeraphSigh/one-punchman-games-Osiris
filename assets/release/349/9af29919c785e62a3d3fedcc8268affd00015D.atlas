@@ -1,0 +1,20 @@
+
+asset/anim/URshenhaiwangSEMAX0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/keng2_URshenhaiwang
+	rotate: true
+	xy: 1390, 271
+	size: 210, 494
+	orig: 210, 494
+	offset: 0, 0
+	index: -1
+max/shitou_bu_URshenhaiwang
+	rotate: false
+	xy: 476, 1371
+	size: 305, 426
+	orig: 305, 426
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,41 @@
+
+asset/anim/yinseliaoyaSECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tuiweishunyitx1_yinseliaoya
+	rotate: false
+	xy: 216, 466
+	size: 162, 100
+	orig: 162, 100
+	offset: 0, 0
+	index: -1
+common/yslysuduxtx_yinseliaoya
+	rotate: false
+	xy: 842, 471
+	size: 175, 95
+	orig: 175, 95
+	offset: 0, 0
+	index: -1
+common/tuiweishunyitx2_yinseliaoya
+	rotate: false
+	xy: 886, 271
+	size: 138, 100
+	orig: 138, 100
+	offset: 0, 0
+	index: -1
+common/tuiweishunyitx3_yinseliaoya
+	rotate: false
+	xy: 892, 0
+	size: 122, 100
+	orig: 122, 100
+	offset: 0, 0
+	index: -1
+common/yslyshunyitx3_yinseliaoya
+	rotate: false
+	xy: 886, 169
+	size: 138, 101
+	orig: 140, 101
+	offset: 1, 0
+	index: -1

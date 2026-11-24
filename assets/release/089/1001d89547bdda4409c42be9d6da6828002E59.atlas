@@ -1,0 +1,772 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/mianmoren1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Lthigh_mianmoren
+	rotate: true
+	xy: 422, 341
+	size: 36, 44
+	orig: 36, 44
+	offset: 0, 0
+	index: -1
+i_body_mianmoren
+	rotate: false
+	xy: 125, 112
+	size: 51, 111
+	orig: 51, 111
+	offset: 0, 0
+	index: -1
+a_Lfoot_mianmoren
+	rotate: true
+	xy: 387, 354
+	size: 40, 33
+	orig: 40, 33
+	offset: 0, 0
+	index: -1
+c_Rarm_mianmoren
+	rotate: false
+	xy: 228, 465
+	size: 47, 47
+	orig: 47, 47
+	offset: 0, 0
+	index: -1
+b_Rthin_mianmoren
+	rotate: false
+	xy: 431, 151
+	size: 46, 29
+	orig: 46, 29
+	offset: 0, 0
+	index: -1
+a_Rarm_mianmoren
+	rotate: false
+	xy: 473, 326
+	size: 36, 50
+	orig: 36, 50
+	offset: 0, 0
+	index: -1
+i_Rforearm_mianmoren
+	rotate: true
+	xy: 475, 273
+	size: 52, 36
+	orig: 52, 36
+	offset: 0, 0
+	index: -1
+i_Rhand_mianmoren
+	rotate: false
+	xy: 290, 200
+	size: 24, 22
+	orig: 24, 22
+	offset: 0, 0
+	index: -1
+e_Lforearm_mianmoren
+	rotate: true
+	xy: 75, 264
+	size: 118, 70
+	orig: 118, 70
+	offset: 0, 0
+	index: -1
+a_eye2_mianmoren
+	rotate: true
+	xy: 420, 443
+	size: 41, 40
+	orig: 41, 40
+	offset: 0, 0
+	index: -1
+o_Rhand1_mianmoren
+	rotate: true
+	xy: 356, 118
+	size: 29, 30
+	orig: 29, 30
+	offset: 0, 0
+	index: -1
+a_Rhand_mianmoren
+	rotate: true
+	xy: 387, 106
+	size: 24, 31
+	orig: 24, 31
+	offset: 0, 0
+	index: -1
+a_Lthin_mianmoren
+	rotate: true
+	xy: 420, 183
+	size: 24, 56
+	orig: 24, 56
+	offset: 0, 0
+	index: -1
+k_Rarm_mianmoren
+	rotate: false
+	xy: 380, 250
+	size: 38, 50
+	orig: 38, 50
+	offset: 0, 0
+	index: -1
+n_Rarm_mianmoren
+	rotate: true
+	xy: 317, 223
+	size: 40, 43
+	orig: 40, 43
+	offset: 0, 0
+	index: -1
+b_benghuai_mianmoren
+	rotate: true
+	xy: 420, 42
+	size: 48, 59
+	orig: 48, 59
+	offset: 0, 0
+	index: -1
+b_hair1_mianmoren
+	rotate: false
+	xy: 301, 354
+	size: 85, 88
+	orig: 85, 88
+	offset: 0, 0
+	index: -1
+b_Rarm_mianmoren
+	rotate: false
+	xy: 387, 0
+	size: 32, 54
+	orig: 32, 54
+	offset: 0, 0
+	index: -1
+o_Lthigh_mianmoren
+	rotate: true
+	xy: 431, 123
+	size: 27, 48
+	orig: 27, 48
+	offset: 0, 0
+	index: -1
+o_Lthin_mianmoren
+	rotate: true
+	xy: 323, 327
+	size: 25, 56
+	orig: 25, 56
+	offset: 0, 0
+	index: -1
+o_body_mianmoren
+	rotate: false
+	xy: 235, 0
+	size: 71, 109
+	orig: 71, 109
+	offset: 0, 0
+	index: -1
+g_body_mianmoren
+	rotate: false
+	xy: 166, 365
+	size: 68, 99
+	orig: 68, 99
+	offset: 0, 0
+	index: -1
+h_Rarm_mianmoren
+	rotate: true
+	xy: 420, 245
+	size: 27, 55
+	orig: 27, 55
+	offset: 0, 0
+	index: -1
+c_body_mianmoren
+	rotate: false
+	xy: 125, 0
+	size: 68, 111
+	orig: 68, 111
+	offset: 0, 0
+	index: -1
+c_Rforearm_mianmoren
+	rotate: false
+	xy: 421, 378
+	size: 43, 35
+	orig: 43, 35
+	offset: 0, 0
+	index: -1
+a_Rthigh_mianmoren
+	rotate: true
+	xy: 420, 208
+	size: 36, 55
+	orig: 36, 55
+	offset: 0, 0
+	index: -1
+i_bat_mianmoren
+	rotate: false
+	xy: 0, 0
+	size: 124, 263
+	orig: 124, 263
+	offset: 0, 0
+	index: -1
+a_baozou_mianmoren
+	rotate: true
+	xy: 166, 465
+	size: 47, 61
+	orig: 47, 61
+	offset: 0, 0
+	index: -1
+o_head_mianmoren
+	rotate: true
+	xy: 276, 462
+	size: 50, 61
+	orig: 50, 61
+	offset: 0, 0
+	index: -1
+d_body_mianmoren
+	rotate: false
+	xy: 94, 383
+	size: 71, 111
+	orig: 71, 111
+	offset: 0, 0
+	index: -1
+a_hair3_mianmoren
+	rotate: true
+	xy: 338, 443
+	size: 66, 81
+	orig: 66, 81
+	offset: 0, 0
+	index: -1
+b_Rhand1_mianmoren
+	rotate: false
+	xy: 461, 414
+	size: 29, 29
+	orig: 29, 29
+	offset: 0, 0
+	index: -1
+a_Rthin_mianmoren
+	rotate: true
+	xy: 353, 183
+	size: 38, 53
+	orig: 38, 53
+	offset: 0, 0
+	index: -1
+gedangcanying_mianmoren
+	rotate: false
+	xy: 146, 264
+	size: 68, 100
+	orig: 68, 100
+	offset: 0, 0
+	index: -1
+k_Rforearm_mianmoren
+	rotate: true
+	xy: 478, 163
+	size: 55, 33
+	orig: 55, 33
+	offset: 0, 0
+	index: -1
+j_Rforearm_mianmoren
+	rotate: true
+	xy: 380, 301
+	size: 52, 41
+	orig: 52, 41
+	offset: 0, 0
+	index: -1
+b_Rfoot_mianmoren
+	rotate: false
+	xy: 315, 183
+	size: 37, 39
+	orig: 37, 39
+	offset: 0, 0
+	index: -1
+b_hair_mianmoren
+	rotate: true
+	xy: 0, 386
+	size: 120, 93
+	orig: 120, 93
+	offset: 0, 0
+	index: -1
+b_Rthigh_mianmoren
+	rotate: false
+	xy: 307, 55
+	size: 48, 53
+	orig: 48, 53
+	offset: 0, 0
+	index: -1
+j_Rhand_mianmoren
+	rotate: true
+	xy: 307, 29
+	size: 25, 21
+	orig: 25, 21
+	offset: 0, 0
+	index: -1
+a_Larm_mianmoren
+	rotate: true
+	xy: 307, 0
+	size: 28, 48
+	orig: 28, 48
+	offset: 0, 0
+	index: -1
+i_Rthigh_mianmoren
+	rotate: false
+	xy: 356, 0
+	size: 30, 58
+	orig: 30, 58
+	offset: 0, 0
+	index: -1
+a_eye1_mianmoren
+	rotate: false
+	xy: 229, 223
+	size: 43, 40
+	orig: 43, 40
+	offset: 0, 0
+	index: -1
+o_Rhand_mianmoren
+	rotate: true
+	xy: 259, 200
+	size: 22, 30
+	orig: 22, 30
+	offset: 0, 0
+	index: -1
+a_Rforearm_mianmoren
+	rotate: true
+	xy: 480, 76
+	size: 33, 32
+	orig: 33, 32
+	offset: 0, 0
+	index: -1
+g_coxa_mianmoren
+	rotate: true
+	xy: 281, 264
+	size: 89, 41
+	orig: 89, 41
+	offset: 0, 0
+	index: -1
+i_coxa_mianmoren
+	rotate: true
+	xy: 314, 109
+	size: 73, 41
+	orig: 73, 41
+	offset: 0, 0
+	index: -1
+k_Rhand_mianmoren
+	rotate: false
+	xy: 329, 29
+	size: 20, 22
+	orig: 20, 22
+	offset: 0, 0
+	index: -1
+b_Larm_mianmoren
+	rotate: true
+	xy: 387, 131
+	size: 51, 43
+	orig: 51, 43
+	offset: 0, 0
+	index: -1
+b_hair2_mianmoren
+	rotate: false
+	xy: 259, 110
+	size: 54, 89
+	orig: 54, 89
+	offset: 0, 0
+	index: -1
+o_Rforearm_mianmoren
+	rotate: false
+	xy: 356, 59
+	size: 30, 58
+	orig: 30, 58
+	offset: 0, 0
+	index: -1
+a_hair2_mianmoren
+	rotate: false
+	xy: 194, 0
+	size: 40, 110
+	orig: 40, 110
+	offset: 0, 0
+	index: -1
+i_Rthin_mianmoren
+	rotate: true
+	xy: 125, 224
+	size: 39, 54
+	orig: 39, 54
+	offset: 0, 0
+	index: -1
+o_Rthin_mianmoren
+	rotate: true
+	xy: 419, 273
+	size: 23, 55
+	orig: 23, 55
+	offset: 0, 0
+	index: -1
+j_Rarm_mianmoren
+	rotate: true
+	xy: 180, 223
+	size: 40, 48
+	orig: 40, 48
+	offset: 0, 0
+	index: -1
+h_Rhand_mianmoren
+	rotate: true
+	xy: 430, 414
+	size: 28, 29
+	orig: 28, 29
+	offset: 0, 0
+	index: -1
+i_Lfoot_mianmoren
+	rotate: false
+	xy: 387, 414
+	size: 42, 28
+	orig: 42, 28
+	offset: 0, 0
+	index: -1
+a_eye_mianmoren
+	rotate: false
+	xy: 273, 223
+	size: 43, 40
+	orig: 43, 40
+	offset: 0, 0
+	index: -1
+b_Rforearm_mianmoren
+	rotate: true
+	xy: 387, 55
+	size: 50, 32
+	orig: 50, 32
+	offset: 0, 0
+	index: -1
+k_body_mianmoren
+	rotate: false
+	xy: 177, 112
+	size: 81, 110
+	orig: 81, 110
+	offset: 0, 0
+	index: -1
+n_Rforearm_mianmoren
+	rotate: false
+	xy: 480, 110
+	size: 29, 52
+	orig: 29, 52
+	offset: 0, 0
+	index: -1
+a_coxa_mianmoren
+	rotate: false
+	xy: 420, 0
+	size: 82, 41
+	orig: 82, 41
+	offset: 0, 0
+	index: -1
+o_Rthigh_mianmoren
+	rotate: true
+	xy: 361, 222
+	size: 27, 58
+	orig: 27, 58
+	offset: 0, 0
+	index: -1
+a_Rfoot_mianmoren
+	rotate: true
+	xy: 480, 42
+	size: 33, 32
+	orig: 33, 32
+	offset: 0, 0
+	index: -1
+b_body_mianmoren
+	rotate: false
+	xy: 215, 264
+	size: 65, 99
+	orig: 65, 99
+	offset: 0, 0
+	index: -1
+e_body_mianmoren
+	rotate: false
+	xy: 235, 364
+	size: 65, 97
+	orig: 65, 97
+	offset: 0, 0
+	index: -1
+b_Lthigh_mianmoren
+	rotate: true
+	xy: 323, 264
+	size: 62, 37
+	orig: 62, 37
+	offset: 0, 0
+	index: -1
+o_hair_mianmoren
+	rotate: false
+	xy: 0, 264
+	size: 74, 121
+	orig: 74, 121
+	offset: 0, 0
+	index: -1
+b_Lthin_mianmoren
+	rotate: true
+	xy: 422, 297
+	size: 43, 50
+	orig: 43, 50
+	offset: 0, 0
+	index: -1
+i_Rfoot_mianmoren
+	rotate: false
+	xy: 356, 148
+	size: 29, 33
+	orig: 29, 33
+	offset: 0, 0
+	index: -1
+d_Larm_mianmoren
+	rotate: false
+	xy: 476, 219
+	size: 36, 53
+	orig: 36, 53
+	offset: 0, 0
+	index: -1
+d_Rarm_mianmoren
+	rotate: false
+	xy: 420, 91
+	size: 59, 31
+	orig: 59, 31
+	offset: 0, 0
+	index: -1
+i_Lthigh_mianmoren
+	rotate: true
+	xy: 467, 377
+	size: 36, 44
+	orig: 36, 44
+	offset: 0, 0
+	index: -1
+
+asset/anim/mianmoren0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_coxa_mianmoren
+	rotate: true
+	xy: 469, 355
+	size: 90, 43
+	orig: 90, 43
+	offset: 0, 0
+	index: -1
+i_Lthin_mianmoren
+	rotate: true
+	xy: 377, 294
+	size: 30, 56
+	orig: 30, 56
+	offset: 0, 0
+	index: -1
+a_head_mianmoren
+	rotate: true
+	xy: 374, 325
+	size: 50, 59
+	orig: 50, 59
+	offset: 0, 0
+	index: -1
+a_hair1_mianmoren
+	rotate: false
+	xy: 434, 236
+	size: 76, 118
+	orig: 76, 118
+	offset: 0, 0
+	index: -1
+a_zui_mianmoren
+	rotate: false
+	xy: 0, 495
+	size: 22, 17
+	orig: 22, 17
+	offset: 0, 0
+	index: -1
+d_coxa_mianmoren
+	rotate: true
+	xy: 328, 392
+	size: 84, 41
+	orig: 84, 41
+	offset: 0, 0
+	index: -1
+i_Rarm_mianmoren
+	rotate: true
+	xy: 463, 446
+	size: 39, 49
+	orig: 39, 49
+	offset: 0, 0
+	index: -1
+c_Rhand1_mianmoren
+	rotate: true
+	xy: 472, 486
+	size: 25, 28
+	orig: 25, 28
+	offset: 0, 0
+	index: -1
+o_Rarm_mianmoren
+	rotate: true
+	xy: 319, 325
+	size: 29, 54
+	orig: 29, 54
+	offset: 0, 0
+	index: -1
+b_head_mianmoren
+	rotate: false
+	xy: 269, 294
+	size: 49, 60
+	orig: 49, 60
+	offset: 0, 0
+	index: -1
+a_Lforearm_mianmoren
+	rotate: true
+	xy: 434, 0
+	size: 125, 78
+	orig: 125, 78
+	offset: 0, 0
+	index: -1
+n_bat_mianmoren
+	rotate: true
+	xy: 0, 303
+	size: 191, 268
+	orig: 191, 268
+	offset: 0, 0
+	index: -1
+b_Lfoot_mianmoren
+	rotate: false
+	xy: 425, 486
+	size: 46, 26
+	orig: 46, 26
+	offset: 0, 0
+	index: -1
+a_bat_mianmoren
+	rotate: false
+	xy: 0, 0
+	size: 118, 302
+	orig: 118, 302
+	offset: 0, 0
+	index: -1
+d_Rhand1_mianmoren
+	rotate: true
+	xy: 350, 294
+	size: 30, 26
+	orig: 30, 26
+	offset: 0, 0
+	index: -1
+c_bat_mianmoren
+	rotate: true
+	xy: 269, 0
+	size: 293, 164
+	orig: 293, 164
+	offset: 0, 0
+	index: -1
+h_bat_mianmoren
+	rotate: false
+	xy: 119, 0
+	size: 149, 298
+	orig: 149, 298
+	offset: 0, 0
+	index: -1
+d_Lforearm_mianmoren
+	rotate: true
+	xy: 269, 355
+	size: 122, 58
+	orig: 122, 58
+	offset: 0, 0
+	index: -1
+d_Rforearm_mianmoren
+	rotate: true
+	xy: 377, 478
+	size: 34, 47
+	orig: 34, 47
+	offset: 0, 0
+	index: -1
+h_Rforearm_mianmoren
+	rotate: false
+	xy: 328, 355
+	size: 45, 36
+	orig: 45, 36
+	offset: 0, 0
+	index: -1
+e_Rarm_mianmoren
+	rotate: false
+	xy: 269, 478
+	size: 56, 34
+	orig: 56, 34
+	offset: 0, 0
+	index: -1
+e_Rhand1_mianmoren
+	rotate: false
+	xy: 319, 294
+	size: 30, 30
+	orig: 30, 30
+	offset: 0, 0
+	index: -1
+a_body_mianmoren
+	rotate: false
+	xy: 434, 126
+	size: 77, 109
+	orig: 77, 109
+	offset: 0, 0
+	index: -1
+o_hair1_mianmoren
+	rotate: false
+	xy: 374, 376
+	size: 88, 101
+	orig: 88, 101
+	offset: 0, 0
+	index: -1
+e_Rforearm_mianmoren
+	rotate: true
+	xy: 326, 478
+	size: 34, 50
+	orig: 34, 50
+	offset: 0, 0
+	index: -1
+cemian_biyan_mianmoren
+	rotate: true
+	xy: 434, 355
+	size: 20, 34
+	orig: 20, 34
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

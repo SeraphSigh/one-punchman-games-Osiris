@@ -1,0 +1,236 @@
+
+asset/anim/moshumiaoshoukapai1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rleg1_moshumiaoshoukapai
+	rotate: true
+	xy: 0, 303
+	size: 179, 297
+	orig: 179, 297
+	offset: 0, 0
+	index: -1
+pifeng2_moshumiaoshoukapai
+	rotate: false
+	xy: 377, 0
+	size: 73, 70
+	orig: 73, 70
+	offset: 0, 0
+	index: -1
+Rleg2_moshumiaoshoukapai
+	rotate: false
+	xy: 0, 0
+	size: 145, 302
+	orig: 145, 302
+	offset: 0, 0
+	index: -1
+Rhand_moshumiaoshoukapai
+	rotate: false
+	xy: 298, 0
+	size: 78, 49
+	orig: 78, 49
+	offset: 0, 0
+	index: -1
+Lhand_moshumiaoshoukapai
+	rotate: false
+	xy: 451, 37
+	size: 54, 67
+	orig: 54, 67
+	offset: 0, 0
+	index: -1
+Lhand3_moshumiaoshoukapai
+	rotate: false
+	xy: 298, 50
+	size: 44, 43
+	orig: 44, 43
+	offset: 0, 0
+	index: -1
+Lhand1_moshumiaoshoukapai
+	rotate: true
+	xy: 451, 0
+	size: 36, 57
+	orig: 36, 57
+	offset: 0, 0
+	index: -1
+
+asset/anim/moshumiaoshoukapai0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rhand1_moshumiaoshoukapai
+	rotate: false
+	xy: 631, 841
+	size: 29, 63
+	orig: 29, 63
+	offset: 0, 0
+	index: -1
+Larm2_moshumiaoshoukapai
+	rotate: true
+	xy: 856, 784
+	size: 80, 148
+	orig: 80, 148
+	offset: 0, 0
+	index: -1
+Lfoot_moshumiaoshoukapai
+	rotate: false
+	xy: 538, 698
+	size: 128, 85
+	orig: 128, 85
+	offset: 0, 0
+	index: -1
+head_moshumiaoshoukapai
+	rotate: true
+	xy: 0, 581
+	size: 116, 106
+	orig: 116, 106
+	offset: 0, 0
+	index: -1
+body_moshumiaoshoukapai
+	rotate: true
+	xy: 222, 784
+	size: 223, 408
+	orig: 223, 408
+	offset: 0, 0
+	index: -1
+Rhand3_moshumiaoshoukapai
+	rotate: false
+	xy: 910, 865
+	size: 39, 62
+	orig: 39, 62
+	offset: 0, 0
+	index: -1
+Rhand4_moshumiaoshoukapai
+	rotate: false
+	xy: 999, 331
+	size: 22, 58
+	orig: 22, 58
+	offset: 0, 0
+	index: -1
+Rhand2_moshumiaoshoukapai
+	rotate: false
+	xy: 856, 865
+	size: 53, 64
+	orig: 53, 64
+	offset: 0, 0
+	index: -1
+pifeng6_moshumiaoshoukapai
+	rotate: false
+	xy: 808, 331
+	size: 190, 452
+	orig: 190, 452
+	offset: 0, 0
+	index: -1
+kua_moshumiaoshoukapai
+	rotate: false
+	xy: 631, 581
+	size: 176, 116
+	orig: 176, 116
+	offset: 0, 0
+	index: -1
+mao_moshumiaoshoukapai
+	rotate: true
+	xy: 808, 0
+	size: 217, 208
+	orig: 217, 208
+	offset: 0, 0
+	index: -1
+Lleg1_moshumiaoshoukapai
+	rotate: true
+	xy: 107, 581
+	size: 108, 278
+	orig: 108, 278
+	offset: 0, 0
+	index: -1
+Larm1_moshumiaoshoukapai
+	rotate: true
+	xy: 667, 774
+	size: 157, 123
+	orig: 157, 123
+	offset: 0, 0
+	index: -1
+pifeng3_moshumiaoshoukapai
+	rotate: false
+	xy: 0, 784
+	size: 221, 234
+	orig: 221, 234
+	offset: 0, 0
+	index: -1
+jie_moshumiaoshoukapai
+	rotate: true
+	xy: 950, 865
+	size: 46, 69
+	orig: 46, 69
+	offset: 0, 0
+	index: -1
+Rarm2_moshumiaoshoukapai
+	rotate: true
+	xy: 808, 218
+	size: 112, 198
+	orig: 112, 198
+	offset: 0, 0
+	index: -1
+zhang_moshumiaoshoukapai
+	rotate: true
+	xy: 0, 698
+	size: 85, 537
+	orig: 85, 537
+	offset: 0, 0
+	index: -1
+pifeng7_moshumiaoshoukapai
+	rotate: false
+	xy: 0, 0
+	size: 807, 580
+	orig: 807, 580
+	offset: 0, 0
+	index: -1
+Rfoot_moshumiaoshoukapai
+	rotate: false
+	xy: 631, 932
+	size: 86, 91
+	orig: 86, 91
+	offset: 0, 0
+	index: -1
+pifeng5_moshumiaoshoukapai
+	rotate: true
+	xy: 791, 784
+	size: 144, 64
+	orig: 144, 64
+	offset: 0, 0
+	index: -1
+Rarm1_moshumiaoshoukapai
+	rotate: true
+	xy: 455, 581
+	size: 93, 162
+	orig: 93, 162
+	offset: 0, 0
+	index: -1
+pifeng4_moshumiaoshoukapai
+	rotate: false
+	xy: 667, 698
+	size: 133, 75
+	orig: 133, 75
+	offset: 0, 0
+	index: -1
+pifeng1_moshumiaoshoukapai
+	rotate: true
+	xy: 386, 581
+	size: 105, 68
+	orig: 105, 68
+	offset: 0, 0
+	index: -1
+Lhand2_moshumiaoshoukapai
+	rotate: true
+	xy: 631, 784
+	size: 56, 34
+	orig: 56, 34
+	offset: 0, 0
+	index: -1
+Lleg2_moshumiaoshoukapai
+	rotate: true
+	xy: 718, 932
+	size: 82, 280
+	orig: 82, 280
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,265 @@
+
+asset/anim/tianxinjiamiankapai.png
+size: 709,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuojiao_tianxinjiamiankapai
+	rotate: true
+	xy: 633, 283
+	size: 69, 76
+	orig: 69, 76
+	offset: 0, 0
+	index: -1
+youjiao_tianxinjiamiankapai
+	rotate: false
+	xy: 510, 295
+	size: 105, 71
+	orig: 105, 71
+	offset: 0, 0
+	index: -1
+youshangyanpi_tianxinjiamiankapai
+	rotate: false
+	xy: 223, 474
+	size: 21, 8
+	orig: 21, 8
+	offset: 0, 0
+	index: -1
+shenti_tianxinjiamiankapai
+	rotate: false
+	xy: 0, 0
+	size: 144, 302
+	orig: 144, 302
+	offset: 0, 0
+	index: -1
+youxiaotui_tianxinjiamiankapai
+	rotate: true
+	xy: 258, 270
+	size: 64, 251
+	orig: 64, 251
+	offset: 0, 0
+	index: -1
+shangyizuo_tianxinjiamiankapai
+	rotate: true
+	xy: 258, 0
+	size: 82, 306
+	orig: 82, 306
+	offset: 0, 0
+	index: -1
+zuoxiaotui_tianxinjiamiankapai
+	rotate: true
+	xy: 258, 83
+	size: 92, 263
+	orig: 92, 263
+	offset: 0, 0
+	index: -1
+xianglian_tianxinjiamiankapai
+	rotate: true
+	xy: 496, 367
+	size: 71, 82
+	orig: 71, 82
+	offset: 0, 0
+	index: -1
+toufa5_1_tianxinjiamiankapai
+	rotate: false
+	xy: 643, 419
+	size: 38, 63
+	orig: 38, 63
+	offset: 0, 0
+	index: -1
+youmei_tianxinjiamiankapai
+	rotate: false
+	xy: 578, 501
+	size: 23, 5
+	orig: 23, 5
+	offset: 0, 0
+	index: -1
+zuodabi_tianxinjiamiankapai
+	rotate: true
+	xy: 522, 93
+	size: 107, 125
+	orig: 107, 125
+	offset: 0, 0
+	index: -1
+toufa2_tianxinjiamiankapai
+	rotate: false
+	xy: 579, 367
+	size: 59, 80
+	orig: 59, 80
+	offset: 0, 0
+	index: -1
+tou_tianxinjiamiankapai
+	rotate: true
+	xy: 565, 0
+	size: 92, 131
+	orig: 92, 131
+	offset: 0, 0
+	index: -1
+shangyiyou_tianxinjiamiankapai
+	rotate: false
+	xy: 145, 0
+	size: 112, 300
+	orig: 112, 300
+	offset: 0, 0
+	index: -1
+toufa4_tianxinjiamiankapai
+	rotate: true
+	xy: 648, 175
+	size: 24, 59
+	orig: 24, 59
+	offset: 0, 0
+	index: -1
+zuoyanbai_tianxinjiamiankapai
+	rotate: false
+	xy: 522, 83
+	size: 17, 8
+	orig: 17, 8
+	offset: 0, 0
+	index: -1
+toufa3_tianxinjiamiankapai
+	rotate: false
+	xy: 473, 439
+	size: 57, 67
+	orig: 57, 67
+	offset: 0, 0
+	index: -1
+yifuhou_1_tianxinjiamiankapai
+	rotate: true
+	xy: 258, 176
+	size: 93, 259
+	orig: 93, 259
+	offset: 0, 0
+	index: -1
+youxiayanpi_tianxinjiamiankapai
+	rotate: true
+	xy: 245, 301
+	size: 20, 11
+	orig: 20, 11
+	offset: 0, 0
+	index: -1
+youdabi_tianxinjiamiankapai
+	rotate: true
+	xy: 151, 448
+	size: 56, 71
+	orig: 56, 71
+	offset: 0, 0
+	index: -1
+zuoshangyanpi_tianxinjiamiankapai
+	rotate: true
+	xy: 223, 448
+	size: 25, 15
+	orig: 25, 15
+	offset: 0, 0
+	index: -1
+toufa6_tianxinjiamiankapai
+	rotate: false
+	xy: 648, 93
+	size: 49, 81
+	orig: 49, 81
+	offset: 0, 0
+	index: -1
+youxiaobi_tianxinjiamiankapai
+	rotate: false
+	xy: 633, 201
+	size: 76, 81
+	orig: 76, 81
+	offset: 0, 0
+	index: -1
+zuoshou_tianxinjiamiankapai
+	rotate: true
+	xy: 578, 448
+	size: 52, 64
+	orig: 52, 64
+	offset: 0, 0
+	index: -1
+zuomei_tianxinjiamiankapai
+	rotate: false
+	xy: 0, 490
+	size: 29, 14
+	orig: 29, 14
+	offset: 0, 0
+	index: -1
+zuodatui_tianxinjiamiankapai
+	rotate: true
+	xy: 245, 410
+	size: 96, 227
+	orig: 96, 227
+	offset: 0, 0
+	index: -1
+youyanbai_tianxinjiamiankapai
+	rotate: true
+	xy: 510, 270
+	size: 15, 6
+	orig: 15, 6
+	offset: 0, 0
+	index: -1
+toufa_tianxinjiamiankapai
+	rotate: true
+	xy: 602, 501
+	size: 5, 17
+	orig: 5, 17
+	offset: 0, 0
+	index: -1
+youshou_tianxinjiamiankapai
+	rotate: true
+	xy: 0, 303
+	size: 186, 150
+	orig: 186, 150
+	offset: 0, 0
+	index: -1
+toufa_bu_tianxinjiamiankapai
+	rotate: false
+	xy: 639, 353
+	size: 46, 65
+	orig: 46, 65
+	offset: 0, 0
+	index: -1
+youdatui_tianxinjiamiankapai
+	rotate: true
+	xy: 245, 335
+	size: 74, 250
+	orig: 74, 250
+	offset: 0, 0
+	index: -1
+kua_tianxinjiamiankapai
+	rotate: true
+	xy: 151, 301
+	size: 146, 93
+	orig: 146, 93
+	offset: 0, 0
+	index: -1
+youyanzhu_tianxinjiamiankapai
+	rotate: false
+	xy: 697, 0
+	size: 10, 6
+	orig: 10, 6
+	offset: 0, 0
+	index: -1
+toufa1_tianxinjiamiankapai
+	rotate: false
+	xy: 531, 439
+	size: 46, 66
+	orig: 46, 66
+	offset: 0, 0
+	index: -1
+zuoxiaobi_tianxinjiamiankapai
+	rotate: false
+	xy: 518, 201
+	size: 114, 93
+	orig: 114, 93
+	offset: 0, 0
+	index: -1
+zuoxiayanpi_tianxinjiamiankapai
+	rotate: false
+	xy: 686, 353
+	size: 23, 15
+	orig: 23, 15
+	offset: 0, 0
+	index: -1
+zuoyanzhu_tianxinjiamiankapai
+	rotate: false
+	xy: 620, 501
+	size: 9, 5
+	orig: 9, 5
+	offset: 0, 0
+	index: -1

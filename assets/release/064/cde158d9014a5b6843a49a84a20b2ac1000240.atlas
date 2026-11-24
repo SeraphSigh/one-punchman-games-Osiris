@@ -1,0 +1,34 @@
+
+asset/anim/gougouxiaSE0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+td2gougouxia_quantuowei_038
+	rotate: false
+	xy: 0, 0
+	size: 282, 55
+	orig: 340, 85
+	offset: 33, 15
+	index: -1
+td2gougouxia_quantuowei_039
+	rotate: false
+	xy: 0, 56
+	size: 244, 65
+	orig: 340, 85
+	offset: 68, 9
+	index: -1
+td2gougouxia_quantuowei_041
+	rotate: false
+	xy: 245, 66
+	size: 140, 63
+	orig: 340, 85
+	offset: 172, 11
+	index: -1
+td2gougouxia_quantuowei_040
+	rotate: false
+	xy: 283, 0
+	size: 190, 65
+	orig: 340, 85
+	offset: 122, 10
+	index: -1

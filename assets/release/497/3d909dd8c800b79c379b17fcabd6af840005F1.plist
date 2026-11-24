@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>xuepiantu_suodaolancheimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-5,3}</string>
+                <key>spriteSize</key>
+                <string>{756,655}</string>
+                <key>spriteSourceSize</key>
+                <string>{766,661}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{756,655}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>suodaolancheimage0.png</string>
+            <key>size</key>
+            <string>{756,655}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:a4c7c591ee2158da0d2c2a5617d5624c:91ce0c66f367d59b34bccd7d29243bba:2d76434e085b6ad1252cf74974ebfb28$</string>
+            <key>textureFileName</key>
+            <string>suodaolancheimage0.png</string>
+        </dict>
+    </dict>
+</plist>

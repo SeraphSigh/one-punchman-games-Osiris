@@ -1,0 +1,251 @@
+
+asset/anim/qiyuxinniankp0.png
+size: 661,483
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_Rleg2_qiyuxinniankp
+	rotate: true
+	xy: 298, 77
+	size: 70, 214
+	orig: 70, 214
+	offset: 0, 0
+	index: -1
+b_weijin2_qiyuxinniankp
+	rotate: false
+	xy: 551, 355
+	size: 102, 53
+	orig: 102, 53
+	offset: 0, 0
+	index: -1
+b_Lleg2_qiyuxinniankp
+	rotate: true
+	xy: 298, 0
+	size: 76, 212
+	orig: 76, 212
+	offset: 0, 0
+	index: -1
+b_Ldou_qiyuxinniankp
+	rotate: true
+	xy: 475, 433
+	size: 43, 56
+	orig: 43, 56
+	offset: 0, 0
+	index: -1
+b_Ryanpidown_qiyuxinniankp
+	rotate: false
+	xy: 380, 311
+	size: 25, 17
+	orig: 25, 17
+	offset: 0, 0
+	index: -1
+b_Lyanzhu_qiyuxinniankp
+	rotate: false
+	xy: 209, 210
+	size: 3, 3
+	orig: 3, 3
+	offset: 0, 0
+	index: -1
+b_Ryanpiup_qiyuxinniankp
+	rotate: false
+	xy: 380, 329
+	size: 25, 17
+	orig: 25, 17
+	offset: 0, 0
+	index: -1
+b_Ryanbai_qiyuxinniankp
+	rotate: true
+	xy: 605, 459
+	size: 24, 16
+	orig: 24, 16
+	offset: 0, 0
+	index: -1
+b_Lyanbai_qiyuxinniankp
+	rotate: false
+	xy: 622, 459
+	size: 25, 16
+	orig: 25, 16
+	offset: 0, 0
+	index: -1
+b_ying_qiyuxinniankp
+	rotate: true
+	xy: 298, 148
+	size: 65, 213
+	orig: 65, 213
+	offset: 0, 0
+	index: -1
+b_body_qiyuxinniankp
+	rotate: false
+	xy: 0, 0
+	size: 208, 301
+	orig: 208, 301
+	offset: 0, 0
+	index: -1
+b_Lleg1_qiyuxinniankp
+	rotate: false
+	xy: 209, 0
+	size: 88, 209
+	orig: 88, 209
+	offset: 0, 0
+	index: -1
+b_Larm2_qiyuxinniankp
+	rotate: true
+	xy: 0, 391
+	size: 92, 91
+	orig: 92, 91
+	offset: 0, 0
+	index: -1
+b_Rleg1_qiyuxinniankp
+	rotate: true
+	xy: 0, 302
+	size: 88, 203
+	orig: 88, 203
+	offset: 0, 0
+	index: -1
+b_tang_qiyuxinniankp
+	rotate: false
+	xy: 268, 351
+	size: 145, 120
+	orig: 145, 120
+	offset: 0, 0
+	index: -1
+b_Lyanpidown_qiyuxinniankp
+	rotate: false
+	xy: 380, 293
+	size: 25, 17
+	orig: 25, 17
+	offset: 0, 0
+	index: -1
+b_Lfoot_qiyuxinniankp
+	rotate: false
+	xy: 551, 285
+	size: 108, 69
+	orig: 108, 69
+	offset: 0, 0
+	index: -1
+b_zui_qiyuxinniankp
+	rotate: false
+	xy: 498, 214
+	size: 9, 10
+	orig: 9, 10
+	offset: 0, 0
+	index: -1
+b_qiu_qiyuxinniankp
+	rotate: false
+	xy: 498, 285
+	size: 49, 31
+	orig: 49, 31
+	offset: 0, 0
+	index: -1
+b_biyan1_qiyuxinniankp
+	rotate: true
+	xy: 532, 433
+	size: 26, 18
+	orig: 26, 18
+	offset: 0, 0
+	index: -1
+b_tou_qiyuxinniankp
+	rotate: true
+	xy: 512, 168
+	size: 116, 149
+	orig: 116, 149
+	offset: 0, 0
+	index: -1
+b_zhongguojie_qiyuxinniankp
+	rotate: false
+	xy: 414, 317
+	size: 60, 155
+	orig: 60, 155
+	offset: 0, 0
+	index: -1
+b_Rarm2_qiyuxinniankp
+	rotate: false
+	xy: 414, 214
+	size: 83, 102
+	orig: 83, 102
+	offset: 0, 0
+	index: -1
+b_Rarm1_qiyuxinniankp
+	rotate: true
+	xy: 511, 0
+	size: 73, 144
+	orig: 73, 144
+	offset: 0, 0
+	index: -1
+b_Rhand2_qiyuxinniankp
+	rotate: false
+	xy: 204, 351
+	size: 62, 39
+	orig: 62, 39
+	offset: 0, 0
+	index: -1
+b_kua_qiyuxinniankp
+	rotate: false
+	xy: 92, 391
+	size: 175, 89
+	orig: 175, 89
+	offset: 0, 0
+	index: -1
+b_Lyanpiup_qiyuxinniankp
+	rotate: false
+	xy: 532, 461
+	size: 25, 15
+	orig: 25, 15
+	offset: 0, 0
+	index: -1
+b_Larm1_qiyuxinniankp
+	rotate: true
+	xy: 209, 275
+	size: 75, 170
+	orig: 75, 170
+	offset: 0, 0
+	index: -1
+b_Ryanzhu_qiyuxinniankp
+	rotate: false
+	xy: 204, 302
+	size: 4, 4
+	orig: 4, 4
+	offset: 0, 0
+	index: -1
+b_Rfoot_qiyuxinniankp
+	rotate: true
+	xy: 475, 317
+	size: 115, 75
+	orig: 115, 75
+	offset: 0, 0
+	index: -1
+b_weijin1_qiyuxinniankp
+	rotate: false
+	xy: 513, 74
+	size: 146, 93
+	orig: 146, 93
+	offset: 0, 0
+	index: -1
+b_biyan2_qiyuxinniankp
+	rotate: false
+	xy: 380, 275
+	size: 26, 17
+	orig: 26, 17
+	offset: 0, 0
+	index: -1
+b_weijin3_qiyuxinniankp
+	rotate: true
+	xy: 209, 214
+	size: 60, 204
+	orig: 60, 204
+	offset: 0, 0
+	index: -1
+b_Rhand1_qiyuxinniankp
+	rotate: false
+	xy: 551, 409
+	size: 53, 51
+	orig: 53, 51
+	offset: 0, 0
+	index: -1
+b_neck_qiyuxinniankp
+	rotate: true
+	xy: 605, 409
+	size: 49, 41
+	orig: 49, 41
+	offset: 0, 0
+	index: -1

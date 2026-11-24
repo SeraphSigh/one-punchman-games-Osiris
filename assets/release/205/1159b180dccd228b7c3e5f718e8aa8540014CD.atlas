@@ -1,0 +1,312 @@
+
+asset/anim/siwangjiatelinkapai2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_pifeng8_siwangjiatelinkapai
+	rotate: false
+	xy: 0, 0
+	size: 183, 222
+	orig: 183, 222
+	offset: 0, 0
+	index: -1
+
+asset/anim/siwangjiatelinkapai0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_toufa13_siwangjiatelinkapai
+	rotate: false
+	xy: 953, 857
+	size: 64, 46
+	orig: 64, 46
+	offset: 0, 0
+	index: -1
+a_pifeng3_siwangjiatelinkapai
+	rotate: false
+	xy: 858, 905
+	size: 143, 81
+	orig: 143, 81
+	offset: 0, 0
+	index: -1
+a_toufa4_siwangjiatelinkapai
+	rotate: false
+	xy: 967, 657
+	size: 48, 86
+	orig: 48, 86
+	offset: 0, 0
+	index: -1
+a_pifeng1_siwangjiatelinkapai
+	rotate: false
+	xy: 166, 944
+	size: 152, 59
+	orig: 152, 59
+	offset: 0, 0
+	index: -1
+a_zuodabi_siwangjiatelinkapai
+	rotate: false
+	xy: 871, 857
+	size: 81, 45
+	orig: 81, 45
+	offset: 0, 0
+	index: -1
+a_zuoyan_siwangjiatelinkapai
+	rotate: true
+	xy: 858, 657
+	size: 18, 11
+	orig: 18, 11
+	offset: 0, 0
+	index: -1
+a_toufa11_siwangjiatelinkapai
+	rotate: true
+	xy: 967, 744
+	size: 81, 41
+	orig: 81, 41
+	offset: 0, 0
+	index: -1
+a_toufa10_siwangjiatelinkapai
+	rotate: true
+	xy: 538, 944
+	size: 78, 37
+	orig: 78, 37
+	offset: 0, 0
+	index: -1
+a_zuodatui_siwangjiatelinkapai
+	rotate: true
+	xy: 0, 690
+	size: 253, 585
+	orig: 253, 585
+	offset: 0, 0
+	index: -1
+a_toufa15_siwangjiatelinkapai
+	rotate: false
+	xy: 997, 0
+	size: 24, 67
+	orig: 24, 67
+	offset: 0, 0
+	index: -1
+a_meimao_siwangjiatelinkapai
+	rotate: true
+	xy: 1002, 904
+	size: 57, 14
+	orig: 57, 14
+	offset: 0, 0
+	index: -1
+a_youbiyan_siwangjiatelinkapai
+	rotate: true
+	xy: 1002, 962
+	size: 23, 12
+	orig: 23, 14
+	offset: 0, 1
+	index: -1
+a_youshou_siwangjiatelinkapai
+	rotate: true
+	xy: 440, 944
+	size: 72, 97
+	orig: 72, 97
+	offset: 0, 0
+	index: -1
+a_pifeng7_siwangjiatelinkapai
+	rotate: true
+	xy: 844, 0
+	size: 381, 152
+	orig: 381, 152
+	offset: 0, 0
+	index: -1
+a_xiaopifeng1_siwangjiatelinkapai
+	rotate: false
+	xy: 0, 0
+	size: 843, 689
+	orig: 843, 689
+	offset: 0, 0
+	index: -1
+a_pifeng5_siwangjiatelinkapai
+	rotate: false
+	xy: 319, 944
+	size: 120, 65
+	orig: 120, 65
+	offset: 0, 0
+	index: -1
+a_qiang_siwangjiatelinkapai
+	rotate: false
+	xy: 844, 382
+	size: 175, 274
+	orig: 175, 274
+	offset: 0, 0
+	index: -1
+a_youyan_siwangjiatelinkapai
+	rotate: false
+	xy: 844, 678
+	size: 19, 10
+	orig: 19, 10
+	offset: 0, 0
+	index: -1
+a_zuobiyan_siwangjiatelinkapai
+	rotate: true
+	xy: 844, 657
+	size: 20, 13
+	orig: 22, 15
+	offset: 1, 1
+	index: -1
+a_pifeng2_siwangjiatelinkapai
+	rotate: false
+	xy: 586, 905
+	size: 271, 97
+	orig: 271, 97
+	offset: 0, 0
+	index: -1
+a_toufa2_siwangjiatelinkapai
+	rotate: true
+	xy: 858, 987
+	size: 35, 81
+	orig: 35, 81
+	offset: 0, 0
+	index: -1
+a_danyaojia_siwangjiatelinkapai
+	rotate: true
+	xy: 871, 657
+	size: 199, 95
+	orig: 199, 95
+	offset: 0, 0
+	index: -1
+a_zidan_siwangjiatelinkapai
+	rotate: true
+	xy: 586, 690
+	size: 214, 284
+	orig: 214, 284
+	offset: 0, 0
+	index: -1
+a_toufa1_siwangjiatelinkapai
+	rotate: true
+	xy: 940, 987
+	size: 33, 80
+	orig: 33, 80
+	offset: 0, 0
+	index: -1
+a_youxiaobi_siwangjiatelinkapai
+	rotate: false
+	xy: 0, 944
+	size: 165, 67
+	orig: 165, 67
+	offset: 0, 0
+	index: -1
+
+asset/anim/siwangjiatelinkapai1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_toufa8_siwangjiatelinkapai
+	rotate: false
+	xy: 958, 280
+	size: 60, 90
+	orig: 60, 90
+	offset: 0, 0
+	index: -1
+a_lian_siwangjiatelinkapai
+	rotate: false
+	xy: 958, 554
+	size: 54, 80
+	orig: 54, 80
+	offset: 0, 0
+	index: -1
+a_pifeng4_siwangjiatelinkapai
+	rotate: true
+	xy: 958, 0
+	size: 81, 64
+	orig: 81, 64
+	offset: 0, 0
+	index: -1
+a_pifeng9_siwangjiatelinkapai
+	rotate: false
+	xy: 0, 0
+	size: 957, 603
+	orig: 957, 603
+	offset: 0, 0
+	index: -1
+a_toufa12_siwangjiatelinkapai
+	rotate: false
+	xy: 958, 371
+	size: 59, 85
+	orig: 59, 85
+	offset: 0, 0
+	index: -1
+a_pifeng6_siwangjiatelinkapai
+	rotate: true
+	xy: 0, 635
+	size: 367, 345
+	orig: 367, 345
+	offset: 0, 0
+	index: -1
+a_toufa5_siwangjiatelinkapai
+	rotate: true
+	xy: 958, 212
+	size: 67, 62
+	orig: 67, 62
+	offset: 0, 0
+	index: -1
+a_toufa3_siwangjiatelinkapai
+	rotate: false
+	xy: 958, 457
+	size: 58, 96
+	orig: 58, 96
+	offset: 0, 0
+	index: -1
+a_bozi_siwangjiatelinkapai
+	rotate: false
+	xy: 958, 116
+	size: 62, 95
+	orig: 62, 95
+	offset: 0, 0
+	index: -1
+a_kua_siwangjiatelinkapai
+	rotate: false
+	xy: 834, 635
+	size: 171, 136
+	orig: 171, 136
+	offset: 0, 0
+	index: -1
+a_youdabi_siwangjiatelinkapai
+	rotate: true
+	xy: 346, 867
+	size: 99, 90
+	orig: 99, 90
+	offset: 0, 0
+	index: -1
+a_toufa9_siwangjiatelinkapai
+	rotate: false
+	xy: 437, 867
+	size: 80, 84
+	orig: 80, 84
+	offset: 0, 0
+	index: -1
+a_toufa6_siwangjiatelinkapai
+	rotate: false
+	xy: 958, 82
+	size: 64, 33
+	orig: 64, 33
+	offset: 0, 0
+	index: -1
+a_toufa14_siwangjiatelinkapai
+	rotate: true
+	xy: 418, 967
+	size: 32, 77
+	orig: 32, 77
+	offset: 0, 0
+	index: -1
+a_youdatui_siwangjiatelinkapai
+	rotate: true
+	xy: 346, 604
+	size: 262, 487
+	orig: 262, 487
+	offset: 0, 0
+	index: -1
+a_toufa7_siwangjiatelinkapai
+	rotate: false
+	xy: 346, 967
+	size: 71, 54
+	orig: 71, 54
+	offset: 0, 0
+	index: -1

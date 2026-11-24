@@ -1,0 +1,134 @@
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/jinshuqiubangSEMAX4.png
+size: 1024,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/jinshubangqiu_sd2_00055
+	rotate: false
+	xy: 218, 191
+	size: 45, 307
+	orig: 49, 389
+	offset: 4, 31
+	index: -1
+max/jinshubangqiu_ksg2_00063
+	rotate: false
+	xy: 733, 626
+	size: 95, 95
+	orig: 97, 97
+	offset: 1, 1
+	index: -1
+
+asset/anim/jinshuqiubangSEMAX2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/jinshubangqiu_sd2_00057
+	rotate: false
+	xy: 975, 0
+	size: 41, 245
+	orig: 49, 389
+	offset: 7, 27
+	index: -1
+
+asset/anim/jinshuqiubangSEMAX3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/jinshubangqiu_yantu1_00065
+	rotate: false
+	xy: 460, 46
+	size: 179, 217
+	orig: 217, 217
+	offset: 15, 0
+	index: -1
+max/jinshubangqiu_sd2_00054
+	rotate: true
+	xy: 324, 0
+	size: 45, 315
+	orig: 49, 389
+	offset: 3, 33
+	index: -1
+max/jinshubangqiu_sd2_00053
+	rotate: true
+	xy: 0, 0
+	size: 41, 323
+	orig: 49, 389
+	offset: 3, 33
+	index: -1
+
+asset/anim/jinshuqiubangSEMAX0.png
+size: 1024,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/jinshubangqiu_stlz_00075
+	rotate: false
+	xy: 680, 869
+	size: 242, 87
+	orig: 304, 91
+	offset: 38, 2
+	index: -1
+max/jinshubangqiu_sd2_00056
+	rotate: true
+	xy: 668, 957
+	size: 45, 289
+	orig: 49, 389
+	offset: 4, 28
+	index: -1
+max/jinshubangqiu_sd2_00052
+	rotate: true
+	xy: 344, 957
+	size: 43, 323
+	orig: 49, 389
+	offset: 2, 35
+	index: -1
+max/jinshubangqiu_sd2_00051
+	rotate: true
+	xy: 0, 975
+	size: 47, 321
+	orig: 49, 389
+	offset: 0, 37
+	index: -1
+max/jinshubangqiu_leiwen_00047
+	rotate: false
+	xy: 533, 0
+	size: 373, 149
+	orig: 389, 175
+	offset: 15, 9
+	index: -1
+max/jinshubangqiu_dm_00047
+	rotate: false
+	xy: 0, 0
+	size: 532, 157
+	orig: 532, 175
+	offset: 0, 8
+	index: -1
+
+asset/anim/jinshuqiubangSEMAX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/jinshubangqiu_sd2_00050
+	rotate: false
+	xy: 967, 795
+	size: 45, 175
+	orig: 49, 389
+	offset: 0, 183
+	index: -1

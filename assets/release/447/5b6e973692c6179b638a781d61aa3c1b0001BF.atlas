@@ -1,0 +1,26 @@
+
+asset/anim/xingganqiutuSEMAX3.png
+size: 1024,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yunda2_xgqttexiao
+	rotate: false
+	xy: 682, 162
+	size: 311, 197
+	orig: 311, 197
+	offset: 0, 0
+	index: -1
+
+asset/anim/xingganqiutuSEMAX1.png
+size: 1021,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yunda1_xgqttexiao
+	rotate: true
+	xy: 629, 175
+	size: 304, 206
+	orig: 304, 214
+	offset: 0, 0
+	index: -1

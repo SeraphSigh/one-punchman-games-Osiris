@@ -1,0 +1,425 @@
+
+asset/anim/tiankongwangkapai1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba4_tiankongwangkapai
+	rotate: true
+	xy: 227, 259
+	size: 142, 79
+	orig: 142, 79
+	offset: 0, 0
+	index: -1
+chibang_bu2_tiankongwangkapai
+	rotate: false
+	xy: 434, 259
+	size: 243, 323
+	orig: 243, 323
+	offset: 0, 0
+	index: -1
+chibang_bu5_tiankongwangkapai
+	rotate: true
+	xy: 716, 227
+	size: 219, 256
+	orig: 219, 256
+	offset: 0, 0
+	index: -1
+toufa2_tiankongwangkapai
+	rotate: true
+	xy: 434, 665
+	size: 82, 99
+	orig: 82, 99
+	offset: 0, 0
+	index: -1
+youdatui_tiankongwangkapai
+	rotate: true
+	xy: 0, 259
+	size: 184, 154
+	orig: 184, 154
+	offset: 0, 0
+	index: -1
+toufa3_tiankongwangkapai
+	rotate: true
+	xy: 0, 955
+	size: 69, 116
+	orig: 69, 116
+	offset: 0, 0
+	index: -1
+chibang1_tiankongwangkapai
+	rotate: false
+	xy: 0, 0
+	size: 715, 258
+	orig: 715, 258
+	offset: 0, 0
+	index: -1
+youshou_tiankongwangkapai
+	rotate: false
+	xy: 434, 826
+	size: 75, 85
+	orig: 75, 85
+	offset: 0, 0
+	index: -1
+chibang_bu3_tiankongwangkapai
+	rotate: true
+	xy: 678, 447
+	size: 241, 339
+	orig: 241, 339
+	offset: 0, 0
+	index: -1
+kua_tiankongwangkapai
+	rotate: false
+	xy: 534, 683
+	size: 98, 91
+	orig: 98, 91
+	offset: 0, 0
+	index: -1
+youxiaobi_tiankongwangkapai
+	rotate: true
+	xy: 155, 259
+	size: 144, 71
+	orig: 144, 71
+	offset: 0, 0
+	index: -1
+zuodabi_tiankongwangkapai
+	rotate: true
+	xy: 307, 259
+	size: 131, 90
+	orig: 131, 90
+	offset: 0, 0
+	index: -1
+zuoshou_tiankongwangkapai
+	rotate: true
+	xy: 434, 583
+	size: 81, 105
+	orig: 81, 105
+	offset: 0, 0
+	index: -1
+shenti_tiankongwangkapai
+	rotate: true
+	xy: 716, 0
+	size: 226, 273
+	orig: 226, 273
+	offset: 0, 0
+	index: -1
+chibang_bu1_tiankongwangkapai
+	rotate: false
+	xy: 208, 404
+	size: 225, 580
+	orig: 225, 580
+	offset: 0, 0
+	index: -1
+zuoxiaobi_tiankongwangkapai
+	rotate: false
+	xy: 434, 748
+	size: 97, 77
+	orig: 97, 77
+	offset: 0, 0
+	index: -1
+tou_tiankongwangkapai
+	rotate: false
+	xy: 540, 583
+	size: 101, 99
+	orig: 101, 99
+	offset: 0, 0
+	index: -1
+chibang4_tiankongwangkapai
+	rotate: true
+	xy: 0, 447
+	size: 507, 207
+	orig: 507, 207
+	offset: 0, 0
+	index: -1
+
+asset/anim/tiankongwangkapai0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang3_tiankongwangkapai
+	rotate: false
+	xy: 0, 0
+	size: 576, 485
+	orig: 576, 485
+	offset: 0, 0
+	index: -1
+sidai5_tiankongwangkapai
+	rotate: true
+	xy: 983, 365
+	size: 116, 26
+	orig: 116, 26
+	offset: 0, 0
+	index: -1
+weiba3_tiankongwangkapai
+	rotate: true
+	xy: 0, 825
+	size: 142, 248
+	orig: 142, 248
+	offset: 0, 0
+	index: -1
+rongtuan1_tiankongwangkapai
+	rotate: true
+	xy: 425, 978
+	size: 46, 47
+	orig: 46, 47
+	offset: 0, 0
+	index: -1
+rongtuan2_tiankongwangkapai
+	rotate: false
+	xy: 473, 978
+	size: 46, 46
+	orig: 46, 46
+	offset: 0, 0
+	index: -1
+zuojiao_tiankongwangkapai
+	rotate: false
+	xy: 913, 0
+	size: 94, 175
+	orig: 94, 175
+	offset: 0, 0
+	index: -1
+zuomeimao_tiankongwangkapai
+	rotate: true
+	xy: 549, 486
+	size: 28, 26
+	orig: 28, 26
+	offset: 0, 0
+	index: -1
+zuoxiaotui_tiankongwangkapai
+	rotate: false
+	xy: 425, 825
+	size: 112, 152
+	orig: 112, 152
+	offset: 0, 0
+	index: -1
+toushi_tiankongwangkapai
+	rotate: true
+	xy: 185, 968
+	size: 55, 61
+	orig: 55, 61
+	offset: 0, 0
+	index: -1
+youxiaotui_tiankongwangkapai
+	rotate: true
+	xy: 885, 817
+	size: 152, 115
+	orig: 152, 115
+	offset: 0, 0
+	index: -1
+sidai1_tiankongwangkapai
+	rotate: false
+	xy: 827, 958
+	size: 38, 32
+	orig: 38, 32
+	offset: 0, 0
+	index: -1
+xiaomuzhi_tiankongwangkapai
+	rotate: true
+	xy: 827, 991
+	size: 31, 39
+	orig: 31, 39
+	offset: 0, 0
+	index: -1
+damuzhi_tiankongwangkapai
+	rotate: true
+	xy: 999, 218
+	size: 37, 23
+	orig: 37, 23
+	offset: 0, 0
+	index: -1
+yifuhou2_tiankongwangkapai
+	rotate: false
+	xy: 0, 970
+	size: 57, 43
+	orig: 57, 43
+	offset: 0, 0
+	index: -1
+youyan_tiankongwangkapai
+	rotate: true
+	xy: 1008, 0
+	size: 18, 14
+	orig: 18, 14
+	offset: 0, 0
+	index: -1
+wumingzhi_tiankongwangkapai
+	rotate: true
+	xy: 983, 525
+	size: 36, 38
+	orig: 36, 38
+	offset: 0, 0
+	index: -1
+chibang2_tiankongwangkapai
+	rotate: false
+	xy: 0, 486
+	size: 548, 338
+	orig: 548, 338
+	offset: 0, 0
+	index: -1
+sidai4_tiankongwangkapai
+	rotate: false
+	xy: 983, 482
+	size: 35, 42
+	orig: 35, 42
+	offset: 0, 0
+	index: -1
+zuodatui_tiankongwangkapai
+	rotate: false
+	xy: 885, 607
+	size: 130, 209
+	orig: 130, 209
+	offset: 0, 0
+	index: -1
+toufa1_tiankongwangkapai
+	rotate: true
+	xy: 624, 958
+	size: 65, 73
+	orig: 65, 73
+	offset: 0, 0
+	index: -1
+youmeimao_tiankongwangkapai
+	rotate: true
+	xy: 999, 256
+	size: 31, 25
+	orig: 31, 25
+	offset: 0, 0
+	index: -1
+sidai3_tiankongwangkapai
+	rotate: true
+	xy: 58, 968
+	size: 56, 63
+	orig: 56, 63
+	offset: 0, 0
+	index: -1
+rongtuan3_tiankongwangkapai
+	rotate: false
+	xy: 867, 970
+	size: 34, 35
+	orig: 34, 35
+	offset: 0, 0
+	index: -1
+zhongzhi_tiankongwangkapai
+	rotate: true
+	xy: 983, 562
+	size: 44, 31
+	orig: 44, 31
+	offset: 0, 0
+	index: -1
+weiba1_tiankongwangkapai
+	rotate: true
+	xy: 913, 365
+	size: 214, 69
+	orig: 214, 69
+	offset: 0, 0
+	index: -1
+yifuhou1_tiankongwangkapai
+	rotate: true
+	xy: 698, 958
+	size: 63, 68
+	orig: 63, 68
+	offset: 0, 0
+	index: -1
+rongtuan4_tiankongwangkapai
+	rotate: false
+	xy: 902, 970
+	size: 33, 33
+	orig: 33, 33
+	offset: 0, 0
+	index: -1
+chibang_bu6_tiankongwangkapai
+	rotate: false
+	xy: 549, 554
+	size: 335, 403
+	orig: 335, 403
+	offset: 0, 0
+	index: -1
+youdabi_tiankongwangkapai
+	rotate: true
+	xy: 538, 958
+	size: 60, 85
+	orig: 60, 85
+	offset: 0, 0
+	index: -1
+chibang_bu4_tiankongwangkapai
+	rotate: false
+	xy: 577, 0
+	size: 335, 553
+	orig: 335, 553
+	offset: 0, 0
+	index: -1
+shizhi_tiankongwangkapai
+	rotate: true
+	xy: 999, 176
+	size: 41, 21
+	orig: 41, 21
+	offset: 0, 0
+	index: -1
+zuoyanpi_tiankongwangkapai
+	rotate: false
+	xy: 1008, 53
+	size: 15, 15
+	orig: 15, 15
+	offset: 0, 0
+	index: -1
+zuoyanzhu_tiankongwangkapai
+	rotate: false
+	xy: 1017, 73
+	size: 3, 3
+	orig: 3, 3
+	offset: 0, 0
+	index: -1
+toufa4_tiankongwangkapai
+	rotate: false
+	xy: 1008, 69
+	size: 8, 17
+	orig: 8, 17
+	offset: 0, 0
+	index: -1
+sidai6_tiankongwangkapai
+	rotate: false
+	xy: 767, 958
+	size: 59, 62
+	orig: 59, 62
+	offset: 0, 0
+	index: -1
+zuoyan_tiankongwangkapai
+	rotate: true
+	xy: 1008, 19
+	size: 15, 16
+	orig: 15, 16
+	offset: 0, 0
+	index: -1
+sidai2_tiankongwangkapai
+	rotate: false
+	xy: 122, 968
+	size: 62, 56
+	orig: 62, 56
+	offset: 0, 0
+	index: -1
+youyanzhu_tiankongwangkapai
+	rotate: true
+	xy: 1017, 69
+	size: 3, 4
+	orig: 3, 4
+	offset: 0, 0
+	index: -1
+youjiao_tiankongwangkapai
+	rotate: false
+	xy: 913, 176
+	size: 85, 188
+	orig: 85, 188
+	offset: 0, 0
+	index: -1
+youyanpi_tiankongwangkapai
+	rotate: true
+	xy: 1008, 35
+	size: 17, 14
+	orig: 17, 14
+	offset: 0, 0
+	index: -1
+weiba2_tiankongwangkapai
+	rotate: true
+	xy: 249, 825
+	size: 196, 175
+	orig: 196, 175
+	offset: 0, 0
+	index: -1

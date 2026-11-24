@@ -1,0 +1,27 @@
+
+asset/anim/mofang0.png
+size: 60,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mofang_0028
+	rotate: false
+	xy: 0, 0
+	size: 60, 80
+	orig: 60, 80
+	offset: 0, 0
+	index: -1
+mofang_0029
+	rotate: true
+	xy: 0, 157
+	size: 92, 48
+	orig: 92, 48
+	offset: 0, 0
+	index: -1
+mofang_0027
+	rotate: false
+	xy: 0, 81
+	size: 60, 75
+	orig: 60, 75
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,130 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+
+asset/anim/yimiaorenJQ1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Lforearm_yimiaorenJQ
+	rotate: false
+	xy: 0, 415
+	size: 93, 96
+	orig: 93, 96
+	offset: 0, 0
+	index: -1
+a_Rhand_yimiaorenJQ
+	rotate: true
+	xy: 126, 222
+	size: 187, 185
+	orig: 187, 185
+	offset: 0, 0
+	index: -1
+a_head_yimiaorenJQ
+	rotate: false
+	xy: 0, 0
+	size: 193, 221
+	orig: 193, 221
+	offset: 0, 0
+	index: -1
+a_Lfoot_yimiaorenJQ
+	rotate: false
+	xy: 94, 415
+	size: 107, 62
+	orig: 107, 62
+	offset: 0, 0
+	index: -1
+a_Lforearm123_yimiaorenJQ
+	rotate: false
+	xy: 0, 222
+	size: 125, 192
+	orig: 125, 192
+	offset: 0, 0
+	index: -1
+
+asset/anim/yimiaorenJQ0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Lthigh_yimiaorenJQ
+	rotate: true
+	xy: 370, 129
+	size: 202, 123
+	orig: 202, 123
+	offset: 0, 0
+	index: -1
+a_Rshin_yimiaorenJQ
+	rotate: false
+	xy: 262, 125
+	size: 107, 139
+	orig: 107, 139
+	offset: 0, 0
+	index: -1
+guangqiu_yimiaorenJQ
+	rotate: false
+	xy: 376, 0
+	size: 128, 128
+	orig: 128, 128
+	offset: 0, 0
+	index: -1
+a_Lhand_yimiaorenJQ
+	rotate: true
+	xy: 188, 342
+	size: 166, 187
+	orig: 166, 187
+	offset: 0, 0
+	index: -1
+a_Rthigh_yimiaorenJQ
+	rotate: true
+	xy: 376, 332
+	size: 97, 115
+	orig: 97, 115
+	offset: 0, 0
+	index: -1
+a_Rforearm_yimiaorenJQ
+	rotate: false
+	xy: 262, 0
+	size: 108, 124
+	orig: 108, 124
+	offset: 0, 0
+	index: -1
+a_Lshin_yimiaorenJQ
+	rotate: true
+	xy: 262, 265
+	size: 73, 95
+	orig: 73, 95
+	offset: 0, 0
+	index: -1
+a_Rarm_yimiaorenJQ
+	rotate: false
+	xy: 0, 342
+	size: 187, 169
+	orig: 187, 169
+	offset: 0, 0
+	index: -1
+a_Rfoot_yimiaorenJQ
+	rotate: true
+	xy: 376, 430
+	size: 82, 77
+	orig: 82, 77
+	offset: 0, 0
+	index: -1
+a_body_yimiaorenJQ
+	rotate: false
+	xy: 0, 0
+	size: 261, 341
+	orig: 261, 341
+	offset: 0, 0
+	index: -1

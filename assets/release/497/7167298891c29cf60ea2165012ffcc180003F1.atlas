@@ -1,0 +1,55 @@
+
+asset/anim/xinnianfangyanhuachangjingaoji0.png
+size: 439,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyun_xinnianfangyanhuachangjinggaoji
+	rotate: true
+	xy: 0, 0
+	size: 131, 166
+	orig: 189, 226
+	offset: 27, 33
+	index: -1
+jianzhi_xinnianfangyanhuachangjinggaoji
+	rotate: false
+	xy: 167, 0
+	size: 272, 68
+	orig: 272, 68
+	offset: 0, 0
+	index: -1
+dl4_xinnianfangyanhuachangjinggaoji
+	rotate: false
+	xy: 297, 69
+	size: 24, 33
+	orig: 24, 33
+	offset: 0, 0
+	index: -1
+dl2_xinnianfangyanhuachangjinggaoji
+	rotate: true
+	xy: 330, 102
+	size: 23, 32
+	orig: 23, 32
+	offset: 0, 0
+	index: -1
+denglongzuo_xinnianfangyanhuachangjinggaoji
+	rotate: true
+	xy: 167, 69
+	size: 53, 129
+	orig: 53, 129
+	offset: 0, 0
+	index: -1
+dl1_xinnianfangyanhuachangjinggaoji
+	rotate: false
+	xy: 322, 69
+	size: 23, 32
+	orig: 23, 32
+	offset: 0, 0
+	index: -1
+dl3_xinnianfangyanhuachangjinggaoji
+	rotate: true
+	xy: 297, 103
+	size: 24, 32
+	orig: 24, 32
+	offset: 0, 0
+	index: -1

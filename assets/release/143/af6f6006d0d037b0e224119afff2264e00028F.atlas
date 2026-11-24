@@ -1,0 +1,48 @@
+
+asset/anim/ribanhuahuodahuibeijing0.png
+size: 446,129
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+007
+	rotate: true
+	xy: 180, 0
+	size: 37, 76
+	orig: 37, 76
+	offset: 0, 0
+	index: -1
+006
+	rotate: true
+	xy: 257, 0
+	size: 39, 77
+	orig: 39, 77
+	offset: 0, 0
+	index: -1
+005
+	rotate: true
+	xy: 335, 0
+	size: 44, 68
+	orig: 44, 68
+	offset: 0, 0
+	index: -1
+004
+	rotate: false
+	xy: 0, 45
+	size: 446, 84
+	orig: 446, 84
+	offset: 0, 0
+	index: -1
+009
+	rotate: true
+	xy: 0, 0
+	size: 25, 114
+	orig: 25, 114
+	offset: 0, 0
+	index: -1
+008
+	rotate: true
+	xy: 115, 0
+	size: 35, 64
+	orig: 35, 64
+	offset: 0, 0
+	index: -1

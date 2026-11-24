@@ -1,0 +1,20 @@
+
+asset/anim/xinnianchangjing0.png
+size: 431,474
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guofuzhuchangjingshu2
+	rotate: true
+	xy: 219, 118
+	size: 164, 132
+	orig: 164, 132
+	offset: 0, 0
+	index: -1
+guofuzhuchangjingshupeng1
+	rotate: false
+	xy: 212, 283
+	size: 148, 141
+	orig: 148, 141
+	offset: 0, 0
+	index: -1

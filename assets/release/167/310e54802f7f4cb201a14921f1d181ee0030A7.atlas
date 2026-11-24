@@ -1,0 +1,716 @@
+
+asset/anim/zhushenSECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/zhushen1_qiliu1_9
+	rotate: false
+	xy: 370, 430
+	size: 171, 200
+	orig: 219, 234
+	offset: 39, 11
+	index: -1
+common/zhushen1_qiliu1_8
+	rotate: false
+	xy: 202, 795
+	size: 167, 204
+	orig: 219, 234
+	offset: 43, 10
+	index: -1
+common/zhushen1_qiliu1_1
+	rotate: true
+	xy: 0, 607
+	size: 185, 206
+	orig: 219, 234
+	offset: 27, 14
+	index: -1
+common/zhushen1_qiliu1_3
+	rotate: false
+	xy: 0, 795
+	size: 201, 212
+	orig: 219, 234
+	offset: 11, 11
+	index: -1
+common/zhushen1_qiliu1_2
+	rotate: true
+	xy: 757, 591
+	size: 203, 212
+	orig: 219, 234
+	offset: 9, 12
+	index: -1
+common/zhushen1_qiliu1_5
+	rotate: true
+	xy: 542, 215
+	size: 193, 216
+	orig: 219, 234
+	offset: 18, 7
+	index: -1
+common/zhushen1_qiliu1_4
+	rotate: true
+	xy: 542, 409
+	size: 197, 214
+	orig: 219, 234
+	offset: 15, 9
+	index: -1
+common/zhushen1_qiliu1_11
+	rotate: false
+	xy: 855, 195
+	size: 169, 182
+	orig: 219, 234
+	offset: 41, 24
+	index: -1
+common/zhushen1_qiliu1_10
+	rotate: false
+	xy: 855, 0
+	size: 169, 194
+	orig: 219, 234
+	offset: 41, 13
+	index: -1
+common/zhushen1_qiliu1_13
+	rotate: true
+	xy: 207, 498
+	size: 167, 162
+	orig: 219, 234
+	offset: 42, 39
+	index: -1
+common/zhushen1_qiliu1_12
+	rotate: false
+	xy: 370, 631
+	size: 169, 154
+	orig: 219, 234
+	offset: 40, 51
+	index: -1
+common/zhushen1_qiliu1_15
+	rotate: true
+	xy: 540, 768
+	size: 161, 172
+	orig: 219, 234
+	offset: 47, 27
+	index: -1
+common/zhushen1_qiliu1_14
+	rotate: true
+	xy: 370, 786
+	size: 167, 168
+	orig: 219, 234
+	offset: 42, 31
+	index: -1
+common/zhushen1_qiliu1_17
+	rotate: false
+	xy: 713, 795
+	size: 137, 164
+	orig: 219, 234
+	offset: 67, 27
+	index: -1
+common/zhushen1_dixiayan02_5
+	rotate: false
+	xy: 0, 197
+	size: 238, 53
+	orig: 252, 63
+	offset: 8, 5
+	index: -1
+common/zhushen1_dixiayan02_4
+	rotate: false
+	xy: 0, 251
+	size: 232, 49
+	orig: 252, 63
+	offset: 8, 7
+	index: -1
+common/zhushen1_dixiayan02_6
+	rotate: true
+	xy: 239, 197
+	size: 220, 53
+	orig: 252, 63
+	offset: 11, 5
+	index: -1
+
+asset/anim/zhushenSECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/zhushen1_qiliu1_7
+	rotate: true
+	xy: 154, 562
+	size: 169, 208
+	orig: 219, 234
+	offset: 41, 9
+	index: -1
+common/zhushen1_qiliu1_6
+	rotate: true
+	xy: 681, 850
+	size: 173, 214
+	orig: 219, 234
+	offset: 38, 9
+	index: -1
+common/zhushen1_qiliu1_18
+	rotate: true
+	xy: 896, 880
+	size: 57, 108
+	orig: 219, 234
+	offset: 130, 78
+	index: -1
+common/zhushen1_qiliu1_16
+	rotate: false
+	xy: 0, 562
+	size: 153, 170
+	orig: 219, 234
+	offset: 54, 26
+	index: -1
+common/zhushen1_dixiayan02_1
+	rotate: true
+	xy: 365, 281
+	size: 96, 25
+	orig: 252, 63
+	offset: 81, 19
+	index: -1
+common/zhushen1_dixiayan02_3
+	rotate: true
+	xy: 718, 476
+	size: 174, 41
+	orig: 252, 63
+	offset: 30, 11
+	index: -1
+common/zhushen1_dixiayan02_2
+	rotate: false
+	xy: 896, 850
+	size: 124, 29
+	orig: 252, 63
+	offset: 59, 18
+	index: -1
+common/zhushen1_guangyun1_1
+	rotate: true
+	xy: 760, 546
+	size: 100, 98
+	orig: 104, 98
+	offset: 2, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_jvlixi_URshenhaiwang0019
+	rotate: true
+	xy: 327, 232
+	size: 74, 31
+	orig: 244, 99
+	offset: 82, 29
+	index: -1
+global/a_global_jvlixi_URshenhaiwang0010
+	rotate: true
+	xy: 161, 860
+	size: 164, 73
+	orig: 244, 99
+	offset: 41, 9
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_jvlixi_URshenhaiwang0002
+	rotate: true
+	xy: 491, 273
+	size: 242, 97
+	orig: 244, 99
+	offset: 0, 0
+	index: -1
+global/a_global_jvlixi_URshenhaiwang0005
+	rotate: true
+	xy: 203, 802
+	size: 222, 89
+	orig: 244, 99
+	offset: 5, 5
+	index: -1
+global/a_global_jvlixi_URshenhaiwang0011
+	rotate: false
+	xy: 836, 955
+	size: 156, 69
+	orig: 244, 99
+	offset: 45, 11
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_jvlixi_URshenhaiwang0003
+	rotate: true
+	xy: 122, 251
+	size: 234, 95
+	orig: 244, 99
+	offset: 3, 0
+	index: -1
+global/a_global_jvlixi_URshenhaiwang0001
+	rotate: true
+	xy: 51, 520
+	size: 234, 97
+	orig: 244, 99
+	offset: 7, 1
+	index: -1
+global/a_global_jvlixi_URshenhaiwang0018
+	rotate: true
+	xy: 855, 860
+	size: 88, 37
+	orig: 244, 99
+	offset: 75, 27
+	index: -1
+global/a_global_jvlixi_URshenhaiwang0009
+	rotate: false
+	xy: 846, 0
+	size: 178, 77
+	orig: 244, 99
+	offset: 32, 6
+	index: -1
+global/a_global_jvlixi_URshenhaiwang0008
+	rotate: true
+	xy: 846, 673
+	size: 186, 75
+	orig: 244, 99
+	offset: 26, 10
+	index: -1
+global/a_global_jvlixi_URshenhaiwang0004
+	rotate: true
+	xy: 149, 520
+	size: 234, 95
+	orig: 244, 99
+	offset: 0, 2
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_jvlixi_URshenhaiwang0006
+	rotate: false
+	xy: 411, 0
+	size: 202, 83
+	orig: 244, 99
+	offset: 16, 7
+	index: -1
+global/a_global_jvlixi_URshenhaiwang0007
+	rotate: false
+	xy: 0, 365
+	size: 190, 81
+	orig: 244, 99
+	offset: 21, 7
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_jvlixi_URshenhaiwang0014
+	rotate: true
+	xy: 641, 535
+	size: 140, 59
+	orig: 244, 99
+	offset: 47, 16
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_jvlixi_URshenhaiwang0012
+	rotate: false
+	xy: 392, 521
+	size: 140, 65
+	orig: 244, 99
+	offset: 54, 11
+	index: -1
+global/a_global_jvlixi_URshenhaiwang0013
+	rotate: false
+	xy: 867, 0
+	size: 148, 65
+	orig: 244, 99
+	offset: 42, 13
+	index: -1
+global/a_global_jvlixi_URshenhaiwang0015
+	rotate: true
+	xy: 709, 877
+	size: 130, 53
+	orig: 244, 99
+	offset: 52, 19
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_jvlixi_URshenhaiwang0016
+	rotate: true
+	xy: 89, 588
+	size: 118, 49
+	orig: 244, 99
+	offset: 58, 21
+	index: -1
+global/a_global_jvlixi_URshenhaiwang0017
+	rotate: false
+	xy: 682, 165
+	size: 108, 47
+	orig: 244, 99
+	offset: 64, 21
+	index: -1
+
+asset/anim/zhushenSESKILL2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/zhushen_tuiadd_17
+	rotate: false
+	xy: 597, 189
+	size: 179, 188
+	orig: 361, 378
+	offset: 52, 173
+	index: -1
+skill/zhushen_tuiadd_14
+	rotate: true
+	xy: 387, 438
+	size: 199, 192
+	orig: 361, 378
+	offset: 38, 178
+	index: -1
+skill/zhushen_tuiadd_15
+	rotate: false
+	xy: 597, 0
+	size: 179, 188
+	orig: 361, 378
+	offset: 54, 179
+	index: -1
+skill/zhushen_tuiadd_12
+	rotate: true
+	xy: 396, 0
+	size: 215, 200
+	orig: 361, 378
+	offset: 16, 177
+	index: -1
+skill/zhushen_tuiadd_13
+	rotate: true
+	xy: 582, 692
+	size: 197, 194
+	orig: 361, 378
+	offset: 37, 179
+	index: -1
+skill/zhushen_tuiadd_18
+	rotate: true
+	xy: 809, 0
+	size: 187, 196
+	orig: 361, 378
+	offset: 48, 160
+	index: -1
+skill/zhushen_tuiadd_19
+	rotate: true
+	xy: 580, 433
+	size: 191, 176
+	orig: 361, 378
+	offset: 45, 155
+	index: -1
+skill/zhushen_tuian_3
+	rotate: false
+	xy: 905, 453
+	size: 81, 68
+	orig: 157, 170
+	offset: 76, 0
+	index: -1
+skill/zhushen_tuian_2
+	rotate: false
+	xy: 927, 218
+	size: 85, 80
+	orig: 157, 170
+	offset: 70, 0
+	index: -1
+skill/zhushen_tuian_7
+	rotate: false
+	xy: 398, 216
+	size: 79, 72
+	orig: 157, 170
+	offset: 78, 3
+	index: -1
+skill/zhushen_tuian_6
+	rotate: false
+	xy: 635, 625
+	size: 77, 66
+	orig: 157, 170
+	offset: 80, 4
+	index: -1
+skill/zhushen_tuian_5
+	rotate: false
+	xy: 905, 522
+	size: 75, 64
+	orig: 157, 170
+	offset: 81, 2
+	index: -1
+skill/zhushen_tuian_4
+	rotate: true
+	xy: 438, 922
+	size: 79, 66
+	orig: 157, 170
+	offset: 78, 0
+	index: -1
+skill/zhushen_tuian_9
+	rotate: true
+	xy: 77, 912
+	size: 105, 74
+	orig: 157, 170
+	offset: 52, 64
+	index: -1
+skill/zhushen_tuian_22
+	rotate: true
+	xy: 550, 290
+	size: 55, 46
+	orig: 157, 170
+	offset: 19, 67
+	index: -1
+skill/zhushen_tuian_20
+	rotate: true
+	xy: 836, 497
+	size: 81, 68
+	orig: 157, 170
+	offset: 19, 85
+	index: -1
+skill/zhushen_tuian_21
+	rotate: true
+	xy: 478, 216
+	size: 71, 64
+	orig: 157, 170
+	offset: 17, 67
+	index: -1
+skill/zhushen_tuiadd_25
+	rotate: true
+	xy: 694, 890
+	size: 119, 114
+	orig: 361, 378
+	offset: 44, 143
+	index: -1
+skill/zhushen_tuiadd_24
+	rotate: true
+	xy: 579, 892
+	size: 119, 114
+	orig: 361, 378
+	offset: 44, 148
+	index: -1
+skill/zhushen_tuian_13
+	rotate: true
+	xy: 757, 497
+	size: 81, 78
+	orig: 157, 170
+	offset: 14, 92
+	index: -1
+skill/zhushen_tuian_12
+	rotate: false
+	xy: 924, 378
+	size: 83, 74
+	orig: 157, 170
+	offset: 8, 96
+	index: -1
+skill/zhushen_tuian_16
+	rotate: false
+	xy: 809, 416
+	size: 81, 80
+	orig: 157, 170
+	offset: 16, 89
+	index: -1
+skill/zhushen_tuian_14
+	rotate: true
+	xy: 767, 579
+	size: 81, 76
+	orig: 157, 170
+	offset: 16, 94
+	index: -1
+skill/zhushen_tuian_19
+	rotate: false
+	xy: 927, 299
+	size: 83, 78
+	orig: 157, 170
+	offset: 19, 86
+	index: -1
+
+asset/anim/zhushenSESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/zhushen_tuiadd_16
+	rotate: true
+	xy: 202, 492
+	size: 169, 178
+	orig: 361, 378
+	offset: 58, 182
+	index: -1
+skill/zhushen_tuian_8
+	rotate: true
+	xy: 469, 794
+	size: 79, 76
+	orig: 157, 170
+	offset: 78, 21
+	index: -1
+skill/zhushen_tuiadd_4
+	rotate: false
+	xy: 619, 779
+	size: 169, 132
+	orig: 361, 378
+	offset: 179, 10
+	index: -1
+skill/zhushen_tuian_11
+	rotate: true
+	xy: 481, 912
+	size: 111, 76
+	orig: 157, 170
+	offset: 0, 94
+	index: -1
+skill/zhushen_tuian_10
+	rotate: true
+	xy: 619, 592
+	size: 135, 86
+	orig: 157, 170
+	offset: 20, 84
+	index: -1
+skill/zhushen_tuian_17
+	rotate: false
+	xy: 706, 534
+	size: 83, 82
+	orig: 157, 170
+	offset: 14, 87
+	index: -1
+skill/zhushen_tuian_15
+	rotate: false
+	xy: 706, 700
+	size: 83, 78
+	orig: 157, 170
+	offset: 18, 92
+	index: -1
+skill/zhushen_tuiadd_26
+	rotate: false
+	xy: 590, 912
+	size: 115, 110
+	orig: 361, 378
+	offset: 44, 140
+	index: -1
+skill/zhushen_tuian_18
+	rotate: false
+	xy: 706, 617
+	size: 83, 82
+	orig: 157, 170
+	offset: 16, 86
+	index: -1
+skill/zhushen_tuiadd_22
+	rotate: false
+	xy: 202, 662
+	size: 133, 130
+	orig: 361, 378
+	offset: 46, 155
+	index: -1
+
+asset/anim/zhushenSESKILL1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/zhushen_tuiadd_10
+	rotate: false
+	xy: 0, 0
+	size: 293, 226
+	orig: 361, 378
+	offset: 15, 152
+	index: -1
+skill/zhushen_tuiadd_11
+	rotate: false
+	xy: 0, 438
+	size: 247, 210
+	orig: 361, 378
+	offset: 1, 168
+	index: -1
+skill/zhushen_tuian_1
+	rotate: false
+	xy: 238, 683
+	size: 41, 56
+	orig: 157, 170
+	offset: 78, 17
+	index: -1
+skill/zhushen_tuiadd_1
+	rotate: false
+	xy: 188, 853
+	size: 175, 166
+	orig: 361, 378
+	offset: 171, 5
+	index: -1
+skill/zhushen_tuiadd_8
+	rotate: false
+	xy: 0, 853
+	size: 187, 168
+	orig: 361, 378
+	offset: 174, 54
+	index: -1
+skill/zhushen_tuiadd_9
+	rotate: true
+	xy: 578, 318
+	size: 241, 246
+	orig: 361, 378
+	offset: 117, 96
+	index: -1
+skill/zhushen_tuiadd_5
+	rotate: false
+	xy: 401, 722
+	size: 163, 126
+	orig: 361, 378
+	offset: 186, 17
+	index: -1
+skill/zhushen_tuiadd_6
+	rotate: true
+	xy: 513, 849
+	size: 173, 144
+	orig: 361, 378
+	offset: 187, 8
+	index: -1
+skill/zhushen_tuiadd_7
+	rotate: true
+	xy: 658, 847
+	size: 177, 132
+	orig: 361, 378
+	offset: 184, 45
+	index: -1
+skill/zhushen_tuiadd_2
+	rotate: true
+	xy: 364, 850
+	size: 173, 148
+	orig: 361, 378
+	offset: 174, 0
+	index: -1
+skill/zhushen_tuiadd_3
+	rotate: true
+	xy: 868, 180
+	size: 175, 148
+	orig: 361, 378
+	offset: 174, 0
+	index: -1
+skill/zhushen_tuiadd_23
+	rotate: true
+	xy: 280, 722
+	size: 127, 120
+	orig: 361, 378
+	offset: 46, 153
+	index: -1
+skill/zhushen_tuiadd_21
+	rotate: true
+	xy: 857, 820
+	size: 145, 164
+	orig: 361, 378
+	offset: 46, 126
+	index: -1
+skill/zhushen_tuiadd_20
+	rotate: true
+	xy: 868, 0
+	size: 179, 148
+	orig: 361, 378
+	offset: 46, 154
+	index: -1

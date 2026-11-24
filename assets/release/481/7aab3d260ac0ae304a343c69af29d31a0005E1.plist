@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>battle48_002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-44,181}</string>
+                <key>spriteSize</key>
+                <string>{1428,394}</string>
+                <key>spriteSourceSize</key>
+                <string>{1686,1152}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{1428,394}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>battle48Res_1.png</string>
+            <key>size</key>
+            <string>{2048,2048}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:e32db71a225aae4075c1a57939ce119d:b3d6ae6e75466aa0f95530702a7832d6:8d41fc05b0c04fe72759d967e3b94d20$</string>
+            <key>textureFileName</key>
+            <string>battle48Res_1.png</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,122 @@
+
+asset/anim/hongwennvTXSE1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hwn_bolisuipian_056
+	rotate: false
+	xy: 0, 449
+	size: 399, 448
+	orig: 795, 448
+	offset: 0, 0
+	index: -1
+hwn_bolisuipian_057
+	rotate: true
+	xy: 400, 0
+	size: 399, 448
+	orig: 795, 448
+	offset: 0, 0
+	index: -1
+hwn_bolisuipian_055
+	rotate: false
+	xy: 0, 0
+	size: 399, 448
+	orig: 795, 448
+	offset: 0, 0
+	index: -1
+hwn_bolisuipian_059
+	rotate: false
+	xy: 400, 400
+	size: 399, 448
+	orig: 795, 448
+	offset: 0, 0
+	index: -1
+
+asset/anim/hongwennvTXSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hwn_bolisui_001
+	rotate: false
+	xy: 0, 0
+	size: 560, 318
+	orig: 568, 320
+	offset: 2, 2
+	index: -1
+hwn_bolisuipian_063
+	rotate: true
+	xy: 449, 319
+	size: 23, 80
+	orig: 795, 448
+	offset: 0, 291
+	index: -1
+hwn_bolisuipian_054
+	rotate: true
+	xy: 449, 400
+	size: 399, 448
+	orig: 795, 448
+	offset: 0, 0
+	index: -1
+hwn_bolisuipian_052
+	rotate: true
+	xy: 561, 0
+	size: 399, 448
+	orig: 795, 448
+	offset: 0, 0
+	index: -1
+hwn_bolisuipian_053
+	rotate: true
+	xy: 0, 319
+	size: 399, 448
+	orig: 795, 448
+	offset: 0, 0
+	index: -1
+
+asset/anim/hongwennvTXSE2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hwn_bolisuipian_062
+	rotate: true
+	xy: 392, 0
+	size: 387, 372
+	orig: 795, 448
+	offset: 0, 0
+	index: -1
+hwn_bolisuipian_061
+	rotate: true
+	xy: 0, 449
+	size: 399, 336
+	orig: 795, 448
+	offset: 0, 0
+	index: -1
+hwn_bolisuipian_060
+	rotate: true
+	xy: 337, 449
+	size: 399, 334
+	orig: 795, 448
+	offset: 0, 0
+	index: -1
+hwn_bolisuipian_058
+	rotate: false
+	xy: 0, 0
+	size: 391, 448
+	orig: 795, 448
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_didiwang_Light_Decal
+	rotate: false
+	xy: 139, 687
+	size: 125, 127
+	orig: 125, 127
+	offset: 0, 0
+	index: -1

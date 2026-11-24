@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>baobaobao9_kuanghuanjipailianimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2,3}</string>
+                <key>spriteSize</key>
+                <string>{310,290}</string>
+                <key>spriteSourceSize</key>
+                <string>{354,346}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{310,290}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>kuanghuanjipailianimage1.png</string>
+            <key>size</key>
+            <string>{310,290}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:4a767465c78214c4c6bf6268529f011f:2fabd1d8beed1a9dea50d938043f2ec0:0fc899f19d578701ac00d73197ba8bc5$</string>
+            <key>textureFileName</key>
+            <string>kuanghuanjipailianimage1.png</string>
+        </dict>
+    </dict>
+</plist>

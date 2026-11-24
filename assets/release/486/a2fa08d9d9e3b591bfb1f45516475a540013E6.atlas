@@ -1,0 +1,284 @@
+
+asset/anim/axiuluodujiaoxianSECOMMON0.png
+size: 1024,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/shunyi1_axiuluodujiaoxian
+	rotate: false
+	xy: 143, 852
+	size: 216, 169
+	orig: 216, 169
+	offset: 0, 0
+	index: -1
+common/shunyi2_axiuluodujiaoxian
+	rotate: false
+	xy: 662, 0
+	size: 320, 169
+	orig: 320, 169
+	offset: 0, 0
+	index: -1
+common/shunyi3_axiuluodujiaoxian
+	rotate: false
+	xy: 0, 0
+	size: 402, 169
+	orig: 402, 169
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_chuixue_zhuanyan_016
+	rotate: true
+	xy: 764, 860
+	size: 89, 90
+	orig: 207, 104
+	offset: 9, 9
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_chuixue_zhuanyan_005
+	rotate: true
+	xy: 735, 654
+	size: 71, 48
+	orig: 207, 104
+	offset: 17, 19
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_chuixue_zhuanyan_012
+	rotate: true
+	xy: 383, 931
+	size: 93, 74
+	orig: 207, 104
+	offset: 6, 10
+	index: -1
+global/a_global_chuixue_zhuanyan_004
+	rotate: false
+	xy: 313, 931
+	size: 63, 44
+	orig: 207, 104
+	offset: 21, 20
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_chuixue_zhuanyan_013
+	rotate: true
+	xy: 718, 473
+	size: 85, 66
+	orig: 207, 104
+	offset: 10, 14
+	index: -1
+global/a_global_chuixue_zhuanyan_010
+	rotate: true
+	xy: 441, 785
+	size: 85, 82
+	orig: 207, 104
+	offset: 10, 10
+	index: -1
+global/a_global_chuixue_zhuanyan_011
+	rotate: true
+	xy: 454, 497
+	size: 89, 88
+	orig: 207, 104
+	offset: 8, 9
+	index: -1
+global/a_global_chuixue_zhuanyan_009
+	rotate: true
+	xy: 696, 387
+	size: 85, 74
+	orig: 207, 104
+	offset: 9, 12
+	index: -1
+global/a_global_chuixue_zhuanyan_008
+	rotate: false
+	xy: 542, 669
+	size: 81, 76
+	orig: 207, 104
+	offset: 11, 14
+	index: -1
+global/a_global_chuixue_zhuanyan_014
+	rotate: false
+	xy: 454, 667
+	size: 87, 66
+	orig: 207, 104
+	offset: 9, 12
+	index: -1
+global/a_global_chuixue_zhuanyan_015
+	rotate: true
+	xy: 624, 588
+	size: 89, 78
+	orig: 207, 104
+	offset: 8, 10
+	index: -1
+global/a_global_chuixue_zhuanyan_007
+	rotate: true
+	xy: 306, 707
+	size: 77, 70
+	orig: 207, 104
+	offset: 14, 15
+	index: -1
+global/a_global_chuixue_zhuanyan_006
+	rotate: true
+	xy: 154, 801
+	size: 73, 58
+	orig: 207, 104
+	offset: 16, 17
+	index: -1
+
+asset/anim/axiuluodujiaoxianSEMAX3.png
+size: 1021,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/axiuluo_max_baoqi_016
+	rotate: false
+	xy: 0, 742
+	size: 262, 282
+	orig: 262, 304
+	offset: 0, 0
+	index: -1
+max/axiuluo_max_baoqi_011
+	rotate: true
+	xy: 805, 742
+	size: 232, 214
+	orig: 262, 304
+	offset: 5, 0
+	index: -1
+
+asset/anim/axiuluodujiaoxianSEMAX2.png
+size: 1023,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/axiuluo_max_baoqi_019
+	rotate: false
+	xy: 299, 730
+	size: 256, 290
+	orig: 262, 304
+	offset: 6, 0
+	index: -1
+
+asset/anim/axiuluodujiaoxianSEMAX5.png
+size: 973,1008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/axiuluo_max_baoqi_013
+	rotate: false
+	xy: 447, 626
+	size: 242, 244
+	orig: 262, 304
+	offset: 14, 0
+	index: -1
+
+asset/anim/axiuluodujiaoxianSEMAX9.png
+size: 846,965
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/axiuluo_max_baoqi_024
+	rotate: false
+	xy: 596, 247
+	size: 250, 278
+	orig: 262, 304
+	offset: 9, 18
+	index: -1
+max/axiuluo_max_baoqi_025
+	rotate: true
+	xy: 610, 0
+	size: 246, 236
+	orig: 262, 304
+	offset: 9, 23
+	index: -1
+max/axiuluo_max_baoqi_020
+	rotate: true
+	xy: 305, 203
+	size: 254, 290
+	orig: 262, 304
+	offset: 8, 0
+	index: -1
+max/axiuluo_max_baoqi_023
+	rotate: true
+	xy: 0, 558
+	size: 254, 284
+	orig: 262, 304
+	offset: 8, 11
+	index: -1
+max/axiuluo_max_baoqi_015
+	rotate: true
+	xy: 576, 526
+	size: 256, 270
+	orig: 262, 304
+	offset: 6, 0
+	index: -1
+max/axiuluo_max_baoqi_014
+	rotate: true
+	xy: 285, 719
+	size: 246, 258
+	orig: 262, 304
+	offset: 16, 0
+	index: -1
+max/axiuluo_max_baoqi_017
+	rotate: true
+	xy: 289, 458
+	size: 260, 286
+	orig: 262, 304
+	offset: 2, 0
+	index: -1
+max/axiuluo_max_baoqi_018
+	rotate: true
+	xy: 0, 299
+	size: 258, 288
+	orig: 262, 304
+	offset: 4, 0
+	index: -1
+
+asset/anim/axiuluodujiaoxianSEMAX8.png
+size: 1021,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/axiuluo_max_baoqi_026
+	rotate: true
+	xy: 807, 793
+	size: 230, 214
+	orig: 262, 304
+	offset: 12, 34
+	index: -1
+max/axiuluo_max_baoqi_021
+	rotate: true
+	xy: 0, 771
+	size: 252, 290
+	orig: 262, 304
+	offset: 10, 2
+	index: -1
+max/axiuluo_max_baoqi_022
+	rotate: true
+	xy: 291, 771
+	size: 252, 288
+	orig: 262, 304
+	offset: 10, 6
+	index: -1
+max/axiuluo_max_baoqi_012
+	rotate: true
+	xy: 580, 793
+	size: 230, 226
+	orig: 262, 304
+	offset: 18, 0
+	index: -1

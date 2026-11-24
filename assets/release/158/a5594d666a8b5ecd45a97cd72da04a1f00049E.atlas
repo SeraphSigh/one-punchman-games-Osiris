@@ -1,0 +1,69 @@
+
+asset/anim/tongdiSEATTACK.png
+size: 607,992
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/tongdi_pugonyan_007
+	rotate: false
+	xy: 371, 758
+	size: 107, 103
+	orig: 135, 127
+	offset: 9, 10
+	index: -1
+attack/tongdi_pugonyan_001
+	rotate: true
+	xy: 461, 934
+	size: 51, 55
+	orig: 135, 127
+	offset: 33, 39
+	index: -1
+attack/tongdi_pugonyan_013
+	rotate: false
+	xy: 467, 179
+	size: 131, 105
+	orig: 135, 127
+	offset: 1, 11
+	index: -1
+attack/tongdi_pugonyan_003
+	rotate: false
+	xy: 479, 794
+	size: 79, 79
+	orig: 135, 127
+	offset: 17, 26
+	index: -1
+attack/tongdi_pugonyan_011
+	rotate: false
+	xy: 236, 664
+	size: 123, 111
+	orig: 135, 127
+	offset: 5, 7
+	index: -1
+attack/tongdi_pugonyan_005
+	rotate: false
+	xy: 275, 896
+	size: 95, 95
+	orig: 135, 127
+	offset: 10, 14
+	index: -1
+attack/tongdi_pugonyan_014
+	rotate: true
+	xy: 393, 297
+	size: 129, 99
+	orig: 135, 127
+	offset: 3, 14
+	index: -1
+attack/tongdi_pugonyan_015
+	rotate: true
+	xy: 275, 776
+	size: 119, 95
+	orig: 135, 127
+	offset: 12, 16
+	index: -1
+attack/tongdi_pugonyan_009
+	rotate: true
+	xy: 494, 522
+	size: 119, 111
+	orig: 135, 127
+	offset: 6, 7
+	index: -1

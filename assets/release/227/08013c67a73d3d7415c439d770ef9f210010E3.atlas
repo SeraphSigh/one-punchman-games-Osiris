@@ -1,0 +1,276 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/xiqijuqing.png
+size: 544,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btou_xiqijuqing
+	rotate: false
+	xy: 85, 98
+	size: 75, 94
+	orig: 75, 94
+	offset: 0, 0
+	index: -1
+bzuoxiaobi_xiqijuqing
+	rotate: true
+	xy: 479, 56
+	size: 41, 34
+	orig: 41, 34
+	offset: 0, 0
+	index: -1
+byoudatui_xiqijuqing
+	rotate: false
+	xy: 170, 189
+	size: 67, 47
+	orig: 67, 47
+	offset: 0, 0
+	index: -1
+zuoshou_xiqijuqing
+	rotate: true
+	xy: 45, 224
+	size: 29, 37
+	orig: 29, 37
+	offset: 0, 0
+	index: -1
+youxiaobi_xiqijuqing
+	rotate: false
+	xy: 514, 59
+	size: 28, 41
+	orig: 28, 41
+	offset: 0, 0
+	index: -1
+yao_xiqijuqing
+	rotate: true
+	xy: 375, 121
+	size: 62, 47
+	orig: 62, 47
+	offset: 0, 0
+	index: -1
+zuoxiaobi_xiqijuqing
+	rotate: true
+	xy: 467, 141
+	size: 25, 39
+	orig: 25, 39
+	offset: 0, 0
+	index: -1
+bzuodabi_xiqijuqing
+	rotate: true
+	xy: 364, 184
+	size: 35, 58
+	orig: 35, 58
+	offset: 0, 0
+	index: -1
+zuodatui_xiqijuqing
+	rotate: true
+	xy: 421, 56
+	size: 39, 57
+	orig: 39, 57
+	offset: 0, 0
+	index: -1
+youjiao_xiqijuqing
+	rotate: true
+	xy: 516, 158
+	size: 48, 26
+	orig: 48, 26
+	offset: 0, 0
+	index: -1
+zuojiao_xiqijuqing
+	rotate: true
+	xy: 423, 215
+	size: 29, 35
+	orig: 29, 35
+	offset: 0, 0
+	index: -1
+byoudabi_xiqijuqing
+	rotate: true
+	xy: 423, 165
+	size: 49, 36
+	orig: 49, 36
+	offset: 0, 0
+	index: -1
+byouxiaobi_xiqijuqing
+	rotate: true
+	xy: 459, 221
+	size: 25, 37
+	orig: 25, 37
+	offset: 0, 0
+	index: -1
+byoushou_xiqijuqing
+	rotate: false
+	xy: 514, 31
+	size: 30, 27
+	orig: 30, 27
+	offset: 0, 0
+	index: -1
+tou_xiqijuqing
+	rotate: false
+	xy: 161, 98
+	size: 76, 90
+	orig: 76, 90
+	offset: 0, 0
+	index: -1
+zuoxiaotui_xiqijuqing
+	rotate: true
+	xy: 293, 221
+	size: 32, 52
+	orig: 32, 52
+	offset: 0, 0
+	index: -1
+zuodabi_xiqijuqing
+	rotate: false
+	xy: 514, 101
+	size: 28, 56
+	orig: 28, 56
+	offset: 0, 0
+	index: -1
+youxiaotui_xiqijuqing
+	rotate: true
+	xy: 0, 224
+	size: 29, 44
+	orig: 29, 44
+	offset: 0, 0
+	index: -1
+bkua_xiqijuqing
+	rotate: false
+	xy: 423, 121
+	size: 43, 43
+	orig: 43, 43
+	offset: 0, 0
+	index: -1
+bshenti_xiqijuqing
+	rotate: true
+	xy: 283, 0
+	size: 70, 137
+	orig: 70, 137
+	offset: 0, 0
+	index: -1
+bzuoxiaotui_xiqijuqing
+	rotate: false
+	xy: 372, 71
+	size: 46, 49
+	orig: 46, 49
+	offset: 0, 0
+	index: -1
+byoujiao_xiqijuqing
+	rotate: true
+	xy: 492, 167
+	size: 49, 23
+	orig: 49, 23
+	offset: 0, 0
+	index: -1
+youdatui_xiqijuqing
+	rotate: false
+	xy: 460, 167
+	size: 31, 53
+	orig: 31, 53
+	offset: 0, 0
+	index: -1
+shenti_xiqijuqing
+	rotate: false
+	xy: 0, 98
+	size: 84, 125
+	orig: 84, 125
+	offset: 0, 0
+	index: -1
+youshou_xiqijuqing
+	rotate: false
+	xy: 497, 217
+	size: 20, 34
+	orig: 20, 34
+	offset: 0, 0
+	index: -1
+bzuodatui_xiqijuqing
+	rotate: false
+	xy: 238, 184
+	size: 54, 63
+	orig: 54, 63
+	offset: 0, 0
+	index: -1
+youdabi_xiqijuqing
+	rotate: true
+	xy: 419, 96
+	size: 24, 52
+	orig: 24, 52
+	offset: 0, 0
+	index: -1
+bzuoshou_xiqijuqing
+	rotate: false
+	xy: 514, 0
+	size: 30, 30
+	orig: 30, 30
+	offset: 0, 0
+	index: -1
+byouxiaotui_xiqijuqing
+	rotate: true
+	xy: 364, 220
+	size: 33, 52
+	orig: 33, 52
+	offset: 0, 0
+	index: -1

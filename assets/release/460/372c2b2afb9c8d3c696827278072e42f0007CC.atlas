@@ -1,0 +1,124 @@
+
+asset/anim/geliuganxiupu0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_head_yanguang_geliuganxiupu
+	rotate: true
+	xy: 492, 0
+	size: 33, 19
+	orig: 33, 19
+	offset: 0, 0
+	index: -1
+a_thigh3_geliuganxiupu
+	rotate: false
+	xy: 119, 368
+	size: 60, 139
+	orig: 60, 139
+	offset: 0, 0
+	index: -1
+a_thigh8_geliuganxiupu
+	rotate: false
+	xy: 335, 36
+	size: 103, 101
+	orig: 103, 101
+	offset: 0, 0
+	index: -1
+a_thigh1_geliuganxiupu
+	rotate: false
+	xy: 0, 202
+	size: 110, 175
+	orig: 110, 175
+	offset: 0, 0
+	index: -1
+a_thigh4_geliuganxiupu
+	rotate: true
+	xy: 180, 368
+	size: 127, 111
+	orig: 127, 111
+	offset: 0, 0
+	index: -1
+a_thigh2_geliuganxiupu
+	rotate: false
+	xy: 111, 202
+	size: 146, 165
+	orig: 146, 165
+	offset: 0, 0
+	index: -1
+a_thigh7_geliuganxiupu
+	rotate: true
+	xy: 335, 0
+	size: 35, 118
+	orig: 35, 118
+	offset: 0, 0
+	index: -1
+a_thigh5_geliuganxiupu
+	rotate: true
+	xy: 151, 128
+	size: 56, 127
+	orig: 56, 127
+	offset: 0, 0
+	index: -1
+a_body_geliuganxiupu
+	rotate: true
+	xy: 454, 31
+	size: 30, 37
+	orig: 30, 37
+	offset: 0, 0
+	index: -1
+a_head_geliuganxiupu
+	rotate: false
+	xy: 243, 0
+	size: 91, 119
+	orig: 91, 119
+	offset: 0, 0
+	index: -1
+shi1_geliuganxiupu
+	rotate: true
+	xy: 151, 0
+	size: 127, 91
+	orig: 127, 91
+	offset: 0, 0
+	index: -1
+shi2_geliuganxiupu
+	rotate: false
+	xy: 0, 0
+	size: 150, 201
+	orig: 150, 201
+	offset: 0, 0
+	index: -1
+gedangcanying_geliuganxiupu
+	rotate: false
+	xy: 258, 185
+	size: 83, 100
+	orig: 83, 100
+	offset: 0, 0
+	index: -1
+a_bu_geliuganxiupu
+	rotate: false
+	xy: 454, 0
+	size: 37, 30
+	orig: 37, 30
+	offset: 0, 0
+	index: -1
+a_thigh6_geliuganxiupu
+	rotate: false
+	xy: 0, 378
+	size: 118, 133
+	orig: 118, 133
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1

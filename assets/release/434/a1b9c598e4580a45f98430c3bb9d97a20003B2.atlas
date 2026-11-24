@@ -1,0 +1,53 @@
+
+asset/anim/yuanziwushi2SEMAX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yuanziwushi2_chaojue_bg03_00030
+	rotate: false
+	xy: 0, 0
+	size: 362, 460
+	orig: 362, 460
+	offset: 0, 0
+	index: -1
+
+asset/anim/yuanziwushi2SEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yuanziwushi2_chaojue_bg01_00030
+	rotate: false
+	xy: 0, 0
+	size: 477, 538
+	orig: 477, 538
+	offset: 0, 0
+	index: -1
+max/yuanziwushi2_chaojue_bg02_00030
+	rotate: true
+	xy: 0, 539
+	size: 475, 532
+	orig: 475, 532
+	offset: 0, 0
+	index: -1
+max/yuanziwushi2_chaojue_bg04_00030
+	rotate: false
+	xy: 478, 0
+	size: 457, 528
+	orig: 457, 528
+	offset: 0, 0
+	index: -1
+
+asset/anim/yuanziwushi2SECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/yuanziwushi2_baiping
+	rotate: false
+	xy: 157, 717
+	size: 8, 8
+	orig: 8, 8
+	offset: 0, 0
+	index: -1

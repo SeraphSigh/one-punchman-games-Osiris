@@ -1,0 +1,33 @@
+
+asset/anim/suonike_yinghuaSECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/canying3_suonikeyh
+	rotate: true
+	xy: 433, 716
+	size: 212, 163
+	orig: 214, 177
+	offset: 2, 8
+	index: -1
+
+asset/anim/suonike_yinghuaSECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/canying2_suonikeyh
+	rotate: false
+	xy: 209, 186
+	size: 186, 163
+	orig: 214, 177
+	offset: 15, 8
+	index: -1
+common/canying_suonikeyh
+	rotate: false
+	xy: 0, 376
+	size: 178, 165
+	orig: 214, 177
+	offset: 17, 7
+	index: -1

@@ -1,0 +1,318 @@
+
+asset/anim/manghe2.png
+size: 968,970
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lihuacaidaimh0004
+	rotate: true
+	xy: 666, 802
+	size: 168, 186
+	orig: 240, 272
+	offset: 47, 21
+	index: -1
+mh_tex0010
+	rotate: false
+	xy: 674, 498
+	size: 294, 303
+	orig: 456, 421
+	offset: 99, 49
+	index: -1
+mh_tex0011
+	rotate: false
+	xy: 367, 314
+	size: 306, 305
+	orig: 456, 421
+	offset: 92, 43
+	index: -1
+mh_tex0012
+	rotate: false
+	xy: 367, 0
+	size: 314, 313
+	orig: 456, 421
+	offset: 88, 39
+	index: -1
+mh_tex0013
+	rotate: false
+	xy: 367, 620
+	size: 298, 291
+	orig: 456, 421
+	offset: 107, 51
+	index: -1
+mh_tex0007
+	rotate: true
+	xy: 682, 0
+	size: 252, 277
+	orig: 456, 421
+	offset: 117, 72
+	index: -1
+mh_tex0006
+	rotate: true
+	xy: 682, 253
+	size: 244, 263
+	orig: 456, 421
+	offset: 118, 83
+	index: -1
+
+asset/anim/manghe3.png
+size: 1008,932
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lihuacaidaimh0007
+	rotate: true
+	xy: 241, 216
+	size: 218, 232
+	orig: 240, 272
+	offset: 8, 25
+	index: -1
+lihuacaidaimh0008
+	rotate: true
+	xy: 229, 435
+	size: 230, 240
+	orig: 240, 272
+	offset: 0, 25
+	index: -1
+lihuacaidaimh0009
+	rotate: true
+	xy: 714, 0
+	size: 216, 246
+	orig: 240, 272
+	offset: 18, 24
+	index: -1
+mh_tex0014
+	rotate: true
+	xy: 757, 682
+	size: 250, 251
+	orig: 456, 421
+	offset: 107, 89
+	index: -1
+mh_tex0015
+	rotate: false
+	xy: 504, 682
+	size: 252, 249
+	orig: 456, 421
+	offset: 105, 90
+	index: -1
+mh_tex0016
+	rotate: false
+	xy: 251, 680
+	size: 252, 245
+	orig: 456, 421
+	offset: 104, 92
+	index: -1
+mh_tex0017
+	rotate: false
+	xy: 0, 666
+	size: 250, 243
+	orig: 456, 421
+	offset: 104, 92
+	index: -1
+mh_tex0018
+	rotate: false
+	xy: 719, 217
+	size: 246, 223
+	orig: 456, 421
+	offset: 106, 112
+	index: -1
+mh_tex0019
+	rotate: false
+	xy: 474, 217
+	size: 244, 219
+	orig: 456, 421
+	offset: 107, 113
+	index: -1
+lihuacaidaimh0010
+	rotate: true
+	xy: 0, 434
+	size: 224, 228
+	orig: 240, 272
+	offset: 13, 21
+	index: -1
+lihuacaidaimh0013
+	rotate: true
+	xy: 0, 215
+	size: 218, 240
+	orig: 240, 272
+	offset: 5, 12
+	index: -1
+lihuacaidaimh0012
+	rotate: true
+	xy: 0, 0
+	size: 214, 238
+	orig: 240, 272
+	offset: 8, 15
+	index: -1
+mh_tex0003
+	rotate: true
+	xy: 239, 0
+	size: 214, 231
+	orig: 456, 421
+	offset: 141, 107
+	index: -1
+mh_tex0005
+	rotate: true
+	xy: 718, 441
+	size: 240, 253
+	orig: 456, 421
+	offset: 120, 91
+	index: -1
+mh_tex0004
+	rotate: true
+	xy: 470, 437
+	size: 242, 247
+	orig: 456, 421
+	offset: 122, 93
+	index: -1
+mh_tex0020
+	rotate: false
+	xy: 471, 0
+	size: 242, 215
+	orig: 456, 421
+	offset: 107, 115
+	index: -1
+
+asset/anim/manghe0.png
+size: 1022,1016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lihuacaidaimh0002
+	rotate: true
+	xy: 241, 890
+	size: 126, 138
+	orig: 240, 272
+	offset: 77, 15
+	index: -1
+lihuacaidaimh0003
+	rotate: true
+	xy: 367, 734
+	size: 152, 164
+	orig: 240, 272
+	offset: 60, 18
+	index: -1
+lihuacaidaimh0006
+	rotate: false
+	xy: 812, 235
+	size: 202, 220
+	orig: 240, 272
+	offset: 18, 25
+	index: -1
+baiqiumh
+	rotate: true
+	xy: 380, 887
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+mh_texgy
+	rotate: true
+	xy: 532, 734
+	size: 273, 311
+	orig: 273, 313
+	offset: 0, 2
+	index: -1
+lihuacaidaimh0011
+	rotate: false
+	xy: 812, 0
+	size: 210, 234
+	orig: 240, 272
+	offset: 11, 18
+	index: -1
+lihuacaidaimh0015
+	rotate: false
+	xy: 812, 456
+	size: 166, 244
+	orig: 240, 272
+	offset: 59, 7
+	index: -1
+lihuacaidaimh0014
+	rotate: false
+	xy: 844, 701
+	size: 166, 240
+	orig: 240, 272
+	offset: 58, 12
+	index: -1
+mh_tex0021
+	rotate: false
+	xy: 0, 890
+	size: 240, 75
+	orig: 456, 421
+	offset: 108, 117
+	index: -1
+mh_tex0024
+	rotate: true
+	xy: 0, 966
+	size: 10, 9
+	orig: 456, 421
+	offset: 116, 173
+	index: -1
+
+asset/anim/manghe1.png
+size: 1017,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lihuacaidaimh0001
+	rotate: false
+	xy: 350, 890
+	size: 88, 108
+	orig: 240, 272
+	offset: 98, 11
+	index: -1
+lihuacaidaimh0005
+	rotate: true
+	xy: 812, 231
+	size: 184, 204
+	orig: 240, 272
+	offset: 32, 24
+	index: -1
+lihuacaidaimh0016
+	rotate: false
+	xy: 812, 0
+	size: 168, 230
+	orig: 240, 272
+	offset: 57, 18
+	index: -1
+mh_tex0009
+	rotate: true
+	xy: 439, 734
+	size: 282, 301
+	orig: 456, 421
+	offset: 104, 55
+	index: -1
+mh_tex0008
+	rotate: false
+	xy: 741, 734
+	size: 266, 289
+	orig: 456, 421
+	offset: 112, 63
+	index: -1
+mh_tex0002
+	rotate: true
+	xy: 812, 416
+	size: 158, 205
+	orig: 456, 421
+	offset: 148, 123
+	index: -1
+mh_tex0001
+	rotate: false
+	xy: 235, 890
+	size: 114, 121
+	orig: 456, 421
+	offset: 183, 130
+	index: -1
+mh_tex0023
+	rotate: false
+	xy: 0, 960
+	size: 226, 61
+	orig: 456, 421
+	offset: 113, 127
+	index: -1
+mh_tex0022
+	rotate: false
+	xy: 0, 890
+	size: 234, 69
+	orig: 456, 421
+	offset: 111, 120
+	index: -1

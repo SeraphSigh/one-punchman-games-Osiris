@@ -1,0 +1,244 @@
+
+asset/anim/jiangshinankapai0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuoyanbaijiangshinankapai
+	rotate: false
+	xy: 244, 124
+	size: 23, 18
+	orig: 23, 18
+	offset: 0, 0
+	index: -1
+zuoshoujiangshinankapai
+	rotate: true
+	xy: 776, 146
+	size: 503, 165
+	orig: 503, 165
+	offset: 0, 0
+	index: -1
+shentijiangshinankapai
+	rotate: true
+	xy: 414, 730
+	size: 155, 332
+	orig: 155, 332
+	offset: 0, 0
+	index: -1
+youyanbaijiangshinankapai
+	rotate: true
+	xy: 1012, 167
+	size: 23, 12
+	orig: 23, 12
+	offset: 0, 0
+	index: -1
+fengyizuojiangshinankapai
+	rotate: false
+	xy: 0, 0
+	size: 243, 738
+	orig: 243, 738
+	offset: 0, 0
+	index: -1
+zuojiaojiangshinankapai
+	rotate: false
+	xy: 935, 655
+	size: 78, 107
+	orig: 78, 107
+	offset: 0, 0
+	index: -1
+youxiaotuijiangshinankapai
+	rotate: false
+	xy: 227, 739
+	size: 81, 252
+	orig: 81, 252
+	offset: 0, 0
+	index: -1
+zuomeijiangshinankapai
+	rotate: true
+	xy: 244, 146
+	size: 27, 25
+	orig: 27, 25
+	offset: 0, 0
+	index: -1
+zuoshangyanzhujiangshinankapai
+	rotate: false
+	xy: 140, 1013
+	size: 10, 11
+	orig: 10, 11
+	offset: 0, 0
+	index: -1
+youjiaojiangshinankapai
+	rotate: true
+	xy: 526, 886
+	size: 123, 97
+	orig: 123, 97
+	offset: 0, 0
+	index: -1
+zuoxiaobijiangshinankapai
+	rotate: false
+	xy: 942, 191
+	size: 82, 155
+	orig: 82, 155
+	offset: 0, 0
+	index: -1
+toujiangshinankapai
+	rotate: true
+	xy: 747, 770
+	size: 113, 149
+	orig: 113, 149
+	offset: 0, 0
+	index: -1
+zuolingzi2jiangshinankapai
+	rotate: true
+	xy: 897, 770
+	size: 36, 120
+	orig: 36, 120
+	offset: 0, 0
+	index: -1
+lingzihoujiangshinankapai
+	rotate: true
+	xy: 244, 0
+	size: 101, 64
+	orig: 101, 64
+	offset: 0, 0
+	index: -1
+zuoyanpijiangshinankapai
+	rotate: false
+	xy: 284, 992
+	size: 27, 28
+	orig: 27, 28
+	offset: 0, 0
+	index: -1
+youlingzi2jiangshinankapai
+	rotate: true
+	xy: 227, 992
+	size: 32, 56
+	orig: 32, 56
+	offset: 0, 0
+	index: -1
+zuoxiayanpijiangshinankapai
+	rotate: true
+	xy: 270, 146
+	size: 27, 25
+	orig: 27, 25
+	offset: 0, 0
+	index: -1
+youshangyanpijiangshinankapai
+	rotate: false
+	xy: 268, 102
+	size: 24, 16
+	orig: 24, 16
+	offset: 0, 0
+	index: -1
+zuoxiaotuijiangshinankapai
+	rotate: false
+	xy: 312, 730
+	size: 101, 286
+	orig: 101, 286
+	offset: 0, 0
+	index: -1
+youmeijiangshinankapai
+	rotate: true
+	xy: 1012, 141
+	size: 25, 12
+	orig: 25, 12
+	offset: 0, 0
+	index: -1
+fengyihoujiangshinankapai
+	rotate: true
+	xy: 244, 175
+	size: 554, 531
+	orig: 554, 531
+	offset: 0, 0
+	index: -1
+youdatuijiangshinankapai
+	rotate: false
+	xy: 129, 739
+	size: 97, 273
+	orig: 97, 273
+	offset: 0, 0
+	index: -1
+youshoujiangshinankapai
+	rotate: true
+	xy: 624, 886
+	size: 120, 147
+	orig: 120, 147
+	offset: 0, 0
+	index: -1
+daizijiangshinankapai
+	rotate: true
+	xy: 962, 141
+	size: 33, 49
+	orig: 33, 49
+	offset: 0, 0
+	index: -1
+fengyiyoujiangshinankapai
+	rotate: true
+	xy: 312, 0
+	size: 145, 649
+	orig: 145, 649
+	offset: 0, 0
+	index: -1
+zuodatuijiangshinankapai
+	rotate: false
+	xy: 0, 739
+	size: 128, 284
+	orig: 128, 284
+	offset: 0, 0
+	index: -1
+zuolingzijiangshinankapai
+	rotate: false
+	xy: 962, 0
+	size: 62, 75
+	orig: 62, 75
+	offset: 0, 0
+	index: -1
+youxiaobijiangshinankapai
+	rotate: false
+	xy: 414, 886
+	size: 111, 123
+	orig: 111, 123
+	offset: 0, 0
+	index: -1
+kuajiangshinankapai
+	rotate: false
+	xy: 776, 650
+	size: 158, 119
+	orig: 158, 119
+	offset: 0, 0
+	index: -1
+youdabijiangshinankapai
+	rotate: false
+	xy: 942, 502
+	size: 82, 152
+	orig: 82, 152
+	offset: 0, 0
+	index: -1
+zuodabijiangshinankapai
+	rotate: false
+	xy: 942, 347
+	size: 82, 154
+	orig: 82, 154
+	offset: 0, 0
+	index: -1
+youyanzhujiangshinankapai
+	rotate: false
+	xy: 129, 1013
+	size: 10, 11
+	orig: 10, 11
+	offset: 0, 0
+	index: -1
+youxiayanpijiangshinankapai
+	rotate: true
+	xy: 296, 102
+	size: 21, 15
+	orig: 21, 15
+	offset: 0, 0
+	index: -1
+youlingzijiangshinankapai
+	rotate: true
+	xy: 962, 76
+	size: 64, 62
+	orig: 64, 62
+	offset: 0, 0
+	index: -1

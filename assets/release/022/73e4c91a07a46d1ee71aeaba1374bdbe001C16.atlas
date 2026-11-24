@@ -1,0 +1,398 @@
+
+asset/anim/yinseliaoya2SESKILL1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/yinseliaoya2_shitouqun1_4
+	rotate: false
+	xy: 0, 629
+	size: 358, 162
+	orig: 396, 182
+	offset: 17, 5
+	index: -1
+skill/yinseliaoya2_shitouqun1_7
+	rotate: false
+	xy: 363, 625
+	size: 362, 162
+	orig: 396, 182
+	offset: 13, 2
+	index: -1
+skill/yinseliaoya2_shitouqun1_6
+	rotate: false
+	xy: 0, 466
+	size: 362, 162
+	orig: 396, 182
+	offset: 13, 2
+	index: -1
+skill/yinseliaoya2_shitouqun1_3
+	rotate: false
+	xy: 366, 460
+	size: 362, 164
+	orig: 396, 182
+	offset: 13, 9
+	index: -1
+skill/yinseliaoya2_shitouqun1_9
+	rotate: false
+	xy: 0, 0
+	size: 366, 174
+	orig: 396, 182
+	offset: 10, 2
+	index: -1
+skill/yinseliaoya2_shitouqun1_8
+	rotate: false
+	xy: 366, 291
+	size: 362, 168
+	orig: 396, 182
+	offset: 13, 2
+	index: -1
+
+asset/anim/yinseliaoya2SESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/yinseliaoya2_shitouqun1_5
+	rotate: true
+	xy: 863, 0
+	size: 362, 160
+	orig: 396, 182
+	offset: 13, 2
+	index: -1
+skill/yinseliaoya2_shitouqun1_1
+	rotate: false
+	xy: 473, 313
+	size: 368, 162
+	orig: 396, 182
+	offset: 15, 2
+	index: -1
+skill/yinseliaoya2_shitouqun1_2
+	rotate: true
+	xy: 315, 0
+	size: 358, 156
+	orig: 396, 182
+	offset: 18, 12
+	index: -1
+
+asset/anim/yinseliaoya2SECOMMON4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/yinseliaoya2_dimianshuixuli_3
+	rotate: true
+	xy: 812, 216
+	size: 215, 200
+	orig: 263, 226
+	offset: 23, 10
+	index: -1
+common/yinseliaoya2_dimianshuixuli_4
+	rotate: false
+	xy: 802, 432
+	size: 215, 200
+	orig: 263, 226
+	offset: 23, 10
+	index: -1
+common/yinseliaoya2_dimianshuixuli_5
+	rotate: false
+	xy: 802, 633
+	size: 215, 200
+	orig: 263, 226
+	offset: 23, 10
+	index: -1
+common/yinseliaoya2_dimianshuixuli_6
+	rotate: false
+	xy: 372, 824
+	size: 215, 200
+	orig: 263, 226
+	offset: 23, 10
+	index: -1
+common/yinseliaoya2_diyan1_7
+	rotate: false
+	xy: 0, 333
+	size: 288, 83
+	orig: 328, 123
+	offset: 19, 5
+	index: -1
+common/yinseliaoya2_dimianshuixuli_16
+	rotate: true
+	xy: 812, 0
+	size: 215, 200
+	orig: 263, 226
+	offset: 23, 10
+	index: -1
+
+asset/anim/yinseliaoya2SECOMMON5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/yinseliaoya2_dimianshuixuli_7
+	rotate: false
+	xy: 0, 315
+	size: 215, 200
+	orig: 263, 226
+	offset: 23, 10
+	index: -1
+common/yinseliaoya2_dimianshuixuli_8
+	rotate: false
+	xy: 368, 374
+	size: 215, 200
+	orig: 263, 226
+	offset: 23, 10
+	index: -1
+common/yinseliaoya2_dimianshuixuli_9
+	rotate: false
+	xy: 0, 516
+	size: 215, 200
+	orig: 263, 226
+	offset: 23, 10
+	index: -1
+common/yinseliaoya2_diyan1_3
+	rotate: false
+	xy: 368, 0
+	size: 290, 105
+	orig: 328, 123
+	offset: 31, 5
+	index: -1
+common/yinseliaoya2_diyan1_13
+	rotate: false
+	xy: 601, 348
+	size: 230, 79
+	orig: 328, 123
+	offset: 53, 7
+	index: -1
+common/yinseliaoya2_diyan1_12
+	rotate: false
+	xy: 601, 268
+	size: 232, 79
+	orig: 328, 123
+	offset: 52, 7
+	index: -1
+
+asset/anim/yinseliaoya2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/yinseliaoya2_dimianshuixuli_2
+	rotate: false
+	xy: 812, 0
+	size: 211, 196
+	orig: 263, 226
+	offset: 25, 12
+	index: -1
+common/yinseliaoya2_dimianshuixuli_17
+	rotate: false
+	xy: 812, 197
+	size: 207, 198
+	orig: 263, 226
+	offset: 27, 11
+	index: -1
+common/yinseliaoya2_dimianshuixuli_11
+	rotate: true
+	xy: 738, 800
+	size: 215, 200
+	orig: 263, 226
+	offset: 23, 10
+	index: -1
+
+asset/anim/yinseliaoya2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/yinseliaoya2_dimianshuixuli_14
+	rotate: false
+	xy: 804, 432
+	size: 215, 200
+	orig: 263, 226
+	offset: 23, 10
+	index: -1
+common/yinseliaoya2_dimianshuixuli_15
+	rotate: false
+	xy: 800, 633
+	size: 215, 200
+	orig: 263, 226
+	offset: 23, 10
+	index: -1
+common/yinseliaoya2_diyan1_9
+	rotate: false
+	xy: 532, 333
+	size: 266, 79
+	orig: 328, 123
+	offset: 28, 6
+	index: -1
+common/yinseliaoya2_dimianshuixuli_12
+	rotate: true
+	xy: 812, 0
+	size: 215, 200
+	orig: 263, 226
+	offset: 23, 10
+	index: -1
+common/yinseliaoya2_dimianshuixuli_13
+	rotate: true
+	xy: 812, 216
+	size: 215, 200
+	orig: 263, 226
+	offset: 23, 10
+	index: -1
+
+asset/anim/yinseliaoya2SECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/yinseliaoya2_zhichuo1_8
+	rotate: false
+	xy: 0, 193
+	size: 497, 192
+	orig: 519, 192
+	offset: 9, 0
+	index: -1
+common/yinseliaoya2_dimianshuixuli_10
+	rotate: false
+	xy: 200, 490
+	size: 215, 200
+	orig: 263, 226
+	offset: 23, 10
+	index: -1
+common/yinseliaoya2_diyan1_5
+	rotate: true
+	xy: 0, 386
+	size: 304, 109
+	orig: 328, 123
+	offset: 16, 5
+	index: -1
+common/yinseliaoya2_diyan1_6
+	rotate: false
+	xy: 684, 575
+	size: 308, 109
+	orig: 328, 123
+	offset: 14, 5
+	index: -1
+common/yinseliaoya2_diyan1_1
+	rotate: true
+	xy: 110, 386
+	size: 188, 89
+	orig: 328, 123
+	offset: 126, 7
+	index: -1
+common/yinseliaoya2_diyan1_2
+	rotate: false
+	xy: 200, 386
+	size: 294, 103
+	orig: 328, 123
+	offset: 29, 6
+	index: -1
+common/yinseliaoya2_diyan1_10
+	rotate: false
+	xy: 768, 691
+	size: 256, 81
+	orig: 328, 123
+	offset: 29, 6
+	index: -1
+common/yinseliaoya2_zhichuo1_4
+	rotate: false
+	xy: 0, 0
+	size: 505, 192
+	orig: 519, 192
+	offset: 3, 0
+	index: -1
+common/yinseliaoya2_zhichuo1_5
+	rotate: false
+	xy: 506, 191
+	size: 497, 192
+	orig: 519, 192
+	offset: 10, 0
+	index: -1
+common/yinseliaoya2_zhichuo1_6
+	rotate: false
+	xy: 506, 0
+	size: 499, 190
+	orig: 519, 192
+	offset: 10, 1
+	index: -1
+common/yinseliaoya2_zhichuo1_7
+	rotate: false
+	xy: 498, 384
+	size: 497, 190
+	orig: 519, 192
+	offset: 10, 0
+	index: -1
+
+asset/anim/yinseliaoya2SECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/yinseliaoya2_dimianshuixuli_1
+	rotate: true
+	xy: 0, 552
+	size: 193, 184
+	orig: 263, 226
+	offset: 34, 18
+	index: -1
+common/yinseliaoya2_diyan1_8
+	rotate: true
+	xy: 429, 748
+	size: 266, 81
+	orig: 328, 123
+	offset: 28, 6
+	index: -1
+common/yinseliaoya2_diyan1_4
+	rotate: false
+	xy: 653, 485
+	size: 300, 111
+	orig: 328, 123
+	offset: 17, 5
+	index: -1
+common/yinseliaoya2_zhichuo1_10
+	rotate: false
+	xy: 0, 193
+	size: 477, 172
+	orig: 519, 192
+	offset: 10, 4
+	index: -1
+common/yinseliaoya2_zhichuo1_11
+	rotate: false
+	xy: 478, 364
+	size: 475, 120
+	orig: 519, 192
+	offset: 12, 6
+	index: -1
+common/yinseliaoya2_diyan1_11
+	rotate: true
+	xy: 473, 485
+	size: 258, 81
+	orig: 328, 123
+	offset: 29, 6
+	index: -1
+common/yinseliaoya2_zhichuo1_9
+	rotate: false
+	xy: 484, 187
+	size: 477, 176
+	orig: 519, 192
+	offset: 10, 3
+	index: -1
+common/yinseliaoya2_zhichuo1_1
+	rotate: true
+	xy: 585, 744
+	size: 279, 106
+	orig: 519, 192
+	offset: 5, 5
+	index: -1
+common/yinseliaoya2_zhichuo1_2
+	rotate: false
+	xy: 484, 0
+	size: 481, 186
+	orig: 519, 192
+	offset: 0, 0
+	index: -1
+common/yinseliaoya2_zhichuo1_3
+	rotate: false
+	xy: 0, 0
+	size: 483, 192
+	orig: 519, 192
+	offset: 0, 0
+	index: -1

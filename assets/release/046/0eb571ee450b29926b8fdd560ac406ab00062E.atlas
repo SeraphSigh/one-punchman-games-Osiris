@@ -1,0 +1,87 @@
+
+asset/anim/jinshuqishiSEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/jinshuqishijuexing_miaozhun_04
+	rotate: false
+	xy: 201, 737
+	size: 13, 13
+	orig: 157, 157
+	offset: 71, 73
+	index: -1
+
+asset/anim/jinshuqishiSEMAX3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/jinshuqishijuexing_miaozhun_03
+	rotate: true
+	xy: 755, 798
+	size: 147, 143
+	orig: 157, 157
+	offset: 4, 6
+	index: -1
+max/jinshuqishijuexing_miaozhun_06
+	rotate: false
+	xy: 647, 935
+	size: 91, 89
+	orig: 157, 157
+	offset: 32, 34
+	index: -1
+max/jinshuqishijuexing_miaozhun_08
+	rotate: false
+	xy: 164, 781
+	size: 157, 157
+	orig: 157, 157
+	offset: 0, 0
+	index: -1
+
+asset/anim/jinshuqishiSEMAX2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/jinshuqishijuexing_miaozhun_01
+	rotate: true
+	xy: 564, 898
+	size: 95, 85
+	orig: 157, 157
+	offset: 31, 42
+	index: -1
+max/jinshuqishijuexing_miaozhun_02
+	rotate: false
+	xy: 965, 415
+	size: 59, 51
+	orig: 157, 157
+	offset: 48, 50
+	index: -1
+max/jinshuqishijuexing_miaozhun_05
+	rotate: false
+	xy: 216, 310
+	size: 37, 37
+	orig: 157, 157
+	offset: 60, 60
+	index: -1
+
+asset/anim/jinshuqishiSEMAX4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/jinshuqishijuexing_miaozhun_07
+	rotate: true
+	xy: 626, 132
+	size: 117, 113
+	orig: 157, 157
+	offset: 19, 24
+	index: -1
+max/jinshuqishijuexing_miaozhun_09
+	rotate: false
+	xy: 95, 621
+	size: 149, 149
+	orig: 157, 157
+	offset: 4, 4
+	index: -1

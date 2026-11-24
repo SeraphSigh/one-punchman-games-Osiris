@@ -1,0 +1,179 @@
+
+asset/anim/chuixue2ATTACK1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/chuixue2_atk_shangcengyan10
+	rotate: false
+	xy: 0, 261
+	size: 323, 168
+	orig: 345, 174
+	offset: 9, 6
+	index: -1
+attack/chuixue2_atk_shangcengyan025
+	rotate: false
+	xy: 324, 271
+	size: 320, 272
+	orig: 326, 276
+	offset: 6, 1
+	index: -1
+attack/chuixue2_atk_shangcengyan024
+	rotate: false
+	xy: 652, 0
+	size: 322, 274
+	orig: 326, 276
+	offset: 3, 1
+	index: -1
+attack/chuixue2_atk_shangcengyan027
+	rotate: false
+	xy: 0, 430
+	size: 320, 266
+	orig: 326, 276
+	offset: 0, 4
+	index: -1
+attack/chuixue2_atk_shangcengyan026
+	rotate: false
+	xy: 327, 0
+	size: 324, 270
+	orig: 326, 276
+	offset: 2, 2
+	index: -1
+attack/chuixue2_atk_shangcengyan021
+	rotate: false
+	xy: 0, 0
+	size: 326, 260
+	orig: 326, 276
+	offset: 0, 1
+	index: -1
+attack/chuixue2_atk_shangcengyan029
+	rotate: true
+	xy: 247, 697
+	size: 320, 210
+	orig: 326, 276
+	offset: 0, 10
+	index: -1
+attack/chuixue2_atk_shangcengyan028
+	rotate: true
+	xy: 0, 697
+	size: 320, 246
+	orig: 326, 276
+	offset: 0, 9
+	index: -1
+attack/chuixue2_atk_shangcengyan0210
+	rotate: true
+	xy: 822, 275
+	size: 308, 202
+	orig: 326, 276
+	offset: 0, 13
+	index: -1
+attack/chuixue2_atk_shangcengyan4
+	rotate: true
+	xy: 458, 664
+	size: 319, 168
+	orig: 345, 174
+	offset: 13, 6
+	index: -1
+attack/chuixue2_atk_shangcengyan8
+	rotate: false
+	xy: 667, 584
+	size: 319, 168
+	orig: 345, 174
+	offset: 10, 6
+	index: -1
+attack/chuixue2_atk_shangcengyan1
+	rotate: false
+	xy: 555, 544
+	size: 111, 112
+	orig: 345, 174
+	offset: 4, 56
+	index: -1
+
+asset/anim/chuixue2ATTACK0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/chuixue2_atk_shangcengyan11
+	rotate: false
+	xy: 334, 375
+	size: 329, 168
+	orig: 345, 174
+	offset: 4, 6
+	index: -1
+attack/chuixue2_atk_shangcengyan12
+	rotate: false
+	xy: 374, 200
+	size: 343, 174
+	orig: 345, 174
+	offset: 0, 0
+	index: -1
+attack/chuixue2_atk_shangcengyan023
+	rotate: true
+	xy: 736, 0
+	size: 322, 274
+	orig: 326, 276
+	offset: 4, 2
+	index: -1
+attack/chuixue2_atk_shangcengyan022
+	rotate: false
+	xy: 0, 571
+	size: 326, 272
+	orig: 326, 276
+	offset: 0, 4
+	index: -1
+attack/chuixue2_atk_shangcengyan0211
+	rotate: false
+	xy: 731, 660
+	size: 293, 201
+	orig: 327, 275
+	offset: 1, 14
+	index: -1
+attack/chuixue2_atk_shangcengyan2
+	rotate: false
+	xy: 327, 713
+	size: 293, 130
+	orig: 345, 174
+	offset: 14, 41
+	index: -1
+attack/chuixue2_atk_shangcengyan5
+	rotate: false
+	xy: 0, 402
+	size: 329, 168
+	orig: 345, 174
+	offset: 4, 6
+	index: -1
+attack/chuixue2_atk_shangcengyan7
+	rotate: false
+	xy: 330, 544
+	size: 327, 168
+	orig: 345, 174
+	offset: 7, 6
+	index: -1
+attack/chuixue2_atk_shangcengyan6
+	rotate: false
+	xy: 664, 491
+	size: 329, 168
+	orig: 345, 174
+	offset: 4, 6
+	index: -1
+
+asset/anim/chuixue2ATTACK2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/chuixue2_atk_shangcengyan3
+	rotate: false
+	xy: 320, 0
+	size: 315, 168
+	orig: 345, 174
+	offset: 14, 6
+	index: -1
+attack/chuixue2_atk_shangcengyan9
+	rotate: false
+	xy: 0, 0
+	size: 319, 168
+	orig: 345, 174
+	offset: 10, 6
+	index: -1

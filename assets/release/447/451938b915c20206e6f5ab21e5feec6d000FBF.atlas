@@ -1,0 +1,226 @@
+
+asset/anim/chuixue2SKILL2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/chuixue2_lt_xiaolongjuan17
+	rotate: false
+	xy: 0, 0
+	size: 345, 338
+	orig: 353, 340
+	offset: 8, 2
+	index: -1
+
+asset/anim/chuixue2SKILL1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/chuixue2_lt_xiaolongjuan19
+	rotate: true
+	xy: 352, 341
+	size: 171, 216
+	orig: 353, 340
+	offset: 93, 53
+	index: -1
+skill/chuixue2_lt_xiaolongjuan18
+	rotate: true
+	xy: 680, 691
+	size: 333, 324
+	orig: 353, 340
+	offset: 12, 16
+	index: -1
+skill/chuixue2_lt_xiaolongjuan9
+	rotate: true
+	xy: 680, 341
+	size: 349, 340
+	orig: 353, 340
+	offset: 4, 0
+	index: -1
+skill/chuixue2_lt_xiaolongjuan8
+	rotate: true
+	xy: 341, 672
+	size: 351, 338
+	orig: 353, 340
+	offset: 2, 2
+	index: -1
+skill/chuixue2_lt_xiaolongjuan11
+	rotate: false
+	xy: 354, 0
+	size: 351, 340
+	orig: 353, 340
+	offset: 2, 0
+	index: -1
+skill/chuixue2_lt_xiaolongjuan12
+	rotate: false
+	xy: 0, 331
+	size: 351, 340
+	orig: 353, 340
+	offset: 2, 0
+	index: -1
+skill/chuixue2_lt_xiaolongjuan15
+	rotate: true
+	xy: 0, 672
+	size: 351, 340
+	orig: 353, 340
+	offset: 2, 0
+	index: -1
+skill/chuixue2_lt_xiaolongjuan5
+	rotate: false
+	xy: 0, 0
+	size: 353, 330
+	orig: 353, 340
+	offset: 0, 10
+	index: -1
+skill/chuixue2_lt_xiaolongjuan1
+	rotate: true
+	xy: 706, 0
+	size: 195, 220
+	orig: 353, 340
+	offset: 84, 48
+	index: -1
+
+asset/anim/chuixue2SKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/chuixue2_lt_xiaolongjuan6
+	rotate: false
+	xy: 674, 683
+	size: 349, 340
+	orig: 353, 340
+	offset: 4, 0
+	index: -1
+skill/chuixue2_lt_xiaolongjuan2
+	rotate: false
+	xy: 346, 696
+	size: 295, 270
+	orig: 353, 340
+	offset: 46, 38
+	index: -1
+skill/chuixue2_lt_xiaolongjuan10
+	rotate: false
+	xy: 0, 0
+	size: 353, 336
+	orig: 353, 340
+	offset: 0, 4
+	index: -1
+skill/chuixue2_lt_xiaolongjuan13
+	rotate: false
+	xy: 354, 0
+	size: 353, 336
+	orig: 353, 340
+	offset: 0, 4
+	index: -1
+skill/chuixue2_lt_xiaolongjuan14
+	rotate: false
+	xy: 674, 342
+	size: 349, 340
+	orig: 353, 340
+	offset: 4, 0
+	index: -1
+skill/chuixue2_lt_xiaolongjuan16
+	rotate: true
+	xy: 0, 342
+	size: 353, 336
+	orig: 353, 340
+	offset: 0, 4
+	index: -1
+skill/chuixue2_lt_xiaolongjuan3
+	rotate: true
+	xy: 708, 0
+	size: 341, 312
+	orig: 353, 340
+	offset: 9, 22
+	index: -1
+skill/chuixue2_lt_xiaolongjuan4
+	rotate: false
+	xy: 0, 696
+	size: 345, 326
+	orig: 353, 340
+	offset: 8, 14
+	index: -1
+skill/chuixue2_lt_xiaolongjuan7
+	rotate: true
+	xy: 337, 342
+	size: 353, 336
+	orig: 353, 340
+	offset: 0, 4
+	index: -1
+
+asset/anim/chuixue2COMMON0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/chuixue2_com_dalongjuanfeng8
+	rotate: false
+	xy: 0, 1196
+	size: 682, 590
+	orig: 688, 602
+	offset: 0, 0
+	index: -1
+common/chuixue2_com_dalongjuanfeng9
+	rotate: false
+	xy: 687, 599
+	size: 686, 594
+	orig: 688, 602
+	offset: 0, 0
+	index: -1
+common/chuixue2_com_dalongjuanfeng1
+	rotate: false
+	xy: 689, 0
+	size: 686, 598
+	orig: 688, 602
+	offset: 0, 0
+	index: -1
+common/chuixue2_com_dalongjuanfeng3
+	rotate: true
+	xy: 1376, 0
+	size: 686, 594
+	orig: 688, 602
+	offset: 0, 0
+	index: -1
+common/chuixue2_com_dalongjuanfeng4
+	rotate: false
+	xy: 0, 597
+	size: 686, 598
+	orig: 688, 602
+	offset: 0, 0
+	index: -1
+common/chuixue2_com_dalongjuanfeng5
+	rotate: false
+	xy: 687, 1194
+	size: 682, 590
+	orig: 688, 602
+	offset: 0, 0
+	index: -1
+common/chuixue2_com_dalongjuanfeng6
+	rotate: false
+	xy: 0, 0
+	size: 688, 596
+	orig: 688, 602
+	offset: 0, 0
+	index: -1
+common/chuixue2_com_dalongjuanfeng7
+	rotate: true
+	xy: 1374, 687
+	size: 684, 592
+	orig: 688, 602
+	offset: 0, 0
+	index: -1
+
+asset/anim/chuixue2COMMON1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/chuixue2_com_dalongjuanfeng2
+	rotate: false
+	xy: 0, 0
+	size: 680, 590
+	orig: 688, 602
+	offset: 0, 0
+	index: -1

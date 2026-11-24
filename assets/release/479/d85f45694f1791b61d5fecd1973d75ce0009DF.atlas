@@ -1,0 +1,160 @@
+
+asset/anim/gudailkapai.png
+size: 997,605
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Rarm_gudailongkp
+	rotate: true
+	xy: 690, 389
+	size: 101, 170
+	orig: 101, 170
+	offset: 0, 0
+	index: -1
+a_hand_gudailongkp
+	rotate: true
+	xy: 908, 482
+	size: 90, 87
+	orig: 90, 87
+	offset: 0, 0
+	index: -1
+a_finger2_gudailongkp
+	rotate: true
+	xy: 103, 526
+	size: 40, 51
+	orig: 40, 51
+	offset: 0, 0
+	index: -1
+a_finger3_gudailongkp
+	rotate: false
+	xy: 51, 526
+	size: 51, 45
+	orig: 51, 45
+	offset: 0, 0
+	index: -1
+a_Rarm2_gudailongkp
+	rotate: true
+	xy: 676, 491
+	size: 101, 146
+	orig: 101, 146
+	offset: 0, 0
+	index: -1
+a_body3_gudailongkp
+	rotate: false
+	xy: 657, 205
+	size: 22, 36
+	orig: 22, 36
+	offset: 0, 0
+	index: -1
+a_Rleg2_gudailongkp
+	rotate: true
+	xy: 529, 470
+	size: 120, 146
+	orig: 120, 146
+	offset: 0, 0
+	index: -1
+a_finger4_gudailongkp
+	rotate: true
+	xy: 960, 393
+	size: 31, 37
+	orig: 31, 37
+	offset: 0, 0
+	index: -1
+a_body2_gudailongkp
+	rotate: false
+	xy: 0, 0
+	size: 321, 297
+	orig: 321, 297
+	offset: 0, 0
+	index: -1
+a_Lleg2_gudailongkp
+	rotate: false
+	xy: 861, 282
+	size: 108, 110
+	orig: 108, 110
+	offset: 0, 0
+	index: -1
+a_finger_gudailongkp
+	rotate: false
+	xy: 0, 526
+	size: 50, 64
+	orig: 50, 64
+	offset: 0, 0
+	index: -1
+a_arm_gudailongkp
+	rotate: false
+	xy: 657, 0
+	size: 201, 204
+	orig: 201, 204
+	offset: 0, 0
+	index: -1
+a_body_gudailongkp
+	rotate: true
+	xy: 322, 0
+	size: 268, 334
+	orig: 268, 334
+	offset: 0, 0
+	index: -1
+a_Rfoot_gudailongkp
+	rotate: false
+	xy: 690, 205
+	size: 170, 183
+	orig: 170, 183
+	offset: 0, 0
+	index: -1
+a_Lfoot_gudailongkp
+	rotate: false
+	xy: 859, 0
+	size: 138, 153
+	orig: 138, 153
+	offset: 0, 0
+	index: -1
+a_Rleg_gudailongkp
+	rotate: false
+	xy: 516, 269
+	size: 173, 200
+	orig: 173, 200
+	offset: 0, 0
+	index: -1
+a_Lleg_gudailongkp
+	rotate: false
+	xy: 352, 269
+	size: 163, 212
+	orig: 163, 212
+	offset: 0, 0
+	index: -1
+a_tail_gudailongkp
+	rotate: false
+	xy: 0, 298
+	size: 351, 227
+	orig: 351, 227
+	offset: 0, 0
+	index: -1
+a_head2_gudailongkp
+	rotate: false
+	xy: 823, 491
+	size: 84, 97
+	orig: 84, 97
+	offset: 0, 0
+	index: -1
+a_arm2_gudailongkp
+	rotate: true
+	xy: 352, 482
+	size: 123, 176
+	orig: 123, 176
+	offset: 0, 0
+	index: -1
+a_head_gudailongkp
+	rotate: false
+	xy: 861, 154
+	size: 118, 127
+	orig: 118, 127
+	offset: 0, 0
+	index: -1
+a_Rhand_gudailongkp
+	rotate: true
+	xy: 861, 393
+	size: 88, 98
+	orig: 88, 98
+	offset: 0, 0
+	index: -1

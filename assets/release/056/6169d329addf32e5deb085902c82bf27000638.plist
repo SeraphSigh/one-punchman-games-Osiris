@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>dajiongyan2_attack_shifa_down_00019.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			</array>
+			<key>spriteOffset</key>
+			<string>{-1,-1}</string>
+			<key>spriteSize</key>
+			<string>{145,117}</string>
+			<key>spriteSourceSize</key>
+			<string>{169,141}</string>
+			<key>textureRect</key>
+			<string>{{0,0},{145,117}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>dajiongyan2_attack_shifa_down_00032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			</array>
+			<key>spriteOffset</key>
+			<string>{0,-1}</string>
+			<key>spriteSize</key>
+			<string>{143,115}</string>
+			<key>spriteSourceSize</key>
+			<string>{169,141}</string>
+			<key>textureRect</key>
+			<string>{{0,118},{143,115}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>pixelFormat</key>
+		<string>RGBA8888</string>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>dajiongyan2SEATTACK4.png</string>
+		<key>scale</key>
+		<real>0.9</real>
+		<key>size</key>
+		<string>{256,256}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:e5be084b296d99450f20db113f0fc137:56a82095e0b87535c38cda5f7d694dd0:4907d73e5cff973a01a37a2cebceda01$</string>
+		<key>textureFileName</key>
+		<string>dajiongyan2SEATTACK4.png</string>
+	</dict>
+</dict>
+</plist>

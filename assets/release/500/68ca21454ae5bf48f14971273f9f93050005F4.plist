@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>tubiaojy_xiayihuihedonghuaimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{88,80}</string>
+                <key>spriteSourceSize</key>
+                <string>{88,80}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{88,80}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>xiayihuihedonghuaimage.png</string>
+            <key>size</key>
+            <string>{88,80}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:bb6b5a603a63bd988792b817e6ee60d8:c32c3d16e8112831dfc31e0a8eb2069a:e5954db59c1949ffa0b2121e5963bfd8$</string>
+            <key>textureFileName</key>
+            <string>xiayihuihedonghuaimage.png</string>
+        </dict>
+    </dict>
+</plist>

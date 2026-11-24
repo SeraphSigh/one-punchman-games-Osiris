@@ -1,0 +1,69 @@
+
+asset/anim/zhounianheka0.png
+size: 1019,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caidai2_zhounianheka
+	rotate: true
+	xy: 931, 293
+	size: 20, 38
+	orig: 20, 38
+	offset: 0, 0
+	index: -1
+caidai5_zhounianheka
+	rotate: true
+	xy: 932, 175
+	size: 17, 32
+	orig: 17, 32
+	offset: 0, 0
+	index: -1
+hudiejie_zhounianheka
+	rotate: false
+	xy: 891, 333
+	size: 66, 78
+	orig: 66, 78
+	offset: 0, 0
+	index: -1
+qiqiu2_zhounianheka
+	rotate: false
+	xy: 891, 129
+	size: 40, 105
+	orig: 40, 105
+	offset: 0, 0
+	index: -1
+qiqiu_zhounianheka
+	rotate: false
+	xy: 932, 129
+	size: 44, 45
+	orig: 44, 45
+	offset: 0, 0
+	index: -1
+qiqiu3_zhounianheka
+	rotate: false
+	xy: 891, 235
+	size: 39, 97
+	orig: 39, 97
+	offset: 0, 0
+	index: -1
+caidai4_zhounianheka
+	rotate: false
+	xy: 965, 175
+	size: 23, 13
+	orig: 23, 15
+	offset: 0, 0
+	index: -1
+par_huangxing_zhounianheka
+	rotate: false
+	xy: 891, 0
+	size: 128, 128
+	orig: 128, 128
+	offset: 0, 0
+	index: -1
+caidai12_zhounianheka
+	rotate: false
+	xy: 931, 235
+	size: 47, 57
+	orig: 67, 67
+	offset: 14, 4
+	index: -1

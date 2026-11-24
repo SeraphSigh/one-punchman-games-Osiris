@@ -1,0 +1,13 @@
+
+asset/anim/hongwennvSECOMMON0.png
+size: 1018,981
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/hongwennv_ci
+	rotate: true
+	xy: 0, 333
+	size: 247, 74
+	orig: 247, 74
+	offset: 0, 0
+	index: -1

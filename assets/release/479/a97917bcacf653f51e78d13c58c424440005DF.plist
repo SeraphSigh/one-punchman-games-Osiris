@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>battle60_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1686,1152}</string>
+                <key>spriteSourceSize</key>
+                <string>{1686,1152}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{1686,1152}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>battle60Res_0.png</string>
+            <key>size</key>
+            <string>{2048,2048}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:a42ae33c37ab724b9614c11d0e2919b9:29ba78e90295db02b4efbb911d3b8a3e:ba822b1093317df4f17e4d731b5484ed$</string>
+            <key>textureFileName</key>
+            <string>battle60Res_0.png</string>
+        </dict>
+    </dict>
+</plist>

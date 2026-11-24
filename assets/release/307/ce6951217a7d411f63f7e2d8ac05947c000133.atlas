@@ -1,0 +1,20 @@
+
+asset/anim/manghe1.png
+size: 1017,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lan2_manghejiX
+	rotate: false
+	xy: 0, 0
+	size: 366, 444
+	orig: 366, 444
+	offset: 0, 0
+	index: -1
+lan_manghejiX
+	rotate: false
+	xy: 0, 445
+	size: 366, 444
+	orig: 366, 444
+	offset: 0, 0
+	index: -1

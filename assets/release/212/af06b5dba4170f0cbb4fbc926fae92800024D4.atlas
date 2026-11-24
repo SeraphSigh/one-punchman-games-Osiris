@@ -1,0 +1,550 @@
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_heiguangxuanfengqian_00009
+	rotate: true
+	xy: 447, 801
+	size: 223, 65
+	orig: 265, 95
+	offset: 20, 0
+	index: -1
+global/a_global_heiguangxuanfengqian_00013
+	rotate: true
+	xy: 513, 801
+	size: 223, 61
+	orig: 265, 95
+	offset: 8, 10
+	index: -1
+global/a_global_heiguangxuanfengqian_00011
+	rotate: true
+	xy: 589, 273
+	size: 241, 69
+	orig: 265, 95
+	offset: 10, 2
+	index: -1
+global/a_global_heiguangxuanfengqian_00007
+	rotate: false
+	xy: 601, 147
+	size: 235, 73
+	orig: 265, 95
+	offset: 3, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_heiguangxuanfengqian_00008
+	rotate: true
+	xy: 218, 227
+	size: 219, 71
+	orig: 265, 95
+	offset: 24, 0
+	index: -1
+global/a_global_heiguangxuanfengqian_00015
+	rotate: true
+	xy: 720, 0
+	size: 207, 65
+	orig: 265, 95
+	offset: 3, 10
+	index: -1
+global/a_global_heiguangxuanfengqian_00005
+	rotate: true
+	xy: 786, 0
+	size: 207, 59
+	orig: 265, 95
+	offset: 14, 6
+	index: -1
+global/a_global_heiguangxuanfengqian_00006
+	rotate: true
+	xy: 309, 519
+	size: 227, 69
+	orig: 265, 95
+	offset: 8, 1
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_heiguangxuanfengqian_00016
+	rotate: false
+	xy: 0, 71
+	size: 203, 61
+	orig: 265, 95
+	offset: 9, 10
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_heiguangxuanfengqian_00003
+	rotate: false
+	xy: 235, 981
+	size: 147, 43
+	orig: 265, 95
+	offset: 47, 15
+	index: -1
+
+asset/anim/huoqiu1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_heiguangxuanfengqian_00014
+	rotate: false
+	xy: 624, 696
+	size: 285, 78
+	orig: 325, 116
+	offset: 0, 12
+	index: -1
+
+asset/anim/huoqiu0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_heiguangxuanfengqian_00010
+	rotate: true
+	xy: 776, 99
+	size: 283, 80
+	orig: 325, 116
+	offset: 19, 0
+	index: -1
+global/a_global_heiguangxuanfengqian_00004
+	rotate: true
+	xy: 453, 792
+	size: 229, 64
+	orig: 325, 116
+	offset: 25, 12
+	index: -1
+global/a_global_heiguangxuanfengqian_00002
+	rotate: false
+	xy: 849, 415
+	size: 145, 36
+	orig: 325, 116
+	offset: 77, 24
+	index: -1
+
+asset/anim/huoqiu2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_heiguangxuanfengqian_00012
+	rotate: false
+	xy: 0, 277
+	size: 281, 74
+	orig: 325, 116
+	offset: 1, 13
+	index: -1
+
+asset/anim/leiguangyuanshiSE2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lgys_atk_dian_00001
+	rotate: true
+	xy: 90, 409
+	size: 70, 67
+	orig: 216, 105
+	offset: 0, 11
+	index: -1
+lgys_skill_dian2_00012
+	rotate: false
+	xy: 0, 226
+	size: 162, 90
+	orig: 162, 114
+	offset: 0, 24
+	index: -1
+lgys_atk_dian_00005
+	rotate: true
+	xy: 90, 480
+	size: 82, 65
+	orig: 216, 105
+	offset: 19, 15
+	index: -1
+lgys_atk_dian_00000
+	rotate: true
+	xy: 88, 563
+	size: 70, 65
+	orig: 216, 105
+	offset: 1, 9
+	index: -1
+lgys_atk_dian_00002
+	rotate: false
+	xy: 243, 495
+	size: 84, 69
+	orig: 216, 105
+	offset: 0, 9
+	index: -1
+lgys_skill_suishi_00030
+	rotate: true
+	xy: 956, 286
+	size: 93, 68
+	orig: 219, 94
+	offset: 94, 3
+	index: -1
+lgys_skill_dian2_00008
+	rotate: false
+	xy: 284, 218
+	size: 162, 92
+	orig: 162, 114
+	offset: 0, 22
+	index: -1
+
+asset/anim/leiguangyuanshiSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lgys_skill_leiqiu2_00042
+	rotate: false
+	xy: 0, 0
+	size: 390, 191
+	orig: 396, 213
+	offset: 4, 5
+	index: -1
+lgys_skill_leiqiu2_00025
+	rotate: true
+	xy: 380, 387
+	size: 386, 183
+	orig: 396, 213
+	offset: 6, 6
+	index: -1
+lgys_skill_suishi_00028
+	rotate: false
+	xy: 782, 227
+	size: 197, 82
+	orig: 219, 94
+	offset: 7, 0
+	index: -1
+lgys_skill_leiqiu2_00044
+	rotate: false
+	xy: 391, 0
+	size: 390, 191
+	orig: 396, 213
+	offset: 4, 5
+	index: -1
+lgys_skill_leiqiu2_00047
+	rotate: true
+	xy: 190, 387
+	size: 390, 189
+	orig: 396, 213
+	offset: 4, 5
+	index: -1
+lgys_skill_leiqiu2_00040
+	rotate: true
+	xy: 0, 387
+	size: 390, 189
+	orig: 396, 213
+	offset: 4, 5
+	index: -1
+lgys_skill_leiqiu2_00026
+	rotate: false
+	xy: 0, 192
+	size: 390, 189
+	orig: 396, 213
+	offset: 3, 6
+	index: -1
+lgys_skill_leiqiu2_00027
+	rotate: false
+	xy: 391, 192
+	size: 390, 189
+	orig: 396, 213
+	offset: 4, 5
+	index: -1
+lgys_skill_dian2_00013
+	rotate: false
+	xy: 1017, 0
+	size: 3, 3
+	orig: 162, 114
+	offset: 0, 110
+	index: -1
+lgys_skill_dian2_00010
+	rotate: false
+	xy: 1017, 0
+	size: 3, 3
+	orig: 162, 114
+	offset: 0, 110
+	index: -1
+lgys_skill_suishi_00027
+	rotate: true
+	xy: 770, 770
+	size: 189, 78
+	orig: 219, 94
+	offset: 13, 3
+	index: -1
+lgys_skill_suishi_00026
+	rotate: false
+	xy: 782, 310
+	size: 197, 76
+	orig: 219, 94
+	offset: 20, 0
+	index: -1
+lgys_atk_dian_00006
+	rotate: false
+	xy: 938, 960
+	size: 82, 61
+	orig: 216, 105
+	offset: 26, 17
+	index: -1
+lgys_skill_suishi_00029
+	rotate: false
+	xy: 782, 142
+	size: 199, 84
+	orig: 219, 94
+	offset: 6, 0
+	index: -1
+lgys_atk_dian_00003
+	rotate: false
+	xy: 499, 964
+	size: 82, 59
+	orig: 216, 105
+	offset: 0, 11
+	index: -1
+lgys_atk_dian_00011
+	rotate: false
+	xy: 582, 964
+	size: 78, 59
+	orig: 216, 105
+	offset: 19, 14
+	index: -1
+lgys_skill_leiqiu2_00030
+	rotate: false
+	xy: 0, 778
+	size: 384, 191
+	orig: 396, 213
+	offset: 6, 3
+	index: -1
+lgys_skill_leiqiu2_00054
+	rotate: true
+	xy: 754, 465
+	size: 304, 133
+	orig: 396, 213
+	offset: 40, 33
+	index: -1
+lgys_skill_suishi_00032
+	rotate: false
+	xy: 385, 964
+	size: 113, 60
+	orig: 219, 94
+	offset: 57, 19
+	index: -1
+lgys_skill_suishi_00031
+	rotate: false
+	xy: 872, 960
+	size: 65, 62
+	orig: 219, 94
+	offset: 122, 14
+	index: -1
+lgys_atk_dian_00013
+	rotate: false
+	xy: 733, 964
+	size: 62, 59
+	orig: 216, 105
+	offset: 24, 15
+	index: -1
+lgys_skill_leiqiu2_00032
+	rotate: true
+	xy: 564, 382
+	size: 384, 189
+	orig: 396, 213
+	offset: 6, 6
+	index: -1
+lgys_atk_dian_00014
+	rotate: false
+	xy: 980, 227
+	size: 44, 45
+	orig: 216, 105
+	offset: 30, 17
+	index: -1
+lgys_skill_leiqiu2_00034
+	rotate: false
+	xy: 385, 774
+	size: 384, 189
+	orig: 396, 213
+	offset: 6, 6
+	index: -1
+
+asset/anim/leiguangyuanshiSE1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lgys_skill_leiqiu2_00036
+	rotate: false
+	xy: 0, 0
+	size: 384, 189
+	orig: 396, 213
+	offset: 6, 6
+	index: -1
+lgys_skill_leiqiu2_00046
+	rotate: true
+	xy: 770, 0
+	size: 384, 189
+	orig: 396, 213
+	offset: 6, 6
+	index: -1
+lgys_skill_leiqiu2_00028
+	rotate: true
+	xy: 190, 461
+	size: 384, 187
+	orig: 396, 213
+	offset: 6, 6
+	index: -1
+lgys_skill_dian2_00014
+	rotate: false
+	xy: 770, 385
+	size: 162, 72
+	orig: 162, 114
+	offset: 0, 42
+	index: -1
+lgys_skill_dian2_00015
+	rotate: false
+	xy: 229, 380
+	size: 162, 80
+	orig: 162, 114
+	offset: 0, 34
+	index: -1
+lgys_skill_dian2_00011
+	rotate: true
+	xy: 595, 385
+	size: 162, 90
+	orig: 162, 114
+	offset: 0, 24
+	index: -1
+lgys_atk_dian_00009
+	rotate: true
+	xy: 960, 0
+	size: 82, 61
+	orig: 216, 105
+	offset: 16, 12
+	index: -1
+lgys_atk_dian_00008
+	rotate: true
+	xy: 960, 245
+	size: 74, 61
+	orig: 216, 105
+	offset: 28, 15
+	index: -1
+lgys_atk_dian_00004
+	rotate: true
+	xy: 891, 941
+	size: 82, 69
+	orig: 216, 105
+	offset: 9, 12
+	index: -1
+lgys_atk_dian_00007
+	rotate: true
+	xy: 960, 378
+	size: 82, 57
+	orig: 216, 105
+	offset: 19, 20
+	index: -1
+lgys_skill_leiqiu2_00048
+	rotate: true
+	xy: 0, 461
+	size: 384, 189
+	orig: 396, 213
+	offset: 6, 6
+	index: -1
+lgys_skill_dian2_00009
+	rotate: true
+	xy: 682, 643
+	size: 162, 114
+	orig: 162, 114
+	offset: 0, 0
+	index: -1
+lgys_skill_leiqiu2_00052
+	rotate: false
+	xy: 566, 838
+	size: 324, 181
+	orig: 396, 213
+	offset: 38, 11
+	index: -1
+lgys_skill_leiqiu2_00051
+	rotate: false
+	xy: 686, 461
+	size: 334, 181
+	orig: 396, 213
+	offset: 32, 11
+	index: -1
+lgys_skill_leiqiu2_00050
+	rotate: false
+	xy: 0, 190
+	size: 376, 189
+	orig: 396, 213
+	offset: 10, 7
+	index: -1
+lgys_skill_leiqiu2_00038
+	rotate: false
+	xy: 385, 0
+	size: 384, 189
+	orig: 396, 213
+	offset: 6, 6
+	index: -1
+lgys_skill_suishi_00033
+	rotate: false
+	xy: 0, 385
+	size: 105, 74
+	orig: 219, 94
+	offset: 50, 7
+	index: -1
+lgys_skill_suishi_00034
+	rotate: false
+	xy: 377, 190
+	size: 165, 76
+	orig: 219, 94
+	offset: 49, 8
+	index: -1
+lgys_skill_suishi_00035
+	rotate: false
+	xy: 595, 190
+	size: 167, 76
+	orig: 219, 94
+	offset: 45, 11
+	index: -1
+lgys_skill_leiqiu2_00049
+	rotate: true
+	xy: 378, 461
+	size: 384, 187
+	orig: 396, 213
+	offset: 6, 6
+	index: -1
+lgys_skill_leiqiu2_00024
+	rotate: true
+	xy: 0, 846
+	size: 178, 103
+	orig: 396, 213
+	offset: 109, 30
+	index: -1
+lgys_atk_dian_00012
+	rotate: true
+	xy: 960, 166
+	size: 78, 61
+	orig: 216, 105
+	offset: 14, 14
+	index: -1
+lgys_atk_dian_00010
+	rotate: true
+	xy: 960, 83
+	size: 82, 61
+	orig: 216, 105
+	offset: 17, 13
+	index: -1
+lgys_skill_leiqiu2_00053
+	rotate: false
+	xy: 104, 846
+	size: 316, 171
+	orig: 396, 213
+	offset: 41, 17
+	index: -1

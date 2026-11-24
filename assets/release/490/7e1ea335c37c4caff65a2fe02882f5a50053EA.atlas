@@ -1,0 +1,1188 @@
+
+asset/anim/suonike2SECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/snk2_common_xiaoshiyanwu_00027
+	rotate: false
+	xy: 273, 396
+	size: 162, 156
+	orig: 214, 214
+	offset: 22, 28
+	index: -1
+common/snk2_common_yanqianceng_00025
+	rotate: true
+	xy: 396, 553
+	size: 135, 39
+	orig: 203, 143
+	offset: 17, 72
+	index: -1
+common/snk2_common_xiaoshiyanwu_00029
+	rotate: true
+	xy: 0, 396
+	size: 156, 96
+	orig: 214, 214
+	offset: 29, 51
+	index: -1
+common/snk2_common_yanqianceng_00020
+	rotate: true
+	xy: 872, 284
+	size: 193, 137
+	orig: 203, 143
+	offset: 6, 6
+	index: -1
+common/snk2_common_yanqianceng_00021
+	rotate: false
+	xy: 674, 804
+	size: 193, 133
+	orig: 203, 143
+	offset: 6, 10
+	index: -1
+common/snk2_common_daoguang_00053
+	rotate: false
+	xy: 171, 509
+	size: 100, 268
+	orig: 346, 346
+	offset: 15, 34
+	index: -1
+common/snk2_common_daoguang_00051
+	rotate: false
+	xy: 273, 892
+	size: 122, 132
+	orig: 346, 346
+	offset: 23, 25
+	index: -1
+common/snk2_common_daoguang_00054
+	rotate: true
+	xy: 0, 804
+	size: 220, 272
+	orig: 346, 346
+	offset: 16, 53
+	index: -1
+common/snk2_jianshe_00040
+	rotate: false
+	xy: 435, 804
+	size: 238, 216
+	orig: 248, 216
+	offset: 10, 0
+	index: -1
+common/snk2_common_heiyinger_00064
+	rotate: true
+	xy: 0, 553
+	size: 250, 170
+	orig: 308, 196
+	offset: 29, 19
+	index: -1
+common/snk2_common_yanqianceng_00013
+	rotate: false
+	xy: 872, 0
+	size: 139, 89
+	orig: 203, 143
+	offset: 5, 17
+	index: -1
+common/snk2_common_yanqianceng_00019
+	rotate: true
+	xy: 872, 90
+	size: 193, 137
+	orig: 203, 143
+	offset: 6, 6
+	index: -1
+common/snk2_common_cuantianhou_00069
+	rotate: false
+	xy: 436, 390
+	size: 433, 413
+	orig: 509, 443
+	offset: 0, 13
+	index: -1
+common/snk2_common_cuantianhou_00068
+	rotate: false
+	xy: 436, 0
+	size: 435, 389
+	orig: 509, 443
+	offset: 0, 15
+	index: -1
+common/snk2_common_cuantianhou_00067
+	rotate: false
+	xy: 0, 0
+	size: 435, 395
+	orig: 509, 443
+	offset: 0, 10
+	index: -1
+common/snk2_common_daoguang_00063
+	rotate: false
+	xy: 171, 778
+	size: 86, 22
+	orig: 346, 346
+	offset: 130, 19
+	index: -1
+common/snk2dz2
+	rotate: false
+	xy: 870, 478
+	size: 154, 206
+	orig: 154, 206
+	offset: 0, 0
+	index: -1
+common/snk2dz3
+	rotate: true
+	xy: 97, 396
+	size: 112, 174
+	orig: 128, 174
+	offset: 0, 0
+	index: -1
+common/snk2_common_yanqianceng_00017
+	rotate: true
+	xy: 272, 553
+	size: 191, 123
+	orig: 203, 143
+	offset: 6, 3
+	index: -1
+common/snk2_common_xiaoshiyanwu_00028
+	rotate: false
+	xy: 868, 892
+	size: 136, 122
+	orig: 214, 214
+	offset: 39, 43
+	index: -1
+
+asset/anim/suonike2SECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/snk2_common_cuantianhou_00061
+	rotate: false
+	xy: 510, 0
+	size: 509, 203
+	orig: 509, 443
+	offset: 0, 0
+	index: -1
+common/snk2_common_daoguang_00056
+	rotate: false
+	xy: 352, 744
+	size: 310, 272
+	orig: 346, 346
+	offset: 16, 56
+	index: -1
+common/snk2_common_daoguang_00055
+	rotate: false
+	xy: 718, 744
+	size: 306, 260
+	orig: 346, 346
+	offset: 15, 68
+	index: -1
+common/snk2_common_xiaoshiyanwu_00033
+	rotate: false
+	xy: 946, 683
+	size: 46, 46
+	orig: 214, 214
+	offset: 82, 62
+	index: -1
+common/snk2_common_xiaoshiyanwu_00032
+	rotate: true
+	xy: 891, 683
+	size: 56, 54
+	orig: 214, 214
+	offset: 77, 59
+	index: -1
+common/snk2_common_heiyingyi_00047
+	rotate: false
+	xy: 695, 662
+	size: 297, 20
+	orig: 319, 56
+	offset: 22, 22
+	index: -1
+common/snk2_common_heiyingyi_00046
+	rotate: true
+	xy: 996, 438
+	size: 305, 24
+	orig: 319, 56
+	offset: 14, 19
+	index: -1
+common/snk2_common_cuantianhou_00066
+	rotate: true
+	xy: 0, 548
+	size: 459, 351
+	orig: 509, 443
+	offset: 0, 13
+	index: -1
+common/snk2_common_cuantianhou_00065
+	rotate: false
+	xy: 0, 0
+	size: 509, 317
+	orig: 509, 443
+	offset: 0, 0
+	index: -1
+common/snk2_common_cuantianhou_00063
+	rotate: false
+	xy: 0, 318
+	size: 501, 229
+	orig: 509, 443
+	offset: 8, 0
+	index: -1
+common/snk2_common_cuantianhou_00064
+	rotate: false
+	xy: 502, 438
+	size: 493, 223
+	orig: 509, 443
+	offset: 16, 0
+	index: -1
+common/snk2_common_heiyingyi_00041
+	rotate: true
+	xy: 663, 741
+	size: 283, 54
+	orig: 319, 56
+	offset: 0, 0
+	index: -1
+common/snk2_common_xiaoshiyanwu_00031
+	rotate: true
+	xy: 891, 683
+	size: 56, 54
+	orig: 214, 214
+	offset: 77, 59
+	index: -1
+common/snk2_common_cuantianhou_00062
+	rotate: false
+	xy: 510, 204
+	size: 501, 233
+	orig: 509, 443
+	offset: 8, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_004
+	rotate: true
+	xy: 972, 459
+	size: 105, 52
+	orig: 223, 90
+	offset: 82, 15
+	index: -1
+global/a_global_geliuganxiupu_suishi_002
+	rotate: false
+	xy: 450, 784
+	size: 85, 48
+	orig: 223, 90
+	offset: 97, 15
+	index: -1
+global/a_global_geliuganxiupu_suishi_008
+	rotate: true
+	xy: 735, 522
+	size: 131, 48
+	orig: 223, 90
+	offset: 62, 17
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_123
+	rotate: false
+	xy: 580, 859
+	size: 149, 98
+	orig: 149, 116
+	offset: 0, 18
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_009
+	rotate: false
+	xy: 146, 815
+	size: 141, 44
+	orig: 223, 90
+	offset: 55, 18
+	index: -1
+
+asset/anim/suonike2SEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/snk2_super_guangshu_00097
+	rotate: true
+	xy: 255, 546
+	size: 251, 132
+	orig: 263, 136
+	offset: 6, 4
+	index: -1
+
+asset/anim/suonike2SEMAX3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/snk2_super_guangshu_00099
+	rotate: true
+	xy: 262, 465
+	size: 243, 132
+	orig: 263, 136
+	offset: 9, 4
+	index: -1
+max/snk2_super_guangdan_00096
+	rotate: true
+	xy: 894, 824
+	size: 107, 108
+	orig: 107, 108
+	offset: 0, 0
+	index: -1
+max/snk2_super_guangshu_00103
+	rotate: true
+	xy: 219, 709
+	size: 235, 128
+	orig: 263, 136
+	offset: 13, 6
+	index: -1
+max/snk2_super_guangshu_00101
+	rotate: false
+	xy: 502, 598
+	size: 241, 130
+	orig: 263, 136
+	offset: 10, 6
+	index: -1
+max/snk2_super_guangshu_00100
+	rotate: false
+	xy: 502, 467
+	size: 241, 130
+	orig: 263, 136
+	offset: 10, 6
+	index: -1
+max/snk2_super_guangshu_00104
+	rotate: true
+	xy: 728, 729
+	size: 227, 92
+	orig: 263, 136
+	offset: 18, 6
+	index: -1
+
+asset/anim/suonike2SEMAX2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/snk2_super_guangshu_00098
+	rotate: false
+	xy: 740, 858
+	size: 243, 132
+	orig: 263, 136
+	offset: 9, 4
+	index: -1
+max/snk2_super_guangshu_00105
+	rotate: false
+	xy: 0, 921
+	size: 225, 94
+	orig: 263, 136
+	offset: 18, 6
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_011
+	rotate: false
+	xy: 482, 396
+	size: 159, 36
+	orig: 223, 90
+	offset: 43, 17
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_118
+	rotate: false
+	xy: 879, 127
+	size: 145, 108
+	orig: 149, 116
+	offset: 1, 5
+	index: -1
+global/a_global_geliuganxiupu_suishi_006
+	rotate: false
+	xy: 512, 974
+	size: 123, 50
+	orig: 223, 90
+	offset: 68, 16
+	index: -1
+global/a_global_geliuganxiupu_suishi_007
+	rotate: false
+	xy: 512, 974
+	size: 123, 50
+	orig: 223, 90
+	offset: 68, 16
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_120
+	rotate: true
+	xy: 143, 875
+	size: 149, 108
+	orig: 149, 116
+	offset: 0, 8
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_121
+	rotate: true
+	xy: 252, 875
+	size: 149, 106
+	orig: 149, 116
+	offset: 0, 10
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_xulixingguang_05
+	rotate: false
+	xy: 583, 0
+	size: 141, 136
+	orig: 141, 136
+	offset: 0, 0
+	index: -1
+global/a_global_dujiaoxian_xulixingguang_04
+	rotate: false
+	xy: 441, 0
+	size: 141, 136
+	orig: 141, 136
+	offset: 0, 0
+	index: -1
+global/a_global_dujiaoxian_xulixingguang_06
+	rotate: false
+	xy: 725, 0
+	size: 141, 136
+	orig: 141, 136
+	offset: 0, 0
+	index: -1
+global/a_global_dujiaoxian_xulixingguang_01
+	rotate: false
+	xy: 889, 334
+	size: 125, 122
+	orig: 141, 136
+	offset: 10, 3
+	index: -1
+global/a_global_dujiaoxian_xulixingguang_03
+	rotate: false
+	xy: 299, 0
+	size: 141, 136
+	orig: 141, 136
+	offset: 0, 0
+	index: -1
+global/a_global_dujiaoxian_xulixingguang_02
+	rotate: false
+	xy: 157, 0
+	size: 141, 136
+	orig: 141, 136
+	offset: 0, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_113
+	rotate: false
+	xy: 393, 412
+	size: 139, 108
+	orig: 149, 116
+	offset: 2, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_112
+	rotate: true
+	xy: 414, 754
+	size: 129, 90
+	orig: 149, 116
+	offset: 12, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_115
+	rotate: false
+	xy: 585, 238
+	size: 141, 112
+	orig: 149, 116
+	offset: 2, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_114
+	rotate: false
+	xy: 727, 239
+	size: 141, 110
+	orig: 149, 116
+	offset: 2, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_116
+	rotate: false
+	xy: 870, 125
+	size: 143, 112
+	orig: 149, 116
+	offset: 2, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_122
+	rotate: false
+	xy: 585, 137
+	size: 149, 100
+	orig: 149, 116
+	offset: 0, 16
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_xulixingguang_00
+	rotate: false
+	xy: 568, 209
+	size: 89, 88
+	orig: 141, 136
+	offset: 28, 21
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_111
+	rotate: false
+	xy: 110, 244
+	size: 93, 66
+	orig: 149, 116
+	offset: 31, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_110
+	rotate: false
+	xy: 774, 632
+	size: 73, 44
+	orig: 149, 116
+	offset: 30, 0
+	index: -1
+global/a_global_geliuganxiupu_suishi_003
+	rotate: true
+	xy: 391, 414
+	size: 95, 50
+	orig: 223, 90
+	offset: 90, 15
+	index: -1
+global/a_global_geliuganxiupu_suishi_001
+	rotate: false
+	xy: 785, 587
+	size: 73, 44
+	orig: 223, 90
+	offset: 105, 15
+	index: -1
+
+asset/anim/suonike2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/snk2_common_yanqianceng_00022
+	rotate: true
+	xy: 592, 316
+	size: 193, 133
+	orig: 203, 143
+	offset: 7, 10
+	index: -1
+common/snk2_common_heiyinger_00059
+	rotate: false
+	xy: 726, 222
+	size: 296, 160
+	orig: 308, 196
+	offset: 10, 0
+	index: -1
+common/snk2_jianshe_00043
+	rotate: false
+	xy: 729, 842
+	size: 234, 182
+	orig: 248, 216
+	offset: 12, 12
+	index: -1
+common/snk2_jianshe_00042
+	rotate: false
+	xy: 237, 808
+	size: 236, 216
+	orig: 248, 216
+	offset: 11, 0
+	index: -1
+common/snk2_jianshe_00041
+	rotate: false
+	xy: 0, 808
+	size: 236, 216
+	orig: 248, 216
+	offset: 12, 0
+	index: -1
+common/snk2_common_heiyingyi_00040
+	rotate: true
+	xy: 967, 747
+	size: 233, 54
+	orig: 319, 56
+	offset: 0, 0
+	index: -1
+common/snk2_common_cuantianhou_00060
+	rotate: true
+	xy: 388, 406
+	size: 351, 203
+	orig: 509, 443
+	offset: 37, 0
+	index: -1
+common/snk2_common_cuantianhou_00070
+	rotate: false
+	xy: 0, 0
+	size: 391, 405
+	orig: 509, 443
+	offset: 9, 21
+	index: -1
+common/snk2_common_cuantianhou_00071
+	rotate: false
+	xy: 0, 406
+	size: 387, 401
+	orig: 509, 443
+	offset: 12, 23
+	index: -1
+common/snk2_common_cuantianhou_00072
+	rotate: false
+	xy: 392, 0
+	size: 333, 315
+	orig: 509, 443
+	offset: 53, 26
+	index: -1
+common/snk2_common_daoguang_00052
+	rotate: true
+	xy: 726, 383
+	size: 126, 244
+	orig: 346, 346
+	offset: 19, 23
+	index: -1
+common/snk2_common_heiyinger_00062
+	rotate: true
+	xy: 560, 758
+	size: 256, 168
+	orig: 308, 196
+	offset: 13, 19
+	index: -1
+common/snk2_common_heiyinger_00060
+	rotate: false
+	xy: 726, 55
+	size: 298, 166
+	orig: 308, 196
+	offset: 7, 0
+	index: -1
+common/snk2_common_heiyinger_00065
+	rotate: true
+	xy: 592, 510
+	size: 244, 166
+	orig: 308, 196
+	offset: 28, 20
+	index: -1
+common/snk2_common_heiyingyi_00042
+	rotate: false
+	xy: 729, 0
+	size: 293, 54
+	orig: 319, 56
+	offset: 2, 0
+	index: -1
+common/snk2dz1
+	rotate: true
+	xy: 759, 510
+	size: 164, 208
+	orig: 164, 208
+	offset: 0, 0
+	index: -1
+
+asset/anim/suonike2SESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/snk2_atk_heilei_00077
+	rotate: false
+	xy: 134, 772
+	size: 48, 139
+	orig: 50, 181
+	offset: 2, 13
+	index: -1
+skill/snk2_atk_heilei_00076
+	rotate: false
+	xy: 939, 904
+	size: 34, 41
+	orig: 50, 181
+	offset: 10, 33
+	index: -1
+skill/snk2_atk_cihua_00085
+	rotate: false
+	xy: 0, 420
+	size: 211, 145
+	orig: 247, 219
+	offset: 4, 6
+	index: -1
+skill/snk2_skil1cu_00040
+	rotate: true
+	xy: 836, 825
+	size: 119, 32
+	orig: 145, 50
+	offset: 12, 7
+	index: -1
+skill/snk2_skil1cu_00041
+	rotate: true
+	xy: 997, 0
+	size: 113, 26
+	orig: 145, 50
+	offset: 12, 10
+	index: -1
+skill/snk2_skil1cu_00042
+	rotate: true
+	xy: 997, 114
+	size: 107, 20
+	orig: 145, 50
+	offset: 12, 13
+	index: -1
+skill/snk2_skil1cu_00043
+	rotate: true
+	xy: 978, 284
+	size: 101, 14
+	orig: 145, 50
+	offset: 12, 16
+	index: -1
+skill/snk2_skil1cu_00044
+	rotate: true
+	xy: 226, 208
+	size: 93, 8
+	orig: 145, 50
+	offset: 14, 19
+	index: -1
+skill/snk2_atk_heilei_00078
+	rotate: false
+	xy: 412, 453
+	size: 50, 161
+	orig: 50, 181
+	offset: 0, 4
+	index: -1
+skill/snk2_atk_qixuan_00079
+	rotate: false
+	xy: 455, 660
+	size: 215, 101
+	orig: 229, 147
+	offset: 7, 13
+	index: -1
+skill/snk2_atk_qixuan_00078
+	rotate: true
+	xy: 813, 418
+	size: 209, 69
+	orig: 229, 147
+	offset: 9, 16
+	index: -1
+skill/snk2_atk_cihua_00084
+	rotate: true
+	xy: 700, 204
+	size: 213, 189
+	orig: 247, 219
+	offset: 4, 7
+	index: -1
+skill/snk2_atk_qixuan_00077
+	rotate: true
+	xy: 997, 222
+	size: 89, 21
+	orig: 229, 147
+	offset: 18, 18
+	index: -1
+skill/snk2_atk_heilei_00083
+	rotate: false
+	xy: 799, 825
+	size: 36, 165
+	orig: 50, 181
+	offset: 11, 6
+	index: -1
+skill/snk2_atk_heilei_00080
+	rotate: false
+	xy: 978, 590
+	size: 46, 169
+	orig: 50, 181
+	offset: 2, 3
+	index: -1
+skill/snk2_atk_heilei_00081
+	rotate: false
+	xy: 412, 289
+	size: 50, 163
+	orig: 50, 181
+	offset: 0, 5
+	index: -1
+skill/snk2_atk_heilei_00086
+	rotate: false
+	xy: 412, 615
+	size: 42, 171
+	orig: 50, 181
+	offset: 8, 8
+	index: -1
+skill/snk2_atk_heilei_00084
+	rotate: false
+	xy: 346, 662
+	size: 40, 169
+	orig: 50, 181
+	offset: 10, 5
+	index: -1
+skill/snk2_atk_cihua_00078
+	rotate: false
+	xy: 468, 204
+	size: 231, 187
+	orig: 247, 219
+	offset: 13, 16
+	index: -1
+skill/snk2_atk_cihua_00079
+	rotate: false
+	xy: 240, 0
+	size: 227, 211
+	orig: 247, 219
+	offset: 15, 2
+	index: -1
+skill/snk2_atk_cihua_00076
+	rotate: true
+	xy: 596, 848
+	size: 171, 137
+	orig: 247, 219
+	offset: 57, 26
+	index: -1
+skill/snk2_atk_cihua_00077
+	rotate: false
+	xy: 226, 302
+	size: 185, 169
+	orig: 247, 219
+	offset: 58, 18
+	index: -1
+skill/snk2_atk_qixuan_00080
+	rotate: true
+	xy: 677, 632
+	size: 215, 121
+	orig: 229, 147
+	offset: 7, 12
+	index: -1
+skill/snk2_atk_qixuan_00081
+	rotate: false
+	xy: 463, 392
+	size: 215, 133
+	orig: 229, 147
+	offset: 7, 12
+	index: -1
+skill/snk2_atk_qixuan_00082
+	rotate: true
+	xy: 212, 472
+	size: 215, 133
+	orig: 229, 147
+	offset: 7, 11
+	index: -1
+skill/snk2_atk_qixuan_00083
+	rotate: true
+	xy: 0, 566
+	size: 213, 133
+	orig: 229, 147
+	offset: 8, 10
+	index: -1
+skill/snk2_atk_qixuan_00084
+	rotate: true
+	xy: 679, 418
+	size: 213, 133
+	orig: 229, 147
+	offset: 8, 10
+	index: -1
+skill/snk2_atk_qixuan_00085
+	rotate: false
+	xy: 463, 526
+	size: 213, 133
+	orig: 229, 147
+	offset: 8, 9
+	index: -1
+skill/snk2_atk_qixuan_00086
+	rotate: true
+	xy: 208, 688
+	size: 211, 127
+	orig: 229, 147
+	offset: 9, 9
+	index: -1
+skill/snk2_atk_qixuan_00087
+	rotate: true
+	xy: 0, 780
+	size: 209, 125
+	orig: 229, 147
+	offset: 10, 10
+	index: -1
+skill/snk2_atk_qixuan_00088
+	rotate: true
+	xy: 134, 566
+	size: 205, 73
+	orig: 229, 147
+	offset: 13, 62
+	index: -1
+skill/snk2_atk_qixuan_00089
+	rotate: true
+	xy: 346, 472
+	size: 189, 65
+	orig: 229, 147
+	offset: 28, 67
+	index: -1
+skill/snk2_atk_cihua_00081
+	rotate: false
+	xy: 0, 0
+	size: 239, 207
+	orig: 247, 219
+	offset: 1, 4
+	index: -1
+skill/snk2_atk_cihua_00080
+	rotate: false
+	xy: 0, 208
+	size: 225, 211
+	orig: 247, 219
+	offset: 17, 3
+	index: -1
+skill/snk2_atk_cihua_00083
+	rotate: false
+	xy: 684, 0
+	size: 215, 203
+	orig: 247, 219
+	offset: 5, 6
+	index: -1
+skill/snk2_atk_cihua_00082
+	rotate: false
+	xy: 468, 0
+	size: 215, 203
+	orig: 247, 219
+	offset: 4, 5
+	index: -1
+skill/snk2_skil1cu_00039
+	rotate: false
+	xy: 869, 871
+	size: 93, 32
+	orig: 145, 50
+	offset: 40, 7
+	index: -1
+skill/snk2_skil1cu_00038
+	rotate: false
+	xy: 869, 904
+	size: 69, 34
+	orig: 145, 50
+	offset: 66, 6
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/suonike2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/snk2_common_xiaoshiyanwu_00030
+	rotate: false
+	xy: 722, 536
+	size: 176, 108
+	orig: 214, 214
+	offset: 19, 43
+	index: -1
+common/snk2_jianshe_00047
+	rotate: true
+	xy: 907, 534
+	size: 204, 112
+	orig: 248, 216
+	offset: 29, 18
+	index: -1
+common/snk2_jianshe_00046
+	rotate: false
+	xy: 192, 612
+	size: 206, 118
+	orig: 248, 216
+	offset: 30, 17
+	index: -1
+common/snk2_jianshe_00045
+	rotate: true
+	xy: 543, 739
+	size: 222, 178
+	orig: 248, 216
+	offset: 17, 13
+	index: -1
+common/snk2_jianshe_00044
+	rotate: true
+	xy: 364, 739
+	size: 224, 178
+	orig: 248, 216
+	offset: 18, 12
+	index: -1
+common/snk2_common_xiaoshiyanwu_00026
+	rotate: false
+	xy: 399, 511
+	size: 198, 190
+	orig: 214, 214
+	offset: 4, 13
+	index: -1
+common/snk2_common_heiyingyi_00044
+	rotate: false
+	xy: 630, 0
+	size: 313, 40
+	orig: 319, 56
+	offset: 6, 6
+	index: -1
+common/snk2_common_daoguang_00057
+	rotate: false
+	xy: 315, 0
+	size: 314, 288
+	orig: 346, 346
+	offset: 16, 41
+	index: -1
+common/snk2_common_daoguang_00058
+	rotate: false
+	xy: 0, 0
+	size: 314, 302
+	orig: 346, 346
+	offset: 16, 27
+	index: -1
+common/snk2_common_daoguang_00059
+	rotate: false
+	xy: 0, 303
+	size: 310, 308
+	orig: 346, 346
+	offset: 20, 20
+	index: -1
+common/snk2_common_yanqianceng_00023
+	rotate: true
+	xy: 598, 536
+	size: 193, 103
+	orig: 203, 143
+	offset: 7, 10
+	index: -1
+common/snk2_common_heiyingyi_00045
+	rotate: false
+	xy: 315, 289
+	size: 311, 32
+	orig: 319, 56
+	offset: 8, 14
+	index: -1
+common/snk2_common_heiyinger_00063
+	rotate: true
+	xy: 193, 739
+	size: 242, 170
+	orig: 308, 196
+	offset: 21, 19
+	index: -1
+common/snk2_common_heiyinger_00061
+	rotate: false
+	xy: 620, 377
+	size: 286, 158
+	orig: 308, 196
+	offset: 7, 15
+	index: -1
+common/snk2_common_heiyingyi_00043
+	rotate: false
+	xy: 620, 334
+	size: 305, 42
+	orig: 319, 56
+	offset: 2, 5
+	index: -1
+common/snk2_jianshe_00039
+	rotate: true
+	xy: 0, 739
+	size: 242, 192
+	orig: 248, 216
+	offset: 6, 7
+	index: -1
+common/snk2_common_heiyingyi_00039
+	rotate: true
+	xy: 943, 171
+	size: 185, 54
+	orig: 319, 56
+	offset: 0, 0
+	index: -1
+common/snk2_common_yanqianceng_00016
+	rotate: false
+	xy: 0, 612
+	size: 191, 119
+	orig: 203, 143
+	offset: 5, 2
+	index: -1
+common/snk2_common_yanqianceng_00015
+	rotate: true
+	xy: 897, 739
+	size: 191, 111
+	orig: 203, 143
+	offset: 4, 4
+	index: -1
+common/snk2_common_yanqianceng_00014
+	rotate: false
+	xy: 722, 755
+	size: 171, 103
+	orig: 203, 143
+	offset: 3, 14
+	index: -1
+common/snk2_common_daoguang_00062
+	rotate: true
+	xy: 926, 357
+	size: 176, 90
+	orig: 346, 346
+	offset: 130, 16
+	index: -1
+common/snk2_common_daoguang_00061
+	rotate: true
+	xy: 311, 322
+	size: 188, 308
+	orig: 346, 346
+	offset: 141, 16
+	index: -1
+common/snk2_common_daoguang_00060
+	rotate: true
+	xy: 630, 41
+	size: 292, 312
+	orig: 346, 346
+	offset: 38, 16
+	index: -1
+common/snk2dz4
+	rotate: false
+	xy: 944, 0
+	size: 68, 170
+	orig: 86, 170
+	offset: 18, 0
+	index: -1
+
+asset/anim/suonike2SECOMMON4.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/snk2_common_yanqianceng_00024
+	rotate: false
+	xy: 0, 0
+	size: 193, 103
+	orig: 203, 143
+	offset: 7, 10
+	index: -1
+common/snk2_common_yanqianceng_00018
+	rotate: false
+	xy: 0, 104
+	size: 191, 133
+	orig: 203, 143
+	offset: 7, 8
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_010
+	rotate: false
+	xy: 334, 980
+	size: 151, 44
+	orig: 223, 90
+	offset: 48, 15
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_117
+	rotate: false
+	xy: 700, 745
+	size: 145, 114
+	orig: 149, 116
+	offset: 0, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_119
+	rotate: true
+	xy: 735, 426
+	size: 147, 110
+	orig: 149, 116
+	offset: 0, 6
+	index: -1
+global/a_global_geliuganxiupu_suishi_005
+	rotate: false
+	xy: 584, 668
+	size: 115, 52
+	orig: 223, 90
+	offset: 74, 16
+	index: -1

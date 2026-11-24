@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>xinnianzhandouchangjingdenglong.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{37,128}</string>
+                <key>spriteSourceSize</key>
+                <string>{37,128}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{37,128}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>xinniantiaozhanchangjingdenglong0.png</string>
+            <key>size</key>
+            <string>{37,128}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:2d1058615e1260623ae2bba915c85376:d8f0438a5a322ff7255bf1a3e99db4f0:afb3054005537d462f1482c12466bf0a$</string>
+            <key>textureFileName</key>
+            <string>xinniantiaozhanchangjingdenglong0.png</string>
+        </dict>
+    </dict>
+</plist>

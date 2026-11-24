@@ -1,0 +1,278 @@
+
+asset/anim/shuilongSECOMMON0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/shuilong_t006
+	rotate: false
+	xy: 0, 131
+	size: 227, 80
+	orig: 279, 140
+	offset: 38, 13
+	index: -1
+common/shuilong_t007
+	rotate: true
+	xy: 437, 194
+	size: 201, 72
+	orig: 279, 140
+	offset: 64, 19
+	index: -1
+common/shuilong_t004
+	rotate: false
+	xy: 240, 0
+	size: 239, 108
+	orig: 279, 140
+	offset: 25, 8
+	index: -1
+common/shuilong_t005
+	rotate: false
+	xy: 240, 109
+	size: 237, 84
+	orig: 279, 140
+	offset: 28, 10
+	index: -1
+common/shuilong_t002
+	rotate: false
+	xy: 0, 0
+	size: 239, 130
+	orig: 279, 140
+	offset: 23, 5
+	index: -1
+common/shuilong_t001
+	rotate: false
+	xy: 90, 212
+	size: 135, 86
+	orig: 279, 140
+	offset: 25, 49
+	index: -1
+common/shuilong_t008
+	rotate: true
+	xy: 0, 396
+	size: 107, 64
+	orig: 279, 140
+	offset: 155, 27
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0001
+	rotate: true
+	xy: 639, 329
+	size: 98, 27
+	orig: 280, 73
+	offset: 89, 18
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0010
+	rotate: false
+	xy: 836, 891
+	size: 188, 63
+	orig: 280, 73
+	offset: 43, 7
+	index: -1
+global/a_global_texiao34_shenhaiwang_0009
+	rotate: false
+	xy: 840, 0
+	size: 184, 63
+	orig: 280, 73
+	offset: 46, 7
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0005
+	rotate: false
+	xy: 846, 78
+	size: 178, 59
+	orig: 280, 73
+	offset: 49, 9
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0011
+	rotate: false
+	xy: 799, 224
+	size: 190, 65
+	orig: 280, 73
+	offset: 42, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0012
+	rotate: false
+	xy: 400, 305
+	size: 192, 65
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0013
+	rotate: false
+	xy: 799, 290
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0014
+	rotate: false
+	xy: 593, 319
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 5
+	index: -1
+global/a_global_texiao34_shenhaiwang_0007
+	rotate: false
+	xy: 370, 519
+	size: 182, 61
+	orig: 280, 73
+	offset: 47, 8
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0003
+	rotate: false
+	xy: 276, 251
+	size: 156, 53
+	orig: 280, 73
+	offset: 59, 11
+	index: -1
+global/a_global_texiao34_shenhaiwang_0002
+	rotate: false
+	xy: 889, 238
+	size: 126, 47
+	orig: 280, 73
+	offset: 71, 12
+	index: -1
+
+asset/anim/shuilongSESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/shuilong_z_00043
+	rotate: false
+	xy: 638, 63
+	size: 206, 116
+	orig: 286, 128
+	offset: 48, 12
+	index: -1
+skill/shuilong_z_00042
+	rotate: false
+	xy: 636, 180
+	size: 202, 88
+	orig: 286, 128
+	offset: 60, 7
+	index: -1
+skill/shuilong_z_00041
+	rotate: false
+	xy: 259, 313
+	size: 90, 58
+	orig: 286, 128
+	offset: 162, 0
+	index: -1
+skill/shuilong_z_00040
+	rotate: true
+	xy: 630, 488
+	size: 54, 22
+	orig: 286, 128
+	offset: 197, 0
+	index: -1
+skill/shuilong_z_00050
+	rotate: false
+	xy: 182, 591
+	size: 64, 22
+	orig: 286, 128
+	offset: 84, 106
+	index: -1
+skill/shuilong_z_00046
+	rotate: true
+	xy: 555, 201
+	size: 126, 78
+	orig: 286, 128
+	offset: 14, 50
+	index: -1
+skill/shuilong_z_00045
+	rotate: true
+	xy: 257, 456
+	size: 130, 92
+	orig: 286, 128
+	offset: 25, 36
+	index: -1
+skill/shuilong_z_00044
+	rotate: false
+	xy: 0, 437
+	size: 182, 106
+	orig: 286, 128
+	offset: 36, 22
+	index: -1
+skill/shuilong_z_00049
+	rotate: true
+	xy: 620, 794
+	size: 108, 34
+	orig: 286, 128
+	offset: 39, 94
+	index: -1
+skill/shuilong_z_00048
+	rotate: false
+	xy: 878, 670
+	size: 128, 46
+	orig: 286, 128
+	offset: 17, 82
+	index: -1
+skill/shuilong_z_00047
+	rotate: true
+	xy: 238, 878
+	size: 128, 62
+	orig: 286, 128
+	offset: 14, 66
+	index: -1
+skill/shuilong_t003
+	rotate: false
+	xy: 0, 134
+	size: 258, 130
+	orig: 300, 150
+	offset: 25, 7
+	index: -1
+
+asset/anim/huoqiu0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_longjuan_dilie
+	rotate: false
+	xy: 0, 0
+	size: 440, 134
+	orig: 440, 134
+	offset: 0, 0
+	index: -1
+
+asset/anim/shuilongSEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shuilongjuexingji_leiwen_00047
+	rotate: true
+	xy: 529, 254
+	size: 409, 161
+	orig: 425, 191
+	offset: 15, 10
+	index: -1

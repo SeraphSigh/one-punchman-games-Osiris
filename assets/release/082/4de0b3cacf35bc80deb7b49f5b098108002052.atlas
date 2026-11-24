@@ -1,0 +1,489 @@
+
+asset/anim/KINGSEATTACK0.png
+size: 977,503
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/king_baiyan_043
+	rotate: true
+	xy: 917, 183
+	size: 92, 54
+	orig: 162, 112
+	offset: 37, 23
+	index: -1
+attack/king_baiyan_045
+	rotate: true
+	xy: 577, 241
+	size: 122, 82
+	orig: 162, 112
+	offset: 16, 11
+	index: -1
+attack/king_baiyan_046
+	rotate: true
+	xy: 917, 276
+	size: 92, 54
+	orig: 162, 112
+	offset: 37, 25
+	index: -1
+attack/king_baiyan_044
+	rotate: false
+	xy: 774, 183
+	size: 142, 104
+	orig: 162, 112
+	offset: 2, 0
+	index: -1
+attack/yan
+	rotate: true
+	xy: 535, 0
+	size: 240, 238
+	orig: 256, 256
+	offset: 6, 7
+	index: -1
+
+asset/anim/KINGSECOMMON0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/king_skilldiyan_057
+	rotate: false
+	xy: 0, 385
+	size: 42, 64
+	orig: 142, 104
+	offset: 6, 5
+	index: -1
+common/king_skilldiyan_050
+	rotate: true
+	xy: 78, 453
+	size: 54, 100
+	orig: 142, 104
+	offset: 8, 4
+	index: -1
+common/king_skilldiyan_051
+	rotate: true
+	xy: 78, 385
+	size: 54, 100
+	orig: 142, 104
+	offset: 7, 4
+	index: -1
+common/king_skilldiyan_052
+	rotate: true
+	xy: 347, 453
+	size: 54, 100
+	orig: 142, 104
+	offset: 5, 4
+	index: -1
+common/king_skilldiyan_058
+	rotate: false
+	xy: 37, 450
+	size: 40, 62
+	orig: 142, 104
+	offset: 6, 5
+	index: -1
+common/king_renhuo_068
+	rotate: false
+	xy: 0, 234
+	size: 163, 150
+	orig: 183, 316
+	offset: 10, 7
+	index: -1
+common/king_renhuo_066
+	rotate: false
+	xy: 347, 151
+	size: 163, 150
+	orig: 183, 316
+	offset: 10, 7
+	index: -1
+common/king_renhuo_064
+	rotate: false
+	xy: 347, 0
+	size: 163, 150
+	orig: 183, 316
+	offset: 10, 7
+	index: -1
+common/juguangdeng_009
+	rotate: false
+	xy: 178, 0
+	size: 168, 160
+	orig: 168, 318
+	offset: 0, 0
+	index: -1
+common/king_skilldiyan_043
+	rotate: true
+	xy: 43, 385
+	size: 20, 34
+	orig: 142, 104
+	offset: 46, 5
+	index: -1
+common/king_renhuo_070
+	rotate: false
+	xy: 173, 161
+	size: 163, 150
+	orig: 183, 316
+	offset: 10, 7
+	index: -1
+common/king_renhuo_072
+	rotate: false
+	xy: 337, 302
+	size: 163, 150
+	orig: 183, 316
+	offset: 10, 7
+	index: -1
+common/king_skilldiyan_045
+	rotate: true
+	xy: 179, 474
+	size: 38, 68
+	orig: 142, 104
+	offset: 31, 5
+	index: -1
+common/king_skilldiyan_044
+	rotate: false
+	xy: 448, 453
+	size: 28, 50
+	orig: 142, 104
+	offset: 38, 5
+	index: -1
+
+asset/anim/KINGSECOMMON1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/king_skilldiyan_054
+	rotate: true
+	xy: 151, 311
+	size: 48, 98
+	orig: 142, 104
+	offset: 6, 5
+	index: -1
+common/king_skilldiyan_055
+	rotate: false
+	xy: 200, 360
+	size: 48, 92
+	orig: 142, 104
+	offset: 5, 5
+	index: -1
+common/king_skilldiyan_056
+	rotate: false
+	xy: 401, 325
+	size: 44, 68
+	orig: 142, 104
+	offset: 6, 5
+	index: -1
+common/king_skilldiyan_053
+	rotate: false
+	xy: 455, 248
+	size: 52, 100
+	orig: 142, 104
+	offset: 5, 4
+	index: -1
+common/king_renhuo_074
+	rotate: false
+	xy: 0, 0
+	size: 163, 150
+	orig: 183, 316
+	offset: 10, 7
+	index: -1
+common/king_renhuo_076
+	rotate: false
+	xy: 164, 0
+	size: 163, 150
+	orig: 183, 316
+	offset: 10, 7
+	index: -1
+common/king_renhuo_078
+	rotate: false
+	xy: 328, 0
+	size: 163, 150
+	orig: 183, 316
+	offset: 10, 7
+	index: -1
+common/king_skilldiyan_049
+	rotate: true
+	xy: 151, 258
+	size: 52, 98
+	orig: 142, 104
+	offset: 11, 5
+	index: -1
+common/king_skilldiyan_048
+	rotate: false
+	xy: 455, 151
+	size: 54, 96
+	orig: 142, 104
+	offset: 13, 5
+	index: -1
+common/king_skilldiyan_047
+	rotate: false
+	xy: 250, 258
+	size: 52, 92
+	orig: 142, 104
+	offset: 16, 5
+	index: -1
+common/king_skilldiyan_046
+	rotate: false
+	xy: 151, 427
+	size: 48, 82
+	orig: 142, 104
+	offset: 22, 5
+	index: -1
+common/king_renhuo_080
+	rotate: true
+	xy: 0, 151
+	size: 163, 150
+	orig: 183, 316
+	offset: 10, 7
+	index: -1
+common/king_renhuo_082
+	rotate: true
+	xy: 0, 315
+	size: 163, 150
+	orig: 183, 316
+	offset: 10, 7
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_suduxian_001
+	rotate: false
+	xy: 662, 381
+	size: 38, 153
+	orig: 38, 155
+	offset: 0, 1
+	index: -1
+global/a_global_longjuan_tuoci_055
+	rotate: false
+	xy: 479, 592
+	size: 158, 130
+	orig: 298, 168
+	offset: 84, 25
+	index: -1
+global/a_global_longjuan_tuoci_054
+	rotate: false
+	xy: 0, 541
+	size: 158, 132
+	orig: 298, 168
+	offset: 84, 20
+	index: -1
+global/a_global_longjuan_tuoci_057
+	rotate: false
+	xy: 478, 723
+	size: 158, 124
+	orig: 298, 168
+	offset: 84, 32
+	index: -1
+global/a_global_longjuan_tuoci_056
+	rotate: false
+	xy: 319, 631
+	size: 158, 128
+	orig: 298, 168
+	offset: 84, 28
+	index: -1
+global/a_global_longjuan_tuoci_059
+	rotate: false
+	xy: 0, 674
+	size: 158, 112
+	orig: 298, 168
+	offset: 84, 45
+	index: -1
+global/a_global_longjuan_tuoci_058
+	rotate: false
+	xy: 159, 660
+	size: 158, 118
+	orig: 298, 168
+	offset: 84, 38
+	index: -1
+global/a_global_longjuan_tuoci_060
+	rotate: false
+	xy: 318, 760
+	size: 158, 108
+	orig: 298, 168
+	offset: 83, 47
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_longjuan_tuoci_053
+	rotate: false
+	xy: 0, 0
+	size: 156, 128
+	orig: 298, 168
+	offset: 85, 17
+	index: -1
+global/a_global_longjuan_tuoci_061
+	rotate: false
+	xy: 428, 137
+	size: 156, 104
+	orig: 298, 168
+	offset: 84, 48
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_yuanquangongyong
+	rotate: false
+	xy: 343, 0
+	size: 112, 112
+	orig: 112, 112
+	offset: 0, 0
+	index: -1
+
+asset/anim/KINGSESKILL1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/king_skillqiliu_051
+	rotate: false
+	xy: 0, 0
+	size: 94, 188
+	orig: 246, 242
+	offset: 18, 14
+	index: -1
+skill/renbowen_059
+	rotate: true
+	xy: 191, 179
+	size: 101, 93
+	orig: 119, 193
+	offset: 10, 0
+	index: -1
+skill/king_skillqiliu_057
+	rotate: false
+	xy: 0, 189
+	size: 96, 186
+	orig: 246, 242
+	offset: 10, 12
+	index: -1
+skill/king_skillqiliu_053
+	rotate: false
+	xy: 95, 0
+	size: 98, 178
+	orig: 246, 242
+	offset: 12, 13
+	index: -1
+skill/renbowen_063
+	rotate: true
+	xy: 0, 376
+	size: 105, 93
+	orig: 119, 193
+	offset: 6, 0
+	index: -1
+skill/renbowen_062
+	rotate: true
+	xy: 188, 283
+	size: 103, 93
+	orig: 119, 193
+	offset: 8, 0
+	index: -1
+skill/renbowen_061
+	rotate: true
+	xy: 97, 179
+	size: 103, 93
+	orig: 119, 193
+	offset: 8, 0
+	index: -1
+skill/renbowen_060
+	rotate: true
+	xy: 188, 387
+	size: 101, 93
+	orig: 119, 193
+	offset: 10, 0
+	index: -1
+skill/renbowen_064
+	rotate: true
+	xy: 94, 376
+	size: 105, 93
+	orig: 119, 193
+	offset: 6, 0
+	index: -1
+
+asset/anim/KINGSESKILL0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/king_skillqiliu_055
+	rotate: false
+	xy: 196, 302
+	size: 98, 184
+	orig: 246, 242
+	offset: 12, 12
+	index: -1
+skill/king_renbowen_066
+	rotate: false
+	xy: 0, 0
+	size: 177, 150
+	orig: 183, 316
+	offset: 1, 7
+	index: -1
+skill/king_renbowen_067
+	rotate: false
+	xy: 178, 0
+	size: 175, 150
+	orig: 183, 316
+	offset: 4, 7
+	index: -1
+skill/king_skillqiliu_049
+	rotate: false
+	xy: 0, 302
+	size: 96, 188
+	orig: 246, 242
+	offset: 18, 13
+	index: -1
+skill/king_skillqiliu_047
+	rotate: false
+	xy: 392, 303
+	size: 96, 186
+	orig: 246, 242
+	offset: 18, 13
+	index: -1
+skill/king_gaungquiuhsnabai
+	rotate: false
+	xy: 505, 0
+	size: 7, 7
+	orig: 7, 7
+	offset: 0, 0
+	index: -1
+skill/king_renbowen_068
+	rotate: false
+	xy: 0, 151
+	size: 171, 150
+	orig: 183, 316
+	offset: 6, 7
+	index: -1
+skill/king_renbowen_069
+	rotate: false
+	xy: 172, 151
+	size: 165, 150
+	orig: 183, 316
+	offset: 9, 7
+	index: -1
+skill/king_skillqiliu_043
+	rotate: false
+	xy: 97, 302
+	size: 98, 184
+	orig: 246, 242
+	offset: 9, 14
+	index: -1
+skill/king_renbowen_065
+	rotate: true
+	xy: 354, 0
+	size: 171, 150
+	orig: 183, 316
+	offset: 6, 7
+	index: -1
+skill/king_skillqiliu_045
+	rotate: false
+	xy: 295, 303
+	size: 96, 186
+	orig: 246, 242
+	offset: 13, 13
+	index: -1

@@ -1,0 +1,353 @@
+
+asset/anim/shanguangfulaishi2kapai2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa1_shanguangfulaishi2kapai
+	rotate: false
+	xy: 440, 278
+	size: 65, 180
+	orig: 65, 180
+	offset: 0, 0
+	index: -1
+youdatui_shanguangfulaishi2kapai
+	rotate: false
+	xy: 105, 112
+	size: 264, 140
+	orig: 264, 140
+	offset: 0, 0
+	index: -1
+shen_shanguangfulaishi2kapai
+	rotate: false
+	xy: 105, 253
+	size: 143, 247
+	orig: 143, 247
+	offset: 0, 0
+	index: -1
+fa5_shanguangfulaishi2kapai
+	rotate: false
+	xy: 452, 63
+	size: 57, 61
+	orig: 57, 61
+	offset: 0, 0
+	index: -1
+fa9_shanguangfulaishi2kapai
+	rotate: true
+	xy: 351, 472
+	size: 39, 70
+	orig: 39, 70
+	offset: 0, 0
+	index: -1
+bozi_shanguangfulaishi2kapai
+	rotate: true
+	xy: 452, 0
+	size: 62, 57
+	orig: 62, 57
+	offset: 0, 0
+	index: -1
+pifeng1_shanguangfulaishi2kapai
+	rotate: true
+	xy: 0, 112
+	size: 362, 104
+	orig: 362, 104
+	offset: 0, 0
+	index: -1
+weibo2_shanguangfulaishi2kapai
+	rotate: true
+	xy: 449, 203
+	size: 74, 63
+	orig: 74, 63
+	offset: 0, 0
+	index: -1
+zuoxiaobi_shanguangfulaishi2kapai
+	rotate: true
+	xy: 355, 272
+	size: 199, 84
+	orig: 199, 84
+	offset: 0, 0
+	index: -1
+zuojiao_shanguangfulaishi2kapai
+	rotate: false
+	xy: 370, 112
+	size: 78, 159
+	orig: 78, 159
+	offset: 0, 0
+	index: -1
+youshou_shanguangfulaishi2kapai
+	rotate: false
+	xy: 440, 459
+	size: 48, 51
+	orig: 48, 51
+	offset: 0, 0
+	index: -1
+pifeng4_shanguangfulaishi2kapai
+	rotate: false
+	xy: 0, 0
+	size: 451, 111
+	orig: 451, 111
+	offset: 0, 0
+	index: -1
+zuoshou5_shanguangfulaishi2kapai
+	rotate: true
+	xy: 449, 125
+	size: 77, 62
+	orig: 77, 62
+	offset: 0, 0
+	index: -1
+lian_shanguangfulaishi2kapai
+	rotate: true
+	xy: 249, 423
+	size: 89, 101
+	orig: 89, 101
+	offset: 0, 0
+	index: -1
+fa4_shanguangfulaishi2kapai
+	rotate: false
+	xy: 249, 253
+	size: 105, 169
+	orig: 105, 169
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishi2kapai3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weibo1_shanguangfulaishi2kapai
+	rotate: true
+	xy: 304, 0
+	size: 133, 141
+	orig: 133, 141
+	offset: 0, 0
+	index: -1
+zuodabi_shanguangfulaishi2kapai
+	rotate: true
+	xy: 0, 83
+	size: 93, 146
+	orig: 93, 146
+	offset: 0, 0
+	index: -1
+fa8_shanguangfulaishi2kapai
+	rotate: true
+	xy: 304, 134
+	size: 100, 129
+	orig: 100, 129
+	offset: 0, 0
+	index: -1
+kua_shanguangfulaishi2kapai
+	rotate: true
+	xy: 153, 0
+	size: 139, 150
+	orig: 139, 150
+	offset: 0, 0
+	index: -1
+yaodai1_shanguangfulaishi2kapai
+	rotate: false
+	xy: 0, 0
+	size: 152, 82
+	orig: 152, 82
+	offset: 0, 0
+	index: -1
+zuoshou6_shanguangfulaishi2kapai
+	rotate: false
+	xy: 434, 134
+	size: 69, 86
+	orig: 69, 86
+	offset: 0, 0
+	index: -1
+youjiao_shanguangfulaishi2kapai
+	rotate: true
+	xy: 147, 140
+	size: 90, 114
+	orig: 90, 114
+	offset: 0, 0
+	index: -1
+zuoshou3_shanguangfulaishi2kapai
+	rotate: false
+	xy: 446, 0
+	size: 64, 84
+	orig: 64, 84
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishi2kapai0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yaodai2_shanguangfulaishi2kapai
+	rotate: true
+	xy: 485, 391
+	size: 33, 20
+	orig: 33, 20
+	offset: 0, 0
+	index: -1
+zuoyan_shanguangfulaishi2kapai
+	rotate: false
+	xy: 237, 494
+	size: 40, 14
+	orig: 40, 14
+	offset: 0, 0
+	index: -1
+pifneng2_shanguangfulaishi2kapai
+	rotate: false
+	xy: 0, 0
+	size: 508, 250
+	orig: 508, 250
+	offset: 0, 0
+	index: -1
+jian_shanguangfulaishi2kapai
+	rotate: true
+	xy: 152, 251
+	size: 242, 332
+	orig: 242, 332
+	offset: 0, 0
+	index: -1
+youyan_shanguangfulaishi2kapai
+	rotate: false
+	xy: 152, 494
+	size: 19, 17
+	orig: 19, 17
+	offset: 0, 0
+	index: -1
+fa10_shanguangfulaishi2kapai
+	rotate: false
+	xy: 485, 331
+	size: 22, 59
+	orig: 22, 59
+	offset: 0, 0
+	index: -1
+zuoshou4_shanguangfulaishi2kapai
+	rotate: false
+	xy: 485, 251
+	size: 23, 79
+	orig: 23, 79
+	offset: 0, 0
+	index: -1
+youmei_shanguangfulaishi2kapai
+	rotate: true
+	xy: 172, 494
+	size: 16, 19
+	orig: 16, 19
+	offset: 0, 0
+	index: -1
+zuoyan2_shanguangfulaishi2kapai
+	rotate: false
+	xy: 278, 494
+	size: 37, 14
+	orig: 37, 14
+	offset: 0, 0
+	index: -1
+zuoxaiotui_shanguangfulaishi2kapai
+	rotate: false
+	xy: 0, 251
+	size: 151, 254
+	orig: 151, 254
+	offset: 0, 0
+	index: -1
+zuomei_shanguangfulaishi2kapai
+	rotate: false
+	xy: 192, 494
+	size: 44, 15
+	orig: 44, 15
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishi2kapai1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+toushi2_shanguangfulaishi2kapai
+	rotate: false
+	xy: 476, 0
+	size: 32, 55
+	orig: 32, 55
+	offset: 0, 0
+	index: -1
+zuoshou2_shanguangfulaishi2kapai
+	rotate: false
+	xy: 0, 456
+	size: 93, 49
+	orig: 93, 49
+	offset: 0, 0
+	index: -1
+jianqiao_shanguangfulaishi2kapai
+	rotate: false
+	xy: 0, 0
+	size: 281, 284
+	orig: 281, 284
+	offset: 0, 0
+	index: -1
+fa7_shanguangfulaishi2kapai
+	rotate: false
+	xy: 456, 401
+	size: 53, 108
+	orig: 53, 108
+	offset: 0, 0
+	index: -1
+fa3_shanguangfulaishi2kapai
+	rotate: true
+	xy: 185, 456
+	size: 40, 78
+	orig: 40, 78
+	offset: 0, 0
+	index: -1
+zuoshou1_shanguangfulaishi2kapai
+	rotate: false
+	xy: 94, 456
+	size: 90, 53
+	orig: 90, 53
+	offset: 0, 0
+	index: -1
+youxiaotui_shanguangfulaishi2kapai
+	rotate: true
+	xy: 324, 282
+	size: 228, 131
+	orig: 228, 131
+	offset: 0, 0
+	index: -1
+pifeng3_shanguangfulaishi2kapai
+	rotate: false
+	xy: 0, 285
+	size: 323, 170
+	orig: 323, 170
+	offset: 0, 0
+	index: -1
+youyan2_shanguangfulaishi2kapai
+	rotate: true
+	xy: 476, 107
+	size: 20, 19
+	orig: 20, 19
+	offset: 0, 0
+	index: -1
+zuodatui_shanguangfulaishi2kapai
+	rotate: false
+	xy: 282, 0
+	size: 193, 281
+	orig: 193, 281
+	offset: 0, 0
+	index: -1
+fa2_shanguangfulaishi2kapai
+	rotate: false
+	xy: 476, 56
+	size: 35, 50
+	orig: 35, 50
+	offset: 0, 0
+	index: -1
+fa6_shanguangfulaishi2kapai
+	rotate: false
+	xy: 456, 282
+	size: 51, 118
+	orig: 51, 118
+	offset: 0, 0
+	index: -1
+toushi1_shanguangfulaishi2kapai
+	rotate: true
+	xy: 264, 456
+	size: 51, 58
+	orig: 51, 58
+	offset: 0, 0
+	index: -1

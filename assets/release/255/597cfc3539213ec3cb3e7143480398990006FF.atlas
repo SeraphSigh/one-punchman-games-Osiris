@@ -1,0 +1,95 @@
+
+asset/anim/jinshuqishiSEMAX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/jinshuqishijuexing_jingshi_kuosan_00086
+	rotate: false
+	xy: 556, 169
+	size: 264, 244
+	orig: 308, 304
+	offset: 22, 50
+	index: -1
+max/jinshuqishijuexing_jingshi_tanhao_00087
+	rotate: false
+	xy: 786, 603
+	size: 236, 220
+	orig: 274, 238
+	offset: 19, 0
+	index: -1
+
+asset/anim/jinshuqishiSEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/jinshuqishijuexing_jingshitiao_dong_00006
+	rotate: false
+	xy: 0, 176
+	size: 558, 53
+	orig: 1112, 61
+	offset: 0, 3
+	index: -1
+max/jinshuqishijuexing_jingshitiao_dong_00005
+	rotate: false
+	xy: 0, 122
+	size: 558, 53
+	orig: 1112, 61
+	offset: 0, 3
+	index: -1
+max/jinshuqishijuexing_jingshitiao_dong_00004
+	rotate: false
+	xy: 0, 68
+	size: 558, 53
+	orig: 1112, 61
+	offset: 0, 3
+	index: -1
+max/jinshuqishijuexing_jingshitiao_dong_00009
+	rotate: false
+	xy: 0, 338
+	size: 558, 53
+	orig: 1112, 61
+	offset: 0, 3
+	index: -1
+max/jinshuqishijuexing_jingshitiao_dong_00008
+	rotate: false
+	xy: 0, 284
+	size: 558, 53
+	orig: 1112, 61
+	offset: 0, 3
+	index: -1
+max/jinshuqishijuexing_baiping
+	rotate: false
+	xy: 559, 166
+	size: 8, 8
+	orig: 8, 8
+	offset: 0, 0
+	index: -1
+max/jinshuqishijuexing_jingshitiao02_00008
+	rotate: false
+	xy: 0, 0
+	size: 571, 67
+	orig: 1137, 79
+	offset: 0, 5
+	index: -1
+max/jinshuqishijuexing_jingshitiao_dong_00007
+	rotate: false
+	xy: 0, 230
+	size: 558, 53
+	orig: 1112, 61
+	offset: 0, 3
+	index: -1
+
+asset/anim/jinshuqishiSEMAX3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/jinshuqishijuexing_jingshitiao_hong
+	rotate: true
+	xy: 846, 662
+	size: 93, 52
+	orig: 93, 52
+	offset: 0, 0
+	index: -1

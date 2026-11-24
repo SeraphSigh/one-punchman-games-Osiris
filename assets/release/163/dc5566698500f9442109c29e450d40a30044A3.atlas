@@ -1,0 +1,1145 @@
+
+asset/anim/dajiongyan0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_body1_dajongyan
+	rotate: true
+	xy: 154, 176
+	size: 144, 177
+	orig: 144, 177
+	offset: 0, 0
+	index: -1
+b_Rarm_dajongyan
+	rotate: false
+	xy: 461, 251
+	size: 51, 60
+	orig: 51, 60
+	offset: 0, 0
+	index: -1
+e_Lforearm_dajongyan
+	rotate: false
+	xy: 352, 374
+	size: 72, 39
+	orig: 72, 39
+	offset: 0, 0
+	index: -1
+a_headarm5_dajongyan
+	rotate: true
+	xy: 466, 148
+	size: 20, 46
+	orig: 20, 46
+	offset: 0, 0
+	index: -1
+j_body1_dajongyan
+	rotate: false
+	xy: 0, 0
+	size: 153, 195
+	orig: 153, 195
+	offset: 0, 0
+	index: -1
+j_Rthigh_dajongyan
+	rotate: true
+	xy: 299, 442
+	size: 58, 53
+	orig: 58, 53
+	offset: 0, 0
+	index: -1
+g_Larm11_dajongyan
+	rotate: false
+	xy: 237, 448
+	size: 61, 62
+	orig: 61, 62
+	offset: 0, 0
+	index: -1
+a_eye2_dajongyan
+	rotate: true
+	xy: 412, 420
+	size: 47, 34
+	orig: 47, 34
+	offset: 0, 0
+	index: -1
+f_Lforearm_dajongyan
+	rotate: false
+	xy: 447, 425
+	size: 65, 40
+	orig: 65, 40
+	offset: 0, 0
+	index: -1
+e_Larm_dajongyan
+	rotate: true
+	xy: 410, 303
+	size: 70, 46
+	orig: 70, 46
+	offset: 0, 0
+	index: -1
+c_Rforearm_dajongyan
+	rotate: false
+	xy: 152, 409
+	size: 75, 38
+	orig: 75, 38
+	offset: 0, 0
+	index: -1
+l_Rhand2_dajongyan
+	rotate: false
+	xy: 332, 303
+	size: 13, 16
+	orig: 13, 16
+	offset: 0, 0
+	index: -1
+a_Rarm_dajongyan
+	rotate: false
+	xy: 461, 176
+	size: 51, 74
+	orig: 51, 74
+	offset: 0, 0
+	index: -1
+l_Lthigh_dajongyan
+	rotate: false
+	xy: 353, 414
+	size: 58, 53
+	orig: 58, 53
+	offset: 0, 0
+	index: -1
+b_Rforearm_dajongyan
+	rotate: false
+	xy: 449, 466
+	size: 62, 46
+	orig: 62, 46
+	offset: 0, 0
+	index: -1
+a_Lforearm_dajongyan
+	rotate: true
+	xy: 457, 383
+	size: 41, 54
+	orig: 41, 54
+	offset: 0, 0
+	index: -1
+c_Rhand_dajongyan
+	rotate: true
+	xy: 425, 374
+	size: 45, 31
+	orig: 45, 31
+	offset: 0, 0
+	index: -1
+d_Rarm_dajongyan
+	rotate: false
+	xy: 186, 448
+	size: 50, 64
+	orig: 50, 64
+	offset: 0, 0
+	index: -1
+g_Lshin_dajongyan
+	rotate: true
+	xy: 405, 468
+	size: 44, 43
+	orig: 44, 43
+	offset: 0, 0
+	index: -1
+e_Rarm_dajongyan
+	rotate: true
+	xy: 466, 75
+	size: 72, 46
+	orig: 72, 46
+	offset: 0, 0
+	index: -1
+j_Rarm_dajongyan
+	rotate: true
+	xy: 457, 312
+	size: 70, 53
+	orig: 70, 53
+	offset: 0, 0
+	index: -1
+d_Rforearm_dajongyan
+	rotate: true
+	xy: 228, 409
+	size: 38, 67
+	orig: 38, 67
+	offset: 0, 0
+	index: -1
+f_Larm_dajongyan
+	rotate: true
+	xy: 466, 0
+	size: 74, 46
+	orig: 74, 46
+	offset: 0, 0
+	index: -1
+gd_dajiongyan
+	rotate: true
+	xy: 152, 321
+	size: 87, 156
+	orig: 87, 156
+	offset: 0, 0
+	index: -1
+a_neck_dajongyan
+	rotate: false
+	xy: 314, 0
+	size: 151, 175
+	orig: 151, 175
+	offset: 0, 0
+	index: -1
+l_body1_dajongyan
+	rotate: false
+	xy: 0, 196
+	size: 151, 179
+	orig: 151, 179
+	offset: 0, 0
+	index: -1
+l_Rshin_dajongyan
+	rotate: false
+	xy: 353, 468
+	size: 51, 44
+	orig: 51, 44
+	offset: 0, 0
+	index: -1
+g_Larm_dajongyan
+	rotate: false
+	xy: 352, 303
+	size: 57, 70
+	orig: 57, 70
+	offset: 0, 0
+	index: -1
+a_eye3_dajongyan
+	rotate: true
+	xy: 309, 396
+	size: 45, 42
+	orig: 45, 42
+	offset: 0, 0
+	index: -1
+e_body1_dajongyan
+	rotate: false
+	xy: 154, 0
+	size: 159, 175
+	orig: 159, 175
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Lthigh_dajongyan
+	rotate: true
+	xy: 0, 462
+	size: 50, 51
+	orig: 50, 51
+	offset: 0, 0
+	index: -1
+e_Lfoot_dajongyan
+	rotate: false
+	xy: 425, 182
+	size: 30, 32
+	orig: 30, 32
+	offset: 0, 0
+	index: -1
+l_headarm7_dajongyan
+	rotate: false
+	xy: 433, 315
+	size: 30, 24
+	orig: 30, 24
+	offset: 0, 0
+	index: -1
+g_headarm3_dajongyan
+	rotate: true
+	xy: 214, 0
+	size: 45, 42
+	orig: 45, 42
+	offset: 0, 0
+	index: -1
+a_Lfoot_dajongyan
+	rotate: true
+	xy: 341, 377
+	size: 47, 22
+	orig: 47, 22
+	offset: 0, 0
+	index: -1
+a_head1_dajongyan
+	rotate: true
+	xy: 0, 154
+	size: 76, 72
+	orig: 76, 72
+	offset: 0, 0
+	index: -1
+a_Rhand2_dajongyan
+	rotate: true
+	xy: 366, 343
+	size: 23, 28
+	orig: 23, 28
+	offset: 0, 0
+	index: -1
+g_Rthigh_dajongyan
+	rotate: true
+	xy: 52, 462
+	size: 50, 42
+	orig: 50, 42
+	offset: 0, 0
+	index: -1
+a_headarm6_dajongyan
+	rotate: true
+	xy: 461, 125
+	size: 29, 36
+	orig: 29, 36
+	offset: 0, 0
+	index: -1
+g_Lthigh_dajongyan
+	rotate: true
+	xy: 220, 142
+	size: 51, 46
+	orig: 51, 46
+	offset: 0, 0
+	index: -1
+g_headarm4_dajongyan
+	rotate: false
+	xy: 282, 439
+	size: 30, 52
+	orig: 30, 52
+	offset: 0, 0
+	index: -1
+a_headarm8_dajongyan
+	rotate: false
+	xy: 479, 52
+	size: 33, 15
+	orig: 33, 15
+	offset: 0, 0
+	index: -1
+b_Larm_dajongyan
+	rotate: true
+	xy: 73, 228
+	size: 65, 46
+	orig: 65, 46
+	offset: 0, 0
+	index: -1
+g_Rforearm_dajongyan
+	rotate: false
+	xy: 187, 447
+	size: 41, 59
+	orig: 41, 59
+	offset: 0, 0
+	index: -1
+a_headarm1_dajongyan
+	rotate: true
+	xy: 338, 426
+	size: 47, 27
+	orig: 47, 27
+	offset: 0, 0
+	index: -1
+l_Lhand2_dajongyan
+	rotate: false
+	xy: 235, 46
+	size: 23, 19
+	orig: 23, 19
+	offset: 0, 0
+	index: -1
+l_headarm8_dajongyan
+	rotate: false
+	xy: 313, 475
+	size: 33, 16
+	orig: 33, 16
+	offset: 0, 0
+	index: -1
+j_Rfoot_dajongyan
+	rotate: false
+	xy: 359, 142
+	size: 37, 42
+	orig: 37, 42
+	offset: 0, 0
+	index: -1
+d_Rarm2_dajongyan
+	rotate: false
+	xy: 368, 290
+	size: 32, 24
+	orig: 32, 24
+	offset: 0, 0
+	index: -1
+g_Larm2_dajongyan
+	rotate: true
+	xy: 259, 46
+	size: 19, 21
+	orig: 19, 21
+	offset: 0, 0
+	index: -1
+j_Rforearm2_dajongyan
+	rotate: true
+	xy: 468, 68
+	size: 25, 37
+	orig: 25, 37
+	offset: 0, 0
+	index: -1
+l_Lshin_dajongyan
+	rotate: true
+	xy: 295, 278
+	size: 49, 36
+	orig: 49, 36
+	offset: 0, 0
+	index: -1
+l_headarm5_dajongyan
+	rotate: true
+	xy: 230, 120
+	size: 21, 45
+	orig: 21, 45
+	offset: 0, 0
+	index: -1
+e_Rfoot_dajongyan
+	rotate: true
+	xy: 411, 0
+	size: 41, 29
+	orig: 41, 29
+	offset: 0, 0
+	index: -1
+l_Rarm_dajongyan
+	rotate: true
+	xy: 192, 286
+	size: 56, 48
+	orig: 56, 48
+	offset: 0, 0
+	index: -1
+g_Rshin_dajongyan
+	rotate: false
+	xy: 180, 344
+	size: 42, 40
+	orig: 42, 40
+	offset: 0, 0
+	index: -1
+g_Lhand_dajongyan
+	rotate: true
+	xy: 245, 194
+	size: 33, 40
+	orig: 33, 40
+	offset: 0, 0
+	index: -1
+j_head_dajongyan
+	rotate: false
+	xy: 0, 0
+	size: 75, 76
+	orig: 75, 76
+	offset: 0, 0
+	index: -1
+j_Lthigh_dajongyan
+	rotate: false
+	xy: 274, 228
+	size: 47, 49
+	orig: 47, 49
+	offset: 0, 0
+	index: -1
+l_headarm3_dajongyan
+	rotate: false
+	xy: 182, 67
+	size: 30, 52
+	orig: 30, 52
+	offset: 0, 0
+	index: -1
+l_headarm1_dajongyan
+	rotate: true
+	xy: 344, 62
+	size: 43, 23
+	orig: 43, 23
+	offset: 0, 0
+	index: -1
+g_headarm8_dajongyan
+	rotate: false
+	xy: 182, 120
+	size: 47, 21
+	orig: 47, 21
+	offset: 0, 0
+	index: -1
+l_Rforearm_dajongyan
+	rotate: false
+	xy: 324, 0
+	size: 43, 43
+	orig: 43, 43
+	offset: 0, 0
+	index: -1
+l_Lforearm2_dajongyan
+	rotate: true
+	xy: 286, 194
+	size: 33, 37
+	orig: 33, 37
+	offset: 0, 0
+	index: -1
+g_Rarm2_dajongyan
+	rotate: true
+	xy: 274, 494
+	size: 18, 24
+	orig: 18, 24
+	offset: 0, 0
+	index: -1
+d_Rhand22_dajongyan
+	rotate: true
+	xy: 300, 46
+	size: 17, 29
+	orig: 17, 29
+	offset: 0, 0
+	index: -1
+j_Lshin_dajongyan
+	rotate: true
+	xy: 257, 0
+	size: 45, 37
+	orig: 45, 37
+	offset: 0, 0
+	index: -1
+c_Rarm_dajongyan
+	rotate: false
+	xy: 296, 328
+	size: 46, 48
+	orig: 46, 48
+	offset: 0, 0
+	index: -1
+a_Rarm2_dajongyan
+	rotate: true
+	xy: 476, 280
+	size: 23, 32
+	orig: 23, 32
+	offset: 0, 0
+	index: -1
+d_Larm_dajongyan
+	rotate: false
+	xy: 73, 294
+	size: 38, 63
+	orig: 38, 63
+	offset: 0, 0
+	index: -1
+c_Larm_dajongyan
+	rotate: true
+	xy: 120, 228
+	size: 62, 37
+	orig: 62, 37
+	offset: 0, 0
+	index: -1
+g_Lforearm2_dajongyan
+	rotate: false
+	xy: 395, 105
+	size: 30, 36
+	orig: 30, 36
+	offset: 0, 0
+	index: -1
+j_Rhand2_dajongyan
+	rotate: true
+	xy: 360, 44
+	size: 17, 26
+	orig: 17, 26
+	offset: 0, 0
+	index: -1
+a_headarm2_dajongyan
+	rotate: true
+	xy: 199, 228
+	size: 56, 42
+	orig: 56, 42
+	offset: 0, 0
+	index: -1
+e_Rthigh_dajongyan
+	rotate: true
+	xy: 123, 0
+	size: 66, 49
+	orig: 66, 49
+	offset: 0, 0
+	index: -1
+b_Rforearm2_dajongyan
+	rotate: false
+	xy: 468, 0
+	size: 38, 27
+	orig: 38, 27
+	offset: 0, 0
+	index: -1
+b_Rarm2_dajongyan
+	rotate: true
+	xy: 425, 215
+	size: 31, 30
+	orig: 31, 30
+	offset: 0, 0
+	index: -1
+a_Larm2_dajongyan
+	rotate: true
+	xy: 479, 28
+	size: 23, 33
+	orig: 23, 33
+	offset: 0, 0
+	index: -1
+b_Lforearm2_dajongyan
+	rotate: false
+	xy: 179, 201
+	size: 33, 26
+	orig: 33, 26
+	offset: 0, 0
+	index: -1
+a_head2_dajongyan
+	rotate: true
+	xy: 0, 77
+	size: 76, 73
+	orig: 76, 73
+	offset: 0, 0
+	index: -1
+a_Lhand2_dajongyan
+	rotate: false
+	xy: 281, 46
+	size: 18, 19
+	orig: 18, 19
+	offset: 0, 0
+	index: -1
+a_Rfoot_dajongyan
+	rotate: true
+	xy: 342, 228
+	size: 41, 22
+	orig: 41, 22
+	offset: 0, 0
+	index: -1
+g_Lhand11_dajongyan
+	rotate: false
+	xy: 239, 66
+	size: 34, 45
+	orig: 34, 45
+	offset: 0, 0
+	index: -1
+d_headarm1_dajongyan
+	rotate: true
+	xy: 399, 331
+	size: 22, 30
+	orig: 22, 30
+	offset: 0, 0
+	index: -1
+e_Lshin_dajongyan
+	rotate: false
+	xy: 332, 278
+	size: 35, 48
+	orig: 35, 48
+	offset: 0, 0
+	index: -1
+g_Rhand_dajongyan
+	rotate: true
+	xy: 276, 112
+	size: 29, 42
+	orig: 29, 42
+	offset: 0, 0
+	index: -1
+d_Rhand2_dajongyan
+	rotate: true
+	xy: 330, 44
+	size: 17, 29
+	orig: 17, 29
+	offset: 0, 0
+	index: -1
+l_Rarm2_dajongyan
+	rotate: false
+	xy: 437, 284
+	size: 31, 30
+	orig: 31, 30
+	offset: 0, 0
+	index: -1
+c_Lhand_dajongyan
+	rotate: true
+	xy: 397, 142
+	size: 40, 23
+	orig: 40, 23
+	offset: 0, 0
+	index: -1
+j_Rforearm_dajongyan
+	rotate: false
+	xy: 144, 142
+	size: 51, 58
+	orig: 51, 58
+	offset: 0, 0
+	index: -1
+l_headarm6_dajongyan
+	rotate: true
+	xy: 468, 94
+	size: 30, 36
+	orig: 30, 36
+	offset: 0, 0
+	index: -1
+g_Rarm_dajongyan
+	rotate: false
+	xy: 112, 294
+	size: 47, 62
+	orig: 47, 62
+	offset: 0, 0
+	index: -1
+l_head_dajongyan
+	rotate: true
+	xy: 0, 308
+	size: 76, 72
+	orig: 76, 72
+	offset: 0, 0
+	index: -1
+a_Rhand_dajongyan
+	rotate: false
+	xy: 356, 106
+	size: 38, 35
+	orig: 38, 35
+	offset: 0, 0
+	index: -1
+a_headarm3_dajongyan
+	rotate: false
+	xy: 224, 385
+	size: 42, 54
+	orig: 42, 54
+	offset: 0, 0
+	index: -1
+g_Rhand2_dajongyan
+	rotate: false
+	xy: 430, 340
+	size: 26, 21
+	orig: 26, 21
+	offset: 0, 0
+	index: -1
+a_Lforearm2_dajongyan
+	rotate: true
+	xy: 464, 329
+	size: 24, 27
+	orig: 24, 27
+	offset: 0, 0
+	index: -1
+l_Lfoot_dajongyan
+	rotate: true
+	xy: 213, 195
+	size: 32, 31
+	orig: 32, 31
+	offset: 0, 0
+	index: -1
+c_Lforearm_dajongyan
+	rotate: true
+	xy: 267, 142
+	size: 51, 29
+	orig: 51, 29
+	offset: 0, 0
+	index: -1
+g_headarm6_dajongyan
+	rotate: false
+	xy: 368, 0
+	size: 42, 42
+	orig: 42, 42
+	offset: 0, 0
+	index: -1
+d_Lforearm_dajongyan
+	rotate: false
+	xy: 160, 286
+	size: 31, 57
+	orig: 31, 57
+	offset: 0, 0
+	index: -1
+j_Lhand2_dajongyan
+	rotate: true
+	xy: 387, 43
+	size: 17, 22
+	orig: 17, 22
+	offset: 0, 0
+	index: -1
+g_headarm7_dajongyan
+	rotate: false
+	xy: 128, 357
+	size: 51, 27
+	orig: 51, 27
+	offset: 0, 0
+	index: -1
+l_Rhand_dajongyan
+	rotate: false
+	xy: 385, 185
+	size: 39, 40
+	orig: 39, 40
+	offset: 0, 0
+	index: -1
+e_Rhand_dajongyan
+	rotate: true
+	xy: 262, 340
+	size: 44, 33
+	orig: 44, 33
+	offset: 0, 0
+	index: -1
+l_Rforearm2_dajongyan
+	rotate: true
+	xy: 319, 108
+	size: 33, 36
+	orig: 33, 36
+	offset: 0, 0
+	index: -1
+j_Rarm2_dajongyan
+	rotate: false
+	xy: 441, 0
+	size: 26, 31
+	orig: 26, 31
+	offset: 0, 0
+	index: -1
+j_Lfoot_dajongyan
+	rotate: false
+	xy: 297, 142
+	size: 36, 43
+	orig: 36, 43
+	offset: 0, 0
+	index: -1
+g_Lfoot_dajongyan
+	rotate: true
+	xy: 362, 185
+	size: 41, 22
+	orig: 41, 22
+	offset: 0, 0
+	index: -1
+d_Rforearm2_dajongyan
+	rotate: false
+	xy: 368, 268
+	size: 35, 21
+	orig: 35, 21
+	offset: 0, 0
+	index: -1
+d_headarm6_dajongyan
+	rotate: true
+	xy: 144, 201
+	size: 26, 34
+	orig: 26, 34
+	offset: 0, 0
+	index: -1
+a_Larm_dajongyan
+	rotate: false
+	xy: 76, 0
+	size: 46, 71
+	orig: 46, 71
+	offset: 0, 0
+	index: -1
+a_Rshin_dajongyan
+	rotate: true
+	xy: 304, 64
+	size: 43, 39
+	orig: 43, 39
+	offset: 0, 0
+	index: -1
+d_headarm3_dajongyan
+	rotate: true
+	xy: 405, 247
+	size: 25, 35
+	orig: 25, 35
+	offset: 0, 0
+	index: -1
+b_Lhand_dajongyan
+	rotate: false
+	xy: 426, 103
+	size: 34, 38
+	orig: 34, 38
+	offset: 0, 0
+	index: -1
+d_headarm5_dajongyan
+	rotate: false
+	xy: 334, 142
+	size: 24, 43
+	orig: 24, 43
+	offset: 0, 0
+	index: -1
+a_headarm4_dajongyan
+	rotate: false
+	xy: 213, 67
+	size: 25, 52
+	orig: 25, 52
+	offset: 0, 0
+	index: -1
+d_headarm2_dajongyan
+	rotate: true
+	xy: 456, 155
+	size: 23, 36
+	orig: 23, 36
+	offset: 0, 0
+	index: -1
+a_head_dajongyan
+	rotate: true
+	xy: 0, 231
+	size: 76, 72
+	orig: 76, 72
+	offset: 0, 0
+	index: -1
+l_headarm4_dajongyan
+	rotate: false
+	xy: 322, 228
+	size: 19, 49
+	orig: 19, 49
+	offset: 0, 0
+	index: -1
+j_Larm2_dajongyan
+	rotate: true
+	xy: 404, 273
+	size: 27, 32
+	orig: 27, 32
+	offset: 0, 0
+	index: -1
+a_Lhand_dajongyan
+	rotate: true
+	xy: 441, 256
+	size: 27, 34
+	orig: 27, 34
+	offset: 0, 0
+	index: -1
+l_Lhand_dajongyan
+	rotate: true
+	xy: 421, 142
+	size: 39, 34
+	orig: 39, 34
+	offset: 0, 0
+	index: -1
+b_Larm2_dajongyan
+	rotate: false
+	xy: 368, 315
+	size: 30, 27
+	orig: 30, 27
+	offset: 0, 0
+	index: -1
+a_Lshin_dajongyan
+	rotate: true
+	xy: 223, 343
+	size: 41, 38
+	orig: 41, 38
+	offset: 0, 0
+	index: -1
+g_Lforearm_dajongyan
+	rotate: false
+	xy: 158, 228
+	size: 40, 57
+	orig: 40, 57
+	offset: 0, 0
+	index: -1
+a_headarm7_dajongyan
+	rotate: false
+	xy: 469, 304
+	size: 30, 24
+	orig: 30, 24
+	offset: 0, 0
+	index: -1
+g_headarm5_dajongyan
+	rotate: false
+	xy: 242, 228
+	size: 31, 51
+	orig: 31, 51
+	offset: 0, 0
+	index: -1
+b_Rhand2_dajongyan
+	rotate: false
+	xy: 127, 447
+	size: 26, 14
+	orig: 26, 14
+	offset: 0, 0
+	index: -1
+l_Rthigh_dajongyan
+	rotate: true
+	xy: 241, 285
+	size: 54, 53
+	orig: 54, 53
+	offset: 0, 0
+	index: -1
+a_Rforearm_dajongyan
+	rotate: false
+	xy: 173, 0
+	size: 40, 66
+	orig: 40, 66
+	offset: 0, 0
+	index: -1
+b_Lforearm_dajongyan
+	rotate: false
+	xy: 132, 462
+	size: 54, 49
+	orig: 54, 49
+	offset: 0, 0
+	index: -1
+d_Rforearm22_dajongyan
+	rotate: false
+	xy: 456, 202
+	size: 36, 21
+	orig: 36, 21
+	offset: 0, 0
+	index: -1
+b_Lhand2_dajongyan
+	rotate: true
+	xy: 493, 155
+	size: 21, 15
+	orig: 21, 15
+	offset: 0, 0
+	index: -1
+a_Rforearm2_dajongyan
+	rotate: true
+	xy: 401, 301
+	size: 29, 31
+	orig: 29, 31
+	offset: 0, 0
+	index: -1
+j_Rshin_dajongyan
+	rotate: true
+	xy: 95, 462
+	size: 50, 36
+	orig: 50, 36
+	offset: 0, 0
+	index: -1
+d_Lhand_dajongyan
+	rotate: false
+	xy: 439, 60
+	size: 28, 38
+	orig: 28, 38
+	offset: 0, 0
+	index: -1
+l_Larm2_dajongyan
+	rotate: false
+	xy: 214, 46
+	size: 20, 20
+	orig: 20, 20
+	offset: 0, 0
+	index: -1
+g_Rforearm2_dajongyan
+	rotate: true
+	xy: 456, 224
+	size: 31, 35
+	orig: 31, 35
+	offset: 0, 0
+	index: -1
+b_Rhand_dajongyan
+	rotate: false
+	xy: 351, 474
+	size: 38, 38
+	orig: 38, 38
+	offset: 0, 0
+	index: -1
+g_headarm2_dajongyan
+	rotate: false
+	xy: 73, 358
+	size: 54, 26
+	orig: 54, 26
+	offset: 0, 0
+	index: -1
+e_Lhand_dajongyan
+	rotate: false
+	xy: 365, 227
+	size: 39, 40
+	orig: 39, 40
+	offset: 0, 0
+	index: -1
+a_eye1_dajongyan
+	rotate: true
+	xy: 311, 377
+	size: 48, 29
+	orig: 48, 29
+	offset: 0, 0
+	index: -1
+e_Rforearm_dajongyan
+	rotate: true
+	xy: 74, 77
+	size: 72, 40
+	orig: 72, 40
+	offset: 0, 0
+	index: -1
+a_Rthigh_dajongyan
+	rotate: false
+	xy: 229, 440
+	size: 52, 53
+	orig: 52, 53
+	offset: 0, 0
+	index: -1
+l_Rfoot_dajongyan
+	rotate: false
+	xy: 441, 32
+	size: 37, 27
+	orig: 37, 27
+	offset: 0, 0
+	index: -1
+g_headarm1_dajongyan
+	rotate: true
+	xy: 196, 142
+	size: 52, 23
+	orig: 52, 23
+	offset: 0, 0
+	index: -1
+d_Rarm22_dajongyan
+	rotate: false
+	xy: 476, 256
+	size: 32, 23
+	orig: 32, 23
+	offset: 0, 0
+	index: -1
+g_Lhand2_dajongyan
+	rotate: false
+	xy: 410, 43
+	size: 30, 16
+	orig: 30, 16
+	offset: 0, 0
+	index: -1
+e_Rshin_dajongyan
+	rotate: false
+	xy: 267, 385
+	size: 43, 53
+	orig: 43, 53
+	offset: 0, 0
+	index: -1
+d_head_dajongyan
+	rotate: false
+	xy: 73, 154
+	size: 70, 73
+	orig: 70, 73
+	offset: 0, 0
+	index: -1
+d_headarm4_dajongyan
+	rotate: true
+	xy: 229, 494
+	size: 18, 44
+	orig: 18, 44
+	offset: 0, 0
+	index: -1
+g_head_dajongyan
+	rotate: true
+	xy: 0, 385
+	size: 76, 69
+	orig: 76, 69
+	offset: 0, 0
+	index: -1
+g_Lforearm11_dajongyan
+	rotate: false
+	xy: 127, 385
+	size: 42, 61
+	orig: 42, 61
+	offset: 0, 0
+	index: -1
+j_Lforearm2_dajongyan
+	rotate: true
+	xy: 456, 179
+	size: 22, 36
+	orig: 22, 36
+	offset: 0, 0
+	index: -1
+j_Rhand_dajongyan
+	rotate: true
+	xy: 324, 186
+	size: 41, 37
+	orig: 41, 37
+	offset: 0, 0
+	index: -1
+g_Rfoot_dajongyan
+	rotate: true
+	xy: 313, 426
+	size: 48, 24
+	orig: 48, 24
+	offset: 0, 0
+	index: -1
+h_Lhand_dajongyan
+	rotate: true
+	xy: 295, 0
+	size: 45, 28
+	orig: 45, 28
+	offset: 0, 0
+	index: -1
+l_headarm2_dajongyan
+	rotate: true
+	xy: 368, 62
+	size: 42, 39
+	orig: 42, 39
+	offset: 0, 0
+	index: -1
+d_Rhand_dajongyan
+	rotate: false
+	xy: 408, 61
+	size: 30, 41
+	orig: 30, 41
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1

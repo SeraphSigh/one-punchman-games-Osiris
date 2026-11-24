@@ -1,0 +1,342 @@
+
+asset/anim/jienuosiweiqunkapai0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rarm_jienuosiweiqunkapai
+	rotate: false
+	xy: 415, 851
+	size: 113, 131
+	orig: 113, 131
+	offset: 0, 0
+	index: -1
+Lfoot_jienuosiweiqunkapai
+	rotate: true
+	xy: 875, 392
+	size: 160, 98
+	orig: 160, 98
+	offset: 0, 0
+	index: -1
+Rfoot_jienuosiweiqunkapai
+	rotate: true
+	xy: 482, 707
+	size: 94, 114
+	orig: 94, 114
+	offset: 0, 0
+	index: -1
+body2_jienuosiweiqunkapai
+	rotate: false
+	xy: 254, 0
+	size: 296, 405
+	orig: 296, 405
+	offset: 0, 0
+	index: -1
+Larm2_jienuosiweiqunkapai
+	rotate: true
+	xy: 203, 851
+	size: 113, 211
+	orig: 113, 211
+	offset: 0, 0
+	index: -1
+head_2_jienuosiweiqunkapai
+	rotate: true
+	xy: 731, 958
+	size: 61, 82
+	orig: 61, 82
+	offset: 0, 0
+	index: -1
+head_4_jienuosiweiqunkapai
+	rotate: true
+	xy: 875, 688
+	size: 80, 102
+	orig: 80, 102
+	offset: 0, 0
+	index: -1
+Ryanpiup_jienuosiweiqunkapai
+	rotate: false
+	xy: 978, 732
+	size: 38, 20
+	orig: 38, 20
+	offset: 0, 0
+	index: -1
+Lmei_jienuosiweiqunkapai
+	rotate: false
+	xy: 203, 834
+	size: 26, 14
+	orig: 26, 14
+	offset: 0, 0
+	index: -1
+zuotui_jienuosiweiqunkapai
+	rotate: true
+	xy: 551, 0
+	size: 157, 444
+	orig: 157, 444
+	offset: 0, 0
+	index: -1
+Rhand_jienuosiweiqunkapai
+	rotate: true
+	xy: 650, 946
+	size: 77, 80
+	orig: 77, 80
+	offset: 0, 0
+	index: -1
+Rfinger_4_jienuosiweiqunkapai
+	rotate: true
+	xy: 996, 58
+	size: 58, 24
+	orig: 58, 24
+	offset: 0, 0
+	index: -1
+youtui_jienuosiweiqunkapai
+	rotate: true
+	xy: 551, 158
+	size: 128, 440
+	orig: 128, 440
+	offset: 0, 0
+	index: -1
+body1_jienuosiweiqunkapai
+	rotate: false
+	xy: 254, 406
+	size: 227, 355
+	orig: 227, 355
+	offset: 0, 0
+	index: -1
+Rarm_1_jienuosiweiqunkapai
+	rotate: true
+	xy: 731, 592
+	size: 123, 143
+	orig: 123, 143
+	offset: 0, 0
+	index: -1
+Larm1_jienuosiweiqunkapai
+	rotate: false
+	xy: 753, 393
+	size: 121, 198
+	orig: 121, 198
+	offset: 0, 0
+	index: -1
+Reyeball_jienuosiweiqunkapai
+	rotate: false
+	xy: 731, 572
+	size: 14, 14
+	orig: 14, 14
+	offset: 0, 0
+	index: -1
+Rmei_jienuosiweiqunkapai
+	rotate: true
+	xy: 955, 769
+	size: 44, 19
+	orig: 44, 19
+	offset: 0, 0
+	index: -1
+Lyanpidown_jienuosiweiqunkapai
+	rotate: true
+	xy: 59, 1000
+	size: 24, 18
+	orig: 24, 18
+	offset: 0, 0
+	index: -1
+head_5_jienuosiweiqunkapai
+	rotate: true
+	xy: 865, 769
+	size: 57, 89
+	orig: 57, 89
+	offset: 0, 0
+	index: -1
+Lyanpiup_jienuosiweiqunkapai
+	rotate: true
+	xy: 78, 1000
+	size: 24, 17
+	orig: 24, 17
+	offset: 0, 0
+	index: -1
+head_jienuosiweiqunkapai
+	rotate: false
+	xy: 590, 393
+	size: 162, 178
+	orig: 162, 178
+	offset: 0, 0
+	index: -1
+Rfinger_5_jienuosiweiqunkapai
+	rotate: false
+	xy: 203, 810
+	size: 50, 23
+	orig: 50, 23
+	offset: 0, 0
+	index: -1
+face_jienuosiweiqunkapai
+	rotate: true
+	xy: 590, 572
+	size: 130, 140
+	orig: 130, 140
+	offset: 0, 0
+	index: -1
+Leyeball_jienuosiweiqunkapai
+	rotate: false
+	xy: 551, 393
+	size: 10, 12
+	orig: 10, 12
+	offset: 0, 0
+	index: -1
+jienuosiweiqun_yantuan0008
+	rotate: true
+	xy: 866, 287
+	size: 104, 118
+	orig: 150, 130
+	offset: 39, 7
+	index: -1
+saoba2_jienuosiweiqunkapai
+	rotate: false
+	xy: 0, 0
+	size: 253, 809
+	orig: 253, 809
+	offset: 0, 0
+	index: -1
+Rfinger_3_jienuosiweiqunkapai
+	rotate: true
+	xy: 996, 0
+	size: 57, 28
+	orig: 57, 28
+	offset: 0, 0
+	index: -1
+jienuosiweiqun_yantuan0002
+	rotate: true
+	xy: 781, 839
+	size: 118, 102
+	orig: 150, 130
+	offset: 13, 14
+	index: -1
+jienuosiweiqun_yantuan0003
+	rotate: false
+	xy: 529, 822
+	size: 130, 114
+	orig: 150, 130
+	offset: 8, 8
+	index: -1
+jienuosiweiqun_yantuan0001
+	rotate: true
+	xy: 884, 827
+	size: 94, 80
+	orig: 150, 130
+	offset: 24, 25
+	index: -1
+jienuosiweiqun_yantuan0006
+	rotate: false
+	xy: 730, 716
+	size: 134, 122
+	orig: 150, 130
+	offset: 9, 6
+	index: -1
+jienuosiweiqun_yantuan0007
+	rotate: true
+	xy: 660, 839
+	size: 106, 120
+	orig: 150, 130
+	offset: 37, 5
+	index: -1
+jienuosiweiqun_yantuan0004
+	rotate: false
+	xy: 597, 703
+	size: 132, 118
+	orig: 150, 130
+	offset: 8, 4
+	index: -1
+jienuosiweiqun_yantuan0005
+	rotate: true
+	xy: 875, 553
+	size: 134, 118
+	orig: 150, 130
+	offset: 7, 6
+	index: -1
+head_6_jienuosiweiqunkapai
+	rotate: true
+	xy: 203, 965
+	size: 47, 94
+	orig: 47, 94
+	offset: 0, 0
+	index: -1
+Rfinger_1_jienuosiweiqunkapai
+	rotate: true
+	xy: 978, 688
+	size: 43, 46
+	orig: 43, 46
+	offset: 0, 0
+	index: -1
+Leye_jienuosiweiqunkapai
+	rotate: false
+	xy: 230, 834
+	size: 23, 13
+	orig: 23, 13
+	offset: 0, 0
+	index: -1
+Reye_jienuosiweiqunkapai
+	rotate: false
+	xy: 59, 982
+	size: 35, 17
+	orig: 35, 17
+	offset: 0, 0
+	index: -1
+Lhand_jienuosiweiqunkapai
+	rotate: false
+	xy: 884, 922
+	size: 82, 83
+	orig: 82, 83
+	offset: 0, 0
+	index: -1
+Ryanpidown_jienuosiweiqunkapai
+	rotate: false
+	xy: 814, 958
+	size: 35, 20
+	orig: 35, 20
+	offset: 0, 0
+	index: -1
+Rfinger_2_jienuosiweiqunkapai
+	rotate: false
+	xy: 0, 982
+	size: 58, 29
+	orig: 58, 29
+	offset: 0, 0
+	index: -1
+Rleg2_jienuosiweiqunkapai
+	rotate: true
+	xy: 551, 287
+	size: 105, 314
+	orig: 105, 314
+	offset: 0, 0
+	index: -1
+kua_jienuosiweiqunkapai
+	rotate: false
+	xy: 0, 810
+	size: 202, 171
+	orig: 202, 171
+	offset: 0, 0
+	index: -1
+head_1_jienuosiweiqunkapai
+	rotate: false
+	xy: 529, 937
+	size: 120, 82
+	orig: 120, 82
+	offset: 0, 0
+	index: -1
+head_3_jienuosiweiqunkapai
+	rotate: false
+	xy: 985, 287
+	size: 39, 94
+	orig: 39, 94
+	offset: 0, 0
+	index: -1
+Lleg2_jienuosiweiqunkapai
+	rotate: false
+	xy: 482, 406
+	size: 107, 300
+	orig: 107, 300
+	offset: 0, 0
+	index: -1
+Rarm_2_jienuosiweiqunkapai
+	rotate: false
+	xy: 254, 762
+	size: 223, 88
+	orig: 223, 88
+	offset: 0, 0
+	index: -1

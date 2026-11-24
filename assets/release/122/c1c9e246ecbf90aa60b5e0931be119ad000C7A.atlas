@@ -1,0 +1,205 @@
+
+asset/anim/yunshi4.png
+size: 506,557
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yunshi_000
+	rotate: false
+	xy: 0, 0
+	size: 506, 557
+	orig: 530, 667
+	offset: 24, 45
+	index: -1
+
+asset/anim/yunshi2.png
+size: 1017,563
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yunshi_005
+	rotate: false
+	xy: 0, 0
+	size: 510, 563
+	orig: 530, 667
+	offset: 20, 43
+	index: -1
+yunshi_004
+	rotate: false
+	xy: 511, 0
+	size: 506, 563
+	orig: 530, 667
+	offset: 24, 43
+	index: -1
+
+asset/anim/yunshi3.png
+size: 1013,559
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yunshi_001
+	rotate: false
+	xy: 0, 0
+	size: 506, 559
+	orig: 530, 667
+	offset: 24, 44
+	index: -1
+yunshi_003
+	rotate: false
+	xy: 507, 0
+	size: 506, 559
+	orig: 530, 667
+	offset: 24, 43
+	index: -1
+
+asset/anim/yunshi0.png
+size: 1020,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yunshi_shanbai
+	rotate: false
+	xy: 990, 95
+	size: 7, 7
+	orig: 7, 7
+	offset: 0, 0
+	index: -1
+yunshi_007
+	rotate: true
+	xy: 0, 511
+	size: 510, 581
+	orig: 530, 667
+	offset: 20, 43
+	index: -1
+yunshi_008
+	rotate: true
+	xy: 0, 0
+	size: 510, 591
+	orig: 530, 667
+	offset: 20, 43
+	index: -1
+yunshi_guangxian_006
+	rotate: true
+	xy: 990, 0
+	size: 94, 25
+	orig: 140, 45
+	offset: 22, 11
+	index: -1
+yunshi_baozha_013
+	rotate: true
+	xy: 842, 506
+	size: 245, 171
+	orig: 499, 331
+	offset: 125, 68
+	index: -1
+yunshi_baozha_012
+	rotate: true
+	xy: 849, 258
+	size: 247, 171
+	orig: 499, 331
+	offset: 126, 68
+	index: -1
+yunshi_baozha_011
+	rotate: false
+	xy: 592, 337
+	size: 249, 175
+	orig: 499, 331
+	offset: 124, 68
+	index: -1
+yunshi_baozha_010
+	rotate: false
+	xy: 582, 513
+	size: 245, 181
+	orig: 499, 331
+	offset: 126, 61
+	index: -1
+yunshi_baozha_001
+	rotate: false
+	xy: 582, 877
+	size: 113, 119
+	orig: 499, 331
+	offset: 180, 65
+	index: -1
+yunshi_baozha_008
+	rotate: true
+	xy: 826, 752
+	size: 235, 181
+	orig: 499, 331
+	offset: 130, 60
+	index: -1
+yunshi_baozha_009
+	rotate: false
+	xy: 582, 695
+	size: 243, 181
+	orig: 499, 331
+	offset: 128, 61
+	index: -1
+yunshi_dilie
+	rotate: false
+	xy: 592, 258
+	size: 256, 78
+	orig: 256, 78
+	offset: 0, 0
+	index: -1
+yunshi_chongguang_000
+	rotate: false
+	xy: 592, 0
+	size: 397, 257
+	orig: 397, 257
+	offset: 0, 0
+	index: -1
+
+asset/anim/yunshi1.png
+size: 1017,803
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yunshi_006
+	rotate: false
+	xy: 0, 0
+	size: 510, 569
+	orig: 530, 667
+	offset: 20, 43
+	index: -1
+yunshi_002
+	rotate: false
+	xy: 511, 0
+	size: 506, 567
+	orig: 530, 667
+	offset: 24, 44
+	index: -1
+yunshi_baozha_017
+	rotate: true
+	xy: 350, 570
+	size: 229, 161
+	orig: 499, 331
+	offset: 123, 68
+	index: -1
+yunshi_baozha_015
+	rotate: false
+	xy: 674, 568
+	size: 241, 171
+	orig: 499, 331
+	offset: 124, 68
+	index: -1
+yunshi_baozha_003
+	rotate: true
+	xy: 512, 568
+	size: 207, 161
+	orig: 499, 331
+	offset: 146, 66
+	index: -1
+yunshi_baozha_005
+	rotate: true
+	xy: 180, 570
+	size: 233, 169
+	orig: 499, 331
+	offset: 133, 66
+	index: -1
+yunshi_baozha_007
+	rotate: true
+	xy: 0, 570
+	size: 233, 179
+	orig: 499, 331
+	offset: 132, 62
+	index: -1

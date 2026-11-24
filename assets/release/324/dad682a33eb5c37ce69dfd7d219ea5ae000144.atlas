@@ -1,0 +1,20 @@
+
+asset/anim/zhanglaochangjing0.png
+size: 433,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wugongzhanglaoshu1
+	rotate: true
+	xy: 326, 0
+	size: 175, 107
+	orig: 181, 117
+	offset: 6, 6
+	index: -1
+wugongzhanglaoshu2
+	rotate: false
+	xy: 0, 0
+	size: 325, 212
+	orig: 329, 218
+	offset: 3, 2
+	index: -1

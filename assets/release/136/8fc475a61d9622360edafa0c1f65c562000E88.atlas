@@ -1,0 +1,212 @@
+
+asset/anim/juexingzhanglangSE4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/JXzhanglang_shangsheng_00058
+	rotate: false
+	xy: 328, 0
+	size: 67, 71
+	orig: 77, 81
+	offset: 10, 7
+	index: -1
+common/JXzhanglang_shangsheng_00059
+	rotate: true
+	xy: 114, 357
+	size: 57, 69
+	orig: 77, 81
+	offset: 10, 8
+	index: -1
+common/JXzhanglang_shangsheng_00056
+	rotate: false
+	xy: 396, 0
+	size: 67, 69
+	orig: 77, 81
+	offset: 10, 8
+	index: -1
+common/JXzhanglang_shangsheng_00057
+	rotate: false
+	xy: 323, 126
+	size: 67, 71
+	orig: 77, 81
+	offset: 10, 7
+	index: -1
+common/JXzhanglang_shangsheng_00054
+	rotate: false
+	xy: 340, 198
+	size: 67, 69
+	orig: 77, 81
+	offset: 10, 7
+	index: -1
+common/JXzhanglang_shangsheng_00055
+	rotate: false
+	xy: 391, 72
+	size: 67, 69
+	orig: 77, 81
+	offset: 10, 8
+	index: -1
+common/JXzhanglang_shangsheng_00051
+	rotate: false
+	xy: 301, 332
+	size: 67, 71
+	orig: 77, 81
+	offset: 10, 7
+	index: -1
+common/JXzhanglang_sz2_00047
+	rotate: false
+	xy: 212, 0
+	size: 115, 125
+	orig: 115, 125
+	offset: 0, 0
+	index: -1
+common/JXzhanglang_shangsheng_00049
+	rotate: false
+	xy: 328, 741
+	size: 67, 71
+	orig: 77, 81
+	offset: 10, 7
+	index: -1
+common/JXzhanglang_ks_00002
+	rotate: true
+	xy: 87, 416
+	size: 180, 71
+	orig: 192, 77
+	offset: 5, 0
+	index: -1
+
+asset/anim/juexingzhanglangSE2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/JXzhanglang_shangsheng_00052
+	rotate: true
+	xy: 563, 955
+	size: 69, 71
+	orig: 77, 81
+	offset: 8, 7
+	index: -1
+common/JXzhanglang_shangsheng_00053
+	rotate: false
+	xy: 703, 954
+	size: 69, 69
+	orig: 77, 81
+	offset: 8, 7
+	index: -1
+common/JXzhanglang_shangsheng_00050
+	rotate: true
+	xy: 491, 955
+	size: 69, 71
+	orig: 77, 81
+	offset: 8, 7
+	index: -1
+common/JXzhanglang_ksan_00045
+	rotate: true
+	xy: 423, 866
+	size: 154, 67
+	orig: 154, 77
+	offset: 0, 4
+	index: -1
+common/JXzhanglang_shangsheng_00048
+	rotate: false
+	xy: 423, 759
+	size: 67, 71
+	orig: 77, 81
+	offset: 10, 7
+	index: -1
+
+asset/anim/juexingzhanglangSE3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/JXzhanglang_gz_00049
+	rotate: true
+	xy: 290, 290
+	size: 136, 142
+	orig: 144, 144
+	offset: 3, 2
+	index: -1
+common/JXzhanglang_gy_00002
+	rotate: true
+	xy: 433, 284
+	size: 115, 73
+	orig: 115, 77
+	offset: 0, 2
+	index: -1
+common/JXzhanglang_ks_00006
+	rotate: false
+	xy: 733, 651
+	size: 186, 49
+	orig: 192, 77
+	offset: 0, 1
+	index: -1
+
+asset/anim/juexingzhanglangSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/JXzhanglang_ks_00005
+	rotate: false
+	xy: 214, 963
+	size: 192, 61
+	orig: 192, 77
+	offset: 0, 0
+	index: -1
+common/JXzhanglang_ks_00004
+	rotate: false
+	xy: 214, 963
+	size: 192, 61
+	orig: 192, 77
+	offset: 0, 0
+	index: -1
+common/JXzhanglang_ks_00007
+	rotate: false
+	xy: 31, 1002
+	size: 182, 17
+	orig: 192, 77
+	offset: 3, 28
+	index: -1
+common/JXzhanglang_ks_00000
+	rotate: false
+	xy: 481, 606
+	size: 152, 71
+	orig: 192, 77
+	offset: 19, 0
+	index: -1
+common/JXzhanglang_ks_00003
+	rotate: false
+	xy: 407, 959
+	size: 192, 65
+	orig: 192, 77
+	offset: 0, 0
+	index: -1
+
+asset/anim/juexingzhanglangSE1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/JXzhanglang_ksq_00045
+	rotate: true
+	xy: 947, 0
+	size: 192, 77
+	orig: 192, 77
+	offset: 0, 0
+	index: -1
+common/JXzhanglang_zhuang_h_00050
+	rotate: false
+	xy: 74, 727
+	size: 134, 36
+	orig: 134, 38
+	offset: 0, 2
+	index: -1
+common/JXzhanglang_ks_00001
+	rotate: true
+	xy: 0, 605
+	size: 158, 73
+	orig: 192, 77
+	offset: 16, 0
+	index: -1

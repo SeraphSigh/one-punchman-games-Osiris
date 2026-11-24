@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>snk2_super_chongtianhuan_00100.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			</array>
+			<key>spriteOffset</key>
+			<string>{2,33}</string>
+			<key>spriteSize</key>
+			<string>{371,60}</string>
+			<key>spriteSourceSize</key>
+			<string>{387,146}</string>
+			<key>textureRect</key>
+			<string>{{0,0},{371,60}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>pixelFormat</key>
+		<string>RGBA8888</string>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>suonike2SEMAX4.png</string>
+		<key>scale</key>
+		<real>0.86</real>
+		<key>size</key>
+		<string>{512,512}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:c423913d3c5ae581b954d32a4d9039a4:276ba07c146f029b4164381b50bf4aa7:d8d6eb95fd54714d62c995bdcc92decd$</string>
+		<key>textureFileName</key>
+		<string>suonike2SEMAX4.png</string>
+	</dict>
+</dict>
+</plist>

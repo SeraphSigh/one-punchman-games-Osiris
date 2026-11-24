@@ -1,0 +1,334 @@
+
+asset/anim/dajiongyanSESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/djy_xuli2_00004
+	rotate: false
+	xy: 869, 514
+	size: 51, 13
+	orig: 189, 83
+	offset: 42, 4
+	index: -1
+
+asset/anim/dajiongyanSEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/djy_cj_xushitou_shi_00002
+	rotate: true
+	xy: 824, 571
+	size: 58, 81
+	orig: 60, 81
+	offset: 1, 0
+	index: -1
+max/djy_cj_bj1_i
+	rotate: false
+	xy: 987, 407
+	size: 34, 34
+	orig: 34, 34
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyanSEMAX3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/djy_cj_xushitou_00014
+	rotate: true
+	xy: 259, 774
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+max/djy_cj_xushitou_00013
+	rotate: true
+	xy: 0, 774
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+max/djy_cj_xushitou_00017
+	rotate: true
+	xy: 518, 774
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyanSESKILL3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/djy_xuli2_00005
+	rotate: false
+	xy: 924, 226
+	size: 85, 37
+	orig: 189, 83
+	offset: 12, 2
+	index: -1
+
+asset/anim/dajiongyanSEMAX5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/djy_cj_xushitou_00044
+	rotate: false
+	xy: 500, 518
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+max/djy_cj_xushitou_00040
+	rotate: true
+	xy: 518, 250
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+max/djy_cj_xushitou_00007
+	rotate: false
+	xy: 777, 259
+	size: 235, 258
+	orig: 249, 258
+	offset: 9, 0
+	index: -1
+max/djy_cj_xushitou_00008
+	rotate: true
+	xy: 0, 777
+	size: 245, 258
+	orig: 249, 258
+	offset: 4, 0
+	index: -1
+max/djy_cj_xushitou_00038
+	rotate: false
+	xy: 250, 518
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+max/djy_cj_xushitou_00010
+	rotate: false
+	xy: 777, 0
+	size: 245, 258
+	orig: 249, 258
+	offset: 4, 0
+	index: -1
+max/djy_cj_xushitou_00011
+	rotate: true
+	xy: 259, 777
+	size: 243, 258
+	orig: 249, 258
+	offset: 6, 0
+	index: -1
+max/djy_cj_xushitou_00033
+	rotate: false
+	xy: 0, 259
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+max/djy_cj_xushitou_00032
+	rotate: false
+	xy: 0, 0
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+max/djy_cj_xushitou_00035
+	rotate: true
+	xy: 259, 0
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+max/djy_cj_xushitou_00034
+	rotate: false
+	xy: 0, 518
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+max/djy_cj_xushitou_00037
+	rotate: false
+	xy: 250, 259
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+max/djy_cj_xushitou_00036
+	rotate: true
+	xy: 518, 0
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyanSEMAX4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/djy_cj_xushitou_00028
+	rotate: true
+	xy: 750, 612
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+max/djy_cj_xushitou_00029
+	rotate: false
+	xy: 500, 642
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+max/djy_cj_xushitou_00022
+	rotate: false
+	xy: 0, 612
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+max/djy_cj_xushitou_00023
+	rotate: false
+	xy: 0, 287
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+max/djy_cj_xushitou_00020
+	rotate: true
+	xy: 750, 362
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+max/djy_cj_xushitou_00026
+	rotate: false
+	xy: 500, 383
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+max/djy_cj_xushitou_00025
+	rotate: false
+	xy: 250, 612
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+max/djy_cj_xushitou_00019
+	rotate: true
+	xy: 750, 112
+	size: 249, 258
+	orig: 249, 258
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyanSESKILL6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/djy_xuli2_00013
+	rotate: true
+	xy: 963, 544
+	size: 173, 61
+	orig: 189, 83
+	offset: 8, 17
+	index: -1
+
+asset/anim/dajiongyanSESKILL7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/djy_xuli2_00016
+	rotate: false
+	xy: 0, 965
+	size: 141, 59
+	orig: 189, 83
+	offset: 28, 16
+	index: -1
+skill/djy_xuli2_00008
+	rotate: true
+	xy: 742, 189
+	size: 179, 75
+	orig: 189, 83
+	offset: 0, 1
+	index: -1
+skill/djy_xuli2_00009
+	rotate: false
+	xy: 828, 70
+	size: 175, 75
+	orig: 189, 83
+	offset: 2, 2
+	index: -1
+skill/djy_xuli2_00007
+	rotate: false
+	xy: 828, 146
+	size: 171, 75
+	orig: 189, 83
+	offset: 4, 0
+	index: -1
+skill/djy_xuli2_00011
+	rotate: true
+	xy: 727, 381
+	size: 181, 73
+	orig: 189, 83
+	offset: 4, 4
+	index: -1
+skill/djy_xuli2_00010
+	rotate: true
+	xy: 754, 0
+	size: 179, 73
+	orig: 189, 83
+	offset: 4, 3
+	index: -1
+skill/djy_xuli2_00012
+	rotate: false
+	xy: 828, 0
+	size: 179, 69
+	orig: 189, 83
+	offset: 6, 7
+	index: -1
+skill/djy_xuli2_00015
+	rotate: false
+	xy: 616, 961
+	size: 157, 61
+	orig: 189, 83
+	offset: 22, 16
+	index: -1
+skill/djy_xuli2_00014
+	rotate: false
+	xy: 444, 961
+	size: 171, 61
+	orig: 189, 83
+	offset: 7, 17
+	index: -1
+skill/djy_xuli2_00017
+	rotate: false
+	xy: 312, 965
+	size: 131, 53
+	orig: 189, 83
+	offset: 31, 16
+	index: -1
+
+asset/anim/dajiongyanSESKILL8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/djy_xuli2_00006
+	rotate: true
+	xy: 0, 812
+	size: 93, 73
+	orig: 189, 83
+	offset: 7, 0
+	index: -1

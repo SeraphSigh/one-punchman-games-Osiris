@@ -1,0 +1,231 @@
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_009
+	rotate: false
+	xy: 146, 815
+	size: 141, 44
+	orig: 223, 90
+	offset: 55, 18
+	index: -1
+
+asset/anim/changsheerSE.png
+size: 1013,650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+changsheer_baodian_00044
+	rotate: true
+	xy: 665, 0
+	size: 165, 118
+	orig: 255, 196
+	offset: 45, 69
+	index: -1
+changsheer_baodian_00031
+	rotate: false
+	xy: 878, 355
+	size: 135, 100
+	orig: 255, 196
+	offset: 56, 30
+	index: -1
+changsheer_baodian_00033
+	rotate: true
+	xy: 538, 226
+	size: 223, 158
+	orig: 255, 196
+	offset: 29, 20
+	index: -1
+changsheer_baodian_00032
+	rotate: true
+	xy: 483, 0
+	size: 225, 116
+	orig: 255, 196
+	offset: 28, 33
+	index: -1
+changsheer_baodian_00040
+	rotate: true
+	xy: 407, 226
+	size: 225, 130
+	orig: 255, 196
+	offset: 5, 58
+	index: -1
+changsheer_baodian_00041
+	rotate: true
+	xy: 576, 450
+	size: 199, 128
+	orig: 255, 196
+	offset: 11, 59
+	index: -1
+changsheer_baodian_00042
+	rotate: true
+	xy: 0, 476
+	size: 165, 126
+	orig: 255, 196
+	offset: 45, 62
+	index: -1
+changsheer_baodian_00043
+	rotate: true
+	xy: 168, 472
+	size: 165, 118
+	orig: 255, 196
+	offset: 45, 68
+	index: -1
+changsheer_baodian_00039
+	rotate: true
+	xy: 0, 0
+	size: 237, 132
+	orig: 255, 196
+	offset: 12, 57
+	index: -1
+changsheer_baodian_00038
+	rotate: true
+	xy: 262, 234
+	size: 233, 144
+	orig: 255, 196
+	offset: 16, 52
+	index: -1
+changsheer_baodian_00036
+	rotate: true
+	xy: 133, 0
+	size: 233, 190
+	orig: 255, 196
+	offset: 16, 0
+	index: -1
+changsheer_baodian_00030
+	rotate: true
+	xy: 784, 0
+	size: 135, 102
+	orig: 255, 196
+	offset: 56, 30
+	index: -1
+changsheer_baodian_00035
+	rotate: false
+	xy: 287, 468
+	size: 225, 182
+	orig: 255, 196
+	offset: 24, 4
+	index: -1
+changsheer_baodian_00037
+	rotate: true
+	xy: 65, 238
+	size: 233, 196
+	orig: 255, 196
+	offset: 16, 0
+	index: -1
+changsheer_baodian_00034
+	rotate: true
+	xy: 324, 0
+	size: 225, 158
+	orig: 255, 196
+	offset: 24, 20
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_010
+	rotate: false
+	xy: 334, 980
+	size: 151, 44
+	orig: 223, 90
+	offset: 48, 15
+	index: -1
+global/a_global_geliuganxiupu_suishi_005
+	rotate: false
+	xy: 584, 668
+	size: 115, 52
+	orig: 223, 90
+	offset: 74, 16
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_004
+	rotate: true
+	xy: 972, 459
+	size: 105, 52
+	orig: 223, 90
+	offset: 82, 15
+	index: -1
+global/a_global_geliuganxiupu_suishi_002
+	rotate: false
+	xy: 450, 784
+	size: 85, 48
+	orig: 223, 90
+	offset: 97, 15
+	index: -1
+global/a_global_geliuganxiupu_suishi_008
+	rotate: true
+	xy: 735, 522
+	size: 131, 48
+	orig: 223, 90
+	offset: 62, 17
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_011
+	rotate: false
+	xy: 482, 396
+	size: 159, 36
+	orig: 223, 90
+	offset: 43, 17
+	index: -1
+global/a_global_geliuganxiupu_suishi_006
+	rotate: false
+	xy: 512, 974
+	size: 123, 50
+	orig: 223, 90
+	offset: 68, 16
+	index: -1
+global/a_global_geliuganxiupu_suishi_007
+	rotate: false
+	xy: 512, 974
+	size: 123, 50
+	orig: 223, 90
+	offset: 68, 16
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_003
+	rotate: true
+	xy: 391, 414
+	size: 95, 50
+	orig: 223, 90
+	offset: 90, 15
+	index: -1
+global/a_global_geliuganxiupu_suishi_001
+	rotate: false
+	xy: 785, 587
+	size: 73, 44
+	orig: 223, 90
+	offset: 105, 15
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

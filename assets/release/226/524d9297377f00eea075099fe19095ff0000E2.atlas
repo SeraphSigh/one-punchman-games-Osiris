@@ -1,0 +1,13 @@
+
+asset/anim/yuanziwushiSEATTACK.png
+size: 493,483
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/canying_yuanziwushi
+	rotate: false
+	xy: 237, 313
+	size: 147, 90
+	orig: 147, 96
+	offset: 0, 1
+	index: -1

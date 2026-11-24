@@ -1,0 +1,567 @@
+
+asset/anim/elang2MAX2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/elang2_max_luodi_yanDOWN_00026
+	rotate: false
+	xy: 1734, 1520
+	size: 271, 124
+	orig: 361, 228
+	offset: 36, 68
+	index: -1
+max/elang2_max_luodi_huohua_00019
+	rotate: false
+	xy: 817, 1787
+	size: 116, 170
+	orig: 200, 354
+	offset: 49, 11
+	index: -1
+max/elang2_max_luodi_yanDOWN_00020
+	rotate: false
+	xy: 767, 1171
+	size: 331, 154
+	orig: 361, 228
+	offset: 17, 59
+	index: -1
+max/elang2_max_luodi_huohua_00016
+	rotate: false
+	xy: 272, 1739
+	size: 180, 294
+	orig: 200, 354
+	offset: 9, 5
+	index: -1
+max/elang2_max_luodi_huohua_00015
+	rotate: true
+	xy: 1703, 0
+	size: 172, 344
+	orig: 200, 354
+	offset: 16, 2
+	index: -1
+max/elang2_max_luodi_yanDOWN_00028
+	rotate: false
+	xy: 630, 1660
+	size: 259, 126
+	orig: 361, 228
+	offset: 42, 68
+	index: -1
+max/elang2_max_luodi_yanDOWN_00024
+	rotate: false
+	xy: 890, 1660
+	size: 275, 124
+	orig: 361, 228
+	offset: 35, 69
+	index: -1
+max/elang2_max_luodi_yanDOWN_00018
+	rotate: false
+	xy: 373, 1177
+	size: 327, 176
+	orig: 361, 228
+	offset: 21, 36
+	index: -1
+max/elang2_max_luodi_yanDOWN_00019
+	rotate: false
+	xy: 1244, 1410
+	size: 329, 160
+	orig: 361, 228
+	offset: 17, 53
+	index: -1
+max/elang2_max_luodi_yanDOWN_00016
+	rotate: false
+	xy: 701, 1326
+	size: 319, 176
+	orig: 361, 228
+	offset: 17, 25
+	index: -1
+
+asset/anim/elang2MAX0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/elang2_max_luodi_yanDOWN_00030
+	rotate: false
+	xy: 914, 1490
+	size: 251, 108
+	orig: 361, 228
+	offset: 41, 85
+	index: -1
+max/elang2_max_luodi_huohua_00020
+	rotate: true
+	xy: 1376, 1490
+	size: 74, 158
+	orig: 200, 354
+	offset: 79, 20
+	index: -1
+max/elang2_max_luodi_yanDOWN_00017
+	rotate: true
+	xy: 280, 1277
+	size: 323, 180
+	orig: 361, 228
+	offset: 18, 31
+	index: -1
+
+asset/anim/elang2MAX1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/elang2_max_luodi_huohua_00018
+	rotate: false
+	xy: 1759, 985
+	size: 148, 190
+	orig: 200, 354
+	offset: 28, 6
+	index: -1
+max/elang2_max_luodi_yanDOWN_00022
+	rotate: true
+	xy: 1909, 1756
+	size: 275, 128
+	orig: 361, 228
+	offset: 35, 64
+	index: -1
+max/elang2_max_luodi_huohua_00017
+	rotate: true
+	xy: 1019, 0
+	size: 178, 222
+	orig: 200, 354
+	offset: 17, 6
+	index: -1
+max/elang2_max_luodi_yanDOWN_00015
+	rotate: true
+	xy: 1019, 179
+	size: 295, 156
+	orig: 361, 228
+	offset: 30, 25
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_didiwang_Light_Decal
+	rotate: false
+	xy: 139, 687
+	size: 125, 127
+	orig: 125, 127
+	offset: 0, 0
+	index: -1
+
+asset/anim/elang2SKILL0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/elang2_jn_chongjibo_DOWN_00098
+	rotate: true
+	xy: 904, 459
+	size: 456, 377
+	orig: 512, 431
+	offset: 56, 5
+	index: -1
+skill/elang2_jn_chongjibo_DOWN_00095
+	rotate: false
+	xy: 0, 1661
+	size: 460, 377
+	orig: 512, 431
+	offset: 52, 5
+	index: -1
+skill/elang2_jn_chongjibo_DOWN_00094
+	rotate: true
+	xy: 512, 565
+	size: 458, 391
+	orig: 512, 431
+	offset: 54, 0
+	index: -1
+skill/elang2_jn_chongjibo_DOWN_00097
+	rotate: true
+	xy: 520, 0
+	size: 458, 399
+	orig: 512, 431
+	offset: 54, 0
+	index: -1
+skill/elang2_jn_chongjibo_DOWN_00096
+	rotate: true
+	xy: 715, 1561
+	size: 456, 423
+	orig: 512, 431
+	offset: 56, 0
+	index: -1
+skill/elang2_jn_chongjibo_DOWN_00093
+	rotate: true
+	xy: 518, 1102
+	size: 458, 351
+	orig: 512, 431
+	offset: 54, 23
+	index: -1
+skill/elang2_jn_chongjibo_DOWN_00076
+	rotate: true
+	xy: 870, 1024
+	size: 456, 415
+	orig: 512, 431
+	offset: 56, 0
+	index: -1
+skill/elang2_jn_chongjibo_DOWN_00075
+	rotate: false
+	xy: 278, 483
+	size: 456, 81
+	orig: 512, 431
+	offset: 56, 150
+	index: -1
+
+asset/anim/elang2COMMON0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/elang2_qitiaoyan_00016
+	rotate: false
+	xy: 1147, 859
+	size: 114, 100
+	orig: 174, 186
+	offset: 26, 65
+	index: -1
+common/elang2_luodi_dilieDOWN_00015
+	rotate: true
+	xy: 862, 437
+	size: 425, 198
+	orig: 425, 242
+	offset: 0, 44
+	index: -1
+common/elang2_qitiaoyan_00017
+	rotate: false
+	xy: 1262, 1490
+	size: 70, 56
+	orig: 174, 186
+	offset: 28, 108
+	index: -1
+common/elang2_qitiaoyan_00010
+	rotate: false
+	xy: 1145, 1407
+	size: 116, 146
+	orig: 174, 186
+	offset: 25, 19
+	index: -1
+common/elang2_qitiaoyan_00012
+	rotate: false
+	xy: 1147, 437
+	size: 114, 110
+	orig: 174, 186
+	offset: 27, 55
+	index: -1
+common/elang2_qitiaoyan_00013
+	rotate: false
+	xy: 1147, 548
+	size: 114, 108
+	orig: 174, 186
+	offset: 27, 56
+	index: -1
+common/elang2_qitiaoyan_00014
+	rotate: false
+	xy: 1147, 657
+	size: 114, 100
+	orig: 174, 186
+	offset: 26, 65
+	index: -1
+common/elang2_qitiaoyan_00015
+	rotate: false
+	xy: 1147, 758
+	size: 114, 100
+	orig: 174, 186
+	offset: 26, 65
+	index: -1
+common/elang2_luodi_trail_00017
+	rotate: false
+	xy: 1720, 1723
+	size: 194, 305
+	orig: 236, 455
+	offset: 22, 8
+	index: -1
+common/elang2_luodi_trail_00015
+	rotate: true
+	xy: 1263, 435
+	size: 220, 433
+	orig: 236, 455
+	offset: 8, 4
+	index: -1
+common/elang2_luodi_trail_00014
+	rotate: true
+	xy: 1695, 902
+	size: 220, 317
+	orig: 236, 455
+	offset: 8, 119
+	index: -1
+common/elang2_luodi_trail_00013
+	rotate: true
+	xy: 1147, 1766
+	size: 210, 207
+	orig: 236, 455
+	offset: 18, 235
+	index: -1
+common/elang2_luodi_dilie_00030
+	rotate: true
+	xy: 1262, 1073
+	size: 416, 424
+	orig: 464, 520
+	offset: 25, 26
+	index: -1
+common/elang2_luodi_dilie_00031
+	rotate: true
+	xy: 1687, 1306
+	size: 416, 358
+	orig: 464, 520
+	offset: 25, 32
+	index: -1
+common/elang2_luodi_dilie_00019
+	rotate: false
+	xy: 425, 0
+	size: 420, 438
+	orig: 464, 520
+	offset: 24, 5
+	index: -1
+common/elang2_luodi_dilie_00016
+	rotate: true
+	xy: 1698, 0
+	size: 334, 350
+	orig: 464, 520
+	offset: 64, 47
+	index: -1
+common/elang2_luodi_dilie_00015
+	rotate: true
+	xy: 1695, 671
+	size: 230, 318
+	orig: 464, 520
+	offset: 104, 75
+	index: -1
+common/elang2_qitiaoyan_00018
+	rotate: true
+	xy: 1648, 1490
+	size: 68, 36
+	orig: 174, 186
+	offset: 29, 108
+	index: -1
+common/elang2_qitiaoyan_00007
+	rotate: false
+	xy: 1145, 960
+	size: 116, 148
+	orig: 174, 186
+	offset: 24, 16
+	index: -1
+common/elang2_qitiaoyan_00005
+	rotate: false
+	xy: 1915, 1870
+	size: 128, 150
+	orig: 174, 186
+	offset: 27, 8
+	index: -1
+common/elang2_qitiaoyan_00009
+	rotate: false
+	xy: 1145, 1258
+	size: 116, 148
+	orig: 174, 186
+	offset: 25, 18
+	index: -1
+common/elang2_qitiaoyan_00008
+	rotate: false
+	xy: 1145, 1109
+	size: 116, 148
+	orig: 174, 186
+	offset: 24, 17
+	index: -1
+common/elang2_luodi_dilie_00027
+	rotate: false
+	xy: 417, 888
+	size: 416, 438
+	orig: 464, 520
+	offset: 25, 32
+	index: -1
+common/elang2_luodi_dilie_00026
+	rotate: false
+	xy: 0, 1327
+	size: 416, 438
+	orig: 464, 520
+	offset: 25, 32
+	index: -1
+common/elang2_luodi_dilie_00025
+	rotate: false
+	xy: 0, 888
+	size: 416, 438
+	orig: 464, 520
+	offset: 25, 32
+	index: -1
+common/elang2_luodi_dilie_00024
+	rotate: false
+	xy: 846, 0
+	size: 416, 436
+	orig: 464, 520
+	offset: 25, 32
+	index: -1
+common/elang2_luodi_dilie_00023
+	rotate: false
+	xy: 1263, 0
+	size: 434, 434
+	orig: 464, 520
+	offset: 7, 32
+	index: -1
+common/elang2_luodi_dilie_00022
+	rotate: true
+	xy: 429, 439
+	size: 436, 432
+	orig: 464, 520
+	offset: 4, 31
+	index: -1
+common/elang2_luodi_dilie_00021
+	rotate: false
+	xy: 0, 449
+	size: 428, 438
+	orig: 464, 520
+	offset: 12, 18
+	index: -1
+common/elang2_luodi_dilie_00020
+	rotate: false
+	xy: 0, 0
+	size: 424, 448
+	orig: 464, 520
+	offset: 20, 2
+	index: -1
+common/elang2_luodi_dilie_00029
+	rotate: true
+	xy: 1262, 656
+	size: 416, 432
+	orig: 464, 520
+	offset: 25, 32
+	index: -1
+common/elang2_luodi_dilie_00028
+	rotate: false
+	xy: 417, 1327
+	size: 416, 438
+	orig: 464, 520
+	offset: 25, 32
+	index: -1
+common/elang2_luodi_dilie_00041
+	rotate: false
+	xy: 376, 1766
+	size: 416, 276
+	orig: 464, 520
+	offset: 25, 32
+	index: -1
+
+asset/anim/elang2COMMON1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/elang2_qitiaoyan_00011
+	rotate: false
+	xy: 245, 1398
+	size: 116, 146
+	orig: 174, 186
+	offset: 25, 19
+	index: -1
+common/elang2_luodi_trail_00019
+	rotate: false
+	xy: 245, 1545
+	size: 116, 105
+	orig: 236, 455
+	offset: 49, 27
+	index: -1
+common/elang2_luodi_trail_00018
+	rotate: false
+	xy: 1430, 1060
+	size: 170, 217
+	orig: 236, 455
+	offset: 35, 14
+	index: -1
+common/elang2_luodi_trail_00016
+	rotate: true
+	xy: 1668, 0
+	size: 216, 377
+	orig: 236, 455
+	offset: 12, 3
+	index: -1
+common/elang2_luodi_dilie_00034
+	rotate: false
+	xy: 0, 399
+	size: 416, 354
+	orig: 464, 520
+	offset: 25, 32
+	index: -1
+common/elang2_luodi_dilie_00035
+	rotate: false
+	xy: 834, 359
+	size: 416, 358
+	orig: 464, 520
+	offset: 25, 32
+	index: -1
+common/elang2_luodi_dilie_00036
+	rotate: false
+	xy: 417, 377
+	size: 416, 358
+	orig: 464, 520
+	offset: 25, 32
+	index: -1
+common/elang2_luodi_dilie_00037
+	rotate: false
+	xy: 1251, 359
+	size: 416, 292
+	orig: 464, 520
+	offset: 25, 32
+	index: -1
+common/elang2_luodi_dilie_00032
+	rotate: false
+	xy: 834, 0
+	size: 416, 358
+	orig: 464, 520
+	offset: 25, 32
+	index: -1
+common/elang2_luodi_dilie_00033
+	rotate: false
+	xy: 1251, 0
+	size: 416, 358
+	orig: 464, 520
+	offset: 25, 32
+	index: -1
+common/elang2_luodi_dilie_00050
+	rotate: false
+	xy: 1251, 652
+	size: 416, 252
+	orig: 464, 520
+	offset: 25, 32
+	index: -1
+common/elang2_luodi_dilie_00018
+	rotate: false
+	xy: 0, 0
+	size: 416, 398
+	orig: 464, 520
+	offset: 26, 14
+	index: -1
+common/elang2_luodi_dilie_00017
+	rotate: false
+	xy: 417, 0
+	size: 416, 376
+	orig: 464, 520
+	offset: 25, 24
+	index: -1
+common/elang2_qitiaoyan_00006
+	rotate: false
+	xy: 245, 1247
+	size: 124, 150
+	orig: 174, 186
+	offset: 25, 10
+	index: -1
+common/elang2_qitiaoyan_00004
+	rotate: false
+	xy: 627, 1314
+	size: 128, 146
+	orig: 174, 186
+	offset: 36, 4
+	index: -1
+common/elang2_qitiaoyan_00003
+	rotate: true
+	xy: 355, 1664
+	size: 88, 102
+	orig: 174, 186
+	offset: 73, 2
+	index: -1

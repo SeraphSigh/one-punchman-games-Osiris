@@ -1,0 +1,41 @@
+
+asset/anim/rifuyinghuaji0.png
+size: 506,656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youyinghuajishu02
+	rotate: true
+	xy: 157, 472
+	size: 177, 127
+	orig: 177, 127
+	offset: 0, 0
+	index: -1
+youyinghuajishu03
+	rotate: false
+	xy: 273, 0
+	size: 203, 133
+	orig: 203, 133
+	offset: 0, 0
+	index: -1
+youyinghuajishu01
+	rotate: true
+	xy: 157, 192
+	size: 141, 111
+	orig: 141, 111
+	offset: 0, 0
+	index: -1
+youyinghuajishu04
+	rotate: false
+	xy: 273, 134
+	size: 190, 245
+	orig: 190, 245
+	offset: 0, 0
+	index: -1
+youyinghuajishu05
+	rotate: false
+	xy: 285, 511
+	size: 162, 145
+	orig: 162, 145
+	offset: 0, 0
+	index: -1

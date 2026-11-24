@@ -1,0 +1,162 @@
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0001
+	rotate: true
+	xy: 639, 329
+	size: 98, 27
+	orig: 280, 73
+	offset: 89, 18
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0010
+	rotate: false
+	xy: 836, 891
+	size: 188, 63
+	orig: 280, 73
+	offset: 43, 7
+	index: -1
+global/a_global_texiao34_shenhaiwang_0009
+	rotate: false
+	xy: 840, 0
+	size: 184, 63
+	orig: 280, 73
+	offset: 46, 7
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0005
+	rotate: false
+	xy: 846, 78
+	size: 178, 59
+	orig: 280, 73
+	offset: 49, 9
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0011
+	rotate: false
+	xy: 799, 224
+	size: 190, 65
+	orig: 280, 73
+	offset: 42, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0012
+	rotate: false
+	xy: 400, 305
+	size: 192, 65
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0013
+	rotate: false
+	xy: 799, 290
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0014
+	rotate: false
+	xy: 593, 319
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 5
+	index: -1
+global/a_global_texiao34_shenhaiwang_0007
+	rotate: false
+	xy: 370, 519
+	size: 182, 61
+	orig: 280, 73
+	offset: 47, 8
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0003
+	rotate: false
+	xy: 276, 251
+	size: 156, 53
+	orig: 280, 73
+	offset: 59, 11
+	index: -1
+global/a_global_texiao34_shenhaiwang_0002
+	rotate: false
+	xy: 889, 238
+	size: 126, 47
+	orig: 280, 73
+	offset: 71, 12
+	index: -1
+
+asset/anim/wuzhengqishiSE.png
+size: 991,1016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuzhengqishi_quanquan_041
+	rotate: false
+	xy: 508, 906
+	size: 115, 101
+	orig: 251, 119
+	offset: 6, 5
+	index: -1
+wuzhengqishi_quanquan_040
+	rotate: true
+	xy: 402, 907
+	size: 107, 105
+	orig: 251, 119
+	offset: 9, 7
+	index: -1
+wuzhengqishi_quanquan_043
+	rotate: true
+	xy: 519, 659
+	size: 121, 87
+	orig: 251, 119
+	offset: 2, 5
+	index: -1
+wuzhengqishi_quanquan_042
+	rotate: true
+	xy: 427, 659
+	size: 121, 91
+	orig: 251, 119
+	offset: 3, 6
+	index: -1
+wuzhengqishi_quanquan_045
+	rotate: true
+	xy: 662, 771
+	size: 109, 21
+	orig: 251, 119
+	offset: 9, 51
+	index: -1
+wuzhengqishi_quanquan_044
+	rotate: false
+	xy: 832, 505
+	size: 115, 53
+	orig: 251, 119
+	offset: 3, 23
+	index: -1
+wuzhengqishi_guangdan_001
+	rotate: true
+	xy: 542, 559
+	size: 99, 98
+	orig: 99, 98
+	offset: 0, 0
+	index: -1

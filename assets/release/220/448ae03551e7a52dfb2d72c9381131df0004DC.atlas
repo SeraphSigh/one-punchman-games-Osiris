@@ -1,0 +1,83 @@
+
+asset/anim/shaizi_feibiaoimage0.png
+size: 662,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuzi2_shaziFB
+	rotate: false
+	xy: 572, 163
+	size: 70, 70
+	orig: 70, 70
+	offset: 0, 0
+	index: -1
+xian_shaziFB
+	rotate: true
+	xy: 0, 228
+	size: 3, 82
+	orig: 3, 82
+	offset: 0, 0
+	index: -1
+heibian_shaziFB
+	rotate: false
+	xy: 0, 0
+	size: 204, 227
+	orig: 204, 227
+	offset: 0, 0
+	index: -1
+shuzi1_shaziFB
+	rotate: false
+	xy: 402, 167
+	size: 82, 82
+	orig: 82, 82
+	offset: 0, 0
+	index: -1
+shuzi5_shaziFB
+	rotate: false
+	xy: 485, 166
+	size: 86, 86
+	orig: 86, 86
+	offset: 0, 0
+	index: -1
+shuzi4_shaziFB
+	rotate: false
+	xy: 317, 167
+	size: 84, 84
+	orig: 84, 84
+	offset: 0, 0
+	index: -1
+shuzi3_shaziFB
+	rotate: false
+	xy: 572, 0
+	size: 90, 90
+	orig: 90, 90
+	offset: 0, 0
+	index: -1
+mian3_shaziFB
+	rotate: true
+	xy: 205, 0
+	size: 191, 111
+	orig: 191, 111
+	offset: 0, 0
+	index: -1
+mian1_shaziFB
+	rotate: false
+	xy: 317, 0
+	size: 99, 166
+	orig: 99, 166
+	offset: 0, 0
+	index: -1
+mian2_shaziFB
+	rotate: false
+	xy: 417, 0
+	size: 99, 165
+	orig: 99, 165
+	offset: 0, 0
+	index: -1
+shuzi6_shaziFB
+	rotate: false
+	xy: 517, 91
+	size: 100, 71
+	orig: 100, 71
+	offset: 0, 0
+	index: -1

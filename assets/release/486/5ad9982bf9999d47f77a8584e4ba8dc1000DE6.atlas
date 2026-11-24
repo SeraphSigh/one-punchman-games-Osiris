@@ -1,0 +1,185 @@
+
+asset/anim/dajiongyan2SEATTACK1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/dajiongyan2_attack_shifa_down_00018
+	rotate: false
+	xy: 622, 642
+	size: 133, 107
+	orig: 169, 141
+	offset: 18, 17
+	index: -1
+
+asset/anim/dajiongyan2SEATTACK3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/dajiongyan2_attack_shifa_down_00028
+	rotate: false
+	xy: 171, 256
+	size: 165, 129
+	orig: 169, 141
+	offset: 1, 5
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00029
+	rotate: false
+	xy: 827, 0
+	size: 169, 137
+	orig: 169, 141
+	offset: 0, 1
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00021
+	rotate: true
+	xy: 128, 690
+	size: 157, 123
+	orig: 169, 141
+	offset: 5, 8
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00022
+	rotate: false
+	xy: 837, 831
+	size: 149, 119
+	orig: 169, 141
+	offset: 10, 10
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00023
+	rotate: true
+	xy: 672, 742
+	size: 153, 121
+	orig: 169, 141
+	offset: 7, 9
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00024
+	rotate: false
+	xy: 163, 538
+	size: 161, 127
+	orig: 169, 141
+	offset: 3, 6
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00027
+	rotate: true
+	xy: 284, 823
+	size: 155, 125
+	orig: 169, 141
+	offset: 7, 8
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00017
+	rotate: true
+	xy: 928, 274
+	size: 121, 95
+	orig: 169, 141
+	offset: 25, 22
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00039
+	rotate: true
+	xy: 644, 588
+	size: 153, 123
+	orig: 169, 141
+	offset: 7, 8
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00038
+	rotate: true
+	xy: 546, 742
+	size: 153, 125
+	orig: 169, 141
+	offset: 8, 8
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00037
+	rotate: true
+	xy: 768, 566
+	size: 151, 121
+	orig: 169, 141
+	offset: 8, 9
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00036
+	rotate: true
+	xy: 518, 588
+	size: 153, 125
+	orig: 169, 141
+	offset: 8, 8
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00035
+	rotate: true
+	xy: 0, 690
+	size: 159, 127
+	orig: 169, 141
+	offset: 4, 6
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00034
+	rotate: false
+	xy: 334, 536
+	size: 161, 129
+	orig: 169, 141
+	offset: 3, 5
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00033
+	rotate: false
+	xy: 685, 896
+	size: 151, 123
+	orig: 169, 141
+	offset: 9, 8
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00031
+	rotate: true
+	xy: 392, 666
+	size: 155, 125
+	orig: 169, 141
+	offset: 6, 8
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00030
+	rotate: false
+	xy: 827, 138
+	size: 169, 135
+	orig: 169, 141
+	offset: 0, 2
+	index: -1
+
+asset/anim/dajiongyan2SEATTACK2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/dajiongyan2_attack_shifa_down_00020
+	rotate: false
+	xy: 404, 370
+	size: 163, 127
+	orig: 169, 141
+	offset: 3, 6
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00025
+	rotate: true
+	xy: 238, 778
+	size: 169, 131
+	orig: 169, 141
+	offset: 0, 4
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00026
+	rotate: false
+	xy: 404, 498
+	size: 163, 127
+	orig: 169, 141
+	offset: 2, 6
+	index: -1
+
+asset/anim/dajiongyan2SEATTACK4.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/dajiongyan2_attack_shifa_down_00019
+	rotate: false
+	xy: 0, 0
+	size: 145, 117
+	orig: 169, 141
+	offset: 11, 11
+	index: -1
+attack/dajiongyan2_attack_shifa_down_00032
+	rotate: false
+	xy: 0, 118
+	size: 143, 115
+	orig: 169, 141
+	offset: 13, 12
+	index: -1

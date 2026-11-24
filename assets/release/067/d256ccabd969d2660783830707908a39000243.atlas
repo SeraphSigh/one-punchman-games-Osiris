@@ -1,0 +1,33 @@
+
+asset/anim/zhushijuehaibao41.png
+size: 2037,1335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yangguang1_yizhounianhaibao4
+	rotate: false
+	xy: 597, 424
+	size: 182, 381
+	orig: 182, 381
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushijuehaibao40.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yangguang2_yizhounianhaibao4
+	rotate: false
+	xy: 1583, 0
+	size: 397, 697
+	orig: 397, 697
+	offset: 0, 0
+	index: -1
+yangguang3_yizhounianhaibao4
+	rotate: false
+	xy: 0, 776
+	size: 802, 584
+	orig: 802, 584
+	offset: 0, 0
+	index: -1

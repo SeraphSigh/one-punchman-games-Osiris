@@ -1,0 +1,372 @@
+
+asset/anim/jurendiSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoliejvrendi0003
+	rotate: false
+	xy: 930, 955
+	size: 78, 58
+	orig: 78, 58
+	offset: 0, 0
+	index: -1
+baoliejvrendi0002
+	rotate: true
+	xy: 962, 635
+	size: 78, 58
+	orig: 78, 58
+	offset: 0, 0
+	index: -1
+jvqingjvrendi0011
+	rotate: false
+	xy: 750, 569
+	size: 70, 33
+	orig: 232, 33
+	offset: 0, 0
+	index: -1
+jvqingjvrendi0010
+	rotate: true
+	xy: 938, 303
+	size: 74, 33
+	orig: 232, 33
+	offset: 0, 0
+	index: -1
+baoliejvrendi0005
+	rotate: false
+	xy: 750, 475
+	size: 72, 54
+	orig: 78, 58
+	offset: 6, 4
+	index: -1
+baoliejvrendi0006
+	rotate: false
+	xy: 750, 530
+	size: 70, 38
+	orig: 78, 58
+	offset: 8, 4
+	index: -1
+suishitoujvren0002
+	rotate: false
+	xy: 560, 986
+	size: 27, 36
+	orig: 55, 62
+	offset: 28, 9
+	index: -1
+suishitoujvren0003
+	rotate: false
+	xy: 530, 986
+	size: 29, 38
+	orig: 55, 62
+	offset: 26, 9
+	index: -1
+suishitoujvren0004
+	rotate: true
+	xy: 972, 347
+	size: 31, 40
+	orig: 55, 62
+	offset: 24, 9
+	index: -1
+suishitoujvren0006
+	rotate: true
+	xy: 653, 986
+	size: 35, 42
+	orig: 55, 62
+	offset: 20, 10
+	index: -1
+jurendi_baodianshanguangA003
+	rotate: false
+	xy: 930, 887
+	size: 87, 67
+	orig: 87, 67
+	offset: 0, 0
+	index: -1
+suishitoujvren0008
+	rotate: true
+	xy: 608, 986
+	size: 35, 44
+	orig: 55, 62
+	offset: 20, 11
+	index: -1
+jvqingjvrendi0008
+	rotate: true
+	xy: 928, 635
+	size: 142, 33
+	orig: 232, 33
+	offset: 0, 0
+	index: -1
+jvqingjvrendi0001
+	rotate: true
+	xy: 588, 986
+	size: 36, 19
+	orig: 232, 33
+	offset: 189, 0
+	index: -1
+suishitoujvren0017
+	rotate: false
+	xy: 962, 762
+	size: 33, 16
+	orig: 55, 62
+	offset: 20, 0
+	index: -1
+suishitoujvren0015
+	rotate: false
+	xy: 696, 986
+	size: 53, 34
+	orig: 55, 62
+	offset: 1, 1
+	index: -1
+suishitoujvren0013
+	rotate: true
+	xy: 962, 714
+	size: 47, 56
+	orig: 55, 62
+	offset: 7, 6
+	index: -1
+suishitoujvren0011
+	rotate: true
+	xy: 972, 303
+	size: 43, 52
+	orig: 55, 62
+	offset: 12, 9
+	index: -1
+
+asset/anim/jurendiSE1.png
+size: 1002,935
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jvqingjvrendi0012
+	rotate: false
+	xy: 546, 554
+	size: 48, 33
+	orig: 232, 33
+	offset: 9, 0
+	index: -1
+suishitoujvren0001
+	rotate: false
+	xy: 772, 459
+	size: 25, 34
+	orig: 55, 62
+	offset: 30, 8
+	index: -1
+suishitoujvren0005
+	rotate: false
+	xy: 321, 891
+	size: 33, 42
+	orig: 55, 62
+	offset: 22, 9
+	index: -1
+suishitoujvren0007
+	rotate: false
+	xy: 287, 891
+	size: 33, 44
+	orig: 55, 62
+	offset: 22, 11
+	index: -1
+suishitoujvren0009
+	rotate: false
+	xy: 922, 613
+	size: 39, 46
+	orig: 55, 62
+	offset: 16, 11
+	index: -1
+baoliejvrendi0004
+	rotate: true
+	xy: 739, 509
+	size: 78, 58
+	orig: 78, 58
+	offset: 0, 0
+	index: -1
+jvqingjvrendi0009
+	rotate: true
+	xy: 941, 819
+	size: 102, 33
+	orig: 232, 33
+	offset: 0, 0
+	index: -1
+jvqingjvrendi0006
+	rotate: true
+	xy: 321, 670
+	size: 220, 33
+	orig: 232, 33
+	offset: 6, 0
+	index: -1
+jvqingjvrendi0007
+	rotate: true
+	xy: 355, 670
+	size: 178, 33
+	orig: 232, 33
+	offset: 2, 0
+	index: -1
+jvqingjvrendi0004
+	rotate: false
+	xy: 0, 893
+	size: 192, 29
+	orig: 232, 33
+	offset: 20, 0
+	index: -1
+jvqingjvrendi0005
+	rotate: true
+	xy: 287, 670
+	size: 220, 33
+	orig: 232, 33
+	offset: 12, 0
+	index: -1
+jvqingjvrendi0002
+	rotate: true
+	xy: 980, 0
+	size: 104, 21
+	orig: 232, 33
+	offset: 117, 0
+	index: -1
+jvqingjvrendi0003
+	rotate: true
+	xy: 389, 670
+	size: 176, 23
+	orig: 232, 33
+	offset: 25, 2
+	index: -1
+suishitoujvren0016
+	rotate: true
+	xy: 355, 849
+	size: 53, 32
+	orig: 55, 62
+	offset: 0, 0
+	index: -1
+suishitoujvren0014
+	rotate: true
+	xy: 739, 459
+	size: 49, 32
+	orig: 55, 62
+	offset: 5, 4
+	index: -1
+suishitoujvren0012
+	rotate: false
+	xy: 916, 509
+	size: 45, 54
+	orig: 55, 62
+	offset: 9, 8
+	index: -1
+suishitoujvren0010
+	rotate: false
+	xy: 922, 564
+	size: 41, 48
+	orig: 55, 62
+	offset: 14, 10
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao_zhuangjiaxingxing_117
+	rotate: false
+	xy: 700, 745
+	size: 145, 114
+	orig: 149, 116
+	offset: 0, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_119
+	rotate: true
+	xy: 735, 426
+	size: 147, 110
+	orig: 149, 116
+	offset: 0, 6
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao_zhuangjiaxingxing_118
+	rotate: false
+	xy: 879, 127
+	size: 145, 108
+	orig: 149, 116
+	offset: 1, 5
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_120
+	rotate: true
+	xy: 143, 875
+	size: 149, 108
+	orig: 149, 116
+	offset: 0, 8
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_121
+	rotate: true
+	xy: 252, 875
+	size: 149, 106
+	orig: 149, 116
+	offset: 0, 10
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao_zhuangjiaxingxing_113
+	rotate: false
+	xy: 393, 412
+	size: 139, 108
+	orig: 149, 116
+	offset: 2, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_112
+	rotate: true
+	xy: 414, 754
+	size: 129, 90
+	orig: 149, 116
+	offset: 12, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_115
+	rotate: false
+	xy: 585, 238
+	size: 141, 112
+	orig: 149, 116
+	offset: 2, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_114
+	rotate: false
+	xy: 727, 239
+	size: 141, 110
+	orig: 149, 116
+	offset: 2, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_116
+	rotate: false
+	xy: 870, 125
+	size: 143, 112
+	orig: 149, 116
+	offset: 2, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_122
+	rotate: false
+	xy: 585, 137
+	size: 149, 100
+	orig: 149, 116
+	offset: 0, 16
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao_zhuangjiaxingxing_111
+	rotate: false
+	xy: 110, 244
+	size: 93, 66
+	orig: 149, 116
+	offset: 31, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_110
+	rotate: false
+	xy: 774, 632
+	size: 73, 44
+	orig: 149, 116
+	offset: 30, 0
+	index: -1

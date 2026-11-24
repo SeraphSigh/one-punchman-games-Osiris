@@ -1,0 +1,198 @@
+
+asset/anim/spineGlobalPic/pc_global0.png
+size: 710,923
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_nengliangbaodian_003
+	rotate: false
+	xy: 0, 0
+	size: 239, 206
+	orig: 269, 238
+	offset: 12, 14
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_nengliangbaodian_001
+	rotate: false
+	xy: 264, 387
+	size: 128, 129
+	orig: 188, 167
+	offset: 31, 25
+	index: -1
+global/a_global_nengliangbaodian_002
+	rotate: false
+	xy: 0, 418
+	size: 136, 143
+	orig: 188, 167
+	offset: 26, 11
+	index: -1
+global/a_global_nengliangbaodian_004
+	rotate: true
+	xy: 0, 562
+	size: 142, 135
+	orig: 188, 167
+	offset: 27, 16
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_nengliangbaodian_000
+	rotate: false
+	xy: 111, 170
+	size: 72, 73
+	orig: 188, 167
+	offset: 60, 52
+	index: -1
+global/a_global_nengliangbaodian_005
+	rotate: false
+	xy: 115, 0
+	size: 114, 117
+	orig: 188, 167
+	offset: 45, 28
+	index: -1
+global/a_global_nengliangbaodian_006
+	rotate: false
+	xy: 230, 0
+	size: 112, 113
+	orig: 188, 167
+	offset: 45, 30
+	index: -1
+
+asset/anim/daodan0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daodan_anwuzhichuanyuan_texiao_10
+	rotate: false
+	xy: 409, 207
+	size: 213, 181
+	orig: 213, 181
+	offset: 0, 0
+	index: -1
+daodan_anwuzhichuanyuan_texiao_11
+	rotate: false
+	xy: 256, 399
+	size: 151, 180
+	orig: 151, 180
+	offset: 0, 0
+	index: -1
+daodan_anwuzhichuanyuan_texiao_12
+	rotate: true
+	xy: 408, 569
+	size: 151, 166
+	orig: 151, 166
+	offset: 0, 0
+	index: -1
+daodan_anwuzhichuanyuan_texiao_13
+	rotate: true
+	xy: 232, 580
+	size: 147, 166
+	orig: 147, 166
+	offset: 0, 0
+	index: -1
+daodan_anwuzhichuanyuan_texiao_14
+	rotate: true
+	xy: 193, 447
+	size: 126, 41
+	orig: 126, 41
+	offset: 0, 0
+	index: -1
+daodan_anwuzhichuanyuan_texiao_15
+	rotate: true
+	xy: 623, 271
+	size: 129, 41
+	orig: 129, 41
+	offset: 0, 0
+	index: -1
+daodan_anwuzhichuanyuan_texiao_16
+	rotate: true
+	xy: 1015, 215
+	size: 115, 7
+	orig: 115, 7
+	offset: 0, 0
+	index: -1
+daodan_anwuzhichuanyuan_texiao_09
+	rotate: false
+	xy: 409, 389
+	size: 212, 179
+	orig: 212, 179
+	offset: 0, 0
+	index: -1
+daodan_anwuzhichuanyuan_texiao_08
+	rotate: true
+	xy: 465, 0
+	size: 206, 224
+	orig: 206, 224
+	offset: 0, 0
+	index: -1
+daodan_anwuzhichuanyuan_texiao_07
+	rotate: false
+	xy: 0, 455
+	size: 192, 224
+	orig: 192, 224
+	offset: 0, 0
+	index: -1
+daodan_anwuzhichuanyuan_texiao_06
+	rotate: true
+	xy: 690, 206
+	size: 197, 224
+	orig: 197, 224
+	offset: 0, 0
+	index: -1
+daodan_anwuzhichuanyuan_texiao_05
+	rotate: true
+	xy: 690, 0
+	size: 205, 224
+	orig: 205, 224
+	offset: 0, 0
+	index: -1
+daodan_anwuzhichuanyuan_texiao_04
+	rotate: true
+	xy: 240, 0
+	size: 206, 224
+	orig: 206, 224
+	offset: 0, 0
+	index: -1
+daodan_anwuzhichuanyuan_texiao_03
+	rotate: true
+	xy: 846, 455
+	size: 131, 174
+	orig: 131, 174
+	offset: 0, 0
+	index: -1
+daodan_anwuzhichuanyuan_texiao_02
+	rotate: false
+	xy: 256, 728
+	size: 126, 117
+	orig: 126, 117
+	offset: 0, 0
+	index: -1
+daodan_anwuzhichuanyuan_texiao
+	rotate: false
+	xy: 575, 569
+	size: 85, 73
+	orig: 85, 73
+	offset: 0, 0
+	index: -1

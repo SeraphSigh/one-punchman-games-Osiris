@@ -1,0 +1,102 @@
+
+asset/anim/tongdi2SEATTACK2.png
+size: 180,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/tongdi2_pg_renwuxiacengyan4
+	rotate: false
+	xy: 0, 0
+	size: 155, 53
+	orig: 173, 63
+	offset: 12, 5
+	index: -1
+
+asset/anim/tongdi2SEATTACK0.png
+size: 509,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/tongdi2_pg_renwuxiacengyan1
+	rotate: true
+	xy: 426, 400
+	size: 83, 33
+	orig: 173, 63
+	offset: 42, 15
+	index: -1
+attack/tongdi2_pg_renwuxiacengyan11
+	rotate: true
+	xy: 394, 114
+	size: 167, 43
+	orig: 173, 63
+	offset: 6, 8
+	index: -1
+
+asset/anim/tongdi2SEATTACK1.png
+size: 508,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/tongdi2_pg_renwuxiacengyan9
+	rotate: true
+	xy: 448, 186
+	size: 171, 59
+	orig: 173, 63
+	offset: 0, 3
+	index: -1
+attack/tongdi2_pg_renwuxiacengyan8
+	rotate: false
+	xy: 172, 347
+	size: 169, 59
+	orig: 173, 63
+	offset: 2, 3
+	index: -1
+attack/tongdi2_pg_renwuxiacengyan5
+	rotate: true
+	xy: 296, 172
+	size: 161, 61
+	orig: 173, 63
+	offset: 7, 2
+	index: -1
+attack/tongdi2_pg_renwuxiacengyan3
+	rotate: true
+	xy: 342, 334
+	size: 117, 43
+	orig: 173, 63
+	offset: 30, 10
+	index: -1
+attack/tongdi2_pg_renwuxiacengyan2
+	rotate: true
+	xy: 432, 358
+	size: 85, 35
+	orig: 173, 63
+	offset: 43, 13
+	index: -1
+attack/tongdi2_pg_renwuxiacengyan7
+	rotate: false
+	xy: 0, 347
+	size: 171, 63
+	orig: 173, 63
+	offset: 0, 0
+	index: -1
+attack/tongdi2_pg_renwuxiacengyan6
+	rotate: false
+	xy: 0, 411
+	size: 169, 63
+	orig: 173, 63
+	offset: 1, 0
+	index: -1
+attack/tongdi2_pg_renwuxiacengyan10
+	rotate: false
+	xy: 172, 407
+	size: 169, 55
+	orig: 173, 63
+	offset: 3, 5
+	index: -1
+attack/tongdi2_pg_renwuxiacengyan12
+	rotate: false
+	xy: 342, 452
+	size: 165, 45
+	orig: 173, 63
+	offset: 7, 7
+	index: -1

@@ -1,0 +1,905 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/chalanzi0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h-bozi_chalanzi
+	rotate: true
+	xy: 392, 414
+	size: 28, 35
+	orig: 28, 35
+	offset: 0, 0
+	index: -1
+h-youxiaobi_chalanzi
+	rotate: true
+	xy: 308, 443
+	size: 43, 37
+	orig: 43, 37
+	offset: 0, 0
+	index: -1
+h-youjiao_chalanzi
+	rotate: false
+	xy: 414, 384
+	size: 48, 29
+	orig: 48, 29
+	offset: 0, 0
+	index: -1
+zui-bu_i1_chalanzi
+	rotate: false
+	xy: 92, 324
+	size: 19, 13
+	orig: 19, 13
+	offset: 0, 0
+	index: -1
+i_zuoyanpi_chalanzi
+	rotate: false
+	xy: 146, 226
+	size: 12, 8
+	orig: 12, 8
+	offset: 0, 0
+	index: -1
+i-youdatui_chalanzi
+	rotate: false
+	xy: 435, 263
+	size: 53, 42
+	orig: 53, 42
+	offset: 0, 0
+	index: -1
+d-kuabu_chalanzi
+	rotate: true
+	xy: 359, 0
+	size: 59, 41
+	orig: 59, 41
+	offset: 0, 0
+	index: -1
+e-zuojiao_chalanzi
+	rotate: true
+	xy: 358, 253
+	size: 31, 23
+	orig: 31, 23
+	offset: 0, 0
+	index: -1
+gd_chalanzi
+	rotate: false
+	xy: 0, 0
+	size: 96, 128
+	orig: 96, 128
+	offset: 0, 0
+	index: -1
+e-kuabufm_chalanzi
+	rotate: false
+	xy: 147, 94
+	size: 47, 34
+	orig: 47, 34
+	offset: 0, 0
+	index: -1
+i-shentifm_chalanzi
+	rotate: false
+	xy: 490, 173
+	size: 22, 30
+	orig: 22, 30
+	offset: 0, 0
+	index: -1
+i-zuoxiaotui_chalanzi
+	rotate: true
+	xy: 301, 195
+	size: 40, 56
+	orig: 40, 56
+	offset: 0, 0
+	index: -1
+a-zuoxiaotui_chalanzi
+	rotate: true
+	xy: 384, 216
+	size: 47, 50
+	orig: 47, 50
+	offset: 0, 0
+	index: -1
+c-youdabi_chalanzi
+	rotate: true
+	xy: 221, 337
+	size: 62, 43
+	orig: 62, 43
+	offset: 0, 0
+	index: -1
+b-biyan_bubu23_chalanzi
+	rotate: false
+	xy: 358, 232
+	size: 24, 20
+	orig: 24, 20
+	offset: 0, 0
+	index: -1
+h-shenti_chalanzi
+	rotate: false
+	xy: 92, 236
+	size: 74, 87
+	orig: 74, 87
+	offset: 0, 0
+	index: -1
+d-shenti_chalanzi
+	rotate: false
+	xy: 70, 430
+	size: 51, 81
+	orig: 51, 81
+	offset: 0, 0
+	index: -1
+b_toufa3_chanlanzi4
+	rotate: true
+	xy: 310, 296
+	size: 38, 53
+	orig: 38, 53
+	offset: 0, 0
+	index: -1
+zui_bu_chalanzi1
+	rotate: false
+	xy: 122, 499
+	size: 19, 12
+	orig: 19, 12
+	offset: 0, 0
+	index: -1
+i-youyan_chalanzi
+	rotate: false
+	xy: 83, 226
+	size: 15, 9
+	orig: 15, 9
+	offset: 0, 0
+	index: -1
+i-youdatui_bubu12_chalanzi
+	rotate: false
+	xy: 209, 470
+	size: 53, 42
+	orig: 53, 42
+	offset: 0, 0
+	index: -1
+i-youyanpi_chalanzi
+	rotate: false
+	xy: 127, 226
+	size: 18, 8
+	orig: 18, 8
+	offset: 0, 0
+	index: -1
+h-zuodabi_chalanzi
+	rotate: true
+	xy: 257, 236
+	size: 61, 52
+	orig: 61, 52
+	offset: 0, 0
+	index: -1
+bu7_xiaotui_chalanzi
+	rotate: true
+	xy: 384, 119
+	size: 48, 50
+	orig: 48, 50
+	offset: 0, 0
+	index: -1
+e-youxiaobi_chalanzi
+	rotate: true
+	xy: 332, 64
+	size: 59, 50
+	orig: 59, 50
+	offset: 0, 0
+	index: -1
+c-youxiaobi_chalanzi
+	rotate: false
+	xy: 246, 198
+	size: 54, 37
+	orig: 54, 37
+	offset: 0, 0
+	index: -1
+g-zuoxiaobi_chalanzi
+	rotate: true
+	xy: 263, 482
+	size: 30, 44
+	orig: 30, 44
+	offset: 0, 0
+	index: -1
+e-zuoxiaobi_chalanzi
+	rotate: false
+	xy: 446, 0
+	size: 57, 51
+	orig: 57, 51
+	offset: 0, 0
+	index: -1
+bu4_xiaobi_chalanzi
+	rotate: false
+	xy: 265, 347
+	size: 44, 43
+	orig: 44, 43
+	offset: 0, 0
+	index: -1
+bu5_datui_chalanzi
+	rotate: true
+	xy: 364, 314
+	size: 35, 52
+	orig: 35, 52
+	offset: 0, 0
+	index: -1
+f-zuodabi_chalanzi
+	rotate: false
+	xy: 259, 129
+	size: 29, 67
+	orig: 29, 67
+	offset: 0, 0
+	index: -1
+a-zuodatui_chalanzi
+	rotate: false
+	xy: 463, 423
+	size: 42, 41
+	orig: 42, 41
+	offset: 0, 0
+	index: -1
+b_toufa1_chalanzi2
+	rotate: true
+	xy: 435, 179
+	size: 38, 54
+	orig: 38, 54
+	offset: 0, 0
+	index: -1
+b-youxiaobi1_chalanzi
+	rotate: false
+	xy: 384, 168
+	size: 50, 47
+	orig: 50, 47
+	offset: 0, 0
+	index: -1
+f-zuoxiaobi_chalanzi
+	rotate: false
+	xy: 428, 414
+	size: 34, 42
+	orig: 34, 42
+	offset: 0, 0
+	index: -1
+bu1_dabi_chalanzi
+	rotate: true
+	xy: 215, 129
+	size: 68, 43
+	orig: 68, 43
+	offset: 0, 0
+	index: -1
+e-zuodatui_chalanzi
+	rotate: false
+	xy: 289, 129
+	size: 38, 65
+	orig: 38, 65
+	offset: 0, 0
+	index: -1
+i-kuabufm_chalanzi
+	rotate: false
+	xy: 417, 346
+	size: 51, 37
+	orig: 51, 37
+	offset: 0, 0
+	index: -1
+i_zuoyan_chalanzi
+	rotate: false
+	xy: 115, 226
+	size: 11, 9
+	orig: 11, 9
+	offset: 0, 0
+	index: -1
+h-youdatu_chalanzi
+	rotate: true
+	xy: 241, 0
+	size: 67, 62
+	orig: 67, 62
+	offset: 0, 0
+	index: -1
+i-toufa_chalanzi
+	rotate: true
+	xy: 209, 406
+	size: 63, 53
+	orig: 63, 53
+	offset: 0, 0
+	index: -1
+e-zuodabi_chalanzi
+	rotate: true
+	xy: 435, 97
+	size: 40, 55
+	orig: 40, 55
+	offset: 0, 0
+	index: -1
+b-kuabu_chalanzi
+	rotate: true
+	xy: 160, 129
+	size: 72, 54
+	orig: 72, 54
+	offset: 0, 0
+	index: -1
+i-youxiaotui_chalanzi
+	rotate: true
+	xy: 160, 202
+	size: 33, 49
+	orig: 33, 49
+	offset: 0, 0
+	index: -1
+bu2_dabi_chalanzi
+	rotate: false
+	xy: 382, 443
+	size: 41, 42
+	orig: 41, 42
+	offset: 0, 0
+	index: -1
+a-youxiaobi_chalanzi
+	rotate: true
+	xy: 469, 346
+	size: 48, 43
+	orig: 48, 43
+	offset: 0, 0
+	index: -1
+h-huabu_chalanzi
+	rotate: true
+	xy: 304, 0
+	size: 63, 54
+	orig: 63, 54
+	offset: 0, 0
+	index: -1
+e-tou_chalanzi
+	rotate: false
+	xy: 0, 237
+	size: 91, 101
+	orig: 91, 101
+	offset: 0, 0
+	index: -1
+h-zuoshou_chalanzi
+	rotate: false
+	xy: 356, 414
+	size: 35, 28
+	orig: 35, 28
+	offset: 0, 0
+	index: -1
+d-youxiaobi_chalanzi
+	rotate: false
+	xy: 435, 138
+	size: 54, 40
+	orig: 54, 40
+	offset: 0, 0
+	index: -1
+i_toufa2_chalanzi
+	rotate: true
+	xy: 310, 269
+	size: 26, 47
+	orig: 26, 47
+	offset: 0, 0
+	index: -1
+yinyingbu_chalanzi
+	rotate: true
+	xy: 73, 226
+	size: 10, 9
+	orig: 10, 9
+	offset: 0, 0
+	index: -1
+i-youxiaotui_bubu13_chalanzi
+	rotate: true
+	xy: 97, 94
+	size: 34, 49
+	orig: 34, 49
+	offset: 0, 0
+	index: -1
+i-kuabu1_chalanzi
+	rotate: true
+	xy: 122, 418
+	size: 80, 49
+	orig: 80, 49
+	offset: 0, 0
+	index: -1
+g-zuodabi_chalanzi
+	rotate: false
+	xy: 188, 337
+	size: 32, 68
+	orig: 32, 68
+	offset: 0, 0
+	index: -1
+i-youdabi_chalanzi
+	rotate: true
+	xy: 310, 374
+	size: 30, 49
+	orig: 30, 49
+	offset: 0, 0
+	index: -1
+i-tou_bu_chalanzi
+	rotate: false
+	xy: 97, 0
+	size: 66, 93
+	orig: 66, 93
+	offset: 0, 0
+	index: -1
+bu8_datui_chalanzi
+	rotate: true
+	xy: 435, 306
+	size: 39, 52
+	orig: 39, 52
+	offset: 0, 0
+	index: -1
+b-toubu_chalanzi3
+	rotate: false
+	xy: 164, 0
+	size: 76, 91
+	orig: 76, 91
+	offset: 0, 0
+	index: -1
+i-youxiaobi_chalanzi
+	rotate: true
+	xy: 235, 308
+	size: 28, 37
+	orig: 28, 37
+	offset: 0, 0
+	index: -1
+b-zuodabi_chalanzi
+	rotate: true
+	xy: 424, 457
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+i_toufa4_chalanzi
+	rotate: false
+	xy: 74, 339
+	size: 46, 88
+	orig: 46, 88
+	offset: 0, 0
+	index: -1
+h-zuojiao_chalanzi
+	rotate: true
+	xy: 463, 465
+	size: 42, 39
+	orig: 42, 39
+	offset: 0, 0
+	index: -1
+i_toufa3_chalanzi
+	rotate: false
+	xy: 172, 418
+	size: 36, 78
+	orig: 36, 78
+	offset: 0, 0
+	index: -1
+b_toufa2_chanlanzi1
+	rotate: false
+	xy: 219, 236
+	size: 37, 71
+	orig: 37, 71
+	offset: 0, 0
+	index: -1
+b-youdabi_chalanzi
+	rotate: false
+	xy: 358, 189
+	size: 25, 42
+	orig: 25, 42
+	offset: 0, 0
+	index: -1
+h-shentifm_chalanzi
+	rotate: false
+	xy: 491, 97
+	size: 20, 39
+	orig: 20, 39
+	offset: 0, 0
+	index: -1
+c-shenti_chalanzi
+	rotate: false
+	xy: 0, 430
+	size: 69, 82
+	orig: 69, 82
+	offset: 0, 0
+	index: -1
+i_yaodai1_bu1_chalanzi
+	rotate: true
+	xy: 112, 324
+	size: 12, 28
+	orig: 12, 28
+	offset: 0, 0
+	index: -1
+e-kuabu_chalanzi
+	rotate: true
+	xy: 167, 236
+	size: 72, 51
+	orig: 72, 51
+	offset: 0, 0
+	index: -1
+i_yaodai2_bu2_chalanzi
+	rotate: true
+	xy: 141, 324
+	size: 12, 28
+	orig: 12, 28
+	offset: 0, 0
+	index: -1
+h-youdabi_chalanzi
+	rotate: false
+	xy: 302, 68
+	size: 29, 60
+	orig: 29, 60
+	offset: 0, 0
+	index: -1
+e-youdabi_chalanzi
+	rotate: true
+	xy: 310, 335
+	size: 38, 51
+	orig: 38, 51
+	offset: 0, 0
+	index: -1
+e-zuoxiaotui_chalanzi
+	rotate: true
+	xy: 195, 92
+	size: 36, 57
+	orig: 36, 57
+	offset: 0, 0
+	index: -1
+bu3_xiaobi_chalanzi
+	rotate: true
+	xy: 310, 236
+	size: 32, 47
+	orig: 32, 47
+	offset: 0, 0
+	index: -1
+a-zuoxiaobi1_chalanzi
+	rotate: false
+	xy: 310, 405
+	size: 45, 37
+	orig: 45, 37
+	offset: 0, 0
+	index: -1
+b-kuabufm_chalanzi
+	rotate: true
+	xy: 273, 298
+	size: 48, 36
+	orig: 48, 36
+	offset: 0, 0
+	index: -1
+a-youjiao_chalanzi
+	rotate: false
+	xy: 463, 395
+	size: 48, 27
+	orig: 48, 27
+	offset: 0, 0
+	index: -1
+i-shenti_bu1_chalanzi
+	rotate: false
+	xy: 0, 339
+	size: 73, 90
+	orig: 73, 90
+	offset: 0, 0
+	index: -1
+c-kuabu_chalanzi
+	rotate: true
+	xy: 383, 60
+	size: 58, 51
+	orig: 58, 51
+	offset: 0, 0
+	index: -1
+shengli_zui2_chalanzi
+	rotate: false
+	xy: 172, 497
+	size: 20, 15
+	orig: 20, 15
+	offset: 0, 0
+	index: -1
+e-zuoshou_chalanzi
+	rotate: false
+	xy: 210, 202
+	size: 35, 33
+	orig: 35, 33
+	offset: 0, 0
+	index: -1
+bu6_xiaotui_chalanzi
+	rotate: false
+	xy: 362, 350
+	size: 51, 35
+	orig: 51, 35
+	offset: 0, 0
+	index: -1
+a-kuabu2_chalanzi
+	rotate: false
+	xy: 170, 309
+	size: 64, 27
+	orig: 64, 27
+	offset: 0, 0
+	index: -1
+b_toufa4_chalanzi5
+	rotate: true
+	xy: 253, 68
+	size: 60, 48
+	orig: 60, 48
+	offset: 0, 0
+	index: -1
+e-shenti_chalanzi
+	rotate: true
+	xy: 73, 129
+	size: 96, 86
+	orig: 96, 86
+	offset: 0, 0
+	index: -1
+b-shentifm_chalanzi
+	rotate: false
+	xy: 491, 137
+	size: 20, 35
+	orig: 20, 35
+	offset: 0, 0
+	index: -1
+b-zuodatui_chalanzi
+	rotate: true
+	xy: 328, 129
+	size: 59, 55
+	orig: 59, 55
+	offset: 0, 0
+	index: -1
+i-youmeimao_chalanzi
+	rotate: false
+	xy: 490, 204
+	size: 19, 16
+	orig: 19, 16
+	offset: 0, 0
+	index: -1
+b-shenti_chalanzi
+	rotate: false
+	xy: 121, 337
+	size: 66, 80
+	orig: 66, 80
+	offset: 0, 0
+	index: -1
+i-zuomeimao_chalanzi
+	rotate: false
+	xy: 99, 226
+	size: 15, 9
+	orig: 15, 9
+	offset: 0, 0
+	index: -1
+i-zuodatui_chalanzi
+	rotate: true
+	xy: 382, 264
+	size: 49, 52
+	orig: 49, 52
+	offset: 0, 0
+	index: -1
+a-youdabi_chalanzi
+	rotate: false
+	xy: 346, 443
+	size: 35, 43
+	orig: 35, 43
+	offset: 0, 0
+	index: -1
+i-youjiao_chalanzi
+	rotate: false
+	xy: 360, 386
+	size: 46, 27
+	orig: 46, 27
+	offset: 0, 0
+	index: -1
+c-zuodabi_chalanzi
+	rotate: true
+	xy: 263, 442
+	size: 39, 44
+	orig: 39, 44
+	offset: 0, 0
+	index: -1
+h-youxiaotui_chalanzi
+	rotate: false
+	xy: 401, 0
+	size: 44, 58
+	orig: 44, 58
+	offset: 0, 0
+	index: -1
+b-zuoxiaotui_chalanzi
+	rotate: false
+	xy: 435, 218
+	size: 53, 44
+	orig: 53, 44
+	offset: 0, 0
+	index: -1
+i-zuodabi_chalanzi
+	rotate: true
+	xy: 263, 400
+	size: 41, 46
+	orig: 41, 46
+	offset: 0, 0
+	index: -1
+d-youdabi_chalanzi
+	rotate: false
+	xy: 446, 52
+	size: 55, 44
+	orig: 55, 44
+	offset: 0, 0
+	index: -1
+
+asset/anim/chalanzi1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+i-zuojiao_chalanzi
+	rotate: false
+	xy: 34, 63
+	size: 32, 29
+	orig: 32, 29
+	offset: 0, 0
+	index: -1
+a-zuoshou_chalanzi
+	rotate: false
+	xy: 0, 37
+	size: 33, 28
+	orig: 33, 28
+	offset: 0, 0
+	index: -1
+bushou_shou1_chalanzi
+	rotate: false
+	xy: 163, 37
+	size: 32, 29
+	orig: 32, 29
+	offset: 0, 0
+	index: -1
+b-zuojiao_chalanzi
+	rotate: false
+	xy: 43, 0
+	size: 41, 34
+	orig: 41, 34
+	offset: 0, 0
+	index: -1
+e-youshou_chalanzi
+	rotate: false
+	xy: 85, 31
+	size: 34, 33
+	orig: 34, 33
+	offset: 0, 0
+	index: -1
+c-youshou_chalanzi
+	rotate: false
+	xy: 126, 28
+	size: 36, 27
+	orig: 36, 27
+	offset: 0, 0
+	index: -1
+a-youshou_chalanzi
+	rotate: false
+	xy: 207, 0
+	size: 32, 31
+	orig: 32, 31
+	offset: 0, 0
+	index: -1
+b-bozi_bubu_chanlanzi
+	rotate: true
+	xy: 67, 65
+	size: 29, 30
+	orig: 29, 30
+	offset: 0, 0
+	index: -1
+d-youshou_chalanzi
+	rotate: false
+	xy: 120, 56
+	size: 32, 29
+	orig: 32, 29
+	offset: 0, 0
+	index: -1
+h-yousho_chalanzi
+	rotate: false
+	xy: 32, 93
+	size: 29, 29
+	orig: 29, 29
+	offset: 0, 0
+	index: -1
+h-zuoxiaobi_chalanzi
+	rotate: true
+	xy: 167, 0
+	size: 36, 39
+	orig: 36, 39
+	offset: 0, 0
+	index: -1
+i-zuoxiaobi_chalanzi
+	rotate: false
+	xy: 0, 0
+	size: 42, 36
+	orig: 42, 36
+	offset: 0, 0
+	index: -1
+g-zuoshou_chalanzi
+	rotate: true
+	xy: 0, 94
+	size: 27, 28
+	orig: 27, 28
+	offset: 0, 0
+	index: -1
+f-zuoshou_chalanzi
+	rotate: true
+	xy: 0, 66
+	size: 27, 31
+	orig: 27, 31
+	offset: 0, 0
+	index: -1
+b-youshou_chalanzi
+	rotate: false
+	xy: 207, 32
+	size: 32, 29
+	orig: 32, 29
+	offset: 0, 0
+	index: -1
+i-zuoshou_chalanzi
+	rotate: false
+	xy: 85, 0
+	size: 40, 30
+	orig: 40, 30
+	offset: 0, 0
+	index: -1
+c-zuoxiaobi_chalanzi
+	rotate: false
+	xy: 126, 0
+	size: 40, 27
+	orig: 40, 27
+	offset: 0, 0
+	index: -1
+e-shentifm_chalanzi
+	rotate: true
+	xy: 43, 35
+	size: 27, 34
+	orig: 27, 34
+	offset: 0, 0
+	index: -1
+i-youshou_chalanzi
+	rotate: true
+	xy: 0, 122
+	size: 27, 28
+	orig: 27, 28
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

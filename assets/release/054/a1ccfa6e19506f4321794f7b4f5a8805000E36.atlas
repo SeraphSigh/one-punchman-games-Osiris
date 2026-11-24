@@ -1,0 +1,208 @@
+
+asset/anim/tongdi2SECOMMON1.png
+size: 1957,2011
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tongdi2_dianziping2_8
+	rotate: true
+	xy: 504, 997
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_9
+	rotate: true
+	xy: 504, 1345
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_6
+	rotate: true
+	xy: 252, 997
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_7
+	rotate: true
+	xy: 252, 1345
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_4
+	rotate: true
+	xy: 0, 997
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_5
+	rotate: true
+	xy: 0, 1345
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_2
+	rotate: true
+	xy: 1740, 632
+	size: 315, 217
+	orig: 347, 251
+	offset: 20, 0
+	index: -1
+common/tongdi2_dianziping2_3
+	rotate: false
+	xy: 1391, 1025
+	size: 345, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_28
+	rotate: true
+	xy: 1744, 0
+	size: 305, 203
+	orig: 347, 251
+	offset: 30, 0
+	index: -1
+common/tongdi2_dianziping2_25
+	rotate: false
+	xy: 1392, 504
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_24
+	rotate: false
+	xy: 1044, 504
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_27
+	rotate: true
+	xy: 1740, 306
+	size: 325, 217
+	orig: 347, 251
+	offset: 10, 0
+	index: -1
+common/tongdi2_dianziping2_26
+	rotate: false
+	xy: 696, 756
+	size: 347, 237
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_21
+	rotate: false
+	xy: 696, 504
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_20
+	rotate: false
+	xy: 1392, 252
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_23
+	rotate: false
+	xy: 348, 745
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_22
+	rotate: false
+	xy: 0, 745
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_14
+	rotate: false
+	xy: 1048, 0
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_15
+	rotate: false
+	xy: 1396, 0
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_16
+	rotate: false
+	xy: 696, 252
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_17
+	rotate: false
+	xy: 0, 493
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_11
+	rotate: false
+	xy: 700, 0
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_12
+	rotate: false
+	xy: 0, 241
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_13
+	rotate: false
+	xy: 348, 241
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_18
+	rotate: false
+	xy: 348, 493
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+common/tongdi2_dianziping2_19
+	rotate: false
+	xy: 1044, 252
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1
+
+asset/anim/tongdi2SECOMMON0.png
+size: 2012,2042
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tongdi2_dianziping2_1
+	rotate: true
+	xy: 1817, 295
+	size: 277, 191
+	orig: 347, 251
+	offset: 58, 0
+	index: -1
+common/tongdi2_dianziping2_10
+	rotate: true
+	xy: 0, 1695
+	size: 347, 251
+	orig: 347, 251
+	offset: 0, 0
+	index: -1

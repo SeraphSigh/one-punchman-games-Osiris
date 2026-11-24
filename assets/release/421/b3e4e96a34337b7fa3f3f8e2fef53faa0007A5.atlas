@@ -1,0 +1,118 @@
+
+asset/anim/tiankongzuBkapai0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youtui_tiankongzuCkapai
+	rotate: true
+	xy: 798, 0
+	size: 129, 212
+	orig: 129, 212
+	offset: 0, 0
+	index: -1
+zuoshou_tiankongzuCkapai
+	rotate: true
+	xy: 353, 388
+	size: 78, 67
+	orig: 78, 67
+	offset: 0, 0
+	index: -1
+zuoxiaobi_tiankongzuCkapai
+	rotate: false
+	xy: 353, 195
+	size: 75, 87
+	orig: 75, 87
+	offset: 0, 0
+	index: -1
+zuotui_tiankongzuCkapai
+	rotate: true
+	xy: 686, 433
+	size: 106, 135
+	orig: 106, 135
+	offset: 0, 0
+	index: -1
+zuochibang_tiankongzuCkapai
+	rotate: false
+	xy: 430, 0
+	size: 367, 205
+	orig: 367, 205
+	offset: 0, 0
+	index: -1
+youxiaobi_tiankongzuCkapai
+	rotate: false
+	xy: 353, 283
+	size: 70, 104
+	orig: 70, 104
+	offset: 0, 0
+	index: -1
+youshou_tiankongzuCkapai
+	rotate: false
+	xy: 694, 206
+	size: 100, 69
+	orig: 100, 69
+	offset: 0, 0
+	index: -1
+pifeng_tiankongzuCkapai
+	rotate: true
+	xy: 0, 195
+	size: 351, 352
+	orig: 351, 352
+	offset: 0, 0
+	index: -1
+zuodatui_tiankongzuCkapai
+	rotate: true
+	xy: 424, 338
+	size: 111, 165
+	orig: 111, 165
+	offset: 0, 0
+	index: -1
+youchibang_tiankongzuCkapai
+	rotate: false
+	xy: 0, 0
+	size: 429, 194
+	orig: 429, 194
+	offset: 0, 0
+	index: -1
+xiong_tiankongzuCkapai
+	rotate: true
+	xy: 798, 130
+	size: 182, 187
+	orig: 182, 187
+	offset: 0, 0
+	index: -1
+kua_tiankongzuCkapai
+	rotate: false
+	xy: 421, 450
+	size: 162, 62
+	orig: 162, 62
+	offset: 0, 0
+	index: -1
+youdabi_tiankongzuCkapai
+	rotate: true
+	xy: 590, 338
+	size: 139, 95
+	orig: 139, 95
+	offset: 0, 0
+	index: -1
+youdatui_tiankongzuCkapai
+	rotate: true
+	xy: 790, 313
+	size: 119, 179
+	orig: 119, 179
+	offset: 0, 0
+	index: -1
+zuodabi_tiankongzuCkapai
+	rotate: true
+	xy: 694, 276
+	size: 142, 95
+	orig: 142, 95
+	offset: 0, 0
+	index: -1
+tou_tiankongzuCkapai
+	rotate: true
+	xy: 429, 206
+	size: 131, 264
+	orig: 131, 264
+	offset: 0, 0
+	index: -1

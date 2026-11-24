@@ -1,0 +1,200 @@
+
+asset/anim/jiangshinanSECOMMON2.png
+size: 1018,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jiangshinan_ksq_00045
+	rotate: false
+	xy: 740, 113
+	size: 174, 70
+	orig: 174, 70
+	offset: 0, 0
+	index: -1
+common/jiangshinan_ksan_00045
+	rotate: true
+	xy: 958, 0
+	size: 139, 60
+	orig: 139, 70
+	offset: 0, 4
+	index: -1
+common/jiangshinan_shangsheng_00049
+	rotate: false
+	xy: 889, 625
+	size: 62, 63
+	orig: 70, 73
+	offset: 8, 7
+	index: -1
+common/jiangshinan_ks_00000
+	rotate: true
+	xy: 667, 600
+	size: 138, 64
+	orig: 174, 70
+	offset: 17, 0
+	index: -1
+common/jiangshinan_shangsheng_00056
+	rotate: false
+	xy: 953, 568
+	size: 60, 61
+	orig: 70, 73
+	offset: 10, 7
+	index: -1
+common/jiangshinan_shangsheng_00057
+	rotate: false
+	xy: 951, 816
+	size: 62, 63
+	orig: 70, 73
+	offset: 8, 6
+	index: -1
+common/jiangshinan_shangsheng_00054
+	rotate: false
+	xy: 888, 816
+	size: 62, 63
+	orig: 70, 73
+	offset: 8, 7
+	index: -1
+common/jiangshinan_shangsheng_00052
+	rotate: true
+	xy: 879, 753
+	size: 62, 63
+	orig: 70, 73
+	offset: 8, 7
+	index: -1
+common/jiangshinan_shangsheng_00053
+	rotate: false
+	xy: 952, 691
+	size: 62, 63
+	orig: 70, 73
+	offset: 8, 7
+	index: -1
+common/jiangshinan_shangsheng_00051
+	rotate: false
+	xy: 889, 689
+	size: 62, 63
+	orig: 70, 73
+	offset: 8, 7
+	index: -1
+common/jiangshinan_shangsheng_00050
+	rotate: false
+	xy: 509, 946
+	size: 62, 65
+	orig: 70, 73
+	offset: 8, 6
+	index: -1
+common/jiangshinan_shangsheng_00059
+	rotate: true
+	xy: 891, 572
+	size: 52, 61
+	orig: 70, 73
+	offset: 9, 7
+	index: -1
+
+asset/anim/jiangshinanSECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jiangshinan_ks_00007
+	rotate: true
+	xy: 700, 200
+	size: 164, 16
+	orig: 174, 70
+	offset: 4, 26
+	index: -1
+common/jiangshinan_ks_00001
+	rotate: false
+	xy: 880, 325
+	size: 144, 66
+	orig: 174, 70
+	offset: 14, 0
+	index: -1
+common/jiangshinan_shangsheng_00055
+	rotate: true
+	xy: 779, 955
+	size: 62, 61
+	orig: 70, 73
+	offset: 8, 7
+	index: -1
+
+asset/anim/jiangshinanSECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jiangshinan_sz2_00047
+	rotate: false
+	xy: 759, 693
+	size: 104, 113
+	orig: 104, 113
+	offset: 0, 0
+	index: -1
+common/jiangshinan_gz_00049
+	rotate: false
+	xy: 891, 389
+	size: 123, 129
+	orig: 131, 131
+	offset: 3, 2
+	index: -1
+common/jiangshinan_gy_00002
+	rotate: false
+	xy: 505, 371
+	size: 104, 66
+	orig: 104, 70
+	offset: 0, 2
+	index: -1
+common/jiangshinan_zhuang_h_00050
+	rotate: false
+	xy: 514, 991
+	size: 122, 33
+	orig: 122, 35
+	offset: 0, 2
+	index: -1
+common/jiangshinan_shangsheng_00048
+	rotate: false
+	xy: 264, 923
+	size: 62, 63
+	orig: 70, 73
+	offset: 8, 6
+	index: -1
+common/jiangshinan_ks_00005
+	rotate: false
+	xy: 353, 611
+	size: 174, 56
+	orig: 174, 70
+	offset: 0, 0
+	index: -1
+common/jiangshinan_ks_00004
+	rotate: false
+	xy: 353, 611
+	size: 174, 56
+	orig: 174, 70
+	offset: 0, 0
+	index: -1
+common/jiangshinan_ks_00006
+	rotate: false
+	xy: 346, 750
+	size: 170, 44
+	orig: 174, 70
+	offset: 0, 1
+	index: -1
+common/jiangshinan_ks_00003
+	rotate: false
+	xy: 178, 607
+	size: 174, 60
+	orig: 174, 70
+	offset: 0, 0
+	index: -1
+common/jiangshinan_ks_00002
+	rotate: false
+	xy: 164, 858
+	size: 162, 64
+	orig: 174, 70
+	offset: 6, 0
+	index: -1
+common/jiangshinan_shangsheng_00058
+	rotate: false
+	xy: 960, 915
+	size: 62, 63
+	orig: 70, 73
+	offset: 8, 7
+	index: -1

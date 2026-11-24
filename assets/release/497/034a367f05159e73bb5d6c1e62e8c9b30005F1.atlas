@@ -1,0 +1,90 @@
+
+asset/anim/huangjinqiuSECOMMON.png
+size: 1009,995
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/huangjinqiuxian0009
+	rotate: false
+	xy: 311, 502
+	size: 407, 51
+	orig: 461, 51
+	offset: 0, 0
+	index: -1
+common/huangjinqiuxian0008
+	rotate: false
+	xy: 411, 450
+	size: 409, 51
+	orig: 461, 51
+	offset: 0, 0
+	index: -1
+common/huangjinqiuxian0005
+	rotate: false
+	xy: 411, 298
+	size: 437, 51
+	orig: 461, 51
+	offset: 0, 0
+	index: -1
+common/huangjinqiuxian0004
+	rotate: false
+	xy: 455, 248
+	size: 441, 49
+	orig: 461, 51
+	offset: 2, 1
+	index: -1
+common/huangjinqiuxian0007
+	rotate: false
+	xy: 411, 398
+	size: 417, 51
+	orig: 461, 51
+	offset: 0, 0
+	index: -1
+common/huangjinqiuxian0006
+	rotate: false
+	xy: 411, 350
+	size: 425, 47
+	orig: 461, 51
+	offset: 0, 2
+	index: -1
+common/huangjinqiuxian0001
+	rotate: false
+	xy: 311, 727
+	size: 331, 19
+	orig: 461, 51
+	offset: 0, 16
+	index: -1
+common/huangjinqiuxian0003
+	rotate: false
+	xy: 455, 198
+	size: 445, 49
+	orig: 461, 51
+	offset: 0, 1
+	index: -1
+common/huangjinqiuxian0002
+	rotate: false
+	xy: 455, 148
+	size: 461, 49
+	orig: 461, 51
+	offset: 0, 0
+	index: -1
+common/huangjinqiuxian0010
+	rotate: false
+	xy: 311, 683
+	size: 291, 43
+	orig: 461, 51
+	offset: 1, 4
+	index: -1
+common/huangjinqiutex_11
+	rotate: false
+	xy: 455, 0
+	size: 479, 95
+	orig: 479, 95
+	offset: 0, 0
+	index: -1
+common/huangjinqiuxian0011
+	rotate: false
+	xy: 455, 96
+	size: 461, 51
+	orig: 461, 51
+	offset: 0, 0
+	index: -1

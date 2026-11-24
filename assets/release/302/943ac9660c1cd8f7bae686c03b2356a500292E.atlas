@@ -1,0 +1,683 @@
+
+asset/anim/gudailong1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+i_Rthigh_gudailong
+	rotate: false
+	xy: 708, 0
+	size: 104, 101
+	orig: 104, 101
+	offset: 0, 0
+	index: -1
+a_Rshin_gudailong
+	rotate: false
+	xy: 485, 113
+	size: 97, 77
+	orig: 97, 77
+	offset: 0, 0
+	index: -1
+b_Rfoot_gudailong
+	rotate: false
+	xy: 370, 92
+	size: 114, 68
+	orig: 114, 68
+	offset: 0, 0
+	index: -1
+i_Lshin_gudailong
+	rotate: true
+	xy: 584, 284
+	size: 72, 85
+	orig: 72, 85
+	offset: 0, 0
+	index: -1
+d_Rhand_gudailong
+	rotate: false
+	xy: 0, 288
+	size: 92, 63
+	orig: 92, 63
+	offset: 0, 0
+	index: -1
+g_Lfoot_gudailong
+	rotate: false
+	xy: 352, 161
+	size: 93, 87
+	orig: 93, 87
+	offset: 0, 0
+	index: -1
+e_Rfoot_gudailong
+	rotate: true
+	xy: 918, 96
+	size: 99, 101
+	orig: 99, 101
+	offset: 0, 0
+	index: -1
+a_Rthigh_gudailong
+	rotate: true
+	xy: 487, 0
+	size: 112, 115
+	orig: 112, 115
+	offset: 0, 0
+	index: -1
+g_Rfoot_gudailong
+	rotate: false
+	xy: 897, 284
+	size: 93, 91
+	orig: 93, 91
+	offset: 0, 0
+	index: -1
+a_Rhand_gudailong
+	rotate: false
+	xy: 498, 335
+	size: 85, 67
+	orig: 85, 67
+	offset: 0, 0
+	index: -1
+h_Rarm_gudailong
+	rotate: false
+	xy: 603, 102
+	size: 99, 96
+	orig: 99, 96
+	offset: 0, 0
+	index: -1
+i_Lhand_gudailong
+	rotate: false
+	xy: 446, 191
+	size: 92, 63
+	orig: 92, 63
+	offset: 0, 0
+	index: -1
+a_eyebrow_gudailong
+	rotate: false
+	xy: 998, 196
+	size: 25, 25
+	orig: 25, 25
+	offset: 0, 0
+	index: -1
+i_head_gudailong
+	rotate: false
+	xy: 242, 101
+	size: 109, 102
+	orig: 109, 102
+	offset: 0, 0
+	index: -1
+d_Lhand_gudailong
+	rotate: false
+	xy: 498, 255
+	size: 85, 79
+	orig: 85, 79
+	offset: 0, 0
+	index: -1
+i_Rhand_gudailong
+	rotate: false
+	xy: 303, 321
+	size: 85, 79
+	orig: 85, 79
+	offset: 0, 0
+	index: -1
+i_Rfoot_gudailong
+	rotate: false
+	xy: 802, 252
+	size: 94, 87
+	orig: 94, 87
+	offset: 0, 0
+	index: -1
+d_Lfoot_gudailong
+	rotate: false
+	xy: 903, 196
+	size: 94, 87
+	orig: 94, 87
+	offset: 0, 0
+	index: -1
+d_Rarm_gudailong
+	rotate: false
+	xy: 0, 0
+	size: 126, 93
+	orig: 126, 93
+	offset: 0, 0
+	index: -1
+c_Rhand_gudailong
+	rotate: false
+	xy: 785, 340
+	size: 90, 72
+	orig: 90, 72
+	offset: 0, 0
+	index: -1
+i_Lfoot_gudailong
+	rotate: true
+	xy: 584, 357
+	size: 79, 81
+	orig: 79, 81
+	offset: 0, 0
+	index: -1
+d_Rthigh_gudailong
+	rotate: true
+	xy: 0, 191
+	size: 96, 118
+	orig: 96, 118
+	offset: 0, 0
+	index: -1
+a_Lfoot_gudailong
+	rotate: false
+	xy: 119, 193
+	size: 107, 72
+	orig: 107, 72
+	offset: 0, 0
+	index: -1
+a_Lforearm_gudailong
+	rotate: false
+	xy: 475, 403
+	size: 81, 76
+	orig: 81, 76
+	offset: 0, 0
+	index: -1
+a_Rfoot_gudailong
+	rotate: false
+	xy: 918, 0
+	size: 102, 95
+	orig: 102, 95
+	offset: 0, 0
+	index: -1
+g_Rthigh_gudailong
+	rotate: true
+	xy: 127, 0
+	size: 96, 122
+	orig: 96, 122
+	offset: 0, 0
+	index: -1
+a_mouth_gudailong
+	rotate: false
+	xy: 370, 0
+	size: 116, 91
+	orig: 116, 91
+	offset: 0, 0
+	index: -1
+i_mouth_gudailong
+	rotate: false
+	xy: 813, 97
+	size: 101, 89
+	orig: 101, 89
+	offset: 0, 0
+	index: -1
+h_Lhand_gudailong
+	rotate: false
+	xy: 670, 354
+	size: 81, 79
+	orig: 81, 79
+	offset: 0, 0
+	index: -1
+i_Larm_gudailong
+	rotate: false
+	xy: 250, 0
+	size: 119, 100
+	orig: 119, 100
+	offset: 0, 0
+	index: -1
+g_Rhand_gudailong
+	rotate: false
+	xy: 180, 362
+	size: 80, 79
+	orig: 80, 79
+	offset: 0, 0
+	index: -1
+g_Larm_gudailong
+	rotate: false
+	xy: 703, 102
+	size: 99, 95
+	orig: 99, 95
+	offset: 0, 0
+	index: -1
+e_Rshin_gudailong
+	rotate: true
+	xy: 93, 346
+	size: 81, 86
+	orig: 81, 86
+	offset: 0, 0
+	index: -1
+d_Rforearm_gudailong
+	rotate: true
+	xy: 694, 280
+	size: 73, 90
+	orig: 73, 90
+	offset: 0, 0
+	index: -1
+d_Lforearm_gudailong
+	rotate: true
+	xy: 227, 204
+	size: 80, 93
+	orig: 80, 93
+	offset: 0, 0
+	index: -1
+i_Rforearm_gudailong
+	rotate: true
+	xy: 119, 266
+	size: 79, 93
+	orig: 79, 93
+	offset: 0, 0
+	index: -1
+e_Rthigh_gudailong
+	rotate: true
+	xy: 0, 94
+	size: 96, 121
+	orig: 96, 121
+	offset: 0, 0
+	index: -1
+b_Rshin_gudailong
+	rotate: false
+	xy: 213, 285
+	size: 89, 76
+	orig: 89, 76
+	offset: 0, 0
+	index: -1
+a_Lhand_gudailong
+	rotate: false
+	xy: 539, 191
+	size: 62, 60
+	orig: 62, 60
+	offset: 0, 0
+	index: -1
+h_Lshin_gudailong
+	rotate: false
+	xy: 389, 337
+	size: 85, 67
+	orig: 85, 67
+	offset: 0, 0
+	index: -1
+g_Rforearm_gudailong
+	rotate: true
+	xy: 0, 352
+	size: 81, 86
+	orig: 81, 86
+	offset: 0, 0
+	index: -1
+c_Rforearm_gudailong
+	rotate: false
+	xy: 602, 199
+	size: 91, 84
+	orig: 91, 84
+	offset: 0, 0
+	index: -1
+f_Lfoot_gudailong
+	rotate: false
+	xy: 876, 376
+	size: 86, 73
+	orig: 86, 73
+	offset: 0, 0
+	index: -1
+i_Rshin_gudailong
+	rotate: false
+	xy: 321, 249
+	size: 90, 71
+	orig: 90, 71
+	offset: 0, 0
+	index: -1
+h_Lforearm_gudailong
+	rotate: true
+	xy: 412, 255
+	size: 81, 85
+	orig: 81, 85
+	offset: 0, 0
+	index: -1
+i_Lthigh_gudailong
+	rotate: true
+	xy: 122, 97
+	size: 95, 119
+	orig: 95, 119
+	offset: 0, 0
+	index: -1
+i_Rarm_gudailong
+	rotate: true
+	xy: 813, 0
+	size: 96, 104
+	orig: 96, 104
+	offset: 0, 0
+	index: -1
+a_Rforearm_gudailong
+	rotate: true
+	xy: 703, 198
+	size: 81, 98
+	orig: 81, 98
+	offset: 0, 0
+	index: -1
+d_Lthigh_gudailong
+	rotate: false
+	xy: 603, 0
+	size: 104, 101
+	orig: 104, 101
+	offset: 0, 0
+	index: -1
+b_Lfoot_gudailong
+	rotate: false
+	xy: 803, 187
+	size: 99, 64
+	orig: 99, 64
+	offset: 0, 0
+	index: -1
+
+asset/anim/gudailong0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_Lthigh_gudailong
+	rotate: true
+	xy: 739, 928
+	size: 96, 123
+	orig: 96, 123
+	offset: 0, 0
+	index: -1
+a_Larm_gudailong
+	rotate: true
+	xy: 837, 638
+	size: 73, 120
+	orig: 73, 120
+	offset: 0, 0
+	index: -1
+d_body_gudailong
+	rotate: false
+	xy: 0, 487
+	size: 251, 254
+	orig: 251, 254
+	offset: 0, 0
+	index: -1
+h_tail_gudailong
+	rotate: false
+	xy: 423, 680
+	size: 112, 158
+	orig: 112, 158
+	offset: 0, 0
+	index: -1
+g_tail_gudailong
+	rotate: true
+	xy: 595, 426
+	size: 191, 151
+	orig: 191, 151
+	offset: 0, 0
+	index: -1
+i_Lforearm_gudailong
+	rotate: true
+	xy: 934, 887
+	size: 74, 90
+	orig: 74, 90
+	offset: 0, 0
+	index: -1
+h_Lfoot_gudailong
+	rotate: true
+	xy: 934, 794
+	size: 92, 90
+	orig: 92, 90
+	offset: 0, 0
+	index: -1
+a_tail_gudailong
+	rotate: true
+	xy: 252, 487
+	size: 252, 135
+	orig: 252, 135
+	offset: 0, 0
+	index: -1
+h_mouth_gudailong
+	rotate: false
+	xy: 463, 248
+	size: 69, 91
+	orig: 69, 91
+	offset: 0, 0
+	index: -1
+b_head_gudailong
+	rotate: true
+	xy: 747, 426
+	size: 140, 89
+	orig: 140, 89
+	offset: 0, 0
+	index: -1
+d_Lshin_gudailong
+	rotate: true
+	xy: 863, 911
+	size: 90, 70
+	orig: 90, 70
+	offset: 0, 0
+	index: -1
+d_Rfoot_gudailong
+	rotate: false
+	xy: 944, 712
+	size: 80, 81
+	orig: 80, 81
+	offset: 0, 0
+	index: -1
+h_Rforearm_gudailong
+	rotate: true
+	xy: 949, 392
+	size: 89, 75
+	orig: 89, 75
+	offset: 0, 0
+	index: -1
+f_Rthigh_gudailong
+	rotate: true
+	xy: 747, 567
+	size: 127, 89
+	orig: 127, 89
+	offset: 0, 0
+	index: -1
+g_head_gudailong
+	rotate: true
+	xy: 536, 703
+	size: 93, 155
+	orig: 93, 155
+	offset: 0, 0
+	index: -1
+b_coxa_gudailong
+	rotate: false
+	xy: 236, 742
+	size: 186, 230
+	orig: 186, 230
+	offset: 0, 0
+	index: -1
+f_Lshin_gudailong
+	rotate: false
+	xy: 423, 969
+	size: 74, 55
+	orig: 74, 55
+	offset: 0, 0
+	index: -1
+i_body_gudailong
+	rotate: false
+	xy: 0, 0
+	size: 280, 249
+	orig: 280, 249
+	offset: 0, 0
+	index: -1
+a_Lthigh_gudailong
+	rotate: true
+	xy: 715, 797
+	size: 130, 102
+	orig: 130, 102
+	offset: 0, 0
+	index: -1
+b_Lthigh_gudailong
+	rotate: false
+	xy: 837, 392
+	size: 111, 123
+	orig: 111, 123
+	offset: 0, 0
+	index: -1
+h_head_gudailong
+	rotate: true
+	xy: 628, 946
+	size: 78, 110
+	orig: 78, 110
+	offset: 0, 0
+	index: -1
+a_body_gudailong
+	rotate: false
+	xy: 281, 0
+	size: 251, 247
+	orig: 251, 247
+	offset: 0, 0
+	index: -1
+g_Rarm_gudailong
+	rotate: true
+	xy: 595, 618
+	size: 84, 151
+	orig: 84, 151
+	offset: 0, 0
+	index: -1
+g_Lforearm_gudailong
+	rotate: true
+	xy: 949, 482
+	size: 88, 75
+	orig: 88, 75
+	offset: 0, 0
+	index: -1
+b_mouth_gudailong
+	rotate: true
+	xy: 463, 340
+	size: 116, 67
+	orig: 116, 67
+	offset: 0, 0
+	index: -1
+g_coxa_gudailong
+	rotate: false
+	xy: 786, 0
+	size: 221, 217
+	orig: 221, 217
+	offset: 0, 0
+	index: -1
+b_Lshin_gudailong
+	rotate: false
+	xy: 949, 571
+	size: 72, 65
+	orig: 72, 65
+	offset: 0, 0
+	index: -1
+g_Rshin_gudailong
+	rotate: false
+	xy: 934, 962
+	size: 84, 62
+	orig: 84, 62
+	offset: 0, 0
+	index: -1
+a_Lshin_gudailong
+	rotate: true
+	xy: 958, 637
+	size: 71, 64
+	orig: 71, 64
+	offset: 0, 0
+	index: -1
+f_Lthigh_gudailong
+	rotate: false
+	xy: 818, 794
+	size: 115, 116
+	orig: 115, 116
+	offset: 0, 0
+	index: -1
+a_coxa_gudailong
+	rotate: false
+	xy: 388, 468
+	size: 206, 211
+	orig: 206, 211
+	offset: 0, 0
+	index: -1
+h_head2_gudailong
+	rotate: true
+	xy: 817, 712
+	size: 81, 126
+	orig: 81, 126
+	offset: 0, 0
+	index: -1
+c_Rarm_gudailong
+	rotate: true
+	xy: 628, 797
+	size: 148, 86
+	orig: 148, 86
+	offset: 0, 0
+	index: -1
+h_body_gudailong
+	rotate: false
+	xy: 0, 742
+	size: 235, 253
+	orig: 235, 253
+	offset: 0, 0
+	index: -1
+b_Rthigh_gudailong
+	rotate: true
+	xy: 692, 703
+	size: 93, 124
+	orig: 93, 124
+	offset: 0, 0
+	index: -1
+b_body_gudailong
+	rotate: false
+	xy: 0, 250
+	size: 274, 236
+	orig: 274, 236
+	offset: 0, 0
+	index: -1
+a_Rarm_gudailong
+	rotate: true
+	xy: 423, 839
+	size: 129, 119
+	orig: 129, 119
+	offset: 0, 0
+	index: -1
+h_Larm_gudailong
+	rotate: false
+	xy: 543, 797
+	size: 84, 152
+	orig: 84, 152
+	offset: 0, 0
+	index: -1
+g_body_gudailong
+	rotate: true
+	xy: 533, 0
+	size: 234, 252
+	orig: 234, 252
+	offset: 0, 0
+	index: -1
+d_coxa_gudailong
+	rotate: true
+	xy: 533, 235
+	size: 190, 220
+	orig: 190, 220
+	offset: 0, 0
+	index: -1
+a_head_gudailong
+	rotate: false
+	xy: 837, 516
+	size: 111, 121
+	orig: 111, 121
+	offset: 0, 0
+	index: -1
+d_Rshin_gudailong
+	rotate: true
+	xy: 543, 950
+	size: 72, 84
+	orig: 72, 84
+	offset: 0, 0
+	index: -1
+i_coxa_gudailong
+	rotate: true
+	xy: 786, 218
+	size: 173, 223
+	orig: 173, 223
+	offset: 0, 0
+	index: -1
+h_coxa_gudailong
+	rotate: false
+	xy: 275, 250
+	size: 187, 217
+	orig: 187, 217
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1

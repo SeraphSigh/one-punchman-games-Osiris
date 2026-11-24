@@ -1,0 +1,2018 @@
+
+asset/anim/shuilong0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Rhand_shuilong
+	rotate: true
+	xy: 578, 147
+	size: 30, 25
+	orig: 30, 25
+	offset: 0, 0
+	index: -1
+11_Rhand_shuilong
+	rotate: true
+	xy: 619, 501
+	size: 34, 29
+	orig: 34, 29
+	offset: 0, 0
+	index: -1
+p_Rhand_shuilong
+	rotate: true
+	xy: 699, 699
+	size: 33, 29
+	orig: 33, 29
+	offset: 0, 0
+	index: -1
+10_hair5_shuilong
+	rotate: true
+	xy: 306, 143
+	size: 65, 34
+	orig: 65, 34
+	offset: 0, 0
+	index: -1
+t_Lhand_shuilong
+	rotate: true
+	xy: 586, 178
+	size: 30, 25
+	orig: 30, 25
+	offset: 0, 0
+	index: -1
+f_Lhand_shuilong
+	rotate: true
+	xy: 628, 296
+	size: 26, 25
+	orig: 26, 25
+	offset: 0, 0
+	index: -1
+10_hair6_shuilong
+	rotate: false
+	xy: 357, 66
+	size: 63, 63
+	orig: 63, 63
+	offset: 0, 0
+	index: -1
+3_Rhand_shuilong
+	rotate: false
+	xy: 666, 631
+	size: 29, 33
+	orig: 29, 33
+	offset: 0, 0
+	index: -1
+c_Lhand_shuilong
+	rotate: false
+	xy: 596, 445
+	size: 22, 20
+	orig: 22, 20
+	offset: 0, 0
+	index: -1
+f_hair2_shuilong
+	rotate: false
+	xy: 517, 860
+	size: 33, 50
+	orig: 33, 50
+	offset: 0, 0
+	index: -1
+i_hair3_shuilong
+	rotate: false
+	xy: 500, 423
+	size: 39, 44
+	orig: 39, 44
+	offset: 0, 0
+	index: -1
+o_hair2_shuilong
+	rotate: false
+	xy: 507, 381
+	size: 42, 41
+	orig: 42, 41
+	offset: 0, 0
+	index: -1
+e_Rhand_shuilong
+	rotate: false
+	xy: 612, 177
+	size: 26, 28
+	orig: 26, 28
+	offset: 0, 0
+	index: -1
+j_hair4_shuilong
+	rotate: true
+	xy: 326, 721
+	size: 68, 34
+	orig: 68, 34
+	offset: 0, 0
+	index: -1
+a_hair1_shuilong
+	rotate: true
+	xy: 173, 699
+	size: 21, 53
+	orig: 21, 53
+	offset: 0, 0
+	index: -1
+y_Lhand_shuilong
+	rotate: true
+	xy: 601, 334
+	size: 31, 28
+	orig: 31, 28
+	offset: 0, 0
+	index: -1
+h_Lhand_shuilong
+	rotate: false
+	xy: 598, 302
+	size: 29, 31
+	orig: 29, 31
+	offset: 0, 0
+	index: -1
+o_hair1_shuilong
+	rotate: true
+	xy: 421, 0
+	size: 60, 50
+	orig: 60, 50
+	offset: 0, 0
+	index: -1
+i_hair4_shuilong
+	rotate: false
+	xy: 361, 721
+	size: 36, 56
+	orig: 36, 56
+	offset: 0, 0
+	index: -1
+o_hair4_shuilong
+	rotate: true
+	xy: 544, 59
+	size: 56, 46
+	orig: 56, 46
+	offset: 0, 0
+	index: -1
+c_Rhand_shuilong
+	rotate: true
+	xy: 727, 631
+	size: 32, 24
+	orig: 32, 24
+	offset: 0, 0
+	index: -1
+y_Rhand_shuilong
+	rotate: true
+	xy: 543, 339
+	size: 36, 30
+	orig: 36, 30
+	offset: 0, 0
+	index: -1
+x_Lhand_shuilong
+	rotate: false
+	xy: 685, 665
+	size: 29, 33
+	orig: 29, 33
+	offset: 0, 0
+	index: -1
+t_Rhand_shuilong
+	rotate: true
+	xy: 575, 374
+	size: 35, 24
+	orig: 35, 24
+	offset: 0, 0
+	index: -1
+f_head_shuilong
+	rotate: true
+	xy: 278, 947
+	size: 73, 58
+	orig: 73, 58
+	offset: 0, 0
+	index: -1
+10_hair3_shuilong
+	rotate: false
+	xy: 551, 860
+	size: 30, 50
+	orig: 30, 50
+	offset: 0, 0
+	index: -1
+l_Rhand_shuilong
+	rotate: true
+	xy: 512, 302
+	size: 36, 31
+	orig: 36, 31
+	offset: 0, 0
+	index: -1
+a_hair6_shuilong
+	rotate: true
+	xy: 344, 616
+	size: 69, 40
+	orig: 69, 40
+	offset: 0, 0
+	index: -1
+j_hair3_shuilong
+	rotate: false
+	xy: 446, 609
+	size: 37, 52
+	orig: 37, 52
+	offset: 0, 0
+	index: -1
+a_Lhand_shuilong
+	rotate: true
+	xy: 715, 664
+	size: 32, 29
+	orig: 32, 29
+	offset: 0, 0
+	index: -1
+f_hair1_shuilong
+	rotate: true
+	xy: 456, 387
+	size: 35, 50
+	orig: 35, 50
+	offset: 0, 0
+	index: -1
+3_Lhand_shuilong
+	rotate: false
+	xy: 628, 821
+	size: 24, 38
+	orig: 24, 38
+	offset: 0, 0
+	index: -1
+o_Lhand_shuilong
+	rotate: false
+	xy: 577, 240
+	size: 30, 31
+	orig: 30, 31
+	offset: 0, 0
+	index: -1
+a_head_shuilong
+	rotate: false
+	xy: 264, 353
+	size: 60, 70
+	orig: 60, 70
+	offset: 0, 0
+	index: -1
+i_hair2_shuilong
+	rotate: true
+	xy: 62, 238
+	size: 18, 49
+	orig: 18, 49
+	offset: 0, 0
+	index: -1
+4_Lhand_shuilong
+	rotate: true
+	xy: 616, 268
+	size: 27, 26
+	orig: 27, 26
+	offset: 0, 0
+	index: -1
+j_hair7_shuilong
+	rotate: false
+	xy: 105, 721
+	size: 77, 80
+	orig: 77, 80
+	offset: 0, 0
+	index: -1
+a_hair2_shuilong
+	rotate: true
+	xy: 135, 518
+	size: 27, 50
+	orig: 27, 50
+	offset: 0, 0
+	index: -1
+i_Rhand_shuilong
+	rotate: true
+	xy: 708, 569
+	size: 32, 29
+	orig: 32, 29
+	offset: 0, 0
+	index: -1
+e_Lhand_shuilong
+	rotate: false
+	xy: 714, 602
+	size: 32, 28
+	orig: 32, 28
+	offset: 0, 0
+	index: -1
+v_Rhand_shuilong
+	rotate: true
+	xy: 636, 536
+	size: 34, 27
+	orig: 34, 27
+	offset: 0, 0
+	index: -1
+5_Lhand_shuilong
+	rotate: true
+	xy: 512, 339
+	size: 36, 30
+	orig: 36, 30
+	offset: 0, 0
+	index: -1
+j_Rear_shuilong
+	rotate: false
+	xy: 111, 440
+	size: 16, 17
+	orig: 16, 17
+	offset: 0, 0
+	index: -1
+2_Lhand_shuilong
+	rotate: false
+	xy: 632, 234
+	size: 23, 27
+	orig: 23, 27
+	offset: 0, 0
+	index: -1
+a_eye2_shuilong
+	rotate: false
+	xy: 482, 662
+	size: 32, 22
+	orig: 32, 22
+	offset: 0, 0
+	index: -1
+b_Lhand_shuilong
+	rotate: true
+	xy: 601, 909
+	size: 46, 34
+	orig: 46, 34
+	offset: 0, 0
+	index: -1
+r_Rhand_shuilong
+	rotate: true
+	xy: 592, 590
+	size: 42, 31
+	orig: 42, 31
+	offset: 0, 0
+	index: -1
+9_Lhand_shuilong
+	rotate: false
+	xy: 572, 413
+	size: 23, 36
+	orig: 23, 36
+	offset: 0, 0
+	index: -1
+n_Lhand_shuilong
+	rotate: true
+	xy: 624, 760
+	size: 39, 25
+	orig: 39, 25
+	offset: 0, 0
+	index: -1
+a_eye1_shuilong
+	rotate: false
+	xy: 446, 662
+	size: 35, 22
+	orig: 35, 22
+	offset: 0, 0
+	index: -1
+10_head_shuilong
+	rotate: false
+	xy: 373, 197
+	size: 55, 63
+	orig: 55, 63
+	offset: 0, 0
+	index: -1
+11_Lhand_shuilong
+	rotate: false
+	xy: 541, 685
+	size: 30, 35
+	orig: 30, 35
+	offset: 0, 0
+	index: -1
+f_hair5_shuilong
+	rotate: false
+	xy: 472, 0
+	size: 26, 60
+	orig: 26, 60
+	offset: 0, 0
+	index: -1
+k_Lhand_shuilong
+	rotate: false
+	xy: 584, 272
+	size: 31, 29
+	orig: 31, 29
+	offset: 0, 0
+	index: -1
+5_Rhand_shuilong
+	rotate: false
+	xy: 664, 709
+	size: 34, 36
+	orig: 34, 36
+	offset: 0, 0
+	index: -1
+10_hair2_shuilong
+	rotate: false
+	xy: 325, 66
+	size: 31, 65
+	orig: 31, 65
+	offset: 0, 0
+	index: -1
+a_hair5_shuilong
+	rotate: false
+	xy: 220, 309
+	size: 48, 43
+	orig: 48, 43
+	offset: 0, 0
+	index: -1
+7_hair7_shuilong
+	rotate: true
+	xy: 0, 146
+	size: 110, 61
+	orig: 110, 61
+	offset: 0, 0
+	index: -1
+1_Rhand_shuilong
+	rotate: false
+	xy: 649, 501
+	size: 26, 34
+	orig: 26, 34
+	offset: 0, 0
+	index: -1
+j_hair2_shuilong
+	rotate: false
+	xy: 484, 597
+	size: 28, 50
+	orig: 28, 50
+	offset: 0, 0
+	index: -1
+a_hair4_shuilong
+	rotate: false
+	xy: 429, 194
+	size: 33, 62
+	orig: 33, 62
+	offset: 0, 0
+	index: -1
+o_hair3_shuilong
+	rotate: false
+	xy: 488, 860
+	size: 28, 53
+	orig: 28, 53
+	offset: 0, 0
+	index: -1
+a_eye3_shuilong
+	rotate: false
+	xy: 624, 800
+	size: 31, 20
+	orig: 31, 20
+	offset: 0, 0
+	index: -1
+q_Rhand_shuilong
+	rotate: false
+	xy: 596, 410
+	size: 32, 34
+	orig: 32, 34
+	offset: 0, 0
+	index: -1
+g_Rhand_shuilong
+	rotate: false
+	xy: 562, 211
+	size: 31, 28
+	orig: 31, 28
+	offset: 0, 0
+	index: -1
+10_hair4_shuilong
+	rotate: false
+	xy: 489, 721
+	size: 38, 51
+	orig: 38, 51
+	offset: 0, 0
+	index: -1
+a_hit_shuilong
+	rotate: true
+	xy: 389, 685
+	size: 35, 40
+	orig: 35, 40
+	offset: 0, 0
+	index: -1
+f_hair6_shuilong
+	rotate: false
+	xy: 503, 243
+	size: 44, 58
+	orig: 44, 58
+	offset: 0, 0
+	index: -1
+i_hair1_shuilong
+	rotate: true
+	xy: 403, 402
+	size: 20, 52
+	orig: 20, 52
+	offset: 0, 0
+	index: -1
+x_Rhand_shuilong
+	rotate: true
+	xy: 468, 685
+	size: 35, 37
+	orig: 35, 37
+	offset: 0, 0
+	index: -1
+s_Rhand_shuilong
+	rotate: false
+	xy: 600, 374
+	size: 31, 34
+	orig: 31, 34
+	offset: 0, 0
+	index: -1
+a_hair3_shuilong
+	rotate: true
+	xy: 515, 646
+	size: 38, 47
+	orig: 38, 47
+	offset: 0, 0
+	index: -1
+10_Lhand_shuilong
+	rotate: false
+	xy: 680, 746
+	size: 32, 36
+	orig: 32, 36
+	offset: 0, 0
+	index: -1
+j_hair5_shuilong
+	rotate: true
+	xy: 329, 0
+	size: 65, 28
+	orig: 65, 28
+	offset: 0, 0
+	index: -1
+i_hair5_shuilong
+	rotate: true
+	xy: 658, 952
+	size: 44, 42
+	orig: 44, 42
+	offset: 0, 0
+	index: -1
+i_head_shuilong
+	rotate: false
+	xy: 173, 623
+	size: 61, 75
+	orig: 61, 75
+	offset: 0, 0
+	index: -1
+m_Lhand_shuilong
+	rotate: true
+	xy: 604, 633
+	size: 41, 26
+	orig: 41, 26
+	offset: 0, 0
+	index: -1
+i_hair6_shuilong
+	rotate: false
+	xy: 73, 983
+	size: 64, 41
+	orig: 64, 41
+	offset: 0, 0
+	index: -1
+f_Rhand_shuilong
+	rotate: false
+	xy: 594, 209
+	size: 27, 29
+	orig: 27, 29
+	offset: 0, 0
+	index: -1
+i_eye_shuilong
+	rotate: false
+	xy: 73, 440
+	size: 37, 17
+	orig: 37, 17
+	offset: 0, 0
+	index: -1
+10_hair1_shuilong
+	rotate: true
+	xy: 361, 835
+	size: 24, 49
+	orig: 24, 49
+	offset: 0, 0
+	index: -1
+j_hair1_shuilong
+	rotate: false
+	xy: 416, 324
+	size: 35, 62
+	orig: 35, 62
+	offset: 0, 0
+	index: -1
+2_Rhand_shuilong
+	rotate: true
+	xy: 608, 239
+	size: 28, 23
+	orig: 28, 23
+	offset: 0, 0
+	index: -1
+o_hair5_shuilong
+	rotate: false
+	xy: 420, 261
+	size: 34, 62
+	orig: 34, 62
+	offset: 0, 0
+	index: -1
+9_Rhand_shuilong
+	rotate: true
+	xy: 624, 589
+	size: 41, 24
+	orig: 41, 24
+	offset: 0, 0
+	index: -1
+gd_shuilong
+	rotate: false
+	xy: 0, 0
+	size: 76, 145
+	orig: 76, 145
+	offset: 0, 0
+	index: -1
+f_hair3_shuilong
+	rotate: false
+	xy: 320, 686
+	size: 68, 34
+	orig: 68, 34
+	offset: 0, 0
+	index: -1
+shoujiguadian_shuilong
+	rotate: false
+	xy: 55, 353
+	size: 3, 3
+	orig: 50, 50
+	offset: 0, 46
+	index: -1
+f_hair4_shuilong
+	rotate: true
+	xy: 455, 423
+	size: 62, 44
+	orig: 62, 44
+	offset: 0, 0
+	index: -1
+x_head_shuilong
+	rotate: false
+	xy: 247, 426
+	size: 61, 70
+	orig: 61, 70
+	offset: 0, 0
+	index: -1
+v_Lhand_shuilong
+	rotate: true
+	xy: 562, 178
+	size: 32, 23
+	orig: 32, 23
+	offset: 0, 0
+	index: -1
+10_Rhand_shuilong
+	rotate: true
+	xy: 683, 604
+	size: 26, 30
+	orig: 26, 30
+	offset: 0, 0
+	index: -1
+d_Lhand_shuilong
+	rotate: true
+	xy: 604, 147
+	size: 29, 28
+	orig: 29, 28
+	offset: 0, 0
+	index: -1
+s_Lhand_shuilong
+	rotate: false
+	xy: 650, 754
+	size: 29, 37
+	orig: 29, 37
+	offset: 0, 0
+	index: -1
+i_Lhand_shuilong
+	rotate: true
+	xy: 676, 479
+	size: 33, 27
+	orig: 33, 27
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/shuilong_xiuxian0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+p_Rarm_shuilongxiuxiansz
+	rotate: true
+	xy: 462, 169
+	size: 52, 54
+	orig: 52, 54
+	offset: 0, 0
+	index: -1
+f_Rarm_shuilongxiuxiansz
+	rotate: false
+	xy: 567, 0
+	size: 31, 51
+	orig: 31, 51
+	offset: 0, 0
+	index: -1
+b_Lthigh_shuilongxiuxiansz
+	rotate: true
+	xy: 427, 410
+	size: 74, 30
+	orig: 74, 30
+	offset: 0, 0
+	index: -1
+a_Lthigh_shuilongxiuxiansz
+	rotate: true
+	xy: 634, 759
+	size: 63, 51
+	orig: 63, 51
+	offset: 0, 0
+	index: -1
+i_body_shuilongxiuxiansz
+	rotate: false
+	xy: 159, 411
+	size: 90, 121
+	orig: 90, 121
+	offset: 0, 0
+	index: -1
+o_head_shuilongxiuxiansz
+	rotate: false
+	xy: 519, 759
+	size: 65, 67
+	orig: 65, 67
+	offset: 0, 0
+	index: -1
+4_body_shuilongxiuxiansz
+	rotate: true
+	xy: 112, 542
+	size: 122, 120
+	orig: 122, 120
+	offset: 0, 0
+	index: -1
+j_Lshin_shuilongxiuxiansz
+	rotate: false
+	xy: 496, 270
+	size: 32, 52
+	orig: 32, 52
+	offset: 0, 0
+	index: -1
+a_xuehua_shuilongxiuxiansz
+	rotate: false
+	xy: 619, 923
+	size: 59, 63
+	orig: 59, 63
+	offset: 0, 0
+	index: -1
+h_Rarm_shuilongxiuxiansz
+	rotate: false
+	xy: 529, 270
+	size: 48, 48
+	orig: 48, 48
+	offset: 0, 0
+	index: -1
+a_body_shuilongxiuxiansz
+	rotate: false
+	xy: 322, 128
+	size: 67, 93
+	orig: 67, 93
+	offset: 0, 0
+	index: -1
+11_head_shuilongxiuxiansz
+	rotate: false
+	xy: 415, 527
+	size: 65, 76
+	orig: 65, 76
+	offset: 0, 0
+	index: -1
+a_kushen2_shuilongxiuxiansz
+	rotate: true
+	xy: 108, 135
+	size: 6, 46
+	orig: 6, 46
+	offset: 0, 0
+	index: -1
+f_Lshin_shuilongxiuxiansz
+	rotate: false
+	xy: 550, 923
+	size: 41, 64
+	orig: 41, 64
+	offset: 0, 0
+	index: -1
+b_Rshin_shuilongxiuxiansz
+	rotate: true
+	xy: 599, 0
+	size: 47, 35
+	orig: 47, 35
+	offset: 0, 0
+	index: -1
+f_Larm_shuilongxiuxiansz
+	rotate: false
+	xy: 694, 886
+	size: 49, 36
+	orig: 49, 36
+	offset: 0, 0
+	index: -1
+d_Rthigh_shuilongxiuxiansz
+	rotate: true
+	xy: 515, 989
+	size: 35, 63
+	orig: 35, 63
+	offset: 0, 0
+	index: -1
+o_Lforearm_shuilongxiuxiansz
+	rotate: true
+	xy: 608, 393
+	size: 41, 36
+	orig: 41, 36
+	offset: 0, 0
+	index: -1
+x_body_shuilongxiuxiansz
+	rotate: false
+	xy: 233, 533
+	size: 99, 119
+	orig: 99, 119
+	offset: 0, 0
+	index: -1
+q_Rforearm_shuilongxiuxiansz
+	rotate: true
+	xy: 456, 348
+	size: 32, 52
+	orig: 32, 52
+	offset: 0, 0
+	index: -1
+9_Rforearm_shuilongxiuxiansz
+	rotate: true
+	xy: 479, 222
+	size: 47, 36
+	orig: 47, 36
+	offset: 0, 0
+	index: -1
+n_Rshin_shuilongxiuxiansz
+	rotate: true
+	xy: 637, 887
+	size: 35, 56
+	orig: 35, 56
+	offset: 0, 0
+	index: -1
+9_Larm_shuilongxiuxiansz
+	rotate: false
+	xy: 649, 301
+	size: 33, 40
+	orig: 33, 40
+	offset: 0, 0
+	index: -1
+c_Rthigh_shuilongxiuxiansz
+	rotate: true
+	xy: 449, 872
+	size: 50, 61
+	orig: 50, 61
+	offset: 0, 0
+	index: -1
+j_Lfoot_shuilongxiuxiansz
+	rotate: true
+	xy: 635, 0
+	size: 43, 34
+	orig: 43, 34
+	offset: 0, 0
+	index: -1
+t_body_shuilongxiuxiansz
+	rotate: false
+	xy: 0, 0
+	size: 107, 142
+	orig: 107, 142
+	offset: 0, 0
+	index: -1
+11_Lfoot_shuilongxiuxiansz
+	rotate: true
+	xy: 591, 156
+	size: 45, 36
+	orig: 45, 36
+	offset: 0, 0
+	index: -1
+i_Lforearm_shuilongxiuxiansz
+	rotate: true
+	xy: 490, 112
+	size: 54, 34
+	orig: 54, 34
+	offset: 0, 0
+	index: -1
+11_Rfoot_shuilongxiuxiansz
+	rotate: false
+	xy: 668, 342
+	size: 39, 39
+	orig: 39, 39
+	offset: 0, 0
+	index: -1
+11_head_baozou_shuilongxiuxiansz
+	rotate: false
+	xy: 389, 270
+	size: 65, 77
+	orig: 65, 77
+	offset: 0, 0
+	index: -1
+b_Rfoot_shuilongxiuxiansz
+	rotate: false
+	xy: 573, 452
+	size: 36, 27
+	orig: 36, 27
+	offset: 0, 0
+	index: -1
+j_head_shuilongxiuxiansz
+	rotate: false
+	xy: 507, 409
+	size: 65, 72
+	orig: 65, 72
+	offset: 0, 0
+	index: -1
+10_Lshin_shuilongxiuxiansz
+	rotate: true
+	xy: 449, 381
+	size: 27, 58
+	orig: 27, 58
+	offset: 0, 0
+	index: -1
+10_Rshin_shuilongxiuxiansz
+	rotate: false
+	xy: 458, 113
+	size: 31, 55
+	orig: 31, 55
+	offset: 0, 0
+	index: -1
+d_Lthigh_shuilongxiuxiansz
+	rotate: true
+	xy: 524, 527
+	size: 69, 49
+	orig: 69, 49
+	offset: 0, 0
+	index: -1
+a_maojing1_shuilongxiuxiansz
+	rotate: true
+	xy: 226, 905
+	size: 17, 72
+	orig: 17, 72
+	offset: 0, 0
+	index: -1
+b_Rfoot2_shuilongxiuxiansz
+	rotate: false
+	xy: 573, 452
+	size: 36, 27
+	orig: 36, 27
+	offset: 0, 0
+	index: -1
+j_Rarm_shuilongxiuxiansz
+	rotate: false
+	xy: 361, 488
+	size: 61, 38
+	orig: 61, 38
+	offset: 0, 0
+	index: -1
+c_Lforearm_shuilongxiuxiansz
+	rotate: false
+	xy: 711, 391
+	size: 31, 25
+	orig: 31, 25
+	offset: 0, 0
+	index: -1
+a_coxa_shuilongxiuxiansz
+	rotate: false
+	xy: 361, 410
+	size: 65, 77
+	orig: 65, 77
+	offset: 0, 0
+	index: -1
+s_Rforearm_shuilongxiuxiansz
+	rotate: false
+	xy: 650, 245
+	size: 39, 39
+	orig: 39, 39
+	offset: 0, 0
+	index: -1
+a_Rshin_shuilongxiuxiansz
+	rotate: false
+	xy: 720, 923
+	size: 33, 62
+	orig: 33, 62
+	offset: 0, 0
+	index: -1
+a_Larm_shuilongxiuxiansz
+	rotate: false
+	xy: 423, 488
+	size: 56, 38
+	orig: 56, 38
+	offset: 0, 0
+	index: -1
+aa_xiaoxian_shuilongxiuxiansz
+	rotate: false
+	xy: 535, 0
+	size: 31, 51
+	orig: 31, 51
+	offset: 0, 0
+	index: -1
+d_Lfoot_shuilongxiuxiansz
+	rotate: false
+	xy: 610, 435
+	size: 40, 40
+	orig: 40, 40
+	offset: 0, 0
+	index: -1
+a_youdai_shuilongxiuxiansz
+	rotate: true
+	xy: 299, 890
+	size: 32, 75
+	orig: 32, 75
+	offset: 0, 0
+	index: -1
+c_Rfoot_shuilongxiuxiansz
+	rotate: true
+	xy: 711, 359
+	size: 31, 26
+	orig: 31, 26
+	offset: 0, 0
+	index: -1
+i_coxa_shuilongxiuxiansz
+	rotate: false
+	xy: 703, 987
+	size: 53, 37
+	orig: 53, 37
+	offset: 0, 0
+	index: -1
+a_dayihou_shuilongxiuxiansz
+	rotate: true
+	xy: 598, 826
+	size: 45, 38
+	orig: 45, 38
+	offset: 0, 0
+	index: -1
+10_Lthigh_shuilongxiuxiansz
+	rotate: false
+	xy: 639, 644
+	size: 31, 66
+	orig: 31, 66
+	offset: 0, 0
+	index: -1
+o_Larm_shuilongxiuxiansz
+	rotate: false
+	xy: 480, 483
+	size: 54, 43
+	orig: 54, 43
+	offset: 0, 0
+	index: -1
+a_Lshin_shuilongxiuxiansz
+	rotate: false
+	xy: 402, 222
+	size: 39, 47
+	orig: 39, 47
+	offset: 0, 0
+	index: -1
+y_body_shuilongxiuxiansz
+	rotate: true
+	xy: 171, 270
+	size: 116, 112
+	orig: 116, 112
+	offset: 0, 0
+	index: -1
+r_Rarm_shuilongxiuxiansz
+	rotate: true
+	xy: 448, 0
+	size: 55, 34
+	orig: 55, 34
+	offset: 0, 0
+	index: -1
+t_Rthigh_shuilongxiuxiansz
+	rotate: false
+	xy: 482, 759
+	size: 36, 69
+	orig: 36, 69
+	offset: 0, 0
+	index: -1
+f_body_shuilongxiuxiansz
+	rotate: false
+	xy: 108, 0
+	size: 114, 134
+	orig: 114, 134
+	offset: 0, 0
+	index: -1
+10_coxa_shuilongxiuxiansz
+	rotate: false
+	xy: 642, 987
+	size: 60, 37
+	orig: 60, 37
+	offset: 0, 0
+	index: -1
+f_Lfoot_shuilongxiuxiansz
+	rotate: true
+	xy: 682, 418
+	size: 33, 32
+	orig: 33, 32
+	offset: 0, 0
+	index: -1
+k_Lthigh_shuilongxiuxiansz
+	rotate: false
+	xy: 351, 270
+	size: 37, 81
+	orig: 37, 81
+	offset: 0, 0
+	index: -1
+t_tibu1_shuilongxiuxiansz
+	rotate: false
+	xy: 105, 282
+	size: 65, 128
+	orig: 65, 128
+	offset: 0, 0
+	index: -1
+o_Lfoot_shuilongxiuxiansz
+	rotate: false
+	xy: 564, 827
+	size: 33, 44
+	orig: 33, 44
+	offset: 0, 0
+	index: -1
+k_Rfoot_shuilongxiuxiansz
+	rotate: false
+	xy: 442, 222
+	size: 36, 47
+	orig: 36, 47
+	offset: 0, 0
+	index: -1
+u_body_shuilongxiuxiansz
+	rotate: false
+	xy: 333, 527
+	size: 81, 116
+	orig: 81, 116
+	offset: 0, 0
+	index: -1
+f_Rshin_shuilongxiuxiansz
+	rotate: false
+	xy: 423, 0
+	size: 24, 56
+	orig: 24, 56
+	offset: 0, 0
+	index: -1
+l_body_shuilongxiuxiansz
+	rotate: false
+	xy: 111, 142
+	size: 124, 127
+	orig: 124, 127
+	offset: 0, 0
+	index: -1
+q_body_shuilongxiuxiansz
+	rotate: false
+	xy: 0, 282
+	size: 104, 130
+	orig: 104, 130
+	offset: 0, 0
+	index: -1
+e_Lthigh_shuilongxiuxiansz
+	rotate: false
+	xy: 527, 597
+	size: 67, 46
+	orig: 67, 46
+	offset: 0, 0
+	index: -1
+v_body_shuilongxiuxiansz
+	rotate: true
+	xy: 410, 923
+	size: 93, 104
+	orig: 93, 104
+	offset: 0, 0
+	index: -1
+zz_baozou1_shuilongxiuxiansz
+	rotate: false
+	xy: 284, 270
+	size: 66, 110
+	orig: 66, 110
+	offset: 0, 0
+	index: -1
+k_Lfoot_shuilongxiuxiansz
+	rotate: true
+	xy: 612, 301
+	size: 41, 36
+	orig: 41, 36
+	offset: 0, 0
+	index: -1
+q_Larm_shuilongxiuxiansz
+	rotate: false
+	xy: 511, 872
+	size: 53, 50
+	orig: 53, 50
+	offset: 0, 0
+	index: -1
+t_Rearm_shuilongxiuxiansz
+	rotate: false
+	xy: 679, 923
+	size: 40, 63
+	orig: 40, 63
+	offset: 0, 0
+	index: -1
+10_body_shuilongxiuxiansz
+	rotate: false
+	xy: 68, 413
+	size: 90, 128
+	orig: 90, 128
+	offset: 0, 0
+	index: -1
+w_body_shuilongxiuxiansz
+	rotate: false
+	xy: 370, 644
+	size: 110, 114
+	orig: 110, 114
+	offset: 0, 0
+	index: -1
+n_body_shuilongxiuxiansz
+	rotate: true
+	xy: 0, 927
+	size: 97, 100
+	orig: 97, 100
+	offset: 0, 0
+	index: -1
+n_coxa_shuilongxiuxiansz
+	rotate: true
+	xy: 532, 55
+	size: 51, 37
+	orig: 51, 37
+	offset: 0, 0
+	index: -1
+a_Lfoot_shuilongxiuxiansz
+	rotate: true
+	xy: 508, 381
+	size: 27, 48
+	orig: 27, 48
+	offset: 0, 0
+	index: -1
+d_Larm_shuilongxiuxiansz
+	rotate: true
+	xy: 643, 711
+	size: 47, 54
+	orig: 47, 54
+	offset: 0, 0
+	index: -1
+h_body_shuilongxiuxiansz
+	rotate: false
+	xy: 0, 544
+	size: 111, 129
+	orig: 111, 129
+	offset: 0, 0
+	index: -1
+a_zuodai_shuilongxiuxiansz
+	rotate: true
+	xy: 226, 387
+	size: 22, 55
+	orig: 22, 55
+	offset: 0, 0
+	index: -1
+v_Lforearm_shuilongxiuxiansz
+	rotate: false
+	xy: 552, 210
+	size: 34, 47
+	orig: 34, 47
+	offset: 0, 0
+	index: -1
+a_Rforearm_shuilongxiuxiansz
+	rotate: false
+	xy: 509, 323
+	size: 37, 49
+	orig: 37, 49
+	offset: 0, 0
+	index: -1
+a_Lforearm_shuilongxiuxiansz
+	rotate: true
+	xy: 587, 210
+	size: 47, 27
+	orig: 47, 27
+	offset: 0, 0
+	index: -1
+a_Rthigh_shuilongxiuxiansz
+	rotate: false
+	xy: 686, 759
+	size: 34, 60
+	orig: 34, 60
+	offset: 0, 0
+	index: -1
+e_Rforearm_shuilongxiuxiansz
+	rotate: true
+	xy: 678, 382
+	size: 35, 32
+	orig: 35, 32
+	offset: 0, 0
+	index: -1
+n_Lforearm_shuilongxiuxiansz
+	rotate: true
+	xy: 578, 258
+	size: 47, 31
+	orig: 47, 31
+	offset: 0, 0
+	index: -1
+10_Larm_shuilongxiuxiansz
+	rotate: false
+	xy: 308, 240
+	size: 31, 29
+	orig: 31, 29
+	offset: 0, 0
+	index: -1
+e_Rthigh_shuilongxiuxiansz
+	rotate: true
+	xy: 678, 823
+	size: 62, 61
+	orig: 62, 61
+	offset: 0, 0
+	index: -1
+d_Lforearm_shuilongxiuxiansz
+	rotate: true
+	xy: 596, 350
+	size: 42, 31
+	orig: 42, 31
+	offset: 0, 0
+	index: -1
+s_Lforearm_shuilongxiuxiansz
+	rotate: false
+	xy: 645, 384
+	size: 32, 40
+	orig: 32, 40
+	offset: 0, 0
+	index: -1
+e_Lforearm_shuilongxiuxiansz
+	rotate: false
+	xy: 642, 562
+	size: 38, 33
+	orig: 38, 33
+	offset: 0, 0
+	index: -1
+10_Rfoot_shuilongxiuxiansz
+	rotate: false
+	xy: 655, 188
+	size: 31, 39
+	orig: 31, 39
+	offset: 0, 0
+	index: -1
+z_body_shuilongxiuxiansz
+	rotate: true
+	xy: 223, 0
+	size: 127, 117
+	orig: 127, 117
+	offset: 0, 0
+	index: -1
+h_Larm_shuilongxiuxiansz
+	rotate: false
+	xy: 535, 482
+	size: 42, 44
+	orig: 42, 44
+	offset: 0, 0
+	index: -1
+c_Lthigh_shuilongxiuxiansz
+	rotate: false
+	xy: 341, 0
+	size: 39, 59
+	orig: 39, 59
+	offset: 0, 0
+	index: -1
+zz_baozou2_shuilongxiuxiansz
+	rotate: false
+	xy: 226, 785
+	size: 66, 119
+	orig: 66, 119
+	offset: 0, 0
+	index: -1
+x_Rforearm_shuilongxiuxiansz
+	rotate: false
+	xy: 615, 202
+	size: 39, 42
+	orig: 39, 42
+	offset: 0, 0
+	index: -1
+c_Larm_shuilongxiuxiansz
+	rotate: true
+	xy: 529, 714
+	size: 44, 42
+	orig: 44, 42
+	offset: 0, 0
+	index: -1
+10_Lforearm_shuilongxiuxiansz
+	rotate: false
+	xy: 529, 827
+	size: 34, 44
+	orig: 34, 44
+	offset: 0, 0
+	index: -1
+h_Lforearm_shuilongxiuxiansz
+	rotate: false
+	xy: 602, 48
+	size: 34, 43
+	orig: 34, 43
+	offset: 0, 0
+	index: -1
+a_youyiling_shuilongxiuxiansz
+	rotate: true
+	xy: 340, 222
+	size: 47, 61
+	orig: 47, 61
+	offset: 0, 0
+	index: -1
+a_Rfoot_shuilongxiuxiansz
+	rotate: false
+	xy: 649, 515
+	size: 37, 37
+	orig: 37, 37
+	offset: 0, 0
+	index: -1
+k_Lforearm_shuilongxiuxiansz
+	rotate: false
+	xy: 557, 367
+	size: 38, 41
+	orig: 38, 41
+	offset: 0, 0
+	index: -1
+f_Rforearm_shuilongxiuxiansz
+	rotate: false
+	xy: 611, 523
+	size: 37, 38
+	orig: 37, 38
+	offset: 0, 0
+	index: -1
+b_body_shuilongxiuxiansz
+	rotate: false
+	xy: 250, 410
+	size: 110, 116
+	orig: 110, 116
+	offset: 0, 0
+	index: -1
+10_Rarm_shuilongxiuxiansz
+	rotate: false
+	xy: 579, 988
+	size: 62, 36
+	orig: 62, 36
+	offset: 0, 0
+	index: -1
+r_Rforearm_shuilongxiuxiansz
+	rotate: true
+	xy: 609, 712
+	size: 46, 33
+	orig: 46, 33
+	offset: 0, 0
+	index: -1
+m_Larm_shuilongxiuxiansz
+	rotate: false
+	xy: 517, 167
+	size: 31, 52
+	orig: 31, 52
+	offset: 0, 0
+	index: -1
+aaa_piao_shuilongxiuxiansz
+	rotate: false
+	xy: 473, 56
+	size: 30, 55
+	orig: 30, 55
+	offset: 0, 0
+	index: -1
+a_maojing2_shuilongxiuxiansz
+	rotate: true
+	xy: 595, 597
+	size: 46, 50
+	orig: 46, 50
+	offset: 0, 0
+	index: -1
+f_Lthigh_shuilongxiuxiansz
+	rotate: false
+	xy: 458, 409
+	size: 48, 73
+	orig: 48, 73
+	offset: 0, 0
+	index: -1
+2_body_shuilongxiuxiansz
+	rotate: true
+	xy: 143, 665
+	size: 119, 111
+	orig: 119, 111
+	offset: 0, 0
+	index: -1
+6_body_shuilongxiuxiansz
+	rotate: false
+	xy: 0, 413
+	size: 67, 130
+	orig: 67, 130
+	offset: 0, 0
+	index: -1
+k_Rthigh_shuilongxiuxiansz
+	rotate: false
+	xy: 547, 644
+	size: 51, 67
+	orig: 51, 67
+	offset: 0, 0
+	index: -1
+x_Lshin_shuilongxiuxiansz
+	rotate: false
+	xy: 390, 119
+	size: 31, 57
+	orig: 31, 57
+	offset: 0, 0
+	index: -1
+a_Rarm_shuilongxiuxiansz
+	rotate: true
+	xy: 483, 0
+	size: 54, 51
+	orig: 54, 51
+	offset: 0, 0
+	index: -1
+t_tibu3_shuilongxiuxiansz
+	rotate: false
+	xy: 62, 674
+	size: 80, 124
+	orig: 80, 124
+	offset: 0, 0
+	index: -1
+c_body_shuilongxiuxiansz
+	rotate: true
+	xy: 101, 927
+	size: 94, 112
+	orig: 94, 112
+	offset: 0, 0
+	index: -1
+q_Rarm_shuilongxiuxiansz
+	rotate: false
+	xy: 437, 57
+	size: 35, 55
+	orig: 35, 55
+	offset: 0, 0
+	index: -1
+i_Lshin_shuilongxiuxiansz
+	rotate: false
+	xy: 422, 116
+	size: 35, 55
+	orig: 35, 55
+	offset: 0, 0
+	index: -1
+b_coxa_shuilongxiuxiansz
+	rotate: true
+	xy: 565, 872
+	size: 50, 38
+	orig: 50, 38
+	offset: 0, 0
+	index: -1
+n_Larm_shuilongxiuxiansz
+	rotate: false
+	xy: 390, 177
+	size: 31, 44
+	orig: 31, 44
+	offset: 0, 0
+	index: -1
+k_Rshin_shuilongxiuxiansz
+	rotate: false
+	xy: 381, 0
+	size: 41, 58
+	orig: 41, 58
+	offset: 0, 0
+	index: -1
+a_zuodayi_shuilongxiuxiansz
+	rotate: false
+	xy: 599, 644
+	size: 39, 67
+	orig: 39, 67
+	offset: 0, 0
+	index: -1
+10_Rforearm_shuilongxiuxiansz
+	rotate: false
+	xy: 393, 348
+	size: 62, 32
+	orig: 62, 32
+	offset: 0, 0
+	index: -1
+q_Rfoot_shuilongxiuxiansz
+	rotate: true
+	xy: 455, 323
+	size: 24, 46
+	orig: 24, 46
+	offset: 0, 0
+	index: -1
+zz_baozou3_shuilongxiuxiansz
+	rotate: false
+	xy: 393, 759
+	size: 88, 112
+	orig: 88, 112
+	offset: 0, 0
+	index: -1
+f_Rthigh_shuilongxiuxiansz
+	rotate: true
+	xy: 375, 890
+	size: 32, 73
+	orig: 32, 73
+	offset: 0, 0
+	index: -1
+e_Rfoot_shuilongxiuxiansz
+	rotate: true
+	xy: 683, 285
+	size: 39, 33
+	orig: 39, 33
+	offset: 0, 0
+	index: -1
+2_Lforearm_shuilongxiuxiansz
+	rotate: true
+	xy: 410, 381
+	size: 28, 38
+	orig: 28, 38
+	offset: 0, 0
+	index: -1
+5_body_shuilongxiuxiansz
+	rotate: false
+	xy: 0, 143
+	size: 110, 138
+	orig: 110, 138
+	offset: 0, 0
+	index: -1
+f_Lforearm_shuilongxiuxiansz
+	rotate: true
+	xy: 708, 325
+	size: 33, 32
+	orig: 33, 32
+	offset: 0, 0
+	index: -1
+10_Lfoot_shuilongxiuxiansz
+	rotate: false
+	xy: 646, 476
+	size: 25, 38
+	orig: 25, 38
+	offset: 0, 0
+	index: -1
+f_Rfoot_shuilongxiuxiansz
+	rotate: true
+	xy: 612, 476
+	size: 38, 33
+	orig: 38, 33
+	offset: 0, 0
+	index: -1
+11_Lforearm_shuilongxiuxiansz
+	rotate: false
+	xy: 564, 107
+	size: 35, 48
+	orig: 35, 48
+	offset: 0, 0
+	index: -1
+r_Lfoot_shuilongxiuxiansz
+	rotate: false
+	xy: 572, 712
+	size: 36, 46
+	orig: 36, 46
+	offset: 0, 0
+	index: -1
+c_Rshin_shuilongxiuxiansz
+	rotate: true
+	xy: 171, 387
+	size: 23, 54
+	orig: 23, 54
+	offset: 0, 0
+	index: -1
+x_Lthigh_shuilongxiuxiansz
+	rotate: true
+	xy: 600, 101
+	size: 43, 36
+	orig: 43, 36
+	offset: 0, 0
+	index: -1
+9_Lforearm_shuilongxiuxiansz
+	rotate: true
+	xy: 274, 240
+	size: 29, 33
+	orig: 29, 33
+	offset: 0, 0
+	index: -1
+5_Lforearm_shuilongxiuxiansz
+	rotate: true
+	xy: 580, 306
+	size: 43, 31
+	orig: 43, 31
+	offset: 0, 0
+	index: -1
+l_Rforearm_shuilongxiuxiansz
+	rotate: true
+	xy: 573, 409
+	size: 42, 34
+	orig: 42, 34
+	offset: 0, 0
+	index: -1
+a_kushen1_shuilongxiuxiansz
+	rotate: true
+	xy: 155, 135
+	size: 6, 43
+	orig: 6, 43
+	offset: 0, 0
+	index: -1
+s_Larm_shuilongxiuxiansz
+	rotate: true
+	xy: 395, 59
+	size: 56, 41
+	orig: 56, 41
+	offset: 0, 0
+	index: -1
+t_tibu2_shuilongxiuxiansz
+	rotate: false
+	xy: 0, 674
+	size: 61, 126
+	orig: 61, 126
+	offset: 0, 0
+	index: -1
+s_Rarm_shuilongxiuxiansz
+	rotate: true
+	xy: 422, 172
+	size: 49, 39
+	orig: 49, 39
+	offset: 0, 0
+	index: -1
+g_Rforearm_shuilongxiuxiansz
+	rotate: false
+	xy: 628, 343
+	size: 39, 40
+	orig: 39, 40
+	offset: 0, 0
+	index: -1
+d_Lshin_shuilongxiuxiansz
+	rotate: false
+	xy: 504, 55
+	size: 27, 53
+	orig: 27, 53
+	offset: 0, 0
+	index: -1
+7_body_shuilongxiuxiansz
+	rotate: false
+	xy: 293, 772
+	size: 99, 117
+	orig: 99, 117
+	offset: 0, 0
+	index: -1
+o_body_shuilongxiuxiansz
+	rotate: false
+	xy: 236, 128
+	size: 85, 111
+	orig: 85, 111
+	offset: 0, 0
+	index: -1
+t_Rfoot_shuilongxiuxiansz
+	rotate: false
+	xy: 646, 596
+	size: 31, 36
+	orig: 31, 36
+	offset: 0, 0
+	index: -1
+c_Rarm_shuilongxiuxiansz
+	rotate: true
+	xy: 484, 598
+	size: 45, 42
+	orig: 45, 42
+	offset: 0, 0
+	index: -1
+k_body_shuilongxiuxiansz
+	rotate: false
+	xy: 214, 923
+	size: 106, 101
+	orig: 106, 101
+	offset: 0, 0
+	index: -1
+d_Rfoot_shuilongxiuxiansz
+	rotate: true
+	xy: 611, 562
+	size: 34, 30
+	orig: 34, 30
+	offset: 0, 0
+	index: -1
+k_Lshin_shuilongxiuxiansz
+	rotate: true
+	xy: 349, 381
+	size: 28, 60
+	orig: 28, 60
+	offset: 0, 0
+	index: -1
+d_Rshin_shuilongxiuxiansz
+	rotate: false
+	xy: 482, 829
+	size: 46, 42
+	orig: 46, 42
+	offset: 0, 0
+	index: -1
+a_xianglian_shuilongxiuxiansz
+	rotate: false
+	xy: 585, 759
+	size: 48, 66
+	orig: 48, 66
+	offset: 0, 0
+	index: -1
+c_Lfoot_shuilongxiuxiansz
+	rotate: true
+	xy: 351, 352
+	size: 28, 41
+	orig: 28, 41
+	offset: 0, 0
+	index: -1
+p_Rforearm_shuilongxiuxiansz
+	rotate: true
+	xy: 525, 109
+	size: 51, 38
+	orig: 51, 38
+	offset: 0, 0
+	index: -1
+j_body_shuilongxiuxiansz
+	rotate: false
+	xy: 255, 653
+	size: 114, 118
+	orig: 114, 118
+	offset: 0, 0
+	index: -1
+j_Lthigh_shuilongxiuxiansz
+	rotate: false
+	xy: 515, 923
+	size: 34, 65
+	orig: 34, 65
+	offset: 0, 0
+	index: -1
+a_maojing3_shuilongxiuxiansz
+	rotate: true
+	xy: 282, 387
+	size: 14, 66
+	orig: 14, 66
+	offset: 0, 0
+	index: -1
+8_Lforearm_shuilongxiuxiansz
+	rotate: true
+	xy: 578, 480
+	size: 42, 33
+	orig: 42, 33
+	offset: 0, 0
+	index: -1
+5_Rforearm_shuilongxiuxiansz
+	rotate: false
+	xy: 547, 319
+	size: 32, 47
+	orig: 32, 47
+	offset: 0, 0
+	index: -1
+y_Lforearm_shuilongxiuxiansz
+	rotate: true
+	xy: 651, 425
+	size: 36, 30
+	orig: 36, 30
+	offset: 0, 0
+	index: -1
+10_Rthigh_shuilongxiuxiansz
+	rotate: false
+	xy: 637, 823
+	size: 40, 63
+	orig: 40, 63
+	offset: 0, 0
+	index: -1
+a_youdayi_shuilongxiuxiansz
+	rotate: false
+	xy: 376, 923
+	size: 33, 100
+	orig: 33, 100
+	offset: 0, 0
+	index: -1
+9_Rarm_shuilongxiuxiansz
+	rotate: true
+	xy: 628, 145
+	size: 42, 37
+	orig: 42, 37
+	offset: 0, 0
+	index: -1
+a_bozi_shuilongxiuxiansz
+	rotate: true
+	xy: 481, 714
+	size: 44, 47
+	orig: 44, 47
+	offset: 0, 0
+	index: -1
+r_Rshin_shuilongxiuxiansz
+	rotate: false
+	xy: 455, 270
+	size: 40, 52
+	orig: 40, 52
+	offset: 0, 0
+	index: -1
+p_head_benghuai_shuilongxiuxiansz
+	rotate: false
+	xy: 481, 644
+	size: 65, 69
+	orig: 65, 69
+	offset: 0, 0
+	index: -1
+i_Lthigh_shuilongxiuxiansz
+	rotate: false
+	xy: 481, 527
+	size: 42, 70
+	orig: 42, 70
+	offset: 0, 0
+	index: -1
+r_shenti_shuilongxiuxiansz
+	rotate: true
+	xy: 0, 801
+	size: 125, 108
+	orig: 125, 108
+	offset: 0, 0
+	index: -1
+c_Lshin_shuilongxiuxiansz
+	rotate: true
+	xy: 549, 161
+	size: 48, 41
+	orig: 48, 41
+	offset: 0, 0
+	index: -1
+n_Rfoot_shuilongxiuxiansz
+	rotate: false
+	xy: 610, 258
+	size: 39, 42
+	orig: 39, 42
+	offset: 0, 0
+	index: -1
+f_coxa_shuilongxiuxiansz
+	rotate: true
+	xy: 415, 604
+	size: 39, 68
+	orig: 39, 68
+	offset: 0, 0
+	index: -1
+c_Rforearm_shuilongxiuxiansz
+	rotate: false
+	xy: 236, 240
+	size: 37, 29
+	orig: 37, 29
+	offset: 0, 0
+	index: -1
+b_Lshin_shuilongxiuxiansz
+	rotate: true
+	xy: 592, 923
+	size: 64, 26
+	orig: 64, 26
+	offset: 0, 0
+	index: -1
+a_hair7_shuilongxiuxiansz
+	rotate: true
+	xy: 321, 923
+	size: 100, 54
+	orig: 100, 54
+	offset: 0, 0
+	index: -1
+5_youdabi_shuilongxiuxiansz
+	rotate: true
+	xy: 516, 222
+	size: 47, 35
+	orig: 47, 35
+	offset: 0, 0
+	index: -1
+l_Rfoot_shuilongxiuxiansz
+	rotate: false
+	xy: 570, 52
+	size: 31, 48
+	orig: 31, 48
+	offset: 0, 0
+	index: -1
+e_Lshin_shuilongxiuxiansz
+	rotate: true
+	xy: 604, 872
+	size: 50, 32
+	orig: 50, 32
+	offset: 0, 0
+	index: -1
+e_body_shuilongxiuxiansz
+	rotate: true
+	xy: 109, 799
+	size: 123, 116
+	orig: 123, 116
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,180 @@
+
+asset/anim/lazhuxiaoguailanSECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/lazhuguailan_jn1_19
+	rotate: false
+	xy: 0, 0
+	size: 291, 263
+	orig: 313, 293
+	offset: 3, 17
+	index: -1
+common/lazhuguailan_jn1_8
+	rotate: false
+	xy: 580, 516
+	size: 269, 253
+	orig: 313, 293
+	offset: 3, 18
+	index: -1
+common/lazhuguailan_jn1_4
+	rotate: true
+	xy: 850, 516
+	size: 179, 165
+	orig: 313, 293
+	offset: 13, 65
+	index: -1
+common/lazhuguailan_jn1_7
+	rotate: true
+	xy: 0, 770
+	size: 249, 235
+	orig: 313, 293
+	offset: 7, 25
+	index: -1
+common/lazhuguailan_jn1_6
+	rotate: true
+	xy: 0, 522
+	size: 229, 215
+	orig: 313, 293
+	offset: 8, 37
+	index: -1
+common/lazhuguailan_jn1_1
+	rotate: false
+	xy: 870, 180
+	size: 99, 93
+	orig: 313, 293
+	offset: 29, 118
+	index: -1
+common/lazhuguailan_jn1_20
+	rotate: false
+	xy: 582, 0
+	size: 287, 261
+	orig: 313, 293
+	offset: 0, 32
+	index: -1
+common/lazhuguailan_jn1_21
+	rotate: false
+	xy: 292, 0
+	size: 289, 259
+	orig: 313, 293
+	offset: 3, 34
+	index: -1
+common/lazhuguailan_jn1_22
+	rotate: false
+	xy: 292, 260
+	size: 287, 259
+	orig: 313, 293
+	offset: 5, 34
+	index: -1
+common/lazhuguailan_jn1_23
+	rotate: false
+	xy: 0, 264
+	size: 285, 257
+	orig: 313, 293
+	offset: 6, 36
+	index: -1
+common/lazhuguailan_jn1_24
+	rotate: false
+	xy: 580, 262
+	size: 285, 253
+	orig: 313, 293
+	offset: 5, 40
+	index: -1
+
+asset/anim/lazhuxiaoguailanSECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/lazhuguailan_jn1_15
+	rotate: false
+	xy: 584, 0
+	size: 291, 273
+	orig: 313, 293
+	offset: 1, 8
+	index: -1
+common/lazhuguailan_jn1_14
+	rotate: false
+	xy: 0, 548
+	size: 291, 273
+	orig: 313, 293
+	offset: 2, 8
+	index: -1
+common/lazhuguailan_jn1_17
+	rotate: false
+	xy: 584, 274
+	size: 289, 271
+	orig: 313, 293
+	offset: 3, 8
+	index: -1
+common/lazhuguailan_jn1_16
+	rotate: false
+	xy: 0, 274
+	size: 293, 273
+	orig: 313, 293
+	offset: 1, 8
+	index: -1
+common/lazhuguailan_jn1_11
+	rotate: false
+	xy: 0, 0
+	size: 293, 273
+	orig: 313, 293
+	offset: 1, 8
+	index: -1
+common/lazhuguailan_jn1_10
+	rotate: false
+	xy: 294, 276
+	size: 289, 273
+	orig: 313, 293
+	offset: 2, 8
+	index: -1
+common/lazhuguailan_jn1_13
+	rotate: false
+	xy: 294, 0
+	size: 289, 275
+	orig: 313, 293
+	offset: 2, 6
+	index: -1
+common/lazhuguailan_jn1_12
+	rotate: false
+	xy: 294, 0
+	size: 289, 275
+	orig: 313, 293
+	offset: 2, 6
+	index: -1
+common/lazhuguailan_jn1_18
+	rotate: false
+	xy: 292, 550
+	size: 291, 269
+	orig: 313, 293
+	offset: 3, 10
+	index: -1
+common/lazhuguailan_jn1_9
+	rotate: false
+	xy: 584, 546
+	size: 289, 271
+	orig: 313, 293
+	offset: 2, 10
+	index: -1
+common/lazhuguailan_jn1_5
+	rotate: false
+	xy: 0, 822
+	size: 211, 195
+	orig: 313, 293
+	offset: 10, 46
+	index: -1
+common/lazhuguailan_jn1_3
+	rotate: true
+	xy: 876, 165
+	size: 151, 137
+	orig: 313, 293
+	offset: 10, 88
+	index: -1
+common/lazhuguailan_jn1_2
+	rotate: false
+	xy: 874, 469
+	size: 125, 115
+	orig: 313, 293
+	offset: 26, 104
+	index: -1

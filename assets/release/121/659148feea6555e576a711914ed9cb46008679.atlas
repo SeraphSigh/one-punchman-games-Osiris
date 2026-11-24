@@ -1,0 +1,2184 @@
+
+asset/anim/jienuosi2_xifu1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+u_Rfoot_jienuosi2xifu
+	rotate: true
+	xy: 98, 187
+	size: 43, 33
+	orig: 43, 33
+	offset: 0, 0
+	index: -1
+d_Lthigh_jienuosi2xifu
+	rotate: true
+	xy: 0, 147
+	size: 45, 30
+	orig: 45, 30
+	offset: 0, 0
+	index: -1
+i_Rforearm_jienuosi2xifu
+	rotate: false
+	xy: 0, 0
+	size: 36, 49
+	orig: 36, 49
+	offset: 0, 0
+	index: -1
+q_Rfoot_jienuosi2xifu
+	rotate: true
+	xy: 0, 50
+	size: 48, 30
+	orig: 48, 30
+	offset: 0, 0
+	index: -1
+i_coxa_jienuosi2xifu
+	rotate: true
+	xy: 31, 50
+	size: 47, 46
+	orig: 47, 46
+	offset: 0, 0
+	index: -1
+r_Rfoot_jienuosi2xifu
+	rotate: false
+	xy: 132, 221
+	size: 26, 34
+	orig: 26, 34
+	offset: 0, 0
+	index: -1
+c_Rfoot_jienuosi2xifu
+	rotate: false
+	xy: 78, 47
+	size: 29, 44
+	orig: 29, 44
+	offset: 0, 0
+	index: -1
+r_Rforearm_jienuosi2xifu
+	rotate: false
+	xy: 60, 192
+	size: 37, 43
+	orig: 37, 43
+	offset: 0, 0
+	index: -1
+s_Rfoot_jienuosi2xifu
+	rotate: true
+	xy: 114, 91
+	size: 43, 32
+	orig: 43, 32
+	offset: 0, 0
+	index: -1
+a1_Rforearm_jienuosi2xifu
+	rotate: true
+	xy: 145, 0
+	size: 41, 30
+	orig: 41, 30
+	offset: 0, 0
+	index: -1
+e_Rshin_jienuosi2xifu
+	rotate: false
+	xy: 142, 44
+	size: 28, 43
+	orig: 28, 43
+	offset: 0, 0
+	index: -1
+q_Lshin_jienuosi2xifu
+	rotate: true
+	xy: 67, 0
+	size: 46, 43
+	orig: 46, 43
+	offset: 0, 0
+	index: -1
+a1_Lforearm_jienuosi2xifu
+	rotate: false
+	xy: 100, 136
+	size: 32, 43
+	orig: 32, 43
+	offset: 0, 0
+	index: -1
+b_Lfoot_jienuosi2xifu
+	rotate: true
+	xy: 166, 175
+	size: 37, 30
+	orig: 37, 30
+	offset: 0, 0
+	index: -1
+h_Lfoot_jienuosi2xifu
+	rotate: false
+	xy: 108, 47
+	size: 33, 43
+	orig: 33, 43
+	offset: 0, 0
+	index: -1
+q_Lfoot_jienuosi2xifu
+	rotate: true
+	xy: 37, 0
+	size: 47, 29
+	orig: 47, 29
+	offset: 0, 0
+	index: -1
+j_Lforearm_jienuosi2xifu
+	rotate: false
+	xy: 159, 221
+	size: 26, 31
+	orig: 26, 31
+	offset: 0, 0
+	index: -1
+r_Lfoot_jienuosi2xifu
+	rotate: true
+	xy: 27, 193
+	size: 44, 32
+	orig: 44, 32
+	offset: 0, 0
+	index: -1
+a1_Lfoot_jienuosi2xifu
+	rotate: true
+	xy: 111, 0
+	size: 43, 33
+	orig: 43, 33
+	offset: 0, 0
+	index: -1
+g_Rfoot_jienuosi2xifu
+	rotate: true
+	xy: 47, 98
+	size: 44, 31
+	orig: 44, 31
+	offset: 0, 0
+	index: -1
+h_Rforearm_jienuosi2xifu
+	rotate: true
+	xy: 63, 143
+	size: 43, 36
+	orig: 43, 36
+	offset: 0, 0
+	index: -1
+r_Rshin_jienuosi2xifu
+	rotate: false
+	xy: 0, 99
+	size: 46, 47
+	orig: 46, 47
+	offset: 0, 0
+	index: -1
+d_coxa_jienuosi2xifu
+	rotate: true
+	xy: 133, 135
+	size: 39, 38
+	orig: 39, 38
+	offset: 0, 0
+	index: -1
+s_Rforearm_jienuosi2xifu
+	rotate: true
+	xy: 0, 193
+	size: 45, 26
+	orig: 45, 26
+	offset: 0, 0
+	index: -1
+f_Rthigh_jienuosi2xifu
+	rotate: false
+	xy: 79, 92
+	size: 34, 43
+	orig: 34, 43
+	offset: 0, 0
+	index: -1
+a_Lfoot_jienuosi2xifu
+	rotate: true
+	xy: 132, 180
+	size: 40, 33
+	orig: 40, 33
+	offset: 0, 0
+	index: -1
+d_Lshin_jienuosi2xifu
+	rotate: true
+	xy: 31, 147
+	size: 44, 31
+	orig: 44, 31
+	offset: 0, 0
+	index: -1
+
+asset/anim/jienuosi2_xifu0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+n_Rforearm_jienuosi2xifu
+	rotate: false
+	xy: 534, 471
+	size: 59, 106
+	orig: 59, 106
+	offset: 0, 0
+	index: -1
+g_Rarm_jienuosi2xifu
+	rotate: true
+	xy: 795, 616
+	size: 56, 42
+	orig: 56, 42
+	offset: 0, 0
+	index: -1
+t_zuoxiaobi_jienuosi2xifu
+	rotate: true
+	xy: 896, 620
+	size: 45, 56
+	orig: 45, 56
+	offset: 0, 0
+	index: -1
+c_Larm_jienuosi2xifu
+	rotate: false
+	xy: 838, 616
+	size: 57, 38
+	orig: 57, 38
+	offset: 0, 0
+	index: -1
+l_body_jienuosi2xifu
+	rotate: false
+	xy: 0, 477
+	size: 172, 209
+	orig: 172, 209
+	offset: 0, 0
+	index: -1
+q_Rarm_jienuosi2xifu
+	rotate: true
+	xy: 173, 613
+	size: 73, 37
+	orig: 73, 37
+	offset: 0, 0
+	index: -1
+a_coxa_jienuosi2xifu
+	rotate: true
+	xy: 965, 971
+	size: 49, 46
+	orig: 49, 46
+	offset: 0, 0
+	index: -1
+o_Rfoot_jienuosi2xifu
+	rotate: true
+	xy: 313, 399
+	size: 77, 79
+	orig: 77, 79
+	offset: 0, 0
+	index: -1
+a1_koudai_jienuosi2
+	rotate: true
+	xy: 184, 233
+	size: 8, 5
+	orig: 8, 5
+	offset: 0, 0
+	index: -1
+l_Rthigh_jienuosi2xifu
+	rotate: false
+	xy: 728, 107
+	size: 87, 96
+	orig: 87, 96
+	offset: 0, 0
+	index: -1
+j_body_jienuosi2xifu
+	rotate: false
+	xy: 352, 477
+	size: 109, 121
+	orig: 109, 121
+	offset: 0, 0
+	index: -1
+a1_Rarm_jienuosi2xifu
+	rotate: false
+	xy: 843, 0
+	size: 40, 78
+	orig: 40, 78
+	offset: 0, 0
+	index: -1
+q_Rthigh_jienuosi2xifu
+	rotate: true
+	xy: 872, 364
+	size: 54, 52
+	orig: 54, 52
+	offset: 0, 0
+	index: -1
+m_Lforearm_jienuosi2xifu
+	rotate: true
+	xy: 606, 577
+	size: 105, 55
+	orig: 105, 55
+	offset: 0, 0
+	index: -1
+a_Rshin_jienuosi2xifu
+	rotate: false
+	xy: 795, 562
+	size: 31, 53
+	orig: 31, 53
+	offset: 0, 0
+	index: -1
+e_Lshin_jienuosi2xifu
+	rotate: false
+	xy: 896, 710
+	size: 56, 27
+	orig: 56, 27
+	offset: 0, 0
+	index: -1
+i_Rthigh_jienuosi2xifu
+	rotate: true
+	xy: 483, 399
+	size: 72, 31
+	orig: 72, 31
+	offset: 0, 0
+	index: -1
+i_Larm_jienuosi2xifu
+	rotate: true
+	xy: 771, 294
+	size: 28, 59
+	orig: 28, 59
+	offset: 0, 0
+	index: -1
+m_body_jienuosi2xifu
+	rotate: false
+	xy: 0, 0
+	size: 165, 242
+	orig: 165, 242
+	offset: 0, 0
+	index: -1
+q_body1_jienuosi2xifu
+	rotate: false
+	xy: 398, 229
+	size: 96, 113
+	orig: 96, 113
+	offset: 0, 0
+	index: -1
+a1_Larm_jienuosi2xifu
+	rotate: true
+	xy: 912, 506
+	size: 30, 59
+	orig: 30, 59
+	offset: 0, 0
+	index: -1
+g_Rshin_jienuosi2xifu
+	rotate: false
+	xy: 987, 298
+	size: 37, 59
+	orig: 37, 59
+	offset: 0, 0
+	index: -1
+l_Lfoot_jienuosi2xifu
+	rotate: false
+	xy: 643, 335
+	size: 87, 63
+	orig: 87, 63
+	offset: 0, 0
+	index: -1
+u_Rshin_jienuosi2xifu
+	rotate: true
+	xy: 952, 766
+	size: 25, 53
+	orig: 25, 53
+	offset: 0, 0
+	index: -1
+q_Rforearm_jienuosi2xifu
+	rotate: false
+	xy: 780, 832
+	size: 32, 53
+	orig: 32, 53
+	offset: 0, 0
+	index: -1
+c_Rforearm_jienuosi2xifu
+	rotate: true
+	xy: 926, 912
+	size: 46, 38
+	orig: 46, 38
+	offset: 0, 0
+	index: -1
+d_body_jienuosi2xifu
+	rotate: false
+	xy: 462, 474
+	size: 71, 119
+	orig: 71, 119
+	offset: 0, 0
+	index: -1
+c_Rshin_jienuosi2xifu
+	rotate: false
+	xy: 915, 885
+	size: 49, 26
+	orig: 49, 26
+	offset: 0, 0
+	index: -1
+m_Rarm_jienuosi2xifu
+	rotate: true
+	xy: 631, 112
+	size: 106, 96
+	orig: 106, 96
+	offset: 0, 0
+	index: -1
+s_Lthigh_jienuosi2xifu
+	rotate: false
+	xy: 992, 68
+	size: 32, 64
+	orig: 32, 64
+	offset: 0, 0
+	index: -1
+m_Rshin_jienuosi2xifu
+	rotate: true
+	xy: 336, 0
+	size: 114, 96
+	orig: 114, 96
+	offset: 0, 0
+	index: -1
+l_Rarm_jienuosi2xifu
+	rotate: true
+	xy: 507, 924
+	size: 99, 108
+	orig: 99, 108
+	offset: 0, 0
+	index: -1
+b_body_jienuosi2xifu
+	rotate: false
+	xy: 433, 0
+	size: 96, 113
+	orig: 96, 113
+	offset: 0, 0
+	index: -1
+n_Rarm_jienuosi2xifu
+	rotate: true
+	xy: 234, 233
+	size: 144, 70
+	orig: 144, 70
+	offset: 0, 0
+	index: -1
+f_Lfoot_jienuosi2xifu
+	rotate: false
+	xy: 814, 722
+	size: 27, 49
+	orig: 27, 49
+	offset: 0, 0
+	index: -1
+u_Lshin_jienuosi2xifu
+	rotate: false
+	xy: 986, 417
+	size: 38, 59
+	orig: 38, 59
+	offset: 0, 0
+	index: -1
+o_Lfoot_jienuosi2xifu
+	rotate: true
+	xy: 777, 914
+	size: 89, 60
+	orig: 89, 60
+	offset: 0, 0
+	index: -1
+s_Lfoot_jienuosi2xifu
+	rotate: false
+	xy: 814, 772
+	size: 27, 41
+	orig: 27, 41
+	offset: 0, 0
+	index: -1
+k_Lshin_jienuosi2xifu
+	rotate: false
+	xy: 515, 399
+	size: 107, 71
+	orig: 107, 71
+	offset: 0, 0
+	index: -1
+q_coxa_jienuosi2xifu
+	rotate: false
+	xy: 795, 673
+	size: 46, 48
+	orig: 46, 48
+	offset: 0, 0
+	index: -1
+q_Rshin_jienuosi2xifu
+	rotate: true
+	xy: 925, 322
+	size: 40, 61
+	orig: 40, 61
+	offset: 0, 0
+	index: -1
+r_body_jienuosi2xifu
+	rotate: false
+	xy: 540, 114
+	size: 90, 111
+	orig: 90, 111
+	offset: 0, 0
+	index: -1
+l_Lforearm_jienuosi2xifu
+	rotate: true
+	xy: 555, 342
+	size: 56, 87
+	orig: 56, 87
+	offset: 0, 0
+	index: -1
+c_coxa_jienuosi2xifu
+	rotate: false
+	xy: 842, 711
+	size: 53, 44
+	orig: 53, 44
+	offset: 0, 0
+	index: -1
+m_Larm_jienuosi2xifu
+	rotate: true
+	xy: 453, 683
+	size: 117, 57
+	orig: 117, 57
+	offset: 0, 0
+	index: -1
+m_Lfoot_jienuosi2xifu
+	rotate: true
+	xy: 719, 796
+	size: 89, 60
+	orig: 89, 60
+	offset: 0, 0
+	index: -1
+e_Rthigh_jienuosi2xifu
+	rotate: true
+	xy: 953, 677
+	size: 43, 56
+	orig: 43, 56
+	offset: 0, 0
+	index: -1
+b_Rforearm_jienuosi2xifu
+	rotate: false
+	xy: 852, 419
+	size: 60, 30
+	orig: 60, 30
+	offset: 0, 0
+	index: -1
+j_Rarm_jienuosi2xifu
+	rotate: false
+	xy: 970, 580
+	size: 54, 51
+	orig: 54, 51
+	offset: 0, 0
+	index: -1
+o_Rthigh_jienuosi2xifu
+	rotate: false
+	xy: 281, 686
+	size: 85, 122
+	orig: 85, 122
+	offset: 0, 0
+	index: -1
+o_Larm_jienuosi2xifu
+	rotate: true
+	xy: 616, 914
+	size: 109, 81
+	orig: 109, 81
+	offset: 0, 0
+	index: -1
+l_Larm_jienuosi2xifu
+	rotate: true
+	xy: 411, 924
+	size: 100, 95
+	orig: 100, 95
+	offset: 0, 0
+	index: -1
+k_Lthigh_jienuosi2xifu
+	rotate: false
+	xy: 166, 829
+	size: 60, 136
+	orig: 60, 136
+	offset: 0, 0
+	index: -1
+a_body_jienuosi2xifu
+	rotate: false
+	xy: 511, 683
+	size: 91, 116
+	orig: 91, 116
+	offset: 0, 0
+	index: -1
+h_Larm_jienuosi2xifu
+	rotate: true
+	xy: 760, 722
+	size: 56, 53
+	orig: 56, 53
+	offset: 0, 0
+	index: -1
+l_coxa_jienuosi2xifu
+	rotate: true
+	xy: 662, 576
+	size: 104, 65
+	orig: 104, 65
+	offset: 0, 0
+	index: -1
+l_Rfoot_jienuosi2xifu
+	rotate: false
+	xy: 753, 394
+	size: 53, 69
+	orig: 53, 69
+	offset: 0, 0
+	index: -1
+s_Rthigh_jienuosi2xifu
+	rotate: true
+	xy: 925, 232
+	size: 32, 63
+	orig: 32, 63
+	offset: 0, 0
+	index: -1
+i_Rfoot_jienuosi2xifu
+	rotate: false
+	xy: 842, 797
+	size: 46, 34
+	orig: 46, 34
+	offset: 0, 0
+	index: -1
+a1_Lthigh_jienuosi2xifu
+	rotate: false
+	xy: 893, 248
+	size: 31, 60
+	orig: 31, 60
+	offset: 0, 0
+	index: -1
+u_Larm_jienuosi2xifu
+	rotate: false
+	xy: 439, 399
+	size: 43, 74
+	orig: 43, 74
+	offset: 0, 0
+	index: -1
+u_coxa_jienuosi2xifu
+	rotate: true
+	xy: 813, 832
+	size: 53, 32
+	orig: 53, 32
+	offset: 0, 0
+	index: -1
+l_Lthigh_jienuosi2xifu
+	rotate: true
+	xy: 88, 829
+	size: 136, 77
+	orig: 136, 77
+	offset: 0, 0
+	index: -1
+l_Lshin_jienuosi2xifu
+	rotate: true
+	xy: 443, 343
+	size: 55, 111
+	orig: 55, 111
+	offset: 0, 0
+	index: -1
+i_Rshin_jienuosi2xifu
+	rotate: true
+	xy: 925, 0
+	size: 33, 67
+	orig: 33, 67
+	offset: 0, 0
+	index: -1
+f_coxa_jienuosi2xifu
+	rotate: false
+	xy: 913, 452
+	size: 59, 53
+	orig: 59, 53
+	offset: 0, 0
+	index: -1
+a1_koudaidang1_jienuosi2
+	rotate: false
+	xy: 714, 775
+	size: 33, 20
+	orig: 33, 20
+	offset: 0, 0
+	index: -1
+k_Lfoot_jienuosi2xifu
+	rotate: false
+	xy: 438, 599
+	size: 53, 83
+	orig: 53, 83
+	offset: 0, 0
+	index: -1
+q_Larm_jienuosi2xifu
+	rotate: true
+	xy: 953, 721
+	size: 44, 55
+	orig: 44, 55
+	offset: 0, 0
+	index: -1
+k_Rforearm_jienuosi2xifu
+	rotate: false
+	xy: 594, 471
+	size: 60, 105
+	orig: 60, 105
+	offset: 0, 0
+	index: -1
+o_body1_jienuosi2xifu
+	rotate: false
+	xy: 166, 0
+	size: 169, 232
+	orig: 169, 232
+	offset: 0, 0
+	index: -1
+o_coxa_jienuosi2xifu
+	rotate: false
+	xy: 753, 0
+	size: 89, 94
+	orig: 89, 94
+	offset: 0, 0
+	index: -1
+o_Rforearm_jienuosi2xifu
+	rotate: true
+	xy: 87, 687
+	size: 141, 101
+	orig: 141, 101
+	offset: 0, 0
+	index: -1
+a1_koudaidang_jienuosi2
+	rotate: true
+	xy: 305, 357
+	size: 16, 11
+	orig: 16, 11
+	offset: 0, 0
+	index: -1
+i_Lfoot_jienuosi2xifu
+	rotate: true
+	xy: 982, 865
+	size: 31, 41
+	orig: 31, 41
+	offset: 0, 0
+	index: -1
+d_Larm_jienuosi2xifu
+	rotate: false
+	xy: 331, 357
+	size: 56, 41
+	orig: 56, 41
+	offset: 0, 0
+	index: -1
+k_body_jienuosi2xifu
+	rotate: true
+	xy: 0, 243
+	size: 233, 171
+	orig: 233, 171
+	offset: 0, 0
+	index: -1
+a1_Lshin_jienuosi2xifu
+	rotate: false
+	xy: 827, 460
+	size: 24, 52
+	orig: 24, 52
+	offset: 0, 0
+	index: -1
+j_Rforearm_jienuosi2xifu
+	rotate: false
+	xy: 68, 974
+	size: 43, 50
+	orig: 43, 50
+	offset: 0, 0
+	index: -1
+q_body4_jienuosi2xifu
+	rotate: true
+	xy: 112, 966
+	size: 58, 71
+	orig: 58, 71
+	offset: 0, 0
+	index: -1
+i_Lthigh_jienuosi2xifu
+	rotate: false
+	xy: 993, 0
+	size: 31, 67
+	orig: 31, 67
+	offset: 0, 0
+	index: -1
+a1_Rshin_jienuosi2xifu
+	rotate: true
+	xy: 838, 576
+	size: 39, 58
+	orig: 39, 58
+	offset: 0, 0
+	index: -1
+o_Lthigh_jienuosi2xifu
+	rotate: true
+	xy: 270, 477
+	size: 128, 81
+	orig: 128, 81
+	offset: 0, 0
+	index: -1
+c_body_jienuosi2xifu
+	rotate: false
+	xy: 587, 226
+	size: 93, 108
+	orig: 93, 108
+	offset: 0, 0
+	index: -1
+u_Rthigh_jienuosi2xifu
+	rotate: true
+	xy: 852, 450
+	size: 30, 60
+	orig: 30, 60
+	offset: 0, 0
+	index: -1
+n_Lforearm_jienuosi2xifu
+	rotate: false
+	xy: 771, 204
+	size: 52, 89
+	orig: 52, 89
+	offset: 0, 0
+	index: -1
+o_body2_jienuosi2xifu
+	rotate: false
+	xy: 410, 806
+	size: 109, 117
+	orig: 109, 117
+	offset: 0, 0
+	index: -1
+f_Rshin_jienuosi2xifu
+	rotate: true
+	xy: 925, 78
+	size: 34, 66
+	orig: 34, 66
+	offset: 0, 0
+	index: -1
+j_Larm_jienuosi2xifu
+	rotate: true
+	xy: 842, 655
+	size: 55, 53
+	orig: 55, 53
+	offset: 0, 0
+	index: -1
+m_Lthigh_jienuosi2xifu
+	rotate: true
+	xy: 227, 818
+	size: 123, 90
+	orig: 123, 90
+	offset: 0, 0
+	index: -1
+k_Larm_jienuosi2xifu
+	rotate: false
+	xy: 603, 683
+	size: 63, 115
+	orig: 63, 115
+	offset: 0, 0
+	index: -1
+s_body_jienuosi2xifu
+	rotate: false
+	xy: 189, 687
+	size: 91, 130
+	orig: 91, 130
+	offset: 0, 0
+	index: -1
+i_Lshin_jienuosi2xifu
+	rotate: true
+	xy: 895, 140
+	size: 55, 29
+	orig: 55, 29
+	offset: 0, 0
+	index: -1
+r_Lshin_jienuosi2xifu
+	rotate: true
+	xy: 864, 886
+	size: 26, 50
+	orig: 26, 50
+	offset: 0, 0
+	index: -1
+d_Lfoot_jienuosi2xifu
+	rotate: false
+	xy: 284, 378
+	size: 46, 20
+	orig: 46, 20
+	offset: 0, 0
+	index: -1
+i_body1_jienuosi2xifu
+	rotate: true
+	xy: 495, 228
+	size: 113, 91
+	orig: 113, 91
+	offset: 0, 0
+	index: -1
+r_Rarm_jienuosi2xifu
+	rotate: true
+	xy: 623, 399
+	size: 71, 43
+	orig: 71, 43
+	offset: 0, 0
+	index: -1
+m_Lshin_jienuosi2xifu
+	rotate: false
+	xy: 698, 914
+	size: 78, 109
+	orig: 78, 109
+	offset: 0, 0
+	index: -1
+a1_Rfoot_jienuosi2xifu
+	rotate: true
+	xy: 782, 886
+	size: 27, 40
+	orig: 27, 40
+	offset: 0, 0
+	index: -1
+h_coxa_jienuosi2xifu
+	rotate: false
+	xy: 973, 477
+	size: 51, 56
+	orig: 51, 56
+	offset: 0, 0
+	index: -1
+h_Rarm_jienuosi2xifu
+	rotate: false
+	xy: 731, 323
+	size: 43, 70
+	orig: 43, 70
+	offset: 0, 0
+	index: -1
+b_coxa_jienuosi2xifu
+	rotate: false
+	xy: 388, 357
+	size: 54, 41
+	orig: 54, 41
+	offset: 0, 0
+	index: -1
+h_Lthigh_jienuosi2xifu
+	rotate: false
+	xy: 271, 400
+	size: 41, 75
+	orig: 41, 75
+	offset: 0, 0
+	index: -1
+m_coxa_jienuosi2xifu
+	rotate: true
+	xy: 745, 470
+	size: 91, 81
+	orig: 91, 81
+	offset: 0, 0
+	index: -1
+r_coxa_jienuosi2xifu
+	rotate: true
+	xy: 838, 914
+	size: 52, 37
+	orig: 52, 37
+	offset: 0, 0
+	index: -1
+c_Lshin_jienuosi2xifu
+	rotate: false
+	xy: 896, 738
+	size: 55, 26
+	orig: 55, 26
+	offset: 0, 0
+	index: -1
+k_Lforearm_jienuosi2xifu
+	rotate: false
+	xy: 624, 0
+	size: 67, 111
+	orig: 67, 111
+	offset: 0, 0
+	index: -1
+o_Rshin_jienuosi2xifu
+	rotate: false
+	xy: 291, 942
+	size: 119, 81
+	orig: 119, 81
+	offset: 0, 0
+	index: -1
+i_Lforearm_jienuosi2xifu
+	rotate: true
+	xy: 831, 294
+	size: 28, 58
+	orig: 28, 58
+	offset: 0, 0
+	index: -1
+g_body1_jienuosi2xifu
+	rotate: false
+	xy: 318, 809
+	size: 91, 119
+	orig: 91, 119
+	offset: 0, 0
+	index: -1
+b_Lthigh_jienuosi2xifu
+	rotate: true
+	xy: 760, 669
+	size: 52, 34
+	orig: 52, 34
+	offset: 0, 0
+	index: -1
+a_Lforearm_jienuosi2xifu
+	rotate: true
+	xy: 877, 832
+	size: 52, 30
+	orig: 52, 30
+	offset: 0, 0
+	index: -1
+u_Lforearm_jienuosi2xifu
+	rotate: false
+	xy: 989, 244
+	size: 35, 53
+	orig: 35, 53
+	offset: 0, 0
+	index: -1
+e_coxa_jienuosi2xifu
+	rotate: true
+	xy: 876, 913
+	size: 51, 49
+	orig: 51, 49
+	offset: 0, 0
+	index: -1
+t_Larm_jienuosi2xifu
+	rotate: false
+	xy: 211, 613
+	size: 49, 72
+	orig: 49, 72
+	offset: 0, 0
+	index: -1
+o_Lforearm_jienuosi2xifu
+	rotate: false
+	xy: 172, 400
+	size: 98, 76
+	orig: 98, 76
+	offset: 0, 0
+	index: -1
+q_body2_jienuosi2xifu
+	rotate: false
+	xy: 530, 0
+	size: 93, 113
+	orig: 93, 113
+	offset: 0, 0
+	index: -1
+k_Rfoot_jienuosi2xifu
+	rotate: true
+	xy: 368, 599
+	size: 86, 69
+	orig: 86, 69
+	offset: 0, 0
+	index: -1
+u_body_jienuosi2xifu
+	rotate: false
+	xy: 173, 477
+	size: 96, 135
+	orig: 96, 135
+	offset: 0, 0
+	index: -1
+k_Rthigh_jienuosi2xifu
+	rotate: true
+	xy: 681, 219
+	size: 103, 89
+	orig: 103, 89
+	offset: 0, 0
+	index: -1
+b_Larm_jienuosi2xifu
+	rotate: false
+	xy: 852, 530
+	size: 58, 45
+	orig: 58, 45
+	offset: 0, 0
+	index: -1
+f_body_jienuosi2xifu
+	rotate: false
+	xy: 520, 800
+	size: 93, 115
+	orig: 93, 115
+	offset: 0, 0
+	index: -1
+k_coxa_jienuosi2xifu
+	rotate: false
+	xy: 667, 681
+	size: 92, 93
+	orig: 92, 93
+	offset: 0, 0
+	index: -1
+o_Lshin_jienuosi2xifu
+	rotate: false
+	xy: 655, 471
+	size: 89, 104
+	orig: 89, 104
+	offset: 0, 0
+	index: -1
+m_Rforearm_jienuosi2xifu
+	rotate: true
+	xy: 692, 0
+	size: 106, 60
+	orig: 106, 60
+	offset: 0, 0
+	index: -1
+q_body_jienuosi2xifu
+	rotate: false
+	xy: 444, 114
+	size: 95, 113
+	orig: 95, 113
+	offset: 0, 0
+	index: -1
+s_coxa_jienuosi2xifu
+	rotate: true
+	xy: 987, 358
+	size: 58, 37
+	orig: 58, 37
+	offset: 0, 0
+	index: -1
+c_Rarm_jienuosi2xifu
+	rotate: false
+	xy: 838, 967
+	size: 49, 51
+	orig: 49, 51
+	offset: 0, 0
+	index: -1
+f_Lforearm_jienuosi2xifu
+	rotate: false
+	xy: 842, 756
+	size: 53, 40
+	orig: 53, 40
+	offset: 0, 0
+	index: -1
+n_Larm_jienuosi2xifu
+	rotate: true
+	xy: 367, 686
+	size: 119, 85
+	orig: 119, 85
+	offset: 0, 0
+	index: -1
+h_Lforearm_jienuosi2xifu
+	rotate: false
+	xy: 888, 965
+	size: 37, 43
+	orig: 37, 43
+	offset: 0, 0
+	index: -1
+s_Rshin_jienuosi2xifu
+	rotate: true
+	xy: 227, 942
+	size: 23, 53
+	orig: 23, 53
+	offset: 0, 0
+	index: -1
+m_Rthigh_jienuosi2xifu
+	rotate: false
+	xy: 728, 576
+	size: 66, 92
+	orig: 66, 92
+	offset: 0, 0
+	index: -1
+u_Lthigh_jienuosi2xifu
+	rotate: false
+	xy: 829, 323
+	size: 42, 67
+	orig: 42, 67
+	offset: 0, 0
+	index: -1
+g_body2_jienuosi2xifu
+	rotate: false
+	xy: 972, 534
+	size: 52, 45
+	orig: 52, 45
+	offset: 0, 0
+	index: -1
+r_Lthigh_jienuosi2xifu
+	rotate: false
+	xy: 852, 481
+	size: 59, 48
+	orig: 59, 48
+	offset: 0, 0
+	index: -1
+g_Rthigh_jienuosi2xifu
+	rotate: false
+	xy: 925, 113
+	size: 65, 49
+	orig: 65, 49
+	offset: 0, 0
+	index: -1
+c_Lthigh_jienuosi2xifu
+	rotate: false
+	xy: 913, 421
+	size: 60, 30
+	orig: 60, 30
+	offset: 0, 0
+	index: -1
+f_Larm_jienuosi2xifu
+	rotate: true
+	xy: 897, 581
+	size: 38, 58
+	orig: 38, 58
+	offset: 0, 0
+	index: -1
+h_Rshin_jienuosi2xifu
+	rotate: false
+	xy: 334, 606
+	size: 33, 79
+	orig: 33, 79
+	offset: 0, 0
+	index: -1
+e_Lforearm_jienuosi2xifu
+	rotate: false
+	xy: 896, 765
+	size: 55, 26
+	orig: 55, 26
+	offset: 0, 0
+	index: -1
+r_Rthigh_jienuosi2xifu
+	rotate: false
+	xy: 239, 966
+	size: 51, 58
+	orig: 51, 58
+	offset: 0, 0
+	index: -1
+a1_koudai1_jienuosi2
+	rotate: false
+	xy: 166, 233
+	size: 17, 8
+	orig: 17, 8
+	offset: 0, 0
+	index: -1
+e_Larm_jienuosi2xifu
+	rotate: true
+	xy: 895, 79
+	size: 60, 29
+	orig: 60, 29
+	offset: 0, 0
+	index: -1
+g_Rforearm_jienuosi2xifu
+	rotate: false
+	xy: 911, 537
+	size: 58, 43
+	orig: 58, 43
+	offset: 0, 0
+	index: -1
+h_Rfoot_jienuosi2xifu
+	rotate: true
+	xy: 926, 959
+	size: 43, 38
+	orig: 43, 38
+	offset: 0, 0
+	index: -1
+k_Rarm_jienuosi2xifu
+	rotate: true
+	xy: 0, 831
+	size: 142, 87
+	orig: 142, 87
+	offset: 0, 0
+	index: -1
+i_body2_jienuosi2xifu
+	rotate: false
+	xy: 925, 265
+	size: 61, 56
+	orig: 61, 56
+	offset: 0, 0
+	index: -1
+m_Rfoot_jienuosi2xifu
+	rotate: false
+	xy: 701, 399
+	size: 51, 70
+	orig: 51, 70
+	offset: 0, 0
+	index: -1
+d_Lforearm_jienuosi2xifu
+	rotate: true
+	xy: 908, 832
+	size: 52, 28
+	orig: 52, 28
+	offset: 0, 0
+	index: -1
+c_Rthigh_jienuosi2xifu
+	rotate: true
+	xy: 0, 974
+	size: 50, 67
+	orig: 50, 67
+	offset: 0, 0
+	index: -1
+f_Lthigh_jienuosi2xifu
+	rotate: false
+	xy: 824, 228
+	size: 36, 65
+	orig: 36, 65
+	offset: 0, 0
+	index: -1
+a_Lshin_jienuosi2xifu
+	rotate: false
+	xy: 896, 792
+	size: 44, 39
+	orig: 44, 39
+	offset: 0, 0
+	index: -1
+a_Lthigh_jienuosi2xifu
+	rotate: false
+	xy: 925, 200
+	size: 64, 31
+	orig: 64, 31
+	offset: 0, 0
+	index: -1
+e_Lfoot_jienuosi2xifu
+	rotate: false
+	xy: 234, 378
+	size: 49, 21
+	orig: 49, 21
+	offset: 0, 0
+	index: -1
+c_Lfoot_jienuosi2xifu
+	rotate: false
+	xy: 667, 775
+	size: 46, 22
+	orig: 46, 22
+	offset: 0, 0
+	index: -1
+a_Rforearm_jienuosi2xifu
+	rotate: false
+	xy: 896, 666
+	size: 56, 43
+	orig: 56, 43
+	offset: 0, 0
+	index: -1
+a_Rthigh_jienuosi2xifu
+	rotate: false
+	xy: 184, 966
+	size: 54, 58
+	orig: 54, 58
+	offset: 0, 0
+	index: -1
+e_Rfoot_jienuosi2xifu
+	rotate: true
+	xy: 965, 941
+	size: 29, 50
+	orig: 29, 50
+	offset: 0, 0
+	index: -1
+s_Larm_jienuosi2xifu
+	rotate: false
+	xy: 884, 0
+	size: 40, 78
+	orig: 40, 78
+	offset: 0, 0
+	index: -1
+l_Rforearm_jienuosi2xifu
+	rotate: true
+	xy: 816, 95
+	size: 87, 78
+	orig: 87, 78
+	offset: 0, 0
+	index: -1
+c_Lforearm_jienuosi2xifu
+	rotate: true
+	xy: 895, 196
+	size: 51, 29
+	orig: 51, 29
+	offset: 0, 0
+	index: -1
+b_Lshin_jienuosi2xifu
+	rotate: true
+	xy: 846, 832
+	size: 53, 30
+	orig: 53, 30
+	offset: 0, 0
+	index: -1
+k_Rshin_jienuosi2xifu
+	rotate: false
+	xy: 172, 242
+	size: 61, 157
+	orig: 61, 157
+	offset: 0, 0
+	index: -1
+a_Rfoot_jienuosi2xifu
+	rotate: true
+	xy: 983, 792
+	size: 38, 41
+	orig: 38, 41
+	offset: 0, 0
+	index: -1
+a1_body_jienuosi2xifu
+	rotate: false
+	xy: 305, 233
+	size: 92, 123
+	orig: 92, 123
+	offset: 0, 0
+	index: -1
+e_Lthigh_jienuosi2xifu
+	rotate: true
+	xy: 261, 613
+	size: 72, 31
+	orig: 72, 31
+	offset: 0, 0
+	index: -1
+f_Rarm_jienuosi2xifu
+	rotate: false
+	xy: 953, 632
+	size: 56, 44
+	orig: 56, 44
+	offset: 0, 0
+	index: -1
+g_Lforearm_jienuosi2xifu
+	rotate: true
+	xy: 991, 133
+	size: 54, 33
+	orig: 54, 33
+	offset: 0, 0
+	index: -1
+b_Rarm_jienuosi2xifu
+	rotate: false
+	xy: 925, 34
+	size: 66, 43
+	orig: 66, 43
+	offset: 0, 0
+	index: -1
+e_Rforearm_jienuosi2xifu
+	rotate: false
+	xy: 941, 792
+	size: 41, 39
+	orig: 41, 39
+	offset: 0, 0
+	index: -1
+s_Lshin_jienuosi2xifu
+	rotate: true
+	xy: 719, 886
+	size: 27, 62
+	orig: 27, 62
+	offset: 0, 0
+	index: -1
+s_Rarm_jienuosi2xifu
+	rotate: false
+	xy: 293, 606
+	size: 40, 79
+	orig: 40, 79
+	offset: 0, 0
+	index: -1
+h_body_jienuosi2xifu
+	rotate: false
+	xy: 336, 115
+	size: 107, 113
+	orig: 107, 113
+	offset: 0, 0
+	index: -1
+g_coxa_jienuosi2xifu
+	rotate: false
+	xy: 965, 897
+	size: 50, 43
+	orig: 50, 43
+	offset: 0, 0
+	index: -1
+f_Lshin_jienuosi2xifu
+	rotate: false
+	xy: 937, 832
+	size: 44, 51
+	orig: 44, 51
+	offset: 0, 0
+	index: -1
+q_Lforearm_jienuosi2xifu
+	rotate: true
+	xy: 890, 309
+	size: 54, 34
+	orig: 54, 34
+	offset: 0, 0
+	index: -1
+q_Lthigh_jienuosi2xifu
+	rotate: true
+	xy: 831, 183
+	size: 44, 63
+	orig: 44, 63
+	offset: 0, 0
+	index: -1
+u_Lfoot_jienuosi2xifu
+	rotate: true
+	xy: 823, 886
+	size: 27, 40
+	orig: 27, 40
+	offset: 0, 0
+	index: -1
+u_Rarm_jienuosi2xifu
+	rotate: true
+	xy: 925, 163
+	size: 36, 64
+	orig: 36, 64
+	offset: 0, 0
+	index: -1
+l_Rshin_jienuosi2xifu
+	rotate: true
+	xy: 492, 594
+	size: 88, 113
+	orig: 88, 113
+	offset: 0, 0
+	index: -1
+a_Rarm_jienuosi2xifu
+	rotate: false
+	xy: 925, 363
+	size: 60, 57
+	orig: 60, 57
+	offset: 0, 0
+	index: -1
+e_Rarm_jienuosi2xifu
+	rotate: false
+	xy: 667, 399
+	size: 33, 71
+	orig: 33, 71
+	offset: 0, 0
+	index: -1
+h_Rthigh_jienuosi2xifu
+	rotate: false
+	xy: 393, 399
+	size: 45, 74
+	orig: 45, 74
+	offset: 0, 0
+	index: -1
+s_Lforearm_jienuosi2xifu
+	rotate: true
+	xy: 983, 831
+	size: 33, 41
+	orig: 33, 41
+	offset: 0, 0
+	index: -1
+h_Lshin_jienuosi2xifu
+	rotate: true
+	xy: 861, 228
+	size: 65, 31
+	orig: 65, 31
+	offset: 0, 0
+	index: -1
+o_Rarm_jienuosi2xifu
+	rotate: true
+	xy: 0, 687
+	size: 143, 86
+	orig: 143, 86
+	offset: 0, 0
+	index: -1
+f_Rforearm_jienuosi2xifu
+	rotate: true
+	xy: 990, 188
+	size: 55, 34
+	orig: 55, 34
+	offset: 0, 0
+	index: -1
+f_Rfoot_jienuosi2xifu
+	rotate: false
+	xy: 827, 513
+	size: 24, 49
+	orig: 24, 49
+	offset: 0, 0
+	index: -1
+e_body_jienuosi2xifu
+	rotate: false
+	xy: 614, 799
+	size: 104, 114
+	orig: 104, 114
+	offset: 0, 0
+	index: -1
+a1_Rthigh_jienuosi2xifu
+	rotate: false
+	xy: 807, 392
+	size: 44, 67
+	orig: 44, 67
+	offset: 0, 0
+	index: -1
+a1_coxa_jienuosi2xifu
+	rotate: true
+	xy: 780, 779
+	size: 52, 33
+	orig: 52, 33
+	offset: 0, 0
+	index: -1
+i_Rarm_jienuosi2xifu
+	rotate: true
+	xy: 775, 323
+	size: 68, 53
+	orig: 68, 53
+	offset: 0, 0
+	index: -1
+
+asset/anim/jienuosi21.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+o_pian5_jienuosi2
+	rotate: false
+	xy: 81, 194
+	size: 24, 92
+	orig: 24, 92
+	offset: 0, 0
+	index: -1
+q_youshou_jienuosi2
+	rotate: false
+	xy: 609, 60
+	size: 37, 37
+	orig: 37, 37
+	offset: 0, 0
+	index: -1
+i_youshou_jienuosi2
+	rotate: true
+	xy: 403, 245
+	size: 41, 46
+	orig: 41, 46
+	offset: 0, 0
+	index: -1
+a1_cheek_jienuosi2
+	rotate: true
+	xy: 380, 910
+	size: 56, 30
+	orig: 56, 30
+	offset: 0, 0
+	index: -1
+g_youshou_jienuosi2
+	rotate: true
+	xy: 549, 550
+	size: 38, 32
+	orig: 38, 32
+	offset: 0, 0
+	index: -1
+r_zuoshou_jienuosi2
+	rotate: true
+	xy: 487, 612
+	size: 44, 41
+	orig: 44, 41
+	offset: 0, 0
+	index: -1
+k_Lhand_jienuosi2
+	rotate: false
+	xy: 256, 731
+	size: 60, 62
+	orig: 60, 62
+	offset: 0, 0
+	index: -1
+o_qiang2_jienuosi2
+	rotate: true
+	xy: 83, 573
+	size: 80, 69
+	orig: 80, 69
+	offset: 0, 0
+	index: -1
+a1_youmeimao_jienuosi2
+	rotate: false
+	xy: 93, 553
+	size: 22, 14
+	orig: 22, 14
+	offset: 0, 0
+	index: -1
+a_zuoshou_jienuosi2
+	rotate: false
+	xy: 192, 267
+	size: 48, 19
+	orig: 48, 19
+	offset: 0, 0
+	index: -1
+e_tou_jienuosi2
+	rotate: false
+	xy: 61, 289
+	size: 87, 92
+	orig: 87, 92
+	offset: 0, 0
+	index: -1
+l_tou1_jienuosi2
+	rotate: false
+	xy: 59, 384
+	size: 90, 92
+	orig: 90, 92
+	offset: 0, 0
+	index: -1
+u_zuoshou_jienuosi2
+	rotate: false
+	xy: 222, 690
+	size: 52, 40
+	orig: 82, 70
+	offset: 17, 14
+	index: -1
+t_zuoshou_jienuosi2
+	rotate: false
+	xy: 516, 657
+	size: 38, 44
+	orig: 38, 44
+	offset: 0, 0
+	index: -1
+j_youshou_jienuosi2
+	rotate: false
+	xy: 538, 509
+	size: 40, 40
+	orig: 40, 40
+	offset: 0, 0
+	index: -1
+a1_lian_jienuosi2
+	rotate: true
+	xy: 589, 222
+	size: 39, 29
+	orig: 39, 29
+	offset: 0, 0
+	index: -1
+o_qiang5_jienuosi2
+	rotate: true
+	xy: 242, 180
+	size: 69, 59
+	orig: 69, 59
+	offset: 0, 0
+	index: -1
+b_tou_jienuosi2
+	rotate: false
+	xy: 0, 573
+	size: 82, 85
+	orig: 82, 85
+	offset: 0, 0
+	index: -1
+h_youshou_jienuosi2
+	rotate: true
+	xy: 534, 427
+	size: 37, 38
+	orig: 37, 38
+	offset: 0, 0
+	index: -1
+n_youshou_jienuosi2
+	rotate: false
+	xy: 0, 914
+	size: 61, 83
+	orig: 61, 83
+	offset: 0, 0
+	index: -1
+g_zuoshou_jienuosi2
+	rotate: false
+	xy: 591, 313
+	size: 31, 35
+	orig: 31, 35
+	offset: 0, 0
+	index: -1
+b_youshou_jienuosi2
+	rotate: true
+	xy: 291, 250
+	size: 36, 48
+	orig: 36, 48
+	offset: 0, 0
+	index: -1
+c_zuoshou_jienuosi2
+	rotate: true
+	xy: 376, 531
+	size: 52, 45
+	orig: 52, 45
+	offset: 0, 0
+	index: -1
+j_zuoshou_jienuosi2
+	rotate: false
+	xy: 591, 349
+	size: 35, 25
+	orig: 35, 25
+	offset: 0, 0
+	index: -1
+c_youshou_jienuosi2
+	rotate: false
+	xy: 242, 250
+	size: 48, 36
+	orig: 48, 36
+	offset: 0, 0
+	index: -1
+o_xiaobi_jienuosi2
+	rotate: true
+	xy: 0, 98
+	size: 95, 93
+	orig: 95, 93
+	offset: 0, 0
+	index: -1
+u_youshou_jienuosi2
+	rotate: true
+	xy: 382, 155
+	size: 24, 38
+	orig: 24, 38
+	offset: 0, 0
+	index: -1
+a1_Rhand_jienuosi2
+	rotate: false
+	xy: 584, 180
+	size: 35, 41
+	orig: 35, 41
+	offset: 0, 0
+	index: -1
+t_zuoshou1_jienuosi2
+	rotate: true
+	xy: 475, 779
+	size: 42, 44
+	orig: 42, 44
+	offset: 0, 0
+	index: -1
+h_zuoshou_jienuosi2
+	rotate: true
+	xy: 585, 122
+	size: 41, 34
+	orig: 41, 34
+	offset: 0, 0
+	index: -1
+d_bozi_jienuosi2
+	rotate: false
+	xy: 593, 459
+	size: 30, 38
+	orig: 30, 38
+	offset: 0, 0
+	index: -1
+o_pao1_jienuosi2
+	rotate: false
+	xy: 149, 287
+	size: 74, 86
+	orig: 74, 86
+	offset: 0, 0
+	index: -1
+o_qiang3_jienuosi2
+	rotate: true
+	xy: 310, 794
+	size: 58, 52
+	orig: 58, 52
+	offset: 0, 0
+	index: -1
+e_youshou_jienuosi2
+	rotate: true
+	xy: 483, 339
+	size: 50, 30
+	orig: 50, 30
+	offset: 0, 0
+	index: -1
+d_tou_jienuosi2
+	rotate: false
+	xy: 182, 90
+	size: 84, 89
+	orig: 84, 89
+	offset: 0, 0
+	index: -1
+a1_hair4_jienuosi2
+	rotate: true
+	xy: 329, 156
+	size: 23, 52
+	orig: 23, 52
+	offset: 0, 0
+	index: -1
+s_zuoshou_jienuosi2
+	rotate: true
+	xy: 556, 465
+	size: 40, 36
+	orig: 40, 36
+	offset: 0, 0
+	index: -1
+o_qiang4_jienuosi2
+	rotate: true
+	xy: 588, 0
+	size: 59, 56
+	orig: 59, 56
+	offset: 0, 0
+	index: -1
+q_zuoshou_jienuosi2
+	rotate: false
+	xy: 529, 596
+	size: 35, 38
+	orig: 35, 38
+	offset: 0, 0
+	index: -1
+a_youshou_jienuosi2
+	rotate: true
+	xy: 422, 635
+	size: 49, 28
+	orig: 49, 28
+	offset: 0, 0
+	index: -1
+n_Lhand_jienuosi2
+	rotate: false
+	xy: 93, 0
+	size: 81, 94
+	orig: 81, 94
+	offset: 0, 0
+	index: -1
+e_zuoshou_jienuosi2
+	rotate: true
+	xy: 478, 565
+	size: 46, 42
+	orig: 46, 42
+	offset: 0, 0
+	index: -1
+s_youshou_jienuosi2
+	rotate: true
+	xy: 489, 390
+	size: 44, 37
+	orig: 44, 37
+	offset: 0, 0
+	index: -1
+d_zuoshou_jienuosi2
+	rotate: false
+	xy: 470, 130
+	size: 54, 49
+	orig: 54, 49
+	offset: 0, 0
+	index: -1
+a1_youyanjing_jienuosi2
+	rotate: false
+	xy: 430, 799
+	size: 44, 22
+	orig: 44, 22
+	offset: 0, 0
+	index: -1
+o_pao2_jienuosi2
+	rotate: false
+	xy: 319, 88
+	size: 49, 67
+	orig: 49, 67
+	offset: 0, 0
+	index: -1
+o_qiang1_jienuosi2
+	rotate: true
+	xy: 81, 659
+	size: 81, 72
+	orig: 81, 72
+	offset: 0, 0
+	index: -1
+a1_Lhand_jienuosi2
+	rotate: false
+	xy: 596, 375
+	size: 29, 32
+	orig: 29, 32
+	offset: 0, 0
+	index: -1
+o_pian4_jienuosi2
+	rotate: false
+	xy: 0, 0
+	size: 32, 97
+	orig: 32, 97
+	offset: 0, 0
+	index: -1
+a1_hair3_jienuosi2
+	rotate: true
+	xy: 256, 998
+	size: 25, 46
+	orig: 25, 46
+	offset: 0, 0
+	index: -1
+f_youshou_jienuosi2
+	rotate: false
+	xy: 104, 984
+	size: 56, 40
+	orig: 56, 40
+	offset: 0, 0
+	index: -1
+k_Rhand_jienuosi2
+	rotate: false
+	xy: 43, 744
+	size: 72, 81
+	orig: 72, 81
+	offset: 0, 0
+	index: -1
+l_lshou_jienuosi2
+	rotate: false
+	xy: 94, 95
+	size: 87, 89
+	orig: 87, 89
+	offset: 0, 0
+	index: -1
+r_youshou_jienuosi2
+	rotate: false
+	xy: 511, 241
+	size: 46, 45
+	orig: 46, 45
+	offset: 0, 0
+	index: -1
+a1_tou_jienuosi2
+	rotate: false
+	xy: 263, 477
+	size: 61, 65
+	orig: 61, 65
+	offset: 0, 0
+	index: -1
+a1_hair2_jienuosi2
+	rotate: false
+	xy: 450, 243
+	size: 60, 43
+	orig: 60, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/jienuosi20.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_tou_jienuosi2
+	rotate: true
+	xy: 925, 480
+	size: 87, 99
+	orig: 87, 99
+	offset: 0, 0
+	index: -1
+k_tou_jienuosi2
+	rotate: false
+	xy: 178, 150
+	size: 176, 180
+	orig: 176, 180
+	offset: 0, 0
+	index: -1
+o_cheek_jienuosi2
+	rotate: false
+	xy: 969, 247
+	size: 55, 56
+	orig: 55, 56
+	offset: 0, 0
+	index: -1
+o_pian3_jienuosi2
+	rotate: false
+	xy: 441, 928
+	size: 69, 95
+	orig: 69, 95
+	offset: 0, 0
+	index: -1
+a1_zuomeimao_jienuosi2
+	rotate: true
+	xy: 255, 816
+	size: 16, 10
+	orig: 16, 10
+	offset: 0, 0
+	index: -1
+q_tou2_jienuosi2
+	rotate: true
+	xy: 355, 303
+	size: 90, 100
+	orig: 90, 100
+	offset: 0, 0
+	index: -1
+q_tou_jienuosi2
+	rotate: true
+	xy: 511, 933
+	size: 91, 100
+	orig: 91, 100
+	offset: 0, 0
+	index: -1
+r_tou_jienuosi2
+	rotate: false
+	xy: 857, 692
+	size: 89, 97
+	orig: 89, 97
+	offset: 0, 0
+	index: -1
+m_Lhand_jienuosi2
+	rotate: false
+	xy: 784, 945
+	size: 94, 79
+	orig: 94, 79
+	offset: 0, 0
+	index: -1
+m_tou_jienuosi2
+	rotate: true
+	xy: 694, 0
+	size: 181, 184
+	orig: 181, 184
+	offset: 0, 0
+	index: -1
+a1_hair1_jienuosi2
+	rotate: false
+	xy: 859, 886
+	size: 87, 58
+	orig: 87, 58
+	offset: 0, 0
+	index: -1
+o_pian1_jienuosi2
+	rotate: true
+	xy: 710, 590
+	size: 97, 45
+	orig: 97, 45
+	offset: 0, 0
+	index: -1
+f_zuoshou_jienuosi2
+	rotate: true
+	xy: 910, 640
+	size: 49, 36
+	orig: 49, 36
+	offset: 0, 0
+	index: -1
+guangqiu_jienuosi2
+	rotate: false
+	xy: 462, 170
+	size: 128, 128
+	orig: 128, 128
+	offset: 0, 0
+	index: -1
+o_tou_jienuosi2
+	rotate: false
+	xy: 0, 597
+	size: 176, 196
+	orig: 176, 196
+	offset: 0, 0
+	index: -1
+l_tou_jienuosi2
+	rotate: false
+	xy: 0, 794
+	size: 174, 190
+	orig: 174, 190
+	offset: 0, 0
+	index: -1
+i_zuoshou_jienuosi2
+	rotate: true
+	xy: 649, 467
+	size: 26, 34
+	orig: 26, 34
+	offset: 0, 0
+	index: -1
+l_rshou_jienuosi2
+	rotate: true
+	xy: 947, 568
+	size: 94, 77
+	orig: 94, 77
+	offset: 0, 0
+	index: -1
+m_zuoshou_jienuosi2
+	rotate: true
+	xy: 879, 945
+	size: 75, 81
+	orig: 75, 81
+	offset: 0, 0
+	index: -1
+o_pian2_jienuosi2
+	rotate: false
+	xy: 810, 793
+	size: 48, 98
+	orig: 48, 98
+	offset: 0, 0
+	index: -1
+gd_jienuosi2
+	rotate: false
+	xy: 355, 149
+	size: 106, 153
+	orig: 106, 155
+	offset: 0, 0
+	index: -1
+i_tou_jienuosi2
+	rotate: false
+	xy: 720, 814
+	size: 89, 97
+	orig: 89, 97
+	offset: 0, 0
+	index: -1
+u_tou_jienuosi2
+	rotate: false
+	xy: 859, 790
+	size: 87, 95
+	orig: 87, 95
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

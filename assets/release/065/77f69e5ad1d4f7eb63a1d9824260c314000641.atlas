@@ -1,0 +1,85 @@
+
+asset/anim/shanguangfulaishi2SEMAX2.png
+size: 987,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shanguangfulaishi2_c_suduxian_003
+	rotate: true
+	xy: 568, 280
+	size: 219, 113
+	orig: 259, 115
+	offset: 40, 2
+	index: -1
+
+asset/anim/shanguangfulaishi2SEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shanguangfulaishi2_c_suduxian_006
+	rotate: true
+	xy: 670, 646
+	size: 75, 61
+	orig: 259, 115
+	offset: 173, 22
+	index: -1
+
+asset/anim/shanguangfulaishi2SEMAX1.png
+size: 1024,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shanguangfulaishi2_c_suduxian_004
+	rotate: false
+	xy: 835, 0
+	size: 181, 101
+	orig: 259, 115
+	offset: 78, 8
+	index: -1
+
+asset/anim/shanguangfulaishi2SEMAX6.png
+size: 1022,960
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shanguangfulaishi2_c_suduxian_000
+	rotate: false
+	xy: 753, 830
+	size: 131, 111
+	orig: 259, 115
+	offset: 1, 4
+	index: -1
+max/shanguangfulaishi2_c_suduxian_001
+	rotate: false
+	xy: 831, 0
+	size: 191, 115
+	orig: 259, 115
+	offset: 4, 0
+	index: -1
+
+asset/anim/shanguangfulaishi2SEMAX7.png
+size: 256,591
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shanguangfulaishi2_c_suduxian_002
+	rotate: false
+	xy: 0, 476
+	size: 249, 115
+	orig: 259, 115
+	offset: 10, 0
+	index: -1
+
+asset/anim/shanguangfulaishi2SEMAX5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shanguangfulaishi2_c_suduxian_005
+	rotate: false
+	xy: 885, 226
+	size: 135, 89
+	orig: 259, 115
+	offset: 121, 14
+	index: -1

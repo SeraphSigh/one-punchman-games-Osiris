@@ -1,0 +1,234 @@
+
+asset/anim/zhushijuehaibao21.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_Ryanqiu_qiyuhaibao2
+	rotate: false
+	xy: 514, 1013
+	size: 8, 8
+	orig: 8, 8
+	offset: 0, 0
+	index: -1
+b_Lyanqiu_qiyuhaibao2
+	rotate: true
+	xy: 523, 1013
+	size: 8, 7
+	orig: 8, 7
+	offset: 0, 0
+	index: -1
+b_Lleg2_qiyuhaibao2
+	rotate: false
+	xy: 178, 716
+	size: 195, 301
+	orig: 195, 301
+	offset: 0, 0
+	index: -1
+b_Rmei_qiyuhaibao2
+	rotate: false
+	xy: 531, 1013
+	size: 36, 7
+	orig: 36, 7
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushijuehaibao20.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_Reye_qiyuhaibao2
+	rotate: true
+	xy: 1009, 167
+	size: 26, 10
+	orig: 26, 10
+	offset: 0, 0
+	index: -1
+b_Lyanpiup_qiyuhaibao2
+	rotate: false
+	xy: 398, 1011
+	size: 30, 12
+	orig: 30, 12
+	offset: 0, 0
+	index: -1
+b_Ryanpidown_qiyuhaibao2
+	rotate: false
+	xy: 366, 1011
+	size: 31, 12
+	orig: 31, 12
+	offset: 0, 0
+	index: -1
+b_body_qiyuhaibao2
+	rotate: true
+	xy: 667, 182
+	size: 189, 340
+	orig: 189, 340
+	offset: 0, 0
+	index: -1
+b_Ryanpiup_qiyuhaibao2
+	rotate: true
+	xy: 1009, 106
+	size: 32, 10
+	orig: 32, 10
+	offset: 0, 0
+	index: -1
+b_pifeng_qiyuhaibao2
+	rotate: false
+	xy: 0, 0
+	size: 666, 748
+	orig: 666, 748
+	offset: 0, 0
+	index: -1
+b_Lmei_qiyuhaibao2
+	rotate: false
+	xy: 177, 1011
+	size: 35, 13
+	orig: 35, 13
+	offset: 0, 0
+	index: -1
+b_Leye_qiyuhaibao2
+	rotate: false
+	xy: 489, 1010
+	size: 27, 11
+	orig: 27, 11
+	offset: 0, 0
+	index: -1
+b_Lyanpidown_qiyuhaibao2
+	rotate: true
+	xy: 1008, 194
+	size: 32, 16
+	orig: 32, 16
+	offset: 0, 0
+	index: -1
+b_Rbiyan_qiyuhaibao2
+	rotate: false
+	xy: 974, 1011
+	size: 33, 10
+	orig: 33, 10
+	offset: 0, 0
+	index: -1
+b_Rfoot_qiyuhaibao2
+	rotate: false
+	xy: 891, 912
+	size: 133, 98
+	orig: 133, 98
+	offset: 0, 0
+	index: -1
+b_Lbiyan_qiyuhaibao2
+	rotate: false
+	xy: 248, 1011
+	size: 31, 13
+	orig: 31, 13
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushijuehaibao23.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_Lfoot_qiyuhaibao2
+	rotate: true
+	xy: 908, 565
+	size: 105, 116
+	orig: 105, 116
+	offset: 0, 0
+	index: -1
+b_Rjian_qiyuhaibao2
+	rotate: true
+	xy: 0, 964
+	size: 59, 90
+	orig: 59, 90
+	offset: 0, 0
+	index: -1
+b_Rarm1_qiyuhaibao2
+	rotate: true
+	xy: 575, 963
+	size: 61, 157
+	orig: 61, 157
+	offset: 0, 0
+	index: -1
+b_Lhand_qiyuhaibao2
+	rotate: false
+	xy: 640, 674
+	size: 73, 84
+	orig: 73, 84
+	offset: 0, 0
+	index: -1
+b_Rleg2_qiyuhaibao2
+	rotate: false
+	xy: 227, 345
+	size: 120, 286
+	orig: 120, 286
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushijuehaibao24.png
+size: 1023,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_head_qiyuhaibao2
+	rotate: true
+	xy: 799, 621
+	size: 98, 128
+	orig: 98, 128
+	offset: 0, 0
+	index: -1
+b_Rarm2_qiyuhaibao2
+	rotate: false
+	xy: 771, 171
+	size: 78, 164
+	orig: 78, 164
+	offset: 0, 0
+	index: -1
+b_Larm1_qiyuhaibao2
+	rotate: false
+	xy: 799, 463
+	size: 128, 157
+	orig: 128, 157
+	offset: 0, 0
+	index: -1
+b_Lleg1_qiyuhaibao2
+	rotate: false
+	xy: 105, 590
+	size: 203, 242
+	orig: 203, 242
+	offset: 0, 0
+	index: -1
+b_Rleg1_qiyuhaibao2
+	rotate: false
+	xy: 137, 240
+	size: 124, 234
+	orig: 124, 234
+	offset: 0, 0
+	index: -1
+b_Larm2_qiyuhaibao2
+	rotate: true
+	xy: 850, 164
+	size: 152, 80
+	orig: 152, 80
+	offset: 0, 0
+	index: -1
+b_Rhand_qiyuhaibao2
+	rotate: true
+	xy: 931, 285
+	size: 73, 81
+	orig: 73, 81
+	offset: 0, 0
+	index: -1
+b_kua_qiyuhaibao2
+	rotate: true
+	xy: 0, 835
+	size: 185, 146
+	orig: 185, 146
+	offset: 0, 0
+	index: -1
+b_Ljian_qiyuhaibao2
+	rotate: true
+	xy: 721, 575
+	size: 120, 77
+	orig: 120, 77
+	offset: 0, 0
+	index: -1

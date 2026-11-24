@@ -1,0 +1,55 @@
+
+asset/anim/zhengguzhuanpantx0.png
+size: 471,634
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhuanpancailian1
+	rotate: false
+	xy: 0, 323
+	size: 392, 240
+	orig: 392, 240
+	offset: 0, 0
+	index: -1
+zhuanpancailian2
+	rotate: true
+	xy: 0, 0
+	size: 322, 328
+	orig: 322, 328
+	offset: 0, 0
+	index: -1
+zhuanpanqiqiu2
+	rotate: false
+	xy: 393, 446
+	size: 78, 186
+	orig: 78, 186
+	offset: 0, 0
+	index: -1
+zhuanpanqiqiu3
+	rotate: false
+	xy: 329, 0
+	size: 88, 226
+	orig: 88, 226
+	offset: 0, 0
+	index: -1
+zhuanpanqiqiu1
+	rotate: true
+	xy: 0, 564
+	size: 70, 194
+	orig: 70, 194
+	offset: 0, 0
+	index: -1
+zhuanpanqiqiu4
+	rotate: true
+	xy: 195, 564
+	size: 62, 196
+	orig: 62, 196
+	offset: 0, 0
+	index: -1
+zhuanpanqiqiu5
+	rotate: false
+	xy: 393, 227
+	size: 78, 218
+	orig: 78, 218
+	offset: 0, 0
+	index: -1

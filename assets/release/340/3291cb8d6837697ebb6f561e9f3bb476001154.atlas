@@ -1,0 +1,248 @@
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+global/a_global_longjuan_shandian_011
+	rotate: true
+	xy: 820, 684
+	size: 75, 70
+	orig: 255, 212
+	offset: 0, 113
+	index: -1
+global/a_global_longjuan_shandian_009
+	rotate: false
+	xy: 308, 631
+	size: 87, 132
+	orig: 255, 212
+	offset: 1, 49
+	index: -1
+global/a_global_longjuan_shandian_008
+	rotate: true
+	xy: 813, 831
+	size: 31, 66
+	orig: 255, 212
+	offset: 198, 86
+	index: -1
+global/a_global_longjuan_shandian_007
+	rotate: true
+	xy: 705, 230
+	size: 55, 84
+	orig: 255, 212
+	offset: 189, 80
+	index: -1
+global/a_global_longjuan_shandian_006
+	rotate: false
+	xy: 0, 0
+	size: 237, 154
+	orig: 255, 212
+	offset: 7, 19
+	index: -1
+global/a_global_longjuan_shandian_005
+	rotate: false
+	xy: 170, 484
+	size: 125, 146
+	orig: 255, 212
+	offset: 12, 15
+	index: -1
+global/a_global_longjuan_shandian_004
+	rotate: false
+	xy: 238, 0
+	size: 175, 144
+	orig: 255, 212
+	offset: 66, 11
+	index: -1
+global/a_global_longjuan_shandian_003
+	rotate: false
+	xy: 728, 688
+	size: 91, 68
+	orig: 255, 212
+	offset: 63, 43
+	index: -1
+global/a_global_longjuan_shandian_002
+	rotate: false
+	xy: 411, 166
+	size: 137, 120
+	orig: 255, 212
+	offset: 95, 19
+	index: -1
+global/a_global_longjuan_shandian_001
+	rotate: false
+	xy: 170, 631
+	size: 137, 112
+	orig: 255, 212
+	offset: 88, 16
+	index: -1
+global/a_global_longjuan_shandian_000
+	rotate: false
+	xy: 813, 760
+	size: 69, 70
+	orig: 255, 212
+	offset: 85, 12
+	index: -1
+
+asset/anim/jifengSESKILL1.png
+size: 1010,944
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/jifengwende_skillyan_065
+	rotate: false
+	xy: 0, 0
+	size: 295, 111
+	orig: 297, 121
+	offset: 2, 5
+	index: -1
+skill/jifengwende_skillyan_062
+	rotate: false
+	xy: 584, 0
+	size: 285, 105
+	orig: 297, 121
+	offset: 6, 8
+	index: -1
+skill/jifengwende_skillyan_063
+	rotate: false
+	xy: 296, 0
+	size: 287, 107
+	orig: 297, 121
+	offset: 5, 6
+	index: -1
+skill/jifengwende_skillyan_060
+	rotate: true
+	xy: 166, 634
+	size: 267, 91
+	orig: 297, 121
+	offset: 15, 8
+	index: -1
+
+asset/anim/jifengSESKILL0.png
+size: 1023,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/jifengwende_diquan_059
+	rotate: false
+	xy: 0, 556
+	size: 350, 93
+	orig: 364, 121
+	offset: 14, 9
+	index: -1
+skill/jifengwende_diquan_062
+	rotate: false
+	xy: 365, 302
+	size: 364, 107
+	orig: 364, 121
+	offset: 0, 4
+	index: -1
+skill/jifengwende_skillyan_064
+	rotate: false
+	xy: 730, 574
+	size: 291, 107
+	orig: 297, 121
+	offset: 4, 6
+	index: -1
+skill/jifengwende_skillyan_067
+	rotate: true
+	xy: 382, 716
+	size: 297, 115
+	orig: 297, 121
+	offset: 0, 3
+	index: -1
+skill/jifengwende_skillyan_068
+	rotate: false
+	xy: 723, 682
+	size: 297, 117
+	orig: 297, 121
+	offset: 0, 2
+	index: -1
+skill/jifengwende_diquan_064
+	rotate: false
+	xy: 388, 190
+	size: 364, 111
+	orig: 364, 121
+	offset: 0, 1
+	index: -1
+skill/jifengwende_diquan_065
+	rotate: false
+	xy: 0, 236
+	size: 364, 109
+	orig: 364, 121
+	offset: 0, 5
+	index: -1
+skill/jifengwende_diquan_066
+	rotate: false
+	xy: 365, 512
+	size: 364, 99
+	orig: 364, 121
+	offset: 0, 14
+	index: -1
+skill/jifengwende_skillyan_066
+	rotate: true
+	xy: 498, 716
+	size: 295, 113
+	orig: 297, 121
+	offset: 1, 4
+	index: -1
+skill/jifengwende_diquan_060
+	rotate: false
+	xy: 365, 410
+	size: 364, 101
+	orig: 364, 121
+	offset: 0, 7
+	index: -1
+skill/jifengwende_diquan_061
+	rotate: false
+	xy: 0, 454
+	size: 364, 101
+	orig: 364, 121
+	offset: 0, 6
+	index: -1
+skill/jifengwende_skillyan_070
+	rotate: false
+	xy: 758, 0
+	size: 263, 111
+	orig: 297, 121
+	offset: 18, 5
+	index: -1
+skill/jifengwende_diquan_063
+	rotate: false
+	xy: 0, 346
+	size: 364, 107
+	orig: 364, 121
+	offset: 0, 3
+	index: -1
+skill/jifengwende_skillyan_061
+	rotate: false
+	xy: 445, 612
+	size: 277, 103
+	orig: 297, 121
+	offset: 11, 8
+	index: -1
+skill/jifengwende_skillyan_069
+	rotate: false
+	xy: 730, 462
+	size: 291, 111
+	orig: 297, 121
+	offset: 3, 4
+	index: -1
+
+asset/anim/jifengSECOMMON0.png
+size: 1024,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jifengwende_stonehou_057
+	rotate: false
+	xy: 0, 272
+	size: 537, 150
+	orig: 537, 158
+	offset: 0, 1
+	index: -1

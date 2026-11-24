@@ -1,0 +1,13 @@
+
+asset/anim/hanbing0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/hanbing_hanbingfenwei1_1
+	rotate: false
+	xy: 0, 0
+	size: 1136, 640
+	orig: 1136, 640
+	offset: 0, 0
+	index: -1

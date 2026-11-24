@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>xgqt2_skill_yanwu_00072.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{30,-11}</string>
+                <key>spriteSize</key>
+                <string>{242,237}</string>
+                <key>spriteSourceSize</key>
+                <string>{328,261}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{242,237}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>xingganqiutu2SESKILL1.png</string>
+            <key>size</key>
+            <string>{242,237}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:5644f56f21a095484e8b46b0eb4d95b5:2187607d4b9e3fcc145248043d791280:04730a1c6f247b0ac349d3c736a10508$</string>
+            <key>textureFileName</key>
+            <string>xingganqiutu2SESKILL1.png</string>
+        </dict>
+    </dict>
+</plist>

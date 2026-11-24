@@ -1,0 +1,265 @@
+
+asset/anim/qingwanankapai.png
+size: 245,874
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_youdatuiqingwanankapai
+	rotate: false
+	xy: 136, 381
+	size: 83, 102
+	orig: 83, 102
+	offset: 0, 0
+	index: -1
+a_hanqingwanankapai
+	rotate: false
+	xy: 216, 760
+	size: 8, 24
+	orig: 8, 24
+	offset: 0, 0
+	index: -1
+a_youxiayanpiqingwanankapai
+	rotate: false
+	xy: 184, 780
+	size: 30, 30
+	orig: 30, 30
+	offset: 0, 0
+	index: -1
+a_zuoshouzhi3qingwanankapai
+	rotate: false
+	xy: 227, 730
+	size: 13, 31
+	orig: 13, 31
+	offset: 0, 0
+	index: -1
+a_youxiaotuiqingwanankapai
+	rotate: false
+	xy: 131, 484
+	size: 71, 94
+	orig: 71, 94
+	offset: 0, 0
+	index: -1
+a_zuoshouzhi4qingwanankapai
+	rotate: true
+	xy: 204, 221
+	size: 11, 29
+	orig: 11, 29
+	offset: 0, 0
+	index: -1
+a_youyanzhuqingwanankapai
+	rotate: true
+	xy: 214, 811
+	size: 16, 14
+	orig: 16, 14
+	offset: 0, 0
+	index: -1
+a_youshouzhangqingwanankapai
+	rotate: false
+	xy: 197, 642
+	size: 44, 31
+	orig: 44, 31
+	offset: 0, 0
+	index: -1
+a_touqingwanankapai
+	rotate: true
+	xy: 0, 438
+	size: 177, 130
+	orig: 177, 130
+	offset: 0, 0
+	index: -1
+a_zuoshouzhi1qingwanankapai
+	rotate: false
+	xy: 200, 811
+	size: 13, 36
+	orig: 13, 36
+	offset: 0, 0
+	index: -1
+a_zuoshangyanpiqingwanankapai
+	rotate: true
+	xy: 200, 674
+	size: 51, 28
+	orig: 51, 28
+	offset: 0, 0
+	index: -1
+a_zuoxioabiqingwanankapai
+	rotate: false
+	xy: 70, 616
+	size: 54, 110
+	orig: 54, 110
+	offset: 0, 0
+	index: -1
+a_youxiaobiqingwanankapai
+	rotate: false
+	xy: 87, 773
+	size: 53, 98
+	orig: 53, 98
+	offset: 0, 0
+	index: -1
+a_shentiqingwanankapai
+	rotate: false
+	xy: 0, 0
+	size: 203, 232
+	orig: 203, 232
+	offset: 0, 0
+	index: -1
+a_zuoshozhangqingwanankapai
+	rotate: true
+	xy: 141, 769
+	size: 46, 42
+	orig: 46, 42
+	offset: 0, 0
+	index: -1
+a_zuoxiayanpiqingwanankapai
+	rotate: true
+	xy: 172, 816
+	size: 52, 27
+	orig: 52, 27
+	offset: 0, 0
+	index: -1
+a_xiabaqingwanankapai
+	rotate: true
+	xy: 197, 233
+	size: 134, 48
+	orig: 134, 48
+	offset: 0, 0
+	index: -1
+a_youjiaoqingwanankapai
+	rotate: true
+	xy: 204, 0
+	size: 71, 41
+	orig: 71, 41
+	offset: 0, 0
+	index: -1
+a_zuoxiaotuiqingwanankapai
+	rotate: false
+	xy: 125, 632
+	size: 55, 89
+	orig: 55, 89
+	offset: 0, 0
+	index: -1
+a_zuodatuiqingwanankapai
+	rotate: false
+	xy: 0, 773
+	size: 86, 101
+	orig: 86, 101
+	offset: 0, 0
+	index: -1
+a_youshouzhi3qingwanankapai
+	rotate: true
+	xy: 181, 711
+	size: 6, 16
+	orig: 6, 16
+	offset: 0, 0
+	index: -1
+a_daobaqingwanankapai
+	rotate: false
+	xy: 204, 72
+	size: 41, 50
+	orig: 41, 50
+	offset: 0, 0
+	index: -1
+a_daoshenqingwanankapai
+	rotate: true
+	xy: 70, 727
+	size: 45, 63
+	orig: 45, 63
+	offset: 0, 0
+	index: -1
+a_youdabiqingwanankapai
+	rotate: false
+	xy: 136, 233
+	size: 60, 147
+	orig: 60, 147
+	offset: 0, 0
+	index: -1
+a_zuoshouzhi5qingwanankapai
+	rotate: false
+	xy: 236, 123
+	size: 9, 26
+	orig: 9, 26
+	offset: 0, 0
+	index: -1
+a_zuodabiqingwanankapai
+	rotate: false
+	xy: 0, 616
+	size: 69, 156
+	orig: 69, 156
+	offset: 0, 0
+	index: -1
+a_youshouzhi2qingwanankapai
+	rotate: false
+	xy: 215, 785
+	size: 12, 25
+	orig: 12, 25
+	offset: 0, 0
+	index: -1
+a_youshouzhi1qingwanankapai
+	rotate: false
+	xy: 220, 368
+	size: 25, 35
+	orig: 25, 35
+	offset: 0, 0
+	index: -1
+a_zuoshouzhi2qingwanankapai
+	rotate: false
+	xy: 181, 675
+	size: 18, 35
+	orig: 18, 35
+	offset: 0, 0
+	index: -1
+a_zuojiaoqingwanankapai
+	rotate: false
+	xy: 131, 579
+	size: 65, 52
+	orig: 65, 52
+	offset: 0, 0
+	index: -1
+a_shetouqingwanankapai
+	rotate: true
+	xy: 203, 484
+	size: 106, 42
+	orig: 106, 42
+	offset: 0, 0
+	index: -1
+a_daoqiaoshangqingwanankapai
+	rotate: true
+	xy: 200, 848
+	size: 20, 14
+	orig: 20, 14
+	offset: 0, 0
+	index: -1
+a_kuaqingwanankapai
+	rotate: true
+	xy: 0, 233
+	size: 204, 135
+	orig: 204, 135
+	offset: 0, 0
+	index: -1
+a_zuoyanjingqingwanankapai
+	rotate: false
+	xy: 134, 722
+	size: 52, 46
+	orig: 52, 46
+	offset: 0, 0
+	index: -1
+a_zuoyanzhuqingwanankapai
+	rotate: false
+	xy: 197, 368
+	size: 18, 12
+	orig: 18, 12
+	offset: 0, 0
+	index: -1
+a_youyanjingqingwanankapai
+	rotate: false
+	xy: 141, 816
+	size: 30, 52
+	orig: 30, 52
+	offset: 0, 0
+	index: -1
+a_youshangyanpiqingwanankapai
+	rotate: true
+	xy: 220, 456
+	size: 27, 24
+	orig: 27, 24
+	offset: 0, 0
+	index: -1

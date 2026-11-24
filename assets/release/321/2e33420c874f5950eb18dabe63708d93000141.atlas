@@ -1,0 +1,20 @@
+
+asset/anim/changsheerSE.png
+size: 1013,650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m_she2_changsheertx
+	rotate: false
+	xy: 930, 515
+	size: 55, 85
+	orig: 55, 85
+	offset: 0, 0
+	index: -1
+m_she1_changsheertx
+	rotate: true
+	xy: 744, 225
+	size: 139, 74
+	orig: 139, 74
+	offset: 0, 0
+	index: -1

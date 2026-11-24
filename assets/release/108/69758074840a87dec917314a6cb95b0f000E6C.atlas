@@ -1,0 +1,222 @@
+
+asset/anim/dengliziwujikapai0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Rshou2_dengliziwujikapai
+	rotate: false
+	xy: 140, 918
+	size: 39, 41
+	orig: 39, 41
+	offset: 0, 0
+	index: -1
+a_toushi5_dengliziwujikapai
+	rotate: false
+	xy: 871, 502
+	size: 26, 54
+	orig: 26, 54
+	offset: 0, 0
+	index: -1
+a_Lxiaobi_dengliziwujikapai
+	rotate: false
+	xy: 898, 528
+	size: 98, 440
+	orig: 98, 440
+	offset: 0, 0
+	index: -1
+a_tou2_dengliziwujikapai
+	rotate: true
+	xy: 0, 918
+	size: 39, 52
+	orig: 39, 52
+	offset: 0, 0
+	index: -1
+a_xing1_dengliziwujikapai
+	rotate: false
+	xy: 1003, 57
+	size: 21, 28
+	orig: 21, 28
+	offset: 0, 0
+	index: -1
+a_gu1_dengliziwujikapai
+	rotate: true
+	xy: 237, 657
+	size: 229, 206
+	orig: 229, 206
+	offset: 0, 0
+	index: -1
+a_Lshou2_dengliziwujikapai
+	rotate: true
+	xy: 93, 918
+	size: 35, 46
+	orig: 35, 46
+	offset: 0, 0
+	index: -1
+a_shenti2_dengliziwujikapai
+	rotate: false
+	xy: 702, 0
+	size: 199, 445
+	orig: 199, 445
+	offset: 0, 0
+	index: -1
+a_toushi4_dengliziwujikapai
+	rotate: false
+	xy: 871, 446
+	size: 29, 55
+	orig: 29, 55
+	offset: 0, 0
+	index: -1
+a_tou1_dengliziwujikapai
+	rotate: true
+	xy: 0, 657
+	size: 258, 236
+	orig: 258, 236
+	offset: 0, 0
+	index: -1
+a_yifu_dengliziwujikapai
+	rotate: false
+	xy: 902, 0
+	size: 100, 527
+	orig: 100, 527
+	offset: 0, 0
+	index: -1
+a_Rshou1_dengliziwujikapai
+	rotate: false
+	xy: 89, 962
+	size: 60, 60
+	orig: 60, 60
+	offset: 0, 0
+	index: -1
+a_Ljiao_dengliziwujikapai
+	rotate: false
+	xy: 444, 657
+	size: 66, 102
+	orig: 66, 102
+	offset: 0, 0
+	index: -1
+a_Ldabi_dengliziwujikapai
+	rotate: true
+	xy: 370, 918
+	size: 90, 143
+	orig: 90, 143
+	offset: 0, 0
+	index: -1
+a_toushi3_dengliziwujikapai
+	rotate: false
+	xy: 1003, 0
+	size: 14, 56
+	orig: 14, 56
+	offset: 0, 0
+	index: -1
+a_xing2_dengliziwujikapai
+	rotate: false
+	xy: 1003, 86
+	size: 21, 27
+	orig: 21, 27
+	offset: 0, 0
+	index: -1
+a_Lshou1_dengliziwujikapai
+	rotate: true
+	xy: 53, 918
+	size: 43, 39
+	orig: 43, 39
+	offset: 0, 0
+	index: -1
+a_toushi2_dengliziwujikapai
+	rotate: true
+	xy: 0, 969
+	size: 43, 88
+	orig: 43, 88
+	offset: 0, 0
+	index: -1
+a_chui1_dengliziwujikapai
+	rotate: true
+	xy: 514, 920
+	size: 95, 118
+	orig: 95, 118
+	offset: 0, 0
+	index: -1
+a_kuzi_dengliziwujikapai
+	rotate: false
+	xy: 687, 918
+	size: 115, 105
+	orig: 115, 105
+	offset: 0, 0
+	index: -1
+a_gu2_dengliziwujikapai
+	rotate: false
+	xy: 0, 0
+	size: 701, 656
+	orig: 701, 656
+	offset: 0, 0
+	index: -1
+a_xing3_dengliziwujikapai
+	rotate: false
+	xy: 1003, 114
+	size: 21, 27
+	orig: 21, 27
+	offset: 0, 0
+	index: -1
+a_Rdabi_dengliziwujikapai
+	rotate: true
+	xy: 180, 918
+	size: 90, 189
+	orig: 90, 189
+	offset: 0, 0
+	index: -1
+a_Rxiaobi_dengliziwujikapai
+	rotate: false
+	xy: 702, 446
+	size: 168, 471
+	orig: 168, 471
+	offset: 0, 0
+	index: -1
+a_Rjiao_dengliziwujikapai
+	rotate: false
+	xy: 803, 918
+	size: 91, 99
+	orig: 91, 99
+	offset: 0, 0
+	index: -1
+a_shenti1_dengliziwujikapai
+	rotate: false
+	xy: 514, 657
+	size: 172, 262
+	orig: 172, 262
+	offset: 0, 0
+	index: -1
+a_xing4_dengliziwujikapai
+	rotate: true
+	xy: 1003, 142
+	size: 17, 20
+	orig: 17, 20
+	offset: 0, 0
+	index: -1
+
+asset/anim/dengliziwujikapai1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_toushi1_dengliziwujikapai
+	rotate: false
+	xy: 75, 0
+	size: 73, 78
+	orig: 73, 78
+	offset: 0, 0
+	index: -1
+a_chui2_dengliziwujikapai
+	rotate: false
+	xy: 0, 0
+	size: 74, 121
+	orig: 74, 121
+	offset: 0, 0
+	index: -1
+a_shenti3_dengliziwujikapai
+	rotate: true
+	xy: 0, 122
+	size: 113, 77
+	orig: 113, 77
+	offset: 0, 0
+	index: -1

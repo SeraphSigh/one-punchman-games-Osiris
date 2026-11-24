@@ -1,0 +1,607 @@
+
+asset/anim/spineGlobalPic/pc_global0.png
+size: 710,923
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_nengliangbaodian_003
+	rotate: false
+	xy: 0, 0
+	size: 239, 206
+	orig: 269, 238
+	offset: 12, 14
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_suduxian_001
+	rotate: false
+	xy: 662, 381
+	size: 38, 153
+	orig: 38, 155
+	offset: 0, 1
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_nengliangbaodian_001
+	rotate: false
+	xy: 264, 387
+	size: 128, 129
+	orig: 188, 167
+	offset: 31, 25
+	index: -1
+global/a_global_nengliangbaodian_002
+	rotate: false
+	xy: 0, 418
+	size: 136, 143
+	orig: 188, 167
+	offset: 26, 11
+	index: -1
+global/a_global_nengliangbaodian_004
+	rotate: true
+	xy: 0, 562
+	size: 142, 135
+	orig: 188, 167
+	offset: 27, 16
+	index: -1
+global/a_global_dujiaoxian_xulixingguang_05
+	rotate: false
+	xy: 583, 0
+	size: 141, 136
+	orig: 141, 136
+	offset: 0, 0
+	index: -1
+global/a_global_dujiaoxian_xulixingguang_04
+	rotate: false
+	xy: 441, 0
+	size: 141, 136
+	orig: 141, 136
+	offset: 0, 0
+	index: -1
+global/a_global_dujiaoxian_xulixingguang_06
+	rotate: false
+	xy: 725, 0
+	size: 141, 136
+	orig: 141, 136
+	offset: 0, 0
+	index: -1
+global/a_global_dujiaoxian_xulixingguang_01
+	rotate: false
+	xy: 889, 334
+	size: 125, 122
+	orig: 141, 136
+	offset: 10, 3
+	index: -1
+global/a_global_dujiaoxian_xulixingguang_03
+	rotate: false
+	xy: 299, 0
+	size: 141, 136
+	orig: 141, 136
+	offset: 0, 0
+	index: -1
+global/a_global_dujiaoxian_xulixingguang_02
+	rotate: false
+	xy: 157, 0
+	size: 141, 136
+	orig: 141, 136
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_nengliangbaodian_000
+	rotate: false
+	xy: 111, 170
+	size: 72, 73
+	orig: 188, 167
+	offset: 60, 52
+	index: -1
+global/a_global_nengliangbaodian_005
+	rotate: false
+	xy: 115, 0
+	size: 114, 117
+	orig: 188, 167
+	offset: 45, 28
+	index: -1
+global/a_global_nengliangbaodian_006
+	rotate: false
+	xy: 230, 0
+	size: 112, 113
+	orig: 188, 167
+	offset: 45, 30
+	index: -1
+global/a_global_dujiaoxian_xulixingguang_00
+	rotate: false
+	xy: 568, 209
+	size: 89, 88
+	orig: 141, 136
+	offset: 28, 21
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/chuixueSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuixue_xuqibo_011
+	rotate: true
+	xy: 212, 978
+	size: 46, 59
+	orig: 102, 93
+	offset: 10, 9
+	index: -1
+chuixue_xuqici_008
+	rotate: false
+	xy: 904, 512
+	size: 120, 143
+	orig: 144, 159
+	offset: 13, 6
+	index: -1
+chuixue_xuqici_009
+	rotate: false
+	xy: 749, 895
+	size: 106, 129
+	orig: 144, 159
+	offset: 21, 9
+	index: -1
+chuixue_xuqibo_046
+	rotate: true
+	xy: 272, 978
+	size: 46, 53
+	orig: 102, 93
+	offset: 31, 0
+	index: -1
+feng_shifa_017_chuixuepng
+	rotate: true
+	xy: 986, 315
+	size: 43, 27
+	orig: 43, 27
+	offset: 0, 0
+	index: -1
+feng_shifa_002_chuixuepng
+	rotate: false
+	xy: 904, 768
+	size: 118, 113
+	orig: 118, 113
+	offset: 0, 0
+	index: -1
+
+asset/anim/chuixueSE1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feng_shifa_015_chuixuepng
+	rotate: false
+	xy: 937, 240
+	size: 87, 85
+	orig: 87, 85
+	offset: 0, 0
+	index: -1
+feng_shifa_009_chuixuepng
+	rotate: false
+	xy: 868, 970
+	size: 39, 40
+	orig: 39, 40
+	offset: 0, 0
+	index: -1
+feng_jizhong_002_chuixuepng
+	rotate: false
+	xy: 712, 759
+	size: 171, 194
+	orig: 171, 194
+	offset: 0, 0
+	index: -1
+feng_shifa_011_chuixuepng
+	rotate: true
+	xy: 643, 357
+	size: 75, 76
+	orig: 75, 76
+	offset: 0, 0
+	index: -1
+feng_shifa_010_chuixuepng
+	rotate: false
+	xy: 199, 956
+	size: 65, 66
+	orig: 65, 66
+	offset: 0, 0
+	index: -1
+chuixue_xuqibo_029
+	rotate: false
+	xy: 643, 433
+	size: 76, 73
+	orig: 102, 93
+	offset: 13, 0
+	index: -1
+chuixue_xuqibo_045
+	rotate: true
+	xy: 0, 956
+	size: 68, 69
+	orig: 102, 93
+	offset: 21, 0
+	index: -1
+chuixue_xuqibo_013
+	rotate: true
+	xy: 647, 57
+	size: 64, 71
+	orig: 102, 93
+	offset: 8, 0
+	index: -1
+chuixue_xuqibo_043
+	rotate: false
+	xy: 643, 281
+	size: 76, 75
+	orig: 102, 93
+	offset: 16, 0
+	index: -1
+feng_shifa_008_chuixuepng
+	rotate: true
+	xy: 566, 239
+	size: 79, 76
+	orig: 79, 76
+	offset: 0, 0
+	index: -1
+feng_shifa_001_chuixuepng
+	rotate: false
+	xy: 566, 319
+	size: 76, 75
+	orig: 76, 75
+	offset: 0, 0
+	index: -1
+feng_dandao_008_chuixuepng
+	rotate: true
+	xy: 941, 0
+	size: 149, 82
+	orig: 149, 82
+	offset: 0, 0
+	index: -1
+feng_shifa_005_chuixuepng
+	rotate: false
+	xy: 440, 240
+	size: 125, 122
+	orig: 125, 122
+	offset: 0, 0
+	index: -1
+chuixue_xuqibo_035
+	rotate: true
+	xy: 358, 954
+	size: 70, 77
+	orig: 102, 93
+	offset: 9, 0
+	index: -1
+feng_jizhong_010_chuixuepng
+	rotate: true
+	xy: 842, 589
+	size: 169, 182
+	orig: 169, 182
+	offset: 0, 0
+	index: -1
+
+asset/anim/chuixueSE2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feng_jizhong_013_chuixuepng
+	rotate: true
+	xy: 0, 688
+	size: 167, 185
+	orig: 167, 185
+	offset: 0, 0
+	index: -1
+feng_dandao_007_chuixuepng
+	rotate: false
+	xy: 872, 909
+	size: 149, 102
+	orig: 149, 102
+	offset: 0, 0
+	index: -1
+feng_jizhong_005_chuixuepng
+	rotate: false
+	xy: 853, 185
+	size: 171, 190
+	orig: 171, 190
+	offset: 0, 0
+	index: -1
+feng_dandao_003_chuixuepng
+	rotate: true
+	xy: 519, 515
+	size: 180, 100
+	orig: 180, 100
+	offset: 0, 0
+	index: -1
+feng_jizhong_007_chuixuepng
+	rotate: true
+	xy: 190, 368
+	size: 175, 188
+	orig: 175, 188
+	offset: 0, 0
+	index: -1
+feng_jizhong_003_chuixuepng
+	rotate: true
+	xy: 835, 742
+	size: 166, 184
+	orig: 166, 184
+	offset: 0, 0
+	index: -1
+feng_dandao_001_chuixuepng
+	rotate: true
+	xy: 186, 742
+	size: 113, 84
+	orig: 113, 84
+	offset: 0, 0
+	index: -1
+feng_dandao_004_chuixuepng
+	rotate: false
+	xy: 635, 330
+	size: 191, 103
+	orig: 191, 103
+	offset: 0, 0
+	index: -1
+feng_dandao_006_chuixuepng
+	rotate: false
+	xy: 478, 742
+	size: 141, 102
+	orig: 141, 102
+	offset: 0, 0
+	index: -1
+feng_jizhong_009_chuixuepng
+	rotate: true
+	xy: 432, 173
+	size: 173, 202
+	orig: 173, 202
+	offset: 0, 0
+	index: -1
+feng_shifa_003_chuixuepng
+	rotate: false
+	xy: 271, 742
+	size: 117, 112
+	orig: 117, 112
+	offset: 0, 0
+	index: -1
+feng_jizhong_001_chuixuepng
+	rotate: true
+	xy: 0, 513
+	size: 174, 188
+	orig: 174, 188
+	offset: 0, 0
+	index: -1
+chuixue_xuqibo_039
+	rotate: false
+	xy: 417, 515
+	size: 82, 75
+	orig: 102, 93
+	offset: 11, 0
+	index: -1
+feng_jizhong_011_chuixuepng
+	rotate: false
+	xy: 860, 0
+	size: 164, 184
+	orig: 164, 184
+	offset: 0, 0
+	index: -1
+feng_jizhong_004_chuixuepng
+	rotate: true
+	xy: 429, 347
+	size: 167, 190
+	orig: 167, 190
+	offset: 0, 0
+	index: -1
+feng_shifa_007_chuixuepng
+	rotate: true
+	xy: 686, 909
+	size: 115, 106
+	orig: 115, 106
+	offset: 0, 0
+	index: -1
+feng_jizhong_008_chuixuepng
+	rotate: true
+	xy: 649, 157
+	size: 172, 203
+	orig: 172, 203
+	offset: 0, 0
+	index: -1
+feng_jizhong_006_chuixuepng
+	rotate: true
+	xy: 0, 346
+	size: 166, 189
+	orig: 166, 189
+	offset: 0, 0
+	index: -1
+feng_dandao_005_chuixuepng
+	rotate: false
+	xy: 213, 265
+	size: 191, 102
+	orig: 191, 102
+	offset: 0, 0
+	index: -1
+
+asset/anim/chuixueSE3.png
+size: 686,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feng_shifa_012_chuixuepng
+	rotate: true
+	xy: 398, 683
+	size: 84, 85
+	orig: 84, 85
+	offset: 0, 0
+	index: -1
+chuixue_xuqibo_033
+	rotate: true
+	xy: 411, 371
+	size: 78, 73
+	orig: 102, 93
+	offset: 12, 0
+	index: -1
+feng_shifa_016_chuixuepng
+	rotate: false
+	xy: 408, 587
+	size: 80, 84
+	orig: 80, 84
+	offset: 0, 0
+	index: -1
+feng_shifa_014_chuixuepng
+	rotate: true
+	xy: 404, 495
+	size: 91, 88
+	orig: 91, 88
+	offset: 0, 0
+	index: -1
+chuixue_xuqibo_023
+	rotate: false
+	xy: 481, 796
+	size: 80, 77
+	orig: 102, 93
+	offset: 12, 0
+	index: -1
+feng_jizhong_012_chuixuepng
+	rotate: false
+	xy: 0, 0
+	size: 165, 184
+	orig: 165, 184
+	offset: 0, 0
+	index: -1
+chuixue_xuqibo_025
+	rotate: false
+	xy: 493, 562
+	size: 82, 77
+	orig: 102, 93
+	offset: 9, 0
+	index: -1
+chuixue_xuqibo_021
+	rotate: false
+	xy: 562, 799
+	size: 78, 77
+	orig: 102, 93
+	offset: 15, 0
+	index: -1
+feng_jizhong_015_chuixuepng
+	rotate: true
+	xy: 161, 310
+	size: 121, 146
+	orig: 121, 146
+	offset: 0, 0
+	index: -1
+feng_shifa_006_chuixuepng
+	rotate: true
+	xy: 166, 163
+	size: 146, 161
+	orig: 146, 161
+	offset: 0, 0
+	index: -1
+chuixue_xuqici_010
+	rotate: true
+	xy: 158, 665
+	size: 98, 135
+	orig: 144, 159
+	offset: 25, 6
+	index: -1
+chuixue_xuqibo_027
+	rotate: false
+	xy: 493, 482
+	size: 80, 79
+	orig: 102, 93
+	offset: 9, 0
+	index: -1
+feng_shifa_013_chuixuepng
+	rotate: true
+	xy: 591, 466
+	size: 93, 94
+	orig: 93, 94
+	offset: 0, 0
+	index: -1
+chuixue_xuqici_011
+	rotate: true
+	xy: 147, 764
+	size: 104, 133
+	orig: 144, 159
+	offset: 27, 9
+	index: -1
+feng_shifa_004_chuixuepng
+	rotate: false
+	xy: 0, 693
+	size: 146, 161
+	orig: 146, 161
+	offset: 0, 0
+	index: -1
+chuixue_xuqibo_037
+	rotate: false
+	xy: 576, 560
+	size: 82, 77
+	orig: 102, 93
+	offset: 10, 0
+	index: -1
+chuixue_xuqibo_031
+	rotate: true
+	xy: 565, 718
+	size: 80, 75
+	orig: 102, 93
+	offset: 11, 0
+	index: -1
+feng_jizhong_014_chuixuepng
+	rotate: true
+	xy: 506, 0
+	size: 150, 164
+	orig: 150, 164
+	offset: 0, 0
+	index: -1
+chuixue_xuqibo_015
+	rotate: true
+	xy: 411, 292
+	size: 78, 73
+	orig: 102, 93
+	offset: 9, 0
+	index: -1
+chuixue_xuqibo_017
+	rotate: false
+	xy: 484, 718
+	size: 80, 77
+	orig: 102, 93
+	offset: 10, 0
+	index: -1
+chuixue_xuqibo_019
+	rotate: false
+	xy: 572, 640
+	size: 78, 77
+	orig: 102, 93
+	offset: 12, 0
+	index: -1
+chuixue_xuqibo_041
+	rotate: false
+	xy: 489, 640
+	size: 82, 77
+	orig: 102, 93
+	offset: 11, 0
+	index: -1
+feng_dandao_002_chuixuepng
+	rotate: false
+	xy: 158, 570
+	size: 145, 94
+	orig: 145, 94
+	offset: 0, 0
+	index: -1

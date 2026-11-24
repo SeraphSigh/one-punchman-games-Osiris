@@ -1,0 +1,177 @@
+
+asset/anim/yimiaorenSESKILL0.png
+size: 1024,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/yimiaoren_diliexiaoshi_38
+	rotate: true
+	xy: 947, 0
+	size: 216, 69
+	orig: 262, 93
+	offset: 30, 9
+	index: -1
+skill/yimiaoren_diliexiaoshi_44
+	rotate: false
+	xy: 0, 969
+	size: 178, 49
+	orig: 262, 93
+	offset: 42, 25
+	index: -1
+
+asset/anim/yimiaorenSESKILL1.png
+size: 1007,972
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/yimiaoren_jizhong_39
+	rotate: false
+	xy: 270, 0
+	size: 263, 251
+	orig: 265, 269
+	offset: 2, 1
+	index: -1
+skill/yimiaoren_jizhong_38
+	rotate: false
+	xy: 534, 0
+	size: 263, 247
+	orig: 265, 269
+	offset: 2, 1
+	index: -1
+skill/yimiaoren_jizhong_35
+	rotate: true
+	xy: 341, 252
+	size: 261, 239
+	orig: 265, 269
+	offset: 4, 0
+	index: -1
+skill/yimiaoren_jizhong_41
+	rotate: false
+	xy: 228, 597
+	size: 253, 249
+	orig: 265, 269
+	offset: 1, 6
+	index: -1
+skill/yimiaoren_diliexiaoshi_42
+	rotate: false
+	xy: 462, 897
+	size: 214, 67
+	orig: 262, 93
+	offset: 31, 10
+	index: -1
+skill/yimiaoren_diliexiaoshi_43
+	rotate: false
+	xy: 341, 514
+	size: 180, 51
+	orig: 262, 93
+	offset: 40, 22
+	index: -1
+skill/yimiaoren_diliexiaoshi_40
+	rotate: false
+	xy: 482, 827
+	size: 216, 69
+	orig: 262, 93
+	offset: 30, 9
+	index: -1
+skill/yimiaoren_jizhong_42
+	rotate: false
+	xy: 482, 577
+	size: 233, 249
+	orig: 265, 269
+	offset: 30, 7
+	index: -1
+
+asset/anim/yimiaorenSESKILL2.png
+size: 1009,1007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/yimiaoren_diliexiaoshi_39
+	rotate: true
+	xy: 416, 780
+	size: 216, 69
+	orig: 262, 93
+	offset: 30, 9
+	index: -1
+skill/yimiaoren_jizhong_33
+	rotate: true
+	xy: 0, 266
+	size: 265, 231
+	orig: 265, 269
+	offset: 0, 0
+	index: -1
+skill/yimiaoren_jizhong_32
+	rotate: true
+	xy: 0, 532
+	size: 265, 207
+	orig: 265, 269
+	offset: 0, 0
+	index: -1
+skill/yimiaoren_jizhong_31
+	rotate: true
+	xy: 208, 532
+	size: 265, 203
+	orig: 265, 269
+	offset: 0, 0
+	index: -1
+skill/yimiaoren_jizhong_37
+	rotate: true
+	xy: 232, 266
+	size: 263, 247
+	orig: 265, 269
+	offset: 2, 0
+	index: -1
+skill/yimiaoren_jizhong_36
+	rotate: true
+	xy: 252, 0
+	size: 263, 245
+	orig: 265, 269
+	offset: 2, 0
+	index: -1
+skill/yimiaoren_jizhong_34
+	rotate: true
+	xy: 510, 514
+	size: 247, 233
+	orig: 265, 269
+	offset: 5, 0
+	index: -1
+skill/yimiaoren_jizhong_40
+	rotate: true
+	xy: 0, 0
+	size: 265, 251
+	orig: 265, 269
+	offset: 0, 3
+	index: -1
+skill/yimiaoren_diliexiaoshi_41
+	rotate: true
+	xy: 486, 780
+	size: 216, 67
+	orig: 262, 93
+	offset: 30, 10
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_didiwang_qi03_003
+	rotate: false
+	xy: 139, 137
+	size: 136, 132
+	orig: 136, 132
+	offset: 0, 0
+	index: -1

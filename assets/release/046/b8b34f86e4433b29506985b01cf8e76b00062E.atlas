@@ -1,0 +1,97 @@
+
+asset/anim/xingkongluyingchangjing0.png
+size: 191,420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiangpian_xingkongluying
+	rotate: true
+	xy: 0, 0
+	size: 379, 120
+	orig: 379, 120
+	offset: 0, 0
+	index: -1
+zhuhuo_xingkongluying0007
+	rotate: true
+	xy: 27, 407
+	size: 13, 26
+	orig: 25, 30
+	offset: 7, 0
+	index: -1
+zhuhuo_xingkongluying0004
+	rotate: false
+	xy: 0, 380
+	size: 13, 26
+	orig: 25, 30
+	offset: 7, 0
+	index: -1
+zhuhuo_xingkongluying0005
+	rotate: true
+	xy: 0, 407
+	size: 13, 26
+	orig: 25, 30
+	offset: 7, 0
+	index: -1
+zhuhuo_xingkongluying0006
+	rotate: false
+	xy: 14, 380
+	size: 13, 26
+	orig: 25, 30
+	offset: 7, 0
+	index: -1
+zhuhuo_xingkongluying0010
+	rotate: true
+	xy: 79, 405
+	size: 13, 22
+	orig: 25, 30
+	offset: 8, 2
+	index: -1
+deng_xingkongluying
+	rotate: false
+	xy: 121, 75
+	size: 58, 338
+	orig: 58, 338
+	offset: 0, 0
+	index: -1
+zhuhuo_xingkongluying0002
+	rotate: false
+	xy: 56, 380
+	size: 13, 24
+	orig: 25, 30
+	offset: 7, 2
+	index: -1
+zhuhuo_xingkongluying0003
+	rotate: false
+	xy: 70, 380
+	size: 13, 24
+	orig: 25, 30
+	offset: 7, 2
+	index: -1
+guang_xingkongluying
+	rotate: false
+	xy: 121, 0
+	size: 70, 74
+	orig: 100, 100
+	offset: 14, 14
+	index: -1
+zhuhuo_xingkongluying0008
+	rotate: false
+	xy: 28, 380
+	size: 13, 26
+	orig: 25, 30
+	offset: 7, 0
+	index: -1
+zhuhuo_xingkongluying0009
+	rotate: false
+	xy: 42, 380
+	size: 13, 26
+	orig: 25, 30
+	offset: 8, 0
+	index: -1
+zhuhuo_xingkongluying0001
+	rotate: true
+	xy: 54, 407
+	size: 13, 24
+	orig: 25, 30
+	offset: 7, 2
+	index: -1

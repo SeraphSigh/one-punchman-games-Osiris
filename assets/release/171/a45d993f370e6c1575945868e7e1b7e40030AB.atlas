@@ -1,0 +1,715 @@
+
+asset/anim/bengpuSESKILL3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/bengpu_wenli1_00109
+	rotate: false
+	xy: 862, 969
+	size: 131, 49
+	orig: 141, 67
+	offset: 1, 10
+	index: -1
+skill/bengpu_wenli1_00108
+	rotate: false
+	xy: 730, 969
+	size: 131, 49
+	orig: 141, 67
+	offset: 1, 10
+	index: -1
+skill/bengpu_juli1_9
+	rotate: true
+	xy: 110, 804
+	size: 219, 203
+	orig: 363, 223
+	offset: 42, 4
+	index: -1
+skill/bengpu_shoutexiao1_7
+	rotate: false
+	xy: 788, 0
+	size: 231, 155
+	orig: 269, 181
+	offset: 0, 25
+	index: -1
+
+asset/anim/bengpuSESKILL2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/bengpu_qiliu1_5
+	rotate: false
+	xy: 622, 203
+	size: 129, 111
+	orig: 145, 111
+	offset: 16, 0
+	index: -1
+skill/bengpu_shoutexiao1_12
+	rotate: true
+	xy: 843, 784
+	size: 183, 181
+	orig: 269, 181
+	offset: 21, 0
+	index: -1
+skill/bengpu_shoutexiao1_19
+	rotate: true
+	xy: 843, 586
+	size: 197, 181
+	orig: 269, 181
+	offset: 72, 0
+	index: -1
+skill/bengpu_shoutexiao1_6
+	rotate: true
+	xy: 848, 372
+	size: 213, 175
+	orig: 269, 181
+	offset: 0, 6
+	index: -1
+skill/bengpu_shoutexiao1_9
+	rotate: false
+	xy: 622, 372
+	size: 225, 181
+	orig: 269, 181
+	offset: 0, 0
+	index: -1
+skill/bengpu_wenli1_00110
+	rotate: false
+	xy: 622, 315
+	size: 129, 49
+	orig: 141, 67
+	offset: 3, 10
+	index: -1
+skill/bengpu_wenli1_00107
+	rotate: false
+	xy: 882, 968
+	size: 131, 49
+	orig: 141, 67
+	offset: 2, 10
+	index: -1
+skill/bengpu_wenli1_00106
+	rotate: false
+	xy: 748, 968
+	size: 133, 49
+	orig: 141, 67
+	offset: 1, 10
+	index: -1
+
+asset/anim/bengpuSESKILL1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/bengpu_qiliu1_7
+	rotate: true
+	xy: 406, 0
+	size: 125, 107
+	orig: 145, 111
+	offset: 5, 4
+	index: -1
+skill/bengpu_qiliu1_8
+	rotate: false
+	xy: 907, 803
+	size: 117, 105
+	orig: 145, 111
+	offset: 8, 6
+	index: -1
+skill/bengpu_juli1_1
+	rotate: false
+	xy: 584, 378
+	size: 321, 219
+	orig: 363, 223
+	offset: 42, 4
+	index: -1
+skill/bengpu_shoutexiao1_8
+	rotate: true
+	xy: 406, 378
+	size: 237, 177
+	orig: 269, 181
+	offset: 0, 4
+	index: -1
+
+asset/anim/bengpuSESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/bengpu_qiliu1_4
+	rotate: true
+	xy: 852, 888
+	size: 135, 111
+	orig: 145, 111
+	offset: 10, 0
+	index: -1
+skill/bengpu_shoutexiao1_15
+	rotate: false
+	xy: 830, 0
+	size: 193, 175
+	orig: 269, 181
+	offset: 9, 0
+	index: -1
+skill/bengpu_shoutexiao1_11
+	rotate: false
+	xy: 830, 176
+	size: 191, 181
+	orig: 269, 181
+	offset: 25, 0
+	index: -1
+skill/bengpu_shoutexiao1_18
+	rotate: true
+	xy: 964, 919
+	size: 83, 57
+	orig: 269, 181
+	offset: 47, 63
+	index: -1
+
+asset/anim/bengpuSESKILL5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/bengpu_qiliu1_2
+	rotate: true
+	xy: 570, 924
+	size: 99, 101
+	orig: 145, 111
+	offset: 0, 0
+	index: -1
+skill/bengpu_shoutexiao1_14
+	rotate: true
+	xy: 444, 203
+	size: 159, 153
+	orig: 269, 181
+	offset: 35, 9
+	index: -1
+skill/bengpu_shoutexiao1_17
+	rotate: false
+	xy: 830, 464
+	size: 143, 121
+	orig: 269, 181
+	offset: 19, 35
+	index: -1
+skill/bengpu_shoutexiao1_10
+	rotate: false
+	xy: 252, 412
+	size: 177, 181
+	orig: 269, 181
+	offset: 24, 0
+	index: -1
+skill/bengpu_shoutexiao1_13
+	rotate: false
+	xy: 580, 586
+	size: 131, 131
+	orig: 269, 181
+	offset: 45, 19
+	index: -1
+skill/bengpu_shoutexiao1_1
+	rotate: true
+	xy: 570, 764
+	size: 159, 145
+	orig: 269, 181
+	offset: 35, 34
+	index: -1
+skill/bengpu_shoutexiao1_3
+	rotate: false
+	xy: 224, 805
+	size: 165, 181
+	orig: 269, 181
+	offset: 32, 0
+	index: -1
+skill/bengpu_shoutexiao1_2
+	rotate: false
+	xy: 428, 594
+	size: 151, 169
+	orig: 269, 181
+	offset: 39, 10
+	index: -1
+skill/bengpu_shoutexiao1_5
+	rotate: true
+	xy: 148, 621
+	size: 183, 173
+	orig: 269, 181
+	offset: 23, 0
+	index: -1
+skill/bengpu_shoutexiao1_4
+	rotate: false
+	xy: 270, 203
+	size: 173, 181
+	orig: 269, 181
+	offset: 36, 0
+	index: -1
+skill/bengpu_wenli1_00116
+	rotate: false
+	xy: 264, 148
+	size: 129, 49
+	orig: 141, 67
+	offset: 3, 10
+	index: -1
+skill/bengpu_wenli1_00114
+	rotate: false
+	xy: 0, 148
+	size: 131, 49
+	orig: 141, 67
+	offset: 3, 10
+	index: -1
+skill/bengpu_wenli1_00115
+	rotate: false
+	xy: 132, 148
+	size: 131, 49
+	orig: 141, 67
+	offset: 2, 10
+	index: -1
+skill/bengpu_shoutexiao1_20
+	rotate: false
+	xy: 430, 385
+	size: 157, 165
+	orig: 269, 181
+	offset: 112, 0
+	index: -1
+
+asset/anim/bengpuSESKILL4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/bengpu_shoutexiao1_16
+	rotate: true
+	xy: 869, 744
+	size: 159, 155
+	orig: 269, 181
+	offset: 19, 16
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_xulixiguang_09
+	rotate: true
+	xy: 987, 226
+	size: 180, 37
+	orig: 216, 75
+	offset: 21, 17
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_11
+	rotate: false
+	xy: 502, 225
+	size: 161, 62
+	orig: 205, 90
+	offset: 32, 8
+	index: -1
+global/a_global_txskill_sinaike_23
+	rotate: false
+	xy: 160, 470
+	size: 159, 40
+	orig: 205, 90
+	offset: 0, 9
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_xulixiguang_06
+	rotate: true
+	xy: 790, 208
+	size: 170, 55
+	orig: 216, 75
+	offset: 25, 8
+	index: -1
+global/a_global_dujiaoxian_xulixiguang_07
+	rotate: true
+	xy: 490, 219
+	size: 216, 49
+	orig: 216, 75
+	offset: 0, 11
+	index: -1
+global/a_global_dujiaoxian_xulixiguang_08
+	rotate: true
+	xy: 490, 219
+	size: 216, 49
+	orig: 216, 75
+	offset: 0, 11
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_canying_12
+	rotate: false
+	xy: 580, 958
+	size: 159, 66
+	orig: 159, 84
+	offset: 0, 0
+	index: -1
+global/a_global_txskill_sinaike_13
+	rotate: false
+	xy: 553, 522
+	size: 181, 72
+	orig: 205, 90
+	offset: 16, 8
+	index: -1
+global/a_global_txskill_sinaike_19
+	rotate: false
+	xy: 0, 516
+	size: 185, 40
+	orig: 205, 90
+	offset: 0, 8
+	index: -1
+
+asset/anim/bengpuSEMAX2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/bengpu_jx_julixian_1
+	rotate: true
+	xy: 0, 644
+	size: 144, 43
+	orig: 296, 105
+	offset: 56, 13
+	index: -1
+max/bengpu_jx_julixian_2
+	rotate: true
+	xy: 943, 0
+	size: 282, 77
+	orig: 296, 105
+	offset: 11, 10
+	index: -1
+max/bengpu_jx_julixian_5
+	rotate: false
+	xy: 656, 0
+	size: 286, 91
+	orig: 296, 105
+	offset: 5, 4
+	index: -1
+max/bengpu_jx_julixian_7
+	rotate: false
+	xy: 0, 134
+	size: 272, 85
+	orig: 296, 105
+	offset: 8, 6
+	index: -1
+max/bengpu_jx_julixian_6
+	rotate: false
+	xy: 656, 92
+	size: 282, 87
+	orig: 296, 105
+	offset: 6, 5
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_xulixiguang_04
+	rotate: false
+	xy: 642, 656
+	size: 136, 75
+	orig: 216, 75
+	offset: 43, 0
+	index: -1
+global/a_global_dujiaoxian_canying_13
+	rotate: false
+	xy: 880, 671
+	size: 125, 82
+	orig: 159, 84
+	offset: 31, 0
+	index: -1
+
+asset/anim/bengpuSEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/bengpu_jx_julixian_8
+	rotate: false
+	xy: 527, 903
+	size: 256, 81
+	orig: 296, 105
+	offset: 12, 8
+	index: -1
+
+asset/anim/bengpuSEMAX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/bengpu_jx_julixian_3
+	rotate: false
+	xy: 704, 629
+	size: 290, 89
+	orig: 296, 105
+	offset: 4, 4
+	index: -1
+max/bengpu_jx_julixian_4
+	rotate: false
+	xy: 411, 657
+	size: 292, 95
+	orig: 296, 105
+	offset: 3, 2
+	index: -1
+
+asset/anim/huoqiu1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_20
+	rotate: false
+	xy: 549, 500
+	size: 226, 41
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+global/a_global_txskill_sinaike_22
+	rotate: false
+	xy: 197, 504
+	size: 220, 45
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+
+asset/anim/huoqiu0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_12
+	rotate: false
+	xy: 320, 704
+	size: 250, 87
+	orig: 252, 111
+	offset: 0, 10
+	index: -1
+global/a_global_txskill_sinaike_14
+	rotate: true
+	xy: 425, 485
+	size: 214, 91
+	orig: 252, 111
+	offset: 12, 10
+	index: -1
+global/a_global_txskill_sinaike_15
+	rotate: true
+	xy: 331, 362
+	size: 218, 93
+	orig: 252, 111
+	offset: 7, 11
+	index: -1
+global/a_global_txskill_sinaike_16
+	rotate: true
+	xy: 335, 135
+	size: 226, 93
+	orig: 252, 111
+	offset: 0, 10
+	index: -1
+global/a_global_txskill_sinaike_18
+	rotate: true
+	xy: 92, 792
+	size: 230, 83
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+global/a_global_txskill_sinaike_17
+	rotate: true
+	xy: 0, 792
+	size: 230, 91
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+global/a_global_txskill_sinaike_24
+	rotate: true
+	xy: 518, 792
+	size: 196, 49
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+global/a_global_txskill_sinaike_27
+	rotate: true
+	xy: 320, 581
+	size: 122, 35
+	orig: 252, 111
+	offset: 41, 12
+	index: -1
+
+asset/anim/huoqiu2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_21
+	rotate: true
+	xy: 983, 189
+	size: 226, 41
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_xulixiguang_05
+	rotate: false
+	xy: 0, 821
+	size: 80, 55
+	orig: 216, 75
+	offset: 68, 7
+	index: -1
+global/a_global_dujiaoxian_xulixiguang_02
+	rotate: true
+	xy: 595, 298
+	size: 90, 69
+	orig: 216, 75
+	offset: 65, 4
+	index: -1
+global/a_global_dujiaoxian_xulixiguang_03
+	rotate: false
+	xy: 212, 535
+	size: 104, 69
+	orig: 216, 75
+	offset: 58, 0
+	index: -1
+global/a_global_dujiaoxian_canying_14
+	rotate: true
+	xy: 127, 472
+	size: 109, 84
+	orig: 159, 84
+	offset: 48, 0
+	index: -1
+global/a_global_txskill_sinaike_25
+	rotate: true
+	xy: 86, 472
+	size: 115, 40
+	orig: 205, 90
+	offset: 26, 9
+	index: -1
+global/a_global_txskill_sinaike_26
+	rotate: false
+	xy: 567, 170
+	size: 105, 38
+	orig: 205, 90
+	offset: 28, 9
+	index: -1
+
+asset/anim/bengpuSECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/bengpu_juli1_10
+	rotate: false
+	xy: 570, 845
+	size: 222, 176
+	orig: 462, 284
+	offset: 90, 44
+	index: -1
+skill/bengpu_juli1_11
+	rotate: false
+	xy: 115, 285
+	size: 166, 110
+	orig: 462, 284
+	offset: 118, 77
+	index: -1
+skill/bengpu_qiliu1_3
+	rotate: true
+	xy: 371, 386
+	size: 172, 134
+	orig: 184, 142
+	offset: 12, 0
+	index: -1
+skill/bengpu_qiliu1_6
+	rotate: true
+	xy: 793, 845
+	size: 176, 142
+	orig: 184, 142
+	offset: 8, 0
+	index: -1
+skill/bengpu_juli1_6
+	rotate: false
+	xy: 570, 560
+	size: 448, 284
+	orig: 462, 284
+	offset: 0, 0
+	index: -1
+skill/bengpu_juli1_4
+	rotate: true
+	xy: 0, 398
+	size: 462, 284
+	orig: 462, 284
+	offset: 0, 0
+	index: -1
+skill/bengpu_juli1_5
+	rotate: true
+	xy: 285, 560
+	size: 462, 284
+	orig: 462, 284
+	offset: 0, 0
+	index: -1
+skill/bengpu_juli1_2
+	rotate: false
+	xy: 0, 0
+	size: 462, 284
+	orig: 462, 284
+	offset: 0, 0
+	index: -1
+skill/bengpu_juli1_3
+	rotate: false
+	xy: 463, 0
+	size: 462, 284
+	orig: 462, 284
+	offset: 0, 0
+	index: -1
+skill/bengpu_juli1_8
+	rotate: false
+	xy: 559, 285
+	size: 356, 274
+	orig: 462, 284
+	offset: 33, 9
+	index: -1
+skill/bengpu_wenli1_00113
+	rotate: true
+	xy: 936, 845
+	size: 168, 63
+	orig: 180, 85
+	offset: 2, 13
+	index: -1
+
+asset/anim/bengpuSECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/bengpu_juli1_7
+	rotate: false
+	xy: 423, 0
+	size: 406, 284
+	orig: 462, 284
+	offset: 12, 0
+	index: -1
+skill/bengpu_wenli1_00112
+	rotate: false
+	xy: 810, 637
+	size: 166, 63
+	orig: 180, 85
+	offset: 3, 13
+	index: -1
+skill/bengpu_wenli1_00111
+	rotate: false
+	xy: 93, 637
+	size: 166, 63
+	orig: 180, 85
+	offset: 2, 13
+	index: -1

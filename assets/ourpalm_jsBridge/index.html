@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en" manifest="sdk2.appcache">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="oppage-usetype" content="sdk2.0"/>
+    <meta http-equiv="pragma" content="no-cache"/>
+    <meta http-equiv="Cache-Control" content="no-cache"/>
+    <meta http-equiv="Access-Control-Allow-Origin" content="*"/>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <title translate="title"></title>
+    <!--
+    <style>
+         body{
+
+         }
+         .mytest{
+             padding: 50px;
+             background-color: black;
+         }
+     </style>
+     -->
+    <script type="text/javascript">
+        window.onerror = function (errorMessage, scriptURI, lineNumber, columnNumber, errorObj) {
+            console.log("错误信息：", errorMessage);
+            console.log("出错文件：", scriptURI);
+            console.log("出错行号：", lineNumber);
+            console.log("出错列号：", columnNumber);
+            console.log("错误详情：", errorObj);
+            if (errorMessage.indexOf('10 $digest() iterations reached') < 0) {
+                !!window.WebViewJavascriptBridge && window.pageBridge.invokeSdkNativeToast("系统错误，请联系管理员");
+                !!window.WebViewJavascriptBridge && window.pageBridge.invokeSdkCloseWebiew('');
+            }
+        }
+    </script>
+</head>
+<body ng-controller="PageController">
+    <ourpalm-focus></ourpalm-focus>
+    <ourpalm-loading></ourpalm-loading>
+    <ourpalm-toast></ourpalm-toast>
+    <ourpalm-background-lowvesion></ourpalm-background-lowvesion>
+    <div class="mytest">
+        <ng-view></ng-view>
+    </div>
+
+    <!--<script src="version.js"></script>-->
+    <!--<script src="index.bundle.js"></script>-->
+<script type="text/javascript" src="styles.bundle.js"></script><script type="text/javascript" src="scripts.bundle.js"></script><script type="text/javascript" src="index.bundle.js"></script></body>
+</html>

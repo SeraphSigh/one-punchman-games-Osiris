@@ -1,0 +1,216 @@
+
+asset/anim/chuixuekapai.png
+size: 997,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_toufa4_chuixuekapai
+	rotate: false
+	xy: 828, 330
+	size: 42, 127
+	orig: 42, 127
+	offset: 0, 0
+	index: -1
+a_toufa3_chuixuekapai
+	rotate: false
+	xy: 871, 330
+	size: 49, 118
+	orig: 49, 118
+	offset: 0, 0
+	index: -1
+a_zuomeimao_chuixuekapai
+	rotate: false
+	xy: 512, 506
+	size: 28, 10
+	orig: 28, 10
+	offset: 0, 0
+	index: -1
+a_youxiaobi2_chuixuekapai
+	rotate: false
+	xy: 520, 365
+	size: 97, 55
+	orig: 97, 55
+	offset: 0, 0
+	index: -1
+a_bozi_chuixuekapai
+	rotate: false
+	xy: 921, 356
+	size: 64, 75
+	orig: 64, 75
+	offset: 0, 0
+	index: -1
+a_zuoshangyanpi_chuixuekapai
+	rotate: true
+	xy: 607, 449
+	size: 28, 22
+	orig: 28, 22
+	offset: 0, 0
+	index: -1
+a_yanzhu2_chuixuekapai
+	rotate: false
+	xy: 618, 404
+	size: 11, 8
+	orig: 11, 8
+	offset: 0, 0
+	index: -1
+a_toufa5_chuixuekapai
+	rotate: false
+	xy: 303, 365
+	size: 137, 130
+	orig: 137, 130
+	offset: 0, 0
+	index: -1
+a_youshou_chuixuekapai
+	rotate: true
+	xy: 0, 492
+	size: 21, 29
+	orig: 21, 29
+	offset: 0, 0
+	index: -1
+a_youdayi_chuixuekapai
+	rotate: false
+	xy: 630, 0
+	size: 176, 332
+	orig: 176, 332
+	offset: 0, 0
+	index: -1
+a_youxiaobi_chuixuekapai
+	rotate: false
+	xy: 931, 0
+	size: 66, 150
+	orig: 66, 150
+	offset: 0, 0
+	index: -1
+a_youtui_chuixuekapai
+	rotate: true
+	xy: 512, 472
+	size: 33, 94
+	orig: 33, 94
+	offset: 0, 0
+	index: -1
+a_youshangyanpi_chuixuekapai
+	rotate: true
+	xy: 606, 421
+	size: 27, 23
+	orig: 27, 23
+	offset: 0, 0
+	index: -1
+a_yanzhu1_chuixuekapai
+	rotate: false
+	xy: 618, 395
+	size: 11, 8
+	orig: 11, 8
+	offset: 0, 0
+	index: -1
+a_zuodabi_chuixuekapai
+	rotate: false
+	xy: 931, 151
+	size: 66, 124
+	orig: 66, 124
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi_chuixuekapai
+	rotate: false
+	xy: 807, 259
+	size: 113, 70
+	orig: 113, 70
+	offset: 0, 0
+	index: -1
+a_shenti_chuixuekapai
+	rotate: true
+	xy: 0, 0
+	size: 364, 629
+	orig: 364, 629
+	offset: 0, 0
+	index: -1
+a_youjiao_chuixuekapai
+	rotate: true
+	xy: 520, 421
+	size: 50, 85
+	orig: 50, 85
+	offset: 0, 0
+	index: -1
+a_houdayi_chuixuekapai
+	rotate: true
+	xy: 630, 333
+	size: 181, 197
+	orig: 181, 197
+	offset: 0, 0
+	index: -1
+a_toufa2_chuixuekapai
+	rotate: true
+	xy: 921, 432
+	size: 36, 69
+	orig: 36, 69
+	offset: 0, 0
+	index: -1
+a_zuojiao_chuixuekapai
+	rotate: true
+	xy: 921, 276
+	size: 79, 68
+	orig: 79, 68
+	offset: 0, 0
+	index: -1
+a_zuoyanjing_chuixuekapai
+	rotate: false
+	xy: 946, 469
+	size: 27, 16
+	orig: 27, 16
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui_chuixuekapai
+	rotate: true
+	xy: 866, 469
+	size: 41, 79
+	orig: 41, 79
+	offset: 0, 0
+	index: -1
+a_zuodayi1_chuixuekapai
+	rotate: true
+	xy: 0, 365
+	size: 126, 302
+	orig: 126, 302
+	offset: 0, 0
+	index: -1
+a_youyifuxiouzi_chuixuekapai
+	rotate: false
+	xy: 807, 0
+	size: 123, 258
+	orig: 123, 258
+	offset: 0, 0
+	index: -1
+a_zuoshou_chuixuekapai
+	rotate: true
+	xy: 828, 458
+	size: 54, 37
+	orig: 54, 37
+	offset: 0, 0
+	index: -1
+a_tou_chuixuekapai
+	rotate: false
+	xy: 441, 365
+	size: 78, 103
+	orig: 78, 103
+	offset: 0, 0
+	index: -1
+a_toufa1_chuixuekapai
+	rotate: true
+	xy: 441, 469
+	size: 40, 70
+	orig: 40, 70
+	offset: 0, 0
+	index: -1
+a_youyanjing_chuixuekapai
+	rotate: true
+	xy: 607, 478
+	size: 27, 15
+	orig: 27, 15
+	offset: 0, 0
+	index: -1
+a_youmeimao_chuixuekapai
+	rotate: true
+	xy: 618, 365
+	size: 29, 8
+	orig: 29, 8
+	offset: 0, 0
+	index: -1

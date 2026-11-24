@@ -1,0 +1,244 @@
+
+asset/anim/jinshuqiubang2SECOMMON8.png
+size: 956,885
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jinshuqiubang2_zaishengqian_018
+	rotate: false
+	xy: 748, 685
+	size: 159, 180
+	orig: 407, 518
+	offset: 132, 140
+	index: -1
+common/jinshuqiubang2_zaishengqian_020
+	rotate: true
+	xy: 364, 728
+	size: 157, 158
+	orig: 407, 518
+	offset: 132, 147
+	index: -1
+
+asset/anim/jinshuqiubang2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jinshuqiubang2_zaishengxian2_002
+	rotate: true
+	xy: 411, 760
+	size: 52, 327
+	orig: 72, 365
+	offset: 9, 12
+	index: -1
+common/jinshuqiubang2_zaishengqian_010
+	rotate: false
+	xy: 745, 375
+	size: 279, 270
+	orig: 407, 518
+	offset: 63, 76
+	index: -1
+common/jinshuqiubang2_zaishengqian_022
+	rotate: false
+	xy: 567, 876
+	size: 145, 148
+	orig: 407, 518
+	offset: 133, 154
+	index: -1
+common/jinshuqiubang2_zaishengqian_004
+	rotate: true
+	xy: 0, 760
+	size: 255, 410
+	orig: 407, 518
+	offset: 76, 75
+	index: -1
+common/jinshuqiubang2_zaishengqian_005
+	rotate: false
+	xy: 745, 646
+	size: 267, 376
+	orig: 407, 518
+	offset: 70, 72
+	index: -1
+common/jinshuqiubang2_zaishengqian_006
+	rotate: false
+	xy: 745, 0
+	size: 279, 374
+	orig: 407, 518
+	offset: 64, 53
+	index: -1
+
+asset/anim/jinshuqiubang2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jinshuqiubang2_zaishengqian_014
+	rotate: false
+	xy: 747, 429
+	size: 277, 226
+	orig: 407, 518
+	offset: 65, 104
+	index: -1
+common/jinshuqiubang2_zaishengqian_019
+	rotate: true
+	xy: 847, 656
+	size: 159, 174
+	orig: 407, 518
+	offset: 132, 144
+	index: -1
+
+asset/anim/jinshuqiubang2SECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jinshuqiubang2_zaishengqian_016
+	rotate: true
+	xy: 749, 768
+	size: 249, 220
+	orig: 407, 518
+	offset: 66, 104
+	index: -1
+common/jinshuqiubang2_zaishengqian_015
+	rotate: true
+	xy: 429, 760
+	size: 263, 222
+	orig: 407, 518
+	offset: 66, 104
+	index: -1
+common/jinshuqiubang2_zaishengqian_023
+	rotate: true
+	xy: 652, 760
+	size: 141, 96
+	orig: 407, 518
+	offset: 134, 176
+	index: -1
+common/jinshuqiubang2_zaishengqian_009
+	rotate: false
+	xy: 751, 0
+	size: 273, 338
+	orig: 407, 518
+	offset: 69, 52
+	index: -1
+
+asset/anim/jinshuqiubang2SECOMMON0.png
+size: 1023,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jinshuqiubang2_zaishengxian1_000
+	rotate: false
+	xy: 392, 764
+	size: 78, 255
+	orig: 78, 255
+	offset: 0, 0
+	index: -1
+common/jinshuqiubang2_zaishengqian_017
+	rotate: true
+	xy: 751, 858
+	size: 161, 186
+	orig: 407, 518
+	offset: 131, 137
+	index: -1
+common/jinshuqiubang2_wenzi
+	rotate: false
+	xy: 471, 988
+	size: 56, 33
+	orig: 56, 33
+	offset: 0, 0
+	index: -1
+
+asset/anim/jinshuqiubang2SECOMMON6.png
+size: 1024,993
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jinshuqiubang2_zaishengqian_002
+	rotate: true
+	xy: 310, 762
+	size: 189, 348
+	orig: 407, 518
+	offset: 107, 84
+	index: -1
+common/jinshuqiubang2_zaishengqian_003
+	rotate: false
+	xy: 0, 519
+	size: 309, 444
+	orig: 407, 518
+	offset: 45, 74
+	index: -1
+
+asset/anim/jinshuqiubang2SECOMMON5.png
+size: 1011,1007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jinshuqiubang2_zaishengqian_013
+	rotate: false
+	xy: 701, 720
+	size: 303, 250
+	orig: 407, 518
+	offset: 48, 82
+	index: -1
+common/jinshuqiubang2_zaishengqian_012
+	rotate: true
+	xy: 729, 0
+	size: 299, 268
+	orig: 407, 518
+	offset: 49, 80
+	index: -1
+common/jinshuqiubang2_zaishengqian_000
+	rotate: true
+	xy: 0, 899
+	size: 89, 312
+	orig: 407, 518
+	offset: 146, 123
+	index: -1
+common/jinshuqiubang2_zaishengqian_001
+	rotate: true
+	xy: 394, 775
+	size: 89, 306
+	orig: 407, 518
+	offset: 146, 125
+	index: -1
+common/jinshuqiubang2_zaishengqian_008
+	rotate: false
+	xy: 394, 380
+	size: 283, 394
+	orig: 407, 518
+	offset: 64, 40
+	index: -1
+
+asset/anim/jinshuqiubang2SECOMMON4.png
+size: 1024,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jinshuqiubang2_zaishengqian_011
+	rotate: true
+	xy: 743, 0
+	size: 287, 270
+	orig: 407, 518
+	offset: 56, 84
+	index: -1
+common/jinshuqiubang2_zaishengqian_021
+	rotate: true
+	xy: 870, 682
+	size: 155, 154
+	orig: 407, 518
+	offset: 133, 150
+	index: -1
+common/jinshuqiubang2_zaishengqian_024
+	rotate: false
+	xy: 870, 838
+	size: 135, 96
+	orig: 407, 518
+	offset: 137, 175
+	index: -1
+common/jinshuqiubang2_zaishengqian_007
+	rotate: true
+	xy: 0, 384
+	size: 287, 394
+	orig: 407, 518
+	offset: 61, 36
+	index: -1

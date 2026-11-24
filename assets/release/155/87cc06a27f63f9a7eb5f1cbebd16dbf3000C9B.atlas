@@ -1,0 +1,195 @@
+
+asset/anim/kingshizhuangkapai.png
+size: 620,465
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_neck_kingshizhuangkapai
+	rotate: false
+	xy: 501, 373
+	size: 67, 68
+	orig: 67, 68
+	offset: 0, 0
+	index: -1
+a_Lleg2_kingshizhuangkapai
+	rotate: false
+	xy: 342, 0
+	size: 89, 222
+	orig: 89, 222
+	offset: 0, 0
+	index: -1
+a_Lhair1_kingshizhuangkapai
+	rotate: true
+	xy: 569, 367
+	size: 40, 39
+	orig: 40, 39
+	offset: 0, 0
+	index: -1
+a_Rleg1_kingshizhuangkapai
+	rotate: true
+	xy: 204, 321
+	size: 79, 224
+	orig: 79, 224
+	offset: 0, 0
+	index: -1
+a_Larm2_kingshizhuangkapai
+	rotate: false
+	xy: 432, 69
+	size: 133, 120
+	orig: 133, 120
+	offset: 0, 0
+	index: -1
+a_hat_kingshizhuangkapai
+	rotate: true
+	xy: 501, 190
+	size: 92, 65
+	orig: 92, 65
+	offset: 0, 0
+	index: -1
+a_Rarm2_kingshizhuangkapai
+	rotate: false
+	xy: 567, 185
+	size: 50, 72
+	orig: 50, 72
+	offset: 0, 0
+	index: -1
+a_Lsheng_kingshizhuangkapai
+	rotate: false
+	xy: 569, 258
+	size: 28, 108
+	orig: 28, 108
+	offset: 0, 0
+	index: -1
+a_Lyanpi_kingshizhuangkapai
+	rotate: false
+	xy: 0, 456
+	size: 19, 9
+	orig: 19, 9
+	offset: 0, 0
+	index: -1
+a_Lleg1_kingshizhuangkapai
+	rotate: false
+	xy: 213, 0
+	size: 128, 242
+	orig: 128, 242
+	offset: 0, 0
+	index: -1
+a_Rleg2_kingshizhuangkapai
+	rotate: false
+	xy: 434, 190
+	size: 66, 208
+	orig: 66, 208
+	offset: 0, 0
+	index: -1
+a_Lbeidai_kingshizhuangkapai
+	rotate: true
+	xy: 432, 0
+	size: 68, 188
+	orig: 68, 188
+	offset: 0, 0
+	index: -1
+a_Lfoot_kingshizhuangkapai
+	rotate: false
+	xy: 429, 399
+	size: 69, 66
+	orig: 69, 66
+	offset: 0, 0
+	index: -1
+a_body_kingshizhuangkapai
+	rotate: false
+	xy: 0, 0
+	size: 212, 305
+	orig: 212, 305
+	offset: 0, 0
+	index: -1
+a_Rarm1_kingshizhuangkapai
+	rotate: true
+	xy: 0, 412
+	size: 43, 123
+	orig: 43, 123
+	offset: 0, 0
+	index: -1
+a_Rfoot_kingshizhuangkapai
+	rotate: true
+	xy: 566, 69
+	size: 115, 52
+	orig: 115, 52
+	offset: 0, 0
+	index: -1
+a_Ryan_kingshizhuangkapai
+	rotate: true
+	xy: 364, 460
+	size: 5, 6
+	orig: 5, 6
+	offset: 0, 0
+	index: -1
+a_kua_kingshizhuangkapai
+	rotate: false
+	xy: 204, 401
+	size: 159, 61
+	orig: 159, 61
+	offset: 0, 0
+	index: -1
+a_Rhair_kingshizhuangkapai
+	rotate: true
+	xy: 167, 412
+	size: 29, 36
+	orig: 29, 36
+	offset: 0, 0
+	index: -1
+a_dou_kingshizhuangkapai
+	rotate: false
+	xy: 364, 401
+	size: 61, 58
+	orig: 61, 58
+	offset: 0, 0
+	index: -1
+a_bag_kingshizhuangkapai
+	rotate: true
+	xy: 0, 306
+	size: 105, 203
+	orig: 105, 203
+	offset: 0, 0
+	index: -1
+a_Lyan_kingshizhuangkapai
+	rotate: false
+	xy: 204, 306
+	size: 7, 6
+	orig: 7, 6
+	offset: 0, 0
+	index: -1
+a_Ryanpi_kingshizhuangkapai
+	rotate: false
+	xy: 20, 456
+	size: 15, 9
+	orig: 15, 9
+	offset: 0, 0
+	index: -1
+a_Larm1_kingshizhuangkapai
+	rotate: true
+	xy: 213, 243
+	size: 77, 137
+	orig: 77, 137
+	offset: 0, 0
+	index: -1
+a_Lhair2_kingshizhuangkapai
+	rotate: false
+	xy: 124, 412
+	size: 42, 40
+	orig: 42, 40
+	offset: 0, 0
+	index: -1
+a_Rsheng_kingshizhuangkapai
+	rotate: false
+	xy: 501, 283
+	size: 67, 89
+	orig: 67, 89
+	offset: 0, 0
+	index: -1
+a_head_kingshizhuangkapai
+	rotate: false
+	xy: 351, 223
+	size: 82, 97
+	orig: 82, 97
+	offset: 0, 0
+	index: -1

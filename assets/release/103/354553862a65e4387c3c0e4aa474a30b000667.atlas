@@ -1,0 +1,89 @@
+
+asset/anim/qudongqishi2SECOMMON1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/qudongqishi2_shoujidian1_6
+	rotate: false
+	xy: 971, 259
+	size: 302, 278
+	orig: 312, 378
+	offset: 7, 51
+	index: -1
+common/qudongqishi2_shoujidian1_7
+	rotate: true
+	xy: 1782, 0
+	size: 288, 266
+	orig: 312, 378
+	offset: 21, 51
+	index: -1
+common/qudongqishi2_shoujidian1_5
+	rotate: true
+	xy: 1014, 538
+	size: 250, 266
+	orig: 312, 378
+	offset: 8, 63
+	index: -1
+common/qudongqishi2_shoujidian1_2
+	rotate: false
+	xy: 0, 261
+	size: 300, 358
+	orig: 312, 378
+	offset: 0, 17
+	index: -1
+common/qudongqishi2_shoujidian1_3
+	rotate: false
+	xy: 0, 620
+	size: 298, 354
+	orig: 312, 378
+	offset: 1, 18
+	index: -1
+common/qudongqishi2_shoujidian1_1
+	rotate: false
+	xy: 710, 261
+	size: 260, 302
+	orig: 312, 378
+	offset: 18, 36
+	index: -1
+common/qudongqishi2_shoujidian1_10
+	rotate: false
+	xy: 1730, 1394
+	size: 266, 222
+	orig: 312, 378
+	offset: 44, 93
+	index: -1
+common/qudongqishi2_shoujidian1_9
+	rotate: false
+	xy: 678, 1445
+	size: 276, 224
+	orig: 312, 378
+	offset: 30, 90
+	index: -1
+common/qudongqishi2_shoujidian1_11
+	rotate: false
+	xy: 688, 1218
+	size: 280, 226
+	orig: 312, 378
+	offset: 30, 89
+	index: -1
+common/qudongqishi2_shoujidian1_8
+	rotate: false
+	xy: 1727, 1617
+	size: 268, 222
+	orig: 312, 378
+	offset: 38, 78
+	index: -1
+
+asset/anim/qudongqishi2SECOMMON2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/qudongqishi2_shoujidian1_4
+	rotate: true
+	xy: 937, 371
+	size: 282, 348
+	orig: 312, 378
+	offset: 6, 19
+	index: -1

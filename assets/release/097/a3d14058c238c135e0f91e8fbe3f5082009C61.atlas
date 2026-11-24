@@ -1,0 +1,2444 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/sangfudiaodaiku2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_zuoxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 109, 0
+	size: 30, 53
+	orig: 30, 53
+	offset: 0, 0
+	index: -1
+j_bozi_sangfudiaodaiku
+	rotate: false
+	xy: 294, 281
+	size: 35, 30
+	orig: 35, 30
+	offset: 0, 0
+	index: -1
+i_zuodatui_sangfudiaodaiku
+	rotate: false
+	xy: 320, 81
+	size: 49, 39
+	orig: 49, 39
+	offset: 0, 0
+	index: -1
+w_zuoshou_sangfudiaodaiku
+	rotate: false
+	xy: 152, 151
+	size: 41, 37
+	orig: 41, 37
+	offset: 0, 0
+	index: -1
+k_bozi_sangfudiaodaiku
+	rotate: false
+	xy: 0, 390
+	size: 33, 30
+	orig: 33, 30
+	offset: 0, 0
+	index: -1
+d_youxiaobi_sangfudiaodaiku
+	rotate: false
+	xy: 454, 239
+	size: 36, 29
+	orig: 36, 29
+	offset: 0, 0
+	index: -1
+bozi_sangfudiaodaikubaozou
+	rotate: true
+	xy: 0, 328
+	size: 30, 36
+	orig: 30, 36
+	offset: 0, 0
+	index: -1
+p_youshou_sangfudiaodaiku
+	rotate: true
+	xy: 206, 126
+	size: 30, 44
+	orig: 30, 44
+	offset: 0, 0
+	index: -1
+w_zuoxiaobihou_sangfudiaodaiku
+	rotate: false
+	xy: 407, 151
+	size: 16, 15
+	orig: 16, 15
+	offset: 0, 0
+	index: -1
+x_youxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 480, 0
+	size: 46, 32
+	orig: 46, 32
+	offset: 0, 0
+	index: -1
+i_kua_sangfudiaodaiku
+	rotate: false
+	xy: 54, 46
+	size: 52, 38
+	orig: 52, 38
+	offset: 0, 0
+	index: -1
+k_youxiaobi_sangfudiaodaiku
+	rotate: false
+	xy: 69, 395
+	size: 29, 25
+	orig: 29, 25
+	offset: 0, 0
+	index: -1
+l_zuojia_sangfudiaodaiku
+	rotate: true
+	xy: 415, 86
+	size: 11, 12
+	orig: 11, 12
+	offset: 0, 0
+	index: -1
+k_youjiao_sangfudiaodaiku
+	rotate: true
+	xy: 256, 251
+	size: 24, 38
+	orig: 24, 38
+	offset: 0, 0
+	index: -1
+g_zuojiao_sangfudiaodaiku
+	rotate: true
+	xy: 40, 297
+	size: 26, 38
+	orig: 26, 38
+	offset: 0, 0
+	index: -1
+k_kua_b_sangfudiaodaiku
+	rotate: false
+	xy: 251, 126
+	size: 15, 13
+	orig: 15, 13
+	offset: 0, 0
+	index: -1
+z_shentihou_sangfudiaodaiku
+	rotate: true
+	xy: 384, 277
+	size: 32, 35
+	orig: 32, 35
+	offset: 0, 0
+	index: -1
+o_zuoxiaobi_sangfudiaodaiku
+	rotate: false
+	xy: 453, 300
+	size: 32, 27
+	orig: 32, 27
+	offset: 0, 0
+	index: -1
+p_kua_b_sangfudiaodaiku
+	rotate: false
+	xy: 251, 140
+	size: 15, 13
+	orig: 15, 13
+	offset: 0, 0
+	index: -1
+o_shenti_b_sangfudiaodaiku
+	rotate: true
+	xy: 234, 336
+	size: 27, 34
+	orig: 27, 34
+	offset: 0, 0
+	index: -1
+x_kua_sangfudiaodaiku
+	rotate: false
+	xy: 157, 105
+	size: 48, 45
+	orig: 48, 45
+	offset: 0, 0
+	index: -1
+k_shentihou_sangfudiaodaiku
+	rotate: true
+	xy: 480, 91
+	size: 39, 32
+	orig: 39, 32
+	offset: 0, 0
+	index: -1
+n_zuoxiaobi_sangfudiaodaiku
+	rotate: false
+	xy: 267, 162
+	size: 44, 27
+	orig: 44, 27
+	offset: 0, 0
+	index: -1
+q_shentihou_sangfudiaodaiku
+	rotate: false
+	xy: 0, 242
+	size: 39, 34
+	orig: 39, 34
+	offset: 0, 0
+	index: -1
+u_zuodabi_sangfudiaodaiku
+	rotate: true
+	xy: 428, 0
+	size: 45, 51
+	orig: 45, 51
+	offset: 0, 0
+	index: -1
+m_shentihou_sangfudiaodaiku
+	rotate: false
+	xy: 365, 310
+	size: 32, 25
+	orig: 32, 25
+	offset: 0, 0
+	index: -1
+yifukou1_sangfudiaodaikubaozou
+	rotate: true
+	xy: 161, 284
+	size: 33, 37
+	orig: 33, 37
+	offset: 0, 0
+	index: -1
+a_Rhand_sangfudiaodaiku
+	rotate: true
+	xy: 389, 252
+	size: 24, 36
+	orig: 24, 36
+	offset: 0, 0
+	index: -1
+g_youxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 0, 302
+	size: 25, 38
+	orig: 25, 38
+	offset: 0, 0
+	index: -1
+d_youshou_sangfudiaodaiku
+	rotate: false
+	xy: 357, 190
+	size: 43, 27
+	orig: 43, 27
+	offset: 0, 0
+	index: -1
+p_zuojiao_sangfudiaodaiku
+	rotate: false
+	xy: 40, 267
+	size: 39, 29
+	orig: 39, 29
+	offset: 0, 0
+	index: -1
+t_zuokou_sangfudiaodaiku
+	rotate: false
+	xy: 415, 108
+	size: 12, 9
+	orig: 12, 9
+	offset: 0, 0
+	index: -1
+k_zuodatui_sangfudiaodaiku
+	rotate: false
+	xy: 469, 170
+	size: 43, 37
+	orig: 43, 37
+	offset: 0, 0
+	index: -1
+p_youxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 216, 28
+	size: 33, 52
+	orig: 33, 52
+	offset: 0, 0
+	index: -1
+l_youxiaotui_sangfudiaodaiku
+	rotate: false
+	xy: 256, 276
+	size: 37, 34
+	orig: 37, 34
+	offset: 0, 0
+	index: -1
+o_youxiaobi_sangfudiaodaiku
+	rotate: false
+	xy: 454, 269
+	size: 33, 30
+	orig: 33, 30
+	offset: 0, 0
+	index: -1
+zuoxiabi_sangfudiaodaikubaozou
+	rotate: false
+	xy: 424, 154
+	size: 44, 30
+	orig: 44, 30
+	offset: 0, 0
+	index: -1
+o_youjiao_sangfudiaodaiku
+	rotate: true
+	xy: 267, 226
+	size: 24, 40
+	orig: 24, 40
+	offset: 0, 0
+	index: -1
+b_youdabi_sangfudiaodaiku
+	rotate: false
+	xy: 271, 0
+	size: 52, 51
+	orig: 52, 51
+	offset: 0, 0
+	index: -1
+x_youshou_sangfudiaodaiku
+	rotate: true
+	xy: 480, 47
+	size: 43, 32
+	orig: 43, 32
+	offset: 0, 0
+	index: -1
+h_youjia_sangfudiaodaiku
+	rotate: true
+	xy: 251, 154
+	size: 9, 15
+	orig: 9, 15
+	offset: 0, 0
+	index: -1
+q_yaodai_sangfudiaodaiku
+	rotate: false
+	xy: 194, 157
+	size: 41, 26
+	orig: 41, 26
+	offset: 0, 0
+	index: -1
+a_Lfoot_sangfudiaodaiku
+	rotate: false
+	xy: 312, 159
+	size: 44, 27
+	orig: 44, 27
+	offset: 0, 0
+	index: -1
+b_zuoxiaobi_sangfudiaodaiku
+	rotate: false
+	xy: 267, 190
+	size: 40, 35
+	orig: 40, 35
+	offset: 0, 0
+	index: -1
+a_youxiayanpi_sangfudiaodaiku
+	rotate: false
+	xy: 402, 167
+	size: 16, 13
+	orig: 16, 13
+	offset: 0, 0
+	index: -1
+n_shentihou_sangfudiaodaiku
+	rotate: false
+	xy: 426, 252
+	size: 27, 34
+	orig: 27, 34
+	offset: 0, 0
+	index: -1
+a_Lhand_sangfudiaodaiku
+	rotate: true
+	xy: 157, 318
+	size: 32, 34
+	orig: 32, 34
+	offset: 0, 0
+	index: -1
+c_shentihou_sangfudiaodaiku
+	rotate: false
+	xy: 269, 341
+	size: 30, 30
+	orig: 30, 30
+	offset: 0, 0
+	index: -1
+k_shenti_b_sangfudiaodaiku
+	rotate: false
+	xy: 488, 299
+	size: 24, 27
+	orig: 24, 27
+	offset: 0, 0
+	index: -1
+k_youdabi_sangfudiaodaiku
+	rotate: true
+	xy: 163, 28
+	size: 45, 52
+	orig: 45, 52
+	offset: 0, 0
+	index: -1
+n_kua_sangfudiaodaiku
+	rotate: true
+	xy: 324, 0
+	size: 49, 51
+	orig: 49, 51
+	offset: 0, 0
+	index: -1
+h_zuoshou_sangfudiaodaiku
+	rotate: true
+	xy: 427, 119
+	size: 34, 44
+	orig: 34, 44
+	offset: 0, 0
+	index: -1
+o_zuodatui_sangfudiaodaiku
+	rotate: false
+	xy: 308, 242
+	size: 39, 38
+	orig: 39, 38
+	offset: 0, 0
+	index: -1
+u_zuoxiaobi_sangfudiaodaiku
+	rotate: false
+	xy: 107, 75
+	size: 49, 48
+	orig: 49, 48
+	offset: 0, 0
+	index: -1
+i_youshou_sangfudiaodaiku
+	rotate: true
+	xy: 72, 362
+	size: 32, 33
+	orig: 32, 33
+	offset: 0, 0
+	index: -1
+o_shentihou_sangfudiaodaiku
+	rotate: false
+	xy: 119, 288
+	size: 37, 32
+	orig: 37, 32
+	offset: 0, 0
+	index: -1
+e_youxiaobi_sangfudiaodaiku
+	rotate: false
+	xy: 50, 134
+	size: 47, 28
+	orig: 47, 28
+	offset: 0, 0
+	index: -1
+youshou_sangfudiaodaikubaozou
+	rotate: false
+	xy: 46, 194
+	size: 41, 36
+	orig: 41, 36
+	offset: 0, 0
+	index: -1
+k_zuoxiaotui_sangfudiaodaiku
+	rotate: true
+	xy: 472, 131
+	size: 38, 40
+	orig: 38, 40
+	offset: 0, 0
+	index: -1
+a_Lfoot_sangfudiaodaikubaozou
+	rotate: false
+	xy: 267, 133
+	size: 44, 28
+	orig: 44, 28
+	offset: 0, 0
+	index: -1
+f_zuodabi_sangfudiaodaiku
+	rotate: false
+	xy: 324, 50
+	size: 51, 30
+	orig: 51, 30
+	offset: 0, 0
+	index: -1
+m_shenti_b_sangfudiaodaiku
+	rotate: false
+	xy: 106, 387
+	size: 29, 29
+	orig: 29, 29
+	offset: 0, 0
+	index: -1
+e_youshou_sangfudiaodaiku
+	rotate: false
+	xy: 281, 312
+	size: 34, 28
+	orig: 34, 28
+	offset: 0, 0
+	index: -1
+b_youxiaobi_sangfudiaodaiku
+	rotate: false
+	xy: 162, 74
+	size: 50, 30
+	orig: 50, 30
+	offset: 0, 0
+	index: -1
+q_shenti_b_sangfudiaodaiku
+	rotate: false
+	xy: 236, 164
+	size: 30, 39
+	orig: 30, 39
+	offset: 0, 0
+	index: -1
+a_sd_bsangfudiaodaiku
+	rotate: false
+	xy: 415, 118
+	size: 11, 16
+	orig: 11, 16
+	offset: 0, 0
+	index: -1
+j_zuodabi_sangfudiaodaiku
+	rotate: true
+	xy: 53, 85
+	size: 48, 49
+	orig: 48, 49
+	offset: 0, 0
+	index: -1
+d_zuodabi_sangfudiaodaiku
+	rotate: true
+	xy: 428, 46
+	size: 38, 51
+	orig: 38, 51
+	offset: 0, 0
+	index: -1
+e_zuojiao_sangfudiaodaiku
+	rotate: false
+	xy: 152, 351
+	size: 33, 33
+	orig: 33, 33
+	offset: 0, 0
+	index: -1
+youxiaobi_sangfudiaodaikubaozou
+	rotate: false
+	xy: 0, 207
+	size: 41, 34
+	orig: 41, 34
+	offset: 0, 0
+	index: -1
+d_shentihou_sangfudiaodaiku
+	rotate: true
+	xy: 199, 316
+	size: 33, 34
+	orig: 33, 34
+	offset: 0, 0
+	index: -1
+x_zuodabi_sangfudiaodaiku
+	rotate: false
+	xy: 0, 0
+	size: 54, 25
+	orig: 54, 25
+	offset: 0, 0
+	index: -1
+t_zuoshou_sangfudiaodaiku
+	rotate: false
+	xy: 80, 275
+	size: 38, 27
+	orig: 38, 27
+	offset: 0, 0
+	index: -1
+e_zuoshou_sangfudiaodaiku
+	rotate: false
+	xy: 145, 385
+	size: 30, 27
+	orig: 30, 27
+	offset: 0, 0
+	index: -1
+x_zuoshou_sangfudiaodaiku
+	rotate: true
+	xy: 39, 324
+	size: 32, 36
+	orig: 32, 36
+	offset: 0, 0
+	index: -1
+e_shentihou_sangfudiaodaiku
+	rotate: false
+	xy: 35, 388
+	size: 33, 30
+	orig: 33, 30
+	offset: 0, 0
+	index: -1
+l_youjia_sangfudiaodaiku
+	rotate: true
+	xy: 401, 205
+	size: 9, 14
+	orig: 9, 14
+	offset: 0, 0
+	index: -1
+c_zuoxiaobi_sangfudiaodaiku
+	rotate: false
+	xy: 357, 163
+	size: 44, 26
+	orig: 44, 26
+	offset: 0, 0
+	index: -1
+u_zuoshou_sangfudiaodaiku
+	rotate: false
+	xy: 137, 189
+	size: 39, 36
+	orig: 39, 36
+	offset: 0, 0
+	index: -1
+zuoshou_sangfudiaodaikubaozou
+	rotate: false
+	xy: 88, 207
+	size: 39, 36
+	orig: 39, 36
+	offset: 0, 0
+	index: -1
+i_youdatui_sangfudiaodaiku
+	rotate: true
+	xy: 267, 95
+	size: 37, 49
+	orig: 37, 49
+	offset: 0, 0
+	index: -1
+k_zuoxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 226, 364
+	size: 29, 30
+	orig: 29, 30
+	offset: 0, 0
+	index: -1
+c_zuojiao_sangfudiaodaiku
+	rotate: false
+	xy: 349, 218
+	size: 39, 38
+	orig: 39, 38
+	offset: 0, 0
+	index: -1
+d_zuoshou_sangfudiaodaiku
+	rotate: true
+	xy: 76, 330
+	size: 31, 34
+	orig: 31, 34
+	offset: 0, 0
+	index: -1
+b_zuoshou_sangfudiaodaiku
+	rotate: false
+	xy: 82, 244
+	size: 39, 30
+	orig: 39, 30
+	offset: 0, 0
+	index: -1
+j_kua_sangfudiaodaiku
+	rotate: false
+	xy: 376, 49
+	size: 51, 36
+	orig: 51, 36
+	offset: 0, 0
+	index: -1
+i_zuoxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 312, 187
+	size: 25, 44
+	orig: 25, 44
+	offset: 0, 0
+	index: -1
+k_youshou_sangfudiaodaiku
+	rotate: true
+	xy: 419, 185
+	size: 37, 42
+	orig: 37, 42
+	offset: 0, 0
+	index: -1
+p_youjiao_sangfudiaodaiku
+	rotate: true
+	xy: 0, 359
+	size: 30, 34
+	orig: 30, 34
+	offset: 0, 0
+	index: -1
+r_zuoshou_sangfudiaodaiku
+	rotate: true
+	xy: 95, 169
+	size: 37, 41
+	orig: 37, 41
+	offset: 0, 0
+	index: -1
+r_zuodabi_sangfudiaodaiku
+	rotate: true
+	xy: 376, 0
+	size: 48, 51
+	orig: 48, 51
+	offset: 0, 0
+	index: -1
+a_Rforearm_sangfudiaodaiku
+	rotate: true
+	xy: 217, 0
+	size: 27, 53
+	orig: 27, 53
+	offset: 0, 0
+	index: -1
+a_zuoxiayanpi_sangfudiaodaiku
+	rotate: false
+	xy: 401, 215
+	size: 9, 9
+	orig: 9, 9
+	offset: 0, 0
+	index: -1
+z_youjia_sangfudiaodaiku
+	rotate: true
+	xy: 401, 195
+	size: 9, 16
+	orig: 9, 16
+	offset: 0, 0
+	index: -1
+a_Rfoot_sangfudiaodaiku
+	rotate: true
+	xy: 316, 319
+	size: 30, 31
+	orig: 30, 31
+	offset: 0, 0
+	index: -1
+u_youshou_sangfudiaodaiku
+	rotate: false
+	xy: 213, 97
+	size: 49, 28
+	orig: 49, 28
+	offset: 0, 0
+	index: -1
+d_zuodatui_sangfudiaodaiku
+	rotate: true
+	xy: 0, 26
+	size: 43, 53
+	orig: 43, 53
+	offset: 0, 0
+	index: -1
+i_zuojiao_sangfudiaodaiku
+	rotate: false
+	xy: 0, 175
+	size: 45, 31
+	orig: 45, 31
+	offset: 0, 0
+	index: -1
+b_bozi_sangfudiaodaiku
+	rotate: true
+	xy: 177, 222
+	size: 33, 39
+	orig: 33, 39
+	offset: 0, 0
+	index: -1
+p_bozi_sangfudiaodaiku
+	rotate: false
+	xy: 235, 204
+	size: 31, 40
+	orig: 31, 40
+	offset: 0, 0
+	index: -1
+e_kua_b_sangfudiaodaiku
+	rotate: true
+	xy: 402, 181
+	size: 13, 16
+	orig: 13, 16
+	offset: 0, 0
+	index: -1
+p_youxiaotui_sangfudiaodaiku
+	rotate: false
+	xy: 122, 260
+	size: 38, 27
+	orig: 38, 27
+	offset: 0, 0
+	index: -1
+k_zuodabi_sangfudiaodaiku
+	rotate: false
+	xy: 109, 31
+	size: 52, 43
+	orig: 52, 43
+	offset: 0, 0
+	index: -1
+d_kua_sangfudiaodaiku
+	rotate: false
+	xy: 0, 109
+	size: 49, 39
+	orig: 49, 39
+	offset: 0, 0
+	index: -1
+a_Rarm_sangfudiaodaiku
+	rotate: false
+	xy: 370, 86
+	size: 44, 39
+	orig: 44, 39
+	offset: 0, 0
+	index: -1
+k_zuoshou_sangfudiaodaiku
+	rotate: false
+	xy: 317, 121
+	size: 44, 37
+	orig: 44, 37
+	offset: 0, 0
+	index: -1
+g_zuoxiaotui_sangfudiaodaiku
+	rotate: true
+	xy: 207, 282
+	size: 33, 37
+	orig: 33, 37
+	offset: 0, 0
+	index: -1
+d_zuoxiaobi_sangfudiaodaiku
+	rotate: false
+	xy: 0, 277
+	size: 39, 24
+	orig: 39, 24
+	offset: 0, 0
+	index: -1
+p_shenti_b_sangfudiaodaiku
+	rotate: false
+	xy: 486, 327
+	size: 26, 30
+	orig: 26, 30
+	offset: 0, 0
+	index: -1
+m_zuojiaoqian_sangfudiaodaiku
+	rotate: false
+	xy: 308, 213
+	size: 40, 28
+	orig: 40, 28
+	offset: 0, 0
+	index: -1
+j_zuoxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 462, 208
+	size: 30, 42
+	orig: 30, 42
+	offset: 0, 0
+	index: -1
+d_zuojiao_sangfudiaodaiku
+	rotate: false
+	xy: 186, 384
+	size: 30, 27
+	orig: 30, 27
+	offset: 0, 0
+	index: -1
+n_zuoshou_sangfudiaodaiku
+	rotate: false
+	xy: 269, 52
+	size: 50, 42
+	orig: 50, 42
+	offset: 0, 0
+	index: -1
+youdabi_sangfudiaodaikubaozou
+	rotate: false
+	xy: 48, 163
+	size: 46, 30
+	orig: 46, 30
+	offset: 0, 0
+	index: -1
+a_bozi_sangfudiaodaiku
+	rotate: false
+	xy: 192, 350
+	size: 33, 33
+	orig: 33, 33
+	offset: 0, 0
+	index: -1
+n_shenti_b_sangfudiaodaiku
+	rotate: false
+	xy: 34, 419
+	size: 28, 25
+	orig: 28, 25
+	offset: 0, 0
+	index: -1
+w_youshou_sangfudiaodaiku
+	rotate: true
+	xy: 42, 231
+	size: 35, 39
+	orig: 35, 39
+	offset: 0, 0
+	index: -1
+r_youshou_sangfudiaodaiku
+	rotate: true
+	xy: 348, 257
+	size: 32, 35
+	orig: 32, 35
+	offset: 0, 0
+	index: -1
+b_zuodabi_sangfudiaodaiku
+	rotate: true
+	xy: 216, 62
+	size: 34, 50
+	orig: 34, 50
+	offset: 0, 0
+	index: -1
+j_zuoshou_sangfudiaodaiku
+	rotate: true
+	xy: 37, 357
+	size: 30, 34
+	orig: 30, 34
+	offset: 0, 0
+	index: -1
+b_youjiap_sangfudiaodaiku
+	rotate: true
+	xy: 488, 269
+	size: 29, 24
+	orig: 29, 24
+	offset: 0, 0
+	index: -1
+v_youxiaobi_sangfudiaodaiku
+	rotate: false
+	xy: 103, 124
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1
+f_zuoxiaotui_sangfudiaodaiku
+	rotate: false
+	xy: 194, 184
+	size: 40, 37
+	orig: 40, 37
+	offset: 0, 0
+	index: -1
+o_zuojiao_sangfudiaodaiku
+	rotate: true
+	xy: 0, 149
+	size: 25, 47
+	orig: 25, 47
+	offset: 0, 0
+	index: -1
+o_zuoshou_sangfudiaodaiku
+	rotate: true
+	xy: 217, 245
+	size: 36, 38
+	orig: 36, 38
+	offset: 0, 0
+	index: -1
+f_youshou_sangfudiaodaiku
+	rotate: true
+	xy: 128, 226
+	size: 33, 39
+	orig: 33, 39
+	offset: 0, 0
+	index: -1
+x_zuoxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 428, 85
+	size: 33, 51
+	orig: 33, 51
+	offset: 0, 0
+	index: -1
+b_youshou_sangfudiaodaiku
+	rotate: false
+	xy: 330, 290
+	size: 34, 28
+	orig: 34, 28
+	offset: 0, 0
+	index: -1
+a_Larm_sangfudiaodaiku
+	rotate: true
+	xy: 411, 223
+	size: 28, 42
+	orig: 28, 42
+	offset: 0, 0
+	index: -1
+w_zuoxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 362, 126
+	size: 36, 44
+	orig: 36, 44
+	offset: 0, 0
+	index: -1
+f_zuoxiaobi_sangfudiaodaiku
+	rotate: false
+	xy: 163, 0
+	size: 53, 27
+	orig: 53, 27
+	offset: 0, 0
+	index: -1
+c_shenti_b_sangfudiaodaiku
+	rotate: true
+	xy: 245, 311
+	size: 24, 35
+	orig: 24, 35
+	offset: 0, 0
+	index: -1
+p_zuoxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 0, 70
+	size: 38, 52
+	orig: 38, 52
+	offset: 0, 0
+	index: -1
+l_zuodabi_sangfudiaodaiku
+	rotate: false
+	xy: 55, 0
+	size: 53, 45
+	orig: 53, 45
+	offset: 0, 0
+	index: -1
+n_kua_b_sangfudiaodaiku
+	rotate: false
+	xy: 407, 135
+	size: 16, 15
+	orig: 16, 15
+	offset: 0, 0
+	index: -1
+b_zuojiao_sangfudiaodaiku
+	rotate: false
+	xy: 79, 303
+	size: 37, 26
+	orig: 37, 26
+	offset: 0, 0
+	index: -1
+e_zuoxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 111, 354
+	size: 32, 33
+	orig: 32, 33
+	offset: 0, 0
+	index: -1
+f_zuoshou_sangfudiaodaiku
+	rotate: false
+	xy: 168, 256
+	size: 38, 27
+	orig: 38, 27
+	offset: 0, 0
+	index: -1
+j_youshou_sangfudiaodaiku
+	rotate: true
+	xy: 117, 321
+	size: 32, 34
+	orig: 32, 34
+	offset: 0, 0
+	index: -1
+a_Rfoot_sangfudiaodaikubaozou
+	rotate: true
+	xy: 420, 287
+	size: 31, 32
+	orig: 31, 32
+	offset: 0, 0
+	index: -1
+e_shenti_b_sangfudiaodaiku
+	rotate: false
+	xy: 0, 421
+	size: 27, 27
+	orig: 27, 27
+	offset: 0, 0
+	index: -1
+a_zuoshangyanpi_sangfudiaodaiku
+	rotate: false
+	xy: 415, 98
+	size: 12, 9
+	orig: 12, 9
+	offset: 0, 0
+	index: -1
+
+asset/anim/sangfudiaodaiku0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+v_youdabi_sangfudiaodaiku
+	rotate: true
+	xy: 463, 182
+	size: 65, 49
+	orig: 65, 49
+	offset: 0, 0
+	index: -1
+p_zuoxiaotui_sangfudiaodaiku
+	rotate: true
+	xy: 286, 46
+	size: 52, 86
+	orig: 52, 86
+	offset: 0, 0
+	index: -1
+o_youshou_sangfudiaodaiku
+	rotate: false
+	xy: 150, 402
+	size: 49, 35
+	orig: 49, 35
+	offset: 0, 0
+	index: -1
+a_Rsuspender1_sangfudiaodaiku
+	rotate: false
+	xy: 189, 438
+	size: 37, 74
+	orig: 37, 74
+	offset: 0, 0
+	index: -1
+b_kua_sangfudiaodaiku
+	rotate: false
+	xy: 456, 298
+	size: 56, 39
+	orig: 56, 39
+	offset: 0, 0
+	index: -1
+j_youdabi_sangfudiaodaiku
+	rotate: false
+	xy: 216, 201
+	size: 78, 48
+	orig: 78, 48
+	offset: 0, 0
+	index: -1
+t_zuoqiandai_sangfudiaodaiku
+	rotate: false
+	xy: 0, 298
+	size: 14, 139
+	orig: 14, 139
+	offset: 0, 0
+	index: -1
+b_tou_sangfudiaodaiku
+	rotate: false
+	xy: 216, 102
+	size: 83, 98
+	orig: 83, 98
+	offset: 0, 0
+	index: -1
+g_youshouhou_sangfudiaodaiku
+	rotate: false
+	xy: 490, 167
+	size: 22, 14
+	orig: 22, 14
+	offset: 0, 0
+	index: -1
+w_zuodabi_sangfudiaodaiku
+	rotate: true
+	xy: 307, 250
+	size: 47, 56
+	orig: 47, 56
+	offset: 0, 0
+	index: -1
+a_Lsuspender1_sangfudiaodaiku
+	rotate: false
+	xy: 438, 182
+	size: 24, 67
+	orig: 24, 67
+	offset: 0, 0
+	index: -1
+i_youxiaotui_sangfudiaodaiku
+	rotate: false
+	xy: 263, 397
+	size: 61, 40
+	orig: 61, 40
+	offset: 0, 0
+	index: -1
+x_zuoxiaotui_sangfudiaodaiku
+	rotate: false
+	xy: 373, 182
+	size: 64, 67
+	orig: 64, 67
+	offset: 0, 0
+	index: -1
+h_zuodabi_sangfudiaodaiku
+	rotate: false
+	xy: 227, 46
+	size: 41, 55
+	orig: 41, 55
+	offset: 0, 0
+	index: -1
+q_shenti_sangfudiaodaiku
+	rotate: true
+	xy: 0, 438
+	size: 74, 98
+	orig: 74, 98
+	offset: 0, 0
+	index: -1
+gedang_sangfudiaodaiku
+	rotate: false
+	xy: 31, 298
+	size: 78, 111
+	orig: 78, 115
+	offset: 0, 4
+	index: -1
+t_shenti_sangfudiaodaiku
+	rotate: false
+	xy: 388, 423
+	size: 91, 89
+	orig: 91, 89
+	offset: 0, 0
+	index: -1
+k_youxiaobihou_sangfudiaodaiku
+	rotate: false
+	xy: 358, 498
+	size: 24, 14
+	orig: 24, 14
+	offset: 0, 0
+	index: -1
+j_tou_sangfudiaodaiku
+	rotate: false
+	xy: 363, 298
+	size: 92, 94
+	orig: 92, 94
+	offset: 0, 0
+	index: -1
+c_zuodatui_sangfudiaodaiku
+	rotate: false
+	xy: 388, 393
+	size: 60, 29
+	orig: 60, 29
+	offset: 0, 0
+	index: -1
+tou_sangfudiaodaikubaozou
+	rotate: false
+	xy: 192, 298
+	size: 84, 98
+	orig: 84, 98
+	offset: 0, 0
+	index: -1
+m_zuojiaohou_sangfudiaodaiku
+	rotate: false
+	xy: 121, 402
+	size: 21, 6
+	orig: 21, 6
+	offset: 0, 0
+	index: -1
+a_Lshin_sangfudiaodaiku
+	rotate: true
+	xy: 93, 410
+	size: 27, 56
+	orig: 27, 56
+	offset: 0, 0
+	index: -1
+p_zuodatui_sangfudiaodaiku
+	rotate: false
+	xy: 456, 59
+	size: 56, 51
+	orig: 56, 51
+	offset: 0, 0
+	index: -1
+a_Lthumb_sangfudiaodaiku
+	rotate: false
+	xy: 110, 402
+	size: 10, 7
+	orig: 10, 7
+	offset: 0, 0
+	index: -1
+s_youdabi_sangfudiaodaiku
+	rotate: false
+	xy: 227, 0
+	size: 68, 45
+	orig: 68, 45
+	offset: 0, 0
+	index: -1
+o_kua_sangfudiaodaiku
+	rotate: false
+	xy: 157, 102
+	size: 58, 46
+	orig: 58, 46
+	offset: 0, 0
+	index: -1
+j_youxiaotui_sangfudiaodaiku
+	rotate: true
+	xy: 160, 250
+	size: 47, 87
+	orig: 47, 87
+	offset: 0, 0
+	index: -1
+o_youdabi_sangfudiaodaiku
+	rotate: true
+	xy: 227, 438
+	size: 74, 36
+	orig: 74, 36
+	offset: 0, 0
+	index: -1
+x_youxiaotui_sangfudiaodaiku
+	rotate: false
+	xy: 300, 99
+	size: 68, 34
+	orig: 68, 34
+	offset: 0, 0
+	index: -1
+o_youxiaotui_sangfudiaodaiku
+	rotate: true
+	xy: 200, 397
+	size: 40, 62
+	orig: 40, 62
+	offset: 0, 0
+	index: -1
+shangshen_sangfudiaodaikubaozou
+	rotate: false
+	xy: 277, 298
+	size: 85, 95
+	orig: 85, 95
+	offset: 0, 0
+	index: -1
+k_zuoxiaobihou_sangfudiaodaiku
+	rotate: false
+	xy: 330, 498
+	size: 27, 14
+	orig: 27, 14
+	offset: 0, 0
+	index: -1
+j_zuoxiaotui_sangfudiaodaiku
+	rotate: false
+	xy: 456, 0
+	size: 56, 58
+	orig: 56, 58
+	offset: 0, 0
+	index: -1
+r_youdabi_sangfudiaodaiku
+	rotate: false
+	xy: 330, 438
+	size: 57, 59
+	orig: 57, 59
+	offset: 0, 0
+	index: -1
+t_zuohoudai_sangfudiaodaiku
+	rotate: false
+	xy: 15, 298
+	size: 15, 138
+	orig: 15, 138
+	offset: 0, 0
+	index: -1
+k_youdatui_sangfudiaodaiku
+	rotate: false
+	xy: 295, 201
+	size: 77, 48
+	orig: 77, 48
+	offset: 0, 0
+	index: -1
+p_tou_2_sangfudiaodaiku
+	rotate: false
+	xy: 137, 149
+	size: 78, 100
+	orig: 78, 100
+	offset: 0, 0
+	index: -1
+a_Lforearm_sangfudiaodaiku
+	rotate: false
+	xy: 269, 46
+	size: 16, 55
+	orig: 16, 55
+	offset: 0, 0
+	index: -1
+a_body_sangfudiaodaiku
+	rotate: false
+	xy: 144, 0
+	size: 82, 101
+	orig: 82, 101
+	offset: 0, 0
+	index: -1
+a_glasses_sangfudiaodaiku
+	rotate: false
+	xy: 31, 410
+	size: 61, 27
+	orig: 61, 27
+	offset: 0, 0
+	index: -1
+o_shenti_sangfudiaodaiku
+	rotate: false
+	xy: 57, 0
+	size: 86, 101
+	orig: 86, 101
+	offset: 0, 0
+	index: -1
+x_shenti_sangfudiaodaiku
+	rotate: false
+	xy: 373, 94
+	size: 82, 87
+	orig: 82, 87
+	offset: 0, 0
+	index: -1
+a_tou_sangfudiaodaiku
+	rotate: false
+	xy: 373, 0
+	size: 82, 93
+	orig: 82, 93
+	offset: 0, 0
+	index: -1
+m_zuoxiaotuihou_sangfudiaodaiku
+	rotate: false
+	xy: 480, 490
+	size: 23, 22
+	orig: 23, 22
+	offset: 0, 0
+	index: -1
+m_kua_sangfudiaodaiku
+	rotate: false
+	xy: 418, 250
+	size: 52, 47
+	orig: 52, 47
+	offset: 0, 0
+	index: -1
+o_youdatui_sangfudiaodaiku
+	rotate: false
+	xy: 296, 438
+	size: 33, 70
+	orig: 33, 70
+	offset: 0, 0
+	index: -1
+t_youhoudai_sangfudiaodaiku
+	rotate: false
+	xy: 0, 0
+	size: 56, 148
+	orig: 56, 148
+	offset: 0, 0
+	index: -1
+o_zuoxiaotui_sangfudiaodaiku
+	rotate: false
+	xy: 264, 438
+	size: 31, 72
+	orig: 31, 72
+	offset: 0, 0
+	index: -1
+k_tou_sangfudiaodaiku
+	rotate: false
+	xy: 110, 298
+	size: 81, 103
+	orig: 81, 103
+	offset: 0, 0
+	index: -1
+y_shenti_sangfudiaodaiku
+	rotate: false
+	xy: 99, 438
+	size: 89, 74
+	orig: 89, 74
+	offset: 0, 0
+	index: -1
+e_youdatui_sangfudiaodaiku
+	rotate: false
+	xy: 480, 423
+	size: 32, 66
+	orig: 32, 66
+	offset: 0, 0
+	index: -1
+t_youqiandai_sangfudiaodaiku
+	rotate: false
+	xy: 0, 149
+	size: 50, 148
+	orig: 50, 148
+	offset: 0, 0
+	index: -1
+zuodabi_sangfudiaodaikubaozou
+	rotate: false
+	xy: 490, 111
+	size: 22, 55
+	orig: 22, 55
+	offset: 0, 0
+	index: -1
+u_youdabi_sangfudiaodaiku
+	rotate: true
+	xy: 325, 394
+	size: 43, 62
+	orig: 43, 62
+	offset: 0, 0
+	index: -1
+h_kua_sangfudiaodaiku
+	rotate: false
+	xy: 248, 250
+	size: 58, 47
+	orig: 58, 47
+	offset: 0, 0
+	index: -1
+u_youxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 456, 371
+	size: 51, 55
+	orig: 51, 55
+	offset: 0, 0
+	index: -1
+z_shenti_sangfudiaodaiku
+	rotate: false
+	xy: 51, 149
+	size: 85, 108
+	orig: 85, 108
+	offset: 0, 0
+	index: -1
+m_zuoxiaotui_sangfudiaodaiku
+	rotate: false
+	xy: 57, 102
+	size: 99, 46
+	orig: 99, 46
+	offset: 0, 0
+	index: -1
+h_zuoxiaotui_sangfudiaodaiku
+	rotate: true
+	xy: 51, 258
+	size: 39, 108
+	orig: 39, 108
+	offset: 0, 0
+	index: -1
+l_kua_sangfudiaodaiku
+	rotate: false
+	xy: 364, 250
+	size: 53, 47
+	orig: 53, 47
+	offset: 0, 0
+	index: -1
+t_youxiaobi_sangfudiaodaiku
+	rotate: false
+	xy: 345, 134
+	size: 25, 66
+	orig: 25, 66
+	offset: 0, 0
+	index: -1
+e_zuodatui_sangfudiaodaiku
+	rotate: true
+	xy: 456, 111
+	size: 70, 33
+	orig: 70, 33
+	offset: 0, 0
+	index: -1
+a_Rshin_sangfudiaodaiku
+	rotate: false
+	xy: 300, 134
+	size: 44, 66
+	orig: 44, 66
+	offset: 0, 0
+	index: -1
+e_youxiaobihou_sangfudiaodaiku
+	rotate: false
+	xy: 504, 490
+	size: 8, 22
+	orig: 8, 22
+	offset: 0, 0
+	index: -1
+r_youxiaobi_sangfudiaodaiku
+	rotate: false
+	xy: 456, 338
+	size: 56, 32
+	orig: 56, 32
+	offset: 0, 0
+	index: -1
+j_youjiao_sangfudiaodaiku
+	rotate: false
+	xy: 471, 248
+	size: 41, 48
+	orig: 41, 48
+	offset: 0, 0
+	index: -1
+x_youdabi_sangfudiaodaiku
+	rotate: true
+	xy: 300, 0
+	size: 45, 69
+	orig: 45, 69
+	offset: 0, 0
+	index: -1
+
+asset/anim/sangfudiaodaiku1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e_youxiaotui_sangfudiaodaiku
+	rotate: true
+	xy: 0, 215
+	size: 31, 66
+	orig: 31, 66
+	offset: 0, 0
+	index: -1
+a_youshangyanpi_sangfudiaodaiku
+	rotate: true
+	xy: 98, 492
+	size: 19, 13
+	orig: 19, 13
+	offset: 0, 0
+	index: -1
+a_jingpian2_sangfudiaodaiku
+	rotate: false
+	xy: 359, 217
+	size: 12, 14
+	orig: 12, 14
+	offset: 0, 0
+	index: -1
+b_youxiaotui_sangfudiaodaiku
+	rotate: false
+	xy: 150, 434
+	size: 37, 57
+	orig: 37, 57
+	offset: 0, 0
+	index: -1
+a_Rsuspender2_sangfudiaodaiku
+	rotate: false
+	xy: 232, 492
+	size: 16, 16
+	orig: 16, 16
+	offset: 0, 0
+	index: -1
+v_youshou_sangfudiaodaiku
+	rotate: false
+	xy: 257, 389
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1
+a_hair1_sangfudiaodaiku
+	rotate: false
+	xy: 352, 489
+	size: 15, 23
+	orig: 15, 23
+	offset: 0, 0
+	index: -1
+yaodaikou_sangfudiaodaikubaozou
+	rotate: false
+	xy: 432, 323
+	size: 17, 15
+	orig: 17, 15
+	offset: 0, 0
+	index: -1
+a_Lsuspender2_sangfudiaodaiku
+	rotate: true
+	xy: 73, 492
+	size: 20, 8
+	orig: 20, 8
+	offset: 0, 0
+	index: -1
+n_zuodabi_sangfudiaodaiku
+	rotate: true
+	xy: 451, 179
+	size: 48, 61
+	orig: 48, 61
+	offset: 0, 0
+	index: -1
+t_youdabi_sangfudiaodaiku
+	rotate: true
+	xy: 372, 335
+	size: 54, 58
+	orig: 54, 58
+	offset: 0, 0
+	index: -1
+h_youshou_sangfudiaodaiku
+	rotate: false
+	xy: 431, 339
+	size: 18, 47
+	orig: 18, 47
+	offset: 0, 0
+	index: -1
+z_shenti_b_sangfudiaodaiku
+	rotate: false
+	xy: 342, 246
+	size: 29, 47
+	orig: 29, 47
+	offset: 0, 0
+	index: -1
+b_youxiaobihou_sangfudiaodaiku
+	rotate: false
+	xy: 207, 492
+	size: 13, 17
+	orig: 13, 17
+	offset: 0, 0
+	index: -1
+x_zuojiao_sangfudiaodaiku
+	rotate: true
+	xy: 55, 247
+	size: 53, 31
+	orig: 53, 31
+	offset: 0, 0
+	index: -1
+i_youdabi_sangfudiaodaiku
+	rotate: false
+	xy: 248, 434
+	size: 40, 54
+	orig: 40, 64
+	offset: 0, 10
+	index: -1
+a_beijizui_sangfudiaodaiku
+	rotate: true
+	xy: 233, 354
+	size: 17, 14
+	orig: 17, 14
+	offset: 0, 0
+	index: -1
+p_youdabi_sangfudiaodaiku
+	rotate: true
+	xy: 317, 442
+	size: 46, 50
+	orig: 46, 50
+	offset: 0, 0
+	index: -1
+h_zuodatui_sangfudiaodaiku
+	rotate: true
+	xy: 277, 245
+	size: 36, 64
+	orig: 36, 64
+	offset: 0, 0
+	index: -1
+t_shenti_b_sangfudiaodaiku
+	rotate: false
+	xy: 223, 434
+	size: 24, 57
+	orig: 24, 57
+	offset: 0, 0
+	index: -1
+e_shenti_sangfudiaodaiku
+	rotate: false
+	xy: 373, 0
+	size: 91, 86
+	orig: 91, 86
+	offset: 0, 0
+	index: -1
+d_youxiaotui_sangfudiaodaiku
+	rotate: false
+	xy: 339, 294
+	size: 32, 60
+	orig: 32, 60
+	offset: 0, 0
+	index: -1
+k_zuojiao_sangfudiaodaiku
+	rotate: true
+	xy: 248, 362
+	size: 26, 48
+	orig: 26, 48
+	offset: 0, 0
+	index: -1
+v_zuoshou_sangfudiaodaiku
+	rotate: false
+	xy: 368, 471
+	size: 44, 41
+	orig: 44, 41
+	offset: 0, 0
+	index: -1
+b_zuodatui_sangfudiaodaiku
+	rotate: false
+	xy: 321, 389
+	size: 50, 52
+	orig: 50, 52
+	offset: 0, 0
+	index: -1
+h_kua_b_sangfudiaodaiku
+	rotate: false
+	xy: 495, 471
+	size: 16, 15
+	orig: 16, 15
+	offset: 0, 0
+	index: -1
+n_shenti_sangfudiaodaiku
+	rotate: true
+	xy: 372, 87
+	size: 85, 90
+	orig: 85, 90
+	offset: 0, 0
+	index: -1
+f_zuodatui_sangfudiaodaiku
+	rotate: true
+	xy: 154, 229
+	size: 63, 32
+	orig: 63, 32
+	offset: 0, 0
+	index: -1
+d_kua_b_sangfudiaodaiku
+	rotate: true
+	xy: 306, 389
+	size: 15, 14
+	orig: 15, 14
+	offset: 0, 0
+	index: -1
+e_zuoxiaotui_sangfudiaodaiku
+	rotate: false
+	xy: 87, 242
+	size: 65, 26
+	orig: 65, 26
+	offset: 0, 0
+	index: -1
+c_kua_b_sangfudiaodaiku
+	rotate: false
+	xy: 67, 214
+	size: 19, 16
+	orig: 19, 16
+	offset: 0, 0
+	index: -1
+youdatui_sangfudiaodaikubaozou
+	rotate: false
+	xy: 0, 337
+	size: 57, 52
+	orig: 57, 52
+	offset: 0, 0
+	index: -1
+k_sd_b_sangfudiaodaiku
+	rotate: false
+	xy: 359, 163
+	size: 12, 18
+	orig: 12, 18
+	offset: 0, 0
+	index: -1
+l_zuoshou_sangfudiaodaiku
+	rotate: true
+	xy: 427, 406
+	size: 38, 22
+	orig: 38, 22
+	offset: 0, 0
+	index: -1
+k_youxiaotui_sangfudiaodaiku
+	rotate: false
+	xy: 372, 173
+	size: 78, 44
+	orig: 78, 44
+	offset: 0, 0
+	index: -1
+a_jingpian_sangfudiaodaiku
+	rotate: false
+	xy: 67, 231
+	size: 19, 15
+	orig: 19, 15
+	offset: 0, 0
+	index: -1
+x_zuodatui_sangfudiaodaiku
+	rotate: false
+	xy: 187, 172
+	size: 65, 42
+	orig: 65, 42
+	offset: 0, 0
+	index: -1
+x_youdatui_sangfudiaodaiku
+	rotate: true
+	xy: 0, 390
+	size: 43, 54
+	orig: 43, 54
+	offset: 0, 0
+	index: -1
+b_sd_b_sangfudiaodaiku
+	rotate: false
+	xy: 221, 492
+	size: 10, 17
+	orig: 10, 17
+	offset: 0, 0
+	index: -1
+a_Rthigh_sangfudiaodaiku
+	rotate: false
+	xy: 58, 337
+	size: 45, 53
+	orig: 45, 53
+	offset: 0, 0
+	index: -1
+e_youdabi_sangfudiaodaiku
+	rotate: false
+	xy: 413, 471
+	size: 41, 41
+	orig: 41, 41
+	offset: 0, 0
+	index: -1
+m_shenti_sangfudiaodaiku
+	rotate: false
+	xy: 94, 0
+	size: 92, 85
+	orig: 92, 85
+	offset: 0, 0
+	index: -1
+dang_sangfudiaodaikubaozou
+	rotate: false
+	xy: 372, 253
+	size: 60, 44
+	orig: 60, 44
+	offset: 0, 0
+	index: -1
+t_youshou_sangfudiaodaiku
+	rotate: true
+	xy: 433, 253
+	size: 37, 16
+	orig: 37, 16
+	offset: 0, 0
+	index: -1
+c_zuoshou_sangfudiaodaiku
+	rotate: true
+	xy: 253, 270
+	size: 40, 23
+	orig: 40, 23
+	offset: 0, 0
+	index: -1
+i_youxiaobihou_sangfudiaodaiku
+	rotate: false
+	xy: 131, 492
+	size: 16, 18
+	orig: 16, 18
+	offset: 0, 0
+	index: -1
+j_youdatui_sangfudiaodaiku
+	rotate: false
+	xy: 55, 434
+	size: 53, 57
+	orig: 53, 57
+	offset: 0, 0
+	index: -1
+l_kua_b_sangfudiaodaiku
+	rotate: true
+	xy: 233, 335
+	size: 18, 14
+	orig: 18, 14
+	offset: 0, 0
+	index: -1
+b_kua_b_sangfudiaodaiku
+	rotate: true
+	xy: 177, 492
+	size: 17, 14
+	orig: 17, 14
+	offset: 0, 0
+	index: -1
+y_youjia_sangfudiaodaiku
+	rotate: false
+	xy: 306, 405
+	size: 14, 10
+	orig: 14, 10
+	offset: 0, 0
+	index: -1
+k_kua_sangfudiaodaiku
+	rotate: false
+	xy: 87, 200
+	size: 66, 41
+	orig: 66, 41
+	offset: 0, 0
+	index: -1
+s_youshou_sangfudiaodaiku
+	rotate: true
+	xy: 140, 347
+	size: 41, 45
+	orig: 41, 45
+	offset: 0, 0
+	index: -1
+h_zuoxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 104, 346
+	size: 42, 35
+	orig: 42, 35
+	offset: 0, 0
+	index: -1
+b_youdatui_sangfudiaodaiku
+	rotate: true
+	xy: 0, 293
+	size: 43, 54
+	orig: 43, 54
+	offset: 0, 0
+	index: -1
+h_zuojia_sangfudiaodaiku
+	rotate: true
+	xy: 306, 416
+	size: 9, 14
+	orig: 9, 14
+	offset: 0, 0
+	index: -1
+i_zuoxiaotui_sangfudiaodaiku
+	rotate: true
+	xy: 207, 389
+	size: 44, 49
+	orig: 44, 49
+	offset: 0, 0
+	index: -1
+s_youxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 289, 434
+	size: 54, 27
+	orig: 54, 27
+	offset: 0, 0
+	index: -1
+tou2_sangfudiaodaikubaozou
+	rotate: false
+	xy: 58, 492
+	size: 14, 20
+	orig: 14, 20
+	offset: 0, 0
+	index: -1
+a_Rthumb_sangfudiaodaiku
+	rotate: true
+	xy: 67, 170
+	size: 22, 19
+	orig: 22, 19
+	offset: 0, 0
+	index: -1
+zuodatui_sangfudiaodaikubaozou
+	rotate: false
+	xy: 0, 170
+	size: 66, 44
+	orig: 66, 44
+	offset: 0, 0
+	index: -1
+o_kua_b_sangfudiaodaiku
+	rotate: true
+	xy: 148, 492
+	size: 18, 16
+	orig: 18, 16
+	offset: 0, 0
+	index: -1
+t_kua_b_sangfudiaodaiku
+	rotate: true
+	xy: 192, 492
+	size: 17, 14
+	orig: 17, 14
+	offset: 0, 0
+	index: -1
+c_zuoxiaotui_sangfudiaodaiku
+	rotate: true
+	xy: 187, 249
+	size: 31, 65
+	orig: 31, 65
+	offset: 0, 0
+	index: -1
+a_coxa_bsangfudiaodaiku
+	rotate: true
+	xy: 359, 182
+	size: 17, 12
+	orig: 17, 12
+	offset: 0, 0
+	index: -1
+b_shenti_b_sangfudiaodaiku
+	rotate: true
+	xy: 288, 489
+	size: 23, 32
+	orig: 23, 32
+	offset: 0, 0
+	index: -1
+v_zuoxiaobi_sangfudiaodaiku
+	rotate: false
+	xy: 157, 389
+	size: 49, 44
+	orig: 49, 44
+	offset: 0, 0
+	index: -1
+r_tou_sangfudiaodaiku
+	rotate: true
+	xy: 187, 0
+	size: 83, 92
+	orig: 83, 92
+	offset: 0, 0
+	index: -1
+c_zuodabi_sangfudiaodaiku
+	rotate: true
+	xy: 297, 355
+	size: 33, 52
+	orig: 33, 52
+	offset: 0, 0
+	index: -1
+d_shenti_sangfudiaodaiku
+	rotate: true
+	xy: 187, 84
+	size: 87, 89
+	orig: 87, 89
+	offset: 0, 0
+	index: -1
+a_coxa_sangfudiaodaiku
+	rotate: false
+	xy: 277, 314
+	size: 59, 40
+	orig: 59, 40
+	offset: 0, 0
+	index: -1
+c_shenti_sangfudiaodaiku
+	rotate: true
+	xy: 94, 86
+	size: 81, 89
+	orig: 81, 89
+	offset: 0, 0
+	index: -1
+p_shenti_sangfudiaodaiku
+	rotate: false
+	xy: 0, 0
+	size: 93, 88
+	orig: 93, 88
+	offset: 0, 0
+	index: -1
+a_ear_sangfudiaodaiku
+	rotate: false
+	xy: 427, 445
+	size: 15, 24
+	orig: 15, 24
+	offset: 0, 0
+	index: -1
+o_youxiaobihou_sangfudiaodaiku
+	rotate: false
+	xy: 0, 492
+	size: 26, 20
+	orig: 26, 20
+	offset: 0, 0
+	index: -1
+e_kua_sangfudiaodaiku
+	rotate: true
+	xy: 187, 281
+	size: 53, 60
+	orig: 53, 60
+	offset: 0, 0
+	index: -1
+h_zuoxiaobihou_sangfudiaodaiku
+	rotate: false
+	xy: 431, 387
+	size: 18, 18
+	orig: 18, 18
+	offset: 0, 0
+	index: -1
+d_zuoxiaotui_sangfudiaodaiku
+	rotate: false
+	xy: 0, 247
+	size: 54, 45
+	orig: 54, 45
+	offset: 0, 0
+	index: -1
+v_youxiaobihou_sangfudiaodaiku
+	rotate: false
+	xy: 140, 269
+	size: 13, 20
+	orig: 13, 20
+	offset: 0, 0
+	index: -1
+b_zuoxiaobihou_sangfudiaodaiku
+	rotate: false
+	xy: 27, 492
+	size: 15, 20
+	orig: 15, 20
+	offset: 0, 0
+	index: -1
+l_youdatui_sangfudiaodaiku
+	rotate: true
+	xy: 55, 301
+	size: 35, 48
+	orig: 35, 48
+	offset: 0, 0
+	index: -1
+b_zuoxiaotui_sangfudiaodaiku
+	rotate: true
+	xy: 277, 282
+	size: 31, 61
+	orig: 31, 61
+	offset: 0, 0
+	index: -1
+zui_bu1_sangfudiaodai
+	rotate: true
+	xy: 67, 193
+	size: 20, 19
+	orig: 20, 19
+	offset: 0, 0
+	index: -1
+a_body_b_sangfudiaodaiku
+	rotate: true
+	xy: 249, 489
+	size: 23, 38
+	orig: 23, 38
+	offset: 0, 0
+	index: -1
+t_youkou_sangfudiaodaiku
+	rotate: true
+	xy: 359, 232
+	size: 13, 12
+	orig: 13, 12
+	offset: 0, 0
+	index: -1
+i_shenti_sangfudiaodaiku
+	rotate: false
+	xy: 280, 0
+	size: 92, 75
+	orig: 92, 75
+	offset: 0, 0
+	index: -1
+youxiaotui_sangfudiaodaikubaozou
+	rotate: false
+	xy: 140, 293
+	size: 46, 53
+	orig: 46, 53
+	offset: 0, 0
+	index: -1
+t_zuodabi_sangfudiaodaiku
+	rotate: true
+	xy: 372, 390
+	size: 40, 54
+	orig: 40, 54
+	offset: 0, 0
+	index: -1
+zuoxiaotui_sangfudiaodaikubaozou
+	rotate: true
+	xy: 450, 299
+	size: 33, 59
+	orig: 33, 59
+	offset: 0, 0
+	index: -1
+s_zuodabi_sangfudiaodaiku
+	rotate: true
+	xy: 463, 117
+	size: 61, 49
+	orig: 61, 49
+	offset: 0, 0
+	index: -1
+i_zuodabi_sangfudiaodaiku
+	rotate: true
+	xy: 253, 172
+	size: 54, 23
+	orig: 54, 23
+	offset: 0, 0
+	index: -1
+d_youdatui_sangfudiaodaiku
+	rotate: true
+	xy: 450, 434
+	size: 36, 54
+	orig: 36, 54
+	offset: 0, 0
+	index: -1
+i_youxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 104, 301
+	size: 44, 35
+	orig: 44, 35
+	offset: 0, 0
+	index: -1
+k_shenti_sangfudiaodaiku
+	rotate: false
+	xy: 277, 163
+	size: 81, 81
+	orig: 81, 81
+	offset: 0, 0
+	index: -1
+x_youjiao_sangfudiaodaiku
+	rotate: true
+	xy: 55, 391
+	size: 42, 48
+	orig: 42, 48
+	offset: 0, 0
+	index: -1
+e_zuodabi_sangfudiaodaiku
+	rotate: true
+	xy: 248, 311
+	size: 50, 28
+	orig: 50, 28
+	offset: 0, 0
+	index: -1
+r_sd_b_sangfudiaodaiku
+	rotate: false
+	xy: 359, 200
+	size: 12, 16
+	orig: 12, 16
+	offset: 0, 0
+	index: -1
+c_kua_sangfudiaodaiku
+	rotate: true
+	xy: 187, 335
+	size: 53, 45
+	orig: 53, 45
+	offset: 0, 0
+	index: -1
+p_zuoshou_sangfudiaodaiku
+	rotate: true
+	xy: 465, 86
+	size: 30, 47
+	orig: 30, 47
+	offset: 0, 0
+	index: -1
+v_zuodabi_sangfudiaodaiku
+	rotate: true
+	xy: 188, 434
+	size: 57, 34
+	orig: 57, 34
+	offset: 0, 0
+	index: -1
+a_yanbai_sangfudiaodaiku
+	rotate: true
+	xy: 433, 291
+	size: 31, 16
+	orig: 31, 16
+	offset: 0, 0
+	index: -1
+p_kua_sangfudiaodaiku
+	rotate: true
+	xy: 109, 434
+	size: 57, 40
+	orig: 57, 40
+	offset: 0, 0
+	index: -1
+m_kua_b_sangfudiaodaiku
+	rotate: false
+	xy: 112, 492
+	size: 18, 18
+	orig: 18, 18
+	offset: 0, 0
+	index: -1
+a_yanzhu_sangfudiaodaiku
+	rotate: true
+	xy: 495, 487
+	size: 24, 13
+	orig: 24, 13
+	offset: 0, 0
+	index: -1
+j_zuodatui_sangfudiaodaiku
+	rotate: false
+	xy: 372, 218
+	size: 77, 34
+	orig: 77, 34
+	offset: 0, 0
+	index: -1
+l_zuoxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 253, 227
+	size: 42, 23
+	orig: 42, 23
+	offset: 0, 0
+	index: -1
+g_youdabi_sangfudiaodaiku
+	rotate: false
+	xy: 450, 333
+	size: 58, 50
+	orig: 58, 50
+	offset: 0, 0
+	index: -1
+d_shenti_b_sangfudiaodaiku
+	rotate: true
+	xy: 321, 489
+	size: 23, 30
+	orig: 23, 30
+	offset: 0, 0
+	index: -1
+t_zuoxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 187, 215
+	size: 33, 65
+	orig: 33, 65
+	offset: 0, 0
+	index: -1
+i_youjiao_sangfudiaodaiku
+	rotate: true
+	xy: 455, 471
+	size: 41, 39
+	orig: 41, 39
+	offset: 0, 0
+	index: -1
+r_zuoxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 350, 355
+	size: 25, 21
+	orig: 25, 21
+	offset: 0, 0
+	index: -1
+c_youdatui_sangfudiaodaiku
+	rotate: true
+	xy: 450, 262
+	size: 36, 59
+	orig: 36, 59
+	offset: 0, 0
+	index: -1
+j_shenti_sangfudiaodaiku
+	rotate: true
+	xy: 0, 89
+	size: 80, 86
+	orig: 80, 86
+	offset: 0, 0
+	index: -1
+c_youxiaotui_sangfudiaodaiku
+	rotate: true
+	xy: 450, 228
+	size: 33, 61
+	orig: 33, 61
+	offset: 0, 0
+	index: -1
+p_youdatui_sangfudiaodaiku
+	rotate: false
+	xy: 104, 389
+	size: 52, 44
+	orig: 52, 44
+	offset: 0, 0
+	index: -1
+a_Lthigh_sangfudiaodaiku
+	rotate: true
+	xy: 87, 168
+	size: 31, 68
+	orig: 31, 68
+	offset: 0, 0
+	index: -1
+o_zuodabi_sangfudiaodaiku
+	rotate: true
+	xy: 372, 298
+	size: 36, 59
+	orig: 36, 59
+	offset: 0, 0
+	index: -1
+n_youdatui_sangfudiaodaiku
+	rotate: false
+	xy: 0, 434
+	size: 54, 57
+	orig: 54, 57
+	offset: 0, 0
+	index: -1
+d_youxiaobihou_sangfudiaodaiku
+	rotate: false
+	xy: 43, 492
+	size: 14, 20
+	orig: 14, 20
+	offset: 0, 0
+	index: -1
+b_shenti_sangfudiaodaiku
+	rotate: true
+	xy: 280, 76
+	size: 86, 91
+	orig: 86, 91
+	offset: 0, 0
+	index: -1
+p_sd_b_sangfudiaodaiku
+	rotate: false
+	xy: 82, 492
+	size: 15, 19
+	orig: 15, 19
+	offset: 0, 0
+	index: -1
+d_youdabi_sangfudiaodaiku
+	rotate: false
+	xy: 465, 0
+	size: 47, 48
+	orig: 47, 48
+	offset: 0, 0
+	index: -1
+g_zuodatui_sangfudiaodaiku
+	rotate: true
+	xy: 450, 384
+	size: 49, 58
+	orig: 49, 58
+	offset: 0, 0
+	index: -1
+i_kua_b_sangfudiaodaiku
+	rotate: true
+	xy: 233, 372
+	size: 16, 14
+	orig: 16, 14
+	offset: 0, 0
+	index: -1
+j_zuojiao_sangfudiaodaiku
+	rotate: true
+	xy: 465, 49
+	size: 36, 47
+	orig: 36, 47
+	offset: 0, 0
+	index: -1
+j_youxiaobi_sangfudiaodaiku
+	rotate: true
+	xy: 87, 269
+	size: 31, 52
+	orig: 31, 52
+	offset: 0, 0
+	index: -1
+t_kua_sangfudiaodaiku
+	rotate: false
+	xy: 372, 431
+	size: 54, 39
+	orig: 54, 39
+	offset: 0, 0
+	index: -1
+n_youxiaotui_sangfudiaodaiku
+	rotate: true
+	xy: 156, 168
+	size: 60, 30
+	orig: 60, 30
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

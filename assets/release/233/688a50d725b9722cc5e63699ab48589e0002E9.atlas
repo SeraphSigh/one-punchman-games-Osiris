@@ -1,0 +1,48 @@
+
+asset/anim/juheanSE.png
+size: 1022,1001
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+juhean_qiege_019
+	rotate: false
+	xy: 464, 824
+	size: 103, 47
+	orig: 115, 53
+	offset: 4, 4
+	index: -1
+juhean_qiege_018
+	rotate: true
+	xy: 865, 593
+	size: 103, 45
+	orig: 115, 53
+	offset: 5, 6
+	index: -1
+juhean_qiege_017
+	rotate: false
+	xy: 437, 576
+	size: 101, 43
+	orig: 115, 53
+	offset: 6, 7
+	index: -1
+juhean_qiege_016
+	rotate: true
+	xy: 545, 329
+	size: 101, 43
+	orig: 115, 53
+	offset: 6, 7
+	index: -1
+juhean_qiege_015
+	rotate: false
+	xy: 911, 704
+	size: 87, 41
+	orig: 115, 53
+	offset: 12, 8
+	index: -1
+juhean_qiege_014
+	rotate: false
+	xy: 576, 562
+	size: 107, 45
+	orig: 115, 53
+	offset: 4, 4
+	index: -1

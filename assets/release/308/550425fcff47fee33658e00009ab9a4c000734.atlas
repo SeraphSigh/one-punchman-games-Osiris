@@ -1,0 +1,102 @@
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_zhezhaoquan_26
+	rotate: true
+	xy: 840, 64
+	size: 34, 184
+	orig: 70, 280
+	offset: 16, 48
+	index: -1
+global/a_global_dujiaoxian_zhezhaoquan_31
+	rotate: false
+	xy: 427, 516
+	size: 36, 264
+	orig: 70, 280
+	offset: 17, 4
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_zhezhaoquan_27
+	rotate: false
+	xy: 0, 771
+	size: 46, 250
+	orig: 70, 280
+	offset: 9, 21
+	index: -1
+global/a_global_dujiaoxian_zhezhaoquan_29
+	rotate: false
+	xy: 0, 520
+	size: 50, 250
+	orig: 70, 280
+	offset: 7, 8
+	index: -1
+global/a_global_dujiaoxian_zhezhaoquan_28
+	rotate: false
+	xy: 0, 0
+	size: 50, 260
+	orig: 70, 280
+	offset: 7, 15
+	index: -1
+global/a_global_dujiaoxian_zhezhaoquan_30
+	rotate: false
+	xy: 51, 0
+	size: 48, 258
+	orig: 70, 280
+	offset: 7, 5
+	index: -1
+
+asset/anim/tiankongwangSE.png
+size: 1024,976
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tiankongwang_fengqiu_038
+	rotate: false
+	xy: 683, 113
+	size: 171, 67
+	orig: 215, 163
+	offset: 37, 88
+	index: -1
+tiankongwang_fengqiu_029
+	rotate: false
+	xy: 153, 113
+	size: 177, 69
+	orig: 215, 163
+	offset: 31, 87
+	index: -1
+tiankongwang_fengqiu_032
+	rotate: false
+	xy: 331, 111
+	size: 179, 69
+	orig: 215, 163
+	offset: 29, 88
+	index: -1
+tiankongwang_fengqiu_035
+	rotate: false
+	xy: 511, 111
+	size: 171, 67
+	orig: 215, 163
+	offset: 37, 88
+	index: -1
+tiankongwang_fengqiu_041
+	rotate: true
+	xy: 111, 316
+	size: 177, 71
+	orig: 215, 163
+	offset: 31, 86
+	index: -1
+tiankongwang_fengqiu_044
+	rotate: true
+	xy: 214, 442
+	size: 175, 69
+	orig: 215, 163
+	offset: 33, 88
+	index: -1

@@ -1,0 +1,68 @@
+
+asset/anim/beixinzunzhe2SECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/bx2_shoujicom_00001
+	rotate: true
+	xy: 554, 823
+	size: 32, 34
+	orig: 32, 34
+	offset: 0, 0
+	index: -1
+common/bx2_shoujicom_00000
+	rotate: true
+	xy: 519, 823
+	size: 32, 34
+	orig: 32, 34
+	offset: 0, 0
+	index: -1
+common/bx2_shoujicom_00003
+	rotate: true
+	xy: 977, 890
+	size: 32, 34
+	orig: 32, 34
+	offset: 0, 0
+	index: -1
+common/bx2_shoujicom_00002
+	rotate: true
+	xy: 977, 857
+	size: 32, 34
+	orig: 32, 34
+	offset: 0, 0
+	index: -1
+common/bx2_shoujicom_00005
+	rotate: true
+	xy: 977, 956
+	size: 32, 34
+	orig: 32, 34
+	offset: 0, 0
+	index: -1
+common/bx2_shoujicom_00004
+	rotate: true
+	xy: 977, 923
+	size: 32, 34
+	orig: 32, 34
+	offset: 0, 0
+	index: -1
+common/bx2_shoujicom_00006
+	rotate: false
+	xy: 977, 989
+	size: 32, 34
+	orig: 32, 34
+	offset: 0, 0
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

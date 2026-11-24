@@ -1,0 +1,133 @@
+
+asset/anim/jifengSEMAX3.png
+size: 1018,1008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/jifengwende_maxsu_005
+	rotate: false
+	xy: 88, 893
+	size: 300, 115
+	orig: 310, 143
+	offset: 4, 15
+	index: -1
+
+asset/anim/jifengSECOMMON4.png
+size: 1024,1019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jifengwende_suduxianlv_008
+	rotate: true
+	xy: 218, 700
+	size: 319, 129
+	orig: 473, 167
+	offset: 115, 12
+	index: -1
+
+asset/anim/jifengSECOMMON5.png
+size: 1002,545
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jifengwende_diyan5_005
+	rotate: false
+	xy: 751, 202
+	size: 225, 60
+	orig: 233, 80
+	offset: 8, 1
+	index: -1
+common/jifengwende_diyan5_006
+	rotate: false
+	xy: 751, 263
+	size: 221, 62
+	orig: 233, 80
+	offset: 12, 1
+	index: -1
+common/jifengwende_diyan5_002
+	rotate: false
+	xy: 751, 133
+	size: 225, 68
+	orig: 233, 80
+	offset: 8, 1
+	index: -1
+common/jifengwende_suduxianlv_005
+	rotate: true
+	xy: 435, 0
+	size: 283, 141
+	orig: 473, 167
+	offset: 87, 18
+	index: -1
+
+asset/anim/jifengSECOMMON2.png
+size: 1024,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jifengwende_suduxianlv_010
+	rotate: true
+	xy: 915, 490
+	size: 223, 109
+	orig: 473, 167
+	offset: 212, 47
+	index: -1
+common/jifengwende_suduxianlv_009
+	rotate: true
+	xy: 921, 184
+	size: 305, 101
+	orig: 473, 167
+	offset: 155, 23
+	index: -1
+
+asset/anim/jifengSECOMMON3.png
+size: 1023,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jifengwende_suduxianlv_006
+	rotate: true
+	xy: 880, 348
+	size: 349, 143
+	orig: 473, 167
+	offset: 42, 10
+	index: -1
+common/jifengwende_suduxianlv_007
+	rotate: false
+	xy: 0, 558
+	size: 347, 139
+	orig: 473, 167
+	offset: 78, 11
+	index: -1
+
+asset/anim/jifengSECOMMON0.png
+size: 1024,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jifengwende_diyan5_004
+	rotate: true
+	xy: 764, 790
+	size: 233, 64
+	orig: 233, 80
+	offset: 0, 1
+	index: -1
+common/jifengwende_diyan5_003
+	rotate: true
+	xy: 829, 790
+	size: 231, 74
+	orig: 233, 80
+	offset: 2, 1
+	index: -1
+
+asset/anim/jifengSECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jifengwende_diyan5_001
+	rotate: false
+	xy: 812, 750
+	size: 211, 62
+	orig: 233, 80
+	offset: 12, 1
+	index: -1

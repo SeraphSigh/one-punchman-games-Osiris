@@ -1,0 +1,267 @@
+
+asset/anim/HAOJIESEMAX0.png
+size: 368,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/haojiejx_zuihouquanpingyan_1
+	rotate: false
+	xy: 0, 0
+	size: 368, 228
+	orig: 406, 228
+	offset: 4, 0
+	index: -1
+
+asset/anim/HAOJIESECOMMON4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/haojiejx_shitouliu_12
+	rotate: true
+	xy: 418, 820
+	size: 204, 132
+	orig: 326, 206
+	offset: 121, 4
+	index: -1
+common/haojiejx_shitouliu_1
+	rotate: true
+	xy: 405, 280
+	size: 168, 130
+	orig: 326, 206
+	offset: 6, 41
+	index: -1
+
+asset/anim/HAOJIESECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/haojiejx_heibai2_1
+	rotate: false
+	xy: 0, 0
+	size: 448, 90
+	orig: 454, 96
+	offset: 1, 6
+	index: -1
+common/haojiejx_shitouliu_11
+	rotate: false
+	xy: 796, 0
+	size: 220, 126
+	orig: 326, 206
+	offset: 103, 12
+	index: -1
+common/haojiejx_shitouliu_10
+	rotate: true
+	xy: 513, 416
+	size: 280, 180
+	orig: 326, 206
+	offset: 39, 5
+	index: -1
+common/haojiejx_heibai3_1
+	rotate: true
+	xy: 341, 193
+	size: 181, 101
+	orig: 181, 101
+	offset: 0, 0
+	index: -1
+common/haojiejx_heibai4_1
+	rotate: true
+	xy: 694, 416
+	size: 113, 75
+	orig: 181, 101
+	offset: 0, 12
+	index: -1
+common/haojiejx_shitouliu_2
+	rotate: true
+	xy: 262, 705
+	size: 318, 178
+	orig: 326, 206
+	offset: 1, 21
+	index: -1
+common/haojiejx_zuihouquanpingyan_14
+	rotate: false
+	xy: 796, 127
+	size: 219, 118
+	orig: 317, 178
+	offset: 6, 10
+	index: -1
+common/haojiejx_zuihouquanpingyan_10
+	rotate: true
+	xy: 83, 707
+	size: 317, 178
+	orig: 317, 178
+	offset: 0, 0
+	index: -1
+common/haojiejx_zuihouquanpingyan_11
+	rotate: true
+	xy: 441, 709
+	size: 313, 178
+	orig: 317, 178
+	offset: 4, 0
+	index: -1
+common/haojiejx_zuihouquanpingyan_12
+	rotate: true
+	xy: 799, 709
+	size: 313, 172
+	orig: 317, 178
+	offset: 4, 6
+	index: -1
+common/haojiejx_zuihouquanpingyan_2
+	rotate: true
+	xy: 620, 709
+	size: 313, 178
+	orig: 317, 178
+	offset: 4, 0
+	index: -1
+common/haojiejx_zuihouquanpingyan_0
+	rotate: true
+	xy: 0, 515
+	size: 191, 172
+	orig: 317, 178
+	offset: 7, 0
+	index: -1
+common/haojiejx_baidi_1_00000
+	rotate: false
+	xy: 351, 468
+	size: 87, 87
+	orig: 87, 87
+	offset: 0, 0
+	index: -1
+
+asset/anim/HAOJIESECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/haojiejx_heibai1_1
+	rotate: false
+	xy: 482, 456
+	size: 294, 267
+	orig: 310, 275
+	offset: 5, 4
+	index: -1
+common/haojiejx_shitouliu_9
+	rotate: false
+	xy: 0, 239
+	size: 314, 182
+	orig: 326, 206
+	offset: 10, 8
+	index: -1
+common/haojiejx_beijingkuangk_1
+	rotate: false
+	xy: 777, 512
+	size: 93, 52
+	orig: 93, 52
+	offset: 0, 0
+	index: -1
+common/haojiejx_zuihouquanpingyan_13
+	rotate: true
+	xy: 315, 456
+	size: 271, 166
+	orig: 317, 178
+	offset: 6, 7
+	index: -1
+
+asset/anim/HAOJIESECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/haojiejx_shitouliu_7
+	rotate: false
+	xy: 325, 0
+	size: 324, 188
+	orig: 326, 206
+	offset: 0, 4
+	index: -1
+common/haojiejx_shitouliu_6
+	rotate: false
+	xy: 318, 736
+	size: 316, 188
+	orig: 326, 206
+	offset: 9, 4
+	index: -1
+common/haojiejx_shitouliu_4
+	rotate: false
+	xy: 325, 189
+	size: 322, 188
+	orig: 326, 206
+	offset: 0, 9
+	index: -1
+common/haojiejx_shitouliu_8
+	rotate: false
+	xy: 0, 809
+	size: 316, 174
+	orig: 326, 206
+	offset: 2, 17
+	index: -1
+common/haojiejx_zuihouquanpingyan_3
+	rotate: false
+	xy: 648, 203
+	size: 317, 178
+	orig: 317, 178
+	offset: 0, 0
+	index: -1
+common/haojiejx_zuihouquanpingyan_6
+	rotate: false
+	xy: 637, 382
+	size: 317, 178
+	orig: 317, 178
+	offset: 0, 0
+	index: -1
+common/haojiejx_zuihouquanpingyan_7
+	rotate: false
+	xy: 318, 557
+	size: 317, 178
+	orig: 317, 178
+	offset: 0, 0
+	index: -1
+common/haojiejx_zuihouquanpingyan_4
+	rotate: false
+	xy: 319, 378
+	size: 317, 178
+	orig: 317, 178
+	offset: 0, 0
+	index: -1
+common/haojiejx_zuihouquanpingyan_5
+	rotate: false
+	xy: 0, 451
+	size: 317, 178
+	orig: 317, 178
+	offset: 0, 0
+	index: -1
+common/haojiejx_zuihouquanpingyan_8
+	rotate: false
+	xy: 0, 630
+	size: 317, 178
+	orig: 317, 178
+	offset: 0, 0
+	index: -1
+common/haojiejx_zuihouquanpingyan_9
+	rotate: false
+	xy: 636, 561
+	size: 317, 178
+	orig: 317, 178
+	offset: 0, 0
+	index: -1
+
+asset/anim/HAOJIESECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/haojiejx_shitouliu_3
+	rotate: true
+	xy: 837, 603
+	size: 312, 184
+	orig: 326, 206
+	offset: 10, 9
+	index: -1
+common/haojiejx_shitouliu_5
+	rotate: true
+	xy: 837, 280
+	size: 322, 184
+	orig: 326, 206
+	offset: 0, 13
+	index: -1

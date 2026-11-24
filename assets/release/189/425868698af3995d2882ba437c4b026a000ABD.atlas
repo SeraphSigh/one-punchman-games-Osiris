@@ -1,0 +1,165 @@
+
+asset/anim/leiguangyuanshiSE2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lgys_skill_suishi_00030
+	rotate: true
+	xy: 956, 286
+	size: 93, 68
+	orig: 219, 94
+	offset: 94, 3
+	index: -1
+lgys_skill_dilei_00037
+	rotate: false
+	xy: 586, 0
+	size: 285, 121
+	orig: 309, 121
+	offset: 10, 0
+	index: -1
+lgys_skill_dilei_00035
+	rotate: false
+	xy: 298, 108
+	size: 285, 109
+	orig: 309, 121
+	offset: 10, 1
+	index: -1
+lgys_skill_dilei_00039
+	rotate: false
+	xy: 0, 0
+	size: 297, 109
+	orig: 309, 121
+	offset: 0, 0
+	index: -1
+lgys_skill_dilei_00034
+	rotate: false
+	xy: 0, 110
+	size: 283, 115
+	orig: 309, 121
+	offset: 11, 2
+	index: -1
+lgys_skill_dilei_00042
+	rotate: false
+	xy: 584, 122
+	size: 285, 99
+	orig: 309, 121
+	offset: 12, 12
+	index: -1
+lgys_skill_dilei_00043
+	rotate: false
+	xy: 298, 0
+	size: 287, 107
+	orig: 309, 121
+	offset: 11, 7
+	index: -1
+
+asset/anim/leiguangyuanshiSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lgys_skill_suishi_00032
+	rotate: false
+	xy: 385, 964
+	size: 113, 60
+	orig: 219, 94
+	offset: 57, 19
+	index: -1
+lgys_skill_diwen_00052
+	rotate: false
+	xy: 754, 387
+	size: 260, 77
+	orig: 260, 83
+	offset: 0, 3
+	index: -1
+lgys_skill_suishi_00029
+	rotate: false
+	xy: 782, 142
+	size: 199, 84
+	orig: 219, 94
+	offset: 6, 0
+	index: -1
+lgys_skill_suishi_00027
+	rotate: true
+	xy: 770, 770
+	size: 189, 78
+	orig: 219, 94
+	offset: 13, 3
+	index: -1
+lgys_skill_suishi_00028
+	rotate: false
+	xy: 782, 227
+	size: 197, 82
+	orig: 219, 94
+	offset: 7, 0
+	index: -1
+lgys_skill_suishi_00031
+	rotate: false
+	xy: 872, 960
+	size: 65, 62
+	orig: 219, 94
+	offset: 122, 14
+	index: -1
+lgys_skill_suishi_00026
+	rotate: false
+	xy: 782, 310
+	size: 197, 76
+	orig: 219, 94
+	offset: 20, 0
+	index: -1
+lgys_skill_dilei_00038
+	rotate: true
+	xy: 888, 465
+	size: 297, 121
+	orig: 309, 121
+	offset: 0, 0
+	index: -1
+
+asset/anim/leiguangyuanshiSE1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lgys_skill_suishi_00033
+	rotate: false
+	xy: 0, 385
+	size: 105, 74
+	orig: 219, 94
+	offset: 50, 7
+	index: -1
+lgys_skill_suishi_00034
+	rotate: false
+	xy: 377, 190
+	size: 165, 76
+	orig: 219, 94
+	offset: 49, 8
+	index: -1
+lgys_skill_suishi_00035
+	rotate: false
+	xy: 595, 190
+	size: 167, 76
+	orig: 219, 94
+	offset: 45, 11
+	index: -1
+lgys_skill_dilei_00040
+	rotate: true
+	xy: 891, 643
+	size: 297, 121
+	orig: 309, 121
+	offset: 0, 0
+	index: -1
+lgys_skill_dilei_00041
+	rotate: false
+	xy: 392, 267
+	size: 293, 117
+	orig: 309, 121
+	offset: 3, 0
+	index: -1
+lgys_skill_dilei_00036
+	rotate: true
+	xy: 566, 548
+	size: 289, 115
+	orig: 309, 121
+	offset: 8, 2
+	index: -1

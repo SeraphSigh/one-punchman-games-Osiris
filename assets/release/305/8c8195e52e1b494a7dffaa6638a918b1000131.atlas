@@ -1,0 +1,20 @@
+
+asset/anim/jiemaoSE.png
+size: 251,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guiweicanying2
+	rotate: false
+	xy: 0, 112
+	size: 110, 64
+	orig: 110, 64
+	offset: 0, 0
+	index: -1
+guiweicanying1
+	rotate: false
+	xy: 171, 272
+	size: 67, 64
+	orig: 67, 64
+	offset: 0, 0
+	index: -1

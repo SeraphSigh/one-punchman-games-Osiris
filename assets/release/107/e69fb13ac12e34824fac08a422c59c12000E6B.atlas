@@ -1,0 +1,229 @@
+
+asset/anim/quandoumorenkapai1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuodabi2_quandoumorenkp
+	rotate: false
+	xy: 0, 0
+	size: 157, 78
+	orig: 157, 78
+	offset: 0, 0
+	index: -1
+lian_quandoumorenkp
+	rotate: true
+	xy: 388, 267
+	size: 76, 77
+	orig: 76, 77
+	offset: 0, 0
+	index: -1
+youshou1_quandoumorenkp
+	rotate: true
+	xy: 226, 173
+	size: 83, 80
+	orig: 83, 80
+	offset: 0, 0
+	index: -1
+zuoxiaobi2_quandoumorenkp
+	rotate: true
+	xy: 0, 167
+	size: 66, 68
+	orig: 66, 68
+	offset: 0, 0
+	index: -1
+youxiaobi1_quandoumorenkp
+	rotate: false
+	xy: 307, 199
+	size: 80, 77
+	orig: 80, 77
+	offset: 0, 0
+	index: -1
+zuojiao_quandoumorenkp
+	rotate: true
+	xy: 137, 156
+	size: 72, 88
+	orig: 72, 88
+	offset: 0, 0
+	index: -1
+zuoshou2_quandoumorenkp
+	rotate: false
+	xy: 395, 189
+	size: 83, 77
+	orig: 83, 77
+	offset: 0, 0
+	index: -1
+youjiao_quandoumorenkp
+	rotate: false
+	xy: 0, 79
+	size: 136, 87
+	orig: 136, 87
+	offset: 0, 0
+	index: -1
+zuoxiaobi1_quandoumorenkp
+	rotate: true
+	xy: 413, 91
+	size: 97, 99
+	orig: 97, 99
+	offset: 0, 0
+	index: -1
+fayou_quandoumorenkp
+	rotate: false
+	xy: 437, 0
+	size: 74, 90
+	orig: 74, 90
+	offset: 0, 0
+	index: -1
+youdabi2_quandoumorenkp
+	rotate: false
+	xy: 158, 0
+	size: 150, 82
+	orig: 150, 82
+	offset: 0, 0
+	index: -1
+fa1_quandoumorenkp
+	rotate: true
+	xy: 309, 0
+	size: 49, 127
+	orig: 49, 127
+	offset: 0, 0
+	index: -1
+youshou2_quandoumorenkp
+	rotate: false
+	xy: 307, 118
+	size: 87, 80
+	orig: 87, 80
+	offset: 0, 0
+	index: -1
+zuoshou1_quandoumorenkp
+	rotate: true
+	xy: 234, 83
+	size: 89, 72
+	orig: 89, 72
+	offset: 0, 0
+	index: -1
+fazuo_quandoumorenkp
+	rotate: true
+	xy: 137, 83
+	size: 72, 96
+	orig: 72, 96
+	offset: 0, 0
+	index: -1
+fahou_quandoumorenkp
+	rotate: true
+	xy: 309, 50
+	size: 67, 103
+	orig: 67, 103
+	offset: 0, 0
+	index: -1
+
+asset/anim/quandoumorenkapai0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kua_quandoumorenkp
+	rotate: true
+	xy: 0, 246
+	size: 242, 118
+	orig: 242, 118
+	offset: 0, 0
+	index: -1
+youyan1_quandoumorenkp
+	rotate: false
+	xy: 350, 466
+	size: 21, 19
+	orig: 21, 19
+	offset: 0, 0
+	index: -1
+zuodatui_quandoumorenkp
+	rotate: true
+	xy: 352, 0
+	size: 178, 148
+	orig: 178, 148
+	offset: 0, 0
+	index: -1
+zuoxiaotui_quandoumorenkp
+	rotate: false
+	xy: 230, 0
+	size: 121, 218
+	orig: 121, 218
+	offset: 0, 0
+	index: -1
+youdatui_quandoumorenkp
+	rotate: true
+	xy: 119, 246
+	size: 179, 131
+	orig: 179, 131
+	offset: 0, 0
+	index: -1
+zuoyan2_quandoumorenkp
+	rotate: false
+	xy: 0, 489
+	size: 20, 16
+	orig: 20, 16
+	offset: 0, 0
+	index: -1
+zuoyan1_quandoumorenkp
+	rotate: false
+	xy: 230, 219
+	size: 20, 19
+	orig: 20, 19
+	offset: 0, 0
+	index: -1
+shen_quandoumorenkp
+	rotate: false
+	xy: 0, 0
+	size: 229, 245
+	orig: 229, 245
+	offset: 0, 0
+	index: -1
+youyan2_quandoumorenkp
+	rotate: true
+	xy: 332, 219
+	size: 22, 17
+	orig: 22, 17
+	offset: 0, 0
+	index: -1
+youxiaotui_quandoumorenkp
+	rotate: false
+	xy: 251, 219
+	size: 80, 190
+	orig: 80, 190
+	offset: 0, 0
+	index: -1
+youdabi1_quandoumorenkp
+	rotate: true
+	xy: 350, 239
+	size: 107, 162
+	orig: 107, 162
+	offset: 0, 0
+	index: -1
+zuodabi1_quandoumorenkp
+	rotate: false
+	xy: 350, 347
+	size: 155, 118
+	orig: 155, 118
+	offset: 0, 0
+	index: -1
+youxiaobi2_quandoumorenkp
+	rotate: true
+	xy: 119, 426
+	size: 79, 118
+	orig: 79, 118
+	offset: 0, 0
+	index: -1
+yaodai_quandoumorenkp
+	rotate: false
+	xy: 352, 179
+	size: 157, 59
+	orig: 157, 59
+	offset: 0, 0
+	index: -1
+toutao_quandoumorenkp
+	rotate: true
+	xy: 251, 410
+	size: 102, 98
+	orig: 102, 98
+	offset: 0, 0
+	index: -1

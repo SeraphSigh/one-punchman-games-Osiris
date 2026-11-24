@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>btn_zd_zt_kqdh_press_0401.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{214,66}</string>
+                <key>spriteSourceSize</key>
+                <string>{220,66}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{214,66}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>battle_battleRes1.png</string>
+            <key>size</key>
+            <string>{214,66}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:762fe40e485383e33a7b6079d06021d5:4e333155ab6296946ca23c46f02d2cba:7edd652dda494916bbc42c6c00057ea9$</string>
+            <key>textureFileName</key>
+            <string>battle_battleRes1.png</string>
+        </dict>
+    </dict>
+</plist>

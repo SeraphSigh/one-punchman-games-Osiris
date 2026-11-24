@@ -1,0 +1,464 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/didiren21.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d_Larm_didiren2
+	rotate: true
+	xy: 123, 0
+	size: 68, 43
+	orig: 68, 43
+	offset: 0, 0
+	index: -1
+d_Rhand_didiren2
+	rotate: false
+	xy: 90, 404
+	size: 54, 56
+	orig: 54, 56
+	offset: 0, 0
+	index: -1
+b_Larm_didiren2
+	rotate: false
+	xy: 167, 0
+	size: 48, 57
+	orig: 48, 57
+	offset: 0, 0
+	index: -1
+a_Lhand_didiren2
+	rotate: true
+	xy: 90, 461
+	size: 51, 54
+	orig: 51, 54
+	offset: 0, 0
+	index: -1
+a_Lthigh_didiren2
+	rotate: true
+	xy: 63, 91
+	size: 70, 66
+	orig: 70, 66
+	offset: 0, 0
+	index: -1
+c_Rfoot_didiren2
+	rotate: true
+	xy: 0, 418
+	size: 64, 32
+	orig: 64, 32
+	offset: 0, 0
+	index: -1
+a_Larm_didiren2
+	rotate: false
+	xy: 101, 253
+	size: 42, 60
+	orig: 42, 60
+	offset: 0, 0
+	index: -1
+c_Larm_didiren2
+	rotate: false
+	xy: 51, 180
+	size: 57, 72
+	orig: 57, 72
+	offset: 0, 0
+	index: -1
+b_Lhand_didiren2
+	rotate: false
+	xy: 144, 222
+	size: 50, 54
+	orig: 50, 54
+	offset: 0, 0
+	index: -1
+b_Rthigh_didiren2
+	rotate: true
+	xy: 43, 267
+	size: 74, 57
+	orig: 74, 57
+	offset: 0, 0
+	index: -1
+a_Lforearm_didiren2
+	rotate: false
+	xy: 0, 0
+	size: 63, 90
+	orig: 63, 90
+	offset: 0, 0
+	index: -1
+c_Lhand_didiren2
+	rotate: false
+	xy: 107, 314
+	size: 46, 55
+	orig: 46, 55
+	offset: 0, 0
+	index: -1
+c_Rarm_didiren2
+	rotate: true
+	xy: 0, 91
+	size: 88, 62
+	orig: 88, 62
+	offset: 0, 0
+	index: -1
+c_Rthigh_didiren2
+	rotate: true
+	xy: 0, 343
+	size: 74, 60
+	orig: 74, 60
+	offset: 0, 0
+	index: -1
+c_Lthigh_didiren2
+	rotate: false
+	xy: 64, 0
+	size: 58, 69
+	orig: 58, 69
+	offset: 0, 0
+	index: -1
+c_Rhand_didiren2
+	rotate: false
+	xy: 130, 69
+	size: 51, 58
+	orig: 51, 58
+	offset: 0, 0
+	index: -1
+c_Rshin_didiren2
+	rotate: false
+	xy: 0, 267
+	size: 42, 75
+	orig: 42, 75
+	offset: 0, 0
+	index: -1
+b_Lfoot_didiren2
+	rotate: true
+	xy: 167, 128
+	size: 54, 48
+	orig: 54, 48
+	offset: 0, 0
+	index: -1
+c_Lshin_didiren2
+	rotate: true
+	xy: 61, 342
+	size: 61, 45
+	orig: 61, 45
+	offset: 0, 0
+	index: -1
+a_Rarm_didiren2
+	rotate: false
+	xy: 0, 180
+	size: 50, 86
+	orig: 50, 86
+	offset: 0, 0
+	index: -1
+a_Rhand_didiren2
+	rotate: true
+	xy: 109, 162
+	size: 59, 57
+	orig: 59, 57
+	offset: 0, 0
+	index: -1
+b_Rhand_didiren2
+	rotate: false
+	xy: 33, 418
+	size: 56, 61
+	orig: 56, 61
+	offset: 0, 0
+	index: -1
+
+asset/anim/didiren20.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_coxa_didiren2
+	rotate: true
+	xy: 111, 435
+	size: 77, 65
+	orig: 77, 65
+	offset: 0, 0
+	index: -1
+b_Rfoot_didiren2
+	rotate: false
+	xy: 440, 478
+	size: 58, 34
+	orig: 58, 34
+	offset: 0, 0
+	index: -1
+b_coxa_didiren2
+	rotate: false
+	xy: 440, 341
+	size: 72, 69
+	orig: 72, 69
+	offset: 0, 0
+	index: -1
+c_body_didiren2
+	rotate: false
+	xy: 289, 0
+	size: 123, 130
+	orig: 123, 130
+	offset: 0, 0
+	index: -1
+c_head_didiren2
+	rotate: false
+	xy: 249, 236
+	size: 105, 103
+	orig: 105, 103
+	offset: 0, 0
+	index: -1
+c_Lforearm_didiren2
+	rotate: false
+	xy: 0, 419
+	size: 110, 74
+	orig: 110, 74
+	offset: 0, 0
+	index: -1
+d_body_didiren2
+	rotate: false
+	xy: 0, 140
+	size: 140, 139
+	orig: 140, 139
+	offset: 0, 0
+	index: -1
+a_Lfoot_didiren2
+	rotate: true
+	xy: 459, 288
+	size: 52, 42
+	orig: 52, 42
+	offset: 0, 0
+	index: -1
+b_head_didiren2
+	rotate: true
+	xy: 355, 236
+	size: 104, 103
+	orig: 104, 103
+	offset: 0, 0
+	index: -1
+b_Lshin_didiren2
+	rotate: false
+	xy: 359, 196
+	size: 63, 38
+	orig: 63, 38
+	offset: 0, 0
+	index: -1
+e_head_didiren2
+	rotate: true
+	xy: 413, 0
+	size: 107, 98
+	orig: 107, 98
+	offset: 0, 0
+	index: -1
+c_Rforeatm_didiren2
+	rotate: true
+	xy: 413, 108
+	size: 72, 98
+	orig: 72, 98
+	offset: 0, 0
+	index: -1
+a_Rshin_didiren2
+	rotate: false
+	xy: 359, 131
+	size: 53, 64
+	orig: 53, 64
+	offset: 0, 0
+	index: -1
+a_coxa_didiren2
+	rotate: true
+	xy: 177, 390
+	size: 80, 71
+	orig: 80, 71
+	offset: 0, 0
+	index: -1
+a_body_didiren2
+	rotate: false
+	xy: 147, 0
+	size: 141, 131
+	orig: 141, 131
+	offset: 0, 0
+	index: -1
+canying1_didiren2
+	rotate: true
+	xy: 249, 340
+	size: 94, 105
+	orig: 94, 105
+	offset: 0, 0
+	index: -1
+d_Rarm_didiren2
+	rotate: true
+	xy: 355, 416
+	size: 66, 84
+	orig: 66, 84
+	offset: 0, 0
+	index: -1
+d_Rforeatm_didiren2
+	rotate: false
+	xy: 188, 235
+	size: 60, 100
+	orig: 60, 100
+	offset: 0, 0
+	index: -1
+d_head_didiren2
+	rotate: true
+	xy: 147, 132
+	size: 102, 106
+	orig: 102, 106
+	offset: 0, 0
+	index: -1
+a_Rfoot_didiren2
+	rotate: false
+	xy: 141, 235
+	size: 46, 31
+	orig: 46, 31
+	offset: 0, 0
+	index: -1
+d_Rfoot_didiren2
+	rotate: true
+	xy: 423, 181
+	size: 43, 34
+	orig: 43, 34
+	offset: 0, 0
+	index: -1
+a_Lshin_didiren2
+	rotate: false
+	xy: 131, 387
+	size: 42, 47
+	orig: 42, 47
+	offset: 0, 0
+	index: -1
+e_body_didiren2
+	rotate: false
+	xy: 0, 280
+	size: 130, 138
+	orig: 130, 138
+	offset: 0, 0
+	index: -1
+c_Lfoot_didiren2
+	rotate: false
+	xy: 459, 241
+	size: 53, 46
+	orig: 53, 46
+	offset: 0, 0
+	index: -1
+a_Rthigh_didiren2
+	rotate: true
+	xy: 188, 336
+	size: 53, 60
+	orig: 53, 60
+	offset: 0, 0
+	index: -1
+b_body_didiren2
+	rotate: false
+	xy: 0, 0
+	size: 146, 139
+	orig: 146, 139
+	offset: 0, 0
+	index: -1
+d_Lhand_didiren2
+	rotate: true
+	xy: 459, 181
+	size: 59, 53
+	orig: 59, 53
+	offset: 0, 0
+	index: -1
+a_Rforeatm_didiren2
+	rotate: false
+	xy: 355, 341
+	size: 84, 74
+	orig: 84, 74
+	offset: 0, 0
+	index: -1
+b_Rforeatm_didiren2
+	rotate: true
+	xy: 249, 435
+	size: 67, 94
+	orig: 67, 94
+	offset: 0, 0
+	index: -1
+a_head_didiren2
+	rotate: false
+	xy: 254, 132
+	size: 104, 103
+	orig: 104, 103
+	offset: 0, 0
+	index: -1
+b_Lforearm_didiren2
+	rotate: true
+	xy: 131, 280
+	size: 106, 56
+	orig: 106, 56
+	offset: 0, 0
+	index: -1
+b_Lthigh_didiren2
+	rotate: false
+	xy: 440, 411
+	size: 72, 66
+	orig: 72, 66
+	offset: 0, 0
+	index: -1
+b_Rshin_didiren2
+	rotate: true
+	xy: 177, 471
+	size: 41, 64
+	orig: 41, 64
+	offset: 0, 0
+	index: -1

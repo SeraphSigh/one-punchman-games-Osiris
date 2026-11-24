@@ -1,0 +1,20 @@
+
+asset/anim/yundonghuizhandouSP0.png
+size: 70,715
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yundonghuizhandou1
+	rotate: false
+	xy: 0, 0
+	size: 70, 357
+	orig: 70, 357
+	offset: 0, 0
+	index: -1
+yundonghuizhandou2
+	rotate: false
+	xy: 0, 358
+	size: 70, 357
+	orig: 70, 357
+	offset: 0, 0
+	index: -1

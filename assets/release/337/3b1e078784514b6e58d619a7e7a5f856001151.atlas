@@ -1,0 +1,244 @@
+
+asset/anim/jinuosiboshiSESKILL.png
+size: 996,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/jinuosiboshiS_jiaoxiaguagnquan010
+	rotate: true
+	xy: 783, 674
+	size: 116, 35
+	orig: 116, 35
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiaoxiaguagnquan011
+	rotate: false
+	xy: 308, 872
+	size: 151, 45
+	orig: 151, 45
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiaoxiaguagnquan012
+	rotate: true
+	xy: 927, 243
+	size: 157, 58
+	orig: 157, 58
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiaoxiaguagnquan013
+	rotate: true
+	xy: 907, 475
+	size: 157, 55
+	orig: 157, 55
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiaoxiaguagnquan014
+	rotate: false
+	xy: 304, 918
+	size: 157, 52
+	orig: 157, 52
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiaoxiaguagnquan015
+	rotate: false
+	xy: 304, 971
+	size: 157, 50
+	orig: 157, 50
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiaoxiaguagnquan016
+	rotate: true
+	xy: 922, 633
+	size: 157, 49
+	orig: 157, 49
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiaoxiaguagnquan017
+	rotate: false
+	xy: 673, 965
+	size: 157, 50
+	orig: 157, 50
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiaoxiaguagnquan018
+	rotate: true
+	xy: 871, 633
+	size: 157, 50
+	orig: 157, 50
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiaoxiaguagnquan019
+	rotate: false
+	xy: 673, 913
+	size: 157, 51
+	orig: 157, 51
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian010
+	rotate: false
+	xy: 462, 227
+	size: 132, 229
+	orig: 132, 229
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian011
+	rotate: false
+	xy: 614, 0
+	size: 132, 222
+	orig: 132, 222
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian012
+	rotate: false
+	xy: 462, 457
+	size: 122, 223
+	orig: 122, 223
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian013
+	rotate: true
+	xy: 747, 0
+	size: 123, 223
+	orig: 123, 223
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian014
+	rotate: true
+	xy: 747, 124
+	size: 118, 223
+	orig: 118, 223
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian015
+	rotate: false
+	xy: 460, 681
+	size: 114, 223
+	orig: 114, 223
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian016
+	rotate: true
+	xy: 0, 908
+	size: 110, 224
+	orig: 110, 224
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian017
+	rotate: true
+	xy: 702, 243
+	size: 109, 224
+	orig: 109, 224
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian018
+	rotate: true
+	xy: 702, 353
+	size: 108, 224
+	orig: 108, 224
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian019
+	rotate: false
+	xy: 575, 681
+	size: 107, 224
+	orig: 107, 224
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiaoxiaguagnquan024
+	rotate: false
+	xy: 831, 941
+	size: 157, 46
+	orig: 157, 46
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiaoxiaguagnquan021
+	rotate: false
+	xy: 804, 791
+	size: 157, 50
+	orig: 157, 50
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiaoxiaguagnquan020
+	rotate: true
+	xy: 819, 607
+	size: 157, 51
+	orig: 157, 51
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiaoxiaguagnquan023
+	rotate: false
+	xy: 831, 893
+	size: 157, 47
+	orig: 157, 47
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiaoxiaguagnquan022
+	rotate: false
+	xy: 804, 842
+	size: 157, 50
+	orig: 157, 50
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian021
+	rotate: true
+	xy: 585, 462
+	size: 105, 225
+	orig: 105, 225
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian020
+	rotate: false
+	xy: 595, 227
+	size: 106, 225
+	orig: 106, 225
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian009
+	rotate: false
+	xy: 811, 462
+	size: 95, 144
+	orig: 95, 144
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian022
+	rotate: true
+	xy: 585, 568
+	size: 105, 225
+	orig: 105, 225
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian025
+	rotate: true
+	xy: 462, 905
+	size: 98, 112
+	orig: 98, 112
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian024
+	rotate: true
+	xy: 683, 815
+	size: 97, 120
+	orig: 97, 120
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian027
+	rotate: false
+	xy: 225, 906
+	size: 78, 76
+	orig: 78, 76
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian026
+	rotate: false
+	xy: 575, 906
+	size: 97, 109
+	orig: 97, 109
+	offset: 0, 0
+	index: -1
+skill/jinuosiboshiS_jiyinlian023
+	rotate: false
+	xy: 683, 674
+	size: 99, 140
+	orig: 99, 140
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>dfvfv_chaoshitehuitubiaoimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{76,38}</string>
+                <key>spriteSourceSize</key>
+                <string>{76,38}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{76,38}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>chaoshitehuitubiaoimage0.png</string>
+            <key>size</key>
+            <string>{76,38}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:c7f21bedfa7e92dc4c82ba68bf85f084:26010b5fbc84d817b579882e6e697ba5:8816834465beb4e6e2f73ba5ae833e93$</string>
+            <key>textureFileName</key>
+            <string>chaoshitehuitubiaoimage0.png</string>
+        </dict>
+    </dict>
+</plist>

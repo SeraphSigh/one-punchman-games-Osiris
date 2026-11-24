@@ -1,0 +1,277 @@
+
+asset/anim/zhushijuehaibao32.png
+size: 1019,930
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d_toufa5_longjuanhaibao3
+	rotate: false
+	xy: 488, 871
+	size: 58, 59
+	orig: 58, 59
+	offset: 0, 0
+	index: -1
+d_youxiaotui_longjuanhaibao3
+	rotate: false
+	xy: 193, 276
+	size: 121, 263
+	orig: 121, 263
+	offset: 0, 0
+	index: -1
+d_toufa4_longjuanhaibao3
+	rotate: true
+	xy: 897, 612
+	size: 48, 69
+	orig: 48, 69
+	offset: 0, 0
+	index: -1
+d_zuobi_longjuanhaibao3
+	rotate: false
+	xy: 811, 721
+	size: 36, 86
+	orig: 36, 86
+	offset: 0, 0
+	index: -1
+d_mao4_longjuanhaibao3
+	rotate: false
+	xy: 897, 530
+	size: 70, 81
+	orig: 70, 81
+	offset: 0, 0
+	index: -1
+d_toufa6_longjuanhaibao3
+	rotate: false
+	xy: 969, 729
+	size: 46, 46
+	orig: 46, 46
+	offset: 0, 0
+	index: -1
+d_lingdang_longjuanhaibao3
+	rotate: false
+	xy: 848, 706
+	size: 65, 83
+	orig: 65, 83
+	offset: 0, 0
+	index: -1
+d_toufa3_longjuanhaibao3
+	rotate: false
+	xy: 933, 854
+	size: 72, 72
+	orig: 72, 72
+	offset: 0, 0
+	index: -1
+d_youdatui_longjuanhaibao3
+	rotate: false
+	xy: 608, 742
+	size: 76, 125
+	orig: 76, 125
+	offset: 0, 0
+	index: -1
+d_youbi_longjuanhaibao3
+	rotate: false
+	xy: 833, 529
+	size: 63, 89
+	orig: 63, 89
+	offset: 0, 0
+	index: -1
+d_zhengyan_longjuanhaibao3
+	rotate: true
+	xy: 969, 663
+	size: 65, 46
+	orig: 65, 46
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushijuehaibao30.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d_qunbai_longjuanhaibao3
+	rotate: true
+	xy: 869, 790
+	size: 234, 75
+	orig: 234, 75
+	offset: 0, 0
+	index: -1
+d_youdabi_longjuanhaibao3
+	rotate: false
+	xy: 742, 557
+	size: 32, 46
+	orig: 32, 46
+	offset: 0, 0
+	index: -1
+d_zuoshousheng_longjuanhaibao3
+	rotate: false
+	xy: 742, 287
+	size: 33, 41
+	orig: 33, 41
+	offset: 0, 0
+	index: -1
+d_zuoqiu1_longjuanhaibao3
+	rotate: true
+	xy: 970, 997
+	size: 27, 42
+	orig: 27, 42
+	offset: 0, 0
+	index: -1
+guangqiu_longjuanhaibao3
+	rotate: false
+	xy: 0, 145
+	size: 128, 128
+	orig: 128, 128
+	offset: 0, 0
+	index: -1
+d_zuoqiu2_longjuanhaibao3
+	rotate: true
+	xy: 742, 329
+	size: 34, 33
+	orig: 34, 33
+	offset: 0, 0
+	index: -1
+d_youshoulian_longjuanhaibao3
+	rotate: true
+	xy: 740, 649
+	size: 27, 35
+	orig: 27, 35
+	offset: 0, 0
+	index: -1
+d_youshou_longjuanhaibao3
+	rotate: true
+	xy: 124, 287
+	size: 68, 55
+	orig: 68, 55
+	offset: 0, 0
+	index: -1
+d_paozhu_longjuanhaibao3
+	rotate: false
+	xy: 129, 620
+	size: 147, 399
+	orig: 147, 399
+	offset: 0, 0
+	index: -1
+d_zuobi2_longjuanhaibao3
+	rotate: true
+	xy: 129, 459
+	size: 52, 50
+	orig: 52, 50
+	offset: 0, 0
+	index: -1
+d_toufa1_longjuanhaibao3
+	rotate: true
+	xy: 742, 604
+	size: 44, 32
+	orig: 44, 32
+	offset: 0, 0
+	index: -1
+d_toufa2_longjuanhaibao3
+	rotate: false
+	xy: 945, 921
+	size: 78, 57
+	orig: 78, 57
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushijuehaibao31.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d_youqiu2_longjuanhaibao3
+	rotate: true
+	xy: 117, 997
+	size: 23, 38
+	orig: 23, 38
+	offset: 0, 0
+	index: -1
+d_mao2_longjuanhaibao3
+	rotate: true
+	xy: 926, 115
+	size: 52, 97
+	orig: 52, 97
+	offset: 0, 0
+	index: -1
+d_biyan_longjuanhaibao3
+	rotate: false
+	xy: 605, 986
+	size: 62, 37
+	orig: 62, 37
+	offset: 0, 0
+	index: -1
+d_zuodatui_longjuanhaibao3
+	rotate: false
+	xy: 668, 720
+	size: 125, 141
+	orig: 125, 141
+	offset: 0, 0
+	index: -1
+d_zuoxiaotui_longjuanhaibao3
+	rotate: true
+	xy: 501, 547
+	size: 172, 113
+	orig: 172, 113
+	offset: 0, 0
+	index: -1
+d_zuoshou_longjuanhaibao3
+	rotate: false
+	xy: 917, 297
+	size: 106, 108
+	orig: 106, 108
+	offset: 0, 0
+	index: -1
+d_youqiu1_longjuanhaibao3
+	rotate: false
+	xy: 95, 997
+	size: 21, 24
+	orig: 21, 24
+	offset: 0, 0
+	index: -1
+d_bozi_longjuanhaibao3
+	rotate: true
+	xy: 54, 997
+	size: 26, 40
+	orig: 26, 40
+	offset: 0, 0
+	index: -1
+d_shen_longjuanhaibao3
+	rotate: false
+	xy: 379, 324
+	size: 235, 222
+	orig: 235, 222
+	offset: 0, 0
+	index: -1
+d_lian_longjuanhaibao3
+	rotate: false
+	xy: 502, 194
+	size: 112, 129
+	orig: 112, 129
+	offset: 0, 0
+	index: -1
+d_mao3_longjuanhaibao3
+	rotate: true
+	xy: 926, 0
+	size: 114, 97
+	orig: 114, 97
+	offset: 0, 0
+	index: -1
+d_toufa_longjuanhaibao3
+	rotate: true
+	xy: 299, 989
+	size: 31, 83
+	orig: 31, 83
+	offset: 0, 0
+	index: -1
+d_mao1_longjuanhaibao3
+	rotate: false
+	xy: 903, 862
+	size: 121, 105
+	orig: 121, 105
+	offset: 0, 0
+	index: -1
+d_youqiu3_longjuanhaibao3
+	rotate: false
+	xy: 268, 989
+	size: 30, 32
+	orig: 30, 32
+	offset: 0, 0
+	index: -1

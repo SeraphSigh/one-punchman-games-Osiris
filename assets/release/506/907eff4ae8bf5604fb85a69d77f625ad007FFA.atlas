@@ -1,0 +1,2010 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/weixiaochaoren0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_youyanshangyanpi_weixiaochaoren
+	rotate: false
+	xy: 30, 1013
+	size: 15, 9
+	orig: 15, 9
+	offset: 0, 0
+	index: -1
+a_Lshin_weixiaochaoren
+	rotate: false
+	xy: 951, 968
+	size: 23, 55
+	orig: 23, 55
+	offset: 0, 0
+	index: -1
+c_zuoxiaobi_weixiaochaoren
+	rotate: true
+	xy: 785, 888
+	size: 62, 27
+	orig: 62, 27
+	offset: 0, 0
+	index: -1
+l_zuodatui_weixiaochaoren
+	rotate: true
+	xy: 813, 968
+	size: 55, 53
+	orig: 55, 53
+	offset: 0, 0
+	index: -1
+s_chui_weixiaochaorenda
+	rotate: true
+	xy: 0, 406
+	size: 396, 415
+	orig: 396, 415
+	offset: 0, 0
+	index: -1
+b_youdabi_weixiaochaoren
+	rotate: false
+	xy: 510, 859
+	size: 58, 28
+	orig: 58, 28
+	offset: 0, 0
+	index: -1
+s_Rdatui_weixiaochaorenda
+	rotate: true
+	xy: 813, 858
+	size: 109, 206
+	orig: 109, 206
+	offset: 0, 0
+	index: -1
+f_youshou_weixiaochaoren
+	rotate: true
+	xy: 946, 831
+	size: 26, 33
+	orig: 26, 33
+	offset: 0, 0
+	index: -1
+Lshin_weixiaorenchaorensl
+	rotate: false
+	xy: 785, 951
+	size: 27, 52
+	orig: 27, 52
+	offset: 0, 0
+	index: -1
+e_shenti_weixiaochaoren
+	rotate: true
+	xy: 718, 686
+	size: 73, 116
+	orig: 73, 116
+	offset: 0, 0
+	index: -1
+s_Lxiaobi_weixiaochaorenda
+	rotate: false
+	xy: 513, 731
+	size: 202, 127
+	orig: 202, 127
+	offset: 0, 0
+	index: -1
+a_youyanxiayanpi_weixiaochaoren
+	rotate: false
+	xy: 61, 1013
+	size: 15, 8
+	orig: 15, 8
+	offset: 0, 0
+	index: -1
+j_zuoshou_weixiaochaoren
+	rotate: false
+	xy: 683, 859
+	size: 32, 28
+	orig: 32, 28
+	offset: 0, 0
+	index: -1
+a_kendama_weixiaochaoren
+	rotate: false
+	xy: 640, 291
+	size: 199, 132
+	orig: 199, 132
+	offset: 0, 0
+	index: -1
+r_dabi_weixiaochaorenbaozou
+	rotate: true
+	xy: 979, 157
+	size: 50, 45
+	orig: 50, 45
+	offset: 0, 0
+	index: -1
+t_Lxiaobi_weixiaochaorenda
+	rotate: false
+	xy: 420, 5
+	size: 119, 131
+	orig: 119, 131
+	offset: 0, 0
+	index: -1
+b_chui_weixiaochaoren
+	rotate: true
+	xy: 718, 424
+	size: 96, 118
+	orig: 96, 118
+	offset: 0, 0
+	index: -1
+o_kua_weixiaochaoren
+	rotate: true
+	xy: 867, 968
+	size: 55, 47
+	orig: 55, 47
+	offset: 0, 0
+	index: -1
+r_shou_weixiaochaorenbaozou
+	rotate: false
+	xy: 813, 828
+	size: 22, 29
+	orig: 22, 29
+	offset: 0, 0
+	index: -1
+l_xiaobi_weixiaochaorenbaozou
+	rotate: false
+	xy: 979, 422
+	size: 45, 33
+	orig: 49, 33
+	offset: 4, 0
+	index: -1
+r_shou_weixiaochaoren
+	rotate: true
+	xy: 979, 301
+	size: 42, 45
+	orig: 42, 45
+	offset: 0, 0
+	index: -1
+l_youdabi_weixiaochaoren
+	rotate: true
+	xy: 975, 968
+	size: 53, 49
+	orig: 53, 49
+	offset: 0, 0
+	index: -1
+s_Rdabi_weixiaochaorenda
+	rotate: true
+	xy: 836, 562
+	size: 90, 184
+	orig: 90, 184
+	offset: 0, 0
+	index: -1
+c_shenti_weixiaochaoren
+	rotate: true
+	xy: 716, 760
+	size: 70, 96
+	orig: 70, 96
+	offset: 0, 0
+	index: -1
+a_zuoyanshangyanpi_weixiaochaoren
+	rotate: false
+	xy: 46, 1013
+	size: 14, 9
+	orig: 14, 9
+	offset: 0, 0
+	index: -1
+j_zuoxiaotui_weixiaochaoren
+	rotate: false
+	xy: 915, 968
+	size: 35, 55
+	orig: 35, 55
+	offset: 0, 0
+	index: -1
+b_kua_weixiaochaoren
+	rotate: true
+	xy: 772, 831
+	size: 56, 40
+	orig: 56, 40
+	offset: 0, 0
+	index: -1
+s_Leye_weixiaochaorenda
+	rotate: false
+	xy: 813, 796
+	size: 22, 31
+	orig: 22, 31
+	offset: 0, 0
+	index: -1
+v_chui1_weixiaochaorenda
+	rotate: true
+	xy: 543, 0
+	size: 290, 435
+	orig: 290, 435
+	offset: 0, 0
+	index: -1
+a_Larm_weixiaochaoren
+	rotate: true
+	xy: 628, 859
+	size: 28, 54
+	orig: 28, 54
+	offset: 0, 0
+	index: -1
+m_youdabi_weixiaochaoren
+	rotate: false
+	xy: 753, 968
+	size: 31, 55
+	orig: 31, 55
+	offset: 0, 0
+	index: -1
+u_chui_weixiaochaorenda
+	rotate: true
+	xy: 0, 5
+	size: 400, 419
+	orig: 400, 419
+	offset: 0, 0
+	index: -1
+o_youxiaobi_weixiaochaoren
+	rotate: true
+	xy: 979, 208
+	size: 48, 45
+	orig: 48, 45
+	offset: 0, 0
+	index: -1
+r_chuizi_weixiaochaoren
+	rotate: true
+	xy: 840, 291
+	size: 158, 138
+	orig: 158, 138
+	offset: 0, 0
+	index: -1
+f_zuojiao_weixiaochaoren
+	rotate: false
+	xy: 980, 831
+	size: 44, 24
+	orig: 44, 24
+	offset: 0, 0
+	index: -1
+Rforearm_weixiaorenchaorensl
+	rotate: true
+	xy: 836, 831
+	size: 26, 56
+	orig: 26, 56
+	offset: 0, 0
+	index: -1
+f_zuodatui_weixiaochaoren
+	rotate: false
+	xy: 719, 968
+	size: 33, 56
+	orig: 33, 56
+	offset: 0, 0
+	index: -1
+zui_bu2_weixiaochaoren
+	rotate: false
+	xy: 0, 1013
+	size: 13, 11
+	orig: 13, 11
+	offset: 0, 0
+	index: -1
+i_youdatui_weixiaochaoren
+	rotate: true
+	xy: 979, 344
+	size: 41, 45
+	orig: 41, 45
+	offset: 0, 0
+	index: -1
+l_shou_weixiaochaorenbaozou
+	rotate: true
+	xy: 813, 760
+	size: 35, 22
+	orig: 35, 22
+	offset: 0, 0
+	index: -1
+j_chuizi_weixiaochaoren
+	rotate: false
+	xy: 837, 456
+	size: 187, 105
+	orig: 187, 105
+	offset: 0, 0
+	index: -1
+z_xian_weixiaochaoren
+	rotate: false
+	xy: 0, 0
+	size: 542, 4
+	orig: 542, 4
+	offset: 0, 0
+	index: -1
+d_youshou_weixiaochaoren
+	rotate: false
+	xy: 493, 803
+	size: 19, 39
+	orig: 19, 39
+	offset: 0, 0
+	index: -1
+q_kua_weixiaochaoren
+	rotate: true
+	xy: 979, 54
+	size: 51, 45
+	orig: 51, 45
+	offset: 0, 0
+	index: -1
+d_chuizi_weixiaochaoren
+	rotate: false
+	xy: 615, 888
+	size: 103, 131
+	orig: 103, 131
+	offset: 0, 0
+	index: -1
+zui_bu1_weixiaochaoren
+	rotate: true
+	xy: 14, 1013
+	size: 10, 15
+	orig: 10, 15
+	offset: 0, 0
+	index: -1
+iyouxiaobi_weixiaochaoren
+	rotate: false
+	xy: 893, 831
+	size: 52, 26
+	orig: 52, 26
+	offset: 0, 0
+	index: -1
+f_kua_weixiaochaoren
+	rotate: true
+	xy: 979, 106
+	size: 50, 45
+	orig: 50, 45
+	offset: 0, 0
+	index: -1
+u_Ldabi_weixiaochaorenda
+	rotate: false
+	xy: 420, 212
+	size: 119, 69
+	orig: 119, 69
+	offset: 0, 0
+	index: -1
+a_beijizui_weixiaochaoren
+	rotate: false
+	xy: 232, 1012
+	size: 17, 12
+	orig: 17, 12
+	offset: 0, 0
+	index: -1
+a_zuoyanxiayanpi_weixiaochaoren
+	rotate: false
+	xy: 77, 1013
+	size: 14, 8
+	orig: 14, 8
+	offset: 0, 0
+	index: -1
+v_kua_weixiaochaorenda
+	rotate: true
+	xy: 539, 291
+	size: 133, 100
+	orig: 133, 100
+	offset: 0, 0
+	index: -1
+b_zuodabi_weixiaochaoren
+	rotate: true
+	xy: 979, 257
+	size: 43, 45
+	orig: 43, 45
+	offset: 0, 0
+	index: -1
+v_Ldabi_weixiaochaorenda
+	rotate: false
+	xy: 420, 282
+	size: 118, 142
+	orig: 118, 142
+	offset: 0, 0
+	index: -1
+t_chui_weixiaochaorenda
+	rotate: true
+	xy: 416, 425
+	size: 305, 301
+	orig: 305, 301
+	offset: 0, 0
+	index: -1
+m_zuoshou_weixiaochaoren
+	rotate: true
+	xy: 979, 386
+	size: 35, 45
+	orig: 35, 45
+	offset: 0, 0
+	index: -1
+e_kua_weixiaochaoren
+	rotate: true
+	xy: 979, 0
+	size: 53, 45
+	orig: 53, 45
+	offset: 0, 0
+	index: -1
+r_datui_weixiaochaorenbaozou
+	rotate: true
+	xy: 716, 831
+	size: 56, 55
+	orig: 56, 55
+	offset: 0, 0
+	index: -1
+b_youxiaobi_weixiaochaoren
+	rotate: true
+	xy: 569, 859
+	size: 28, 58
+	orig: 28, 58
+	offset: 0, 0
+	index: -1
+d_zuoshou_weixiaochaoren
+	rotate: true
+	xy: 493, 843
+	size: 44, 16
+	orig: 44, 16
+	offset: 0, 0
+	index: -1
+s_body_weixiaochaorenda
+	rotate: true
+	xy: 232, 803
+	size: 208, 260
+	orig: 208, 260
+	offset: 0, 0
+	index: -1
+f_shenti_weixiaochaoren
+	rotate: false
+	xy: 416, 731
+	size: 96, 71
+	orig: 96, 71
+	offset: 0, 0
+	index: -1
+wuqi_weixiaochaorenbaozou
+	rotate: true
+	xy: 836, 653
+	size: 177, 180
+	orig: 177, 180
+	offset: 0, 0
+	index: -1
+v_Rxiaobi_weixiaochaorenda
+	rotate: true
+	xy: 546, 888
+	size: 132, 68
+	orig: 132, 68
+	offset: 0, 0
+	index: -1
+u_body_weixiaochaorenda
+	rotate: true
+	xy: 0, 803
+	size: 209, 231
+	orig: 209, 231
+	offset: 0, 0
+	index: -1
+r_chuizi_bu1_weixiaochaoren
+	rotate: true
+	xy: 718, 521
+	size: 164, 117
+	orig: 164, 117
+	offset: 0, 0
+	index: -1
+kendama2_weixiaorenchaorensl
+	rotate: true
+	xy: 493, 888
+	size: 136, 52
+	orig: 136, 52
+	offset: 0, 0
+	index: -1
+o_tou_weixiaochaoren
+	rotate: false
+	xy: 719, 888
+	size: 65, 79
+	orig: 65, 79
+	offset: 0, 0
+	index: -1
+
+asset/anim/weixiaochaoren1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+p_zuodatui_weixiaochaoren
+	rotate: true
+	xy: 97, 406
+	size: 51, 50
+	orig: 51, 50
+	offset: 0, 0
+	index: -1
+j_zuodatui_weixiaochaoren
+	rotate: false
+	xy: 719, 898
+	size: 47, 66
+	orig: 47, 66
+	offset: 0, 0
+	index: -1
+h_shenti_weixiaochaoren
+	rotate: false
+	xy: 148, 406
+	size: 82, 82
+	orig: 82, 82
+	offset: 0, 0
+	index: -1
+b_zuodatui_weixiaochaoren
+	rotate: false
+	xy: 356, 488
+	size: 44, 60
+	orig: 44, 60
+	offset: 0, 0
+	index: -1
+Rshin_weixiaorenchaorensl
+	rotate: true
+	xy: 655, 989
+	size: 34, 59
+	orig: 34, 59
+	offset: 0, 0
+	index: -1
+a_shenti_weixiaochaoren
+	rotate: false
+	xy: 654, 459
+	size: 67, 109
+	orig: 67, 109
+	offset: 0, 0
+	index: -1
+Lfoot_weixiaorenchaorensl
+	rotate: false
+	xy: 823, 891
+	size: 46, 30
+	orig: 46, 30
+	offset: 0, 0
+	index: -1
+Rarm_weixiaorenchaorensl
+	rotate: true
+	xy: 168, 489
+	size: 50, 36
+	orig: 50, 36
+	offset: 0, 0
+	index: -1
+a_head_weixiaochaoren
+	rotate: false
+	xy: 627, 824
+	size: 64, 84
+	orig: 64, 84
+	offset: 0, 0
+	index: -1
+n_shenti_weixiaochaoren
+	rotate: true
+	xy: 0, 406
+	size: 85, 94
+	orig: 85, 94
+	offset: 0, 0
+	index: -1
+s_hair_weixiaochaorenda
+	rotate: false
+	xy: 445, 600
+	size: 70, 77
+	orig: 70, 77
+	offset: 0, 0
+	index: -1
+u_Rxiaobi_weixiaochaorenda
+	rotate: true
+	xy: 231, 397
+	size: 90, 157
+	orig: 90, 157
+	offset: 0, 0
+	index: -1
+Rhand_weixiaorenchaorensl
+	rotate: true
+	xy: 818, 989
+	size: 34, 36
+	orig: 34, 36
+	offset: 0, 0
+	index: -1
+j_youdatui_weixiaochaoren
+	rotate: true
+	xy: 922, 788
+	size: 49, 61
+	orig: 49, 61
+	offset: 0, 0
+	index: -1
+p_zuoxiaotui_weixiaochaoren
+	rotate: true
+	xy: 297, 678
+	size: 33, 58
+	orig: 33, 58
+	offset: 0, 0
+	index: -1
+a_Lhand_weixiaochaoren
+	rotate: true
+	xy: 980, 999
+	size: 25, 28
+	orig: 25, 28
+	offset: 0, 0
+	index: -1
+l_zuodabi_weixiaochaoren
+	rotate: true
+	xy: 445, 567
+	size: 32, 53
+	orig: 32, 53
+	offset: 0, 0
+	index: -1
+a_Rthigh_weixiaochaoren
+	rotate: true
+	xy: 0, 678
+	size: 33, 80
+	orig: 33, 80
+	offset: 0, 0
+	index: -1
+l_tou_weixiaochaoren
+	rotate: false
+	xy: 169, 540
+	size: 65, 81
+	orig: 65, 81
+	offset: 0, 0
+	index: -1
+t_Ldabi_weixiaochaorenda
+	rotate: true
+	xy: 880, 443
+	size: 73, 144
+	orig: 73, 144
+	offset: 0, 0
+	index: -1
+neck_weixiaorenchaorensl
+	rotate: true
+	xy: 583, 639
+	size: 38, 25
+	orig: 38, 25
+	offset: 0, 0
+	index: -1
+f_youdabi_weixiaochaoren
+	rotate: true
+	xy: 902, 257
+	size: 36, 52
+	orig: 36, 52
+	offset: 0, 0
+	index: -1
+s_Rxiaobi_weixiaochaorenda
+	rotate: true
+	xy: 506, 929
+	size: 89, 83
+	orig: 89, 83
+	offset: 0, 0
+	index: -1
+e_youshou_weixiaochaoren
+	rotate: false
+	xy: 68, 540
+	size: 37, 38
+	orig: 37, 38
+	offset: 0, 0
+	index: -1
+l_tui_weixiaochaorenbaozou
+	rotate: false
+	xy: 886, 860
+	size: 34, 27
+	orig: 34, 27
+	offset: 0, 0
+	index: -1
+Lhand_weixiaorenchaorensl
+	rotate: false
+	xy: 886, 929
+	size: 30, 26
+	orig: 30, 26
+	offset: 0, 0
+	index: -1
+o_youxiaotui_weixiaochaoren
+	rotate: true
+	xy: 752, 712
+	size: 51, 39
+	orig: 51, 39
+	offset: 0, 0
+	index: -1
+p_youxiaobi_weixiaochaoren
+	rotate: true
+	xy: 721, 712
+	size: 52, 30
+	orig: 52, 30
+	offset: 0, 0
+	index: -1
+j_shenti_weixiaochaoren
+	rotate: false
+	xy: 386, 824
+	size: 79, 106
+	orig: 79, 106
+	offset: 0, 0
+	index: -1
+a_Rforearm_weixiaochaoren
+	rotate: false
+	xy: 205, 489
+	size: 24, 50
+	orig: 24, 50
+	offset: 0, 0
+	index: -1
+f_youjiao_weixiaochaoren
+	rotate: true
+	xy: 986, 784
+	size: 39, 38
+	orig: 39, 38
+	offset: 0, 0
+	index: -1
+j_tou_weixiaochaoren
+	rotate: true
+	xy: 356, 549
+	size: 73, 88
+	orig: 73, 88
+	offset: 0, 0
+	index: -1
+p_kua_weixiaochaoren
+	rotate: false
+	xy: 876, 888
+	size: 44, 40
+	orig: 44, 40
+	offset: 0, 0
+	index: -1
+s_zui_weixiaochaorenda
+	rotate: true
+	xy: 947, 990
+	size: 31, 32
+	orig: 31, 32
+	offset: 0, 0
+	index: -1
+head_weixiaorenchaorensl
+	rotate: false
+	xy: 0, 492
+	size: 67, 86
+	orig: 67, 86
+	offset: 0, 0
+	index: -1
+s_Ldabi_weixiaochaorenda
+	rotate: true
+	xy: 499, 346
+	size: 81, 169
+	orig: 81, 169
+	offset: 0, 0
+	index: -1
+d_youxiaobi_weixiaochaoren
+	rotate: false
+	xy: 135, 623
+	size: 31, 54
+	orig: 31, 54
+	offset: 0, 0
+	index: -1
+l_zuoxiaotui_weixiaochaoren
+	rotate: true
+	xy: 97, 509
+	size: 30, 70
+	orig: 30, 70
+	offset: 0, 0
+	index: -1
+m_youshou_weixiaochaoren
+	rotate: false
+	xy: 551, 639
+	size: 31, 38
+	orig: 31, 38
+	offset: 0, 0
+	index: -1
+e_zuoshou_weixiaochaoren
+	rotate: false
+	xy: 458, 678
+	size: 36, 33
+	orig: 36, 33
+	offset: 0, 0
+	index: -1
+b_zuoxiaotui_weixiaochaoren
+	rotate: true
+	xy: 335, 788
+	size: 34, 62
+	orig: 34, 62
+	offset: 0, 0
+	index: -1
+j_youxiaotui_weixiaochaoren
+	rotate: true
+	xy: 233, 678
+	size: 33, 63
+	orig: 33, 63
+	offset: 0, 0
+	index: -1
+h_xiaobi_weixiaochaoren
+	rotate: true
+	xy: 609, 639
+	size: 42, 44
+	orig: 42, 44
+	offset: 0, 0
+	index: -1
+g_youdabi2_weixiaochaoren
+	rotate: false
+	xy: 495, 678
+	size: 32, 33
+	orig: 32, 33
+	offset: 0, 0
+	index: -1
+v_body_weixiaochaorenda
+	rotate: false
+	xy: 0, 0
+	size: 253, 206
+	orig: 253, 206
+	offset: 0, 0
+	index: -1
+v_Rhand2_weixiaochaorenda
+	rotate: true
+	xy: 798, 891
+	size: 64, 24
+	orig: 64, 24
+	offset: 0, 0
+	index: -1
+kua_weixiaochaorenbaozou
+	rotate: false
+	xy: 902, 173
+	size: 52, 42
+	orig: 52, 42
+	offset: 0, 0
+	index: -1
+v_Rdabi_weixiaochaorenda
+	rotate: true
+	xy: 724, 173
+	size: 111, 177
+	orig: 111, 177
+	offset: 0, 0
+	index: -1
+Larm_weixiaorenchaorensl
+	rotate: true
+	xy: 583, 784
+	size: 39, 57
+	orig: 39, 57
+	offset: 0, 0
+	index: -1
+q_youxiaotui_weixiaochaoren
+	rotate: false
+	xy: 356, 677
+	size: 59, 34
+	orig: 59, 34
+	offset: 0, 0
+	index: -1
+s_Lhand_weixiaochaorenda
+	rotate: true
+	xy: 654, 569
+	size: 108, 67
+	orig: 108, 67
+	offset: 0, 0
+	index: -1
+u_Rdabi_weixiaochaorenda
+	rotate: false
+	xy: 880, 517
+	size: 143, 89
+	orig: 143, 89
+	offset: 0, 0
+	index: -1
+a_coxa_weixiaochaoren
+	rotate: false
+	xy: 445, 530
+	size: 53, 36
+	orig: 53, 36
+	offset: 0, 0
+	index: -1
+j_kua_weixiaochaoren
+	rotate: false
+	xy: 669, 346
+	size: 54, 41
+	orig: 54, 41
+	offset: 0, 0
+	index: -1
+a_Lthigh_weixiaochaoren
+	rotate: true
+	xy: 955, 210
+	size: 35, 69
+	orig: 35, 69
+	offset: 0, 0
+	index: -1
+tou_bu_weixiaochaoren
+	rotate: false
+	xy: 416, 678
+	size: 41, 33
+	orig: 41, 33
+	offset: 0, 0
+	index: -1
+h_kua_weixiaochaoren
+	rotate: false
+	xy: 97, 458
+	size: 50, 50
+	orig: 50, 50
+	offset: 0, 0
+	index: -1
+j_youxiaobi_weixiaochaoren
+	rotate: true
+	xy: 951, 902
+	size: 41, 29
+	orig: 41, 29
+	offset: 0, 0
+	index: -1
+n_zuoshou_weixiaochaoren
+	rotate: true
+	xy: 823, 922
+	size: 33, 29
+	orig: 33, 29
+	offset: 0, 0
+	index: -1
+b_zuoshou_weixiaochaoren
+	rotate: false
+	xy: 914, 989
+	size: 32, 31
+	orig: 32, 31
+	offset: 0, 0
+	index: -1
+i_kua_weixiaochaoren
+	rotate: false
+	xy: 231, 488
+	size: 58, 51
+	orig: 58, 51
+	offset: 0, 0
+	index: -1
+t_Rdabi_weixiaochaorenda
+	rotate: true
+	xy: 722, 529
+	size: 109, 153
+	orig: 109, 153
+	offset: 0, 0
+	index: -1
+e_zuodabi_weixiaochaoren
+	rotate: false
+	xy: 986, 744
+	size: 38, 39
+	orig: 38, 39
+	offset: 0, 0
+	index: -1
+j_zuodabi_weixiaochaoren
+	rotate: false
+	xy: 155, 788
+	size: 46, 35
+	orig: 46, 35
+	offset: 0, 0
+	index: -1
+r_qiu_weixiaochaoren
+	rotate: false
+	xy: 583, 712
+	size: 70, 71
+	orig: 70, 71
+	offset: 0, 0
+	index: -1
+o_shenti_weixiaochaoren
+	rotate: true
+	xy: 466, 824
+	size: 104, 83
+	orig: 104, 83
+	offset: 0, 0
+	index: -1
+b_tou_weixiaochaoren
+	rotate: false
+	xy: 655, 909
+	size: 63, 79
+	orig: 63, 79
+	offset: 0, 0
+	index: -1
+i_zuodatui_weixiaochaoren
+	rotate: false
+	xy: 654, 428
+	size: 68, 30
+	orig: 68, 30
+	offset: 0, 0
+	index: -1
+p_youdabi_weixiaochaoren
+	rotate: false
+	xy: 311, 712
+	size: 29, 75
+	orig: 29, 75
+	offset: 0, 0
+	index: -1
+i_zuoxiaobi_weixiaochaoren
+	rotate: false
+	xy: 981, 922
+	size: 42, 36
+	orig: 42, 36
+	offset: 0, 0
+	index: -1
+p_youxiaotui_weixiaochaoren
+	rotate: true
+	xy: 97, 623
+	size: 54, 37
+	orig: 54, 37
+	offset: 0, 0
+	index: -1
+i_tou_weixiaochaoren
+	rotate: true
+	xy: 491, 712
+	size: 73, 91
+	orig: 73, 91
+	offset: 0, 0
+	index: -1
+h_zuodabi_weixiaochaoren
+	rotate: true
+	xy: 592, 682
+	size: 24, 61
+	orig: 24, 61
+	offset: 0, 0
+	index: -1
+s_Rfoot_weixiaochaorenda
+	rotate: false
+	xy: 550, 824
+	size: 76, 102
+	orig: 76, 102
+	offset: 0, 0
+	index: -1
+f_zuoshou_weixiaochaoren
+	rotate: true
+	xy: 921, 902
+	size: 26, 29
+	orig: 26, 29
+	offset: 0, 0
+	index: -1
+l_youshou_weixiaochaoren
+	rotate: false
+	xy: 516, 639
+	size: 34, 38
+	orig: 34, 38
+	offset: 0, 0
+	index: -1
+o_youdatui_weixiaochaoren
+	rotate: true
+	xy: 955, 246
+	size: 33, 69
+	orig: 33, 69
+	offset: 0, 0
+	index: -1
+b_shenti_weixiaochaoren
+	rotate: true
+	xy: 95, 936
+	size: 88, 104
+	orig: 88, 104
+	offset: 0, 0
+	index: -1
+n_tou_weixiaochaoren
+	rotate: false
+	xy: 590, 927
+	size: 64, 85
+	orig: 64, 85
+	offset: 0, 0
+	index: -1
+f_youdatui_weixiaochaoren
+	rotate: true
+	xy: 715, 989
+	size: 34, 59
+	orig: 34, 59
+	offset: 0, 0
+	index: -1
+s_Lxiaotui22_weixiaochaorenda
+	rotate: true
+	xy: 900, 358
+	size: 84, 124
+	orig: 84, 124
+	offset: 0, 0
+	index: -1
+v_Lxiaobi_weixiaochaorenda
+	rotate: true
+	xy: 0, 937
+	size: 87, 94
+	orig: 87, 94
+	offset: 0, 0
+	index: -1
+t_Rhand_weixiaochaorenda
+	rotate: false
+	xy: 445, 931
+	size: 60, 90
+	orig: 60, 90
+	offset: 0, 0
+	index: -1
+d_shenti_weixiaochaoren
+	rotate: false
+	xy: 148, 678
+	size: 84, 109
+	orig: 84, 109
+	offset: 0, 0
+	index: -1
+q_youjiao_weixiaochaoren
+	rotate: true
+	xy: 775, 989
+	size: 34, 42
+	orig: 34, 42
+	offset: 0, 0
+	index: -1
+v_head_weixiaochaorenda
+	rotate: true
+	xy: 0, 207
+	size: 198, 230
+	orig: 198, 230
+	offset: 0, 0
+	index: -1
+a_Rarm_weixiaochaoren
+	rotate: true
+	xy: 398, 787
+	size: 36, 58
+	orig: 36, 58
+	offset: 0, 0
+	index: -1
+a_Rshin_weixiaochaoren
+	rotate: true
+	xy: 921, 838
+	size: 30, 61
+	orig: 30, 61
+	offset: 0, 0
+	index: -1
+p_youdatui_weixiaochaoren
+	rotate: true
+	xy: 797, 861
+	size: 29, 64
+	orig: 29, 64
+	offset: 0, 0
+	index: -1
+n_kua_weixiaochaoren
+	rotate: true
+	xy: 701, 765
+	size: 58, 41
+	orig: 58, 41
+	offset: 0, 0
+	index: -1
+Lthigh_weixiaorenchaorensl
+	rotate: true
+	xy: 81, 678
+	size: 33, 66
+	orig: 33, 66
+	offset: 0, 0
+	index: -1
+a_xiaolian11_bu11_weixiaochaoren
+	rotate: false
+	xy: 341, 712
+	size: 74, 74
+	orig: 74, 74
+	offset: 0, 0
+	index: -1
+b_qiu_weixiaochaoren
+	rotate: false
+	xy: 692, 824
+	size: 73, 73
+	orig: 73, 73
+	offset: 0, 0
+	index: -1
+s_Rxiaotui_weixiaochaorenda
+	rotate: true
+	xy: 401, 389
+	size: 100, 97
+	orig: 100, 97
+	offset: 0, 0
+	index: -1
+l_dabi_weixiaochaorenbaozou
+	rotate: true
+	xy: 502, 786
+	size: 37, 59
+	orig: 37, 59
+	offset: 0, 0
+	index: -1
+o_youdabi_weixiaochaoren
+	rotate: false
+	xy: 96, 788
+	size: 58, 35
+	orig: 58, 35
+	offset: 0, 0
+	index: -1
+b_youshou_weixiaochaoren
+	rotate: false
+	xy: 886, 828
+	size: 34, 31
+	orig: 34, 31
+	offset: 0, 0
+	index: -1
+i_zuoxiaotui_weixiaochaoren
+	rotate: false
+	xy: 167, 623
+	size: 31, 53
+	orig: 31, 53
+	offset: 0, 0
+	index: -1
+s_Reye_weixiaochaorenda
+	rotate: true
+	xy: 277, 788
+	size: 35, 32
+	orig: 35, 32
+	offset: 0, 0
+	index: -1
+body_weixiaorenchaorensl
+	rotate: false
+	xy: 955, 280
+	size: 68, 77
+	orig: 68, 77
+	offset: 0, 0
+	index: -1
+s_Lfoot_weixiaochaorenda
+	rotate: false
+	xy: 0, 824
+	size: 83, 112
+	orig: 83, 112
+	offset: 0, 0
+	index: -1
+h_zuoxiaobi_weixiaochaoren
+	rotate: true
+	xy: 310, 788
+	size: 35, 24
+	orig: 35, 24
+	offset: 0, 0
+	index: -1
+tou_weixiaochaorenbaozou
+	rotate: false
+	xy: 654, 678
+	size: 66, 86
+	orig: 66, 86
+	offset: 0, 0
+	index: -1
+j_youshou_weixiaochaoren
+	rotate: true
+	xy: 560, 678
+	size: 33, 31
+	orig: 33, 31
+	offset: 0, 0
+	index: -1
+canying_weixiaochaoren
+	rotate: false
+	xy: 235, 575
+	size: 99, 102
+	orig: 99, 102
+	offset: 0, 0
+	index: -1
+b_zuoxiaobi2_weixiaochaoren
+	rotate: false
+	xy: 767, 957
+	size: 59, 31
+	orig: 59, 31
+	offset: 0, 0
+	index: -1
+i_youjiao_weixiaochaoren
+	rotate: false
+	xy: 947, 944
+	size: 32, 45
+	orig: 32, 45
+	offset: 0, 0
+	index: -1
+a_Rhand_weixiaochaoren
+	rotate: false
+	xy: 528, 678
+	size: 31, 33
+	orig: 31, 33
+	offset: 0, 0
+	index: -1
+m_zuoxiaobi_weixiaochaoren
+	rotate: false
+	xy: 335, 623
+	size: 29, 53
+	orig: 29, 53
+	offset: 0, 0
+	index: -1
+g_youxiaobi2_weixiaochaoren
+	rotate: false
+	xy: 365, 623
+	size: 49, 46
+	orig: 49, 46
+	offset: 0, 0
+	index: -1
+s_head_weixiaochaorenda
+	rotate: true
+	xy: 731, 0
+	size: 172, 223
+	orig: 172, 223
+	offset: 0, 0
+	index: -1
+l_kua_weixiaochaoren
+	rotate: false
+	xy: 902, 216
+	size: 52, 40
+	orig: 52, 40
+	offset: 0, 0
+	index: -1
+g_zuoshou_weixiaochaoren
+	rotate: false
+	xy: 416, 623
+	size: 28, 40
+	orig: 28, 40
+	offset: 0, 0
+	index: -1
+l_youxiaobi_weixiaochaoren
+	rotate: false
+	xy: 68, 492
+	size: 28, 47
+	orig: 28, 47
+	offset: 0, 0
+	index: -1
+f_youxiaobi_weixiaochaoren
+	rotate: true
+	xy: 235, 540
+	size: 34, 51
+	orig: 34, 51
+	offset: 0, 0
+	index: -1
+g_kua_weixiaochaoren
+	rotate: true
+	xy: 984, 824
+	size: 49, 40
+	orig: 49, 40
+	offset: 0, 0
+	index: -1
+m_youxiaobi_weixiaochaoren
+	rotate: true
+	xy: 202, 788
+	size: 35, 40
+	orig: 35, 40
+	offset: 0, 0
+	index: -1
+i_youxiaotui_weixiaochaoren
+	rotate: false
+	xy: 592, 579
+	size: 61, 59
+	orig: 61, 59
+	offset: 0, 0
+	index: -1
+p_zuojiao_weixiaochaoren
+	rotate: false
+	xy: 980, 959
+	size: 44, 39
+	orig: 44, 39
+	offset: 0, 0
+	index: -1
+h_chuizi_weixiaochaoren
+	rotate: true
+	xy: 499, 428
+	size: 150, 154
+	orig: 150, 154
+	offset: 0, 0
+	index: -1
+i_youshou_weixiaochaoren
+	rotate: false
+	xy: 719, 965
+	size: 27, 23
+	orig: 27, 23
+	offset: 0, 0
+	index: -1
+shenti_weixiaochaorenbaozou
+	rotate: false
+	xy: 368, 932
+	size: 76, 92
+	orig: 76, 92
+	offset: 0, 0
+	index: -1
+r_xiaobi_weixiaochaorenbaozou
+	rotate: false
+	xy: 917, 929
+	size: 29, 26
+	orig: 29, 26
+	offset: 0, 0
+	index: -1
+s_Lxiaotui_weixiaochaorenda
+	rotate: true
+	xy: 231, 246
+	size: 150, 169
+	orig: 150, 169
+	offset: 0, 0
+	index: -1
+s_Rhand_weixiaochaorenda
+	rotate: false
+	xy: 106, 540
+	size: 62, 82
+	orig: 62, 82
+	offset: 0, 0
+	index: -1
+d_kua_weixiaochaoren
+	rotate: false
+	xy: 669, 388
+	size: 54, 39
+	orig: 54, 39
+	offset: 0, 0
+	index: -1
+a_xiaolian11_bu12_weixiaochaoren
+	rotate: false
+	xy: 254, 0
+	size: 245, 245
+	orig: 245, 245
+	offset: 0, 0
+	index: -1
+m_kua_weixiaochaoren
+	rotate: true
+	xy: 654, 765
+	size: 58, 46
+	orig: 58, 46
+	offset: 0, 0
+	index: -1
+b_chui2_weixiaochaoren
+	rotate: true
+	xy: 724, 285
+	size: 89, 175
+	orig: 89, 175
+	offset: 0, 0
+	index: -1
+i_shenti_weixiaochaoren
+	rotate: true
+	xy: 200, 933
+	size: 91, 85
+	orig: 91, 85
+	offset: 0, 0
+	index: -1
+v_Lhand_weixiaochaorenda
+	rotate: true
+	xy: 823, 828
+	size: 32, 62
+	orig: 32, 62
+	offset: 0, 0
+	index: -1
+m_shenti_weixiaochaoren
+	rotate: false
+	xy: 84, 824
+	size: 66, 111
+	orig: 66, 111
+	offset: 0, 0
+	index: -1
+r_xiaotui_weixiaochaorenbaozou
+	rotate: false
+	xy: 986, 685
+	size: 38, 58
+	orig: 38, 58
+	offset: 0, 0
+	index: -1
+d_zuoxiaobi_weixiaochaoren
+	rotate: false
+	xy: 457, 787
+	size: 44, 36
+	orig: 44, 36
+	offset: 0, 0
+	index: -1
+g_shenti_weixiaochaoren
+	rotate: false
+	xy: 286, 932
+	size: 81, 92
+	orig: 81, 92
+	offset: 0, 0
+	index: -1
+q_tou_weixiaochaoren
+	rotate: false
+	xy: 955, 104
+	size: 69, 67
+	orig: 69, 67
+	offset: 0, 0
+	index: -1
+a_xiaolian11_weixiaochaoren
+	rotate: false
+	xy: 416, 712
+	size: 74, 74
+	orig: 74, 74
+	offset: 0, 0
+	index: -1
+s_kua_weixiaochaorenda
+	rotate: true
+	xy: 401, 246
+	size: 142, 97
+	orig: 142, 97
+	offset: 0, 0
+	index: -1
+h_youshou_weixiaochaoren
+	rotate: true
+	xy: 853, 929
+	size: 26, 32
+	orig: 26, 32
+	offset: 0, 0
+	index: -1
+e_youxiaobi_weixiaochaoren
+	rotate: false
+	xy: 767, 891
+	size: 30, 65
+	orig: 30, 65
+	offset: 0, 0
+	index: -1
+Rthigh_weixiaorenchaorensl
+	rotate: true
+	xy: 955, 172
+	size: 37, 69
+	orig: 37, 69
+	offset: 0, 0
+	index: -1
+k_zuoxiaobi_weixiaochaoren
+	rotate: false
+	xy: 827, 956
+	size: 48, 32
+	orig: 48, 32
+	offset: 0, 0
+	index: -1
+g_youxiaobi_weixiaochaoren
+	rotate: false
+	xy: 775, 785
+	size: 47, 37
+	orig: 47, 37
+	offset: 0, 0
+	index: -1
+l_datui_weixiaochaorenbaozou
+	rotate: true
+	xy: 96, 712
+	size: 66, 51
+	orig: 66, 51
+	offset: 0, 0
+	index: -1
+u_Rhand_weixiaochaorenda
+	rotate: false
+	xy: 0, 579
+	size: 96, 97
+	orig: 96, 97
+	offset: 0, 0
+	index: -1
+q_youdatui_weixiaochaoren
+	rotate: true
+	xy: 900, 294
+	size: 50, 54
+	orig: 50, 54
+	offset: 0, 0
+	index: -1
+e_youdabi_weixiaochaoren
+	rotate: false
+	xy: 876, 956
+	size: 46, 32
+	orig: 46, 32
+	offset: 0, 0
+	index: -1
+p_shenti_weixiaochaoren
+	rotate: false
+	xy: 322, 824
+	size: 63, 107
+	orig: 63, 107
+	offset: 0, 0
+	index: -1
+m_tou_weixiaochaoren
+	rotate: false
+	xy: 290, 488
+	size: 65, 86
+	orig: 65, 86
+	offset: 0, 0
+	index: -1
+coxa_weixiaorenchaorensl
+	rotate: true
+	xy: 401, 490
+	size: 57, 43
+	orig: 57, 43
+	offset: 0, 0
+	index: -1
+i_zuoshou_weixiaochaoren
+	rotate: false
+	xy: 855, 989
+	size: 27, 33
+	orig: 27, 33
+	offset: 0, 0
+	index: -1
+d_zuodabi_weixiaochaoren
+	rotate: false
+	xy: 445, 490
+	size: 53, 39
+	orig: 53, 39
+	offset: 0, 0
+	index: -1
+r_jiao_weixiaochaorenbaozou
+	rotate: true
+	xy: 797, 823
+	size: 37, 25
+	orig: 37, 25
+	offset: 0, 0
+	index: -1
+v_Rhand1_weixiaochaorenda
+	rotate: true
+	xy: 0, 712
+	size: 111, 95
+	orig: 111, 95
+	offset: 0, 0
+	index: -1
+m_zuodabi_weixiaochaoren
+	rotate: true
+	xy: 921, 869
+	size: 32, 59
+	orig: 32, 59
+	offset: 0, 0
+	index: -1
+h_youdabi_weixiaochaoren
+	rotate: true
+	xy: 766, 824
+	size: 66, 30
+	orig: 66, 30
+	offset: 0, 0
+	index: -1
+n_youdabi_weixiaochaoren
+	rotate: false
+	xy: 872, 788
+	size: 49, 39
+	orig: 49, 39
+	offset: 0, 0
+	index: -1
+q_chuizi_weixiaochaoren
+	rotate: false
+	xy: 724, 375
+	size: 155, 153
+	orig: 155, 153
+	offset: 0, 0
+	index: -1
+l_xiaotui_weixiaochaorenbaozou
+	rotate: false
+	xy: 743, 765
+	size: 31, 57
+	orig: 31, 57
+	offset: 0, 0
+	index: -1
+l_shenti_weixiaochaoren
+	rotate: false
+	xy: 955, 0
+	size: 69, 103
+	orig: 69, 103
+	offset: 0, 0
+	index: -1
+f_zuodabi_weixiaochaoren
+	rotate: false
+	xy: 231, 207
+	size: 21, 38
+	orig: 21, 38
+	offset: 0, 0
+	index: -1
+kendama1_weixiaorenchaorensl
+	rotate: true
+	xy: 872, 685
+	size: 102, 113
+	orig: 102, 113
+	offset: 0, 0
+	index: -1
+e_zuoxiaobi_weixiaochaoren
+	rotate: false
+	xy: 981, 874
+	size: 42, 47
+	orig: 42, 47
+	offset: 0, 0
+	index: -1
+q_shenti_weixiaochaoren
+	rotate: true
+	xy: 233, 712
+	size: 75, 77
+	orig: 75, 77
+	offset: 0, 0
+	index: -1
+j_zuoxiaobi_weixiaochaoren
+	rotate: false
+	xy: 883, 999
+	size: 30, 25
+	orig: 30, 25
+	offset: 0, 0
+	index: -1
+i_shenti2_weixiaochaoren
+	rotate: false
+	xy: 232, 824
+	size: 89, 107
+	orig: 89, 107
+	offset: 0, 0
+	index: -1
+b_zuodabi2_weixiaochaoren
+	rotate: false
+	xy: 243, 788
+	size: 33, 35
+	orig: 33, 35
+	offset: 0, 0
+	index: -1
+i_kua2_weixiaochaoren
+	rotate: false
+	xy: 516, 579
+	size: 58, 59
+	orig: 58, 59
+	offset: 0, 0
+	index: -1
+t_Rxiaobi_weixiaochaorenda
+	rotate: true
+	xy: 722, 639
+	size: 72, 149
+	orig: 72, 149
+	offset: 0, 0
+	index: -1
+h_qiu_weixiaochaoren
+	rotate: false
+	xy: 792, 712
+	size: 72, 72
+	orig: 72, 72
+	offset: 0, 0
+	index: -1
+j_youdabi_weixiaochaoren
+	rotate: true
+	xy: 199, 622
+	size: 49, 34
+	orig: 49, 34
+	offset: 0, 0
+	index: -1
+k_zuodabi_weixiaochaoren
+	rotate: true
+	xy: 823, 785
+	size: 42, 48
+	orig: 42, 48
+	offset: 0, 0
+	index: -1
+u_Lxiaobi_weixiaochaorenda
+	rotate: true
+	xy: 876, 607
+	size: 77, 130
+	orig: 77, 130
+	offset: 0, 0
+	index: -1
+
+asset/anim/weixiaochaoren2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_youxiaotui_weixiaochaoren
+	rotate: true
+	xy: 0, 102
+	size: 47, 41
+	orig: 47, 41
+	offset: 0, 0
+	index: -1
+n_zuodabi_weixiaochaoren
+	rotate: true
+	xy: 136, 82
+	size: 36, 29
+	orig: 36, 29
+	offset: 0, 0
+	index: -1
+l_zuoxiaobi_weixiaochaoren
+	rotate: true
+	xy: 70, 94
+	size: 41, 40
+	orig: 41, 40
+	offset: 0, 0
+	index: -1
+Lforearm_weixiaorenchaorensl
+	rotate: false
+	xy: 125, 0
+	size: 29, 36
+	orig: 29, 36
+	offset: 0, 0
+	index: -1
+c_zuodabi_weixiaochaoren
+	rotate: true
+	xy: 0, 198
+	size: 47, 31
+	orig: 47, 31
+	offset: 0, 0
+	index: -1
+h_zuoshou_weixiaochaoren
+	rotate: true
+	xy: 137, 150
+	size: 26, 28
+	orig: 26, 28
+	offset: 0, 0
+	index: -1
+n_youshou_weixiaochaoren
+	rotate: false
+	xy: 42, 94
+	size: 27, 42
+	orig: 27, 42
+	offset: 0, 0
+	index: -1
+b_zuojiao_weixiaochaoren
+	rotate: true
+	xy: 94, 0
+	size: 41, 30
+	orig: 41, 30
+	offset: 0, 0
+	index: -1
+n_youxiaobi_weixiaochaoren
+	rotate: false
+	xy: 42, 49
+	size: 37, 44
+	orig: 37, 44
+	offset: 0, 0
+	index: -1
+i_youdabi_weixiaochaoren
+	rotate: false
+	xy: 0, 150
+	size: 40, 47
+	orig: 40, 47
+	offset: 0, 0
+	index: -1
+o_youjiao_weixiaochaoren
+	rotate: false
+	xy: 166, 74
+	size: 30, 30
+	orig: 30, 30
+	offset: 0, 0
+	index: -1
+n_zuoxiaobi_weixiaochaoren
+	rotate: true
+	xy: 155, 0
+	size: 31, 29
+	orig: 31, 29
+	offset: 0, 0
+	index: -1
+f_zuoxiaotui_weixiaochaoren
+	rotate: false
+	xy: 91, 180
+	size: 40, 40
+	orig: 40, 40
+	offset: 0, 0
+	index: -1
+a_Lfoot_weixiaochaoren
+	rotate: true
+	xy: 111, 87
+	size: 40, 24
+	orig: 40, 24
+	offset: 0, 0
+	index: -1
+j_youjiao_weixiaochaoren
+	rotate: false
+	xy: 180, 32
+	size: 27, 30
+	orig: 27, 30
+	offset: 0, 0
+	index: -1
+i_zuodabi_weixiaochaoren
+	rotate: true
+	xy: 32, 0
+	size: 48, 24
+	orig: 48, 24
+	offset: 0, 0
+	index: -1
+p_youshou_weixiaochaoren
+	rotate: true
+	xy: 97, 136
+	size: 40, 39
+	orig: 40, 39
+	offset: 0, 0
+	index: -1
+g_youdabi_weixiaochaoren
+	rotate: false
+	xy: 0, 0
+	size: 31, 51
+	orig: 31, 51
+	offset: 0, 0
+	index: -1
+c_zuoshou_weixiaochaoren
+	rotate: true
+	xy: 132, 177
+	size: 40, 27
+	orig: 40, 27
+	offset: 0, 0
+	index: -1
+d_youdabi_weixiaochaoren
+	rotate: true
+	xy: 151, 37
+	size: 36, 28
+	orig: 36, 28
+	offset: 0, 0
+	index: -1
+f_zuoxiaobi_weixiaochaoren
+	rotate: true
+	xy: 80, 45
+	size: 41, 32
+	orig: 41, 32
+	offset: 0, 0
+	index: -1
+k_zuoshou_weixiaochaoren
+	rotate: true
+	xy: 69, 137
+	size: 42, 27
+	orig: 42, 27
+	offset: 0, 0
+	index: -1
+g_youshou_weixiaochaoren
+	rotate: false
+	xy: 160, 177
+	size: 30, 30
+	orig: 30, 30
+	offset: 0, 0
+	index: -1
+o_youshou_weixiaochaoren
+	rotate: true
+	xy: 128, 221
+	size: 31, 39
+	orig: 31, 39
+	offset: 0, 0
+	index: -1
+p_youjiao_weixiaochaoren
+	rotate: false
+	xy: 41, 150
+	size: 27, 47
+	orig: 27, 47
+	offset: 0, 0
+	index: -1
+Rfoot_weixiaorenchaorensl
+	rotate: false
+	xy: 137, 119
+	size: 30, 30
+	orig: 30, 30
+	offset: 0, 0
+	index: -1
+b_zuoxiaobi_weixiaochaoren
+	rotate: false
+	xy: 32, 198
+	size: 27, 47
+	orig: 27, 47
+	offset: 0, 0
+	index: -1
+c_kua_weixiaochaoren
+	rotate: true
+	xy: 0, 52
+	size: 49, 41
+	orig: 49, 41
+	offset: 0, 0
+	index: -1
+b_zuoshou2_weixiaochaoren
+	rotate: true
+	xy: 113, 42
+	size: 39, 37
+	orig: 39, 37
+	offset: 0, 0
+	index: -1
+g_youshou2_weixiaochaoren
+	rotate: true
+	xy: 91, 221
+	size: 32, 36
+	orig: 32, 36
+	offset: 0, 0
+	index: -1
+i_zuojiao_weixiaochaoren
+	rotate: true
+	xy: 57, 0
+	size: 44, 36
+	orig: 44, 36
+	offset: 0, 0
+	index: -1
+j_zuojiao_weixiaochaoren
+	rotate: false
+	xy: 185, 0
+	size: 27, 27
+	orig: 27, 27
+	offset: 0, 0
+	index: -1
+a_Lforearm_weixiaochaoren
+	rotate: false
+	xy: 60, 198
+	size: 30, 46
+	orig: 30, 46
+	offset: 0, 0
+	index: -1
+a_Rfoot_weixiaochaoren
+	rotate: false
+	xy: 166, 150
+	size: 27, 26
+	orig: 27, 26
+	offset: 0, 0
+	index: -1

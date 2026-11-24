@@ -1,0 +1,68 @@
+
+asset/anim/shanguangfulaishi2SECOMMON0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/shanguangfulaishi2_smoke3_001
+	rotate: false
+	xy: 1644, 1814
+	size: 230, 159
+	orig: 244, 165
+	offset: 14, 6
+	index: -1
+
+asset/anim/shanguangfulaishi2SECOMMON1.png
+size: 2001,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/shanguangfulaishi2_smoke3_007
+	rotate: false
+	xy: 809, 1946
+	size: 64, 97
+	orig: 244, 165
+	offset: 40, 42
+	index: -1
+common/shanguangfulaishi2_smoke3_006
+	rotate: true
+	xy: 1119, 1749
+	size: 184, 117
+	orig: 244, 165
+	offset: 36, 21
+	index: -1
+common/shanguangfulaishi2_smoke3_005
+	rotate: true
+	xy: 899, 1577
+	size: 180, 133
+	orig: 244, 165
+	offset: 42, 19
+	index: -1
+common/shanguangfulaishi2_smoke3_004
+	rotate: true
+	xy: 331, 1206
+	size: 206, 153
+	orig: 244, 165
+	offset: 34, 7
+	index: -1
+common/shanguangfulaishi2_smoke3_003
+	rotate: false
+	xy: 1782, 1187
+	size: 198, 159
+	orig: 244, 165
+	offset: 40, 6
+	index: -1
+common/shanguangfulaishi2_smoke3_002
+	rotate: false
+	xy: 723, 1275
+	size: 184, 155
+	orig: 244, 165
+	offset: 56, 7
+	index: -1
+common/shanguangfulaishi2_smoke3_000
+	rotate: true
+	xy: 877, 1758
+	size: 178, 133
+	orig: 244, 165
+	offset: 56, 7
+	index: -1

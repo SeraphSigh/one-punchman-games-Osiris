@@ -1,0 +1,41 @@
+
+asset/anim/shengdancaidai0.png
+size: 508,418
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caidai0
+	rotate: false
+	xy: 0, 54
+	size: 508, 83
+	orig: 508, 83
+	offset: 0, 0
+	index: -1
+caidai1
+	rotate: false
+	xy: 0, 138
+	size: 458, 83
+	orig: 458, 83
+	offset: 0, 0
+	index: -1
+caidia2
+	rotate: false
+	xy: 0, 308
+	size: 469, 110
+	orig: 469, 110
+	offset: 0, 0
+	index: -1
+caidia3
+	rotate: false
+	xy: 0, 222
+	size: 429, 85
+	orig: 439, 91
+	offset: 0, 0
+	index: -1
+caidia4
+	rotate: false
+	xy: 0, 0
+	size: 246, 53
+	orig: 246, 53
+	offset: 0, 0
+	index: -1

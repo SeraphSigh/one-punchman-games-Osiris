@@ -1,0 +1,347 @@
+
+asset/anim/jinuosiboshiSE.png
+size: 490,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/jinuosiboshi_qiangkouhuo_15
+	rotate: false
+	xy: 0, 94
+	size: 143, 98
+	orig: 143, 98
+	offset: 0, 0
+	index: -1
+attack/jinuosiboshi_qiangkouhuo_14
+	rotate: false
+	xy: 144, 94
+	size: 126, 126
+	orig: 126, 126
+	offset: 0, 0
+	index: -1
+attack/jinuosiboshi_qiangkouhuo_17
+	rotate: true
+	xy: 194, 418
+	size: 90, 77
+	orig: 90, 77
+	offset: 0, 0
+	index: -1
+attack/jinuosiboshi_qiangkouhuo_16
+	rotate: false
+	xy: 0, 382
+	size: 96, 104
+	orig: 96, 108
+	offset: 0, 1
+	index: -1
+attack/jinuosiboshi_qiangkouhuo_19
+	rotate: true
+	xy: 0, 315
+	size: 66, 104
+	orig: 66, 108
+	offset: 0, 1
+	index: -1
+attack/jinuosiboshi_qiangkouhuo_18
+	rotate: true
+	xy: 134, 343
+	size: 74, 98
+	orig: 74, 98
+	offset: 0, 0
+	index: -1
+attack/yinying_jinuosikelongren12
+	rotate: false
+	xy: 0, 0
+	size: 271, 93
+	orig: 271, 93
+	offset: 0, 0
+	index: -1
+
+asset/anim/jinuosikelongren0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/a_Rfoot_jinuosikelongren
+	rotate: false
+	xy: 337, 0
+	size: 23, 27
+	orig: 23, 27
+	offset: 0, 0
+	index: -1
+attack/e_Lforearm_jinuosikelongren
+	rotate: true
+	xy: 69, 85
+	size: 49, 53
+	orig: 49, 53
+	offset: 0, 0
+	index: -1
+attack/a_gan_jinuosikelongren
+	rotate: false
+	xy: 135, 255
+	size: 50, 90
+	orig: 50, 90
+	offset: 0, 0
+	index: -1
+attack/c_Lhand2_jinuosikelongren
+	rotate: false
+	xy: 135, 346
+	size: 16, 9
+	orig: 16, 9
+	offset: 0, 0
+	index: -1
+attack/a_coca_jinuosikelongren
+	rotate: true
+	xy: 238, 0
+	size: 59, 31
+	orig: 59, 31
+	offset: 0, 0
+	index: -1
+attack/c_Lforearm_jinuosikelongren
+	rotate: false
+	xy: 296, 303
+	size: 25, 50
+	orig: 25, 50
+	offset: 0, 0
+	index: -1
+attack/c_Lhand1_jinuosikelongren
+	rotate: false
+	xy: 178, 497
+	size: 18, 11
+	orig: 18, 11
+	offset: 0, 0
+	index: -1
+attack/a_Lthigh_jinuosikelongren
+	rotate: false
+	xy: 239, 315
+	size: 34, 61
+	orig: 34, 61
+	offset: 0, 0
+	index: -1
+attack/b_hare1_jinuosikelongren
+	rotate: false
+	xy: 136, 208
+	size: 25, 46
+	orig: 25, 46
+	offset: 0, 0
+	index: -1
+attack/a_body_jinuosikelongren
+	rotate: false
+	xy: 0, 259
+	size: 72, 119
+	orig: 72, 119
+	offset: 0, 0
+	index: -1
+attack/b_hare2_jinuosikelongren
+	rotate: true
+	xy: 134, 467
+	size: 29, 76
+	orig: 29, 76
+	offset: 0, 0
+	index: -1
+attack/e_Lhand_jinuosikelongren
+	rotate: true
+	xy: 337, 28
+	size: 24, 23
+	orig: 24, 23
+	offset: 0, 0
+	index: -1
+attack/e_Lshin_jinuosikelongren
+	rotate: false
+	xy: 309, 0
+	size: 27, 52
+	orig: 27, 52
+	offset: 0, 0
+	index: -1
+attack/a_Lforearm_jinuosikelongren
+	rotate: false
+	xy: 274, 314
+	size: 21, 52
+	orig: 21, 52
+	offset: 0, 0
+	index: -1
+attack/a_Rthigh_jinuosikelongren
+	rotate: false
+	xy: 174, 144
+	size: 36, 62
+	orig: 36, 62
+	offset: 0, 0
+	index: -1
+attack/c_Larm_jinuosikelongren
+	rotate: true
+	xy: 363, 53
+	size: 26, 23
+	orig: 26, 23
+	offset: 0, 0
+	index: -1
+attack/a_Rhand2_jinuosikelongren
+	rotate: true
+	xy: 165, 497
+	size: 14, 12
+	orig: 14, 12
+	offset: 0, 0
+	index: -1
+attack/e_Lfoot_jinuosikelongren
+	rotate: true
+	xy: 324, 252
+	size: 41, 28
+	orig: 41, 28
+	offset: 0, 0
+	index: -1
+attack/a_Rforeatm_jinuosikelongren
+	rotate: false
+	xy: 212, 79
+	size: 33, 60
+	orig: 33, 60
+	offset: 0, 0
+	index: -1
+attack/a_Rarm_jinuosikelongren
+	rotate: true
+	xy: 73, 356
+	size: 22, 42
+	orig: 22, 42
+	offset: 0, 0
+	index: -1
+attack/g_Rfoot_jinuosikelongren
+	rotate: true
+	xy: 322, 303
+	size: 43, 25
+	orig: 43, 25
+	offset: 0, 0
+	index: -1
+attack/a_Larm_jinuosikelongren
+	rotate: false
+	xy: 273, 200
+	size: 27, 51
+	orig: 27, 51
+	offset: 0, 0
+	index: -1
+attack/e_Lthigh_jinuosikelongren
+	rotate: false
+	xy: 208, 0
+	size: 29, 61
+	orig: 29, 61
+	offset: 0, 0
+	index: -1
+attack/a_Lshin_jinuosikelongren
+	rotate: false
+	xy: 316, 464
+	size: 23, 47
+	orig: 23, 47
+	offset: 0, 0
+	index: -1
+attack/b_Larm_jinuosikelongren
+	rotate: false
+	xy: 317, 418
+	size: 33, 44
+	orig: 33, 44
+	offset: 0, 0
+	index: -1
+attack/d_Larm_jinuosikelongren
+	rotate: true
+	xy: 205, 207
+	size: 45, 26
+	orig: 45, 26
+	offset: 0, 0
+	index: -1
+attack/a_Rhand3_jinuosikelongren
+	rotate: true
+	xy: 216, 315
+	size: 8, 18
+	orig: 8, 18
+	offset: 0, 0
+	index: -1
+attack/a_Rshin_jinuosikelongren
+	rotate: false
+	xy: 276, 131
+	size: 34, 55
+	orig: 34, 55
+	offset: 0, 0
+	index: -1
+attack/a_Rhand1_jinuosikelongren
+	rotate: true
+	xy: 350, 207
+	size: 20, 29
+	orig: 20, 29
+	offset: 0, 0
+	index: -1
+attack/a_Lhand_jinuosikelongren
+	rotate: true
+	xy: 319, 398
+	size: 19, 27
+	orig: 19, 27
+	offset: 0, 0
+	index: -1
+attack/b_Lforearm_jinuosikelongren
+	rotate: false
+	xy: 266, 377
+	size: 25, 52
+	orig: 25, 52
+	offset: 0, 0
+	index: -1
+attack/b_glasses_jinuosikelongren
+	rotate: false
+	xy: 126, 497
+	size: 38, 14
+	orig: 38, 14
+	offset: 0, 0
+	index: -1
+attack/b_head_jinuosikelongren
+	rotate: false
+	xy: 69, 0
+	size: 72, 84
+	orig: 72, 84
+	offset: 0, 0
+	index: -1
+attack/a_Lfoot_jinuosikelongren
+	rotate: true
+	xy: 328, 167
+	size: 39, 29
+	orig: 39, 29
+	offset: 0, 0
+	index: -1
+
+asset/anim/jinuosiboshiSECOMMON.png
+size: 146,89
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jinuosiboshiS_xingguangA005
+	rotate: false
+	xy: 98, 45
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1
+common/jinuosiboshiS_xingguangA004
+	rotate: false
+	xy: 98, 0
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1
+common/jinuosiboshiS_xingguangA001
+	rotate: false
+	xy: 0, 45
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1
+common/jinuosiboshiS_xingguangA000
+	rotate: false
+	xy: 0, 0
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1
+common/jinuosiboshiS_xingguangA003
+	rotate: false
+	xy: 49, 45
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1
+common/jinuosiboshiS_xingguangA002
+	rotate: false
+	xy: 49, 0
+	size: 48, 44
+	orig: 48, 44
+	offset: 0, 0
+	index: -1

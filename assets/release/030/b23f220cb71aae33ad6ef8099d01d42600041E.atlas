@@ -1,0 +1,59 @@
+
+asset/anim/jinshuqiubang2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jinshuqiubang2_heiping_1
+	rotate: false
+	xy: 747, 656
+	size: 99, 99
+	orig: 99, 99
+	offset: 0, 0
+	index: -1
+
+asset/anim/jinshuqiubang2SECOMMON0.png
+size: 1023,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jinshuqiubang2_baidi_1
+	rotate: false
+	xy: 528, 988
+	size: 30, 30
+	orig: 30, 30
+	offset: 0, 0
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/jinshuqiubang2SEMAX0.png
+size: 1020,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/jinshuqiubang2_yun11_1
+	rotate: false
+	xy: 0, 0
+	size: 978, 335
+	orig: 986, 355
+	offset: 8, 6
+	index: -1
+max/jinshuqiubang2_jiazhucangj1_1
+	rotate: false
+	xy: 0, 336
+	size: 863, 327
+	orig: 865, 327
+	offset: 0, 0
+	index: -1

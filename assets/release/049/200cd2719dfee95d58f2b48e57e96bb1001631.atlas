@@ -1,0 +1,321 @@
+
+asset/anim/guairenhuabaoshankapai.png
+size: 848,1015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_zuodabi2_guairenhuabaoshankapai
+	rotate: false
+	xy: 188, 600
+	size: 237, 148
+	orig: 237, 148
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi2_guairenhuabaoshankapai
+	rotate: false
+	xy: 471, 415
+	size: 188, 182
+	orig: 188, 182
+	offset: 0, 0
+	index: -1
+a_youshou1_guairenhuabaoshankapai
+	rotate: true
+	xy: 748, 173
+	size: 111, 96
+	orig: 111, 96
+	offset: 0, 0
+	index: -1
+a_shouzhi1_guairenhuabaoshankapai
+	rotate: true
+	xy: 780, 319
+	size: 46, 67
+	orig: 46, 67
+	offset: 0, 0
+	index: -1
+a_kua_guairenhuabaoshankapai
+	rotate: false
+	xy: 660, 415
+	size: 188, 115
+	orig: 188, 115
+	offset: 0, 0
+	index: -1
+a_shouzhi8_guairenhuabaoshankapai
+	rotate: false
+	xy: 612, 904
+	size: 53, 75
+	orig: 53, 75
+	offset: 0, 0
+	index: -1
+a_shouzhi17_guairenhuabaoshankapai
+	rotate: false
+	xy: 799, 807
+	size: 34, 76
+	orig: 34, 76
+	offset: 0, 0
+	index: -1
+a_youshou2_guairenhuabaoshankapai
+	rotate: false
+	xy: 509, 700
+	size: 123, 101
+	orig: 123, 101
+	offset: 0, 0
+	index: -1
+a_shouzhi10_guairenhuabaoshankapai
+	rotate: false
+	xy: 789, 886
+	size: 44, 57
+	orig: 44, 57
+	offset: 0, 0
+	index: -1
+a_tou_guairenhuabaoshankapai
+	rotate: true
+	xy: 188, 749
+	size: 123, 226
+	orig: 123, 226
+	offset: 0, 0
+	index: -1
+a_kua3_guairenhuabaoshankapai
+	rotate: false
+	xy: 415, 851
+	size: 24, 20
+	orig: 24, 20
+	offset: 0, 0
+	index: -1
+a_youxiaobi2_guairenhuabaoshankapai
+	rotate: false
+	xy: 633, 724
+	size: 165, 161
+	orig: 165, 161
+	offset: 0, 0
+	index: -1
+a_zuodatui_guairenhuabaoshankapai
+	rotate: true
+	xy: 660, 531
+	size: 192, 174
+	orig: 192, 174
+	offset: 0, 0
+	index: -1
+a_zuoshou2_guairenhuabaoshankapai
+	rotate: false
+	xy: 415, 774
+	size: 90, 76
+	orig: 90, 76
+	offset: 0, 0
+	index: -1
+a_shouzhi20_guairenhuabaoshankapai
+	rotate: false
+	xy: 459, 851
+	size: 46, 71
+	orig: 46, 71
+	offset: 0, 0
+	index: -1
+a_zuoshou1_guairenhuabaoshankapai
+	rotate: false
+	xy: 507, 904
+	size: 104, 81
+	orig: 104, 81
+	offset: 0, 0
+	index: -1
+a_shouzhi6_guairenhuabaoshankapai
+	rotate: false
+	xy: 459, 923
+	size: 47, 81
+	orig: 47, 81
+	offset: 0, 0
+	index: -1
+a_youdabi2_guairenhuabaoshankapai
+	rotate: false
+	xy: 550, 173
+	size: 197, 121
+	orig: 197, 121
+	offset: 0, 0
+	index: -1
+a_shouzhi12_guairenhuabaoshankapai
+	rotate: true
+	xy: 761, 961
+	size: 45, 61
+	orig: 45, 61
+	offset: 0, 0
+	index: -1
+a_biyan_guairenhuabaoshankapai
+	rotate: true
+	xy: 530, 236
+	size: 49, 15
+	orig: 49, 15
+	offset: 0, 0
+	index: -1
+a_shouzhi13_guairenhuabaoshankapai
+	rotate: false
+	xy: 714, 961
+	size: 46, 54
+	orig: 46, 54
+	offset: 0, 0
+	index: -1
+a_zuotui_guairenhuabaoshankapai
+	rotate: true
+	xy: 277, 236
+	size: 163, 252
+	orig: 163, 252
+	offset: 0, 0
+	index: -1
+a_shouzhi11_guairenhuabaoshankapai
+	rotate: false
+	xy: 819, 0
+	size: 28, 71
+	orig: 28, 71
+	offset: 0, 0
+	index: -1
+a_shouzhi9_guairenhuabaoshankapai
+	rotate: true
+	xy: 612, 980
+	size: 35, 60
+	orig: 35, 60
+	offset: 0, 0
+	index: -1
+a_shouzhi15_guairenhuabaoshankapai
+	rotate: true
+	xy: 673, 957
+	size: 58, 40
+	orig: 58, 40
+	offset: 0, 0
+	index: -1
+a_shouzhi14_guairenhuabaoshankapai
+	rotate: false
+	xy: 792, 366
+	size: 51, 47
+	orig: 51, 47
+	offset: 0, 0
+	index: -1
+a_weiba3_guairenhuabaoshankapai
+	rotate: false
+	xy: 0, 327
+	size: 266, 259
+	orig: 266, 259
+	offset: 0, 0
+	index: -1
+a_shenti_guairenhuabaoshankapai
+	rotate: false
+	xy: 0, 0
+	size: 276, 326
+	orig: 276, 326
+	offset: 0, 0
+	index: -1
+a_shouzhi3_guairenhuabaoshankapai
+	rotate: true
+	xy: 728, 375
+	size: 39, 63
+	orig: 39, 63
+	offset: 0, 0
+	index: -1
+a_youdatui_guairenhuabaoshankapai
+	rotate: false
+	xy: 0, 873
+	size: 230, 137
+	orig: 230, 137
+	offset: 0, 0
+	index: -1
+a_shouzhi16_guairenhuabaoshankapai
+	rotate: true
+	xy: 780, 285
+	size: 33, 68
+	orig: 33, 68
+	offset: 0, 0
+	index: -1
+a_youdabi1_guairenhuabaoshankapai
+	rotate: true
+	xy: 0, 587
+	size: 285, 187
+	orig: 285, 187
+	offset: 0, 0
+	index: -1
+a_shouzhi5_guairenhuabaoshankapai
+	rotate: false
+	xy: 666, 886
+	size: 50, 70
+	orig: 50, 70
+	offset: 0, 0
+	index: -1
+a_shouzhi7_guairenhuabaoshankapai
+	rotate: false
+	xy: 728, 295
+	size: 51, 79
+	orig: 51, 79
+	offset: 0, 0
+	index: -1
+a_shouzhi19_guairenhuabaoshankapai
+	rotate: false
+	xy: 819, 72
+	size: 28, 67
+	orig: 28, 67
+	offset: 0, 0
+	index: -1
+a_shouzhi4_guairenhuabaoshankapai
+	rotate: true
+	xy: 717, 886
+	size: 36, 71
+	orig: 36, 71
+	offset: 0, 0
+	index: -1
+a_kua2_guairenhuabaoshankapai
+	rotate: false
+	xy: 507, 986
+	size: 39, 27
+	orig: 39, 27
+	offset: 0, 0
+	index: -1
+a_youxiaobi1_guairenhuabaoshankapai
+	rotate: false
+	xy: 426, 600
+	size: 82, 173
+	orig: 82, 173
+	offset: 0, 0
+	index: -1
+a_youxiaotui_guairenhuabaoshankapai
+	rotate: true
+	xy: 231, 873
+	size: 131, 227
+	orig: 131, 227
+	offset: 0, 0
+	index: -1
+a_zuodabi1_guairenhuabaoshankapai
+	rotate: false
+	xy: 267, 400
+	size: 203, 199
+	orig: 203, 199
+	offset: 0, 0
+	index: -1
+a_weiba2_guairenhuabaoshankapai
+	rotate: false
+	xy: 277, 0
+	size: 272, 235
+	orig: 272, 235
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi1_guairenhuabaoshankapai
+	rotate: true
+	xy: 530, 295
+	size: 119, 197
+	orig: 119, 197
+	offset: 0, 0
+	index: -1
+a_shouzhi2_guairenhuabaoshankapai
+	rotate: true
+	xy: 717, 923
+	size: 37, 64
+	orig: 37, 64
+	offset: 0, 0
+	index: -1
+a_weiba1_guairenhuabaoshankapai
+	rotate: true
+	xy: 550, 0
+	size: 172, 268
+	orig: 172, 268
+	offset: 0, 0
+	index: -1
+a_shouzhi18_guairenhuabaoshankapai
+	rotate: false
+	xy: 799, 724
+	size: 34, 82
+	orig: 34, 82
+	offset: 0, 0
+	index: -1

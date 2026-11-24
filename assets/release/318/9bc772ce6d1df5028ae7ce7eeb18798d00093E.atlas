@@ -1,0 +1,142 @@
+
+asset/anim/wugongzhanglaoSE5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wgzlrc1_qingyan11_2
+	rotate: true
+	xy: 879, 775
+	size: 119, 136
+	orig: 345, 182
+	offset: 163, 22
+	index: -1
+wgzlrc1_qingyan11_3
+	rotate: true
+	xy: 1911, 0
+	size: 127, 136
+	orig: 345, 182
+	offset: 156, 20
+	index: -1
+wgzlrc1_qingyan11_15
+	rotate: true
+	xy: 203, 319
+	size: 127, 182
+	orig: 345, 182
+	offset: 131, 0
+	index: -1
+
+asset/anim/wugongzhanglaoSE4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wgzlrc1_qingyan11_16
+	rotate: true
+	xy: 1884, 1806
+	size: 117, 164
+	orig: 345, 182
+	offset: 138, 4
+	index: -1
+wgzlrc1_qingyan11_14
+	rotate: false
+	xy: 1065, 1797
+	size: 145, 180
+	orig: 345, 182
+	offset: 116, 2
+	index: -1
+
+asset/anim/wugongzhanglaoSE1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wgzlrc1_qingyan11_10
+	rotate: true
+	xy: 948, 793
+	size: 345, 182
+	orig: 345, 182
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongzhanglaoSE3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wgzlrc1_qingyan11_8
+	rotate: true
+	xy: 859, 765
+	size: 341, 180
+	orig: 345, 182
+	offset: 0, 0
+	index: -1
+wgzlrc1_qingyan11_9
+	rotate: true
+	xy: 316, 766
+	size: 345, 182
+	orig: 345, 182
+	offset: 0, 0
+	index: -1
+wgzlrc1_qingyan11_6
+	rotate: true
+	xy: 499, 766
+	size: 345, 176
+	orig: 345, 182
+	offset: 0, 0
+	index: -1
+wgzlrc1_qingyan11_7
+	rotate: true
+	xy: 632, 316
+	size: 345, 176
+	orig: 345, 182
+	offset: 0, 0
+	index: -1
+wgzlrc1_qingyan11_5
+	rotate: true
+	xy: 809, 316
+	size: 345, 170
+	orig: 345, 182
+	offset: 0, 1
+	index: -1
+wgzlrc1_qingyan11_13
+	rotate: true
+	xy: 676, 765
+	size: 343, 182
+	orig: 345, 182
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongzhanglaoSE2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wgzlrc1_qingyan11_1
+	rotate: true
+	xy: 1216, 1320
+	size: 103, 128
+	orig: 345, 182
+	offset: 174, 25
+	index: -1
+wgzlrc1_qingyan11_4
+	rotate: true
+	xy: 316, 1065
+	size: 345, 158
+	orig: 345, 182
+	offset: 0, 8
+	index: -1
+wgzlrc1_qingyan11_12
+	rotate: false
+	xy: 1443, 1866
+	size: 345, 182
+	orig: 345, 182
+	offset: 0, 0
+	index: -1
+wgzlrc1_qingyan11_11
+	rotate: true
+	xy: 1670, 1520
+	size: 345, 180
+	orig: 345, 182
+	offset: 0, 0
+	index: -1

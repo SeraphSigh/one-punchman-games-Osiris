@@ -1,0 +1,227 @@
+
+asset/anim/dajiongyan2SEATTACK1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/dajiongyan2_attack_jiaxue_up_00030
+	rotate: false
+	xy: 606, 0
+	size: 207, 391
+	orig: 259, 453
+	offset: 32, 8
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00031
+	rotate: false
+	xy: 414, 398
+	size: 207, 393
+	orig: 259, 453
+	offset: 32, 8
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00032
+	rotate: false
+	xy: 204, 400
+	size: 209, 397
+	orig: 259, 453
+	offset: 31, 8
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00034
+	rotate: false
+	xy: 198, 0
+	size: 209, 399
+	orig: 259, 453
+	offset: 32, 8
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00036
+	rotate: false
+	xy: 0, 404
+	size: 203, 401
+	orig: 259, 453
+	offset: 32, 8
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00045
+	rotate: false
+	xy: 408, 0
+	size: 197, 397
+	orig: 259, 453
+	offset: 35, 12
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00044
+	rotate: false
+	xy: 0, 0
+	size: 197, 403
+	orig: 259, 453
+	offset: 35, 12
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00027
+	rotate: false
+	xy: 814, 384
+	size: 203, 367
+	orig: 259, 453
+	offset: 27, 18
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00028
+	rotate: false
+	xy: 814, 0
+	size: 205, 383
+	orig: 259, 453
+	offset: 27, 12
+	index: -1
+
+asset/anim/dajiongyan2SEATTACK0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/dajiongyan2_attack_jiaxue_up_00033
+	rotate: false
+	xy: 816, 613
+	size: 207, 399
+	orig: 259, 453
+	offset: 31, 8
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00035
+	rotate: true
+	xy: 262, 816
+	size: 207, 401
+	orig: 259, 453
+	offset: 32, 8
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00037
+	rotate: false
+	xy: 612, 408
+	size: 203, 403
+	orig: 259, 453
+	offset: 32, 8
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00038
+	rotate: false
+	xy: 408, 408
+	size: 203, 405
+	orig: 259, 453
+	offset: 32, 8
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00039
+	rotate: true
+	xy: 262, 204
+	size: 203, 407
+	orig: 259, 453
+	offset: 32, 8
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00040
+	rotate: true
+	xy: 262, 0
+	size: 203, 409
+	orig: 259, 453
+	offset: 32, 8
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00041
+	rotate: false
+	xy: 204, 408
+	size: 203, 407
+	orig: 259, 453
+	offset: 32, 8
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00043
+	rotate: false
+	xy: 0, 0
+	size: 203, 413
+	orig: 259, 453
+	offset: 32, 8
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00042
+	rotate: false
+	xy: 0, 414
+	size: 203, 411
+	orig: 259, 453
+	offset: 32, 8
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00026
+	rotate: true
+	xy: 672, 180
+	size: 197, 337
+	orig: 259, 453
+	offset: 23, 39
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00048
+	rotate: true
+	xy: 672, 0
+	size: 179, 343
+	orig: 259, 453
+	offset: 43, 25
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00050
+	rotate: false
+	xy: 254, 0
+	size: 7, 7
+	orig: 259, 453
+	offset: 100, 231
+	index: -1
+
+asset/anim/dajiongyan2SEATTACK3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/dajiongyan2_attack_jiaxue_up_00049
+	rotate: true
+	xy: 462, 0
+	size: 93, 193
+	orig: 259, 453
+	offset: 87, 144
+	index: -1
+
+asset/anim/dajiongyan2SEATTACK2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/dajiongyan2_attack_jiaxue_up_00024
+	rotate: false
+	xy: 373, 704
+	size: 195, 317
+	orig: 259, 453
+	offset: 15, 40
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00023
+	rotate: false
+	xy: 388, 0
+	size: 187, 307
+	orig: 259, 453
+	offset: 11, 39
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00022
+	rotate: false
+	xy: 576, 0
+	size: 157, 281
+	orig: 259, 453
+	offset: 29, 47
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00047
+	rotate: false
+	xy: 198, 0
+	size: 189, 375
+	orig: 259, 453
+	offset: 39, 16
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00046
+	rotate: false
+	xy: 0, 0
+	size: 197, 389
+	orig: 259, 453
+	offset: 35, 12
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00029
+	rotate: false
+	xy: 0, 390
+	size: 201, 387
+	orig: 259, 453
+	offset: 35, 12
+	index: -1
+attack/dajiongyan2_attack_jiaxue_up_00025
+	rotate: false
+	xy: 202, 376
+	size: 201, 327
+	orig: 259, 453
+	offset: 15, 42
+	index: -1

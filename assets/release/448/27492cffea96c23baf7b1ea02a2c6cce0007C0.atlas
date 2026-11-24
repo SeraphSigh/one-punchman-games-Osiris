@@ -1,0 +1,110 @@
+
+asset/anim/tongyongzhuishanghaibaozha1.png
+size: 1000,793
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tongyongzhuijishanghaijineng_11
+	rotate: false
+	xy: 0, 398
+	size: 360, 395
+	orig: 388, 433
+	offset: 13, 16
+	index: -1
+tongyongzhuijishanghaijineng_10
+	rotate: false
+	xy: 0, 0
+	size: 360, 397
+	orig: 388, 433
+	offset: 14, 15
+	index: -1
+tongyongzhuijishanghaijineng_13
+	rotate: false
+	xy: 694, 400
+	size: 304, 349
+	orig: 388, 433
+	offset: 19, 23
+	index: -1
+tongyongzhuijishanghaijineng_5
+	rotate: false
+	xy: 361, 0
+	size: 334, 399
+	orig: 388, 433
+	offset: 27, 12
+	index: -1
+tongyongzhuijishanghaijineng_4
+	rotate: false
+	xy: 696, 0
+	size: 304, 399
+	orig: 388, 433
+	offset: 43, 15
+	index: -1
+tongyongzhuijishanghaijineng_7
+	rotate: false
+	xy: 361, 400
+	size: 332, 389
+	orig: 388, 433
+	offset: 28, 12
+	index: -1
+
+asset/anim/tongyongzhuishanghaibaozha0.png
+size: 980,812
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tongyongzhuijishanghaijineng_12
+	rotate: false
+	xy: 359, 0
+	size: 350, 359
+	orig: 388, 433
+	offset: 17, 20
+	index: -1
+tongyongzhuijishanghaijineng_14
+	rotate: false
+	xy: 337, 693
+	size: 182, 119
+	orig: 388, 433
+	offset: 116, 125
+	index: -1
+tongyongzhuijishanghaijineng_9
+	rotate: false
+	xy: 0, 0
+	size: 358, 399
+	orig: 388, 433
+	offset: 15, 14
+	index: -1
+tongyongzhuijishanghaijineng_8
+	rotate: false
+	xy: 0, 400
+	size: 336, 397
+	orig: 388, 433
+	offset: 26, 13
+	index: -1
+tongyongzhuijishanghaijineng_6
+	rotate: true
+	xy: 359, 360
+	size: 332, 365
+	orig: 388, 433
+	offset: 28, 12
+	index: -1
+tongyongzhuijishanghaijineng_1
+	rotate: false
+	xy: 725, 642
+	size: 170, 159
+	orig: 388, 433
+	offset: 110, 38
+	index: -1
+tongyongzhuijishanghaijineng_3
+	rotate: false
+	xy: 710, 0
+	size: 270, 325
+	orig: 388, 433
+	offset: 60, 21
+	index: -1
+tongyongzhuijishanghaijineng_2
+	rotate: false
+	xy: 725, 326
+	size: 228, 315
+	orig: 388, 433
+	offset: 81, 29
+	index: -1

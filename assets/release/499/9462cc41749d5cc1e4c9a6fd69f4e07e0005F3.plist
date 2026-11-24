@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>kuang_kelepingtexiaoimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-2,1}</string>
+                <key>spriteSize</key>
+                <string>{128,122}</string>
+                <key>spriteSourceSize</key>
+                <string>{132,124}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{128,122}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>kelepingtexiaoimage0.png</string>
+            <key>size</key>
+            <string>{128,122}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:185f14305a4e8bab66313001b67d88a2:021d6b504eec68e249fc2da0ac3ba2da:3ff58bcdc22972584eaa7c514723c205$</string>
+            <key>textureFileName</key>
+            <string>kelepingtexiaoimage0.png</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>pic_xr_fenxiangyouli_lis.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{170,68}</string>
+                <key>spriteSourceSize</key>
+                <string>{170,68}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{170,68}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>summerShareRes0.png</string>
+            <key>size</key>
+            <string>{170,68}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:f2413980ae178cc600cbe8f0bd119464:7a59b397c7258f204e04f66fd0ae5955:e2e15c947fa24c82c462621e6fb30586$</string>
+            <key>textureFileName</key>
+            <string>summerShareRes0.png</string>
+        </dict>
+    </dict>
+</plist>

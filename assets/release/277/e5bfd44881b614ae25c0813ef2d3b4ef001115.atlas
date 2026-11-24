@@ -1,0 +1,272 @@
+
+asset/anim/snkyhszkapai.png
+size: 926,988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_zuoxiaobi_snkyhszkapai
+	rotate: false
+	xy: 200, 944
+	size: 68, 41
+	orig: 68, 41
+	offset: 0, 0
+	index: -1
+a_yaojin3_snkyhszkapai
+	rotate: true
+	xy: 322, 943
+	size: 24, 26
+	orig: 24, 26
+	offset: 0, 0
+	index: -1
+a_shenti_snkyhszkapai
+	rotate: false
+	xy: 74, 700
+	size: 172, 243
+	orig: 172, 243
+	offset: 0, 0
+	index: -1
+a_hua_snkyhszkapai
+	rotate: true
+	xy: 111, 944
+	size: 41, 88
+	orig: 41, 88
+	offset: 0, 0
+	index: -1
+a_zuodabi_snkyhszkapai
+	rotate: false
+	xy: 534, 362
+	size: 26, 127
+	orig: 26, 127
+	offset: 0, 0
+	index: -1
+a_biyan_snkyhszkapai
+	rotate: false
+	xy: 48, 955
+	size: 62, 27
+	orig: 62, 27
+	offset: 0, 0
+	index: -1
+a_binjiao_snkyhszkapai
+	rotate: false
+	xy: 543, 209
+	size: 17, 57
+	orig: 17, 57
+	offset: 0, 0
+	index: -1
+a_daoqiao_snkyhszkapai
+	rotate: false
+	xy: 726, 891
+	size: 122, 90
+	orig: 122, 90
+	offset: 0, 0
+	index: -1
+a_youdatui_snkyhszkapai
+	rotate: false
+	xy: 514, 573
+	size: 107, 325
+	orig: 107, 325
+	offset: 0, 0
+	index: -1
+a_yaojin4_snkyhszkapai
+	rotate: true
+	xy: 543, 267
+	size: 22, 15
+	orig: 22, 15
+	offset: 0, 0
+	index: -1
+a_bozi_snkyhszkapai
+	rotate: true
+	xy: 849, 883
+	size: 60, 73
+	orig: 60, 73
+	offset: 0, 0
+	index: -1
+a_toufa2_snkyhszkapai
+	rotate: true
+	xy: 247, 906
+	size: 36, 114
+	orig: 36, 114
+	offset: 0, 0
+	index: -1
+a_weijin2_snkyhszkapai
+	rotate: true
+	xy: 849, 666
+	size: 111, 75
+	orig: 111, 75
+	offset: 0, 0
+	index: -1
+a_daizi1_snkyhszkapai
+	rotate: true
+	xy: 0, 209
+	size: 152, 542
+	orig: 152, 542
+	offset: 0, 0
+	index: -1
+a_youdamuzhi_snkyhszkapai
+	rotate: false
+	xy: 0, 955
+	size: 47, 31
+	orig: 47, 31
+	offset: 0, 0
+	index: -1
+a_youxiaobi_snkyhszkapai
+	rotate: true
+	xy: 622, 756
+	size: 134, 104
+	orig: 134, 104
+	offset: 0, 0
+	index: -1
+a_youdabi_snkyhszkapai
+	rotate: true
+	xy: 530, 899
+	size: 88, 127
+	orig: 88, 127
+	offset: 0, 0
+	index: -1
+a_zuodatui_snkyhszkapai
+	rotate: true
+	xy: 247, 700
+	size: 205, 187
+	orig: 205, 187
+	offset: 0, 0
+	index: -1
+a_paozi3_snkyhszkapai
+	rotate: false
+	xy: 561, 0
+	size: 365, 501
+	orig: 365, 501
+	offset: 0, 0
+	index: -1
+a_zuojiao_snkyhszkapai
+	rotate: false
+	xy: 622, 636
+	size: 60, 119
+	orig: 60, 119
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui_snkyhszkapai
+	rotate: false
+	xy: 687, 502
+	size: 188, 61
+	orig: 188, 61
+	offset: 0, 0
+	index: -1
+a_youshou_snkyhszkapai
+	rotate: true
+	xy: 514, 490
+	size: 82, 42
+	orig: 82, 42
+	offset: 0, 0
+	index: -1
+a_huwan_snkyhszkapai
+	rotate: true
+	xy: 658, 891
+	size: 97, 67
+	orig: 97, 67
+	offset: 0, 0
+	index: -1
+a_yaojin2_snkyhszkapai
+	rotate: true
+	xy: 818, 778
+	size: 104, 107
+	orig: 104, 107
+	offset: 0, 0
+	index: -1
+a_paozi1_snkyhszkapai
+	rotate: true
+	xy: 0, 0
+	size: 208, 560
+	orig: 208, 560
+	offset: 0, 0
+	index: -1
+a_tou_snkyhszkapai
+	rotate: true
+	xy: 687, 564
+	size: 101, 183
+	orig: 101, 183
+	offset: 0, 0
+	index: -1
+a_zuoshou_snkyhszkapai
+	rotate: true
+	xy: 460, 903
+	size: 76, 69
+	orig: 76, 69
+	offset: 0, 0
+	index: -1
+a_youshouzhi_snkyhszkapai
+	rotate: false
+	xy: 269, 943
+	size: 52, 34
+	orig: 52, 34
+	offset: 0, 0
+	index: -1
+a_daizi2_snkyhszkapai
+	rotate: true
+	xy: 0, 410
+	size: 289, 513
+	orig: 289, 513
+	offset: 0, 0
+	index: -1
+a_yanjing_snkyhszkapai
+	rotate: true
+	xy: 658, 573
+	size: 62, 27
+	orig: 62, 27
+	offset: 0, 0
+	index: -1
+a_kua_snkyhszkapai
+	rotate: false
+	xy: 727, 666
+	size: 121, 106
+	orig: 121, 106
+	offset: 0, 0
+	index: -1
+a_weijin_snkyhszkapai
+	rotate: true
+	xy: 727, 778
+	size: 111, 90
+	orig: 111, 90
+	offset: 0, 0
+	index: -1
+a_dao_snkyhszkapai
+	rotate: true
+	xy: 0, 362
+	size: 47, 533
+	orig: 47, 533
+	offset: 0, 0
+	index: -1
+a_youjiao_snkyhszkapai
+	rotate: true
+	xy: 557, 502
+	size: 70, 129
+	orig: 70, 129
+	offset: 0, 0
+	index: -1
+a_youxiaotui_snkyhszkapai
+	rotate: false
+	xy: 435, 700
+	size: 78, 202
+	orig: 78, 202
+	offset: 0, 0
+	index: -1
+a_toufa1_snkyhszkapai
+	rotate: false
+	xy: 362, 906
+	size: 97, 80
+	orig: 97, 80
+	offset: 0, 0
+	index: -1
+a_yaojin1_snkyhszkapai
+	rotate: true
+	xy: 876, 502
+	size: 108, 50
+	orig: 108, 50
+	offset: 0, 0
+	index: -1
+a_paozi2_snkyhszkapai
+	rotate: false
+	xy: 0, 700
+	size: 73, 254
+	orig: 73, 254
+	offset: 0, 0
+	index: -1

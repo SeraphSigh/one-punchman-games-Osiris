@@ -1,0 +1,66 @@
+
+asset/anim/dajiongyanSESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/djy_diyan_00080
+	rotate: true
+	xy: 966, 831
+	size: 189, 58
+	orig: 211, 88
+	offset: 0, 2
+	index: -1
+
+asset/anim/dajiongyanSESKILL5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/djy_diyan_00078
+	rotate: true
+	xy: 967, 0
+	size: 175, 54
+	orig: 211, 88
+	offset: 1, 3
+	index: -1
+
+asset/anim/dajiongyanSESKILL6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/djy_diyan_00082
+	rotate: false
+	xy: 545, 960
+	size: 189, 60
+	orig: 211, 88
+	offset: 2, 3
+	index: -1
+skill/djy_diyan_00086
+	rotate: false
+	xy: 760, 954
+	size: 193, 66
+	orig: 211, 88
+	offset: 0, 4
+	index: -1
+skill/djy_diyan_00084
+	rotate: false
+	xy: 351, 960
+	size: 193, 64
+	orig: 211, 88
+	offset: 0, 3
+	index: -1
+
+asset/anim/dajiongyanSESKILL7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/djy_diyan_00088
+	rotate: false
+	xy: 809, 699
+	size: 165, 68
+	orig: 211, 88
+	offset: 0, 3
+	index: -1

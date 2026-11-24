@@ -1,0 +1,75 @@
+
+asset/anim/lianbudingSECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/lianbuding_daoguang1_3
+	rotate: true
+	xy: 664, 433
+	size: 380, 258
+	orig: 448, 314
+	offset: 36, 23
+	index: -1
+common/lianbuding_daoguang1_2
+	rotate: false
+	xy: 275, 433
+	size: 388, 244
+	orig: 448, 314
+	offset: 28, 39
+	index: -1
+common/lianbuding_daoguang1_5
+	rotate: false
+	xy: 275, 678
+	size: 354, 276
+	orig: 448, 314
+	offset: 62, 0
+	index: -1
+common/lianbuding_daoguang1_4
+	rotate: true
+	xy: 668, 0
+	size: 366, 272
+	orig: 448, 314
+	offset: 50, 6
+	index: -1
+common/lianbuding_daoguang1_9
+	rotate: false
+	xy: 867, 814
+	size: 92, 194
+	orig: 448, 314
+	offset: 314, 0
+	index: -1
+common/lianbuding_daoguang1_8
+	rotate: true
+	xy: 630, 814
+	size: 196, 236
+	orig: 448, 314
+	offset: 216, 0
+	index: -1
+
+asset/anim/lianbudingSECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/lianbuding_daoguang1_1
+	rotate: false
+	xy: 321, 271
+	size: 304, 230
+	orig: 448, 314
+	offset: 25, 55
+	index: -1
+common/lianbuding_daoguang1_7
+	rotate: false
+	xy: 742, 0
+	size: 278, 254
+	orig: 448, 314
+	offset: 136, 0
+	index: -1
+common/lianbuding_daoguang1_6
+	rotate: true
+	xy: 742, 255
+	size: 332, 272
+	orig: 448, 314
+	offset: 83, 0
+	index: -1

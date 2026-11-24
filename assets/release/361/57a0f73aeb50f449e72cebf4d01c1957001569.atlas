@@ -1,0 +1,355 @@
+
+asset/anim/haojiekapai1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yaodaitou_haojiekp
+	rotate: true
+	xy: 171, 456
+	size: 42, 30
+	orig: 42, 30
+	offset: 0, 0
+	index: -1
+zuodatou_haojiekp
+	rotate: false
+	xy: 285, 485
+	size: 21, 27
+	orig: 21, 27
+	offset: 0, 0
+	index: -1
+youwujie_haojiekp
+	rotate: false
+	xy: 218, 190
+	size: 30, 32
+	orig: 30, 32
+	offset: 0, 0
+	index: -1
+youzhongjie_haojiekp
+	rotate: false
+	xy: 150, 195
+	size: 31, 36
+	orig: 31, 36
+	offset: 0, 0
+	index: -1
+zuowutou_haojiekp
+	rotate: false
+	xy: 186, 156
+	size: 21, 34
+	orig: 21, 34
+	offset: 0, 0
+	index: -1
+youxiaojie_haojiekp
+	rotate: false
+	xy: 233, 156
+	size: 28, 31
+	orig: 28, 31
+	offset: 0, 0
+	index: -1
+zuoxiaotou_haojiekp
+	rotate: false
+	xy: 36, 475
+	size: 22, 37
+	orig: 22, 37
+	offset: 0, 0
+	index: -1
+zuoxiaotui_haojiekp
+	rotate: false
+	xy: 114, 240
+	size: 113, 215
+	orig: 113, 215
+	offset: 0, 0
+	index: -1
+youshitou_haojiekp
+	rotate: false
+	xy: 127, 156
+	size: 30, 38
+	orig: 30, 38
+	offset: 0, 0
+	index: -1
+youwuguan_haojiekp
+	rotate: false
+	xy: 249, 188
+	size: 24, 31
+	orig: 24, 31
+	offset: 0, 0
+	index: -1
+zuodajie_haojiekp
+	rotate: false
+	xy: 182, 193
+	size: 35, 35
+	orig: 35, 35
+	offset: 0, 0
+	index: -1
+zuozhongjie_haojiekp
+	rotate: true
+	xy: 261, 485
+	size: 27, 23
+	orig: 27, 23
+	offset: 0, 0
+	index: -1
+youdatou_haojiekp
+	rotate: false
+	xy: 202, 456
+	size: 35, 38
+	orig: 35, 38
+	offset: 0, 0
+	index: -1
+zuoshitou_haojiekp
+	rotate: false
+	xy: 150, 456
+	size: 20, 44
+	orig: 20, 44
+	offset: 0, 0
+	index: -1
+youxiaoguan_haojiekp
+	rotate: false
+	xy: 329, 485
+	size: 20, 25
+	orig: 20, 25
+	offset: 0, 0
+	index: -1
+tou_haojiekp
+	rotate: false
+	xy: 127, 0
+	size: 146, 155
+	orig: 146, 155
+	offset: 0, 0
+	index: -1
+zuodai_haojiekp
+	rotate: true
+	xy: 59, 475
+	size: 36, 90
+	orig: 36, 90
+	offset: 0, 0
+	index: -1
+zuoxiaojie_haojiekp
+	rotate: false
+	xy: 238, 486
+	size: 22, 25
+	orig: 22, 25
+	offset: 0, 0
+	index: -1
+youjiao_haojiekp
+	rotate: true
+	xy: 228, 223
+	size: 134, 128
+	orig: 134, 128
+	offset: 0, 0
+	index: -1
+youdaguan_haojiekp
+	rotate: false
+	xy: 274, 115
+	size: 23, 23
+	orig: 23, 23
+	offset: 0, 0
+	index: -1
+zuoxiaoguan_haojiekp
+	rotate: false
+	xy: 274, 186
+	size: 26, 29
+	orig: 26, 29
+	offset: 0, 0
+	index: -1
+youxiaotui_haojiekp
+	rotate: false
+	xy: 0, 0
+	size: 126, 239
+	orig: 126, 239
+	offset: 0, 0
+	index: -1
+zuodatui_haojiekp
+	rotate: false
+	xy: 0, 240
+	size: 113, 234
+	orig: 113, 234
+	offset: 0, 0
+	index: -1
+youxiaobi_haojiekp
+	rotate: true
+	xy: 379, 0
+	size: 114, 122
+	orig: 114, 122
+	offset: 0, 0
+	index: -1
+youwutou_haojiekp
+	rotate: false
+	xy: 127, 195
+	size: 22, 38
+	orig: 22, 38
+	offset: 0, 0
+	index: -1
+youshijie_haojiekp
+	rotate: false
+	xy: 0, 475
+	size: 35, 37
+	orig: 35, 37
+	offset: 0, 0
+	index: -1
+zuojiaojianb_haojiekp
+	rotate: true
+	xy: 208, 156
+	size: 33, 24
+	orig: 33, 24
+	offset: 0, 0
+	index: -1
+zuoshijie_haojiekp
+	rotate: false
+	xy: 350, 485
+	size: 28, 23
+	orig: 28, 23
+	offset: 0, 0
+	index: -1
+zuowujie_haojiekp
+	rotate: false
+	xy: 307, 485
+	size: 21, 27
+	orig: 21, 27
+	offset: 0, 0
+	index: -1
+youdai_haojiekp
+	rotate: true
+	xy: 261, 456
+	size: 28, 103
+	orig: 28, 103
+	offset: 0, 0
+	index: -1
+youzhongguan_haojiekp
+	rotate: false
+	xy: 158, 156
+	size: 27, 36
+	orig: 27, 36
+	offset: 0, 0
+	index: -1
+zuoxiaobi_haojiekp
+	rotate: false
+	xy: 379, 115
+	size: 116, 116
+	orig: 116, 116
+	offset: 0, 0
+	index: -1
+zuowuguan_haojiekp
+	rotate: true
+	xy: 262, 156
+	size: 29, 27
+	orig: 29, 27
+	offset: 0, 0
+	index: -1
+youxiaotou_haojiekp
+	rotate: false
+	xy: 238, 456
+	size: 22, 29
+	orig: 22, 29
+	offset: 0, 0
+	index: -1
+youzhang_haojiekp
+	rotate: true
+	xy: 228, 358
+	size: 97, 96
+	orig: 97, 96
+	offset: 0, 0
+	index: -1
+
+asset/anim/haojiekapai0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youjiaojian_haojiekp
+	rotate: true
+	xy: 391, 497
+	size: 15, 22
+	orig: 15, 22
+	offset: 0, 0
+	index: -1
+zuodabi_haojiekp
+	rotate: true
+	xy: 260, 153
+	size: 126, 242
+	orig: 126, 242
+	offset: 0, 0
+	index: -1
+zuozhongtou_haojiekp
+	rotate: false
+	xy: 194, 448
+	size: 23, 44
+	orig: 23, 44
+	offset: 0, 0
+	index: -1
+ci_haojiekp
+	rotate: true
+	xy: 194, 428
+	size: 19, 45
+	orig: 19, 45
+	offset: 0, 0
+	index: -1
+youdabi_haojiekp
+	rotate: true
+	xy: 260, 0
+	size: 152, 249
+	orig: 152, 249
+	offset: 0, 0
+	index: -1
+houtou_haojiekp
+	rotate: false
+	xy: 391, 431
+	size: 104, 65
+	orig: 104, 65
+	offset: 0, 0
+	index: -1
+yanguang_haojiekp
+	rotate: false
+	xy: 218, 472
+	size: 38, 38
+	orig: 38, 38
+	offset: 0, 0
+	index: -1
+zuojiao_haojiekp
+	rotate: true
+	xy: 391, 280
+	size: 150, 118
+	orig: 150, 118
+	offset: 0, 0
+	index: -1
+zuozhang_haojiekp
+	rotate: false
+	xy: 0, 428
+	size: 93, 84
+	orig: 93, 84
+	offset: 0, 0
+	index: -1
+ying_haojiekp
+	rotate: true
+	xy: 94, 428
+	size: 83, 99
+	orig: 83, 99
+	offset: 0, 0
+	index: -1
+zuojiaojiana_haojiekp
+	rotate: true
+	xy: 414, 497
+	size: 14, 24
+	orig: 14, 24
+	offset: 0, 0
+	index: -1
+youzhongtou_haojiekp
+	rotate: true
+	xy: 218, 448
+	size: 23, 39
+	orig: 23, 39
+	offset: 0, 0
+	index: -1
+ti_haojiekp
+	rotate: false
+	xy: 0, 0
+	size: 259, 427
+	orig: 259, 427
+	offset: 0, 0
+	index: -1
+youdatui_haojiekp
+	rotate: false
+	xy: 260, 280
+	size: 130, 232
+	orig: 130, 232
+	offset: 0, 0
+	index: -1

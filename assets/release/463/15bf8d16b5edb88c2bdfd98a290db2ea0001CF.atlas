@@ -1,0 +1,26 @@
+
+asset/anim/xingganqiutu2SEMax0.png
+size: 1012,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/xgqt2_max_pingzhezhao_00033
+	rotate: false
+	xy: 963, 0
+	size: 16, 10
+	orig: 16, 10
+	offset: 0, 0
+	index: -1
+
+asset/anim/xingganqiutu2SECOMMON0.png
+size: 2041,1975
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/xgqt2_com_xinguang_00037
+	rotate: false
+	xy: 0, 0
+	size: 325, 314
+	orig: 325, 314
+	offset: 0, 0
+	index: -1

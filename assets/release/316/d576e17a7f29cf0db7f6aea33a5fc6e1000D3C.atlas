@@ -1,0 +1,209 @@
+
+asset/anim/sinaikekapai.png
+size: 497,676
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_toufa2_sinaikekapai
+	rotate: false
+	xy: 99, 593
+	size: 103, 83
+	orig: 103, 83
+	offset: 0, 0
+	index: -1
+a_youshangyanpi_sinaikekapai
+	rotate: false
+	xy: 439, 420
+	size: 32, 25
+	orig: 32, 25
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui_sinaikekapai
+	rotate: false
+	xy: 190, 0
+	size: 139, 200
+	orig: 139, 200
+	offset: 0, 0
+	index: -1
+a_youshou_sinaikekapai
+	rotate: false
+	xy: 203, 593
+	size: 117, 62
+	orig: 117, 62
+	offset: 0, 0
+	index: -1
+a_shenti_sinaikekapai
+	rotate: false
+	xy: 0, 346
+	size: 176, 241
+	orig: 176, 241
+	offset: 0, 0
+	index: -1
+a_zui_sinaikekapai
+	rotate: false
+	xy: 472, 420
+	size: 22, 19
+	orig: 22, 19
+	offset: 0, 0
+	index: -1
+a_youdabi_sinaikekapai
+	rotate: false
+	xy: 177, 361
+	size: 148, 122
+	orig: 148, 122
+	offset: 0, 0
+	index: -1
+a_houbai1_sinaikekapai
+	rotate: false
+	xy: 0, 588
+	size: 98, 88
+	orig: 98, 88
+	offset: 0, 0
+	index: -1
+a_zuoshou_sinaikekapai
+	rotate: true
+	xy: 411, 609
+	size: 62, 75
+	orig: 62, 75
+	offset: 0, 0
+	index: -1
+a_toufa3_sinaikekapai
+	rotate: false
+	xy: 321, 609
+	size: 89, 67
+	orig: 89, 67
+	offset: 0, 0
+	index: -1
+a_zuodabi_sinaikekapai
+	rotate: false
+	xy: 339, 480
+	size: 129, 128
+	orig: 129, 128
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi_sinaikekapai
+	rotate: false
+	xy: 436, 186
+	size: 61, 65
+	orig: 61, 65
+	offset: 0, 0
+	index: -1
+a_zuoxiayanpi_sinaikekapai
+	rotate: true
+	xy: 454, 164
+	size: 21, 15
+	orig: 21, 15
+	offset: 0, 0
+	index: -1
+a_zuodatui_sinaikekapai
+	rotate: true
+	xy: 330, 186
+	size: 179, 105
+	orig: 179, 105
+	offset: 0, 0
+	index: -1
+a_youdatui_sinaikekapai
+	rotate: false
+	xy: 326, 366
+	size: 112, 113
+	orig: 112, 113
+	offset: 0, 0
+	index: -1
+a_kua_sinaikekapai
+	rotate: false
+	xy: 177, 484
+	size: 161, 108
+	orig: 161, 108
+	offset: 0, 0
+	index: -1
+a_zuoyanzhu_sinaikekapai
+	rotate: false
+	xy: 326, 480
+	size: 3, 3
+	orig: 3, 3
+	offset: 0, 0
+	index: -1
+a_youyanjing_sinaikekapai
+	rotate: false
+	xy: 203, 656
+	size: 31, 18
+	orig: 31, 18
+	offset: 0, 0
+	index: -1
+a_youxiaotui_sinaikekapai
+	rotate: false
+	xy: 0, 0
+	size: 189, 345
+	orig: 189, 345
+	offset: 0, 0
+	index: -1
+a_youxiaobi_sinaikekapai
+	rotate: false
+	xy: 330, 0
+	size: 123, 185
+	orig: 123, 185
+	offset: 0, 0
+	index: -1
+a_youyanzhu_sinaikekapai
+	rotate: false
+	xy: 326, 361
+	size: 3, 3
+	orig: 3, 3
+	offset: 0, 0
+	index: -1
+a_toufa1_sinaikekapai
+	rotate: false
+	xy: 454, 0
+	size: 42, 80
+	orig: 42, 80
+	offset: 0, 0
+	index: -1
+a_zuoyanjing_sinaikekapai
+	rotate: false
+	xy: 235, 656
+	size: 22, 16
+	orig: 22, 16
+	offset: 0, 0
+	index: -1
+a_tou_sinaikekapai
+	rotate: false
+	xy: 190, 201
+	size: 139, 159
+	orig: 139, 159
+	offset: 0, 0
+	index: -1
+a_bozi_sinaikekapai
+	rotate: false
+	xy: 436, 252
+	size: 60, 93
+	orig: 60, 93
+	offset: 0, 0
+	index: -1
+a_houbai2_sinaikekapai
+	rotate: false
+	xy: 454, 81
+	size: 39, 82
+	orig: 39, 82
+	offset: 0, 0
+	index: -1
+a_houbai3_sinaikekapai
+	rotate: true
+	xy: 439, 346
+	size: 73, 56
+	orig: 73, 56
+	offset: 0, 0
+	index: -1
+a_zuoshangyanpi_sinaikekapai
+	rotate: false
+	xy: 439, 446
+	size: 23, 19
+	orig: 23, 19
+	offset: 0, 0
+	index: -1
+a_youxiayanpi_sinaikekapai
+	rotate: false
+	xy: 470, 164
+	size: 27, 15
+	orig: 27, 15
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,779 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/dengliziwuji1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_huan3_dengliziwujiwuqi
+	rotate: true
+	xy: 486, 92
+	size: 36, 26
+	orig: 36, 26
+	offset: 0, 0
+	index: -1
+l_Rxiaobi_dengliziwuji
+	rotate: false
+	xy: 156, 37
+	size: 61, 30
+	orig: 61, 30
+	offset: 0, 0
+	index: -1
+a_gu4_dengliziwujiwuqi
+	rotate: false
+	xy: 85, 60
+	size: 60, 58
+	orig: 60, 58
+	offset: 0, 0
+	index: -1
+o_Lxiaobi_dengliziwuji
+	rotate: true
+	xy: 218, 38
+	size: 29, 57
+	orig: 29, 57
+	offset: 0, 0
+	index: -1
+a_gu2_dengliziwujiwuqi
+	rotate: false
+	xy: 88, 0
+	size: 67, 59
+	orig: 67, 59
+	offset: 0, 0
+	index: -1
+a_Rforearm1_dengliziwuji
+	rotate: false
+	xy: 453, 0
+	size: 53, 43
+	orig: 53, 43
+	offset: 0, 0
+	index: -1
+a_toushi4_dengliziwuji
+	rotate: true
+	xy: 462, 129
+	size: 38, 40
+	orig: 38, 40
+	offset: 0, 0
+	index: -1
+a_gu6_dengliziwujiwuqi
+	rotate: true
+	xy: 281, 0
+	size: 54, 57
+	orig: 54, 57
+	offset: 0, 0
+	index: -1
+a_gu7_dengliziwujiwuqi
+	rotate: false
+	xy: 0, 129
+	size: 58, 54
+	orig: 58, 54
+	offset: 0, 0
+	index: -1
+b_Lshou_dengliziwuji
+	rotate: true
+	xy: 67, 55
+	size: 32, 17
+	orig: 32, 17
+	offset: 0, 0
+	index: -1
+m_Rxiaobi_dengliziwuji
+	rotate: false
+	xy: 0, 24
+	size: 66, 34
+	orig: 66, 34
+	offset: 0, 0
+	index: -1
+h_Rxiaobi_dengliziwuji
+	rotate: true
+	xy: 219, 0
+	size: 37, 61
+	orig: 37, 61
+	offset: 0, 0
+	index: -1
+e_Rxiaobi_dengliziwuji
+	rotate: true
+	xy: 391, 65
+	size: 44, 47
+	orig: 44, 47
+	offset: 0, 0
+	index: -1
+c_Rxiaobi_dengliziwuji
+	rotate: true
+	xy: 156, 0
+	size: 36, 62
+	orig: 36, 62
+	offset: 0, 0
+	index: -1
+a_head2_dengliziwuji
+	rotate: false
+	xy: 247, 100
+	size: 28, 26
+	orig: 28, 26
+	offset: 0, 0
+	index: -1
+f_Rxiaobi_dengliziwuji
+	rotate: true
+	xy: 396, 0
+	size: 34, 56
+	orig: 34, 56
+	offset: 0, 0
+	index: -1
+a_Larm_dengliziwuji
+	rotate: true
+	xy: 396, 35
+	size: 29, 52
+	orig: 29, 52
+	offset: 0, 0
+	index: -1
+a_hair4_dengliziwuji
+	rotate: false
+	xy: 61, 94
+	size: 23, 43
+	orig: 23, 43
+	offset: 0, 0
+	index: -1
+a_huan7_dengliziwujiwuqi
+	rotate: false
+	xy: 0, 0
+	size: 87, 23
+	orig: 87, 23
+	offset: 0, 0
+	index: -1
+a_Rfoot_dengliziwuji
+	rotate: true
+	xy: 223, 68
+	size: 31, 37
+	orig: 31, 37
+	offset: 0, 0
+	index: -1
+h_Rdabi_dengliziwuji
+	rotate: false
+	xy: 375, 110
+	size: 43, 39
+	orig: 43, 39
+	offset: 0, 0
+	index: -1
+a_kuzi1_dengliziwuji
+	rotate: false
+	xy: 327, 92
+	size: 47, 31
+	orig: 47, 31
+	offset: 0, 0
+	index: -1
+a_hair3_dengliziwuji
+	rotate: false
+	xy: 185, 68
+	size: 37, 31
+	orig: 37, 31
+	offset: 0, 0
+	index: -1
+i_Rdabi_dengliziwuji
+	rotate: false
+	xy: 439, 92
+	size: 46, 26
+	orig: 46, 26
+	offset: 0, 0
+	index: -1
+i_Rxiaobi_dengliziwuji
+	rotate: true
+	xy: 0, 94
+	size: 34, 60
+	orig: 34, 60
+	offset: 0, 0
+	index: -1
+n_Rdabi_dengliziwuji
+	rotate: true
+	xy: 146, 68
+	size: 36, 38
+	orig: 36, 38
+	offset: 0, 0
+	index: -1
+a_weapon_dengliziwuji
+	rotate: true
+	xy: 339, 0
+	size: 40, 56
+	orig: 40, 56
+	offset: 0, 0
+	index: -1
+k_Rdabi_dengliziwuji
+	rotate: false
+	xy: 419, 119
+	size: 42, 37
+	orig: 42, 37
+	offset: 0, 0
+	index: -1
+o_Lshou_dengliziwuji
+	rotate: true
+	xy: 276, 104
+	size: 26, 28
+	orig: 26, 28
+	offset: 0, 0
+	index: -1
+g_Rxiaobi_dengliziwuji
+	rotate: true
+	xy: 276, 55
+	size: 48, 50
+	orig: 48, 50
+	offset: 0, 0
+	index: -1
+d_Rxiaobi_dengliziwuji
+	rotate: true
+	xy: 0, 59
+	size: 34, 63
+	orig: 34, 63
+	offset: 0, 0
+	index: -1
+l_Lfoot_dengliziwuji
+	rotate: true
+	xy: 185, 100
+	size: 30, 32
+	orig: 30, 32
+	offset: 0, 0
+	index: -1
+n_Rshou1_dengliziwuji
+	rotate: false
+	xy: 67, 24
+	size: 19, 30
+	orig: 19, 30
+	offset: 0, 0
+	index: -1
+o_Rxiaobi_dengliziwuji
+	rotate: false
+	xy: 339, 41
+	size: 51, 50
+	orig: 51, 50
+	offset: 0, 0
+	index: -1
+m_Rshou_dengliziwuji
+	rotate: true
+	xy: 218, 100
+	size: 27, 28
+	orig: 27, 28
+	offset: 0, 0
+	index: -1
+a_baozou_dengliziwuji
+	rotate: true
+	xy: 449, 44
+	size: 47, 48
+	orig: 47, 48
+	offset: 0, 0
+	index: -1
+a_hair2_dengliziwuji
+	rotate: false
+	xy: 146, 105
+	size: 32, 26
+	orig: 32, 26
+	offset: 0, 0
+	index: -1
+
+asset/anim/dengliziwuji0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e_Rdabi_dengliziwuji
+	rotate: false
+	xy: 429, 382
+	size: 50, 32
+	orig: 50, 32
+	offset: 0, 0
+	index: -1
+canying_dengliziwuji
+	rotate: true
+	xy: 248, 153
+	size: 94, 120
+	orig: 94, 120
+	offset: 0, 0
+	index: -1
+b_Rshou_dengliziwuji
+	rotate: false
+	xy: 487, 241
+	size: 25, 23
+	orig: 25, 23
+	offset: 0, 0
+	index: -1
+a_Rhand2_dengliziwuji
+	rotate: true
+	xy: 236, 252
+	size: 12, 7
+	orig: 12, 7
+	offset: 0, 0
+	index: -1
+a_Lhand_dengliziwuji
+	rotate: false
+	xy: 487, 343
+	size: 23, 19
+	orig: 23, 19
+	offset: 0, 0
+	index: -1
+f_Rshou_dengliziwuji
+	rotate: false
+	xy: 414, 260
+	size: 36, 19
+	orig: 36, 19
+	offset: 0, 0
+	index: -1
+d_Rshou_dengliziwuji
+	rotate: false
+	xy: 487, 319
+	size: 24, 23
+	orig: 24, 23
+	offset: 0, 0
+	index: -1
+d_Rdabi_dengliziwuji
+	rotate: false
+	xy: 342, 463
+	size: 50, 32
+	orig: 50, 32
+	offset: 0, 0
+	index: -1
+a_toushi3_dengliziwuji
+	rotate: true
+	xy: 451, 260
+	size: 55, 35
+	orig: 55, 35
+	offset: 0, 0
+	index: -1
+k_Rshou2_dengliziwuji
+	rotate: false
+	xy: 487, 363
+	size: 17, 18
+	orig: 17, 18
+	offset: 0, 0
+	index: -1
+a_body2_dengliziwuji
+	rotate: false
+	xy: 167, 397
+	size: 62, 100
+	orig: 62, 100
+	offset: 0, 0
+	index: -1
+i_Rshou1_dengliziwuji
+	rotate: true
+	xy: 267, 497
+	size: 15, 32
+	orig: 15, 32
+	offset: 0, 0
+	index: -1
+k_Rxiaobi_dengliziwuji
+	rotate: true
+	xy: 149, 355
+	size: 41, 38
+	orig: 41, 38
+	offset: 0, 0
+	index: -1
+k_Rshou1_dengliziwuji
+	rotate: true
+	xy: 300, 496
+	size: 15, 23
+	orig: 15, 23
+	offset: 0, 0
+	index: -1
+l_shenti_dengliziwuji
+	rotate: false
+	xy: 106, 397
+	size: 60, 101
+	orig: 60, 101
+	offset: 0, 0
+	index: -1
+n_Rxiaobi_dengliziwuji
+	rotate: true
+	xy: 342, 396
+	size: 66, 47
+	orig: 66, 47
+	offset: 0, 0
+	index: -1
+l_Rtui_dengliziwuji
+	rotate: true
+	xy: 390, 349
+	size: 66, 38
+	orig: 66, 38
+	offset: 0, 0
+	index: -1
+a_body1_dengliziwuji
+	rotate: true
+	xy: 0, 326
+	size: 70, 107
+	orig: 70, 107
+	offset: 0, 0
+	index: -1
+a_body3_dengliziwuji
+	rotate: true
+	xy: 0, 273
+	size: 52, 111
+	orig: 52, 111
+	offset: 0, 0
+	index: -1
+h_Rshou_dengliziwuji
+	rotate: true
+	xy: 490, 80
+	size: 27, 21
+	orig: 27, 21
+	offset: 0, 0
+	index: -1
+a_gu1_dengliziwujiwuqi
+	rotate: true
+	xy: 429, 316
+	size: 65, 57
+	orig: 65, 57
+	offset: 0, 0
+	index: -1
+a_head3a_dengliziwuji
+	rotate: true
+	xy: 167, 498
+	size: 14, 18
+	orig: 14, 18
+	offset: 0, 0
+	index: -1
+a_Rarm_dengliziwuji
+	rotate: false
+	xy: 293, 280
+	size: 38, 72
+	orig: 38, 72
+	offset: 0, 0
+	index: -1
+b_Rxiaobi_dengliziwuji
+	rotate: false
+	xy: 334, 349
+	size: 55, 46
+	orig: 55, 46
+	offset: 0, 0
+	index: -1
+a_gu3_dengliziwujiwuqi
+	rotate: true
+	xy: 233, 289
+	size: 65, 59
+	orig: 65, 59
+	offset: 0, 0
+	index: -1
+a_toushi2_dengliziwuji
+	rotate: true
+	xy: 491, 451
+	size: 59, 18
+	orig: 59, 18
+	offset: 0, 0
+	index: -1
+l_Rshou_dengliziwuji
+	rotate: true
+	xy: 490, 51
+	size: 28, 21
+	orig: 28, 21
+	offset: 0, 0
+	index: -1
+m_chui_dengliziwuji
+	rotate: true
+	xy: 230, 497
+	size: 15, 36
+	orig: 15, 36
+	offset: 0, 0
+	index: -1
+a_bodybu2_dengliziwuji
+	rotate: true
+	xy: 332, 280
+	size: 68, 96
+	orig: 68, 96
+	offset: 0, 0
+	index: -1
+l_tou_dengliziwuji
+	rotate: false
+	xy: 0, 397
+	size: 105, 106
+	orig: 105, 106
+	offset: 0, 0
+	index: -1
+f_shenti_dengliziwuji
+	rotate: false
+	xy: 286, 396
+	size: 55, 99
+	orig: 55, 99
+	offset: 0, 0
+	index: -1
+i_Rshou2_dengliziwuji
+	rotate: false
+	xy: 236, 228
+	size: 10, 23
+	orig: 10, 23
+	offset: 0, 0
+	index: -1
+a_Rhand1_dengliziwuji
+	rotate: true
+	xy: 490, 26
+	size: 24, 22
+	orig: 24, 22
+	offset: 0, 0
+	index: -1
+l_Rarm_dengliziwuji
+	rotate: true
+	xy: 227, 355
+	size: 40, 66
+	orig: 40, 66
+	offset: 0, 0
+	index: -1
+a_hair1_dengliziwuji
+	rotate: true
+	xy: 364, 260
+	size: 19, 49
+	orig: 19, 49
+	offset: 0, 0
+	index: -1
+a_kuzi2_dengliziwuji
+	rotate: false
+	xy: 487, 265
+	size: 25, 17
+	orig: 25, 17
+	offset: 0, 0
+	index: -1
+a_gu5_dengliziwujiwuqi
+	rotate: false
+	xy: 434, 456
+	size: 56, 56
+	orig: 56, 56
+	offset: 0, 0
+	index: -1
+a_shoushang_dengliziwuji
+	rotate: false
+	xy: 108, 355
+	size: 40, 41
+	orig: 40, 41
+	offset: 0, 0
+	index: -1
+c_Rdabi_dengliziwuji
+	rotate: false
+	xy: 294, 353
+	size: 39, 42
+	orig: 39, 42
+	offset: 0, 0
+	index: -1
+a_huan2_dengliziwujiwuqi
+	rotate: true
+	xy: 429, 299
+	size: 15, 18
+	orig: 15, 18
+	offset: 0, 0
+	index: -1
+b_Lxiaobi_dengliziwuji
+	rotate: false
+	xy: 390, 416
+	size: 43, 46
+	orig: 43, 46
+	offset: 0, 0
+	index: -1
+a_toubu_dengliziwuji
+	rotate: true
+	xy: 118, 264
+	size: 90, 114
+	orig: 90, 114
+	offset: 0, 0
+	index: -1
+m_Rdabi_dengliziwuji
+	rotate: true
+	xy: 188, 355
+	size: 41, 38
+	orig: 41, 38
+	offset: 0, 0
+	index: -1
+c_Rshou1_dengliziwuji
+	rotate: true
+	xy: 487, 283
+	size: 35, 24
+	orig: 35, 24
+	offset: 0, 0
+	index: -1
+a_Rforearm2_dengliziwuji
+	rotate: true
+	xy: 0, 228
+	size: 44, 117
+	orig: 44, 117
+	offset: 0, 0
+	index: -1
+g_Rshou_dengliziwuji
+	rotate: true
+	xy: 490, 0
+	size: 25, 22
+	orig: 25, 22
+	offset: 0, 0
+	index: -1
+a_toushi1_dengliziwuji
+	rotate: true
+	xy: 393, 463
+	size: 49, 34
+	orig: 49, 34
+	offset: 0, 0
+	index: -1
+a_huan6_dengliziwujiwuqi
+	rotate: true
+	xy: 324, 496
+	size: 15, 20
+	orig: 15, 20
+	offset: 0, 0
+	index: -1
+a_huan4_dengliziwujiwuqi
+	rotate: true
+	xy: 487, 206
+	size: 34, 25
+	orig: 34, 25
+	offset: 0, 0
+	index: -1
+o_Lxiu_dengliziwuji
+	rotate: true
+	xy: 118, 228
+	size: 35, 117
+	orig: 35, 117
+	offset: 0, 0
+	index: -1
+a_huan1_dengliziwujiwuqi
+	rotate: false
+	xy: 490, 108
+	size: 21, 25
+	orig: 21, 25
+	offset: 0, 0
+	index: -1
+e_shenti_dengliziwuji
+	rotate: false
+	xy: 230, 396
+	size: 55, 100
+	orig: 55, 100
+	offset: 0, 0
+	index: -1
+f_Rdabi_dengliziwuji
+	rotate: false
+	xy: 434, 415
+	size: 45, 40
+	orig: 45, 40
+	offset: 0, 0
+	index: -1
+l_gu_dengliziwuji
+	rotate: true
+	xy: 248, 0
+	size: 152, 241
+	orig: 152, 241
+	offset: 0, 0
+	index: -1
+a_Lfoot_dengliziwuji
+	rotate: true
+	xy: 480, 420
+	size: 30, 32
+	orig: 30, 32
+	offset: 0, 0
+	index: -1
+a_huan5_dengliziwujiwuqi
+	rotate: false
+	xy: 490, 134
+	size: 20, 29
+	orig: 20, 29
+	offset: 0, 0
+	index: -1
+c_Rshou2_dengliziwuji
+	rotate: false
+	xy: 429, 280
+	size: 20, 18
+	orig: 20, 18
+	offset: 0, 0
+	index: -1
+l_body1_dengliziwuji
+	rotate: false
+	xy: 369, 153
+	size: 117, 106
+	orig: 117, 106
+	offset: 0, 0
+	index: -1
+g_Rdabi_dengliziwuji
+	rotate: false
+	xy: 487, 164
+	size: 25, 41
+	orig: 25, 41
+	offset: 0, 0
+	index: -1
+l_Ltui_dengliziwuji
+	rotate: true
+	xy: 480, 382
+	size: 37, 32
+	orig: 37, 32
+	offset: 0, 0
+	index: -1
+a_weapon2_dengliziwuji
+	rotate: false
+	xy: 0, 0
+	size: 247, 227
+	orig: 247, 227
+	offset: 0, 0
+	index: -1
+n_Rshou2_dengliziwuji
+	rotate: false
+	xy: 233, 265
+	size: 12, 23
+	orig: 12, 23
+	offset: 0, 0
+	index: -1
+a_Lforearm_dengliziwuji
+	rotate: true
+	xy: 247, 248
+	size: 31, 116
+	orig: 31, 116
+	offset: 0, 0
+	index: -1

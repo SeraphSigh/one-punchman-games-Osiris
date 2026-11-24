@@ -1,0 +1,20 @@
+
+asset/anim/yundonghuipaotuSP0.png
+size: 70,715
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yundonghuipaotu2
+	rotate: false
+	xy: 0, 358
+	size: 70, 357
+	orig: 70, 357
+	offset: 0, 0
+	index: -1
+yundonghuipaotu1
+	rotate: false
+	xy: 0, 0
+	size: 70, 357
+	orig: 70, 357
+	offset: 0, 0
+	index: -1

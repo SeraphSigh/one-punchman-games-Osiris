@@ -1,0 +1,136 @@
+
+asset/anim/jingquanxiaSECOMMON1.png
+size: 1020,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jingquanxia_tuowei_00024
+	rotate: false
+	xy: 457, 0
+	size: 454, 145
+	orig: 564, 185
+	offset: 88, 22
+	index: -1
+common/jingquanxia_tuowei2_00051
+	rotate: true
+	xy: 0, 770
+	size: 199, 261
+	orig: 305, 323
+	offset: 10, 0
+	index: -1
+common/jingquanxia_tuowei_00026
+	rotate: false
+	xy: 0, 0
+	size: 456, 143
+	orig: 564, 185
+	offset: 98, 32
+	index: -1
+common/jingquanxia_tuowei2_00054
+	rotate: true
+	xy: 309, 314
+	size: 273, 311
+	orig: 305, 323
+	offset: 24, 0
+	index: -1
+
+asset/anim/jingquanxiaSECOMMON0.png
+size: 1016,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jingquanxia_tuowei2_00053
+	rotate: true
+	xy: 530, 719
+	size: 293, 311
+	orig: 305, 323
+	offset: 3, 0
+	index: -1
+
+asset/anim/jingquanxiaSECOMMON3.png
+size: 1001,996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jingquanxia_tuowei_00028
+	rotate: false
+	xy: 0, 0
+	size: 414, 131
+	orig: 564, 185
+	offset: 136, 39
+	index: -1
+common/jingquanxia_tuowei2_00052
+	rotate: true
+	xy: 402, 336
+	size: 279, 309
+	orig: 305, 323
+	offset: 7, 0
+	index: -1
+common/sy_jingquanxia
+	rotate: false
+	xy: 315, 618
+	size: 166, 77
+	orig: 166, 77
+	offset: 0, 0
+	index: -1
+common/sy1_jingquanxia
+	rotate: true
+	xy: 315, 409
+	size: 208, 77
+	orig: 208, 77
+	offset: 0, 0
+	index: -1
+
+asset/anim/jingquanxiaSECOMMON2.png
+size: 983,1003
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jingquanxia_tuowei_00029
+	rotate: true
+	xy: 765, 629
+	size: 196, 115
+	orig: 564, 185
+	offset: 350, 51
+	index: -1
+common/jingquanxia_tuowei_00022
+	rotate: true
+	xy: 132, 443
+	size: 356, 163
+	orig: 564, 185
+	offset: 4, 3
+	index: -1
+common/jingquanxia_tuowei_00027
+	rotate: false
+	xy: 455, 0
+	size: 444, 139
+	orig: 564, 185
+	offset: 109, 35
+	index: -1
+common/jingquanxia_tuowei_00025
+	rotate: false
+	xy: 0, 0
+	size: 454, 149
+	orig: 564, 185
+	offset: 98, 25
+	index: -1
+common/jingquanxia_tuowei_00023
+	rotate: true
+	xy: 0, 443
+	size: 448, 131
+	orig: 564, 185
+	offset: 67, 17
+	index: -1
+common/jingquanxia_tuowei2_00055
+	rotate: false
+	xy: 305, 150
+	size: 257, 309
+	orig: 305, 323
+	offset: 38, 0
+	index: -1
+common/jingquanxia_tuowei2_00056
+	rotate: false
+	xy: 296, 460
+	size: 239, 301
+	orig: 305, 323
+	offset: 39, 0
+	index: -1

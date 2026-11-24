@@ -1,0 +1,641 @@
+
+asset/anim/jienuosi2SESKILL9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/jns2_xiufutxshangceng05
+	rotate: true
+	xy: 970, 0
+	size: 219, 52
+	orig: 227, 124
+	offset: 5, 14
+	index: -1
+skill/jns2_xiufutxshangceng08
+	rotate: false
+	xy: 0, 872
+	size: 221, 40
+	orig: 227, 124
+	offset: 4, 39
+	index: -1
+
+asset/anim/jienuosi2SESKILL8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/jns2_xiufutxshangceng02
+	rotate: false
+	xy: 0, 328
+	size: 219, 52
+	orig: 227, 124
+	offset: 4, 0
+	index: -1
+skill/jns2_xiufutxshangceng15
+	rotate: true
+	xy: 1002, 0
+	size: 223, 22
+	orig: 227, 124
+	offset: 3, 79
+	index: -1
+skill/jns2_xiufutxshangceng13
+	rotate: true
+	xy: 417, 222
+	size: 223, 26
+	orig: 227, 124
+	offset: 3, 68
+	index: -1
+skill/jns2_xiufutxshangceng12
+	rotate: true
+	xy: 330, 222
+	size: 223, 28
+	orig: 227, 124
+	offset: 2, 63
+	index: -1
+skill/jns2_xiufutxshangceng06
+	rotate: false
+	xy: 444, 222
+	size: 221, 48
+	orig: 227, 124
+	offset: 4, 22
+	index: -1
+skill/jns2_xiufutxshangceng07
+	rotate: false
+	xy: 444, 320
+	size: 221, 44
+	orig: 227, 124
+	offset: 4, 30
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0007
+	rotate: false
+	xy: 370, 519
+	size: 182, 61
+	orig: 280, 73
+	offset: 47, 8
+	index: -1
+global/a_global_quanbaodian_01
+	rotate: false
+	xy: 784, 534
+	size: 179, 147
+	orig: 255, 183
+	offset: 29, 12
+	index: -1
+global/a_global_quanbaodian_05
+	rotate: false
+	xy: 814, 0
+	size: 195, 129
+	orig: 255, 183
+	offset: 46, 16
+	index: -1
+global/a_global_quanbaodian_06
+	rotate: false
+	xy: 204, 73
+	size: 201, 137
+	orig: 255, 183
+	offset: 46, 16
+	index: -1
+global/a_global_texiao34_shenhaiwang_0011
+	rotate: false
+	xy: 799, 224
+	size: 190, 65
+	orig: 280, 73
+	offset: 42, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0012
+	rotate: false
+	xy: 400, 305
+	size: 192, 65
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0013
+	rotate: false
+	xy: 799, 290
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0014
+	rotate: false
+	xy: 593, 319
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 5
+	index: -1
+
+asset/anim/jienuosi2SESKILL3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/jns2_xiufutxshangceng03
+	rotate: false
+	xy: 804, 463
+	size: 219, 58
+	orig: 227, 124
+	offset: 5, 0
+	index: -1
+
+asset/anim/jienuosi2SESKILL2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/jns2_xiufu
+	rotate: false
+	xy: 319, 977
+	size: 49, 47
+	orig: 51, 49
+	offset: 0, 2
+	index: -1
+skill/jns2_xiufutxshangceng14
+	rotate: true
+	xy: 1000, 371
+	size: 223, 24
+	orig: 227, 124
+	offset: 3, 74
+	index: -1
+
+asset/anim/jienuosi2SESKILL1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/jns2_xiufutxshangceng00
+	rotate: true
+	xy: 542, 584
+	size: 217, 38
+	orig: 227, 124
+	offset: 6, 4
+	index: -1
+
+asset/anim/jienuosi2SESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/jns2_xiufutxshangceng09
+	rotate: false
+	xy: 406, 989
+	size: 221, 34
+	orig: 227, 124
+	offset: 4, 48
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0001
+	rotate: true
+	xy: 639, 329
+	size: 98, 27
+	orig: 280, 73
+	offset: 89, 18
+	index: -1
+global/a_global_quanbaodian_02
+	rotate: false
+	xy: 526, 860
+	size: 203, 163
+	orig: 255, 183
+	offset: 8, 11
+	index: -1
+global/a_global_quanbaodian_03
+	rotate: false
+	xy: 306, 860
+	size: 219, 163
+	orig: 255, 183
+	offset: 7, 10
+	index: -1
+
+asset/anim/jienuosi2SESKILL6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/jns2_xiufutxshangceng16
+	rotate: false
+	xy: 222, 1003
+	size: 223, 20
+	orig: 227, 124
+	offset: 3, 85
+	index: -1
+
+asset/anim/jienuosi2SESKILL5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/jns2_xiufutxshangceng11
+	rotate: true
+	xy: 324, 286
+	size: 223, 30
+	orig: 227, 124
+	offset: 2, 58
+	index: -1
+skill/jns2_xiufutxshangceng10
+	rotate: true
+	xy: 992, 648
+	size: 221, 32
+	orig: 227, 124
+	offset: 4, 53
+	index: -1
+
+asset/anim/jienuosi2SESKILL4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/jns2_xiufutxshangceng04
+	rotate: true
+	xy: 965, 86
+	size: 219, 58
+	orig: 227, 124
+	offset: 5, 5
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0003
+	rotate: false
+	xy: 276, 251
+	size: 156, 53
+	orig: 280, 73
+	offset: 59, 11
+	index: -1
+global/a_global_texiao34_shenhaiwang_0002
+	rotate: false
+	xy: 889, 238
+	size: 126, 47
+	orig: 280, 73
+	offset: 71, 12
+	index: -1
+global/a_global_quanbaodian_00
+	rotate: false
+	xy: 889, 457
+	size: 125, 99
+	orig: 255, 183
+	offset: 53, 31
+	index: -1
+
+asset/anim/jienuosi2SESKILL10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/jns2_xiufutxshangceng01
+	rotate: true
+	xy: 965, 0
+	size: 219, 44
+	orig: 227, 124
+	offset: 4, 2
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_longjuan_shandian_009
+	rotate: false
+	xy: 308, 631
+	size: 87, 132
+	orig: 255, 212
+	offset: 1, 49
+	index: -1
+global/a_global_longjuan_shandian_008
+	rotate: true
+	xy: 813, 831
+	size: 31, 66
+	orig: 255, 212
+	offset: 198, 86
+	index: -1
+global/a_global_longjuan_shandian_007
+	rotate: true
+	xy: 705, 230
+	size: 55, 84
+	orig: 255, 212
+	offset: 189, 80
+	index: -1
+global/a_global_longjuan_shandian_006
+	rotate: false
+	xy: 0, 0
+	size: 237, 154
+	orig: 255, 212
+	offset: 7, 19
+	index: -1
+global/a_global_longjuan_shandian_005
+	rotate: false
+	xy: 170, 484
+	size: 125, 146
+	orig: 255, 212
+	offset: 12, 15
+	index: -1
+global/a_global_longjuan_shandian_004
+	rotate: false
+	xy: 238, 0
+	size: 175, 144
+	orig: 255, 212
+	offset: 66, 11
+	index: -1
+global/a_global_longjuan_shandian_003
+	rotate: false
+	xy: 728, 688
+	size: 91, 68
+	orig: 255, 212
+	offset: 63, 43
+	index: -1
+global/a_global_longjuan_shandian_002
+	rotate: false
+	xy: 411, 166
+	size: 137, 120
+	orig: 255, 212
+	offset: 95, 19
+	index: -1
+global/a_global_longjuan_shandian_001
+	rotate: false
+	xy: 170, 631
+	size: 137, 112
+	orig: 255, 212
+	offset: 88, 16
+	index: -1
+global/a_global_longjuan_shandian_000
+	rotate: false
+	xy: 813, 760
+	size: 69, 70
+	orig: 255, 212
+	offset: 85, 12
+	index: -1
+global/a_global_longjuan_shandian_011
+	rotate: true
+	xy: 820, 684
+	size: 75, 70
+	orig: 255, 212
+	offset: 0, 113
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0009
+	rotate: false
+	xy: 840, 0
+	size: 184, 63
+	orig: 280, 73
+	offset: 46, 7
+	index: -1
+global/a_global_quanbaodian_04
+	rotate: false
+	xy: 617, 780
+	size: 195, 139
+	orig: 255, 183
+	offset: 38, 10
+	index: -1
+global/a_global_texiao34_shenhaiwang_0010
+	rotate: false
+	xy: 836, 891
+	size: 188, 63
+	orig: 280, 73
+	offset: 43, 7
+	index: -1
+
+asset/anim/jienuosi2SEATTACK0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/jns2_pg1_00014
+	rotate: false
+	xy: 360, 697
+	size: 193, 63
+	orig: 223, 131
+	offset: 25, 25
+	index: -1
+attack/jns2_pg1_00015
+	rotate: false
+	xy: 324, 789
+	size: 185, 59
+	orig: 223, 131
+	offset: 32, 26
+	index: -1
+attack/jns2_pg1_00003
+	rotate: true
+	xy: 814, 383
+	size: 55, 33
+	orig: 223, 131
+	offset: 82, 11
+	index: -1
+attack/jns2_pg1_00005
+	rotate: false
+	xy: 510, 761
+	size: 91, 55
+	orig: 223, 131
+	offset: 87, 13
+	index: -1
+attack/jns2_pg1_00004
+	rotate: true
+	xy: 260, 327
+	size: 91, 53
+	orig: 223, 131
+	offset: 83, 13
+	index: -1
+attack/jns2_pg1_00007
+	rotate: true
+	xy: 419, 849
+	size: 159, 99
+	orig: 223, 131
+	offset: 25, 14
+	index: -1
+attack/jns2_pg1_00006
+	rotate: true
+	xy: 235, 513
+	size: 97, 75
+	orig: 223, 131
+	offset: 89, 13
+	index: -1
+attack/jns2_pg1_00009
+	rotate: false
+	xy: 814, 543
+	size: 207, 103
+	orig: 223, 131
+	offset: 10, 9
+	index: -1
+attack/jns2_pg1_00008
+	rotate: true
+	xy: 92, 867
+	size: 155, 99
+	orig: 223, 131
+	offset: 28, 13
+	index: -1
+attack/jns2_pg1_zhengshi_00036
+	rotate: false
+	xy: 0, 686
+	size: 231, 125
+	orig: 235, 127
+	offset: 0, 2
+	index: -1
+attack/jns2_pgtuijiaoguang_00035
+	rotate: true
+	xy: 92, 812
+	size: 54, 137
+	orig: 150, 205
+	offset: 78, 32
+	index: -1
+attack/jns2_pgtuijiaoguang_00034
+	rotate: false
+	xy: 192, 867
+	size: 64, 153
+	orig: 150, 205
+	offset: 71, 21
+	index: -1
+attack/jns2_pgtuijiaoguang_00033
+	rotate: true
+	xy: 859, 380
+	size: 70, 161
+	orig: 150, 205
+	offset: 66, 14
+	index: -1
+attack/jns2_pgtuijiaoguang_00032
+	rotate: true
+	xy: 859, 307
+	size: 72, 163
+	orig: 150, 205
+	offset: 65, 14
+	index: -1
+attack/jns2_pgtuijiaoguang_00031
+	rotate: true
+	xy: 859, 234
+	size: 72, 163
+	orig: 150, 205
+	offset: 65, 14
+	index: -1
+attack/jns2_pgtuijiaoguang_00030
+	rotate: false
+	xy: 648, 717
+	size: 124, 177
+	orig: 150, 205
+	offset: 14, 15
+	index: -1
+attack/jns2_jiaotiyan_00023
+	rotate: true
+	xy: 554, 550
+	size: 166, 239
+	orig: 166, 263
+	offset: 0, 0
+	index: -1
+attack/jns2_jiaotiyan_00022
+	rotate: true
+	xy: 314, 401
+	size: 166, 239
+	orig: 166, 263
+	offset: 0, 0
+	index: -1
+attack/jns2_jiaotiyan_00021
+	rotate: true
+	xy: 574, 383
+	size: 166, 239
+	orig: 166, 263
+	offset: 0, 0
+	index: -1
+attack/jns2_pg1_00011
+	rotate: false
+	xy: 814, 451
+	size: 209, 91
+	orig: 223, 131
+	offset: 12, 21
+	index: -1
+attack/jns2_jiaotiyan_00026
+	rotate: true
+	xy: 311, 568
+	size: 128, 233
+	orig: 166, 263
+	offset: 21, 10
+	index: -1
+attack/jns2_jiaotiyan_00025
+	rotate: false
+	xy: 892, 0
+	size: 128, 233
+	orig: 166, 263
+	offset: 19, 8
+	index: -1
+attack/jns2_jiaotiyan_00024
+	rotate: true
+	xy: 0, 549
+	size: 136, 233
+	orig: 166, 263
+	offset: 10, 5
+	index: -1
+attack/jns2_pg1_00012
+	rotate: true
+	xy: 0, 813
+	size: 205, 91
+	orig: 223, 131
+	offset: 14, 22
+	index: -1
+attack/jns2_jiaotiyan_00018
+	rotate: true
+	xy: 0, 295
+	size: 166, 259
+	orig: 166, 263
+	offset: 0, 2
+	index: -1
+attack/jns2_jiaotiyan_00019
+	rotate: true
+	xy: 599, 216
+	size: 166, 259
+	orig: 166, 263
+	offset: 0, 2
+	index: -1
+attack/jns2_pg1_00013
+	rotate: true
+	xy: 234, 611
+	size: 201, 65
+	orig: 223, 131
+	offset: 18, 24
+	index: -1
+attack/jns2_pg1_00010
+	rotate: false
+	xy: 794, 647
+	size: 211, 103
+	orig: 223, 131
+	offset: 10, 9
+	index: -1
+attack/jns2_jiaotiyan_00020
+	rotate: true
+	xy: 314, 234
+	size: 166, 259
+	orig: 166, 263
+	offset: 0, 2
+	index: -1
+attack/jns2_pg1_zhezhaodilie_00036
+	rotate: false
+	xy: 0, 0
+	size: 317, 64
+	orig: 319, 70
+	offset: 0, 6
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0005
+	rotate: false
+	xy: 846, 78
+	size: 178, 59
+	orig: 280, 73
+	offset: 49, 9
+	index: -1

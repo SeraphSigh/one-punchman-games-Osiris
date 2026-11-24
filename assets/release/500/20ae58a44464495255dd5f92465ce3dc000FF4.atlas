@@ -1,0 +1,218 @@
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_009
+	rotate: false
+	xy: 146, 815
+	size: 141, 44
+	orig: 223, 90
+	offset: 55, 18
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_010
+	rotate: false
+	xy: 334, 980
+	size: 151, 44
+	orig: 223, 90
+	offset: 48, 15
+	index: -1
+global/a_global_geliuganxiupu_suishi_005
+	rotate: false
+	xy: 584, 668
+	size: 115, 52
+	orig: 223, 90
+	offset: 74, 16
+	index: -1
+global/a_global_didiwang_diyan_0014
+	rotate: false
+	xy: 122, 486
+	size: 43, 33
+	orig: 173, 125
+	offset: 22, 17
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_004
+	rotate: true
+	xy: 972, 459
+	size: 105, 52
+	orig: 223, 90
+	offset: 82, 15
+	index: -1
+global/a_global_geliuganxiupu_suishi_002
+	rotate: false
+	xy: 450, 784
+	size: 85, 48
+	orig: 223, 90
+	offset: 97, 15
+	index: -1
+global/a_global_geliuganxiupu_suishi_008
+	rotate: true
+	xy: 735, 522
+	size: 131, 48
+	orig: 223, 90
+	offset: 62, 17
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_011
+	rotate: false
+	xy: 482, 396
+	size: 159, 36
+	orig: 223, 90
+	offset: 43, 17
+	index: -1
+global/a_global_didiwang_diyan_0006
+	rotate: true
+	xy: 0, 787
+	size: 87, 115
+	orig: 173, 125
+	offset: 45, 3
+	index: -1
+global/a_global_geliuganxiupu_suishi_006
+	rotate: false
+	xy: 512, 974
+	size: 123, 50
+	orig: 223, 90
+	offset: 68, 16
+	index: -1
+global/a_global_geliuganxiupu_suishi_007
+	rotate: false
+	xy: 512, 974
+	size: 123, 50
+	orig: 223, 90
+	offset: 68, 16
+	index: -1
+global/a_global_didiwang_diyan_0012
+	rotate: false
+	xy: 637, 814
+	size: 63, 111
+	orig: 173, 125
+	offset: 20, 8
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_didiwang_diyan_0003
+	rotate: true
+	xy: 143, 941
+	size: 83, 91
+	orig: 173, 125
+	offset: 69, 5
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_didiwang_qi02
+	rotate: false
+	xy: 524, 746
+	size: 84, 79
+	orig: 90, 83
+	offset: 0, 1
+	index: -1
+global/a_global_didiwang_diyan_0001
+	rotate: true
+	xy: 830, 382
+	size: 67, 61
+	orig: 173, 125
+	offset: 89, 5
+	index: -1
+global/a_global_didiwang_diyan_0002
+	rotate: true
+	xy: 184, 170
+	size: 73, 69
+	orig: 173, 125
+	offset: 82, 5
+	index: -1
+global/a_global_didiwang_diyan_0005
+	rotate: true
+	xy: 570, 0
+	size: 97, 111
+	orig: 173, 125
+	offset: 49, 4
+	index: -1
+global/a_global_didiwang_diyan_0004
+	rotate: false
+	xy: 109, 366
+	size: 93, 105
+	orig: 173, 125
+	offset: 56, 4
+	index: -1
+global/a_global_didiwang_diyan_0007
+	rotate: false
+	xy: 0, 472
+	size: 85, 117
+	orig: 173, 125
+	offset: 41, 3
+	index: -1
+global/a_global_didiwang_diyan_0009
+	rotate: false
+	xy: 0, 703
+	size: 79, 117
+	orig: 173, 125
+	offset: 28, 4
+	index: -1
+global/a_global_didiwang_diyan_0008
+	rotate: true
+	xy: 682, 0
+	size: 87, 115
+	orig: 173, 125
+	offset: 34, 5
+	index: -1
+global/a_global_geliuganxiupu_suishi_003
+	rotate: true
+	xy: 391, 414
+	size: 95, 50
+	orig: 223, 90
+	offset: 90, 15
+	index: -1
+global/a_global_geliuganxiupu_suishi_001
+	rotate: false
+	xy: 785, 587
+	size: 73, 44
+	orig: 223, 90
+	offset: 105, 15
+	index: -1
+global/a_global_didiwang_diyan_0013
+	rotate: true
+	xy: 791, 174
+	size: 47, 107
+	orig: 173, 125
+	offset: 22, 12
+	index: -1
+global/a_global_didiwang_diyan_0010
+	rotate: false
+	xy: 80, 707
+	size: 73, 113
+	orig: 173, 125
+	offset: 19, 7
+	index: -1
+global/a_global_didiwang_diyan_0011
+	rotate: true
+	xy: 570, 98
+	size: 71, 111
+	orig: 173, 125
+	offset: 21, 8
+	index: -1

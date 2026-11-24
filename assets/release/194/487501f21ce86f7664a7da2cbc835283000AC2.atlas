@@ -1,0 +1,181 @@
+
+asset/anim/baoshankapai.png
+size: 683,870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lleg2_baoshankp
+	rotate: false
+	xy: 533, 0
+	size: 150, 350
+	orig: 150, 350
+	offset: 0, 0
+	index: -1
+Lyan_baoshankp
+	rotate: true
+	xy: 666, 403
+	size: 19, 13
+	orig: 19, 13
+	offset: 0, 0
+	index: -1
+Lyanzhu_baoshankp
+	rotate: false
+	xy: 675, 466
+	size: 5, 5
+	orig: 5, 5
+	offset: 0, 0
+	index: -1
+Lyanpidown_baoshankp
+	rotate: true
+	xy: 666, 423
+	size: 21, 12
+	orig: 21, 12
+	offset: 0, 0
+	index: -1
+Lyanpiup_baoshankp
+	rotate: true
+	xy: 675, 445
+	size: 20, 7
+	orig: 20, 7
+	offset: 0, 0
+	index: -1
+Rarm1_baoshankp
+	rotate: true
+	xy: 450, 602
+	size: 129, 215
+	orig: 129, 215
+	offset: 0, 0
+	index: -1
+Larm2_baoshankp
+	rotate: false
+	xy: 450, 502
+	size: 225, 99
+	orig: 225, 99
+	offset: 0, 0
+	index: -1
+Lfoot_baoshankp
+	rotate: true
+	xy: 518, 732
+	size: 92, 158
+	orig: 92, 158
+	offset: 0, 0
+	index: -1
+Larm1_baoshankp
+	rotate: false
+	xy: 0, 674
+	size: 165, 193
+	orig: 165, 193
+	offset: 0, 0
+	index: -1
+Lhand_baoshankp
+	rotate: true
+	xy: 166, 620
+	size: 101, 86
+	orig: 101, 86
+	offset: 0, 0
+	index: -1
+Ryanzhu_baoshankp
+	rotate: false
+	xy: 675, 472
+	size: 5, 5
+	orig: 5, 5
+	offset: 0, 0
+	index: -1
+Rarm2_baoshankp
+	rotate: true
+	xy: 253, 620
+	size: 92, 181
+	orig: 92, 181
+	offset: 0, 0
+	index: -1
+Rleg2_baoshankp
+	rotate: true
+	xy: 166, 348
+	size: 120, 305
+	orig: 120, 305
+	offset: 0, 0
+	index: -1
+body_baoshankp
+	rotate: true
+	xy: 0, 0
+	size: 347, 532
+	orig: 347, 532
+	offset: 0, 0
+	index: -1
+Rhand_baoshankp
+	rotate: false
+	xy: 166, 732
+	size: 75, 119
+	orig: 75, 119
+	offset: 0, 0
+	index: -1
+Ryanpidown_baoshankp
+	rotate: true
+	xy: 666, 376
+	size: 26, 13
+	orig: 26, 13
+	offset: 0, 0
+	index: -1
+dai_baoshankp
+	rotate: false
+	xy: 242, 722
+	size: 98, 148
+	orig: 98, 148
+	offset: 0, 0
+	index: -1
+Rleg1_baoshankp
+	rotate: true
+	xy: 166, 469
+	size: 150, 283
+	orig: 150, 283
+	offset: 0, 0
+	index: -1
+Rfoot_baoshankp
+	rotate: false
+	xy: 341, 732
+	size: 176, 117
+	orig: 176, 117
+	offset: 0, 0
+	index: -1
+Ljian_baoshankp
+	rotate: true
+	xy: 518, 825
+	size: 34, 71
+	orig: 34, 71
+	offset: 0, 0
+	index: -1
+Lleg1_baoshankp
+	rotate: false
+	xy: 0, 351
+	size: 165, 322
+	orig: 165, 322
+	offset: 0, 0
+	index: -1
+Ryanpiup_baoshankp
+	rotate: true
+	xy: 666, 445
+	size: 27, 8
+	orig: 27, 8
+	offset: 0, 0
+	index: -1
+head_baoshankp
+	rotate: true
+	xy: 472, 351
+	size: 150, 193
+	orig: 150, 193
+	offset: 0, 0
+	index: -1
+Ryanbai_baoshankp
+	rotate: true
+	xy: 666, 351
+	size: 24, 15
+	orig: 24, 15
+	offset: 0, 0
+	index: -1
+Rleg3_baoshankp
+	rotate: false
+	xy: 590, 825
+	size: 72, 33
+	orig: 72, 33
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,67 @@
+
+asset/anim/wugongxuediSE2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wugongxuedist_ks_00019
+	rotate: false
+	xy: 177, 0
+	size: 162, 74
+	orig: 286, 128
+	offset: 62, 27
+	index: -1
+
+asset/anim/wugongxuediSE1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wugongxuedist_ks_00020
+	rotate: true
+	xy: 924, 864
+	size: 160, 74
+	orig: 286, 128
+	offset: 62, 26
+	index: -1
+
+asset/anim/wugongxuediSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wugongxuedidilie_00022
+	rotate: false
+	xy: 452, 0
+	size: 400, 128
+	orig: 400, 128
+	offset: 0, 0
+	index: -1
+wugongxuedist_ks_00024
+	rotate: true
+	xy: 732, 248
+	size: 274, 116
+	orig: 286, 128
+	offset: 4, 2
+	index: -1
+wugongxuedist_ks_00021
+	rotate: false
+	xy: 488, 606
+	size: 240, 108
+	orig: 286, 128
+	offset: 22, 9
+	index: -1
+wugongxuedist_ks_00023
+	rotate: true
+	xy: 304, 711
+	size: 264, 122
+	orig: 286, 128
+	offset: 5, 2
+	index: -1
+wugongxuedist_ks_00022
+	rotate: true
+	xy: 0, 711
+	size: 276, 124
+	orig: 286, 128
+	offset: 4, 2
+	index: -1

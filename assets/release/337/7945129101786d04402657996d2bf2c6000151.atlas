@@ -1,0 +1,20 @@
+
+asset/anim/beixinzunzhe2SEMAX0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/bx2_max_bg2_00000
+	rotate: true
+	xy: 606, 178
+	size: 566, 157
+	orig: 566, 157
+	offset: 0, 0
+	index: -1
+max/bx2_max_bg1_00000
+	rotate: false
+	xy: 764, 0
+	size: 617, 417
+	orig: 617, 417
+	offset: 0, 0
+	index: -1

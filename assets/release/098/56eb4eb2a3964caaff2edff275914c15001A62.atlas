@@ -1,0 +1,360 @@
+
+asset/anim/yuanziwushi2SESKILL0.png
+size: 1012,881
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/yuanziwushi2_dazhao_huoxing01
+	rotate: false
+	xy: 63, 362
+	size: 42, 98
+	orig: 42, 98
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pugongjineng_maikesi_105
+	rotate: false
+	xy: 197, 989
+	size: 136, 34
+	orig: 142, 36
+	offset: 5, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pugongjineng_maikesi_108
+	rotate: false
+	xy: 0, 988
+	size: 142, 36
+	orig: 142, 36
+	offset: 0, 0
+	index: -1
+global/a_global_pugongjineng_maikesi_104
+	rotate: false
+	xy: 779, 756
+	size: 138, 36
+	orig: 142, 36
+	offset: 3, 0
+	index: -1
+global/a_global_pugongjineng_maikesi_107
+	rotate: false
+	xy: 763, 793
+	size: 138, 36
+	orig: 142, 36
+	offset: 3, 0
+	index: -1
+global/a_global_pugongjineng_maikesi_106
+	rotate: false
+	xy: 763, 793
+	size: 138, 36
+	orig: 142, 36
+	offset: 3, 0
+	index: -1
+global/a_global_pugongjineng_maikesi_103
+	rotate: true
+	xy: 458, 884
+	size: 140, 36
+	orig: 142, 36
+	offset: 2, 0
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/yuanziwushi2SEMAX3.png
+size: 1024,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yuanziwushi2_chaojue_xuyan_DOWN_00001
+	rotate: true
+	xy: 370, 572
+	size: 119, 91
+	orig: 213, 257
+	offset: 53, 33
+	index: -1
+max/yuanziwushi2_chaojue_xuyan_DOWN_00008
+	rotate: true
+	xy: 846, 570
+	size: 157, 177
+	orig: 213, 257
+	offset: 34, 25
+	index: -1
+max/yuanziwushi2_chaojue_rao_00119
+	rotate: false
+	xy: 768, 0
+	size: 243, 92
+	orig: 323, 128
+	offset: 62, 26
+	index: -1
+max/yuanziwushi2_chaojue_xuyan_DOWN_00004
+	rotate: false
+	xy: 370, 430
+	size: 129, 141
+	orig: 213, 257
+	offset: 47, 32
+	index: -1
+max/yuanziwushi2_chaojue_diyan_00002
+	rotate: true
+	xy: 768, 570
+	size: 195, 77
+	orig: 243, 113
+	offset: 18, 18
+	index: -1
+max/yuanziwushi2_chaojue_rao_00120
+	rotate: false
+	xy: 768, 93
+	size: 243, 92
+	orig: 323, 128
+	offset: 62, 26
+	index: -1
+
+asset/anim/yuanziwushi2SEMAX2.png
+size: 1023,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yuanziwushi2_chaojue_xuyan_DOWN_00018
+	rotate: false
+	xy: 768, 488
+	size: 81, 57
+	orig: 213, 257
+	offset: 16, 76
+	index: -1
+max/yuanziwushi2_chaojue_xuyan_DOWN_00015
+	rotate: false
+	xy: 670, 872
+	size: 175, 115
+	orig: 213, 257
+	offset: 22, 26
+	index: -1
+max/yuanziwushi2_chaojue_xuyan_DOWN_00013
+	rotate: false
+	xy: 850, 672
+	size: 173, 181
+	orig: 213, 257
+	offset: 25, 20
+	index: -1
+max/yuanziwushi2_chaojue_xuyan_DOWN_00006
+	rotate: true
+	xy: 0, 872
+	size: 149, 167
+	orig: 213, 257
+	offset: 38, 28
+	index: -1
+max/yuanziwushi2_chaojue_xuyan_DOWN_00007
+	rotate: true
+	xy: 850, 854
+	size: 153, 173
+	orig: 213, 257
+	offset: 37, 26
+	index: -1
+
+asset/anim/yuanziwushi2SEMAX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yuanziwushi2_chaojue_xuyan_DOWN_00012
+	rotate: false
+	xy: 172, 845
+	size: 169, 179
+	orig: 213, 257
+	offset: 27, 20
+	index: -1
+max/yuanziwushi2_chaojue_diyan_00000
+	rotate: true
+	xy: 498, 845
+	size: 179, 75
+	orig: 243, 113
+	offset: 41, 20
+	index: -1
+max/yuanziwushi2_chaojue_diyan_00001
+	rotate: false
+	xy: 363, 164
+	size: 175, 75
+	orig: 243, 113
+	offset: 25, 18
+	index: -1
+
+asset/anim/yuanziwushi2SEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yuanziwushi2_chaojue_rao_00118
+	rotate: true
+	xy: 936, 0
+	size: 289, 88
+	orig: 323, 128
+	offset: 15, 31
+	index: -1
+max/yuanziwushi2_chaojue_rao_00113
+	rotate: true
+	xy: 936, 290
+	size: 289, 84
+	orig: 323, 128
+	offset: 15, 26
+	index: -1
+
+asset/anim/yuanziwushi2SEMAX6.png
+size: 515,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yuanziwushi2_chaojue_xuyan_DOWN_00011
+	rotate: true
+	xy: 220, 310
+	size: 167, 187
+	orig: 213, 257
+	offset: 28, 21
+	index: -1
+max/yuanziwushi2_chaojue_xuyan_DOWN_00010
+	rotate: true
+	xy: 0, 422
+	size: 165, 185
+	orig: 213, 257
+	offset: 29, 22
+	index: -1
+max/yuanziwushi2_chaojue_xuyan_DOWN_00009
+	rotate: true
+	xy: 0, 588
+	size: 161, 181
+	orig: 213, 257
+	offset: 31, 23
+	index: -1
+max/yuanziwushi2_chaojue_xuyan_DOWN_00005
+	rotate: true
+	xy: 170, 794
+	size: 141, 161
+	orig: 213, 257
+	offset: 42, 30
+	index: -1
+max/yuanziwushi2_chaojue_rao_00111
+	rotate: true
+	xy: 0, 896
+	size: 121, 92
+	orig: 323, 128
+	offset: 14, 16
+	index: -1
+max/yuanziwushi2_chaojue_rao_00112
+	rotate: true
+	xy: 408, 310
+	size: 277, 92
+	orig: 323, 128
+	offset: 15, 17
+	index: -1
+max/yuanziwushi2_chaojue_rao_00121
+	rotate: false
+	xy: 332, 930
+	size: 161, 92
+	orig: 323, 128
+	offset: 144, 24
+	index: -1
+
+asset/anim/yuanziwushi2SEMAX5.png
+size: 1003,1019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yuanziwushi2_chaojue_xuyan_DOWN_00019
+	rotate: true
+	xy: 944, 529
+	size: 113, 59
+	orig: 213, 257
+	offset: 9, 68
+	index: -1
+max/yuanziwushi2_chaojue_xuyan_DOWN_00017
+	rotate: true
+	xy: 864, 574
+	size: 141, 79
+	orig: 213, 257
+	offset: 16, 45
+	index: -1
+max/yuanziwushi2_chaojue_rao_00110
+	rotate: false
+	xy: 864, 716
+	size: 121, 92
+	orig: 323, 128
+	offset: 14, 16
+	index: -1
+max/yuanziwushi2_chaojue_rao_00115
+	rotate: false
+	xy: 290, 935
+	size: 289, 84
+	orig: 323, 128
+	offset: 15, 31
+	index: -1
+max/yuanziwushi2_chaojue_rao_00114
+	rotate: false
+	xy: 0, 935
+	size: 289, 84
+	orig: 323, 128
+	offset: 15, 26
+	index: -1
+
+asset/anim/yuanziwushi2SEMAX4.png
+size: 1023,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yuanziwushi2_chaojue_xuyan_DOWN_00016
+	rotate: false
+	xy: 846, 595
+	size: 175, 107
+	orig: 213, 257
+	offset: 17, 26
+	index: -1
+max/yuanziwushi2_chaojue_xuyan_DOWN_00014
+	rotate: true
+	xy: 0, 851
+	size: 171, 163
+	orig: 213, 257
+	offset: 26, 21
+	index: -1
+max/yuanziwushi2_chaojue_xuyan_DOWN_00003
+	rotate: true
+	xy: 708, 595
+	size: 127, 137
+	orig: 213, 257
+	offset: 47, 32
+	index: -1
+max/yuanziwushi2_chaojue_rao_00117
+	rotate: false
+	xy: 354, 912
+	size: 289, 90
+	orig: 323, 128
+	offset: 15, 29
+	index: -1
+max/yuanziwushi2_chaojue_diyan_00003
+	rotate: true
+	xy: 648, 534
+	size: 191, 59
+	orig: 243, 113
+	offset: 35, 28
+	index: -1
+max/yuanziwushi2_chaojue_rao_00116
+	rotate: false
+	xy: 354, 821
+	size: 289, 90
+	orig: 323, 128
+	offset: 15, 29
+	index: -1

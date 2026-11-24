@@ -1,0 +1,48 @@
+
+asset/anim/wanshengjiezhandouchangjing0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wanshengjie_caiqi1
+	rotate: true
+	xy: 42, 351
+	size: 157, 36
+	orig: 157, 36
+	offset: 0, 0
+	index: -1
+wanshengjie_caiqi3
+	rotate: true
+	xy: 153, 334
+	size: 100, 33
+	orig: 100, 33
+	offset: 0, 0
+	index: -1
+wanshengjie_caiqi2
+	rotate: true
+	xy: 79, 334
+	size: 174, 38
+	orig: 174, 38
+	offset: 0, 0
+	index: -1
+wanshengjie_caiqi4
+	rotate: false
+	xy: 79, 298
+	size: 164, 35
+	orig: 164, 35
+	offset: 0, 0
+	index: -1
+wanshengjie_shumu2
+	rotate: false
+	xy: 245, 53
+	size: 244, 297
+	orig: 244, 297
+	offset: 0, 0
+	index: -1
+wanshengjie_shumu1
+	rotate: false
+	xy: 0, 0
+	size: 244, 297
+	orig: 244, 297
+	offset: 0, 0
+	index: -1

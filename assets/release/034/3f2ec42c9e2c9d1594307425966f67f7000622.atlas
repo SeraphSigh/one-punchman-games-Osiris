@@ -1,0 +1,89 @@
+
+asset/anim/geluolibasi2ATTACK0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/gllbs2_atk_quan1_00016
+	rotate: false
+	xy: 463, 836
+	size: 221, 184
+	orig: 461, 238
+	offset: 0, 3
+	index: -1
+attack/gllbs2_atk_quan1_00017
+	rotate: false
+	xy: 448, 0
+	size: 445, 224
+	orig: 461, 238
+	offset: 4, 6
+	index: -1
+attack/gllbs2_atk_quan1_00021
+	rotate: true
+	xy: 685, 606
+	size: 417, 218
+	orig: 461, 238
+	offset: 44, 7
+	index: -1
+attack/gllbs2_atk_quan1_00020
+	rotate: true
+	xy: 0, 403
+	size: 445, 218
+	orig: 461, 238
+	offset: 14, 6
+	index: -1
+attack/gllbs2_atk_quan1_00026
+	rotate: true
+	xy: 684, 225
+	size: 145, 104
+	orig: 461, 238
+	offset: 300, 18
+	index: -1
+attack/gllbs2_atk_quan1_00025
+	rotate: false
+	xy: 303, 847
+	size: 159, 170
+	orig: 461, 238
+	offset: 298, 8
+	index: -1
+attack/gllbs2_atk_quan1_00023
+	rotate: false
+	xy: 685, 403
+	size: 337, 202
+	orig: 461, 238
+	offset: 124, 6
+	index: -1
+attack/gllbs2_atk_quan1_00018
+	rotate: true
+	xy: 219, 403
+	size: 443, 224
+	orig: 461, 238
+	offset: 7, 5
+	index: -1
+attack/gllbs2_atk_quan1_00019
+	rotate: false
+	xy: 0, 0
+	size: 447, 224
+	orig: 461, 238
+	offset: 8, 5
+	index: -1
+
+asset/anim/geluolibasi2ATTACK1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/gllbs2_atk_quan1_00022
+	rotate: false
+	xy: 411, 0
+	size: 403, 210
+	orig: 461, 238
+	offset: 58, 5
+	index: -1
+attack/gllbs2_atk_quan1_00024
+	rotate: true
+	xy: 179, 700
+	size: 245, 190
+	orig: 461, 238
+	offset: 216, 6
+	index: -1

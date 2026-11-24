@@ -1,0 +1,279 @@
+
+asset/anim/geluolibasi2MAX1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/gllbs2_max_chanji_00020
+	rotate: true
+	xy: 280, 607
+	size: 233, 59
+	orig: 237, 83
+	offset: 4, 3
+	index: -1
+max/gllbs2_max_chanji_00021
+	rotate: true
+	xy: 280, 139
+	size: 233, 63
+	orig: 237, 83
+	offset: 4, 3
+	index: -1
+max/gllbs2_max_chanji_00027
+	rotate: true
+	xy: 344, 139
+	size: 233, 47
+	orig: 237, 83
+	offset: 4, 5
+	index: -1
+max/gllbs2_max_chanji_00024
+	rotate: true
+	xy: 679, 609
+	size: 233, 39
+	orig: 237, 83
+	offset: 4, 4
+	index: -1
+max/gllbs2_max_chanji_00028
+	rotate: false
+	xy: 392, 919
+	size: 233, 51
+	orig: 237, 83
+	offset: 4, 5
+	index: -1
+max/gllbs2_max_chanji_00029
+	rotate: true
+	xy: 280, 841
+	size: 233, 59
+	orig: 237, 83
+	offset: 4, 6
+	index: -1
+max/gllbs2_max_chanji_00033
+	rotate: true
+	xy: 340, 607
+	size: 233, 53
+	orig: 237, 83
+	offset: 4, 4
+	index: -1
+max/gllbs2_max_chanji_00016
+	rotate: false
+	xy: 394, 1972
+	size: 233, 45
+	orig: 237, 83
+	offset: 4, 3
+	index: -1
+max/gllbs2_max_chanji_00018
+	rotate: false
+	xy: 392, 861
+	size: 233, 57
+	orig: 237, 83
+	offset: 4, 3
+	index: -1
+max/gllbs2_max_chanji_00017
+	rotate: true
+	xy: 340, 841
+	size: 233, 51
+	orig: 237, 83
+	offset: 4, 3
+	index: -1
+max/gllbs2_max_chanji_00034
+	rotate: true
+	xy: 344, 373
+	size: 233, 47
+	orig: 237, 83
+	offset: 4, 4
+	index: -1
+max/gllbs2_max_chanji_00032
+	rotate: true
+	xy: 280, 373
+	size: 233, 63
+	orig: 237, 83
+	offset: 4, 2
+	index: -1
+
+asset/anim/geluolibasi2MAX0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/gllbs2_max_chanji_00022
+	rotate: false
+	xy: 576, 1953
+	size: 233, 51
+	orig: 237, 83
+	offset: 4, 4
+	index: -1
+max/gllbs2_max_chanji_00023
+	rotate: false
+	xy: 906, 1950
+	size: 233, 47
+	orig: 237, 83
+	offset: 4, 3
+	index: -1
+max/gllbs2_max_chanji_00026
+	rotate: false
+	xy: 468, 2005
+	size: 233, 43
+	orig: 237, 83
+	offset: 4, 4
+	index: -1
+max/gllbs2_max_chanji_00025
+	rotate: false
+	xy: 234, 2005
+	size: 233, 43
+	orig: 237, 83
+	offset: 4, 5
+	index: -1
+max/gllbs2_max_chanji_00019
+	rotate: false
+	xy: 342, 1953
+	size: 233, 51
+	orig: 237, 83
+	offset: 4, 3
+	index: -1
+max/gllbs2_max_chanji_00031
+	rotate: false
+	xy: 0, 1958
+	size: 233, 69
+	orig: 237, 83
+	offset: 4, 5
+	index: -1
+max/gllbs2_max_chanji_00030
+	rotate: true
+	xy: 1958, 342
+	size: 231, 71
+	orig: 237, 83
+	offset: 6, 5
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_qiyu_xunhuanyan_059
+	rotate: false
+	xy: 0, 601
+	size: 180, 37
+	orig: 184, 53
+	offset: 1, 0
+	index: -1
+global/a_global_qiyu_xunhuanyan_058
+	rotate: false
+	xy: 184, 595
+	size: 180, 45
+	orig: 184, 53
+	offset: 1, 0
+	index: -1
+global/a_global_txskill_sinaike_19
+	rotate: false
+	xy: 0, 516
+	size: 185, 40
+	orig: 205, 90
+	offset: 0, 8
+	index: -1
+global/a_global_qiyu_xunhuanyan_057
+	rotate: false
+	xy: 551, 595
+	size: 180, 51
+	orig: 184, 53
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_qiyu_xunhuanyan_055
+	rotate: false
+	xy: 173, 162
+	size: 170, 45
+	orig: 184, 53
+	offset: 0, 0
+	index: -1
+global/a_global_qiyu_xunhuanyan_056
+	rotate: false
+	xy: 173, 64
+	size: 172, 49
+	orig: 184, 53
+	offset: 0, 0
+	index: -1
+global/a_global_txskill_sinaike_23
+	rotate: false
+	xy: 160, 470
+	size: 159, 40
+	orig: 205, 90
+	offset: 0, 9
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_25
+	rotate: true
+	xy: 86, 472
+	size: 115, 40
+	orig: 205, 90
+	offset: 26, 9
+	index: -1
+global/a_global_txskill_sinaike_26
+	rotate: false
+	xy: 567, 170
+	size: 105, 38
+	orig: 205, 90
+	offset: 28, 9
+	index: -1
+
+asset/anim/huoqiu1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_20
+	rotate: false
+	xy: 549, 500
+	size: 226, 41
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+global/a_global_txskill_sinaike_22
+	rotate: false
+	xy: 197, 504
+	size: 220, 45
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+
+asset/anim/huoqiu0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_24
+	rotate: true
+	xy: 518, 792
+	size: 196, 49
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+global/a_global_txskill_sinaike_27
+	rotate: true
+	xy: 320, 581
+	size: 122, 35
+	orig: 252, 111
+	offset: 41, 12
+	index: -1
+
+asset/anim/huoqiu2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_21
+	rotate: true
+	xy: 983, 189
+	size: 226, 41
+	orig: 252, 111
+	offset: 0, 11
+	index: -1

@@ -1,0 +1,487 @@
+
+asset/anim/fenghuangnan2SEATTACK2.png
+size: 975,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/fenghuangnan2_attack_diyan_00023
+	rotate: false
+	xy: 452, 588
+	size: 223, 107
+	orig: 247, 141
+	offset: 16, 5
+	index: -1
+attack/fenghuangnan2_attack_diyan_00016
+	rotate: true
+	xy: 240, 524
+	size: 225, 99
+	orig: 247, 141
+	offset: 17, 6
+	index: -1
+attack/fenghuangnan2_attack_diyan_00012
+	rotate: true
+	xy: 823, 0
+	size: 227, 107
+	orig: 247, 141
+	offset: 15, 5
+	index: -1
+attack/fenghuangnan2_attack_diyan_00019
+	rotate: false
+	xy: 0, 903
+	size: 227, 105
+	orig: 247, 141
+	offset: 15, 6
+	index: -1
+attack/fenghuangnan2_attack_diyan_00033
+	rotate: false
+	xy: 756, 468
+	size: 199, 113
+	orig: 247, 141
+	offset: 17, 6
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00019
+	rotate: false
+	xy: 503, 240
+	size: 252, 247
+	orig: 318, 293
+	offset: 29, 23
+	index: -1
+attack/fenghuangnan2_attack_diyan_00015
+	rotate: false
+	xy: 503, 488
+	size: 227, 99
+	orig: 247, 141
+	offset: 15, 5
+	index: -1
+attack/fenghuangnan2_attack_diyan_00008
+	rotate: false
+	xy: 676, 588
+	size: 219, 105
+	orig: 247, 141
+	offset: 18, 3
+	index: -1
+attack/fenghuangnan2_attack_diyan_00020
+	rotate: true
+	xy: 756, 240
+	size: 227, 103
+	orig: 247, 141
+	offset: 15, 8
+	index: -1
+attack/fenghuangnan2_attack_diyan_00021
+	rotate: true
+	xy: 336, 796
+	size: 221, 105
+	orig: 247, 141
+	offset: 21, 7
+	index: -1
+attack/fenghuangnan2_attack_diyan_00022
+	rotate: true
+	xy: 442, 796
+	size: 221, 105
+	orig: 247, 141
+	offset: 21, 6
+	index: -1
+attack/fenghuangnan2_attack_diyan_00009
+	rotate: true
+	xy: 228, 796
+	size: 221, 107
+	orig: 247, 141
+	offset: 16, 3
+	index: -1
+attack/fenghuangnan2_attack_diyan_00024
+	rotate: true
+	xy: 340, 515
+	size: 221, 111
+	orig: 247, 141
+	offset: 18, 6
+	index: -1
+attack/fenghuangnan2_attack_diyan_00025
+	rotate: true
+	xy: 748, 792
+	size: 199, 113
+	orig: 247, 141
+	offset: 17, 6
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00025
+	rotate: true
+	xy: 0, 524
+	size: 270, 239
+	orig: 318, 293
+	offset: 22, 31
+	index: -1
+attack/fenghuangnan2_attack_diyan_00011
+	rotate: false
+	xy: 0, 795
+	size: 227, 107
+	orig: 247, 141
+	offset: 15, 6
+	index: -1
+attack/fenghuangnan2_attack_diyan_00014
+	rotate: true
+	xy: 648, 796
+	size: 221, 99
+	orig: 247, 141
+	offset: 21, 4
+	index: -1
+attack/fenghuangnan2_attack_diyan_00018
+	rotate: true
+	xy: 860, 228
+	size: 227, 101
+	orig: 247, 141
+	offset: 15, 6
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00015
+	rotate: false
+	xy: 275, 0
+	size: 278, 239
+	orig: 318, 293
+	offset: 20, 25
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00031
+	rotate: false
+	xy: 0, 0
+	size: 274, 255
+	orig: 318, 293
+	offset: 20, 13
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00014
+	rotate: false
+	xy: 554, 0
+	size: 268, 239
+	orig: 318, 293
+	offset: 21, 25
+	index: -1
+attack/fenghuangnan2_attack_diyan_00007
+	rotate: false
+	xy: 678, 694
+	size: 223, 97
+	orig: 247, 141
+	offset: 15, 3
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00027
+	rotate: false
+	xy: 0, 256
+	size: 252, 267
+	orig: 318, 293
+	offset: 31, 19
+	index: -1
+attack/fenghuangnan2_attack_diyan_00017
+	rotate: false
+	xy: 452, 696
+	size: 225, 99
+	orig: 247, 141
+	offset: 17, 6
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00026
+	rotate: true
+	xy: 253, 256
+	size: 258, 249
+	orig: 318, 293
+	offset: 31, 27
+	index: -1
+attack/fenghuangnan2_attack_diyan_00013
+	rotate: true
+	xy: 548, 796
+	size: 221, 99
+	orig: 247, 141
+	offset: 21, 4
+	index: -1
+attack/fenghuangnan2_attack_diyan_00032
+	rotate: true
+	xy: 862, 792
+	size: 199, 113
+	orig: 247, 141
+	offset: 17, 6
+	index: -1
+
+asset/anim/fenghuangnan2SEATTACK1.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/fenghuangnan2_attack_diyan_00031
+	rotate: false
+	xy: 808, 880
+	size: 201, 113
+	orig: 247, 141
+	offset: 16, 5
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00018
+	rotate: true
+	xy: 562, 263
+	size: 264, 251
+	orig: 318, 293
+	offset: 31, 20
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00011
+	rotate: false
+	xy: 280, 529
+	size: 260, 245
+	orig: 318, 293
+	offset: 26, 23
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00012
+	rotate: false
+	xy: 273, 776
+	size: 270, 247
+	orig: 318, 293
+	offset: 22, 22
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00013
+	rotate: false
+	xy: 0, 776
+	size: 272, 247
+	orig: 318, 293
+	offset: 22, 23
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00016
+	rotate: false
+	xy: 0, 0
+	size: 284, 249
+	orig: 318, 293
+	offset: 22, 21
+	index: -1
+attack/fenghuangnan2_attack_diyan_00026
+	rotate: false
+	xy: 808, 764
+	size: 201, 115
+	orig: 247, 141
+	offset: 15, 6
+	index: -1
+attack/fenghuangnan2_attack_diyan_00010
+	rotate: true
+	xy: 850, 0
+	size: 227, 107
+	orig: 247, 141
+	offset: 15, 5
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00008
+	rotate: true
+	xy: 814, 263
+	size: 224, 201
+	orig: 318, 293
+	offset: 38, 46
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00010
+	rotate: false
+	xy: 761, 528
+	size: 250, 235
+	orig: 318, 293
+	offset: 31, 27
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00021
+	rotate: true
+	xy: 0, 515
+	size: 260, 279
+	orig: 318, 293
+	offset: 29, 14
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00020
+	rotate: true
+	xy: 544, 770
+	size: 254, 263
+	orig: 318, 293
+	offset: 28, 23
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00009
+	rotate: true
+	xy: 541, 529
+	size: 240, 219
+	orig: 318, 293
+	offset: 32, 36
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00024
+	rotate: true
+	xy: 282, 254
+	size: 274, 279
+	orig: 318, 293
+	offset: 23, 14
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00029
+	rotate: true
+	xy: 0, 250
+	size: 264, 281
+	orig: 318, 293
+	offset: 24, 12
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00028
+	rotate: true
+	xy: 568, 0
+	size: 262, 281
+	orig: 318, 293
+	offset: 25, 12
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00017
+	rotate: false
+	xy: 285, 0
+	size: 282, 253
+	orig: 318, 293
+	offset: 29, 19
+	index: -1
+
+asset/anim/fenghuangnan2SEATTACK0.png
+size: 1024,992
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/fenghuangnan2_attack_diyan_00030
+	rotate: false
+	xy: 404, 872
+	size: 199, 119
+	orig: 247, 141
+	offset: 20, 6
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00037
+	rotate: true
+	xy: 563, 286
+	size: 280, 263
+	orig: 318, 293
+	offset: 27, 14
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00038
+	rotate: false
+	xy: 604, 842
+	size: 180, 141
+	orig: 318, 293
+	offset: 26, 67
+	index: -1
+attack/fenghuangnan2_attack_diyan_00027
+	rotate: false
+	xy: 0, 875
+	size: 201, 117
+	orig: 247, 141
+	offset: 15, 6
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00036
+	rotate: true
+	xy: 284, 0
+	size: 290, 271
+	orig: 318, 293
+	offset: 26, 10
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00032
+	rotate: true
+	xy: 0, 586
+	size: 288, 273
+	orig: 318, 293
+	offset: 16, 5
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00033
+	rotate: true
+	xy: 0, 0
+	size: 294, 283
+	orig: 318, 293
+	offset: 17, 0
+	index: -1
+attack/fenghuangnan2_attack_diyan_00036
+	rotate: true
+	xy: 952, 635
+	size: 113, 65
+	orig: 247, 141
+	offset: 87, 16
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00030
+	rotate: true
+	xy: 559, 577
+	size: 264, 267
+	orig: 318, 293
+	offset: 22, 19
+	index: -1
+attack/fenghuangnan2_attack_diyan_00035
+	rotate: false
+	xy: 827, 332
+	size: 193, 87
+	orig: 247, 141
+	offset: 20, 11
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00039
+	rotate: true
+	xy: 827, 635
+	size: 176, 123
+	orig: 318, 293
+	offset: 28, 84
+	index: -1
+attack/fenghuangnan2_attack_diyan_00028
+	rotate: false
+	xy: 202, 875
+	size: 201, 117
+	orig: 247, 141
+	offset: 15, 8
+	index: -1
+attack/fenghuangnan2_attack_diyan_00029
+	rotate: false
+	xy: 827, 112
+	size: 195, 119
+	orig: 247, 141
+	offset: 21, 7
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00034
+	rotate: false
+	xy: 274, 586
+	size: 284, 285
+	orig: 318, 293
+	offset: 32, 0
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00035
+	rotate: true
+	xy: 0, 295
+	size: 290, 287
+	orig: 318, 293
+	offset: 28, 2
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00023
+	rotate: false
+	xy: 288, 291
+	size: 274, 285
+	orig: 318, 293
+	offset: 24, 8
+	index: -1
+attack/fenghuangnan2_attack_diyan_00034
+	rotate: false
+	xy: 827, 0
+	size: 197, 111
+	orig: 247, 141
+	offset: 17, 8
+	index: -1
+attack/fenghuangnan2_attack_diyan_00006
+	rotate: false
+	xy: 827, 232
+	size: 195, 99
+	orig: 247, 141
+	offset: 21, 5
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00007
+	rotate: true
+	xy: 827, 420
+	size: 214, 187
+	orig: 318, 293
+	offset: 38, 58
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00022
+	rotate: false
+	xy: 556, 0
+	size: 270, 285
+	orig: 318, 293
+	offset: 25, 8
+	index: -1
+attack/fenghuangnan2_attack_diyan_00037
+	rotate: true
+	xy: 952, 749
+	size: 105, 63
+	orig: 247, 141
+	offset: 88, 18
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00040
+	rotate: false
+	xy: 563, 567
+	size: 10, 9
+	orig: 318, 293
+	offset: 37, 193
+	index: -1
+attack/fenghuangnan2_attack_zhuaji_00006
+	rotate: false
+	xy: 785, 842
+	size: 166, 139
+	orig: 318, 293
+	offset: 33, 106
+	index: -1

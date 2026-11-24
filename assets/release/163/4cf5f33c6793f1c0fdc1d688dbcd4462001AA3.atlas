@@ -1,0 +1,386 @@
+
+asset/anim/meiluzhagaluduo2SECOMMON0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ml2_com_daoguang1_00066
+	rotate: true
+	xy: 344, 1516
+	size: 189, 120
+	orig: 497, 188
+	offset: 0, 52
+	index: -1
+common/ml2_com_daoguang1_00067
+	rotate: false
+	xy: 1046, 307
+	size: 489, 124
+	orig: 497, 188
+	offset: 0, 59
+	index: -1
+common/ml2_com_daoguang1_00075
+	rotate: false
+	xy: 0, 670
+	size: 379, 176
+	orig: 497, 188
+	offset: 118, 12
+	index: -1
+common/ml2_com_daoguang1_00074
+	rotate: false
+	xy: 0, 670
+	size: 379, 176
+	orig: 497, 188
+	offset: 118, 12
+	index: -1
+common/ml2_com_daoguang1_00076
+	rotate: false
+	xy: 0, 1023
+	size: 369, 138
+	orig: 497, 188
+	offset: 128, 12
+	index: -1
+common/ml2_com_daoguang1_00071
+	rotate: false
+	xy: 1047, 130
+	size: 497, 176
+	orig: 497, 188
+	offset: 0, 12
+	index: -1
+common/ml2_com_daoguang1_00070
+	rotate: false
+	xy: 0, 311
+	size: 497, 176
+	orig: 497, 188
+	offset: 0, 12
+	index: -1
+common/ml2_com_daoguang1_00073
+	rotate: false
+	xy: 1582, 177
+	size: 455, 176
+	orig: 497, 188
+	offset: 42, 12
+	index: -1
+common/ml2_com_daoguang1_00072
+	rotate: false
+	xy: 1583, 0
+	size: 459, 176
+	orig: 497, 188
+	offset: 38, 12
+	index: -1
+common/ml2_com_daoguang1_00068
+	rotate: false
+	xy: 0, 134
+	size: 497, 176
+	orig: 497, 188
+	offset: 0, 12
+	index: -1
+common/ml2_com_daoguang1_00069
+	rotate: false
+	xy: 498, 242
+	size: 497, 176
+	orig: 497, 188
+	offset: 0, 12
+	index: -1
+
+asset/anim/meiluzhagaluduo2SESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/ml2_skill_dixuan_00055
+	rotate: false
+	xy: 43, 923
+	size: 196, 99
+	orig: 384, 161
+	offset: 91, 32
+	index: -1
+skill/ml2_skill_dixuan_00054
+	rotate: false
+	xy: 240, 917
+	size: 178, 79
+	orig: 384, 161
+	offset: 96, 53
+	index: -1
+skill/ml2_skill_dixuan_00053
+	rotate: false
+	xy: 862, 110
+	size: 160, 81
+	orig: 384, 161
+	offset: 105, 55
+	index: -1
+skill/ml2_skill_dixuan_00052
+	rotate: false
+	xy: 824, 936
+	size: 140, 79
+	orig: 384, 161
+	offset: 114, 53
+	index: -1
+
+asset/anim/meiluzhagaluduo2SESKILL1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/ml2_skill_xuli1_00067
+	rotate: false
+	xy: 846, 405
+	size: 166, 207
+	orig: 368, 345
+	offset: 101, 79
+	index: -1
+skill/ml2_skill_xuli1_00066
+	rotate: false
+	xy: 663, 422
+	size: 180, 215
+	orig: 368, 345
+	offset: 98, 77
+	index: -1
+skill/ml2_skill_dixuan_00066
+	rotate: false
+	xy: 663, 862
+	size: 352, 145
+	orig: 384, 161
+	offset: 15, 2
+	index: -1
+skill/ml2_skill_dixuan_00068
+	rotate: true
+	xy: 286, 242
+	size: 374, 137
+	orig: 384, 161
+	offset: 4, 2
+	index: -1
+skill/ml2_skill_xuli1_00058
+	rotate: true
+	xy: 0, 242
+	size: 320, 285
+	orig: 368, 345
+	offset: 26, 37
+	index: -1
+
+asset/anim/meiluzhagaluduo2SESKILL2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/ml2_skill_dixuan_00063
+	rotate: false
+	xy: 0, 276
+	size: 348, 135
+	orig: 384, 161
+	offset: 16, 5
+	index: -1
+skill/ml2_skill_xuli1_00061
+	rotate: false
+	xy: 748, 0
+	size: 270, 259
+	orig: 368, 345
+	offset: 45, 58
+	index: -1
+skill/ml2_skill_dixuan_00056
+	rotate: true
+	xy: 627, 658
+	size: 226, 111
+	orig: 384, 161
+	offset: 78, 28
+	index: -1
+skill/ml2_skill_dixuan_00059
+	rotate: false
+	xy: 591, 885
+	size: 294, 139
+	orig: 384, 161
+	offset: 43, 9
+	index: -1
+skill/ml2_skill_dixuan_00064
+	rotate: false
+	xy: 410, 514
+	size: 330, 143
+	orig: 384, 161
+	offset: 25, 4
+	index: -1
+skill/ml2_skill_dixuan_00067
+	rotate: false
+	xy: 375, 248
+	size: 366, 137
+	orig: 384, 161
+	offset: 8, 2
+	index: -1
+skill/ml2_skill_xuli1_00060
+	rotate: true
+	xy: 321, 723
+	size: 296, 269
+	orig: 368, 345
+	offset: 32, 49
+	index: -1
+skill/ml2_skill_dixuan_00062
+	rotate: false
+	xy: 349, 386
+	size: 344, 127
+	orig: 384, 161
+	offset: 19, 9
+	index: -1
+skill/ml2_skill_xuli1_00059
+	rotate: true
+	xy: 741, 567
+	size: 302, 283
+	orig: 368, 345
+	offset: 29, 39
+	index: -1
+skill/ml2_skill_xuli1_00055
+	rotate: false
+	xy: 0, 723
+	size: 320, 299
+	orig: 368, 345
+	offset: 37, 15
+	index: -1
+skill/ml2_skill_xuli1_00050
+	rotate: true
+	xy: 742, 260
+	size: 306, 281
+	orig: 368, 345
+	offset: 15, 11
+	index: -1
+skill/ml2_skill_xuli1_00051
+	rotate: true
+	xy: 0, 412
+	size: 310, 343
+	orig: 368, 345
+	offset: 17, 0
+	index: -1
+
+asset/anim/meiluzhagaluduo2SESKILL3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/ml2_skill_xuli1_00062
+	rotate: false
+	xy: 752, 618
+	size: 260, 251
+	orig: 368, 345
+	offset: 47, 62
+	index: -1
+skill/ml2_skill_xuli1_00048
+	rotate: true
+	xy: 752, 311
+	size: 306, 261
+	orig: 368, 345
+	offset: 14, 26
+	index: -1
+skill/ml2_skill_xuli1_00049
+	rotate: true
+	xy: 752, 0
+	size: 310, 265
+	orig: 368, 345
+	offset: 13, 22
+	index: -1
+skill/ml2_skill_dixuan_00057
+	rotate: true
+	xy: 628, 652
+	size: 278, 121
+	orig: 384, 161
+	offset: 51, 22
+	index: -1
+skill/ml2_skill_dixuan_00065
+	rotate: true
+	xy: 606, 329
+	size: 322, 145
+	orig: 384, 161
+	offset: 32, 4
+	index: -1
+skill/ml2_skill_dixuan_00061
+	rotate: true
+	xy: 404, 667
+	size: 328, 137
+	orig: 384, 161
+	offset: 27, 8
+	index: -1
+skill/ml2_skill_xuli1_00056
+	rotate: true
+	xy: 0, 338
+	size: 334, 287
+	orig: 368, 345
+	offset: 20, 19
+	index: -1
+skill/ml2_skill_xuli1_00057
+	rotate: true
+	xy: 317, 0
+	size: 328, 293
+	orig: 368, 345
+	offset: 23, 22
+	index: -1
+skill/ml2_skill_xuli1_00054
+	rotate: true
+	xy: 288, 338
+	size: 328, 317
+	orig: 368, 345
+	offset: 31, 6
+	index: -1
+skill/ml2_skill_xuli1_00052
+	rotate: false
+	xy: 0, 0
+	size: 316, 337
+	orig: 368, 345
+	offset: 17, 2
+	index: -1
+skill/ml2_skill_xuli1_00053
+	rotate: false
+	xy: 87, 673
+	size: 316, 333
+	orig: 368, 345
+	offset: 28, 0
+	index: -1
+
+asset/anim/meiluzhagaluduo2SESKILL4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/ml2_skill_xuli1_00065
+	rotate: false
+	xy: 824, 247
+	size: 200, 223
+	orig: 368, 345
+	offset: 94, 72
+	index: -1
+skill/ml2_skill_xuli1_00064
+	rotate: true
+	xy: 318, 379
+	size: 230, 233
+	orig: 368, 345
+	offset: 71, 66
+	index: -1
+skill/ml2_skill_xuli1_00063
+	rotate: false
+	xy: 577, 142
+	size: 246, 241
+	orig: 368, 345
+	offset: 59, 62
+	index: -1
+skill/ml2_skill_dixuan_00058
+	rotate: false
+	xy: 319, 0
+	size: 306, 127
+	orig: 384, 161
+	offset: 37, 16
+	index: -1
+skill/ml2_skill_xuli1_00047
+	rotate: true
+	xy: 0, 204
+	size: 252, 255
+	orig: 368, 345
+	offset: 19, 29
+	index: -1
+skill/ml2_skill_xuli1_00046
+	rotate: true
+	xy: 319, 128
+	size: 250, 257
+	orig: 368, 345
+	offset: 19, 29
+	index: -1
+skill/ml2_skill_dixuan_00060
+	rotate: false
+	xy: 626, 0
+	size: 294, 141
+	orig: 384, 161
+	offset: 45, 10
+	index: -1

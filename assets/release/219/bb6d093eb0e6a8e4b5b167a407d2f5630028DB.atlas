@@ -1,0 +1,568 @@
+
+asset/anim/hamujiSESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/hamuji_jineng_shi_00021
+	rotate: false
+	xy: 184, 418
+	size: 265, 108
+	orig: 467, 376
+	offset: 94, 42
+	index: -1
+skill/hamuji_jineng_shi_00020
+	rotate: false
+	xy: 184, 321
+	size: 269, 96
+	orig: 467, 376
+	offset: 95, 28
+	index: -1
+skill/hamuji_jineng_shi_00023
+	rotate: true
+	xy: 868, 398
+	size: 275, 142
+	orig: 467, 376
+	offset: 87, 54
+	index: -1
+skill/hamuji_jineng_shi_00022
+	rotate: true
+	xy: 888, 138
+	size: 259, 122
+	orig: 467, 376
+	offset: 95, 52
+	index: -1
+skill/hamuji_jineng_shi_00024
+	rotate: false
+	xy: 724, 674
+	size: 297, 162
+	orig: 467, 376
+	offset: 76, 54
+	index: -1
+skill/hamuji_jineng_dici_00025
+	rotate: false
+	xy: 0, 321
+	size: 183, 210
+	orig: 191, 252
+	offset: 0, 32
+	index: -1
+skill/hamuji_jineng_dici_00024
+	rotate: true
+	xy: 724, 837
+	size: 185, 222
+	orig: 191, 252
+	offset: 0, 17
+	index: -1
+skill/hamuji_jineng_dici_00022
+	rotate: true
+	xy: 888, 0
+	size: 137, 128
+	orig: 191, 252
+	offset: 24, 9
+	index: -1
+skill/hamuji_jineng_shi_00039
+	rotate: false
+	xy: 0, 584
+	size: 183, 84
+	orig: 467, 376
+	offset: 71, 50
+	index: -1
+skill/hamuji_jineng_shi_00032
+	rotate: false
+	xy: 0, 0
+	size: 453, 320
+	orig: 467, 376
+	offset: 0, 14
+	index: -1
+skill/hamuji_jineng_shi_00030
+	rotate: false
+	xy: 454, 301
+	size: 413, 282
+	orig: 467, 376
+	offset: 19, 31
+	index: -1
+skill/hamuji_jineng_shi_00031
+	rotate: false
+	xy: 454, 0
+	size: 433, 300
+	orig: 467, 376
+	offset: 9, 23
+	index: -1
+skill/hamuji_jineng_shi_00037
+	rotate: false
+	xy: 412, 674
+	size: 311, 346
+	orig: 467, 376
+	offset: 41, 19
+	index: -1
+skill/hamuji_jineng_shi_00034
+	rotate: false
+	xy: 0, 674
+	size: 411, 350
+	orig: 467, 376
+	offset: 56, 0
+	index: -1
+
+asset/anim/hamujiSESKILL1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/hamuji_jineng_shi_00029
+	rotate: false
+	xy: 402, 0
+	size: 395, 264
+	orig: 467, 376
+	offset: 28, 37
+	index: -1
+skill/hamuji_jineng_shi_00028
+	rotate: false
+	xy: 402, 265
+	size: 375, 244
+	orig: 467, 376
+	offset: 38, 43
+	index: -1
+skill/hamuji_jineng_shi_00025
+	rotate: false
+	xy: 0, 838
+	size: 317, 184
+	orig: 467, 376
+	offset: 66, 53
+	index: -1
+skill/hamuji_jineng_shi_00027
+	rotate: true
+	xy: 798, 0
+	size: 357, 226
+	orig: 467, 376
+	offset: 46, 47
+	index: -1
+skill/hamuji_jineng_shi_00026
+	rotate: false
+	xy: 0, 339
+	size: 337, 204
+	orig: 467, 376
+	offset: 56, 50
+	index: -1
+skill/hamuji_jineng_dici_00026
+	rotate: true
+	xy: 318, 838
+	size: 183, 182
+	orig: 191, 252
+	offset: 0, 52
+	index: -1
+skill/hamuji_jineng_dici_00023
+	rotate: true
+	xy: 778, 358
+	size: 181, 206
+	orig: 191, 252
+	offset: 10, 9
+	index: -1
+skill/hamuji_jineng_shi_00038
+	rotate: true
+	xy: 673, 540
+	size: 273, 310
+	orig: 467, 376
+	offset: 37, 58
+	index: -1
+skill/hamuji_jineng_shi_00033
+	rotate: false
+	xy: 0, 0
+	size: 401, 338
+	orig: 467, 376
+	offset: 60, 4
+	index: -1
+skill/hamuji_jineng_shi_00036
+	rotate: true
+	xy: 338, 510
+	size: 301, 334
+	orig: 467, 376
+	offset: 46, 28
+	index: -1
+skill/hamuji_jineng_shi_00035
+	rotate: true
+	xy: 0, 544
+	size: 293, 320
+	orig: 467, 376
+	offset: 49, 36
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_chongjibobaodian0002
+	rotate: true
+	xy: 161, 645
+	size: 169, 133
+	orig: 177, 137
+	offset: 1, 4
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_heiguangxuanfengqian_00013
+	rotate: true
+	xy: 513, 801
+	size: 223, 61
+	orig: 265, 95
+	offset: 8, 10
+	index: -1
+global/a_global_heiguangxuanfengqian_00011
+	rotate: true
+	xy: 589, 273
+	size: 241, 69
+	orig: 265, 95
+	offset: 10, 2
+	index: -1
+global/a_global_chongjibobaodian0008
+	rotate: true
+	xy: 685, 617
+	size: 161, 127
+	orig: 177, 137
+	offset: 2, 5
+	index: -1
+global/a_global_heiguangxuanfengqian_00009
+	rotate: true
+	xy: 447, 801
+	size: 223, 65
+	orig: 265, 95
+	offset: 20, 0
+	index: -1
+global/a_global_heiguangxuanfengqian_00007
+	rotate: false
+	xy: 601, 147
+	size: 235, 73
+	orig: 265, 95
+	offset: 3, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_baodian_13
+	rotate: true
+	xy: 790, 379
+	size: 38, 55
+	orig: 168, 153
+	offset: 130, 47
+	index: -1
+global/a_global_dujiaoxian_baodian_16
+	rotate: true
+	xy: 700, 602
+	size: 142, 145
+	orig: 168, 153
+	offset: 4, 8
+	index: -1
+global/a_global_heiguangxuanfengqian_00015
+	rotate: true
+	xy: 720, 0
+	size: 207, 65
+	orig: 265, 95
+	offset: 3, 10
+	index: -1
+global/a_global_heiguangxuanfengqian_00005
+	rotate: true
+	xy: 786, 0
+	size: 207, 59
+	orig: 265, 95
+	offset: 14, 6
+	index: -1
+global/a_global_chongjibobaodian0004
+	rotate: false
+	xy: 846, 474
+	size: 177, 137
+	orig: 177, 137
+	offset: 0, 0
+	index: -1
+global/a_global_heiguangxuanfengqian_00008
+	rotate: true
+	xy: 218, 227
+	size: 219, 71
+	orig: 265, 95
+	offset: 24, 0
+	index: -1
+global/a_global_heiguangxuanfengqian_00006
+	rotate: true
+	xy: 309, 519
+	size: 227, 69
+	orig: 265, 95
+	offset: 8, 1
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_heiguangxuanfengqian_00016
+	rotate: false
+	xy: 0, 71
+	size: 203, 61
+	orig: 265, 95
+	offset: 9, 10
+	index: -1
+global/a_global_chongjibobaodian0007
+	rotate: true
+	xy: 442, 833
+	size: 175, 137
+	orig: 177, 137
+	offset: 2, 0
+	index: -1
+global/a_global_chongjibobaodian0006
+	rotate: false
+	xy: 180, 695
+	size: 177, 137
+	orig: 177, 137
+	offset: 0, 0
+	index: -1
+global/a_global_chongjibobaodian0005
+	rotate: false
+	xy: 360, 646
+	size: 177, 137
+	orig: 177, 137
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_baodian_14
+	rotate: true
+	xy: 637, 926
+	size: 98, 103
+	orig: 168, 153
+	offset: 69, 27
+	index: -1
+global/a_global_chongjibobaodian0003
+	rotate: false
+	xy: 702, 173
+	size: 173, 137
+	orig: 177, 137
+	offset: 0, 0
+	index: -1
+global/a_global_chongjibobaodian0009
+	rotate: false
+	xy: 861, 547
+	size: 159, 125
+	orig: 177, 137
+	offset: 5, 6
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_baodian_18
+	rotate: false
+	xy: 0, 129
+	size: 138, 143
+	orig: 168, 153
+	offset: 3, 9
+	index: -1
+global/a_global_dujiaoxian_baodian_17
+	rotate: false
+	xy: 0, 705
+	size: 138, 141
+	orig: 168, 153
+	offset: 5, 10
+	index: -1
+global/a_global_dujiaoxian_baodian_15
+	rotate: true
+	xy: 0, 847
+	size: 140, 139
+	orig: 168, 153
+	offset: 16, 11
+	index: -1
+global/a_global_chongjibobaodian0001
+	rotate: false
+	xy: 533, 413
+	size: 135, 105
+	orig: 177, 137
+	offset: 26, 32
+	index: -1
+global/a_global_heiguangxuanfengqian_00003
+	rotate: false
+	xy: 235, 981
+	size: 147, 43
+	orig: 265, 95
+	offset: 47, 15
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_baodian_19
+	rotate: false
+	xy: 380, 218
+	size: 52, 97
+	orig: 168, 153
+	offset: 75, 28
+	index: -1
+
+asset/anim/huoqiu1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_heiguangxuanfengqian_00014
+	rotate: false
+	xy: 624, 696
+	size: 285, 78
+	orig: 325, 116
+	offset: 0, 12
+	index: -1
+
+asset/anim/huoqiu0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_heiguangxuanfengqian_00010
+	rotate: true
+	xy: 776, 99
+	size: 283, 80
+	orig: 325, 116
+	offset: 19, 0
+	index: -1
+global/a_global_heiguangxuanfengqian_00017
+	rotate: false
+	xy: 517, 642
+	size: 209, 56
+	orig: 325, 116
+	offset: 55, 15
+	index: -1
+global/a_global_heiguangxuanfengqian_00004
+	rotate: true
+	xy: 453, 792
+	size: 229, 64
+	orig: 325, 116
+	offset: 25, 12
+	index: -1
+global/a_global_heiguangxuanfengqian_00001
+	rotate: true
+	xy: 356, 581
+	size: 119, 28
+	orig: 325, 116
+	offset: 87, 30
+	index: -1
+global/a_global_heiguangxuanfengqian_00002
+	rotate: false
+	xy: 849, 415
+	size: 145, 36
+	orig: 325, 116
+	offset: 77, 24
+	index: -1
+
+asset/anim/huoqiu2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_heiguangxuanfengqian_00012
+	rotate: false
+	xy: 0, 277
+	size: 281, 74
+	orig: 325, 116
+	offset: 1, 13
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_longjuan_shandian_009
+	rotate: false
+	xy: 308, 631
+	size: 87, 132
+	orig: 255, 212
+	offset: 1, 49
+	index: -1
+global/a_global_longjuan_shandian_008
+	rotate: true
+	xy: 813, 831
+	size: 31, 66
+	orig: 255, 212
+	offset: 198, 86
+	index: -1
+global/a_global_longjuan_shandian_007
+	rotate: true
+	xy: 705, 230
+	size: 55, 84
+	orig: 255, 212
+	offset: 189, 80
+	index: -1
+global/a_global_longjuan_shandian_006
+	rotate: false
+	xy: 0, 0
+	size: 237, 154
+	orig: 255, 212
+	offset: 7, 19
+	index: -1
+global/a_global_longjuan_shandian_005
+	rotate: false
+	xy: 170, 484
+	size: 125, 146
+	orig: 255, 212
+	offset: 12, 15
+	index: -1
+global/a_global_longjuan_shandian_004
+	rotate: false
+	xy: 238, 0
+	size: 175, 144
+	orig: 255, 212
+	offset: 66, 11
+	index: -1
+global/a_global_longjuan_shandian_003
+	rotate: false
+	xy: 728, 688
+	size: 91, 68
+	orig: 255, 212
+	offset: 63, 43
+	index: -1
+global/a_global_longjuan_shandian_002
+	rotate: false
+	xy: 411, 166
+	size: 137, 120
+	orig: 255, 212
+	offset: 95, 19
+	index: -1
+global/a_global_longjuan_shandian_001
+	rotate: false
+	xy: 170, 631
+	size: 137, 112
+	orig: 255, 212
+	offset: 88, 16
+	index: -1
+global/a_global_longjuan_shandian_000
+	rotate: false
+	xy: 813, 760
+	size: 69, 70
+	orig: 255, 212
+	offset: 85, 12
+	index: -1
+global/a_global_longjuan_shandian_011
+	rotate: true
+	xy: 820, 684
+	size: 75, 70
+	orig: 255, 212
+	offset: 0, 113
+	index: -1
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

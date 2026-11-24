@@ -1,0 +1,96 @@
+
+asset/anim/geliuganxiupukapai1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shou6qian_geliuganxiupukapai
+	rotate: false
+	xy: 0, 0
+	size: 250, 371
+	orig: 250, 371
+	offset: 0, 0
+	index: -1
+shou1_geliuganxiupukapai
+	rotate: true
+	xy: 251, 219
+	size: 211, 225
+	orig: 211, 225
+	offset: 0, 0
+	index: -1
+shou2_geliuganxiupukapai
+	rotate: true
+	xy: 251, 0
+	size: 218, 233
+	orig: 218, 233
+	offset: 0, 0
+	index: -1
+
+asset/anim/geliuganxiupukapai0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shou7_geliuganxiupukapai
+	rotate: false
+	xy: 760, 274
+	size: 232, 500
+	orig: 232, 500
+	offset: 0, 0
+	index: -1
+shenti_geliuganxiupukapai
+	rotate: true
+	xy: 535, 379
+	size: 100, 79
+	orig: 100, 79
+	offset: 0, 0
+	index: -1
+shou10_geliuganxiupukapai
+	rotate: true
+	xy: 572, 0
+	size: 273, 447
+	orig: 273, 447
+	offset: 0, 0
+	index: -1
+shou4hou_geliuganxiupukapai
+	rotate: false
+	xy: 287, 0
+	size: 247, 529
+	orig: 247, 529
+	offset: 0, 0
+	index: -1
+shou8_geliuganxiupukapai
+	rotate: false
+	xy: 0, 530
+	size: 264, 467
+	orig: 264, 467
+	offset: 0, 0
+	index: -1
+tou_geliuganxiupukapai
+	rotate: false
+	xy: 535, 274
+	size: 62, 104
+	orig: 62, 104
+	offset: 0, 0
+	index: -1
+shou3_geliuganxiupukapai
+	rotate: false
+	xy: 0, 0
+	size: 286, 529
+	orig: 286, 529
+	offset: 0, 0
+	index: -1
+shou9_geliuganxiupukapai
+	rotate: false
+	xy: 265, 530
+	size: 306, 450
+	orig: 306, 450
+	offset: 0, 0
+	index: -1
+shou5qian_geliuganxiupukapai
+	rotate: false
+	xy: 572, 480
+	size: 187, 518
+	orig: 187, 518
+	offset: 0, 0
+	index: -1

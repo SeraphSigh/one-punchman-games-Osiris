@@ -1,0 +1,195 @@
+
+asset/anim/hanbing0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/hanbing_hanbingxuehua_8
+	rotate: false
+	xy: 1137, 458
+	size: 250, 147
+	orig: 514, 165
+	offset: 160, 1
+	index: -1
+common/hanbing_hanbingxuehua_9
+	rotate: true
+	xy: 1739, 482
+	size: 270, 145
+	orig: 514, 165
+	offset: 131, 0
+	index: -1
+common/hanbing_hanbingxuehua_1
+	rotate: true
+	xy: 1815, 298
+	size: 86, 69
+	orig: 514, 165
+	offset: 406, 35
+	index: -1
+common/hanbing_hanbingxuehua_2
+	rotate: true
+	xy: 1815, 385
+	size: 96, 67
+	orig: 514, 165
+	offset: 385, 38
+	index: -1
+common/hanbing_hanbingxuehua_3
+	rotate: false
+	xy: 1615, 646
+	size: 104, 95
+	orig: 514, 165
+	offset: 362, 15
+	index: -1
+common/hanbing_hanbingxuehua_4
+	rotate: true
+	xy: 613, 641
+	size: 138, 147
+	orig: 514, 165
+	offset: 311, 11
+	index: -1
+common/hanbing_hanbingxuehua_5
+	rotate: false
+	xy: 0, 791
+	size: 174, 149
+	orig: 514, 165
+	offset: 263, 8
+	index: -1
+common/hanbing_hanbingxuehua_6
+	rotate: false
+	xy: 0, 641
+	size: 204, 149
+	orig: 514, 165
+	offset: 224, 5
+	index: -1
+common/hanbing_hanbingxuehua_7
+	rotate: false
+	xy: 1388, 588
+	size: 226, 147
+	orig: 514, 165
+	offset: 193, 3
+	index: -1
+common/hanbing_hanbingxuehua_23
+	rotate: false
+	xy: 1137, 606
+	size: 206, 89
+	orig: 514, 165
+	offset: 67, 55
+	index: -1
+common/hanbing_hanbingxuehua_22
+	rotate: false
+	xy: 205, 641
+	size: 204, 143
+	orig: 514, 165
+	offset: 78, 0
+	index: -1
+common/hanbing_hanbingxuehua_21
+	rotate: false
+	xy: 410, 641
+	size: 202, 145
+	orig: 514, 165
+	offset: 89, 0
+	index: -1
+common/hanbing_hanbingxuehua_20
+	rotate: false
+	xy: 205, 785
+	size: 198, 147
+	orig: 514, 165
+	offset: 102, 0
+	index: -1
+common/hanbing_hanbingxuehua_26
+	rotate: true
+	xy: 1492, 146
+	size: 6, 7
+	orig: 514, 165
+	offset: 37, 106
+	index: -1
+common/hanbing_hanbingxuehua_25
+	rotate: true
+	xy: 1484, 146
+	size: 6, 7
+	orig: 514, 165
+	offset: 49, 97
+	index: -1
+common/hanbing_hanbingxuehua_24
+	rotate: false
+	xy: 1615, 588
+	size: 112, 57
+	orig: 514, 165
+	offset: 58, 86
+	index: -1
+common/hanbing_hanbingxuehua_18
+	rotate: false
+	xy: 1137, 306
+	size: 300, 151
+	orig: 514, 165
+	offset: 19, 1
+	index: -1
+common/hanbing_hanbingxuehua_19
+	rotate: true
+	xy: 1885, 622
+	size: 272, 149
+	orig: 514, 165
+	offset: 37, 0
+	index: -1
+common/hanbing_hanbingxuehua_12
+	rotate: false
+	xy: 1514, 0
+	size: 376, 137
+	orig: 514, 165
+	offset: 124, 6
+	index: -1
+common/hanbing_hanbingxuehua_13
+	rotate: false
+	xy: 1137, 146
+	size: 346, 159
+	orig: 514, 165
+	offset: 133, 2
+	index: -1
+common/hanbing_hanbingxuehua_10
+	rotate: false
+	xy: 1137, 0
+	size: 376, 145
+	orig: 514, 165
+	offset: 112, 0
+	index: -1
+common/hanbing_hanbingxuehua_11
+	rotate: false
+	xy: 1438, 454
+	size: 300, 133
+	orig: 514, 165
+	offset: 102, 11
+	index: -1
+common/hanbing_hanbingxuehua_16
+	rotate: false
+	xy: 1514, 138
+	size: 374, 159
+	orig: 514, 165
+	offset: 64, 0
+	index: -1
+common/hanbing_hanbingxuehua_17
+	rotate: true
+	xy: 1891, 0
+	size: 324, 157
+	orig: 514, 165
+	offset: 42, 0
+	index: -1
+common/hanbing_hanbingxuehua_14
+	rotate: true
+	xy: 1885, 325
+	size: 296, 159
+	orig: 514, 165
+	offset: 110, 0
+	index: -1
+common/hanbing_hanbingxuehua_15
+	rotate: false
+	xy: 1484, 298
+	size: 330, 155
+	orig: 514, 165
+	offset: 86, 0
+	index: -1
+common/hanbing_hanbingfenwei1_1
+	rotate: false
+	xy: 0, 0
+	size: 1136, 640
+	orig: 1136, 640
+	offset: 0, 0
+	index: -1

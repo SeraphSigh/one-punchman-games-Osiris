@@ -1,0 +1,366 @@
+
+asset/anim/shanguangfulaishiSECOMMON1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/sgfls_jinengbaodian_00017
+	rotate: false
+	xy: 158, 199
+	size: 188, 186
+	orig: 314, 244
+	offset: 53, 45
+	index: -1
+common/sgfls_jinengbaodian_00016
+	rotate: false
+	xy: 0, 0
+	size: 198, 188
+	orig: 314, 244
+	offset: 43, 44
+	index: -1
+common/sgfls_jinengbaodian_00015
+	rotate: true
+	xy: 199, 0
+	size: 198, 186
+	orig: 314, 244
+	offset: 43, 46
+	index: -1
+
+asset/anim/shanguangfulaishiSESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/sgfls_jinengguiji2_00046
+	rotate: false
+	xy: 0, 288
+	size: 626, 110
+	orig: 626, 220
+	offset: 0, 64
+	index: -1
+skill/sgfls_jinengguiji1_00027
+	rotate: true
+	xy: 524, 653
+	size: 260, 207
+	orig: 428, 393
+	offset: 89, 80
+	index: -1
+skill/sgfls_jinengguiji1_00025
+	rotate: false
+	xy: 247, 917
+	size: 314, 97
+	orig: 428, 393
+	offset: 91, 194
+	index: -1
+skill/sgfls_jinengguiji1_00024
+	rotate: false
+	xy: 732, 777
+	size: 226, 147
+	orig: 428, 393
+	offset: 179, 143
+	index: -1
+skill/sgfls_jinengguiji1_00023
+	rotate: false
+	xy: 732, 585
+	size: 226, 191
+	orig: 428, 393
+	offset: 178, 143
+	index: -1
+skill/sgfls_jinengguiji1_00022
+	rotate: false
+	xy: 328, 399
+	size: 298, 253
+	orig: 428, 393
+	offset: 72, 140
+	index: -1
+skill/sgfls_jinengguiji2_00044_2
+	rotate: false
+	xy: 0, 0
+	size: 626, 164
+	orig: 626, 220
+	offset: 0, 33
+	index: -1
+skill/sgfls_jinengguiji1_00033
+	rotate: true
+	xy: 328, 653
+	size: 262, 195
+	orig: 428, 393
+	offset: 87, 183
+	index: -1
+skill/sgfls_jinengguiji1_00035
+	rotate: false
+	xy: 43, 399
+	size: 244, 185
+	orig: 428, 393
+	offset: 91, 194
+	index: -1
+skill/sgfls_jinengguiji1_00036
+	rotate: false
+	xy: 627, 333
+	size: 338, 251
+	orig: 428, 393
+	offset: 90, 127
+	index: -1
+skill/sgfls_jinengguiji1_00037
+	rotate: true
+	xy: 627, 0
+	size: 332, 373
+	orig: 428, 393
+	offset: 96, 1
+	index: -1
+skill/sgfls_jinengguiji1_00038
+	rotate: false
+	xy: 43, 585
+	size: 284, 331
+	orig: 428, 393
+	offset: 144, 1
+	index: -1
+skill/sgfls_jinengguiji2_00051
+	rotate: true
+	xy: 0, 399
+	size: 568, 42
+	orig: 626, 220
+	offset: 0, 94
+	index: -1
+skill/sgfls_jinengguiji2_00050
+	rotate: true
+	xy: 966, 333
+	size: 626, 46
+	orig: 626, 220
+	offset: 0, 93
+	index: -1
+skill/sgfls_jinengguiji2_00045
+	rotate: false
+	xy: 0, 165
+	size: 626, 122
+	orig: 626, 220
+	offset: 0, 52
+	index: -1
+
+asset/anim/shanguangfulaishiSESKILL1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/sgfls_jinengguiji2_00047
+	rotate: false
+	xy: 0, 158
+	size: 626, 76
+	orig: 626, 220
+	offset: 0, 78
+	index: -1
+skill/sgfls_jinengguiji2_00044
+	rotate: false
+	xy: 0, 506
+	size: 313, 139
+	orig: 313, 177
+	offset: 0, 18
+	index: -1
+skill/sgfls_jinengguiji1_00015
+	rotate: false
+	xy: 326, 235
+	size: 300, 163
+	orig: 428, 393
+	offset: 113, 133
+	index: -1
+skill/sgfls_jinengguiji2_00043
+	rotate: false
+	xy: 627, 271
+	size: 313, 167
+	orig: 313, 177
+	offset: 0, 0
+	index: -1
+skill/sgfls_jinengguiji1_00029
+	rotate: true
+	xy: 0, 646
+	size: 308, 201
+	orig: 428, 393
+	offset: 89, 80
+	index: -1
+skill/sgfls_jinengguiji1_00026
+	rotate: true
+	xy: 202, 646
+	size: 308, 175
+	orig: 428, 393
+	offset: 90, 114
+	index: -1
+skill/sgfls_jinengguiji1_00021
+	rotate: false
+	xy: 326, 399
+	size: 300, 157
+	orig: 428, 393
+	offset: 71, 235
+	index: -1
+skill/sgfls_jinengguiji1_00020
+	rotate: false
+	xy: 627, 439
+	size: 306, 157
+	orig: 428, 393
+	offset: 72, 235
+	index: -1
+skill/sgfls_jinengguiji1_00040
+	rotate: true
+	xy: 0, 235
+	size: 270, 325
+	orig: 428, 393
+	offset: 153, 1
+	index: -1
+skill/sgfls_jinengguiji2_00048
+	rotate: false
+	xy: 0, 0
+	size: 626, 78
+	orig: 626, 220
+	offset: 0, 77
+	index: -1
+skill/sgfls_jinengguiji2_00049
+	rotate: false
+	xy: 0, 79
+	size: 626, 78
+	orig: 626, 220
+	offset: 0, 76
+	index: -1
+skill/sgfls_jinengguiji1_00031
+	rotate: true
+	xy: 546, 749
+	size: 258, 295
+	orig: 428, 393
+	offset: 148, 83
+	index: -1
+skill/sgfls_jinengguiji1_00034
+	rotate: true
+	xy: 378, 749
+	size: 260, 167
+	orig: 428, 393
+	offset: 89, 212
+	index: -1
+skill/sgfls_jinengguiji1_00039
+	rotate: true
+	xy: 627, 0
+	size: 270, 325
+	orig: 428, 393
+	offset: 153, 1
+	index: -1
+skill/sgfls_jinengguiji1_00018
+	rotate: true
+	xy: 842, 731
+	size: 284, 175
+	orig: 428, 393
+	offset: 87, 203
+	index: -1
+skill/sgfls_jinengguiji1_00012
+	rotate: false
+	xy: 378, 557
+	size: 238, 191
+	orig: 428, 393
+	offset: 89, 119
+	index: -1
+
+asset/anim/shanguangfulaishiSESKILL2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/sgfls_jinengguiji1_00016
+	rotate: false
+	xy: 307, 0
+	size: 298, 201
+	orig: 428, 393
+	offset: 85, 157
+	index: -1
+skill/sgfls_jinengguiji1_00017
+	rotate: false
+	xy: 0, 350
+	size: 208, 193
+	orig: 428, 393
+	offset: 86, 180
+	index: -1
+skill/sgfls_jinengguiji1_00014
+	rotate: true
+	xy: 544, 382
+	size: 172, 203
+	orig: 428, 393
+	offset: 242, 113
+	index: -1
+skill/sgfls_jinengguiji1_00028
+	rotate: false
+	xy: 0, 144
+	size: 292, 205
+	orig: 428, 393
+	offset: 89, 80
+	index: -1
+skill/sgfls_jinengguiji1_00011
+	rotate: false
+	xy: 606, 0
+	size: 280, 155
+	orig: 428, 393
+	offset: 12, 119
+	index: -1
+skill/sgfls_jinengguiji1_00030
+	rotate: false
+	xy: 293, 202
+	size: 250, 201
+	orig: 428, 393
+	offset: 147, 80
+	index: -1
+skill/sgfls_jinengguiji1_00032
+	rotate: false
+	xy: 606, 156
+	size: 254, 225
+	orig: 428, 393
+	offset: 94, 153
+	index: -1
+skill/sgfls_jinengguiji1_00019
+	rotate: false
+	xy: 0, 0
+	size: 306, 143
+	orig: 428, 393
+	offset: 72, 235
+	index: -1
+skill/sgfls_jinengguiji1_00013
+	rotate: true
+	xy: 748, 425
+	size: 196, 199
+	orig: 428, 393
+	offset: 193, 114
+	index: -1
+
+asset/anim/shanguangfulaishiSECOMMON0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/sgfls_jinengbaodian_00018
+	rotate: false
+	xy: 129, 384
+	size: 140, 84
+	orig: 314, 244
+	offset: 101, 146
+	index: -1
+common/sgfls_jinengbaodian_00014
+	rotate: false
+	xy: 277, 201
+	size: 202, 184
+	orig: 314, 244
+	offset: 35, 48
+	index: -1
+common/sgfls_jinengbaodian_00013
+	rotate: false
+	xy: 0, 205
+	size: 200, 178
+	orig: 314, 244
+	offset: 35, 55
+	index: -1
+common/sgfls_jinengbaodian_00012
+	rotate: false
+	xy: 0, 0
+	size: 276, 204
+	orig: 314, 244
+	offset: 15, 29
+	index: -1
+common/sgfls_jinengbaodian_00011
+	rotate: true
+	xy: 277, 0
+	size: 200, 218
+	orig: 314, 244
+	offset: 46, 13
+	index: -1

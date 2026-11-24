@@ -1,0 +1,40 @@
+
+asset/anim/zhushijuehaibao84.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xingguang_zsjhb8sanzhounian
+	rotate: false
+	xy: 743, 833
+	size: 128, 128
+	orig: 128, 128
+	offset: 0, 0
+	index: -1
+guang_0_zsjhb8sanzhounian
+	rotate: false
+	xy: 145, 700
+	size: 128, 128
+	orig: 128, 128
+	offset: 0, 0
+	index: -1
+guang_1_zsjhb8sanzhounian
+	rotate: false
+	xy: 0, 0
+	size: 569, 529
+	orig: 819, 819
+	offset: 164, 175
+	index: -1
+
+asset/anim/zhushijuehaibao81.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fenwei_zsjhb8sanzhounian
+	rotate: false
+	xy: 204, 754
+	size: 187, 187
+	orig: 225, 225
+	offset: 19, 19
+	index: -1

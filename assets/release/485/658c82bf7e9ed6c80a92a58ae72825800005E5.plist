@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>pic_2020xc_xcct_bt.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,3}</string>
+                <key>spriteSize</key>
+                <string>{334,143}</string>
+                <key>spriteSourceSize</key>
+                <string>{334,149}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{334,143}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>springDungeonRes0.png</string>
+            <key>size</key>
+            <string>{334,143}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:1d8f4b2f1c249583538c85ca817243be:050013b16b07784f30d4469fb714543a:a591a4e13cd2f9aa8df59ed525377022$</string>
+            <key>textureFileName</key>
+            <string>springDungeonRes0.png</string>
+        </dict>
+    </dict>
+</plist>

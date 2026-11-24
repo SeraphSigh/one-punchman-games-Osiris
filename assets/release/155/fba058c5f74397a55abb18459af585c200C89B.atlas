@@ -1,0 +1,2944 @@
+
+asset/anim/huoqiu1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_heiguangxuanfengqian_00014
+	rotate: false
+	xy: 624, 696
+	size: 285, 78
+	orig: 325, 116
+	offset: 0, 12
+	index: -1
+
+asset/anim/huoqiu0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_heiguangxuanfengqian_00010
+	rotate: true
+	xy: 776, 99
+	size: 283, 80
+	orig: 325, 116
+	offset: 19, 0
+	index: -1
+global/a_global_heiguangxuanfengqian_00017
+	rotate: false
+	xy: 517, 642
+	size: 209, 56
+	orig: 325, 116
+	offset: 55, 15
+	index: -1
+global/a_global_heiguangxuanfengqian_00002
+	rotate: false
+	xy: 849, 415
+	size: 145, 36
+	orig: 325, 116
+	offset: 77, 24
+	index: -1
+global/a_global_heiguangxuanfengqian_00004
+	rotate: true
+	xy: 453, 792
+	size: 229, 64
+	orig: 325, 116
+	offset: 25, 12
+	index: -1
+global/a_global_heiguangxuanfengqian_00000
+	rotate: true
+	xy: 996, 704
+	size: 91, 22
+	orig: 325, 116
+	offset: 100, 35
+	index: -1
+global/a_global_heiguangxuanfengqian_00001
+	rotate: true
+	xy: 356, 581
+	size: 119, 28
+	orig: 325, 116
+	offset: 87, 30
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_baodian_001_wuzhengqishipng
+	rotate: true
+	xy: 359, 627
+	size: 232, 224
+	orig: 232, 224
+	offset: 0, 0
+	index: -1
+global/a_global_quanbaodian_02
+	rotate: false
+	xy: 526, 860
+	size: 203, 163
+	orig: 255, 183
+	offset: 8, 11
+	index: -1
+global/a_global_quanbaodian_03
+	rotate: false
+	xy: 306, 860
+	size: 219, 163
+	orig: 255, 183
+	offset: 7, 10
+	index: -1
+global/a_global_geliuganxiupu_suishi_009
+	rotate: false
+	xy: 146, 815
+	size: 141, 44
+	orig: 223, 90
+	offset: 55, 18
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_heiguangxuanfengqian_00013
+	rotate: true
+	xy: 513, 801
+	size: 223, 61
+	orig: 265, 95
+	offset: 8, 10
+	index: -1
+global/a_global_heiguangxuanfengqian_00011
+	rotate: true
+	xy: 589, 273
+	size: 241, 69
+	orig: 265, 95
+	offset: 10, 2
+	index: -1
+global/a_global_heiguangxuanfengqian_00009
+	rotate: true
+	xy: 447, 801
+	size: 223, 65
+	orig: 265, 95
+	offset: 20, 0
+	index: -1
+global/a_global_quanbaodian_04
+	rotate: false
+	xy: 617, 780
+	size: 195, 139
+	orig: 255, 183
+	offset: 38, 10
+	index: -1
+global/a_global_heiguangxuanfengqian_00007
+	rotate: false
+	xy: 601, 147
+	size: 235, 73
+	orig: 265, 95
+	offset: 3, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_010
+	rotate: false
+	xy: 334, 980
+	size: 151, 44
+	orig: 223, 90
+	offset: 48, 15
+	index: -1
+global/a_global_heiguangxuanfengqian_00015
+	rotate: true
+	xy: 720, 0
+	size: 207, 65
+	orig: 265, 95
+	offset: 3, 10
+	index: -1
+global/a_global_texiao_tanhuanghuzi_109
+	rotate: false
+	xy: 893, 991
+	size: 57, 32
+	orig: 95, 58
+	offset: 1, 9
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_117
+	rotate: false
+	xy: 700, 745
+	size: 145, 114
+	orig: 149, 116
+	offset: 0, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_119
+	rotate: true
+	xy: 735, 426
+	size: 147, 110
+	orig: 149, 116
+	offset: 0, 6
+	index: -1
+global/a_global_geliuganxiupu_suishi_005
+	rotate: false
+	xy: 584, 668
+	size: 115, 52
+	orig: 223, 90
+	offset: 74, 16
+	index: -1
+global/a_global_heiguangxuanfengqian_00008
+	rotate: true
+	xy: 218, 227
+	size: 219, 71
+	orig: 265, 95
+	offset: 24, 0
+	index: -1
+global/a_global_heiguangxuanfengqian_00005
+	rotate: true
+	xy: 786, 0
+	size: 207, 59
+	orig: 265, 95
+	offset: 14, 6
+	index: -1
+global/a_global_heiguangxuanfengqian_00006
+	rotate: true
+	xy: 309, 519
+	size: 227, 69
+	orig: 265, 95
+	offset: 8, 1
+	index: -1
+global/a_global_yanwushang0005
+	rotate: false
+	xy: 922, 764
+	size: 102, 90
+	orig: 116, 92
+	offset: 11, 0
+	index: -1
+global/a_global_yanwushang0004
+	rotate: false
+	xy: 922, 673
+	size: 102, 90
+	orig: 116, 92
+	offset: 10, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_heiguangxuanfengqian_00016
+	rotate: false
+	xy: 0, 71
+	size: 203, 61
+	orig: 265, 95
+	offset: 9, 10
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_123
+	rotate: false
+	xy: 580, 859
+	size: 149, 98
+	orig: 149, 116
+	offset: 0, 18
+	index: -1
+global/a_global_texiao_tanhuanghuzi_125
+	rotate: false
+	xy: 673, 804
+	size: 53, 54
+	orig: 95, 58
+	offset: 42, 0
+	index: -1
+global/a_global_geliuganxiupu_suishi_002
+	rotate: false
+	xy: 450, 784
+	size: 85, 48
+	orig: 223, 90
+	offset: 97, 15
+	index: -1
+global/a_global_quanbaodian_01
+	rotate: false
+	xy: 784, 534
+	size: 179, 147
+	orig: 255, 183
+	offset: 29, 12
+	index: -1
+global/a_global_quanbaodian_05
+	rotate: false
+	xy: 814, 0
+	size: 195, 129
+	orig: 255, 183
+	offset: 46, 16
+	index: -1
+global/a_global_quanbaodian_06
+	rotate: false
+	xy: 204, 73
+	size: 201, 137
+	orig: 255, 183
+	offset: 46, 16
+	index: -1
+global/a_global_yanwushang0013
+	rotate: true
+	xy: 580, 804
+	size: 54, 92
+	orig: 116, 92
+	offset: 62, 0
+	index: -1
+global/a_global_geliuganxiupu_suishi_004
+	rotate: true
+	xy: 972, 459
+	size: 105, 52
+	orig: 223, 90
+	offset: 82, 15
+	index: -1
+global/a_global_geliuganxiupu_suishi_008
+	rotate: true
+	xy: 735, 522
+	size: 131, 48
+	orig: 223, 90
+	offset: 62, 17
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_011
+	rotate: false
+	xy: 482, 396
+	size: 159, 36
+	orig: 223, 90
+	offset: 43, 17
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_120
+	rotate: true
+	xy: 143, 875
+	size: 149, 108
+	orig: 149, 116
+	offset: 0, 8
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_121
+	rotate: true
+	xy: 252, 875
+	size: 149, 106
+	orig: 149, 116
+	offset: 0, 10
+	index: -1
+global/a_global_texiao_tanhuanghuzi_110
+	rotate: true
+	xy: 116, 787
+	size: 75, 42
+	orig: 95, 58
+	offset: 1, 7
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_118
+	rotate: false
+	xy: 879, 127
+	size: 145, 108
+	orig: 149, 116
+	offset: 1, 5
+	index: -1
+global/a_global_longjuan_tuoci_055
+	rotate: false
+	xy: 479, 592
+	size: 158, 130
+	orig: 298, 168
+	offset: 84, 25
+	index: -1
+global/a_global_longjuan_tuoci_054
+	rotate: false
+	xy: 0, 541
+	size: 158, 132
+	orig: 298, 168
+	offset: 84, 20
+	index: -1
+global/a_global_longjuan_tuoci_057
+	rotate: false
+	xy: 478, 723
+	size: 158, 124
+	orig: 298, 168
+	offset: 84, 32
+	index: -1
+global/a_global_longjuan_tuoci_056
+	rotate: false
+	xy: 319, 631
+	size: 158, 128
+	orig: 298, 168
+	offset: 84, 28
+	index: -1
+global/a_global_longjuan_tuoci_059
+	rotate: false
+	xy: 0, 674
+	size: 158, 112
+	orig: 298, 168
+	offset: 84, 45
+	index: -1
+global/a_global_longjuan_tuoci_058
+	rotate: false
+	xy: 159, 660
+	size: 158, 118
+	orig: 298, 168
+	offset: 84, 38
+	index: -1
+global/a_global_longjuan_tuoci_060
+	rotate: false
+	xy: 318, 760
+	size: 158, 108
+	orig: 298, 168
+	offset: 83, 47
+	index: -1
+global/a_global_geliuganxiupu_suishi_006
+	rotate: false
+	xy: 512, 974
+	size: 123, 50
+	orig: 223, 90
+	offset: 68, 16
+	index: -1
+global/a_global_geliuganxiupu_suishi_007
+	rotate: false
+	xy: 512, 974
+	size: 123, 50
+	orig: 223, 90
+	offset: 68, 16
+	index: -1
+global/a_global_yanwushang0009
+	rotate: true
+	xy: 741, 926
+	size: 98, 92
+	orig: 116, 92
+	offset: 18, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao_zhuangjiaxingxing_122
+	rotate: false
+	xy: 585, 137
+	size: 149, 100
+	orig: 149, 116
+	offset: 0, 16
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_112
+	rotate: true
+	xy: 414, 754
+	size: 129, 90
+	orig: 149, 116
+	offset: 12, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_114
+	rotate: true
+	xy: 855, 830
+	size: 91, 56
+	orig: 95, 58
+	offset: 0, 2
+	index: -1
+global/a_global_didiwang_qi03_003
+	rotate: false
+	xy: 139, 137
+	size: 136, 132
+	orig: 136, 132
+	offset: 0, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_113
+	rotate: false
+	xy: 393, 412
+	size: 139, 108
+	orig: 149, 116
+	offset: 2, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_115
+	rotate: false
+	xy: 585, 238
+	size: 141, 112
+	orig: 149, 116
+	offset: 2, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_114
+	rotate: false
+	xy: 727, 239
+	size: 141, 110
+	orig: 149, 116
+	offset: 2, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_116
+	rotate: false
+	xy: 870, 125
+	size: 143, 112
+	orig: 149, 116
+	offset: 2, 0
+	index: -1
+global/a_global_longjuan_tuoci_053
+	rotate: false
+	xy: 0, 0
+	size: 156, 128
+	orig: 298, 168
+	offset: 85, 17
+	index: -1
+global/a_global_heiguangxuanfengqian_00003
+	rotate: false
+	xy: 235, 981
+	size: 147, 43
+	orig: 265, 95
+	offset: 47, 15
+	index: -1
+global/a_global_longjuan_tuoci_061
+	rotate: false
+	xy: 428, 137
+	size: 156, 104
+	orig: 298, 168
+	offset: 84, 48
+	index: -1
+global/a_global_quanbaodian_00
+	rotate: false
+	xy: 889, 457
+	size: 125, 99
+	orig: 255, 183
+	offset: 53, 31
+	index: -1
+global/a_global_yanwushang0006
+	rotate: false
+	xy: 779, 665
+	size: 100, 90
+	orig: 116, 92
+	offset: 14, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao_tanhuanghuzi_120
+	rotate: true
+	xy: 833, 302
+	size: 79, 58
+	orig: 95, 58
+	offset: 16, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_121
+	rotate: true
+	xy: 377, 707
+	size: 77, 58
+	orig: 95, 58
+	offset: 18, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_122
+	rotate: false
+	xy: 843, 677
+	size: 57, 58
+	orig: 95, 58
+	offset: 38, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_123
+	rotate: true
+	xy: 901, 677
+	size: 57, 58
+	orig: 95, 58
+	offset: 38, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_124
+	rotate: true
+	xy: 81, 821
+	size: 55, 56
+	orig: 95, 58
+	offset: 40, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_126
+	rotate: true
+	xy: 813, 825
+	size: 51, 54
+	orig: 95, 58
+	offset: 44, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_127
+	rotate: false
+	xy: 848, 736
+	size: 51, 48
+	orig: 95, 58
+	offset: 44, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_119
+	rotate: true
+	xy: 838, 222
+	size: 79, 58
+	orig: 95, 58
+	offset: 15, 0
+	index: -1
+global/a_global_texiao_tanhuanghuzi_118
+	rotate: true
+	xy: 327, 785
+	size: 91, 56
+	orig: 95, 58
+	offset: 3, 2
+	index: -1
+global/a_global_texiao_tanhuanghuzi_115
+	rotate: true
+	xy: 213, 785
+	size: 91, 56
+	orig: 95, 58
+	offset: 1, 2
+	index: -1
+global/a_global_texiao_tanhuanghuzi_117
+	rotate: true
+	xy: 639, 389
+	size: 89, 56
+	orig: 95, 58
+	offset: 4, 2
+	index: -1
+global/a_global_texiao_tanhuanghuzi_116
+	rotate: true
+	xy: 270, 785
+	size: 91, 56
+	orig: 95, 58
+	offset: 2, 2
+	index: -1
+global/a_global_texiao_tanhuanghuzi_111
+	rotate: true
+	xy: 533, 405
+	size: 91, 52
+	orig: 95, 58
+	offset: 0, 5
+	index: -1
+global/a_global_texiao_tanhuanghuzi_113
+	rotate: false
+	xy: 110, 311
+	size: 91, 54
+	orig: 95, 58
+	offset: 0, 4
+	index: -1
+global/a_global_texiao_tanhuanghuzi_112
+	rotate: true
+	xy: 586, 405
+	size: 91, 52
+	orig: 95, 58
+	offset: 0, 5
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_111
+	rotate: false
+	xy: 110, 244
+	size: 93, 66
+	orig: 149, 116
+	offset: 31, 0
+	index: -1
+global/a_global_texiao_zhuangjiaxingxing_110
+	rotate: false
+	xy: 774, 632
+	size: 73, 44
+	orig: 149, 116
+	offset: 30, 0
+	index: -1
+global/a_global_didiwang_qi02
+	rotate: false
+	xy: 524, 746
+	size: 84, 79
+	orig: 90, 83
+	offset: 0, 1
+	index: -1
+global/a_global_yanwushang0012
+	rotate: false
+	xy: 543, 497
+	size: 58, 92
+	orig: 116, 92
+	offset: 58, 0
+	index: -1
+global/a_global_yanwushang0010
+	rotate: true
+	xy: 306, 610
+	size: 96, 92
+	orig: 116, 92
+	offset: 20, 0
+	index: -1
+global/a_global_yanwushang0011
+	rotate: true
+	xy: 390, 113
+	size: 96, 92
+	orig: 116, 92
+	offset: 20, 0
+	index: -1
+global/a_global_geliuganxiupu_suishi_003
+	rotate: true
+	xy: 391, 414
+	size: 95, 50
+	orig: 223, 90
+	offset: 90, 15
+	index: -1
+global/a_global_geliuganxiupu_suishi_001
+	rotate: false
+	xy: 785, 587
+	size: 73, 44
+	orig: 223, 90
+	offset: 105, 15
+	index: -1
+global/a_global_yanwushang0008
+	rotate: true
+	xy: 213, 684
+	size: 100, 92
+	orig: 116, 92
+	offset: 16, 0
+	index: -1
+global/a_global_yanwushang0007
+	rotate: true
+	xy: 212, 434
+	size: 100, 92
+	orig: 116, 92
+	offset: 15, 0
+	index: -1
+global/a_global_yanwushang0001
+	rotate: false
+	xy: 797, 89
+	size: 110, 84
+	orig: 116, 92
+	offset: 0, 1
+	index: -1
+global/a_global_yanwushang0003
+	rotate: true
+	xy: 0, 590
+	size: 112, 88
+	orig: 116, 92
+	offset: 0, 0
+	index: -1
+global/a_global_yanwushang0002
+	rotate: false
+	xy: 798, 0
+	size: 112, 88
+	orig: 116, 92
+	offset: 0, 0
+	index: -1
+
+asset/anim/mingjiewangSE5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_mingjiewang_xiantiao_qilangxian003
+	rotate: false
+	xy: 562, 0
+	size: 75, 101
+	orig: 129, 129
+	offset: 3, 5
+	index: -1
+a_mingjiewang_xiantiao_xulibao002
+	rotate: true
+	xy: 71, 130
+	size: 122, 90
+	orig: 158, 90
+	offset: 20, 0
+	index: -1
+xiquan_mingjiewang0024
+	rotate: false
+	xy: 542, 403
+	size: 55, 72
+	orig: 121, 156
+	offset: 1, 42
+	index: -1
+xiquan_mingjiewang0021
+	rotate: false
+	xy: 294, 216
+	size: 89, 104
+	orig: 121, 156
+	offset: 2, 23
+	index: -1
+houypao_mingjiewang0040
+	rotate: true
+	xy: 605, 102
+	size: 91, 77
+	orig: 109, 81
+	offset: 3, 3
+	index: -1
+houypao_mingjiewang0042
+	rotate: true
+	xy: 345, 885
+	size: 87, 73
+	orig: 109, 81
+	offset: 1, 5
+	index: -1
+a_mingjiewang_xiantiao011
+	rotate: true
+	xy: 536, 516
+	size: 73, 56
+	orig: 215, 96
+	offset: 26, 40
+	index: -1
+xiquan_mingjiewang0022
+	rotate: false
+	xy: 462, 527
+	size: 73, 98
+	orig: 121, 156
+	offset: 5, 29
+	index: -1
+a_mingjiewang_xiantiao_qilangxian007
+	rotate: false
+	xy: 306, 0
+	size: 89, 107
+	orig: 129, 129
+	offset: 20, 12
+	index: -1
+a_mingjiewang_xiantiao_qilangxian001
+	rotate: false
+	xy: 562, 0
+	size: 75, 101
+	orig: 129, 129
+	offset: 3, 5
+	index: -1
+a_mingjiewang_xiantiao_qilangxian002
+	rotate: false
+	xy: 562, 0
+	size: 75, 101
+	orig: 129, 129
+	offset: 3, 5
+	index: -1
+huichen11_mjw0015
+	rotate: true
+	xy: 0, 732
+	size: 113, 67
+	orig: 225, 95
+	offset: 0, 10
+	index: -1
+a_mingjiewang_xiantiao_qilangxian009
+	rotate: false
+	xy: 306, 0
+	size: 89, 107
+	orig: 129, 129
+	offset: 20, 12
+	index: -1
+a_mingjiewang_xiantiao_qilangxian008
+	rotate: false
+	xy: 306, 0
+	size: 89, 107
+	orig: 129, 129
+	offset: 20, 12
+	index: -1
+houypao_mingjiewang0026
+	rotate: true
+	xy: 80, 842
+	size: 109, 77
+	orig: 109, 81
+	offset: 0, 0
+	index: -1
+houypao_mingjiewang0024
+	rotate: true
+	xy: 122, 253
+	size: 109, 73
+	orig: 109, 81
+	offset: 0, 0
+	index: -1
+houypao_mingjiewang0022
+	rotate: true
+	xy: 222, 716
+	size: 109, 73
+	orig: 109, 81
+	offset: 0, 0
+	index: -1
+a_mingjiewang_xiantiao_shitoubozayan010
+	rotate: false
+	xy: 296, 681
+	size: 81, 101
+	orig: 129, 129
+	offset: 29, 25
+	index: -1
+a_mingjiewang_xiantiao_shitoubozayan013
+	rotate: true
+	xy: 499, 923
+	size: 83, 79
+	orig: 129, 129
+	offset: 29, 48
+	index: -1
+a_mingjiewang_xiantiao_shitoubozayan012
+	rotate: false
+	xy: 478, 0
+	size: 83, 101
+	orig: 129, 129
+	offset: 28, 26
+	index: -1
+houypao_mingjiewang0034
+	rotate: true
+	xy: 408, 316
+	size: 101, 81
+	orig: 109, 81
+	offset: 8, 0
+	index: -1
+houypao_mingjiewang0036
+	rotate: true
+	xy: 523, 102
+	size: 101, 81
+	orig: 109, 81
+	offset: 7, 0
+	index: -1
+a_mingjiewang_xiantiao_shitoubozayan009
+	rotate: false
+	xy: 396, 0
+	size: 81, 103
+	orig: 129, 129
+	offset: 29, 23
+	index: -1
+houypao_mingjiewang0030
+	rotate: true
+	xy: 222, 471
+	size: 105, 81
+	orig: 109, 81
+	offset: 4, 0
+	index: -1
+houypao_mingjiewang0032
+	rotate: true
+	xy: 305, 550
+	size: 101, 81
+	orig: 109, 81
+	offset: 8, 0
+	index: -1
+a_mingjiewang_xiantiao_shitoubozayan002
+	rotate: false
+	xy: 0, 502
+	size: 71, 115
+	orig: 129, 129
+	offset: 32, 0
+	index: -1
+a_mingjiewang_xiantiao_shitoubozayan001
+	rotate: false
+	xy: 0, 386
+	size: 71, 115
+	orig: 129, 129
+	offset: 31, 0
+	index: -1
+a_mingjiewang_xiantiao_shitoubozayan004
+	rotate: false
+	xy: 122, 0
+	size: 75, 121
+	orig: 129, 129
+	offset: 31, 0
+	index: -1
+a_mingjiewang_xiantiao_chengtu2001
+	rotate: false
+	xy: 579, 919
+	size: 71, 79
+	orig: 107, 107
+	offset: 18, 8
+	index: -1
+a_mingjiewang_xiantiao_chengtu2003
+	rotate: false
+	xy: 466, 751
+	size: 81, 85
+	orig: 107, 107
+	offset: 15, 10
+	index: -1
+a_mingjiewang_xiantiao_chengtu2002
+	rotate: false
+	xy: 419, 923
+	size: 79, 83
+	orig: 107, 107
+	offset: 16, 8
+	index: -1
+a_mingjiewang_xiantiao_chengtu2005
+	rotate: true
+	xy: 419, 837
+	size: 85, 83
+	orig: 107, 107
+	offset: 14, 15
+	index: -1
+a_mingjiewang_xiantiao_chengtu2004
+	rotate: false
+	xy: 382, 751
+	size: 83, 85
+	orig: 107, 107
+	offset: 14, 11
+	index: -1
+a_mingjiewang_xiantiao_chengtu2006
+	rotate: false
+	xy: 503, 837
+	size: 81, 81
+	orig: 107, 107
+	offset: 18, 17
+	index: -1
+a_mingjiewang_xiantiao_chengtu008
+	rotate: true
+	xy: 234, 108
+	size: 107, 97
+	orig: 107, 107
+	offset: 0, 10
+	index: -1
+a_mingjiewang_xiantiao_chengtu003
+	rotate: true
+	xy: 148, 363
+	size: 107, 103
+	orig: 107, 107
+	offset: 0, 0
+	index: -1
+a_mingjiewang_xiantiao_chengtu001
+	rotate: false
+	xy: 161, 936
+	size: 107, 87
+	orig: 107, 107
+	offset: 0, 0
+	index: -1
+a_mingjiewang_xiantiao_chengtu007
+	rotate: true
+	xy: 196, 232
+	size: 107, 97
+	orig: 107, 107
+	offset: 0, 10
+	index: -1
+a_mingjiewang_xiantiao_chengtu004
+	rotate: false
+	xy: 198, 0
+	size: 107, 107
+	orig: 107, 107
+	offset: 0, 0
+	index: -1
+houypao_mingjiewang0006
+	rotate: true
+	xy: 384, 212
+	size: 103, 61
+	orig: 109, 81
+	offset: 5, 0
+	index: -1
+houypao_mingjiewang0038
+	rotate: true
+	xy: 328, 321
+	size: 103, 79
+	orig: 109, 81
+	offset: 5, 2
+	index: -1
+houypao_mingjiewang0020
+	rotate: true
+	xy: 148, 471
+	size: 107, 73
+	orig: 109, 81
+	offset: 2, 0
+	index: -1
+xiquan_mingjiewang0008
+	rotate: false
+	xy: 378, 652
+	size: 93, 98
+	orig: 121, 156
+	offset: 6, 27
+	index: -1
+houypao_mingjiewang0018
+	rotate: true
+	xy: 306, 783
+	size: 101, 75
+	orig: 109, 81
+	offset: 8, 0
+	index: -1
+a_mingjiewang_xiantiao_shitoubozayan008
+	rotate: false
+	xy: 0, 846
+	size: 79, 109
+	orig: 129, 129
+	offset: 30, 15
+	index: -1
+houypao_mingjiewang0014
+	rotate: true
+	xy: 71, 618
+	size: 109, 75
+	orig: 109, 81
+	offset: 0, 0
+	index: -1
+houypao_mingjiewang0012
+	rotate: true
+	xy: 148, 716
+	size: 109, 73
+	orig: 109, 81
+	offset: 0, 0
+	index: -1
+a_mingjiewang_xiantiao_xuliquan004
+	rotate: true
+	xy: 0, 260
+	size: 125, 121
+	orig: 129, 129
+	offset: 2, 7
+	index: -1
+a_mingjiewang_xiantiao_xuliquan002
+	rotate: false
+	xy: 490, 309
+	size: 93, 93
+	orig: 129, 129
+	offset: 19, 19
+	index: -1
+qiandaoguang_mingjiewang0006
+	rotate: true
+	xy: 387, 527
+	size: 98, 74
+	orig: 102, 104
+	offset: 0, 0
+	index: -1
+qiandaoguang_mingjiewang0005
+	rotate: true
+	xy: 436, 104
+	size: 102, 86
+	orig: 102, 104
+	offset: 0, 0
+	index: -1
+a_mingjiewang_xiantiao009
+	rotate: true
+	xy: 0, 130
+	size: 129, 70
+	orig: 215, 96
+	offset: 18, 26
+	index: -1
+a_mingjiewang_xiantiao_qilangxian012
+	rotate: true
+	xy: 0, 956
+	size: 65, 95
+	orig: 129, 129
+	offset: 53, 29
+	index: -1
+a_mingjiewang_xiantiao_qilangxian010
+	rotate: true
+	xy: 0, 956
+	size: 65, 95
+	orig: 129, 129
+	offset: 53, 29
+	index: -1
+a_mingjiewang_xiantiao_qilangxian011
+	rotate: true
+	xy: 0, 956
+	size: 65, 95
+	orig: 129, 129
+	offset: 53, 29
+	index: -1
+
+asset/anim/mingjiewangSE4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_mingjiewang_xiantiao_xulibao004
+	rotate: false
+	xy: 656, 180
+	size: 158, 90
+	orig: 158, 90
+	offset: 0, 0
+	index: -1
+a_mingjiewang_xiantiao_chengtu009
+	rotate: true
+	xy: 57, 808
+	size: 95, 93
+	orig: 107, 107
+	offset: 12, 14
+	index: -1
+a_mingjiewang_10010
+	rotate: false
+	xy: 233, 747
+	size: 91, 60
+	orig: 215, 96
+	offset: 106, 32
+	index: -1
+a_mingjiewang_xiantiao010
+	rotate: true
+	xy: 729, 702
+	size: 105, 64
+	orig: 215, 96
+	offset: 23, 32
+	index: -1
+a_mingjiewang_xiantiao_4008
+	rotate: false
+	xy: 656, 140
+	size: 159, 39
+	orig: 215, 75
+	offset: 53, 29
+	index: -1
+a_mingjiewang_shitou3
+	rotate: true
+	xy: 596, 742
+	size: 68, 130
+	orig: 96, 150
+	offset: 6, 13
+	index: -1
+lomgcan_mingjiewang
+	rotate: true
+	xy: 794, 614
+	size: 98, 137
+	orig: 98, 137
+	offset: 0, 0
+	index: -1
+a_mingjiewang_xiantiao002
+	rotate: false
+	xy: 614, 454
+	size: 145, 64
+	orig: 215, 96
+	offset: 58, 0
+	index: -1
+huichen11_mjw0011
+	rotate: false
+	xy: 0, 0
+	size: 169, 77
+	orig: 225, 95
+	offset: 0, 2
+	index: -1
+a_mingjiewang_xiantiao_xulibao005
+	rotate: false
+	xy: 656, 180
+	size: 158, 90
+	orig: 158, 90
+	offset: 0, 0
+	index: -1
+a_mingjiewang_shitou5
+	rotate: true
+	xy: 166, 260
+	size: 90, 163
+	orig: 96, 165
+	offset: 3, 0
+	index: -1
+a_mingjiewang_xiantiao_qilangxian005
+	rotate: false
+	xy: 939, 600
+	size: 85, 103
+	orig: 129, 129
+	offset: 12, 14
+	index: -1
+a_mingjiewang_xiantiao_qilangxian006
+	rotate: false
+	xy: 939, 600
+	size: 85, 103
+	orig: 129, 129
+	offset: 12, 14
+	index: -1
+a_mingjiewang_10008
+	rotate: false
+	xy: 490, 288
+	size: 155, 74
+	orig: 215, 96
+	offset: 48, 18
+	index: -1
+lajixiangyige_mingjiewang_00046
+	rotate: true
+	xy: 325, 747
+	size: 56, 106
+	orig: 60, 110
+	offset: 4, 0
+	index: -1
+a_mingjiewang_shitoubosui2009
+	rotate: false
+	xy: 170, 31
+	size: 167, 90
+	orig: 215, 150
+	offset: 23, 14
+	index: -1
+xiquan_mingjiewang0017
+	rotate: false
+	xy: 142, 641
+	size: 103, 100
+	orig: 121, 156
+	offset: 2, 25
+	index: -1
+a_mingjiewang_shouji004
+	rotate: true
+	xy: 453, 588
+	size: 94, 142
+	orig: 96, 192
+	offset: 2, 42
+	index: -1
+a_mingjiewang_xiantiao_shitoubozayan011
+	rotate: true
+	xy: 824, 941
+	size: 83, 101
+	orig: 129, 129
+	offset: 28, 25
+	index: -1
+xiquan_mingjiewang0011
+	rotate: true
+	xy: 656, 271
+	size: 119, 156
+	orig: 121, 156
+	offset: 2, 0
+	index: -1
+a_mingjiewang_shouji002
+	rotate: true
+	xy: 146, 554
+	size: 86, 142
+	orig: 96, 192
+	offset: 2, 2
+	index: -1
+a_mingjiewang_10001
+	rotate: true
+	xy: 965, 448
+	size: 151, 58
+	orig: 215, 96
+	offset: 13, 1
+	index: -1
+a_mingjiewang_shouji005
+	rotate: false
+	xy: 501, 683
+	size: 94, 126
+	orig: 96, 192
+	offset: 2, 64
+	index: -1
+a_mingjiewang_shouji007
+	rotate: false
+	xy: 501, 810
+	size: 94, 86
+	orig: 96, 192
+	offset: 2, 106
+	index: -1
+a_mingjiewang_xiantiao_chengtu010
+	rotate: true
+	xy: 239, 808
+	size: 95, 81
+	orig: 107, 107
+	offset: 12, 26
+	index: -1
+xiquan_mingjiewang0023
+	rotate: true
+	xy: 416, 683
+	size: 63, 84
+	orig: 121, 156
+	offset: 3, 36
+	index: -1
+a_mingjiewnag_shouji20006
+	rotate: false
+	xy: 508, 0
+	size: 163, 139
+	orig: 215, 215
+	offset: 23, 73
+	index: -1
+a_mingjiewang_xiantiao_shitoubozayan003
+	rotate: false
+	xy: 106, 905
+	size: 73, 117
+	orig: 129, 129
+	offset: 31, 0
+	index: -1
+a_mingjiewang_xiantiao_shitoubozayan006
+	rotate: false
+	xy: 260, 905
+	size: 77, 115
+	orig: 129, 129
+	offset: 31, 7
+	index: -1
+a_mingjiewang_xiantiao_shitoubozayan007
+	rotate: false
+	xy: 180, 905
+	size: 79, 115
+	orig: 129, 129
+	offset: 30, 9
+	index: -1
+a_mingjiewang_xiantiao_4002
+	rotate: true
+	xy: 973, 201
+	size: 85, 39
+	orig: 215, 75
+	offset: 6, 6
+	index: -1
+a_mingjiewnag_shouji20001
+	rotate: false
+	xy: 151, 808
+	size: 87, 95
+	orig: 215, 215
+	offset: 76, 0
+	index: -1
+a_mingjiewang_xiantiao_4003
+	rotate: false
+	xy: 330, 272
+	size: 159, 51
+	orig: 215, 75
+	offset: 7, 6
+	index: -1
+shi_mingjiewang
+	rotate: true
+	xy: 967, 287
+	size: 60, 57
+	orig: 72, 69
+	offset: 6, 3
+	index: -1
+a_mingjiewang_xiantiao_chengtu002
+	rotate: true
+	xy: 397, 804
+	size: 107, 103
+	orig: 107, 107
+	offset: 0, 0
+	index: -1
+xizhuti32_mingjiewang0031
+	rotate: false
+	xy: 759, 584
+	size: 34, 117
+	orig: 44, 185
+	offset: 0, 48
+	index: -1
+yanpg_mingjiewang
+	rotate: true
+	xy: 338, 904
+	size: 78, 56
+	orig: 80, 56
+	offset: 1, 0
+	index: -1
+huichen11_mjw0002
+	rotate: false
+	xy: 462, 524
+	size: 143, 63
+	orig: 225, 95
+	offset: 79, 2
+	index: -1
+xiquan_mingjiewang0019
+	rotate: false
+	xy: 0, 683
+	size: 115, 124
+	orig: 121, 156
+	offset: 2, 14
+	index: -1
+huichen11_mjw0003
+	rotate: false
+	xy: 813, 274
+	size: 153, 67
+	orig: 225, 95
+	offset: 62, 3
+	index: -1
+xiquan_mingjiewang0012
+	rotate: true
+	xy: 310, 538
+	size: 111, 142
+	orig: 121, 156
+	offset: 0, 6
+	index: -1
+houypao_mingjiewang0008
+	rotate: false
+	xy: 310, 683
+	size: 105, 63
+	orig: 109, 81
+	offset: 2, 0
+	index: -1
+xiquan_mingjiewang0020
+	rotate: false
+	xy: 0, 905
+	size: 105, 118
+	orig: 121, 156
+	offset: 0, 15
+	index: -1
+a_mingjiewang_xiantiao_xuliquan005
+	rotate: false
+	xy: 596, 811
+	size: 129, 129
+	orig: 129, 129
+	offset: 0, 0
+	index: -1
+b_mingjiewang_pgyan_2007
+	rotate: true
+	xy: 672, 0
+	size: 139, 161
+	orig: 215, 215
+	offset: 70, 28
+	index: -1
+a_mingjiewang_xiantiao_cidiguangxiao002
+	rotate: true
+	xy: 925, 815
+	size: 89, 99
+	orig: 215, 225
+	offset: 57, 0
+	index: -1
+xiquan_mingjiewang0005
+	rotate: false
+	xy: 932, 704
+	size: 91, 110
+	orig: 121, 156
+	offset: 17, 20
+	index: -1
+xiquan_mingjiewang0004
+	rotate: true
+	xy: 596, 941
+	size: 83, 122
+	orig: 121, 156
+	offset: 22, 13
+	index: -1
+xiquan_mingjiewang0007
+	rotate: false
+	xy: 395, 916
+	size: 101, 108
+	orig: 121, 156
+	offset: 9, 23
+	index: -1
+xiquan_mingjiewang0006
+	rotate: true
+	xy: 719, 941
+	size: 83, 104
+	orig: 121, 156
+	offset: 15, 23
+	index: -1
+xiquan_mingjiewang0001
+	rotate: true
+	xy: 116, 742
+	size: 65, 116
+	orig: 121, 156
+	offset: 49, 18
+	index: -1
+b_mingjiewang_pgyan_2009
+	rotate: true
+	xy: 0, 216
+	size: 131, 165
+	orig: 215, 215
+	offset: 80, 29
+	index: -1
+xiquan_mingjiewang0003
+	rotate: true
+	xy: 794, 772
+	size: 87, 130
+	orig: 121, 156
+	offset: 31, 12
+	index: -1
+houypao_mingjiewang0016
+	rotate: true
+	xy: 321, 808
+	size: 95, 75
+	orig: 109, 81
+	offset: 14, 0
+	index: -1
+huichen11_mjw0012
+	rotate: false
+	xy: 484, 363
+	size: 151, 83
+	orig: 225, 95
+	offset: 7, 3
+	index: -1
+a_mingjiewang_xiantiao_chazidaoguang002
+	rotate: true
+	xy: 614, 519
+	size: 128, 144
+	orig: 158, 158
+	offset: 9, 10
+	index: -1
+b_mingjiewang_pgyan_2017
+	rotate: true
+	xy: 340, 0
+	size: 135, 167
+	orig: 215, 215
+	offset: 77, 28
+	index: -1
+b_mingjiewang_pgyan_2015
+	rotate: true
+	xy: 166, 122
+	size: 137, 165
+	orig: 215, 215
+	offset: 73, 28
+	index: -1
+qiandaoguang_mingjiewang0007
+	rotate: true
+	xy: 0, 808
+	size: 96, 56
+	orig: 102, 104
+	offset: 0, 0
+	index: -1
+qiandaoguang_mingjiewang0004
+	rotate: true
+	xy: 926, 905
+	size: 102, 98
+	orig: 102, 104
+	offset: 0, 0
+	index: -1
+qiandaoguang_mingjiewang0003
+	rotate: false
+	xy: 497, 912
+	size: 98, 104
+	orig: 102, 104
+	offset: 4, 0
+	index: -1
+qiandaoguang_mingjiewang0001
+	rotate: true
+	xy: 793, 860
+	size: 80, 104
+	orig: 102, 104
+	offset: 22, 0
+	index: -1
+huichen11_mjw0013
+	rotate: false
+	xy: 0, 504
+	size: 145, 87
+	orig: 225, 95
+	offset: 2, 5
+	index: -1
+a_mingjiewang_xiantiao_cidiguangxiao001
+	rotate: true
+	xy: 925, 815
+	size: 89, 99
+	orig: 215, 225
+	offset: 57, 0
+	index: -1
+xizhuti32_mingjiewang0030
+	rotate: false
+	xy: 760, 454
+	size: 38, 129
+	orig: 44, 185
+	offset: 0, 39
+	index: -1
+xizhuti32_mingjiewang0001
+	rotate: true
+	xy: 170, 0
+	size: 30, 169
+	orig: 44, 185
+	offset: 14, 0
+	index: -1
+a_mingjiewnag_shouji20007
+	rotate: false
+	xy: 0, 78
+	size: 165, 137
+	orig: 215, 215
+	offset: 22, 78
+	index: -1
+a_mingjiewnag_shouji20004
+	rotate: true
+	xy: 0, 348
+	size: 155, 161
+	orig: 215, 215
+	offset: 28, 40
+	index: -1
+a_mingjiewnag_shouji20005
+	rotate: false
+	xy: 496, 140
+	size: 159, 147
+	orig: 215, 215
+	offset: 26, 61
+	index: -1
+a_mingjiewnag_shouji20008
+	rotate: false
+	xy: 834, 0
+	size: 161, 127
+	orig: 215, 215
+	offset: 25, 87
+	index: -1
+a_mingjiewang_xiantiao_qilangxian004
+	rotate: false
+	xy: 939, 600
+	size: 85, 103
+	orig: 129, 129
+	offset: 12, 14
+	index: -1
+dishangyan_mingjiewang0028
+	rotate: false
+	xy: 330, 324
+	size: 153, 91
+	orig: 249, 149
+	offset: 15, 31
+	index: -1
+
+asset/anim/huoqiu2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_heiguangxuanfengqian_00012
+	rotate: false
+	xy: 0, 277
+	size: 281, 74
+	orig: 325, 116
+	offset: 1, 13
+	index: -1
+
+asset/anim/mingjiewangSE1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_mingjiewang_xiantiao_guangyun
+	rotate: false
+	xy: 0, 276
+	size: 215, 151
+	orig: 215, 215
+	offset: 0, 35
+	index: -1
+huichen11_mjw0006
+	rotate: false
+	xy: 0, 594
+	size: 207, 85
+	orig: 225, 95
+	offset: 16, 0
+	index: -1
+a_mingjiewang_xiantiao_4001
+	rotate: true
+	xy: 914, 264
+	size: 37, 23
+	orig: 215, 75
+	offset: 7, 7
+	index: -1
+a_mingjiewang_xiantiao_4004
+	rotate: true
+	xy: 769, 823
+	size: 201, 59
+	orig: 215, 75
+	offset: 8, 8
+	index: -1
+a_mingjiewang_xiantiao_chengtu005
+	rotate: false
+	xy: 192, 772
+	size: 107, 99
+	orig: 107, 107
+	offset: 0, 8
+	index: -1
+huichen11_mjw0016
+	rotate: true
+	xy: 426, 402
+	size: 59, 35
+	orig: 225, 95
+	offset: 37, 40
+	index: -1
+xiquan_mingjiewang0025
+	rotate: false
+	xy: 722, 872
+	size: 43, 60
+	orig: 121, 156
+	offset: 4, 48
+	index: -1
+dishangyan_mingjiewang0022
+	rotate: false
+	xy: 706, 132
+	size: 231, 131
+	orig: 249, 149
+	offset: 0, 10
+	index: -1
+dishangyan_mingjiewang0010
+	rotate: false
+	xy: 0, 146
+	size: 233, 129
+	orig: 249, 149
+	offset: 16, 7
+	index: -1
+dishangyan_mingjiewang0012
+	rotate: false
+	xy: 236, 138
+	size: 233, 135
+	orig: 249, 149
+	offset: 10, 3
+	index: -1
+a_mingjiewang_xiantiao_chazi002
+	rotate: false
+	xy: 0, 680
+	size: 191, 191
+	orig: 215, 215
+	offset: 0, 0
+	index: -1
+xizhuti32_mingjiewang0004
+	rotate: true
+	xy: 829, 983
+	size: 40, 185
+	orig: 44, 185
+	offset: 4, 0
+	index: -1
+xizhuti32_mingjiewang0002
+	rotate: false
+	xy: 426, 512
+	size: 34, 173
+	orig: 44, 185
+	offset: 10, 0
+	index: -1
+huichen11_mjw0007
+	rotate: false
+	xy: 462, 468
+	size: 209, 89
+	orig: 225, 95
+	offset: 2, 0
+	index: -1
+a_mingjiewang_xiantiao_chengtu006
+	rotate: false
+	xy: 300, 772
+	size: 107, 99
+	orig: 107, 107
+	offset: 0, 8
+	index: -1
+xiquan_mingjiewang0018
+	rotate: true
+	xy: 888, 489
+	size: 121, 136
+	orig: 121, 156
+	offset: 0, 9
+	index: -1
+a_mingjiewang_xiantiao_chazi004
+	rotate: true
+	xy: 831, 611
+	size: 187, 193
+	orig: 215, 215
+	offset: 1, 0
+	index: -1
+a_mingjiewang_xiantiao_chazi007
+	rotate: true
+	xy: 831, 799
+	size: 183, 193
+	orig: 215, 215
+	offset: 0, 0
+	index: -1
+b_mingjiewang_pgyan_005
+	rotate: false
+	xy: 0, 428
+	size: 207, 165
+	orig: 215, 215
+	offset: 0, 21
+	index: -1
+b_mingjiewang_pgyan_007
+	rotate: false
+	xy: 678, 398
+	size: 209, 171
+	orig: 215, 215
+	offset: 1, 22
+	index: -1
+a_mingjiewnag_shouji20009
+	rotate: true
+	xy: 426, 462
+	size: 49, 35
+	orig: 215, 215
+	offset: 124, 108
+	index: -1
+xiquan_mingjiewang0002
+	rotate: false
+	xy: 769, 712
+	size: 61, 110
+	orig: 121, 156
+	offset: 40, 19
+	index: -1
+a_mingjiewang_xiantiao_cidiguangxiao003
+	rotate: true
+	xy: 459, 712
+	size: 159, 161
+	orig: 215, 225
+	offset: 29, 0
+	index: -1
+a_mingjiewang_xiantiao001
+	rotate: true
+	xy: 831, 570
+	size: 39, 32
+	orig: 215, 96
+	offset: 164, 0
+	index: -1
+b_mingjiewang_pgyan_2013
+	rotate: true
+	xy: 669, 570
+	size: 141, 161
+	orig: 215, 215
+	offset: 68, 28
+	index: -1
+xizhuti32_mingjiewang0007
+	rotate: false
+	xy: 414, 686
+	size: 44, 185
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+shenshangyingzi_mingjiewang_00052
+	rotate: true
+	xy: 0, 872
+	size: 152, 143
+	orig: 152, 149
+	offset: 0, 0
+	index: -1
+a_mingjiewang_xiantiao006
+	rotate: true
+	xy: 938, 212
+	size: 181, 86
+	orig: 215, 96
+	offset: 16, 8
+	index: -1
+a_mingjiewang_xiantiao_4010
+	rotate: true
+	xy: 888, 398
+	size: 67, 25
+	orig: 215, 75
+	offset: 147, 44
+	index: -1
+
+asset/anim/mingjiewangSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_mingjiewang_xiantiao_xulibao001
+	rotate: false
+	xy: 586, 392
+	size: 112, 90
+	orig: 158, 90
+	offset: 24, 0
+	index: -1
+quanpingtexiao_mjw0001
+	rotate: true
+	xy: 538, 530
+	size: 38, 47
+	orig: 38, 49
+	offset: 0, 2
+	index: -1
+dishangyan_mingjiewang0024
+	rotate: false
+	xy: 515, 903
+	size: 215, 121
+	orig: 249, 149
+	offset: 1, 19
+	index: -1
+a_mingjiewang_xiantiao_4009
+	rotate: true
+	xy: 731, 903
+	size: 121, 31
+	orig: 215, 75
+	offset: 92, 38
+	index: -1
+huichen11_mjw0001
+	rotate: false
+	xy: 191, 244
+	size: 101, 45
+	orig: 225, 95
+	offset: 97, 3
+	index: -1
+xizhuti32_mingjiewang0034
+	rotate: false
+	xy: 724, 841
+	size: 22, 61
+	orig: 44, 185
+	offset: 0, 76
+	index: -1
+xizhuti32_mingjiewang0037
+	rotate: false
+	xy: 724, 841
+	size: 22, 61
+	orig: 44, 185
+	offset: 0, 76
+	index: -1
+shuye_mingjiewang
+	rotate: true
+	xy: 731, 804
+	size: 36, 37
+	orig: 40, 43
+	offset: 4, 1
+	index: -1
+xizhuti32_mingjiewang0035
+	rotate: false
+	xy: 724, 841
+	size: 22, 61
+	orig: 44, 185
+	offset: 0, 76
+	index: -1
+xizhuti32_mingjiewang0036
+	rotate: false
+	xy: 724, 841
+	size: 22, 61
+	orig: 44, 185
+	offset: 0, 76
+	index: -1
+a_mingjiewang_10009
+	rotate: true
+	xy: 698, 674
+	size: 129, 70
+	orig: 215, 96
+	offset: 72, 22
+	index: -1
+dishangyan_mingjiewang0014
+	rotate: false
+	xy: 769, 229
+	size: 237, 145
+	orig: 249, 149
+	offset: 4, 1
+	index: -1
+dishangyan_mingjiewang0016
+	rotate: true
+	xy: 479, 0
+	size: 239, 147
+	orig: 249, 149
+	offset: 0, 0
+	index: -1
+dishangyan_mingjiewang0018
+	rotate: true
+	xy: 769, 793
+	size: 231, 143
+	orig: 249, 149
+	offset: 0, 0
+	index: -1
+quanpingtexiao_mjw0006
+	rotate: true
+	xy: 538, 739
+	size: 22, 43
+	orig: 38, 49
+	offset: 0, 6
+	index: -1
+dishangyan_mingjiewang0006
+	rotate: true
+	xy: 237, 766
+	size: 247, 139
+	orig: 249, 149
+	offset: 1, 10
+	index: -1
+dishangyan_mingjiewang0004
+	rotate: true
+	xy: 442, 290
+	size: 239, 143
+	orig: 249, 149
+	offset: 9, 6
+	index: -1
+dishangyan_mingjiewang0002
+	rotate: true
+	xy: 394, 532
+	size: 233, 143
+	orig: 249, 149
+	offset: 16, 4
+	index: -1
+xizhuti32_mingjiewang0038
+	rotate: false
+	xy: 724, 841
+	size: 22, 61
+	orig: 44, 185
+	offset: 0, 76
+	index: -1
+dishangyan_mingjiewang0008
+	rotate: true
+	xy: 191, 0
+	size: 243, 137
+	orig: 249, 149
+	offset: 6, 7
+	index: -1
+quanpingtexiao_mjw0009
+	rotate: true
+	xy: 538, 679
+	size: 38, 45
+	orig: 38, 49
+	offset: 0, 4
+	index: -1
+xiquan_mingjiewang0016
+	rotate: true
+	xy: 586, 290
+	size: 101, 112
+	orig: 121, 156
+	offset: 1, 18
+	index: -1
+quanpingtexiao_mjw0005
+	rotate: true
+	xy: 538, 608
+	size: 26, 47
+	orig: 38, 49
+	offset: 0, 2
+	index: -1
+quanpingtexiao_mjw0002
+	rotate: true
+	xy: 538, 569
+	size: 38, 47
+	orig: 38, 49
+	offset: 0, 2
+	index: -1
+a_mingjiewang_xiantiao012
+	rotate: true
+	xy: 698, 841
+	size: 61, 25
+	orig: 215, 113
+	offset: 0, 10
+	index: -1
+xizhuti32_mingjiewang0039
+	rotate: false
+	xy: 724, 841
+	size: 22, 61
+	orig: 44, 185
+	offset: 0, 76
+	index: -1
+houypao_mingjiewang0010
+	rotate: true
+	xy: 699, 240
+	size: 109, 69
+	orig: 109, 81
+	offset: 0, 0
+	index: -1
+a_mingjiewang_xiantiao_4011
+	rotate: false
+	xy: 355, 532
+	size: 35, 17
+	orig: 215, 75
+	offset: 177, 50
+	index: -1
+a_mingjiewang_xiantiao_chazidaoguang005
+	rotate: false
+	xy: 515, 766
+	size: 64, 136
+	orig: 158, 158
+	offset: 69, 10
+	index: -1
+a_mingjiewang_xiantiao_chaziguangxiao
+	rotate: false
+	xy: 0, 0
+	size: 96, 384
+	orig: 96, 384
+	offset: 0, 0
+	index: -1
+a_mingjiewang_shitou1
+	rotate: true
+	xy: 97, 290
+	size: 259, 257
+	orig: 263, 263
+	offset: 1, 5
+	index: -1
+a_mingjiewang_xiantiao_xuliquan001
+	rotate: false
+	xy: 538, 635
+	size: 45, 43
+	orig: 129, 129
+	offset: 43, 44
+	index: -1
+a_mingjiewang_xiantiao_chengtu2007
+	rotate: false
+	xy: 699, 350
+	size: 69, 79
+	orig: 107, 107
+	offset: 24, 19
+	index: -1
+b_mingjiewang_pgyan_2011
+	rotate: false
+	xy: 178, 550
+	size: 215, 215
+	orig: 215, 215
+	offset: 0, 0
+	index: -1
+dishangyan_mingjiewang0020
+	rotate: false
+	xy: 769, 375
+	size: 237, 135
+	orig: 249, 149
+	offset: 0, 4
+	index: -1
+quanpingtexiao_mjw0007
+	rotate: true
+	xy: 979, 977
+	size: 38, 43
+	orig: 38, 49
+	offset: 0, 6
+	index: -1
+houypao_mingjiewang0002
+	rotate: false
+	xy: 293, 244
+	size: 75, 45
+	orig: 109, 81
+	offset: 21, 0
+	index: -1
+jieyue_mingjiewang
+	rotate: true
+	xy: 0, 768
+	size: 253, 149
+	orig: 257, 159
+	offset: 0, 10
+	index: -1
+quanpingtexiao_mjw0010
+	rotate: true
+	xy: 538, 718
+	size: 20, 45
+	orig: 38, 49
+	offset: 18, 4
+	index: -1
+a_mingjiewang_xiantiao_4007
+	rotate: false
+	xy: 369, 242
+	size: 181, 47
+	orig: 215, 75
+	offset: 30, 20
+	index: -1
+a_mingjiewang_xiantiao_chengtu2008
+	rotate: true
+	xy: 913, 977
+	size: 43, 65
+	orig: 107, 107
+	offset: 49, 31
+	index: -1
+xizhuti32_mingjiewang0040
+	rotate: false
+	xy: 724, 841
+	size: 22, 61
+	orig: 44, 185
+	offset: 0, 76
+	index: -1
+
+asset/anim/mingjiewangSE3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huichen11_mjw0008
+	rotate: true
+	xy: 450, 184
+	size: 183, 83
+	orig: 225, 95
+	offset: 16, 0
+	index: -1
+huichen11_mjw0009
+	rotate: true
+	xy: 467, 368
+	size: 181, 89
+	orig: 225, 95
+	offset: 8, 0
+	index: -1
+huichen11_mjw0005
+	rotate: true
+	xy: 0, 750
+	size: 185, 79
+	orig: 225, 95
+	offset: 31, 0
+	index: -1
+a_mingjiewang_10002
+	rotate: true
+	xy: 180, 0
+	size: 185, 82
+	orig: 215, 96
+	offset: 14, 3
+	index: -1
+a_mingjiewang_10006
+	rotate: true
+	xy: 0, 376
+	size: 187, 80
+	orig: 215, 96
+	offset: 16, 10
+	index: -1
+xiquan_mingjiewang0015
+	rotate: true
+	xy: 761, 911
+	size: 113, 126
+	orig: 121, 156
+	offset: 2, 14
+	index: -1
+quanpingtexiao_mjw0004
+	rotate: false
+	xy: 636, 472
+	size: 32, 49
+	orig: 38, 49
+	offset: 0, 0
+	index: -1
+a_mingjiewang_shitoubosui2003
+	rotate: true
+	xy: 444, 0
+	size: 183, 126
+	orig: 215, 150
+	offset: 4, 15
+	index: -1
+a_mingjiewang_shitoubosui2010
+	rotate: true
+	xy: 715, 739
+	size: 171, 92
+	orig: 215, 150
+	offset: 26, 9
+	index: -1
+b_mingjiewang_pgyan_2001
+	rotate: true
+	xy: 583, 544
+	size: 151, 85
+	orig: 215, 215
+	offset: 11, 35
+	index: -1
+b_mingjiewang_pgyan_013
+	rotate: true
+	xy: 844, 0
+	size: 161, 175
+	orig: 215, 215
+	offset: 54, 27
+	index: -1
+xizhuti32_mingjiewang0015
+	rotate: false
+	xy: 331, 740
+	size: 44, 183
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+xizhuti32_mingjiewang0014
+	rotate: false
+	xy: 195, 374
+	size: 44, 185
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+xizhuti32_mingjiewang0017
+	rotate: false
+	xy: 240, 374
+	size: 44, 185
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+xizhuti32_mingjiewang0016
+	rotate: false
+	xy: 220, 560
+	size: 44, 185
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+xizhuti32_mingjiewang0011
+	rotate: false
+	xy: 175, 562
+	size: 44, 185
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+xizhuti32_mingjiewang0010
+	rotate: false
+	xy: 159, 748
+	size: 44, 185
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+xizhuti32_mingjiewang0013
+	rotate: false
+	xy: 579, 180
+	size: 44, 177
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+xizhuti32_mingjiewang0012
+	rotate: false
+	xy: 204, 748
+	size: 44, 185
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+xizhuti32_mingjiewang0019
+	rotate: false
+	xy: 261, 186
+	size: 44, 185
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+xizhuti32_mingjiewang0018
+	rotate: false
+	xy: 376, 740
+	size: 44, 183
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+a_mingjiewang_shouji003
+	rotate: true
+	xy: 870, 696
+	size: 94, 154
+	orig: 96, 192
+	offset: 0, 19
+	index: -1
+a_mingjiewang_shouji008
+	rotate: true
+	xy: 105, 936
+	size: 88, 72
+	orig: 96, 192
+	offset: 3, 120
+	index: -1
+xizhuti32_mingjiewang0003
+	rotate: false
+	xy: 294, 746
+	size: 36, 185
+	orig: 44, 185
+	offset: 8, 0
+	index: -1
+a_mingjiewnag_shouji20002
+	rotate: false
+	xy: 841, 538
+	size: 131, 157
+	orig: 215, 215
+	offset: 44, 0
+	index: -1
+a_mingjiewang_shitoubosui2002
+	rotate: false
+	xy: 669, 467
+	size: 171, 124
+	orig: 215, 150
+	offset: 1, 16
+	index: -1
+quanpingtexiao_mjw0003
+	rotate: true
+	xy: 973, 632
+	size: 36, 49
+	orig: 38, 49
+	offset: 0, 0
+	index: -1
+a_mingjiewang_xiantiao_cidiguangxiao008
+	rotate: false
+	xy: 430, 556
+	size: 107, 181
+	orig: 215, 225
+	offset: 75, 31
+	index: -1
+xiquan_mingjiewang0014
+	rotate: true
+	xy: 669, 592
+	size: 103, 118
+	orig: 121, 156
+	offset: 0, 16
+	index: -1
+xiquan_mingjiewang0010
+	rotate: true
+	xy: 616, 911
+	size: 113, 144
+	orig: 121, 156
+	offset: 0, 5
+	index: -1
+a_mingjiewang_xiantiao_cidiguangxiao009
+	rotate: true
+	xy: 669, 292
+	size: 107, 173
+	orig: 215, 225
+	offset: 75, 42
+	index: -1
+houypao_mingjiewang0004
+	rotate: true
+	xy: 973, 538
+	size: 93, 51
+	orig: 109, 81
+	offset: 15, 0
+	index: -1
+b_mingjiewang_pgyan_001
+	rotate: true
+	xy: 306, 186
+	size: 183, 143
+	orig: 215, 215
+	offset: 0, 17
+	index: -1
+a_mingjiewang_xiantiao_cidiguangxiao004
+	rotate: true
+	xy: 285, 372
+	size: 183, 181
+	orig: 215, 225
+	offset: 20, 0
+	index: -1
+xizhuti32_mingjiewang0028
+	rotate: true
+	xy: 583, 696
+	size: 42, 159
+	orig: 44, 185
+	offset: 0, 17
+	index: -1
+xizhuti32_mingjiewang0024
+	rotate: false
+	xy: 538, 550
+	size: 44, 179
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+xizhuti32_mingjiewang0025
+	rotate: false
+	xy: 249, 746
+	size: 44, 185
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+xizhuti32_mingjiewang0026
+	rotate: false
+	xy: 265, 560
+	size: 44, 185
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+xizhuti32_mingjiewang0027
+	rotate: false
+	xy: 624, 178
+	size: 44, 177
+	orig: 44, 185
+	offset: 0, 5
+	index: -1
+xizhuti32_mingjiewang0020
+	rotate: false
+	xy: 534, 184
+	size: 44, 181
+	orig: 44, 185
+	offset: 0, 4
+	index: -1
+xizhuti32_mingjiewang0021
+	rotate: false
+	xy: 263, 0
+	size: 44, 185
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+xizhuti32_mingjiewang0022
+	rotate: false
+	xy: 385, 556
+	size: 44, 183
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+xizhuti32_mingjiewang0023
+	rotate: false
+	xy: 623, 0
+	size: 44, 177
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+xiquan_mingjiewang0009
+	rotate: true
+	xy: 808, 791
+	size: 119, 156
+	orig: 121, 156
+	offset: 2, 0
+	index: -1
+b_mingjiewang_pgyan_2003
+	rotate: true
+	xy: 0, 564
+	size: 185, 129
+	orig: 215, 215
+	offset: 10, 30
+	index: -1
+a_mingjiewang_xiantiao_chazi013
+	rotate: false
+	xy: 0, 0
+	size: 179, 187
+	orig: 215, 215
+	offset: 2, 0
+	index: -1
+a_mingjiewang_xiantiao003
+	rotate: true
+	xy: 83, 188
+	size: 185, 88
+	orig: 215, 96
+	offset: 18, 0
+	index: -1
+b_mingjiewang_pgyan_011
+	rotate: false
+	xy: 668, 0
+	size: 175, 175
+	orig: 215, 215
+	offset: 40, 26
+	index: -1
+a_mingjiewang_xiantiao_chazidaoguang004
+	rotate: true
+	xy: 888, 911
+	size: 82, 136
+	orig: 158, 158
+	offset: 54, 10
+	index: -1
+a_mingjiewang_xiantiao_chazidaoguang006
+	rotate: true
+	xy: 743, 696
+	size: 42, 126
+	orig: 158, 158
+	offset: 91, 11
+	index: -1
+a_mingjiewang_xiantiao_chazidaoguang001
+	rotate: false
+	xy: 501, 922
+	size: 114, 102
+	orig: 158, 158
+	offset: 0, 43
+	index: -1
+a_mingjiewang_xiantiao_chazidaoguang003
+	rotate: true
+	xy: 362, 924
+	size: 100, 138
+	orig: 158, 158
+	offset: 37, 10
+	index: -1
+a_mingjiewang_xiantiao_cidiguangxiao005
+	rotate: false
+	xy: 421, 740
+	size: 179, 181
+	orig: 215, 225
+	offset: 20, 0
+	index: -1
+a_mingjiewang_xiantiao005
+	rotate: false
+	xy: 178, 934
+	size: 183, 90
+	orig: 215, 96
+	offset: 17, 3
+	index: -1
+a_mingjiewang_xiantiao004
+	rotate: true
+	xy: 172, 188
+	size: 185, 88
+	orig: 215, 96
+	offset: 17, 2
+	index: -1
+qiandaoguang_mingjiewang0002
+	rotate: true
+	xy: 0, 936
+	size: 88, 104
+	orig: 102, 104
+	offset: 14, 0
+	index: -1
+quanpingtexiao_mjw0012
+	rotate: true
+	xy: 888, 994
+	size: 30, 49
+	orig: 38, 49
+	offset: 8, 0
+	index: -1
+a_mingjiewang_10003
+	rotate: true
+	xy: 0, 188
+	size: 187, 82
+	orig: 215, 96
+	offset: 14, 5
+	index: -1
+a_mingjiewang_xiantiao008
+	rotate: false
+	xy: 843, 366
+	size: 173, 78
+	orig: 215, 96
+	offset: 16, 18
+	index: -1
+a_mingjiewang_xiantiao_qilangxian013
+	rotate: true
+	xy: 965, 791
+	size: 99, 59
+	orig: 129, 129
+	offset: 21, 69
+	index: -1
+a_mingjiewang_xiantiao007
+	rotate: true
+	xy: 557, 366
+	size: 177, 78
+	orig: 215, 96
+	offset: 16, 17
+	index: -1
+a_mingjiewang_xiantiao_qilangxian014
+	rotate: true
+	xy: 965, 791
+	size: 99, 59
+	orig: 129, 129
+	offset: 21, 69
+	index: -1
+a_mingjiewang_xiantiao_qilangxian015
+	rotate: true
+	xy: 965, 791
+	size: 99, 59
+	orig: 129, 129
+	offset: 21, 69
+	index: -1
+a_mingjiewang_10007
+	rotate: true
+	xy: 80, 750
+	size: 185, 78
+	orig: 215, 96
+	offset: 18, 12
+	index: -1
+xizhuti32_mingjiewang0009
+	rotate: false
+	xy: 130, 562
+	size: 44, 185
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+huichen11_mjw0010
+	rotate: false
+	xy: 843, 276
+	size: 175, 89
+	orig: 225, 95
+	offset: 3, 0
+	index: -1
+
+asset/anim/mingjiewangSE2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_mingjiewang_10004
+	rotate: false
+	xy: 574, 546
+	size: 189, 84
+	orig: 215, 96
+	offset: 13, 5
+	index: -1
+a_mingjiewang_xiantiao_xulibao003
+	rotate: false
+	xy: 820, 890
+	size: 158, 90
+	orig: 158, 90
+	offset: 0, 0
+	index: -1
+houypao_mingjiewang0028
+	rotate: true
+	xy: 112, 780
+	size: 109, 81
+	orig: 109, 81
+	offset: 0, 0
+	index: -1
+a_mingjiewang_shitou2
+	rotate: false
+	xy: 203, 890
+	size: 72, 126
+	orig: 96, 150
+	offset: 8, 14
+	index: -1
+huichen11_mjw0004
+	rotate: true
+	xy: 276, 780
+	size: 179, 73
+	orig: 225, 95
+	offset: 46, 2
+	index: -1
+a_mingjiewang_xiantiao_4006
+	rotate: false
+	xy: 791, 550
+	size: 189, 53
+	orig: 215, 75
+	offset: 20, 14
+	index: -1
+a_mingjiewang_xiantiao_4005
+	rotate: false
+	xy: 410, 158
+	size: 199, 57
+	orig: 215, 75
+	offset: 10, 9
+	index: -1
+a_mingjiewang_shitou4
+	rotate: true
+	xy: 110, 890
+	size: 134, 92
+	orig: 150, 96
+	offset: 11, 1
+	index: -1
+a_mingjiewang_10005
+	rotate: false
+	xy: 384, 630
+	size: 189, 82
+	orig: 215, 96
+	offset: 14, 7
+	index: -1
+huichen11_mjw0014
+	rotate: true
+	xy: 730, 890
+	size: 133, 89
+	orig: 225, 95
+	offset: 0, 6
+	index: -1
+a_mingjiewang_shitoubosui2011
+	rotate: true
+	xy: 350, 659
+	size: 131, 32
+	orig: 215, 150
+	offset: 31, 47
+	index: -1
+a_mingjiewang_shitoubosui2008
+	rotate: false
+	xy: 808, 267
+	size: 195, 92
+	orig: 215, 150
+	offset: 20, 20
+	index: -1
+a_mingjiewnag_shouji20003
+	rotate: false
+	xy: 428, 713
+	size: 145, 175
+	orig: 215, 215
+	offset: 35, 14
+	index: -1
+a_mingjiewang_shouji001
+	rotate: true
+	xy: 350, 907
+	size: 52, 76
+	orig: 96, 192
+	offset: 20, 0
+	index: -1
+xizhuti32_mingjiewang0033
+	rotate: false
+	xy: 764, 546
+	size: 26, 89
+	orig: 44, 185
+	offset: 0, 62
+	index: -1
+a_mingjiewang_shitoubosui2001
+	rotate: false
+	xy: 192, 659
+	size: 157, 120
+	orig: 215, 150
+	offset: 0, 19
+	index: -1
+a_mingjiewang_shitoubosui2006
+	rotate: false
+	xy: 612, 0
+	size: 201, 106
+	orig: 215, 150
+	offset: 14, 31
+	index: -1
+a_mingjiewang_shitoubosui2007
+	rotate: false
+	xy: 610, 183
+	size: 197, 108
+	orig: 215, 150
+	offset: 18, 26
+	index: -1
+a_mingjiewang_shitoubosui2004
+	rotate: false
+	xy: 196, 354
+	size: 193, 128
+	orig: 215, 150
+	offset: 8, 13
+	index: -1
+a_mingjiewang_shitoubosui2005
+	rotate: false
+	xy: 0, 94
+	size: 203, 104
+	orig: 215, 150
+	offset: 10, 35
+	index: -1
+a_mingjiewang_xiantiao_shitoubozayan005
+	rotate: false
+	xy: 350, 791
+	size: 77, 115
+	orig: 129, 129
+	offset: 31, 7
+	index: -1
+xizhuti32_mingjiewang0006
+	rotate: false
+	xy: 982, 546
+	size: 42, 185
+	orig: 44, 185
+	offset: 2, 0
+	index: -1
+xizhuti32_mingjiewang0005
+	rotate: false
+	xy: 982, 360
+	size: 42, 185
+	orig: 44, 185
+	offset: 2, 0
+	index: -1
+xizhuti32_mingjiewang0008
+	rotate: false
+	xy: 979, 732
+	size: 44, 185
+	orig: 44, 185
+	offset: 0, 0
+	index: -1
+quanpingtexiao_mjw0008
+	rotate: true
+	xy: 383, 713
+	size: 38, 43
+	orig: 38, 49
+	offset: 0, 6
+	index: -1
+xiquan_mingjiewang0013
+	rotate: false
+	xy: 0, 890
+	size: 109, 134
+	orig: 121, 156
+	offset: 4, 8
+	index: -1
+a_mingjiewang_xiantiao_chazi005
+	rotate: true
+	xy: 814, 79
+	size: 187, 199
+	orig: 215, 215
+	offset: 0, 0
+	index: -1
+a_mingjiewang_xiantiao_chazi006
+	rotate: true
+	xy: 204, 170
+	size: 183, 195
+	orig: 215, 215
+	offset: 2, 0
+	index: -1
+dishangyan_mingjiewang0026
+	rotate: false
+	xy: 400, 216
+	size: 195, 121
+	orig: 249, 149
+	offset: 11, 16
+	index: -1
+a_mingjiewang_xiantiao_chazi003
+	rotate: false
+	xy: 792, 360
+	size: 189, 189
+	orig: 215, 215
+	offset: 0, 0
+	index: -1
+a_mingjiewang_xiantiao_chazi009
+	rotate: true
+	xy: 192, 483
+	size: 175, 191
+	orig: 215, 215
+	offset: 2, 0
+	index: -1
+b_mingjiewang_pgyan_003
+	rotate: false
+	xy: 410, 0
+	size: 201, 157
+	orig: 215, 215
+	offset: 0, 20
+	index: -1
+b_mingjiewang_pgyan_009
+	rotate: false
+	xy: 0, 199
+	size: 195, 171
+	orig: 215, 215
+	offset: 19, 25
+	index: -1
+a_mingjiewang_xiantiao_cidiguangxiao007
+	rotate: true
+	xy: 400, 338
+	size: 147, 193
+	orig: 215, 225
+	offset: 33, 10
+	index: -1
+xizhuti32_mingjiewang0029
+	rotate: true
+	xy: 820, 981
+	size: 42, 139
+	orig: 44, 185
+	offset: 0, 30
+	index: -1
+b_mingjiewang_pgyan_2005
+	rotate: false
+	xy: 0, 626
+	size: 191, 153
+	orig: 215, 215
+	offset: 14, 27
+	index: -1
+a_mingjiewang_xiantiao_chazi012
+	rotate: true
+	xy: 574, 710
+	size: 179, 187
+	orig: 215, 215
+	offset: 0, 0
+	index: -1
+a_mingjiewang_xiantiao_chazi010
+	rotate: true
+	xy: 594, 368
+	size: 177, 189
+	orig: 215, 215
+	offset: 0, 0
+	index: -1
+a_mingjiewang_xiantiao_chazi011
+	rotate: true
+	xy: 791, 712
+	size: 177, 187
+	orig: 215, 215
+	offset: 0, 0
+	index: -1
+a_mingjiewang_xiantiao_chazi008
+	rotate: true
+	xy: 0, 448
+	size: 177, 191
+	orig: 215, 215
+	offset: 3, 0
+	index: -1
+a_mingjiewang_xiantiao_cidiguangxiao006
+	rotate: true
+	xy: 206, 0
+	size: 169, 203
+	orig: 215, 225
+	offset: 24, 0
+	index: -1
+xizhuti32_mingjiewang0032
+	rotate: false
+	xy: 979, 918
+	size: 30, 105
+	orig: 44, 185
+	offset: 0, 55
+	index: -1
+a_mingjiewang_xiantiao_xuliquan003
+	rotate: false
+	xy: 0, 780
+	size: 111, 109
+	orig: 129, 129
+	offset: 10, 12
+	index: -1
+a_mingjiewang_shitou_lizipingtu
+	rotate: false
+	xy: 383, 752
+	size: 29, 38
+	orig: 29, 40
+	offset: 0, 0
+	index: -1
+quanpingtexiao_mjw0011
+	rotate: false
+	xy: 764, 700
+	size: 26, 49
+	orig: 38, 49
+	offset: 12, 0
+	index: -1
+a_mingjiewang_xiantiao_chazi001
+	rotate: true
+	xy: 791, 604
+	size: 107, 188
+	orig: 135, 230
+	offset: 18, 21
+	index: -1
+a_mingjiewang_10000
+	rotate: true
+	xy: 764, 636
+	size: 63, 26
+	orig: 215, 96
+	offset: 15, 0
+	index: -1
+
+asset/anim/jiangshinanSECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_mingjiewang_shouji006
+	rotate: false
+	xy: 517, 668
+	size: 109, 127
+	orig: 111, 223
+	offset: 2, 96
+	index: -1

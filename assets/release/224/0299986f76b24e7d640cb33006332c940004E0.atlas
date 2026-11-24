@@ -1,0 +1,76 @@
+
+asset/anim/kelongrenkapai.png
+size: 730,503
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuodatui_kelongrenkapai
+	rotate: false
+	xy: 617, 145
+	size: 105, 299
+	orig: 105, 299
+	offset: 0, 0
+	index: -1
+zuoxiaobi_kelongrenkapai
+	rotate: true
+	xy: 500, 274
+	size: 225, 116
+	orig: 225, 116
+	offset: 0, 0
+	index: -1
+shenti_kelongrenkapai
+	rotate: false
+	xy: 0, 0
+	size: 211, 448
+	orig: 211, 448
+	offset: 0, 0
+	index: -1
+youxiaobi_kelongrenkapai
+	rotate: false
+	xy: 347, 0
+	size: 145, 236
+	orig: 145, 236
+	offset: 0, 0
+	index: -1
+zuoxiaotui_kelongrenkapai
+	rotate: false
+	xy: 493, 0
+	size: 119, 273
+	orig: 119, 273
+	offset: 0, 0
+	index: -1
+youdatui_kelongrenkapai
+	rotate: true
+	xy: 212, 310
+	size: 123, 287
+	orig: 123, 287
+	offset: 0, 0
+	index: -1
+tou_kelongrenkapai
+	rotate: false
+	xy: 613, 0
+	size: 117, 144
+	orig: 117, 144
+	offset: 0, 0
+	index: -1
+youxiaotui_kelongrenkapai
+	rotate: false
+	xy: 212, 0
+	size: 134, 309
+	orig: 134, 309
+	offset: 0, 0
+	index: -1
+youdabi_kelongrenkapai
+	rotate: true
+	xy: 212, 434
+	size: 68, 199
+	orig: 68, 199
+	offset: 0, 0
+	index: -1
+zuodabi_kelongrenkapai
+	rotate: true
+	xy: 0, 449
+	size: 54, 200
+	orig: 54, 200
+	offset: 0, 0
+	index: -1

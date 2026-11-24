@@ -1,0 +1,87 @@
+
+asset/anim/fenghuangnanSEMAX3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/fenghuangnanmax_rongyan_00174
+	rotate: false
+	xy: 604, 532
+	size: 142, 75
+	orig: 146, 81
+	offset: 0, 3
+	index: -1
+max/fenghuangnanmax_rongyan_00175
+	rotate: true
+	xy: 520, 857
+	size: 142, 75
+	orig: 146, 81
+	offset: 0, 3
+	index: -1
+max/fenghuangnanmax_rongyan_00176
+	rotate: true
+	xy: 596, 857
+	size: 140, 75
+	orig: 146, 81
+	offset: 2, 3
+	index: -1
+
+asset/anim/fenghuangnanSEMAX2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/fenghuangnanmax_rongyan_00173
+	rotate: false
+	xy: 595, 843
+	size: 142, 75
+	orig: 146, 81
+	offset: 0, 3
+	index: -1
+
+asset/anim/huoqiu0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_longjuan_dilie
+	rotate: false
+	xy: 0, 0
+	size: 440, 134
+	orig: 440, 134
+	offset: 0, 0
+	index: -1
+
+asset/anim/fenghuangnanSEMAX4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/fenghuangnanmax_rongyan_00177
+	rotate: false
+	xy: 0, 906
+	size: 140, 75
+	orig: 146, 81
+	offset: 2, 3
+	index: -1
+max/fenghuangnanmax_rongyan_00180
+	rotate: false
+	xy: 423, 906
+	size: 138, 71
+	orig: 146, 81
+	offset: 3, 4
+	index: -1
+max/fenghuangnanmax_rongyan_00178
+	rotate: false
+	xy: 141, 906
+	size: 140, 75
+	orig: 146, 81
+	offset: 2, 3
+	index: -1
+max/fenghuangnanmax_rongyan_00179
+	rotate: false
+	xy: 282, 906
+	size: 140, 73
+	orig: 146, 81
+	offset: 2, 4
+	index: -1

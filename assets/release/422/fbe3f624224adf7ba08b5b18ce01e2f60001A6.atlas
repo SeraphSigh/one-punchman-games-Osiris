@@ -1,0 +1,27 @@
+
+asset/anim/chunjiezhuchangjingzuo20200.png
+size: 1000,893
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+denglx_1_2020
+	rotate: true
+	xy: 0, 853
+	size: 40, 63
+	orig: 40, 63
+	offset: 0, 0
+	index: -1
+denglx_3_2020
+	rotate: true
+	xy: 125, 853
+	size: 23, 49
+	orig: 23, 49
+	offset: 0, 0
+	index: -1
+denglx_3_1_2020
+	rotate: true
+	xy: 64, 853
+	size: 27, 60
+	orig: 27, 60
+	offset: 0, 0
+	index: -1

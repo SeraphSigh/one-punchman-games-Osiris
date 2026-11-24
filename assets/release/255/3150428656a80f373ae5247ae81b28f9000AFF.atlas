@@ -1,0 +1,187 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+
+asset/anim/saoshewurenjiA0.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuoyi_wurenjiA
+	rotate: true
+	xy: 238, 53
+	size: 30, 18
+	orig: 30, 18
+	offset: 0, 0
+	index: -1
+1_wurenjiA
+	rotate: true
+	xy: 216, 81
+	size: 9, 14
+	orig: 9, 14
+	offset: 0, 0
+	index: -1
+00_wurenjiA
+	rotate: false
+	xy: 241, 23
+	size: 14, 14
+	orig: 14, 14
+	offset: 0, 0
+	index: -1
+gua_wurenjiA
+	rotate: true
+	xy: 230, 106
+	size: 8, 22
+	orig: 8, 22
+	offset: 0, 0
+	index: -1
+A_luoxuanjiang3_wurenjiA
+	rotate: false
+	xy: 231, 95
+	size: 23, 10
+	orig: 23, 10
+	offset: 0, 0
+	index: -1
+jiazi_wurenjiA
+	rotate: false
+	xy: 187, 23
+	size: 53, 18
+	orig: 53, 18
+	offset: 0, 0
+	index: -1
+A_luoxuanjiang1_wurenjiA
+	rotate: false
+	xy: 237, 84
+	size: 13, 10
+	orig: 13, 10
+	offset: 0, 0
+	index: -1
+A_luoxuanjiang2_wurenjiA
+	rotate: false
+	xy: 183, 68
+	size: 35, 7
+	orig: 35, 7
+	offset: 0, 0
+	index: -1
+xiaban_wurenjiA
+	rotate: false
+	xy: 187, 0
+	size: 69, 22
+	orig: 69, 22
+	offset: 0, 0
+	index: -1
+zidan1_wurenjiA
+	rotate: false
+	xy: 216, 91
+	size: 14, 4
+	orig: 14, 4
+	offset: 0, 0
+	index: -1
+A_luoxuanjiang5_wurenjiA
+	rotate: false
+	xy: 183, 98
+	size: 32, 9
+	orig: 32, 9
+	offset: 0, 0
+	index: -1
+A_luoxuanjiang4_wurenjiA
+	rotate: false
+	xy: 216, 96
+	size: 13, 10
+	orig: 13, 10
+	offset: 0, 0
+	index: -1
+jiqiang3_wurenjiA
+	rotate: false
+	xy: 97, 43
+	size: 49, 24
+	orig: 49, 24
+	offset: 0, 0
+	index: -1
+jiqiang1_wurenjiA
+	rotate: false
+	xy: 187, 42
+	size: 50, 25
+	orig: 50, 25
+	offset: 0, 0
+	index: -1
+A_luoxuanjiang6_wurenjiA
+	rotate: false
+	xy: 97, 68
+	size: 45, 31
+	orig: 45, 31
+	offset: 0, 0
+	index: -1
+gd_wurenjiA
+	rotate: false
+	xy: 0, 0
+	size: 96, 72
+	orig: 100, 76
+	offset: 3, 1
+	index: -1
+11_wurenjiA
+	rotate: true
+	xy: 219, 68
+	size: 12, 14
+	orig: 12, 14
+	offset: 0, 0
+	index: -1
+zhutihong_wurenjiA
+	rotate: false
+	xy: 97, 0
+	size: 89, 42
+	orig: 89, 42
+	offset: 0, 0
+	index: -1
+0_wurenjiA
+	rotate: false
+	xy: 241, 38
+	size: 14, 14
+	orig: 14, 14
+	offset: 0, 0
+	index: -1
+zidan_wurenjiA
+	rotate: true
+	xy: 183, 76
+	size: 21, 32
+	orig: 21, 32
+	offset: 0, 0
+	index: -1
+youyi_wurenjiA
+	rotate: false
+	xy: 147, 43
+	size: 38, 22
+	orig: 38, 22
+	offset: 0, 0
+	index: -1
+jiqiang2_wurenjiA
+	rotate: true
+	xy: 147, 66
+	size: 32, 35
+	orig: 32, 35
+	offset: 0, 0
+	index: -1
+zidan3_wurenjiA
+	rotate: true
+	xy: 231, 81
+	size: 13, 5
+	orig: 13, 5
+	offset: 0, 0
+	index: -1
+zidan2_wurenjiA
+	rotate: false
+	xy: 216, 107
+	size: 13, 4
+	orig: 13, 4
+	offset: 0, 0
+	index: -1

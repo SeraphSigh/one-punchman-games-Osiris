@@ -1,0 +1,83 @@
+
+asset/anim/yizhounianzhuchangjingye0.png
+size: 253,500
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xinghuang2_yizhounianye
+	rotate: true
+	xy: 0, 360
+	size: 140, 51
+	orig: 140, 51
+	offset: 0, 0
+	index: -1
+caolv2_yizhounianye
+	rotate: false
+	xy: 127, 243
+	size: 126, 96
+	orig: 126, 96
+	offset: 0, 0
+	index: -1
+hua3_yizhounianye
+	rotate: true
+	xy: 124, 340
+	size: 73, 123
+	orig: 73, 123
+	offset: 0, 0
+	index: -1
+xingzi_yizhounianye
+	rotate: false
+	xy: 103, 414
+	size: 140, 50
+	orig: 140, 50
+	offset: 0, 0
+	index: -1
+caolv_yizhounianye
+	rotate: false
+	xy: 127, 145
+	size: 126, 97
+	orig: 126, 97
+	offset: 0, 0
+	index: -1
+caolv3_yizhounianye
+	rotate: false
+	xy: 0, 91
+	size: 126, 97
+	orig: 126, 97
+	offset: 0, 0
+	index: -1
+hua2_yizhounianye
+	rotate: true
+	xy: 0, 286
+	size: 73, 123
+	orig: 73, 123
+	offset: 0, 0
+	index: -1
+055_yizhounianye
+	rotate: false
+	xy: 0, 0
+	size: 161, 90
+	orig: 161, 90
+	offset: 0, 0
+	index: -1
+hua_yizhounianye
+	rotate: false
+	xy: 162, 0
+	size: 87, 144
+	orig: 87, 144
+	offset: 0, 0
+	index: -1
+caolv22_yizhounianye
+	rotate: false
+	xy: 0, 189
+	size: 126, 96
+	orig: 126, 96
+	offset: 0, 0
+	index: -1
+xinghuang1_yizhounianye
+	rotate: true
+	xy: 52, 360
+	size: 140, 50
+	orig: 140, 50
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>pic_ck_bg_3_lv.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			</array>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{640,699}</string>
+			<key>spriteSourceSize</key>
+			<string>{640,699}</string>
+			<key>textureRect</key>
+			<string>{{0,0},{640,699}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>pixelFormat</key>
+		<string>RGBA8888</string>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>drawcardShow_n1.png</string>
+		<key>scale</key>
+		<real>0.82</real>
+		<key>size</key>
+		<string>{640,699}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:60f33da488a9ecabc508f879e0cc24bd:68574a1e279b1900f3e4922503b71ee8:5e07bf17b44bb087a609c7c7a0ef07ce$</string>
+		<key>textureFileName</key>
+		<string>drawcardShow_n1.png</string>
+	</dict>
+</dict>
+</plist>

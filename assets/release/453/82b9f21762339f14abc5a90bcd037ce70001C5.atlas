@@ -1,0 +1,26 @@
+
+asset/anim/yinseliaoyaSEMAX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yinseliaoyajuexing_dilie_up_00112
+	rotate: false
+	xy: 0, 0
+	size: 75, 283
+	orig: 135, 341
+	offset: 51, 22
+	index: -1
+
+asset/anim/yinseliaoyaSEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yinseliaoya_baiping
+	rotate: false
+	xy: 663, 218
+	size: 8, 8
+	orig: 8, 8
+	offset: 0, 0
+	index: -1

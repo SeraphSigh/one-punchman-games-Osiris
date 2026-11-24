@@ -1,0 +1,138 @@
+
+asset/anim/hongzhawurenjiC0.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_luoxuanjiang1_wurenjiAhzC
+	rotate: false
+	xy: 172, 43
+	size: 13, 10
+	orig: 13, 10
+	offset: 0, 0
+	index: -1
+A_luoxuanjiang4_wurenjiAhzC
+	rotate: false
+	xy: 172, 54
+	size: 13, 10
+	orig: 13, 10
+	offset: 0, 0
+	index: -1
+gd_wurenjiAhzC
+	rotate: false
+	xy: 0, 0
+	size: 96, 72
+	orig: 100, 76
+	offset: 3, 1
+	index: -1
+A_luoxuanjiang5_wurenjiAhzC
+	rotate: true
+	xy: 232, 60
+	size: 32, 9
+	orig: 32, 9
+	offset: 0, 0
+	index: -1
+danyao2_wurenjiAhzC
+	rotate: false
+	xy: 188, 0
+	size: 53, 20
+	orig: 53, 20
+	offset: 0, 0
+	index: -1
+A_luoxuanjiang2_wurenjiAhzC
+	rotate: true
+	xy: 172, 89
+	size: 35, 7
+	orig: 35, 7
+	offset: 0, 0
+	index: -1
+0_wurenjiAhzC
+	rotate: false
+	xy: 242, 31
+	size: 14, 14
+	orig: 14, 14
+	offset: 0, 0
+	index: -1
+33_wurenjiAhzC
+	rotate: false
+	xy: 242, 0
+	size: 14, 15
+	orig: 14, 15
+	offset: 0, 0
+	index: -1
+jiazilan_wurenjiAhzC
+	rotate: false
+	xy: 188, 41
+	size: 53, 18
+	orig: 53, 18
+	offset: 0, 0
+	index: -1
+dancanglan_wurenjiAhzC
+	rotate: false
+	xy: 97, 43
+	size: 74, 49
+	orig: 74, 49
+	offset: 0, 0
+	index: -1
+A_luoxuanjiang6_wurenjilanAhzC
+	rotate: false
+	xy: 186, 60
+	size: 45, 31
+	orig: 45, 31
+	offset: 0, 0
+	index: -1
+zhadan_wurenjiAhzC
+	rotate: false
+	xy: 188, 21
+	size: 53, 19
+	orig: 53, 19
+	offset: 0, 0
+	index: -1
+A_luoxuanjiang3_wurenjiAhzC
+	rotate: true
+	xy: 172, 65
+	size: 23, 10
+	orig: 23, 10
+	offset: 0, 0
+	index: -1
+00_wurenjiAhzC
+	rotate: false
+	xy: 242, 16
+	size: 14, 14
+	orig: 14, 14
+	offset: 0, 0
+	index: -1
+youyilan_wurenjiAhzC
+	rotate: false
+	xy: 180, 92
+	size: 38, 22
+	orig: 38, 22
+	offset: 0, 0
+	index: -1
+zhutilan_wurenjiAhzC
+	rotate: false
+	xy: 97, 0
+	size: 90, 42
+	orig: 90, 42
+	offset: 0, 0
+	index: -1
+3_wurenjiAhzC
+	rotate: false
+	xy: 242, 46
+	size: 14, 14
+	orig: 14, 14
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1

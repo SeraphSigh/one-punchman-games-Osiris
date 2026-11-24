@@ -1,0 +1,26 @@
+
+asset/anim/qudongqishiCOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/a1_box2_qidongqishitx
+	rotate: true
+	xy: 883, 949
+	size: 56, 135
+	orig: 56, 135
+	offset: 0, 0
+	index: -1
+
+asset/anim/qudongqishiCOMMON6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/yinying_qudongqishi12
+	rotate: false
+	xy: 681, 130
+	size: 226, 78
+	orig: 226, 78
+	offset: 0, 0
+	index: -1

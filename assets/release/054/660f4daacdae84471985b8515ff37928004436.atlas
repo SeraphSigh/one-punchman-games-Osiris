@@ -1,0 +1,1034 @@
+
+asset/anim/bossNSWG0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zu41_bossNSBG
+	rotate: false
+	xy: 333, 1427
+	size: 6, 23
+	orig: 6, 23
+	offset: 0, 0
+	index: -1
+zu40_bossNSBG
+	rotate: false
+	xy: 333, 1474
+	size: 6, 21
+	orig: 6, 21
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_guiji02_13
+	rotate: false
+	xy: 415, 1531
+	size: 37, 350
+	orig: 55, 418
+	offset: 11, 55
+	index: -1
+bossnianshouwugong_guiji02_12
+	rotate: false
+	xy: 327, 1531
+	size: 41, 356
+	orig: 55, 418
+	offset: 8, 51
+	index: -1
+bossnianshouwugong_guiji02_11
+	rotate: false
+	xy: 369, 1531
+	size: 45, 354
+	orig: 55, 418
+	offset: 6, 50
+	index: -1
+bossnianshouwugong_guiji02_10
+	rotate: false
+	xy: 281, 1531
+	size: 45, 368
+	orig: 55, 418
+	offset: 6, 36
+	index: -1
+bossnianshouwugong_guiji02_14
+	rotate: true
+	xy: 492, 1878
+	size: 31, 294
+	orig: 55, 418
+	offset: 14, 111
+	index: -1
+changjing_42_bossNSBG
+	rotate: false
+	xy: 2041, 1886
+	size: 7, 30
+	orig: 7, 30
+	offset: 0, 0
+	index: -1
+changjing_39_bossNSBG
+	rotate: true
+	xy: 312, 1900
+	size: 7, 30
+	orig: 7, 30
+	offset: 0, 0
+	index: -1
+changjing_38_bossNSBG
+	rotate: true
+	xy: 281, 1900
+	size: 7, 30
+	orig: 7, 30
+	offset: 0, 0
+	index: -1
+zu39_bossNSBG
+	rotate: true
+	xy: 1910, 847
+	size: 12, 10
+	orig: 12, 10
+	offset: 0, 0
+	index: -1
+changjing_31_bossNSBG
+	rotate: false
+	xy: 790, 1910
+	size: 17, 31
+	orig: 17, 31
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_yanhua_14
+	rotate: true
+	xy: 1082, 1084
+	size: 92, 166
+	orig: 250, 214
+	offset: 102, 11
+	index: -1
+bossnianshouwugong_yanhua_10
+	rotate: true
+	xy: 1884, 1358
+	size: 172, 164
+	orig: 250, 214
+	offset: 31, 12
+	index: -1
+bossnianshouwugong_yanhua_11
+	rotate: false
+	xy: 1884, 1183
+	size: 164, 174
+	orig: 250, 214
+	offset: 40, 12
+	index: -1
+bossnianshouwugong_yanhua02_8
+	rotate: false
+	xy: 622, 1429
+	size: 156, 100
+	orig: 184, 132
+	offset: 12, 8
+	index: -1
+bossnianshouwugong_yanhua02_2
+	rotate: true
+	xy: 1437, 1877
+	size: 168, 112
+	orig: 184, 132
+	offset: 16, 4
+	index: -1
+bossnianshouwugong_yanhua02_1
+	rotate: true
+	xy: 1320, 1877
+	size: 168, 116
+	orig: 184, 132
+	offset: 16, 3
+	index: -1
+zu37_bossNSBG
+	rotate: true
+	xy: 1910, 925
+	size: 13, 8
+	orig: 13, 8
+	offset: 0, 0
+	index: -1
+zu43_bossNSBG
+	rotate: false
+	xy: 333, 1451
+	size: 6, 22
+	orig: 6, 22
+	offset: 0, 0
+	index: -1
+zu29_bossNSBG
+	rotate: false
+	xy: 1593, 1531
+	size: 14, 29
+	orig: 14, 29
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_guiji02_9
+	rotate: false
+	xy: 233, 1531
+	size: 47, 378
+	orig: 55, 418
+	offset: 6, 35
+	index: -1
+bossnianshouwugong_guiji02_8
+	rotate: false
+	xy: 257, 1030
+	size: 53, 384
+	orig: 55, 418
+	offset: 2, 31
+	index: -1
+shenti11_bossNSBG
+	rotate: false
+	xy: 1307, 1084
+	size: 79, 59
+	orig: 79, 59
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_guiji02_6
+	rotate: false
+	xy: 453, 1531
+	size: 55, 346
+	orig: 55, 418
+	offset: 0, 18
+	index: -1
+bossnianshouwugong_guiji02_5
+	rotate: true
+	xy: 1082, 1030
+	size: 53, 304
+	orig: 55, 418
+	offset: 2, 14
+	index: -1
+bossnianshouwugong_guiji02_4
+	rotate: true
+	xy: 815, 1429
+	size: 55, 266
+	orig: 55, 418
+	offset: 0, 11
+	index: -1
+bossnianshouwugong_guiji02_3
+	rotate: true
+	xy: 1082, 1429
+	size: 55, 224
+	orig: 55, 418
+	offset: 0, 11
+	index: -1
+bossnianshouwugong_guiji02_2
+	rotate: true
+	xy: 1307, 1429
+	size: 55, 180
+	orig: 55, 418
+	offset: 0, 9
+	index: -1
+shenti10_bossNSBG
+	rotate: true
+	xy: 461, 1084
+	size: 59, 84
+	orig: 59, 84
+	offset: 0, 0
+	index: -1
+zu27_bossNSBG
+	rotate: false
+	xy: 1910, 860
+	size: 8, 29
+	orig: 8, 29
+	offset: 0, 0
+	index: -1
+zu26_bossNSBG
+	rotate: true
+	xy: 308, 1415
+	size: 11, 31
+	orig: 11, 31
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_yanhua02_16
+	rotate: false
+	xy: 1593, 1700
+	size: 106, 92
+	orig: 184, 132
+	offset: 74, 9
+	index: -1
+bossnianshouwugong_yanhua02_11
+	rotate: false
+	xy: 461, 1429
+	size: 160, 100
+	orig: 184, 132
+	offset: 11, 5
+	index: -1
+changjing_44_bossNSBG
+	rotate: true
+	xy: 1387, 959
+	size: 469, 496
+	orig: 469, 496
+	offset: 0, 0
+	index: -1
+changjing_29_bossNSBG
+	rotate: true
+	xy: 0, 1531
+	size: 451, 232
+	orig: 451, 232
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_diyan_5
+	rotate: false
+	xy: 1488, 1429
+	size: 104, 74
+	orig: 128, 100
+	offset: 12, 7
+	index: -1
+bossnianshouwugong_diyan_3
+	rotate: false
+	xy: 302, 1983
+	size: 94, 64
+	orig: 128, 100
+	offset: 21, 10
+	index: -1
+changjing_49_bossNSBG
+	rotate: false
+	xy: 1387, 805
+	size: 522, 153
+	orig: 522, 153
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_diyan_8
+	rotate: false
+	xy: 673, 1910
+	size: 116, 70
+	orig: 128, 100
+	offset: 2, 18
+	index: -1
+changjing_32_bossNSBG
+	rotate: false
+	xy: 790, 1942
+	size: 17, 29
+	orig: 17, 29
+	offset: 0, 0
+	index: -1
+shenti14_bossNSBG
+	rotate: false
+	xy: 243, 1983
+	size: 58, 65
+	orig: 58, 65
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_qingyan_6
+	rotate: true
+	xy: 1416, 1531
+	size: 345, 176
+	orig: 345, 182
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_qingyan_4
+	rotate: false
+	xy: 974, 1877
+	size: 345, 170
+	orig: 345, 182
+	offset: 0, 1
+	index: -1
+bossnianshouwugong_qingyan_5
+	rotate: true
+	xy: 1239, 1531
+	size: 345, 176
+	orig: 345, 182
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_qingyan_2
+	rotate: false
+	xy: 1921, 846
+	size: 127, 136
+	orig: 345, 182
+	offset: 156, 20
+	index: -1
+bossnianshouwugong_qingyan_8
+	rotate: true
+	xy: 692, 1531
+	size: 345, 182
+	orig: 345, 182
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_qingyan_9
+	rotate: true
+	xy: 875, 1531
+	size: 345, 182
+	orig: 345, 182
+	offset: 0, 0
+	index: -1
+zu25_bossNSBG
+	rotate: false
+	xy: 1367, 1144
+	size: 19, 32
+	orig: 19, 32
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_diyan02_8
+	rotate: false
+	xy: 1608, 1504
+	size: 275, 195
+	orig: 293, 213
+	offset: 4, 0
+	index: -1
+bossnianshouwugong_diyan02_5
+	rotate: true
+	xy: 1700, 1700
+	size: 263, 183
+	orig: 293, 213
+	offset: 18, 0
+	index: -1
+bossnianshouwugong_diyan02_2
+	rotate: true
+	xy: 1921, 692
+	size: 153, 127
+	orig: 293, 213
+	offset: 39, 1
+	index: -1
+changjing_34_bossNSBG
+	rotate: true
+	xy: 1748, 1486
+	size: 15, 27
+	orig: 15, 27
+	offset: 0, 0
+	index: -1
+zu19_bossNSBG
+	rotate: true
+	xy: 1593, 1486
+	size: 17, 29
+	orig: 17, 29
+	offset: 0, 0
+	index: -1
+changjing_37_bossNSBG
+	rotate: false
+	xy: 1910, 939
+	size: 7, 30
+	orig: 7, 30
+	offset: 0, 0
+	index: -1
+changjing_41_bossNSBG
+	rotate: false
+	xy: 2041, 1855
+	size: 7, 30
+	orig: 7, 30
+	offset: 0, 0
+	index: -1
+changjing_43_bossNSBG
+	rotate: true
+	xy: 1387, 106
+	size: 400, 535
+	orig: 400, 535
+	offset: 0, 0
+	index: -1
+changjing_45_bossNSBG
+	rotate: false
+	xy: 1387, 0
+	size: 661, 105
+	orig: 661, 105
+	offset: 0, 0
+	index: -1
+zu38_bossNSBG
+	rotate: true
+	xy: 1910, 834
+	size: 12, 10
+	orig: 12, 10
+	offset: 0, 0
+	index: -1
+changjing_51_bossNSBG
+	rotate: false
+	xy: 0, 0
+	size: 1386, 664
+	orig: 1386, 664
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_diyan_15
+	rotate: false
+	xy: 1923, 422
+	size: 124, 86
+	orig: 128, 100
+	offset: 0, 14
+	index: -1
+bossnianshouwugong_diyan_12
+	rotate: true
+	xy: 365, 1290
+	size: 118, 76
+	orig: 128, 100
+	offset: 7, 19
+	index: -1
+changjing_30_bossNSBG
+	rotate: false
+	xy: 787, 1877
+	size: 19, 32
+	orig: 19, 32
+	offset: 0, 0
+	index: -1
+changjing_47_bossNSBG
+	rotate: false
+	xy: 1387, 507
+	size: 533, 297
+	orig: 533, 297
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_qingyan_14
+	rotate: false
+	xy: 1921, 509
+	size: 127, 182
+	orig: 345, 182
+	offset: 131, 0
+	index: -1
+bossnianshouwugong_qingyan_15
+	rotate: true
+	xy: 1884, 1531
+	size: 117, 164
+	orig: 345, 182
+	offset: 138, 4
+	index: -1
+bossnianshouwugong_qingyan_10
+	rotate: true
+	xy: 1058, 1531
+	size: 345, 180
+	orig: 345, 182
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_qingyan_11
+	rotate: true
+	xy: 509, 1531
+	size: 345, 182
+	orig: 345, 182
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_qingyan_12
+	rotate: true
+	xy: 607, 1084
+	size: 343, 182
+	orig: 345, 182
+	offset: 0, 0
+	index: -1
+changjing_40_bossNSBG
+	rotate: false
+	xy: 2041, 1824
+	size: 7, 30
+	orig: 7, 30
+	offset: 0, 0
+	index: -1
+zu28_bossNSBG
+	rotate: false
+	xy: 1910, 805
+	size: 10, 28
+	orig: 10, 28
+	offset: 0, 0
+	index: -1
+changjing_33_bossNSBG
+	rotate: true
+	xy: 1671, 1486
+	size: 16, 30
+	orig: 16, 30
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_diyan02_12
+	rotate: false
+	xy: 790, 1030
+	size: 291, 209
+	orig: 293, 213
+	offset: 0, 0
+	index: -1
+zu42_bossNSBG
+	rotate: false
+	xy: 2041, 1917
+	size: 7, 22
+	orig: 7, 22
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_diyan02_19
+	rotate: true
+	xy: 365, 1030
+	size: 259, 95
+	orig: 293, 213
+	offset: 2, 6
+	index: -1
+bossnianshouwugong_guiji02_7
+	rotate: false
+	xy: 311, 1030
+	size: 53, 378
+	orig: 55, 418
+	offset: 2, 22
+	index: -1
+zu18_bossNSBG
+	rotate: true
+	xy: 1702, 1486
+	size: 16, 29
+	orig: 16, 29
+	offset: 0, 0
+	index: -1
+
+asset/anim/bossNSWG1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bossnianshouwugong_yanhua_2
+	rotate: false
+	xy: 344, 676
+	size: 240, 212
+	orig: 250, 214
+	offset: 1, 0
+	index: -1
+bossnianshouwugong_yanhua_3
+	rotate: false
+	xy: 977, 982
+	size: 210, 198
+	orig: 250, 214
+	offset: 18, 0
+	index: -1
+bossnianshouwugong_yanhua_1
+	rotate: false
+	xy: 980, 597
+	size: 250, 214
+	orig: 250, 214
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_yanhua_6
+	rotate: false
+	xy: 1843, 1132
+	size: 188, 186
+	orig: 250, 214
+	offset: 29, 11
+	index: -1
+bossnianshouwugong_yanhua_7
+	rotate: false
+	xy: 1595, 1093
+	size: 196, 192
+	orig: 250, 214
+	offset: 29, 11
+	index: -1
+bossnianshouwugong_yanhua_4
+	rotate: true
+	xy: 1843, 1388
+	size: 182, 186
+	orig: 250, 214
+	offset: 29, 0
+	index: -1
+bossnianshouwugong_yanhua_5
+	rotate: false
+	xy: 1864, 730
+	size: 182, 190
+	orig: 250, 214
+	offset: 29, 8
+	index: -1
+bossnianshouwugong_yanhua_8
+	rotate: true
+	xy: 1845, 921
+	size: 210, 202
+	orig: 250, 214
+	offset: 21, 8
+	index: -1
+bossnianshouwugong_yanhua_9
+	rotate: true
+	xy: 1287, 1067
+	size: 192, 200
+	orig: 250, 214
+	offset: 31, 3
+	index: -1
+bossnianshouwugong_guiji02_15
+	rotate: false
+	xy: 1260, 311
+	size: 29, 274
+	orig: 55, 418
+	offset: 15, 130
+	index: -1
+bossnianshouwugong_diyan_6
+	rotate: false
+	xy: 481, 1067
+	size: 102, 68
+	orig: 128, 100
+	offset: 17, 10
+	index: -1
+zu24_bossNSBG
+	rotate: false
+	xy: 654, 1409
+	size: 26, 26
+	orig: 26, 26
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_yanhua_15
+	rotate: true
+	xy: 0, 787
+	size: 112, 186
+	orig: 250, 214
+	offset: 93, 5
+	index: -1
+bossnianshouwugong_yanhua_16
+	rotate: true
+	xy: 524, 978
+	size: 54, 60
+	orig: 250, 214
+	offset: 134, 113
+	index: -1
+bossnianshouwugong_yanhua_12
+	rotate: true
+	xy: 1591, 1286
+	size: 158, 188
+	orig: 250, 214
+	offset: 52, 7
+	index: -1
+bossnianshouwugong_yanhua_13
+	rotate: false
+	xy: 1888, 0
+	size: 160, 160
+	orig: 250, 214
+	offset: 35, 11
+	index: -1
+bossnianshouwugong_yanhua02_9
+	rotate: false
+	xy: 0, 1139
+	size: 148, 96
+	orig: 184, 132
+	offset: 20, 8
+	index: -1
+bossnianshouwugong_yanhua02_3
+	rotate: false
+	xy: 1888, 161
+	size: 160, 102
+	orig: 184, 132
+	offset: 20, 8
+	index: -1
+bossnianshouwugong_yanhua02_6
+	rotate: false
+	xy: 157, 1048
+	size: 150, 94
+	orig: 184, 132
+	offset: 19, 9
+	index: -1
+bossnianshouwugong_yanhua02_7
+	rotate: false
+	xy: 149, 1143
+	size: 148, 94
+	orig: 184, 132
+	offset: 20, 10
+	index: -1
+bossnianshouwugong_yanhua02_5
+	rotate: false
+	xy: 187, 818
+	size: 156, 102
+	orig: 184, 132
+	offset: 17, 6
+	index: -1
+bossnianshouwugong_guiji02_1
+	rotate: false
+	xy: 634, 404
+	size: 51, 116
+	orig: 55, 418
+	offset: 3, 12
+	index: -1
+bossnianshouwugong_yanhua02_14
+	rotate: true
+	xy: 588, 630
+	size: 162, 96
+	orig: 184, 132
+	offset: 17, 7
+	index: -1
+bossnianshouwugong_yanhua02_15
+	rotate: false
+	xy: 1882, 264
+	size: 166, 102
+	orig: 184, 132
+	offset: 13, 4
+	index: -1
+bossnianshouwugong_yanhua02_17
+	rotate: true
+	xy: 895, 1186
+	size: 78, 80
+	orig: 184, 132
+	offset: 78, 21
+	index: -1
+bossnianshouwugong_yanhua02_10
+	rotate: true
+	xy: 585, 974
+	size: 156, 98
+	orig: 184, 132
+	offset: 18, 6
+	index: -1
+bossnianshouwugong_yanhua02_12
+	rotate: true
+	xy: 1488, 1219
+	size: 158, 102
+	orig: 184, 132
+	offset: 18, 6
+	index: -1
+bossnianshouwugong_yanhua02_13
+	rotate: true
+	xy: 1188, 1059
+	size: 158, 98
+	orig: 184, 132
+	offset: 18, 4
+	index: -1
+shenti12_bossNSBG
+	rotate: false
+	xy: 481, 1136
+	size: 95, 37
+	orig: 95, 37
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_diyan_7
+	rotate: false
+	xy: 976, 1181
+	size: 114, 70
+	orig: 128, 100
+	offset: 7, 13
+	index: -1
+bossnianshouwugong_diyan_4
+	rotate: false
+	xy: 584, 1131
+	size: 98, 70
+	orig: 128, 100
+	offset: 15, 8
+	index: -1
+bossnianshouwugong_diyan_2
+	rotate: true
+	xy: 524, 889
+	size: 88, 60
+	orig: 128, 100
+	offset: 24, 11
+	index: -1
+bossnianshouwugong_diyan_1
+	rotate: true
+	xy: 1231, 695
+	size: 80, 58
+	orig: 128, 100
+	offset: 30, 7
+	index: -1
+bossnianshouwugong_diyan_9
+	rotate: false
+	xy: 342, 1263
+	size: 120, 76
+	orig: 128, 100
+	offset: 0, 13
+	index: -1
+zu23_bossNSBG
+	rotate: true
+	xy: 654, 1377
+	size: 31, 26
+	orig: 31, 26
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_qingyan_7
+	rotate: false
+	xy: 346, 0
+	size: 341, 180
+	orig: 345, 182
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_yanhua02_4
+	rotate: true
+	xy: 1492, 1058
+	size: 160, 102
+	orig: 184, 132
+	offset: 15, 4
+	index: -1
+bossnianshouwugong_qingyan_1
+	rotate: true
+	xy: 344, 1064
+	size: 119, 136
+	orig: 345, 182
+	offset: 163, 22
+	index: -1
+zu20_bossNSBG
+	rotate: false
+	xy: 323, 308
+	size: 22, 30
+	orig: 22, 30
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_diyan02_9
+	rotate: false
+	xy: 980, 311
+	size: 279, 195
+	orig: 293, 213
+	offset: 3, 1
+	index: -1
+bossnianshouwugong_diyan02_6
+	rotate: false
+	xy: 1600, 204
+	size: 281, 189
+	orig: 293, 213
+	offset: 9, 0
+	index: -1
+bossnianshouwugong_diyan02_7
+	rotate: false
+	xy: 1306, 0
+	size: 293, 191
+	orig: 293, 213
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_diyan02_4
+	rotate: false
+	xy: 688, 220
+	size: 291, 177
+	orig: 293, 213
+	offset: 0, 2
+	index: -1
+bossnianshouwugong_diyan02_3
+	rotate: false
+	xy: 1600, 487
+	size: 267, 145
+	orig: 293, 213
+	offset: 12, 0
+	index: -1
+bossnianshouwugong_diyan02_1
+	rotate: true
+	xy: 573, 1257
+	size: 81, 107
+	orig: 293, 213
+	offset: 56, 0
+	index: -1
+bossnianshouwugong_diyan02_21
+	rotate: false
+	xy: 684, 933
+	size: 215, 91
+	orig: 293, 213
+	offset: 1, 10
+	index: -1
+bossnianshouwugong_diyan02_20
+	rotate: false
+	xy: 980, 507
+	size: 255, 89
+	orig: 293, 213
+	offset: 0, 8
+	index: -1
+bossnianshouwugong_diyan_14
+	rotate: true
+	xy: 900, 940
+	size: 122, 76
+	orig: 128, 100
+	offset: 0, 24
+	index: -1
+bossnianshouwugong_diyan_16
+	rotate: true
+	xy: 899, 1063
+	size: 122, 76
+	orig: 128, 100
+	offset: 2, 14
+	index: -1
+bossnianshouwugong_diyan_17
+	rotate: false
+	xy: 684, 1025
+	size: 126, 86
+	orig: 128, 100
+	offset: 0, 14
+	index: -1
+bossnianshouwugong_diyan_10
+	rotate: false
+	xy: 342, 1184
+	size: 120, 78
+	orig: 128, 100
+	offset: 0, 13
+	index: -1
+bossnianshouwugong_diyan_11
+	rotate: false
+	xy: 0, 1445
+	size: 114, 76
+	orig: 128, 100
+	offset: 9, 14
+	index: -1
+bossnianshouwugong_diyan_13
+	rotate: false
+	xy: 684, 1112
+	size: 124, 78
+	orig: 128, 100
+	offset: 2, 22
+	index: -1
+zu22_bossNSBG
+	rotate: true
+	xy: 830, 1332
+	size: 27, 29
+	orig: 27, 29
+	offset: 0, 0
+	index: -1
+shenti16_bossNSBG
+	rotate: false
+	xy: 926, 790
+	size: 51, 51
+	orig: 51, 51
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_qingyan_13
+	rotate: true
+	xy: 0, 900
+	size: 145, 180
+	orig: 345, 182
+	offset: 116, 2
+	index: -1
+shenti15_bossNSBG
+	rotate: false
+	xy: 1780, 1342
+	size: 62, 34
+	orig: 62, 34
+	offset: 0, 0
+	index: -1
+zu21_bossNSBG
+	rotate: false
+	xy: 1188, 982
+	size: 25, 27
+	orig: 25, 27
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_qingyan_3
+	rotate: false
+	xy: 0, 0
+	size: 345, 158
+	orig: 345, 182
+	offset: 0, 8
+	index: -1
+bossnianshouwugong_diyan02_14
+	rotate: false
+	xy: 346, 387
+	size: 287, 207
+	orig: 293, 213
+	offset: 0, 3
+	index: -1
+bossnianshouwugong_diyan02_15
+	rotate: false
+	xy: 1600, 0
+	size: 287, 203
+	orig: 293, 213
+	offset: 0, 7
+	index: -1
+bossnianshouwugong_diyan02_16
+	rotate: false
+	xy: 0, 579
+	size: 287, 207
+	orig: 293, 213
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_diyan02_17
+	rotate: false
+	xy: 686, 580
+	size: 253, 199
+	orig: 293, 213
+	offset: 6, 5
+	index: -1
+bossnianshouwugong_diyan02_10
+	rotate: false
+	xy: 1290, 192
+	size: 281, 195
+	orig: 293, 213
+	offset: 0, 3
+	index: -1
+bossnianshouwugong_diyan02_11
+	rotate: false
+	xy: 346, 181
+	size: 291, 205
+	orig: 293, 213
+	offset: 0, 0
+	index: -1
+bossnianshouwugong_diyan02_13
+	rotate: false
+	xy: 0, 367
+	size: 287, 211
+	orig: 293, 213
+	offset: 0, 1
+	index: -1
+bossnianshouwugong_diyan02_18
+	rotate: false
+	xy: 687, 398
+	size: 261, 181
+	orig: 293, 213
+	offset: 2, 5
+	index: -1
+changjing_35_bossNSBG
+	rotate: true
+	xy: 1882, 367
+	size: 25, 163
+	orig: 25, 163
+	offset: 0, 0
+	index: -1
+changjing_36_bossNSBG
+	rotate: false
+	xy: 323, 159
+	size: 22, 148
+	orig: 22, 148
+	offset: 0, 0
+	index: -1

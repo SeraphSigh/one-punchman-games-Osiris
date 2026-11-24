@@ -1,0 +1,103 @@
+
+asset/anim/jrgcy0.png
+size: 944,928
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jrdd_gcyan_534
+	rotate: true
+	xy: 0, 628
+	size: 286, 320
+	orig: 568, 320
+	offset: 0, 0
+	index: -1
+jrdd_gcyan_536
+	rotate: false
+	xy: 287, 307
+	size: 286, 320
+	orig: 568, 320
+	offset: 0, 0
+	index: -1
+jrdd_gcyan_532
+	rotate: false
+	xy: 0, 307
+	size: 286, 320
+	orig: 568, 320
+	offset: 0, 0
+	index: -1
+jrdd_gcyan_538
+	rotate: true
+	xy: 321, 628
+	size: 286, 320
+	orig: 568, 320
+	offset: 0, 0
+	index: -1
+jrdd_gcyan_544
+	rotate: true
+	xy: 624, 0
+	size: 286, 320
+	orig: 568, 320
+	offset: 0, 0
+	index: -1
+jrdd_gcyan_554
+	rotate: false
+	xy: 861, 287
+	size: 52, 138
+	orig: 568, 320
+	offset: 191, 182
+	index: -1
+jrdd_yan_001
+	rotate: false
+	xy: 0, 0
+	size: 302, 306
+	orig: 302, 306
+	offset: 0, 0
+	index: -1
+jrdd_gcyan_542
+	rotate: false
+	xy: 574, 287
+	size: 286, 320
+	orig: 568, 320
+	offset: 0, 0
+	index: -1
+jrdd_gcyan_548
+	rotate: false
+	xy: 642, 608
+	size: 286, 320
+	orig: 568, 320
+	offset: 0, 0
+	index: -1
+jrdd_gcyan_540
+	rotate: true
+	xy: 303, 0
+	size: 286, 320
+	orig: 568, 320
+	offset: 0, 0
+	index: -1
+
+asset/anim/jrgcy1.png
+size: 758,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jrdd_gcyan_546
+	rotate: false
+	xy: 287, 0
+	size: 270, 320
+	orig: 568, 320
+	offset: 0, 0
+	index: -1
+jrdd_gcyan_552
+	rotate: false
+	xy: 558, 0
+	size: 200, 320
+	orig: 568, 320
+	offset: 36, 0
+	index: -1
+jrdd_gcyan_550
+	rotate: false
+	xy: 0, 0
+	size: 286, 320
+	orig: 568, 320
+	offset: 0, 0
+	index: -1

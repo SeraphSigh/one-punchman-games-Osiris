@@ -1,0 +1,165 @@
+
+asset/anim/chuixue2ATTACK1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/chuixue2_atk_dilie11
+	rotate: false
+	xy: 321, 544
+	size: 233, 119
+	orig: 375, 207
+	offset: 31, 49
+	index: -1
+attack/chuixue2_atk_xiacengshitou5
+	rotate: true
+	xy: 627, 753
+	size: 240, 170
+	orig: 260, 196
+	offset: 16, 7
+	index: -1
+attack/chuixue2_atk_xiacengshitou2
+	rotate: false
+	xy: 798, 753
+	size: 216, 100
+	orig: 260, 196
+	offset: 14, 0
+	index: -1
+attack/chuixue2_atk_xiacengshitou11
+	rotate: true
+	xy: 645, 275
+	size: 244, 176
+	orig: 260, 196
+	offset: 16, 0
+	index: -1
+
+asset/anim/chuixue2ATTACK0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/chuixue2_atk_xiacengshitou1
+	rotate: true
+	xy: 731, 862
+	size: 158, 88
+	orig: 260, 196
+	offset: 14, 0
+	index: -1
+attack/chuixue2_atk_dilie17
+	rotate: false
+	xy: 0, 0
+	size: 373, 201
+	orig: 375, 207
+	offset: 0, 0
+	index: -1
+attack/chuixue2_atk_dilie16
+	rotate: false
+	xy: 374, 0
+	size: 361, 199
+	orig: 375, 207
+	offset: 9, 0
+	index: -1
+attack/chuixue2_atk_dilie15
+	rotate: false
+	xy: 0, 202
+	size: 333, 199
+	orig: 375, 207
+	offset: 27, 0
+	index: -1
+attack/chuixue2_atk_dilie13
+	rotate: false
+	xy: 718, 323
+	size: 299, 167
+	orig: 375, 207
+	offset: 31, 5
+	index: -1
+attack/chuixue2_atk_xiacengshitou12
+	rotate: false
+	xy: 0, 844
+	size: 244, 178
+	orig: 260, 196
+	offset: 16, 0
+	index: -1
+attack/chuixue2_atk_xiacengshitou13
+	rotate: false
+	xy: 245, 844
+	size: 242, 178
+	orig: 260, 196
+	offset: 18, 0
+	index: -1
+attack/chuixue2_atk_xiacengshitou14
+	rotate: false
+	xy: 488, 844
+	size: 242, 178
+	orig: 260, 196
+	offset: 18, 0
+	index: -1
+attack/chuixue2_atk_xiacengshitou15
+	rotate: false
+	xy: 820, 862
+	size: 174, 156
+	orig: 260, 196
+	offset: 53, 21
+	index: -1
+
+asset/anim/chuixue2ATTACK2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/chuixue2_atk_xiacengshitou9
+	rotate: false
+	xy: 466, 357
+	size: 232, 168
+	orig: 260, 196
+	offset: 17, 10
+	index: -1
+attack/chuixue2_atk_xiacengshitou8
+	rotate: false
+	xy: 233, 340
+	size: 232, 168
+	orig: 260, 196
+	offset: 17, 10
+	index: -1
+attack/chuixue2_atk_xiacengshitou7
+	rotate: false
+	xy: 719, 188
+	size: 234, 172
+	orig: 260, 196
+	offset: 17, 6
+	index: -1
+attack/chuixue2_atk_xiacengshitou6
+	rotate: false
+	xy: 0, 169
+	size: 240, 170
+	orig: 260, 196
+	offset: 16, 7
+	index: -1
+attack/chuixue2_atk_xiacengshitou4
+	rotate: false
+	xy: 241, 169
+	size: 238, 170
+	orig: 260, 196
+	offset: 16, 8
+	index: -1
+attack/chuixue2_atk_xiacengshitou3
+	rotate: false
+	xy: 0, 340
+	size: 232, 168
+	orig: 260, 196
+	offset: 16, 10
+	index: -1
+attack/chuixue2_atk_dilie14
+	rotate: false
+	xy: 636, 0
+	size: 313, 187
+	orig: 375, 207
+	offset: 31, 2
+	index: -1
+attack/chuixue2_atk_xiacengshitou10
+	rotate: false
+	xy: 480, 188
+	size: 238, 168
+	orig: 260, 196
+	offset: 16, 8
+	index: -1

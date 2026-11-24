@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>grgrgrd1_shenhaiwang2zhuanshuimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-20,-163}</string>
+                <key>spriteSize</key>
+                <string>{446,156}</string>
+                <key>spriteSourceSize</key>
+                <string>{486,482}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{446,156}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>shenhaiwang2zhuanshuimage1.png</string>
+            <key>size</key>
+            <string>{446,156}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:8343c96f03dc93546a2003ca0f004597:aa251b256bd26e3a980d9d48be58007f:ed0abe13003e9ce2a422ad2554b3e635$</string>
+            <key>textureFileName</key>
+            <string>shenhaiwang2zhuanshuimage1.png</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,41 @@
+
+asset/anim/qiqiu0.png
+size: 59,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guadain_qiqiu
+	rotate: false
+	xy: 43, 109
+	size: 3, 3
+	orig: 50, 50
+	offset: 0, 46
+	index: -1
+shengzi_qiqiu
+	rotate: false
+	xy: 39, 109
+	size: 3, 33
+	orig: 3, 33
+	offset: 0, 0
+	index: -1
+paizi_qiqiu
+	rotate: true
+	xy: 0, 0
+	size: 28, 59
+	orig: 28, 59
+	offset: 0, 0
+	index: -1
+a_hudiejie_qiqiu
+	rotate: false
+	xy: 0, 109
+	size: 38, 36
+	orig: 38, 36
+	offset: 0, 0
+	index: -1
+a_qiqiu_qiqiu
+	rotate: false
+	xy: 0, 29
+	size: 58, 79
+	orig: 58, 79
+	offset: 0, 0
+	index: -1

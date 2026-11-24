@@ -1,0 +1,311 @@
+
+asset/anim/maikesiSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sdmks_penhuotuowei_067
+	rotate: false
+	xy: 826, 848
+	size: 119, 175
+	orig: 327, 187
+	offset: 4, 12
+	index: -1
+tuoweiyan_009
+	rotate: true
+	xy: 946, 943
+	size: 81, 72
+	orig: 97, 90
+	offset: 7, 6
+	index: -1
+
+asset/anim/maikesiSE1.png
+size: 1013,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tuoweiyan_013
+	rotate: true
+	xy: 943, 213
+	size: 85, 70
+	orig: 97, 90
+	offset: 6, 7
+	index: -1
+sdmks_penhuotuowei_064
+	rotate: false
+	xy: 498, 431
+	size: 117, 165
+	orig: 327, 187
+	offset: 45, 6
+	index: -1
+sdmks_penhuotuowei_068
+	rotate: false
+	xy: 469, 263
+	size: 147, 167
+	orig: 327, 187
+	offset: 6, 17
+	index: -1
+sdmks_guangdian
+	rotate: false
+	xy: 947, 896
+	size: 33, 34
+	orig: 33, 34
+	offset: 0, 0
+	index: -1
+tuoweiyan_001
+	rotate: false
+	xy: 540, 937
+	size: 35, 36
+	orig: 97, 90
+	offset: 25, 26
+	index: -1
+tuoweiyan_000
+	rotate: true
+	xy: 469, 225
+	size: 25, 22
+	orig: 97, 90
+	offset: 30, 31
+	index: -1
+
+asset/anim/maikesiSE2.png
+size: 1000,1019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tuoweiyan_014
+	rotate: false
+	xy: 893, 687
+	size: 85, 66
+	orig: 97, 90
+	offset: 6, 9
+	index: -1
+tuoweiyan_015
+	rotate: false
+	xy: 829, 950
+	size: 79, 62
+	orig: 97, 90
+	offset: 12, 11
+	index: -1
+tuoweiyan_010
+	rotate: true
+	xy: 341, 681
+	size: 83, 72
+	orig: 97, 90
+	offset: 6, 5
+	index: -1
+tuoweiyan_011
+	rotate: false
+	xy: 600, 854
+	size: 83, 72
+	orig: 97, 90
+	offset: 6, 5
+	index: -1
+tuoweiyan_012
+	rotate: false
+	xy: 686, 783
+	size: 83, 72
+	orig: 97, 90
+	offset: 7, 6
+	index: -1
+sdmks_penhuotuowei_062
+	rotate: false
+	xy: 463, 0
+	size: 137, 119
+	orig: 327, 187
+	offset: 23, 62
+	index: -1
+sdmks_penhuotuowei_063
+	rotate: true
+	xy: 118, 897
+	size: 105, 137
+	orig: 327, 187
+	offset: 55, 39
+	index: -1
+sdmks_penhuotuowei_065
+	rotate: false
+	xy: 0, 0
+	size: 155, 155
+	orig: 327, 187
+	offset: 1, 4
+	index: -1
+sdmks_penhuotuowei_066
+	rotate: false
+	xy: 0, 462
+	size: 147, 141
+	orig: 327, 187
+	offset: 3, 5
+	index: -1
+sdmks_penhuotuowei_069
+	rotate: false
+	xy: 0, 312
+	size: 151, 149
+	orig: 327, 187
+	offset: 9, 34
+	index: -1
+sdmks_zhuanbaiyan_003
+	rotate: false
+	xy: 516, 749
+	size: 84, 87
+	orig: 212, 103
+	offset: 10, 3
+	index: -1
+sdmks_zhuanbaiyan_002
+	rotate: true
+	xy: 606, 647
+	size: 84, 93
+	orig: 212, 103
+	offset: 10, 3
+	index: -1
+sdmks_zhuanbaiyan_001
+	rotate: false
+	xy: 893, 593
+	size: 82, 93
+	orig: 212, 103
+	offset: 11, 4
+	index: -1
+sdmks_zhuanbaiyan_000
+	rotate: false
+	xy: 365, 866
+	size: 78, 93
+	orig: 212, 103
+	offset: 11, 7
+	index: -1
+sdmks_zhuanbaiyan_007
+	rotate: false
+	xy: 896, 223
+	size: 82, 57
+	orig: 212, 103
+	offset: 13, 4
+	index: -1
+sdmks_zhuanbaiyan_006
+	rotate: false
+	xy: 896, 281
+	size: 82, 55
+	orig: 212, 103
+	offset: 12, 5
+	index: -1
+sdmks_zhuanbaiyan_005
+	rotate: true
+	xy: 601, 927
+	size: 84, 79
+	orig: 212, 103
+	offset: 11, 3
+	index: -1
+sdmks_zhuanbaiyan_004
+	rotate: false
+	xy: 601, 770
+	size: 84, 83
+	orig: 212, 103
+	offset: 11, 3
+	index: -1
+sdmks_zhuanbaiyan_008
+	rotate: false
+	xy: 872, 754
+	size: 80, 61
+	orig: 212, 103
+	offset: 15, 4
+	index: -1
+sdmks_ss_000
+	rotate: true
+	xy: 509, 666
+	size: 82, 96
+	orig: 160, 160
+	offset: 40, 30
+	index: -1
+tuoweiyan_003
+	rotate: true
+	xy: 310, 147
+	size: 53, 54
+	orig: 97, 90
+	offset: 14, 17
+	index: -1
+tuoweiyan_002
+	rotate: false
+	xy: 953, 754
+	size: 43, 44
+	orig: 97, 90
+	offset: 19, 23
+	index: -1
+tuoweiyan_005
+	rotate: false
+	xy: 832, 326
+	size: 63, 62
+	orig: 97, 90
+	offset: 11, 9
+	index: -1
+tuoweiyan_008
+	rotate: false
+	xy: 766, 858
+	size: 77, 70
+	orig: 97, 90
+	offset: 8, 6
+	index: -1
+sdmks_ss_002
+	rotate: false
+	xy: 531, 837
+	size: 68, 90
+	orig: 160, 160
+	offset: 35, 23
+	index: -1
+sdmks_zhuanbaiyan_011
+	rotate: true
+	xy: 934, 816
+	size: 64, 63
+	orig: 212, 103
+	offset: 31, 4
+	index: -1
+
+asset/anim/maikesiSE3.png
+size: 779,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sdmks_zhuanbaiyan_009
+	rotate: true
+	xy: 372, 0
+	size: 70, 57
+	orig: 212, 103
+	offset: 25, 4
+	index: -1
+tuoweiyan_007
+	rotate: true
+	xy: 77, 0
+	size: 73, 68
+	orig: 97, 90
+	offset: 9, 6
+	index: -1
+tuoweiyan_006
+	rotate: true
+	xy: 305, 0
+	size: 71, 66
+	orig: 97, 90
+	offset: 8, 8
+	index: -1
+tuoweiyan_004
+	rotate: true
+	xy: 640, 0
+	size: 61, 60
+	orig: 97, 90
+	offset: 11, 11
+	index: -1
+sdmks_zhuanbaiyan_010
+	rotate: true
+	xy: 578, 0
+	size: 66, 61
+	orig: 212, 103
+	offset: 29, 4
+	index: -1
+sdmks_ss_001
+	rotate: false
+	xy: 430, 0
+	size: 66, 68
+	orig: 160, 160
+	offset: 48, 25
+	index: -1
+sdmks_ss_003
+	rotate: true
+	xy: 701, 0
+	size: 58, 78
+	orig: 160, 160
+	offset: 33, 27
+	index: -1

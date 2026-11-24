@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>juguang_jinuosiboshiimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{172,743}</string>
+                <key>spriteSourceSize</key>
+                <string>{172,743}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{172,743}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>jinuosiboshiimage0.png</string>
+            <key>size</key>
+            <string>{172,743}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:6c1956d0f3b9714e00d6d12daee59112:f1e8e190b6e8c658feb809e267adb7de:9ff6abde2726cf926add35aebe9b4e7b$</string>
+            <key>textureFileName</key>
+            <string>jinuosiboshiimage0.png</string>
+        </dict>
+    </dict>
+</plist>

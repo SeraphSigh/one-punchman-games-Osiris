@@ -1,0 +1,405 @@
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_02
+	rotate: false
+	xy: 526, 860
+	size: 203, 163
+	orig: 255, 183
+	offset: 8, 11
+	index: -1
+global/a_global_quanbaodian_03
+	rotate: false
+	xy: 306, 860
+	size: 219, 163
+	orig: 255, 183
+	offset: 7, 10
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_04
+	rotate: false
+	xy: 617, 780
+	size: 195, 139
+	orig: 255, 183
+	offset: 38, 10
+	index: -1
+global/a_global_pugongjineng_wennv_04
+	rotate: true
+	xy: 813, 467
+	size: 213, 211
+	orig: 245, 245
+	offset: 15, 17
+	index: -1
+global/a_global_pugongjineng_wennv_02
+	rotate: false
+	xy: 813, 681
+	size: 209, 209
+	orig: 245, 245
+	offset: 17, 19
+	index: -1
+global/a_global_pugongjineng_wennv_03
+	rotate: true
+	xy: 813, 251
+	size: 215, 211
+	orig: 245, 245
+	offset: 15, 18
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pugongjineng_wennv_05
+	rotate: true
+	xy: 584, 216
+	size: 209, 205
+	orig: 245, 245
+	offset: 17, 19
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_01
+	rotate: false
+	xy: 784, 534
+	size: 179, 147
+	orig: 255, 183
+	offset: 29, 12
+	index: -1
+global/a_global_quanbaodian_05
+	rotate: false
+	xy: 814, 0
+	size: 195, 129
+	orig: 255, 183
+	offset: 46, 16
+	index: -1
+global/a_global_quanbaodian_06
+	rotate: false
+	xy: 204, 73
+	size: 201, 137
+	orig: 255, 183
+	offset: 46, 16
+	index: -1
+global/a_global_pugongjineng_wennv
+	rotate: false
+	xy: 614, 0
+	size: 199, 199
+	orig: 245, 245
+	offset: 23, 24
+	index: -1
+global/a_global_pugongjineng_wennv_06
+	rotate: true
+	xy: 784, 348
+	size: 185, 187
+	orig: 245, 245
+	offset: 39, 25
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_00
+	rotate: false
+	xy: 889, 457
+	size: 125, 99
+	orig: 255, 183
+	offset: 53, 31
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/guairenhuabaoshanSEATTACK0.png
+size: 1024,972
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/guairenbaoshan_abaoquan_013
+	rotate: false
+	xy: 194, 0
+	size: 193, 195
+	orig: 193, 205
+	offset: 0, 2
+	index: -1
+attack/guairenbaoshan_abaoquan_012
+	rotate: false
+	xy: 0, 0
+	size: 193, 201
+	orig: 193, 205
+	offset: 0, 0
+	index: -1
+attack/guairenbaoshan_abaoquan_011
+	rotate: false
+	xy: 0, 202
+	size: 193, 195
+	orig: 193, 205
+	offset: 0, 2
+	index: -1
+attack/guairenbaoshan_abaoquan_010
+	rotate: false
+	xy: 388, 0
+	size: 193, 193
+	orig: 193, 205
+	offset: 0, 3
+	index: -1
+attack/guairenbaoshan_abaoquan_017
+	rotate: false
+	xy: 716, 536
+	size: 163, 159
+	orig: 193, 205
+	offset: 10, 31
+	index: -1
+attack/guairenbaoshan_abaoquan_016
+	rotate: false
+	xy: 0, 594
+	size: 193, 193
+	orig: 193, 205
+	offset: 0, 2
+	index: -1
+attack/guairenbaoshan_abaoquan_015
+	rotate: false
+	xy: 194, 196
+	size: 193, 195
+	orig: 193, 205
+	offset: 0, 2
+	index: -1
+attack/guairenbaoshan_abaoquan_014
+	rotate: false
+	xy: 0, 398
+	size: 193, 195
+	orig: 193, 205
+	offset: 0, 2
+	index: -1
+attack/guairenbaoshan_abaoyan_018
+	rotate: false
+	xy: 509, 639
+	size: 141, 178
+	orig: 161, 184
+	offset: 18, 2
+	index: -1
+attack/guairenbaoshan_abaoyan_013
+	rotate: false
+	xy: 0, 788
+	size: 161, 184
+	orig: 161, 184
+	offset: 0, 0
+	index: -1
+attack/guairenbaoshan_abaoyan_012
+	rotate: false
+	xy: 736, 194
+	size: 159, 182
+	orig: 161, 184
+	offset: 0, 2
+	index: -1
+attack/guairenbaoshan_abaoyan_011
+	rotate: true
+	xy: 716, 696
+	size: 153, 166
+	orig: 161, 184
+	offset: 0, 6
+	index: -1
+attack/guairenbaoshan_abaoyan_010
+	rotate: false
+	xy: 352, 813
+	size: 151, 158
+	orig: 161, 184
+	offset: 0, 10
+	index: -1
+attack/guairenbaoshan_abaoyan_017
+	rotate: false
+	xy: 194, 643
+	size: 157, 180
+	orig: 161, 184
+	offset: 4, 1
+	index: -1
+attack/guairenbaoshan_abaoyan_016
+	rotate: false
+	xy: 553, 356
+	size: 161, 184
+	orig: 161, 184
+	offset: 0, 0
+	index: -1
+attack/guairenbaoshan_abaoyan_015
+	rotate: true
+	xy: 551, 194
+	size: 161, 184
+	orig: 161, 184
+	offset: 0, 0
+	index: -1
+attack/guairenbaoshan_abaoyan_014
+	rotate: false
+	xy: 833, 0
+	size: 161, 184
+	orig: 161, 184
+	offset: 0, 0
+	index: -1
+attack/guairenbaoshan_aguiji_008
+	rotate: true
+	xy: 299, 392
+	size: 246, 98
+	orig: 274, 122
+	offset: 11, 20
+	index: -1
+attack/guairenbaoshan_aguiji_012
+	rotate: false
+	xy: 398, 566
+	size: 250, 72
+	orig: 274, 122
+	offset: 11, 13
+	index: -1
+attack/guairenbaoshan_aguiji_013
+	rotate: true
+	xy: 651, 541
+	size: 242, 64
+	orig: 274, 122
+	offset: 19, 13
+	index: -1
+attack/guairenbaoshan_aguiji_010
+	rotate: false
+	xy: 582, 0
+	size: 250, 100
+	orig: 274, 122
+	offset: 11, 13
+	index: -1
+attack/guairenbaoshan_aguiji_011
+	rotate: false
+	xy: 582, 101
+	size: 250, 92
+	orig: 274, 122
+	offset: 11, 13
+	index: -1
+attack/guairenbaoshan_aguiji_014
+	rotate: false
+	xy: 694, 850
+	size: 208, 60
+	orig: 274, 122
+	offset: 53, 15
+	index: -1
+attack/guairenbaoshan_aguiji_015
+	rotate: false
+	xy: 694, 911
+	size: 104, 52
+	orig: 274, 122
+	offset: 157, 23
+	index: -1
+attack/guairenbaoshan_abaoqi_009
+	rotate: false
+	xy: 352, 639
+	size: 156, 173
+	orig: 174, 195
+	offset: 16, 7
+	index: -1
+attack/guairenbaoshan_aguiji_009
+	rotate: true
+	xy: 194, 392
+	size: 250, 104
+	orig: 274, 122
+	offset: 11, 13
+	index: -1
+attack/guairenbaoshan_abaoqi_010
+	rotate: false
+	xy: 388, 194
+	size: 162, 183
+	orig: 174, 195
+	offset: 10, 5
+	index: -1
+attack/guairenbaoshan_abaoqi_011
+	rotate: true
+	xy: 715, 377
+	size: 158, 183
+	orig: 174, 195
+	offset: 7, 5
+	index: -1
+attack/guairenbaoshan_abaoqi_012
+	rotate: false
+	xy: 398, 378
+	size: 154, 187
+	orig: 174, 195
+	offset: 4, 4
+	index: -1
+attack/guairenbaoshan_abaoqi_013
+	rotate: true
+	xy: 162, 824
+	size: 144, 187
+	orig: 174, 195
+	offset: 5, 4
+	index: -1
+attack/guairenbaoshan_abaoqi_014
+	rotate: false
+	xy: 883, 622
+	size: 134, 187
+	orig: 174, 195
+	offset: 5, 4
+	index: -1
+attack/guairenbaoshan_abaoqi_015
+	rotate: true
+	xy: 504, 818
+	size: 132, 189
+	orig: 174, 195
+	offset: 4, 4
+	index: -1
+attack/guairenbaoshan_abaoqi_016
+	rotate: false
+	xy: 896, 185
+	size: 128, 187
+	orig: 174, 195
+	offset: 5, 5
+	index: -1
+attack/guairenbaoshan_abaoqi_017
+	rotate: false
+	xy: 899, 373
+	size: 118, 187
+	orig: 174, 195
+	offset: 10, 5
+	index: -1
+attack/guairenbaoshan_aguiji_007
+	rotate: false
+	xy: 880, 561
+	size: 140, 60
+	orig: 274, 122
+	offset: 21, 57
+	index: -1
+
+asset/anim/guairenhuabaoshanSEATTACK1.png
+size: 129,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/guairenbaoshan_abaoquan_009
+	rotate: false
+	xy: 0, 0
+	size: 129, 143
+	orig: 193, 205
+	offset: 32, 30
+	index: -1
+attack/guairenbaoshan_abaoyan_009
+	rotate: false
+	xy: 0, 144
+	size: 129, 130
+	orig: 161, 184
+	offset: 9, 26
+	index: -1

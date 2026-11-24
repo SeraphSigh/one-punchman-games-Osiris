@@ -1,0 +1,41 @@
+
+asset/anim/jinbiaosaipiaodai0.png
+size: 779,655
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jbs_piaodai_3
+	rotate: false
+	xy: 0, 467
+	size: 402, 188
+	orig: 402, 188
+	offset: 0, 0
+	index: -1
+jbs_piaodai_2
+	rotate: true
+	xy: 658, 467
+	size: 133, 121
+	orig: 133, 121
+	offset: 0, 0
+	index: -1
+jbs_piaodai_1
+	rotate: false
+	xy: 403, 467
+	size: 254, 162
+	orig: 254, 162
+	offset: 0, 0
+	index: -1
+jbs_yaoqinghan
+	rotate: false
+	xy: 0, 0
+	size: 742, 466
+	orig: 742, 466
+	offset: 0, 0
+	index: -1
+guadian_jbs
+	rotate: false
+	xy: 403, 630
+	size: 3, 3
+	orig: 50, 50
+	offset: 0, 46
+	index: -1

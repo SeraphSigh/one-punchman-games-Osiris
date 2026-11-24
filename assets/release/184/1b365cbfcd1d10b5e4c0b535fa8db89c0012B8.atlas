@@ -1,0 +1,297 @@
+
+asset/anim/wugongxuezhang1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c2_thight2_wgxuezhang
+	rotate: false
+	xy: 978, 908
+	size: 41, 79
+	orig: 41, 79
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhang0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c4_foot4_wgxuezhang
+	rotate: false
+	xy: 321, 847
+	size: 26, 108
+	orig: 26, 108
+	offset: 0, 0
+	index: -1
+c1_foot1_wgxuezhang
+	rotate: false
+	xy: 993, 812
+	size: 26, 109
+	orig: 26, 109
+	offset: 0, 0
+	index: -1
+d_body3_wgxuezhang
+	rotate: true
+	xy: 761, 390
+	size: 78, 143
+	orig: 78, 143
+	offset: 0, 0
+	index: -1
+c3_foot3_wgxuezhang
+	rotate: true
+	xy: 828, 998
+	size: 26, 108
+	orig: 26, 108
+	offset: 0, 0
+	index: -1
+c2_foot2_wgxuezhang
+	rotate: false
+	xy: 998, 390
+	size: 25, 77
+	orig: 25, 77
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhang11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_body_wgxuezhang
+	rotate: false
+	xy: 576, 0
+	size: 245, 151
+	orig: 245, 151
+	offset: 0, 0
+	index: -1
+d_Lantenna_wgxuezhang
+	rotate: false
+	xy: 155, 463
+	size: 142, 223
+	orig: 142, 223
+	offset: 0, 0
+	index: -1
+d_head_wgxuezhang
+	rotate: true
+	xy: 0, 309
+	size: 146, 210
+	orig: 146, 210
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhang2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d2_Rshin2_wgxuezhang
+	rotate: true
+	xy: 631, 984
+	size: 39, 53
+	orig: 39, 53
+	offset: 0, 0
+	index: -1
+c3_thight3_wgxuezhang
+	rotate: true
+	xy: 822, 983
+	size: 41, 66
+	orig: 41, 66
+	offset: 0, 0
+	index: -1
+c1_thight1_wgxuezhang
+	rotate: true
+	xy: 755, 983
+	size: 41, 66
+	orig: 41, 66
+	offset: 0, 0
+	index: -1
+d_Lchin_wgxuezhang
+	rotate: false
+	xy: 824, 280
+	size: 85, 56
+	orig: 85, 56
+	offset: 0, 0
+	index: -1
+d1_Rshin1_wgxuezhang
+	rotate: true
+	xy: 465, 984
+	size: 40, 56
+	orig: 40, 56
+	offset: 0, 0
+	index: -1
+c2_shin2_wgxuezhang
+	rotate: false
+	xy: 988, 59
+	size: 33, 57
+	orig: 33, 57
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhang5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d3_Rshin3_wgxuezhang
+	rotate: true
+	xy: 441, 958
+	size: 37, 45
+	orig: 37, 45
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhang4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d3_Rfoot3_wgxuezhang
+	rotate: false
+	xy: 820, 274
+	size: 63, 57
+	orig: 63, 57
+	offset: 0, 0
+	index: -1
+c3_shin3_wgxuezhang
+	rotate: false
+	xy: 986, 49
+	size: 33, 47
+	orig: 33, 47
+	offset: 0, 0
+	index: -1
+d_Rchin_wgxuezhang
+	rotate: true
+	xy: 931, 333
+	size: 163, 93
+	orig: 163, 93
+	offset: 0, 0
+	index: -1
+c1_shin1_wgxuezhang
+	rotate: false
+	xy: 986, 97
+	size: 33, 46
+	orig: 33, 46
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhang6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c4_shin4_wgxuezhang
+	rotate: true
+	xy: 952, 743
+	size: 37, 36
+	orig: 37, 36
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhang9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1_Lfoot_wgxuezhang
+	rotate: true
+	xy: 163, 921
+	size: 96, 121
+	orig: 96, 121
+	offset: 0, 0
+	index: -1
+d_body1_wgxuezhang
+	rotate: true
+	xy: 778, 893
+	size: 120, 155
+	orig: 120, 155
+	offset: 0, 0
+	index: -1
+d_body2_wgxuezhang
+	rotate: true
+	xy: 656, 541
+	size: 98, 151
+	orig: 98, 151
+	offset: 0, 0
+	index: -1
+d1_Rfoot1_wgxuezhang
+	rotate: true
+	xy: 922, 119
+	size: 114, 82
+	orig: 114, 82
+	offset: 0, 0
+	index: -1
+d3_Lfoot_wgxuezhang
+	rotate: false
+	xy: 922, 234
+	size: 80, 111
+	orig: 80, 111
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhang8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d_Rantenna_wgxuezhang
+	rotate: true
+	xy: 783, 620
+	size: 260, 240
+	orig: 260, 240
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhang3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1_Rthigh1_wgxuezhang
+	rotate: true
+	xy: 970, 405
+	size: 72, 45
+	orig: 72, 45
+	offset: 0, 0
+	index: -1
+d3_Rthigh3_wgxuezhang
+	rotate: true
+	xy: 978, 278
+	size: 49, 45
+	orig: 49, 45
+	offset: 0, 0
+	index: -1
+c4_thight4_wgxuezhang
+	rotate: false
+	xy: 431, 339
+	size: 41, 54
+	orig: 41, 54
+	offset: 0, 0
+	index: -1
+d2_Rthigh2_wgxuezhang
+	rotate: false
+	xy: 519, 976
+	size: 58, 46
+	orig: 58, 46
+	offset: 0, 0
+	index: -1
+d2_Rfoot2_wgxuezhang
+	rotate: true
+	xy: 406, 738
+	size: 82, 66
+	orig: 82, 66
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhang10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d2_Lfoot_wgxuezhang
+	rotate: true
+	xy: 0, 920
+	size: 81, 110
+	orig: 81, 110
+	offset: 0, 0
+	index: -1

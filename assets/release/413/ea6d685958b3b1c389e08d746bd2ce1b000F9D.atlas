@@ -1,0 +1,216 @@
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_02
+	rotate: false
+	xy: 526, 860
+	size: 203, 163
+	orig: 255, 183
+	offset: 8, 11
+	index: -1
+global/a_global_quanbaodian_03
+	rotate: false
+	xy: 306, 860
+	size: 219, 163
+	orig: 255, 183
+	offset: 7, 10
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_04
+	rotate: false
+	xy: 617, 780
+	size: 195, 139
+	orig: 255, 183
+	offset: 38, 10
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_01
+	rotate: false
+	xy: 784, 534
+	size: 179, 147
+	orig: 255, 183
+	offset: 29, 12
+	index: -1
+global/a_global_quanbaodian_05
+	rotate: false
+	xy: 814, 0
+	size: 195, 129
+	orig: 255, 183
+	offset: 46, 16
+	index: -1
+global/a_global_quanbaodian_06
+	rotate: false
+	xy: 204, 73
+	size: 201, 137
+	orig: 255, 183
+	offset: 46, 16
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_00
+	rotate: false
+	xy: 889, 457
+	size: 125, 99
+	orig: 255, 183
+	offset: 53, 31
+	index: -1
+
+asset/anim/tianxinjiamianSECOMMON1.png
+size: 487,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tianxinjiamian_jineng_chongjibo38
+	rotate: false
+	xy: 187, 313
+	size: 219, 68
+	orig: 219, 68
+	offset: 0, 0
+	index: -1
+common/tianxinjiamian_jineng_chongjibo36
+	rotate: false
+	xy: 187, 382
+	size: 218, 62
+	orig: 218, 62
+	offset: 0, 0
+	index: -1
+common/tianxinjiamian_jineng_chongjibo34
+	rotate: true
+	xy: 431, 0
+	size: 120, 41
+	orig: 120, 41
+	offset: 0, 0
+	index: -1
+common/tianxinjiamian_jineng_chongjibo40
+	rotate: true
+	xy: 427, 163
+	size: 219, 60
+	orig: 219, 60
+	offset: 0, 0
+	index: -1
+
+asset/anim/tianxinjiamianSECOMMON0.png
+size: 487,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tianxinjiamian_jineng_chongjibo39
+	rotate: false
+	xy: 0, 384
+	size: 219, 69
+	orig: 219, 69
+	offset: 0, 0
+	index: -1
+common/tianxinjiamian_jineng_chongjibo37
+	rotate: false
+	xy: 220, 449
+	size: 219, 62
+	orig: 219, 62
+	offset: 0, 0
+	index: -1
+common/tianxinjiamian_jineng_chongjibo35
+	rotate: false
+	xy: 0, 454
+	size: 189, 53
+	orig: 189, 53
+	offset: 0, 0
+	index: -1
+
+asset/anim/tianxinjiamianSESKILL0.png
+size: 1021,1002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/tianxinjiamian_jineng_zhuti_37
+	rotate: false
+	xy: 0, 518
+	size: 275, 233
+	orig: 275, 233
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_zhuti_36
+	rotate: true
+	xy: 0, 752
+	size: 240, 239
+	orig: 240, 239
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_zhuti_35
+	rotate: false
+	xy: 0, 0
+	size: 297, 201
+	orig: 297, 201
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_zhuti_34
+	rotate: true
+	xy: 874, 0
+	size: 271, 146
+	orig: 271, 150
+	offset: 0, 2
+	index: -1
+skill/tianxinjiamian_jineng_zhuti_39
+	rotate: false
+	xy: 558, 474
+	size: 275, 228
+	orig: 275, 228
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_zhuti_38
+	rotate: false
+	xy: 298, 0
+	size: 296, 239
+	orig: 296, 239
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_zhuti_42
+	rotate: false
+	xy: 276, 556
+	size: 171, 191
+	orig: 171, 191
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_zhuti_43
+	rotate: true
+	xy: 837, 351
+	size: 166, 179
+	orig: 166, 179
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_zhuti_41
+	rotate: false
+	xy: 834, 518
+	size: 175, 204
+	orig: 205, 206
+	offset: 0, 2
+	index: -1
+
+asset/anim/tianxinjiamianSESKILL1.png
+size: 215,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/tianxinjiamian_jineng_zhuti_40
+	rotate: false
+	xy: 0, 0
+	size: 215, 206
+	orig: 219, 206
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,244 @@
+
+asset/anim/geliuganxiupu2SEATTACK5.png
+size: 511,501
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/geliuganxiupu2_pg_xuli1_004
+	rotate: true
+	xy: 447, 230
+	size: 114, 60
+	orig: 170, 114
+	offset: 35, 29
+	index: -1
+
+asset/anim/geliuganxiupu2SECOMMON1.png
+size: 979,1013
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/geliuganxiupu2_xuliqi_016
+	rotate: true
+	xy: 850, 618
+	size: 244, 122
+	orig: 264, 142
+	offset: 14, 2
+	index: -1
+common/geliuganxiupu2_xuliqi_024
+	rotate: false
+	xy: 729, 250
+	size: 250, 120
+	orig: 264, 142
+	offset: 14, 3
+	index: -1
+common/geliuganxiupu2_xuliqi_020
+	rotate: false
+	xy: 729, 0
+	size: 250, 124
+	orig: 264, 142
+	offset: 14, 0
+	index: -1
+common/geliuganxiupu2_xuliqi_022
+	rotate: false
+	xy: 729, 125
+	size: 250, 124
+	orig: 264, 142
+	offset: 14, 0
+	index: -1
+common/geliuganxiupu2_xuliqi2_033
+	rotate: true
+	xy: 850, 371
+	size: 246, 123
+	orig: 286, 151
+	offset: 15, 10
+	index: -1
+
+asset/anim/geliuganxiupu2SEATTACK1.png
+size: 511,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/geliuganxiupu2_pg_xuli1_006
+	rotate: true
+	xy: 216, 208
+	size: 106, 52
+	orig: 170, 114
+	offset: 34, 29
+	index: -1
+
+asset/anim/geliuganxiupu2SEATTACK3.png
+size: 471,501
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/geliuganxiupu2_pg_xuli1_005
+	rotate: true
+	xy: 272, 209
+	size: 104, 50
+	orig: 170, 114
+	offset: 36, 29
+	index: -1
+attack/geliuganxiupu2_pg_xuli1_003
+	rotate: true
+	xy: 215, 204
+	size: 114, 56
+	orig: 170, 114
+	offset: 36, 29
+	index: -1
+
+asset/anim/geliuganxiupu2SECOMMON0.png
+size: 1024,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/geliuganxiupu2_xuliqi_006
+	rotate: false
+	xy: 115, 879
+	size: 250, 124
+	orig: 264, 142
+	offset: 14, 0
+	index: -1
+common/geliuganxiupu2_xuliqi_004
+	rotate: true
+	xy: 622, 618
+	size: 244, 102
+	orig: 264, 142
+	offset: 16, 0
+	index: -1
+common/geliuganxiupu2_xuliqi_010
+	rotate: false
+	xy: 366, 869
+	size: 250, 124
+	orig: 264, 142
+	offset: 14, 0
+	index: -1
+common/geliuganxiupu2_xuliqi_012
+	rotate: true
+	xy: 372, 618
+	size: 250, 124
+	orig: 264, 142
+	offset: 14, 0
+	index: -1
+common/geliuganxiupu2_xuliqi_018
+	rotate: true
+	xy: 497, 618
+	size: 250, 124
+	orig: 264, 142
+	offset: 14, 0
+	index: -1
+common/geliuganxiupu2_xuliqi2_035
+	rotate: false
+	xy: 729, 248
+	size: 268, 125
+	orig: 286, 151
+	offset: 6, 22
+	index: -1
+common/geliuganxiupu2_xuliqi2_034
+	rotate: true
+	xy: 115, 618
+	size: 260, 131
+	orig: 286, 151
+	offset: 9, 12
+	index: -1
+common/geliuganxiupu2_xuliqi2_037
+	rotate: false
+	xy: 729, 0
+	size: 280, 113
+	orig: 286, 151
+	offset: 1, 30
+	index: -1
+common/geliuganxiupu2_xuliqi2_036
+	rotate: false
+	xy: 729, 114
+	size: 274, 133
+	orig: 286, 151
+	offset: 3, 18
+	index: -1
+common/geliuganxiupu2_xuliqi2_030
+	rotate: false
+	xy: 850, 374
+	size: 174, 79
+	orig: 286, 151
+	offset: 49, 3
+	index: -1
+common/geliuganxiupu2_xuliqi_008
+	rotate: true
+	xy: 247, 618
+	size: 250, 124
+	orig: 264, 142
+	offset: 14, 0
+	index: -1
+common/geliuganxiupu2_xuliqi2_029
+	rotate: true
+	xy: 953, 454
+	size: 138, 63
+	orig: 286, 151
+	offset: 72, 0
+	index: -1
+
+asset/anim/geliuganxiupu2SEATTACK4.png
+size: 494,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/geliuganxiupu2_pg_xuli1_002
+	rotate: false
+	xy: 375, 434
+	size: 112, 62
+	orig: 170, 114
+	offset: 39, 29
+	index: -1
+attack/geliuganxiupu2_pg_xuli1_001
+	rotate: false
+	xy: 252, 434
+	size: 122, 60
+	orig: 170, 114
+	offset: 28, 29
+	index: -1
+attack/geliuganxiupu2_pg_xuli1_000
+	rotate: true
+	xy: 191, 367
+	size: 122, 60
+	orig: 170, 114
+	offset: 28, 29
+	index: -1
+
+asset/anim/geliuganxiupu2SECOMMON2.png
+size: 986,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/geliuganxiupu2_xuliqi_014
+	rotate: false
+	xy: 729, 0
+	size: 250, 118
+	orig: 264, 142
+	offset: 14, 5
+	index: -1
+common/geliuganxiupu2_xuliqi_026
+	rotate: false
+	xy: 729, 119
+	size: 250, 100
+	orig: 264, 142
+	offset: 14, 24
+	index: -1
+common/geliuganxiupu2_xuliqi2_032
+	rotate: false
+	xy: 729, 220
+	size: 230, 101
+	orig: 286, 151
+	offset: 21, 10
+	index: -1
+
+asset/anim/geliuganxiupu2SECOMMON3.png
+size: 1005,959
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/geliuganxiupu2_xuliqi2_031
+	rotate: false
+	xy: 729, 729
+	size: 190, 91
+	orig: 286, 151
+	offset: 38, 6
+	index: -1

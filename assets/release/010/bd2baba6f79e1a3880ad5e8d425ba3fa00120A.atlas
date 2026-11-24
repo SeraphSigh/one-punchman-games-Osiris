@@ -1,0 +1,278 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+
+asset/anim/zibaoguai0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zibaoguai_a_body_anwuzhiC
+	rotate: false
+	xy: 0, 127
+	size: 95, 126
+	orig: 95, 126
+	offset: 0, 0
+	index: -1
+zibaoguai_baozou_anwuzhiC
+	rotate: false
+	xy: 0, 373
+	size: 84, 98
+	orig: 84, 98
+	offset: 0, 0
+	index: -1
+zibaoguai_d_zuodatui_anwuzhiC
+	rotate: false
+	xy: 210, 321
+	size: 47, 63
+	orig: 47, 63
+	offset: 0, 0
+	index: -1
+zibaoguai_f_youxiaobi_anwuzhiC
+	rotate: true
+	xy: 143, 125
+	size: 60, 39
+	orig: 60, 39
+	offset: 0, 0
+	index: -1
+zibaoguai_f_shenti_anwuzhiC
+	rotate: false
+	xy: 0, 0
+	size: 104, 126
+	orig: 104, 126
+	offset: 0, 0
+	index: -1
+zibaoguai_act10_3_anwuzhiC
+	rotate: true
+	xy: 138, 202
+	size: 48, 66
+	orig: 48, 66
+	offset: 0, 0
+	index: -1
+zibaoguai_a_Rfoot_anwuzhiC
+	rotate: false
+	xy: 168, 435
+	size: 38, 34
+	orig: 38, 34
+	offset: 0, 0
+	index: -1
+zibaoguai_a_Lfoot_anwuzhiC
+	rotate: true
+	xy: 210, 385
+	size: 47, 27
+	orig: 47, 27
+	offset: 0, 0
+	index: -1
+zibaoguai_d_youjiao_anwuzhiC
+	rotate: true
+	xy: 190, 62
+	size: 59, 28
+	orig: 59, 28
+	offset: 0, 0
+	index: -1
+zibaoguai_a_Rforearm_anwuzhiC
+	rotate: false
+	xy: 134, 63
+	size: 55, 61
+	orig: 55, 61
+	offset: 0, 0
+	index: -1
+zibaoguai_a_Rshin_anwuzhiC
+	rotate: false
+	xy: 163, 0
+	size: 38, 61
+	orig: 38, 61
+	offset: 0, 0
+	index: -1
+zibaoguai_d_tou_anwuzhiC
+	rotate: false
+	xy: 85, 373
+	size: 82, 96
+	orig: 82, 96
+	offset: 0, 0
+	index: -1
+zibaoguai_a_Rthigh_anwuzhiC
+	rotate: false
+	xy: 183, 125
+	size: 43, 59
+	orig: 43, 59
+	offset: 0, 0
+	index: -1
+zibaoguai_d_youshou_anwuzhiC
+	rotate: false
+	xy: 119, 470
+	size: 43, 42
+	orig: 43, 42
+	offset: 0, 0
+	index: -1
+zibaoguai_j_zuoshou_anwuzhiC
+	rotate: true
+	xy: 96, 202
+	size: 51, 41
+	orig: 51, 41
+	offset: 0, 0
+	index: -1
+zibaoguai_f_tou_anwuzhiC
+	rotate: false
+	xy: 93, 254
+	size: 89, 92
+	orig: 89, 92
+	offset: 0, 0
+	index: -1
+zibaoguai_a_Lshin_anwuzhiC
+	rotate: false
+	xy: 205, 185
+	size: 31, 53
+	orig: 31, 53
+	offset: 0, 0
+	index: -1
+zibaoguai_a_Rhand_anwuzhiC
+	rotate: false
+	xy: 163, 470
+	size: 40, 42
+	orig: 40, 42
+	offset: 0, 0
+	index: -1
+zibaoguai_a_Rarm_anwuzhiC
+	rotate: true
+	xy: 0, 472
+	size: 40, 62
+	orig: 40, 62
+	offset: 0, 0
+	index: -1
+zibaoguai_d_youdatui_anwuzhiC
+	rotate: false
+	xy: 105, 0
+	size: 57, 62
+	orig: 57, 62
+	offset: 0, 0
+	index: -1
+zibaoguai_f_youshou_anwuzhiC
+	rotate: false
+	xy: 204, 470
+	size: 54, 41
+	orig: 54, 41
+	offset: 0, 0
+	index: -1
+zibaoguai_k_youxiaobi_anwuzhiC
+	rotate: false
+	xy: 207, 435
+	size: 72, 31
+	orig: 72, 31
+	offset: 0, 0
+	index: -1
+zibaoguai_a_Lhand_anwuzhiC
+	rotate: false
+	xy: 221, 239
+	size: 39, 40
+	orig: 39, 40
+	offset: 0, 0
+	index: -1
+zibaoguai_a_Lforearm_anwuzhiC
+	rotate: true
+	xy: 259, 467
+	size: 45, 64
+	orig: 45, 64
+	offset: 0, 0
+	index: -1
+zibaoguai_d_youdabi_anwuzhiC
+	rotate: true
+	xy: 96, 127
+	size: 74, 46
+	orig: 74, 46
+	offset: 0, 0
+	index: -1
+zibaoguai_i_zuojiao_anwuzhiC
+	rotate: true
+	xy: 105, 63
+	size: 62, 28
+	orig: 62, 28
+	offset: 0, 0
+	index: -1
+zibaoguai_i_youdabi_anwuzhiC
+	rotate: true
+	xy: 168, 347
+	size: 87, 41
+	orig: 87, 41
+	offset: 0, 0
+	index: -1
+zibaoguai_e_zuoxiaobi_anwuzhiC
+	rotate: true
+	xy: 255, 0
+	size: 41, 37
+	orig: 41, 37
+	offset: 0, 0
+	index: -1
+zibaoguai_c_zuoshou_anwuzhiC
+	rotate: true
+	xy: 324, 467
+	size: 45, 40
+	orig: 45, 40
+	offset: 0, 0
+	index: -1
+zibaoguai_a_Lthigh_anwuzhiC
+	rotate: true
+	xy: 238, 385
+	size: 45, 58
+	orig: 45, 58
+	offset: 0, 0
+	index: -1
+zibaoguai_j_youshou_anwuzhiC
+	rotate: false
+	xy: 221, 280
+	size: 36, 40
+	orig: 36, 40
+	offset: 0, 0
+	index: -1
+zibaoguai_act10_2_anwuzhiC
+	rotate: true
+	xy: 280, 431
+	size: 35, 55
+	orig: 35, 55
+	offset: 0, 0
+	index: -1
+zibaoguai_d_youxiaobi_anwuzhiC
+	rotate: false
+	xy: 202, 0
+	size: 52, 57
+	orig: 52, 57
+	offset: 0, 0
+	index: -1
+zibaoguai_d_shenti_anwuzhiC
+	rotate: false
+	xy: 0, 254
+	size: 92, 118
+	orig: 92, 118
+	offset: 0, 0
+	index: -1
+zibaoguai_d_zuoshou_anwuzhiC
+	rotate: false
+	xy: 219, 58
+	size: 38, 43
+	orig: 38, 43
+	offset: 0, 0
+	index: -1
+zibaoguai_d_zuoxiaotui_anwuzhiC
+	rotate: false
+	xy: 63, 472
+	size: 55, 40
+	orig: 55, 40
+	offset: 0, 0
+	index: -1
+zibaoguai_d_youxiaotui_anwuzhiC
+	rotate: false
+	xy: 183, 251
+	size: 37, 69
+	orig: 37, 69
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,202 @@
+
+asset/anim/beixinheidongkapai.png
+size: 577,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_youdatui_beixinheidongdaka
+	rotate: false
+	xy: 0, 248
+	size: 119, 223
+	orig: 119, 223
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi_beixinheidongdaka
+	rotate: true
+	xy: 447, 392
+	size: 84, 87
+	orig: 84, 87
+	offset: 0, 0
+	index: -1
+a_zuodabi_beixinheidongdaka
+	rotate: true
+	xy: 461, 303
+	size: 88, 89
+	orig: 88, 89
+	offset: 0, 0
+	index: -1
+a_zuomeimao_beixinheidongdaka
+	rotate: false
+	xy: 48, 472
+	size: 27, 19
+	orig: 27, 19
+	offset: 0, 0
+	index: -1
+a_kua_beixinheidongdaka
+	rotate: false
+	xy: 203, 114
+	size: 169, 141
+	orig: 169, 141
+	offset: 0, 0
+	index: -1
+a_youyanzhu_beixinheidongdaka
+	rotate: false
+	xy: 447, 388
+	size: 3, 3
+	orig: 3, 3
+	offset: 0, 0
+	index: -1
+a_zuoyanzhu_beixinheidongdaka
+	rotate: true
+	xy: 199, 248
+	size: 4, 3
+	orig: 4, 3
+	offset: 0, 0
+	index: -1
+a_zuoyanbai_beixinheidongdaka
+	rotate: true
+	xy: 447, 369
+	size: 18, 11
+	orig: 18, 11
+	offset: 0, 0
+	index: -1
+a_youxiaobi_beixinheidongdaka
+	rotate: true
+	xy: 306, 369
+	size: 61, 140
+	orig: 61, 140
+	offset: 0, 0
+	index: -1
+a_youmeimao_beixinheidongdaka
+	rotate: false
+	xy: 551, 303
+	size: 26, 20
+	orig: 26, 20
+	offset: 0, 0
+	index: -1
+a_youjiao_beixinheidongdaka
+	rotate: false
+	xy: 469, 233
+	size: 107, 69
+	orig: 107, 69
+	offset: 0, 0
+	index: -1
+a_youyanbai_beixinheidongdaka
+	rotate: false
+	xy: 551, 324
+	size: 16, 10
+	orig: 16, 10
+	offset: 0, 0
+	index: -1
+a_zuodatui_beixinheidongdaka
+	rotate: true
+	xy: 120, 386
+	size: 111, 185
+	orig: 111, 185
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui_beixinheidongdaka
+	rotate: true
+	xy: 203, 0
+	size: 113, 265
+	orig: 113, 265
+	offset: 0, 0
+	index: -1
+a_youxiayanpi_beixinheidongdaka
+	rotate: false
+	xy: 306, 489
+	size: 19, 8
+	orig: 19, 8
+	offset: 0, 0
+	index: -1
+a_bozi_beixinheidongdaka
+	rotate: true
+	xy: 120, 248
+	size: 137, 78
+	orig: 137, 78
+	offset: 0, 0
+	index: -1
+a_zuojiao_beixinheidongdaka
+	rotate: false
+	xy: 368, 286
+	size: 92, 82
+	orig: 92, 82
+	offset: 0, 0
+	index: -1
+a_zuoxiayanpi_beixinheidongdaka
+	rotate: false
+	xy: 76, 472
+	size: 15, 8
+	orig: 15, 8
+	offset: 0, 0
+	index: -1
+a_youshoudamuzhi_beixinheidongdaka
+	rotate: true
+	xy: 390, 431
+	size: 57, 48
+	orig: 59, 48
+	offset: 1, 0
+	index: -1
+a_tou_beixinheidongdaka
+	rotate: false
+	xy: 199, 256
+	size: 89, 126
+	orig: 89, 126
+	offset: 0, 0
+	index: -1
+a_zuoshou_beixinheidongdaka
+	rotate: true
+	xy: 306, 431
+	size: 52, 83
+	orig: 52, 83
+	offset: 0, 0
+	index: -1
+a_youdabi_beixinheidongdaka
+	rotate: false
+	xy: 373, 114
+	size: 95, 171
+	orig: 95, 171
+	offset: 0, 0
+	index: -1
+a_youshou_beixinheidongdaka
+	rotate: false
+	xy: 289, 256
+	size: 78, 110
+	orig: 78, 110
+	offset: 0, 0
+	index: -1
+a_zuoshoudamuzhi_beixinheidongdaka
+	rotate: true
+	xy: 0, 472
+	size: 22, 47
+	orig: 22, 47
+	offset: 0, 0
+	index: -1
+a_youshangyanpi_beixinheidongdaka
+	rotate: true
+	xy: 535, 392
+	size: 18, 11
+	orig: 18, 11
+	offset: 0, 0
+	index: -1
+a_zuoshangyanpi_beixinheidongdaka
+	rotate: true
+	xy: 289, 367
+	size: 18, 12
+	orig: 18, 12
+	offset: 0, 0
+	index: -1
+a_shenti_beixinheidongdaka
+	rotate: false
+	xy: 0, 0
+	size: 202, 247
+	orig: 202, 247
+	offset: 0, 0
+	index: -1
+a_youxiaotui_beixinheidongdaka
+	rotate: false
+	xy: 469, 0
+	size: 108, 232
+	orig: 108, 232
+	offset: 0, 0
+	index: -1

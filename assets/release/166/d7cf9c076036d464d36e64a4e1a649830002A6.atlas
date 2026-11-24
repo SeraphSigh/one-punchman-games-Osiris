@@ -1,0 +1,48 @@
+
+asset/anim/chunrirukou0.png
+size: 63,181
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huaduo
+	rotate: false
+	xy: 37, 98
+	size: 26, 26
+	orig: 26, 26
+	offset: 0, 0
+	index: -1
+liuye
+	rotate: true
+	xy: 37, 146
+	size: 35, 21
+	orig: 35, 21
+	offset: 0, 0
+	index: -1
+chunriguangdian
+	rotate: false
+	xy: 0, 47
+	size: 50, 50
+	orig: 50, 50
+	offset: 0, 0
+	index: -1
+huaban
+	rotate: false
+	xy: 37, 125
+	size: 24, 20
+	orig: 32, 32
+	offset: 3, 7
+	index: -1
+fengzheng
+	rotate: false
+	xy: 0, 0
+	size: 55, 46
+	orig: 55, 46
+	offset: 0, 0
+	index: -1
+guangzhao
+	rotate: false
+	xy: 0, 98
+	size: 36, 78
+	orig: 72, 114
+	offset: 19, 23
+	index: -1

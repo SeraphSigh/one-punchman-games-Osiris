@@ -1,0 +1,26 @@
+
+asset/anim/tiankongzuCSE.png
+size: 1012,837
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tiankongzuC_dilie2_023
+	rotate: true
+	xy: 201, 236
+	size: 257, 83
+	orig: 257, 83
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_didiwang_Light_Decal
+	rotate: false
+	xy: 139, 687
+	size: 125, 127
+	orig: 125, 127
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,104 @@
+
+asset/anim/wuzhengqishikapai.png
+size: 502,817
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_youxiaobi_wuzhengqishi_KP
+	rotate: true
+	xy: 321, 692
+	size: 125, 85
+	orig: 125, 85
+	offset: 0, 0
+	index: -1
+a_zui_wuzhengqishi_KP
+	rotate: false
+	xy: 478, 358
+	size: 24, 17
+	orig: 24, 17
+	offset: 0, 0
+	index: -1
+a_shenti_wuzhengqishi_KP
+	rotate: false
+	xy: 347, 0
+	size: 151, 220
+	orig: 151, 220
+	offset: 0, 0
+	index: -1
+a_youdatui_wuzhengqishi_KP
+	rotate: false
+	xy: 347, 221
+	size: 144, 136
+	orig: 144, 136
+	offset: 0, 0
+	index: -1
+a_zuodabi_wuzhengqishi_KP
+	rotate: true
+	xy: 344, 598
+	size: 93, 129
+	orig: 93, 129
+	offset: 0, 0
+	index: -1
+a_kua_wuzhengqishi_KP
+	rotate: true
+	xy: 229, 538
+	size: 125, 114
+	orig: 125, 114
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi_wuzhengqishi_KP
+	rotate: false
+	xy: 100, 538
+	size: 122, 59
+	orig: 122, 59
+	offset: 0, 0
+	index: -1
+a_youdabi_wuzhengqishi_KP
+	rotate: false
+	xy: 407, 692
+	size: 92, 124
+	orig: 92, 124
+	offset: 0, 0
+	index: -1
+a_tou_wuzhengqishi_KP
+	rotate: false
+	xy: 229, 692
+	size: 91, 125
+	orig: 91, 125
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui_wuzhengqishi_KP
+	rotate: false
+	xy: 347, 358
+	size: 130, 239
+	orig: 130, 239
+	offset: 0, 0
+	index: -1
+a_youxiaotui_wuzhengqishi_KP
+	rotate: false
+	xy: 0, 538
+	size: 99, 244
+	orig: 99, 244
+	offset: 0, 0
+	index: -1
+a_zuodatui_wuzhengqishi_KP
+	rotate: false
+	xy: 100, 598
+	size: 128, 170
+	orig: 128, 170
+	offset: 0, 0
+	index: -1
+a_zixingche_wuzhengqishi_KP
+	rotate: true
+	xy: 0, 0
+	size: 537, 346
+	orig: 537, 346
+	offset: 0, 0
+	index: -1
+bai
+	rotate: true
+	xy: 478, 376
+	size: 19, 20
+	orig: 19, 20
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,40 @@
+
+asset/anim/longjuanSEMAX1.png
+size: 2025,1841
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shi23_longjuancj
+	rotate: false
+	xy: 0, 1688
+	size: 369, 153
+	orig: 369, 153
+	offset: 0, 0
+	index: -1
+
+asset/anim/longjuanSEMAX0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shi24_longjuancj
+	rotate: true
+	xy: 0, 1280
+	size: 567, 314
+	orig: 567, 314
+	offset: 0, 0
+	index: -1
+shi22_longjuancj
+	rotate: true
+	xy: 603, 271
+	size: 252, 375
+	orig: 252, 375
+	offset: 0, 0
+	index: -1
+tiankong_longjuancj
+	rotate: false
+	xy: 0, 0
+	size: 602, 540
+	orig: 602, 546
+	offset: 0, 6
+	index: -1

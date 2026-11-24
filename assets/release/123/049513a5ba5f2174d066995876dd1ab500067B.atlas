@@ -1,0 +1,96 @@
+
+asset/anim/dajiongyanSESKILL6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/djy_jinengjiewei_00120
+	rotate: false
+	xy: 810, 177
+	size: 192, 185
+	orig: 192, 185
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyanSESKILL7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/djy_jinengjiewei_00131
+	rotate: true
+	xy: 372, 386
+	size: 192, 185
+	orig: 192, 185
+	offset: 0, 0
+	index: -1
+skill/djy_jinengjiewei_00130
+	rotate: true
+	xy: 186, 772
+	size: 192, 185
+	orig: 192, 185
+	offset: 0, 0
+	index: -1
+skill/djy_jinengjiewei_00132
+	rotate: true
+	xy: 568, 0
+	size: 188, 185
+	orig: 192, 185
+	offset: 4, 0
+	index: -1
+skill/djy_jinengjiewei_00122
+	rotate: true
+	xy: 0, 579
+	size: 192, 185
+	orig: 192, 185
+	offset: 0, 0
+	index: -1
+skill/djy_jinengjiewei_00123
+	rotate: true
+	xy: 0, 772
+	size: 192, 185
+	orig: 192, 185
+	offset: 0, 0
+	index: -1
+skill/djy_jinengjiewei_00121
+	rotate: true
+	xy: 0, 386
+	size: 192, 185
+	orig: 192, 185
+	offset: 0, 0
+	index: -1
+skill/djy_jinengjiewei_00126
+	rotate: true
+	xy: 191, 0
+	size: 192, 185
+	orig: 192, 185
+	offset: 0, 0
+	index: -1
+skill/djy_jinengjiewei_00127
+	rotate: true
+	xy: 191, 193
+	size: 192, 185
+	orig: 192, 185
+	offset: 0, 0
+	index: -1
+skill/djy_jinengjiewei_00124
+	rotate: true
+	xy: 0, 772
+	size: 192, 185
+	orig: 192, 185
+	offset: 0, 0
+	index: -1
+skill/djy_jinengjiewei_00125
+	rotate: true
+	xy: 186, 386
+	size: 192, 185
+	orig: 192, 185
+	offset: 0, 0
+	index: -1
+skill/djy_jinengjiewei_00128
+	rotate: true
+	xy: 186, 579
+	size: 192, 185
+	orig: 192, 185
+	offset: 0, 0
+	index: -1

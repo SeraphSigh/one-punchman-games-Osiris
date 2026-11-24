@@ -1,0 +1,76 @@
+
+asset/anim/denglongzhan0.png
+size: 431,355
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guadian_denglongzhan
+	rotate: false
+	xy: 426, 85
+	size: 3, 3
+	orig: 50, 50
+	offset: 0, 46
+	index: -1
+sheng3_denglongzhan
+	rotate: true
+	xy: 0, 0
+	size: 355, 65
+	orig: 355, 65
+	offset: 0, 0
+	index: -1
+denglong3_denglongzhan
+	rotate: false
+	xy: 422, 85
+	size: 3, 131
+	orig: 3, 131
+	offset: 0, 0
+	index: -1
+denglong2_denglongzhan
+	rotate: false
+	xy: 66, 199
+	size: 106, 150
+	orig: 106, 150
+	offset: 0, 0
+	index: -1
+sheng_denglongzhan
+	rotate: false
+	xy: 66, 85
+	size: 334, 70
+	orig: 334, 70
+	offset: 0, 0
+	index: -1
+denglong6_denglongzhan
+	rotate: false
+	xy: 401, 85
+	size: 20, 48
+	orig: 20, 48
+	offset: 0, 0
+	index: -1
+denglong5_denglongzhan
+	rotate: false
+	xy: 381, 217
+	size: 43, 93
+	orig: 43, 93
+	offset: 0, 0
+	index: -1
+sheng2_denglongzhan
+	rotate: false
+	xy: 66, 0
+	size: 365, 84
+	orig: 365, 84
+	offset: 0, 0
+	index: -1
+denglong1_denglongzhan
+	rotate: false
+	xy: 401, 134
+	size: 17, 64
+	orig: 17, 64
+	offset: 0, 0
+	index: -1
+denglong4_denglongzhan
+	rotate: true
+	xy: 173, 156
+	size: 189, 207
+	orig: 189, 207
+	offset: 0, 0
+	index: -1

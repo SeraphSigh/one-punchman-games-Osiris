@@ -1,0 +1,337 @@
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0001
+	rotate: true
+	xy: 639, 329
+	size: 98, 27
+	orig: 280, 73
+	offset: 89, 18
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0010
+	rotate: false
+	xy: 836, 891
+	size: 188, 63
+	orig: 280, 73
+	offset: 43, 7
+	index: -1
+global/a_global_texiao34_shenhaiwang_0009
+	rotate: false
+	xy: 840, 0
+	size: 184, 63
+	orig: 280, 73
+	offset: 46, 7
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0005
+	rotate: false
+	xy: 846, 78
+	size: 178, 59
+	orig: 280, 73
+	offset: 49, 9
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0011
+	rotate: false
+	xy: 799, 224
+	size: 190, 65
+	orig: 280, 73
+	offset: 42, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0012
+	rotate: false
+	xy: 400, 305
+	size: 192, 65
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0013
+	rotate: false
+	xy: 799, 290
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0014
+	rotate: false
+	xy: 593, 319
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 5
+	index: -1
+global/a_global_texiao34_shenhaiwang_0007
+	rotate: false
+	xy: 370, 519
+	size: 182, 61
+	orig: 280, 73
+	offset: 47, 8
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0003
+	rotate: false
+	xy: 276, 251
+	size: 156, 53
+	orig: 280, 73
+	offset: 59, 11
+	index: -1
+global/a_global_texiao34_shenhaiwang_0002
+	rotate: false
+	xy: 889, 238
+	size: 126, 47
+	orig: 280, 73
+	offset: 71, 12
+	index: -1
+
+asset/anim/xingganqiutu2SECOMMON0.png
+size: 2041,1975
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/xgqt2_com_cb1_00017
+	rotate: true
+	xy: 1374, 278
+	size: 254, 240
+	orig: 434, 354
+	offset: 17, 102
+	index: -1
+common/xgqt2_com_cb1_00016
+	rotate: false
+	xy: 1152, 1718
+	size: 206, 234
+	orig: 434, 354
+	offset: 15, 102
+	index: -1
+common/xgqt2_com_cb1_00015
+	rotate: false
+	xy: 1869, 512
+	size: 170, 228
+	orig: 434, 354
+	offset: 55, 103
+	index: -1
+common/xgqt2_com_cb1_00014
+	rotate: true
+	xy: 1452, 1292
+	size: 154, 210
+	orig: 434, 354
+	offset: 93, 95
+	index: -1
+common/xgqt2_com_cb1_00013
+	rotate: false
+	xy: 1674, 829
+	size: 170, 192
+	orig: 434, 354
+	offset: 93, 89
+	index: -1
+common/xgqt2_com_cb1_00012
+	rotate: false
+	xy: 1505, 1111
+	size: 190, 180
+	orig: 434, 354
+	offset: 97, 87
+	index: -1
+common/xgqt2_com_cb1_00011
+	rotate: false
+	xy: 977, 565
+	size: 236, 184
+	orig: 434, 354
+	offset: 112, 87
+	index: -1
+common/xgqt2_com_cb1_00010
+	rotate: true
+	xy: 1139, 1487
+	size: 230, 180
+	orig: 434, 354
+	offset: 152, 91
+	index: -1
+common/xgqt2_com_cb1_00019
+	rotate: true
+	xy: 0, 1771
+	size: 204, 178
+	orig: 434, 354
+	offset: 144, 70
+	index: -1
+common/xgqt2_com_cb1_00018
+	rotate: false
+	xy: 1271, 1246
+	size: 180, 220
+	orig: 434, 354
+	offset: 137, 88
+	index: -1
+common/xgqt2_com_cb2_00018
+	rotate: false
+	xy: 1214, 581
+	size: 153, 156
+	orig: 405, 252
+	offset: 182, 14
+	index: -1
+common/xgqt2_com_cb2_00019
+	rotate: false
+	xy: 1856, 741
+	size: 185, 102
+	orig: 405, 252
+	offset: 183, 14
+	index: -1
+common/xgqt2_com_cb2_00010
+	rotate: false
+	xy: 1520, 1847
+	size: 145, 128
+	orig: 405, 252
+	offset: 99, 54
+	index: -1
+common/xgqt2_com_cb2_00011
+	rotate: true
+	xy: 1663, 1292
+	size: 141, 132
+	orig: 405, 252
+	offset: 79, 52
+	index: -1
+common/xgqt2_com_cb2_00012
+	rotate: true
+	xy: 1904, 1471
+	size: 157, 130
+	orig: 405, 252
+	offset: 64, 53
+	index: -1
+common/xgqt2_com_cb2_00013
+	rotate: true
+	xy: 1828, 1803
+	size: 165, 140
+	orig: 405, 252
+	offset: 57, 55
+	index: -1
+common/xgqt2_com_cb2_00014
+	rotate: false
+	xy: 1289, 1075
+	size: 215, 170
+	orig: 405, 252
+	offset: 11, 57
+	index: -1
+common/xgqt2_com_cb2_00015
+	rotate: false
+	xy: 1289, 890
+	size: 217, 184
+	orig: 405, 252
+	offset: 12, 58
+	index: -1
+common/xgqt2_com_cb2_00016
+	rotate: false
+	xy: 1681, 511
+	size: 187, 190
+	orig: 405, 252
+	offset: 67, 46
+	index: -1
+common/xgqt2_com_cb2_00017
+	rotate: false
+	xy: 1666, 1815
+	size: 161, 160
+	orig: 405, 252
+	offset: 129, 38
+	index: -1
+common/xgqt2_com_cb2_00021
+	rotate: true
+	xy: 1520, 1625
+	size: 221, 112
+	orig: 405, 252
+	offset: 183, 8
+	index: -1
+common/xgqt2_com_cb2_00020
+	rotate: true
+	xy: 1696, 1022
+	size: 219, 110
+	orig: 405, 252
+	offset: 186, 7
+	index: -1
+common/xgqt2_com_cb2_00022
+	rotate: true
+	xy: 1796, 1247
+	size: 173, 100
+	orig: 405, 252
+	offset: 184, 20
+	index: -1
+common/xgqt2_com_cb1_00008
+	rotate: true
+	xy: 1507, 890
+	size: 220, 166
+	orig: 434, 354
+	offset: 160, 59
+	index: -1
+common/xgqt2_com_cb1_00009
+	rotate: true
+	xy: 1359, 1698
+	size: 224, 160
+	orig: 434, 354
+	offset: 159, 92
+	index: -1
+common/xgqt2_com_cb1_00022
+	rotate: true
+	xy: 861, 1468
+	size: 250, 168
+	orig: 434, 354
+	offset: 167, 7
+	index: -1
+common/xgqt2_com_cb1_00023
+	rotate: false
+	xy: 1845, 844
+	size: 190, 158
+	orig: 434, 354
+	offset: 174, 15
+	index: -1
+common/xgqt2_com_cb1_00020
+	rotate: true
+	xy: 1320, 1467
+	size: 230, 136
+	orig: 434, 354
+	offset: 143, 44
+	index: -1
+common/xgqt2_com_cb1_00021
+	rotate: true
+	xy: 1869, 251
+	size: 260, 168
+	orig: 434, 354
+	offset: 158, 5
+	index: -1
+common/xgqt2_com_cb2_00009
+	rotate: true
+	xy: 1646, 1447
+	size: 177, 124
+	orig: 405, 252
+	offset: 124, 58
+	index: -1
+common/xgqt2_com_cb2_00008
+	rotate: true
+	xy: 1748, 1625
+	size: 177, 120
+	orig: 405, 252
+	offset: 150, 61
+	index: -1
+common/xgqt2_com_cb2_00007
+	rotate: true
+	xy: 1633, 1625
+	size: 189, 114
+	orig: 405, 252
+	offset: 160, 54
+	index: -1

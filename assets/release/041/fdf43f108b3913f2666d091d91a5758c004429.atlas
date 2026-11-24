@@ -1,0 +1,1149 @@
+
+asset/anim/shanyuan2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_Rhand_shanyuan
+	rotate: false
+	xy: 444, 369
+	size: 44, 41
+	orig: 44, 41
+	offset: 0, 0
+	index: -1
+b_Lfoot_shanyuan
+	rotate: false
+	xy: 63, 256
+	size: 52, 31
+	orig: 52, 31
+	offset: 0, 0
+	index: -1
+j_Rforearm_shanyuan
+	rotate: true
+	xy: 444, 284
+	size: 52, 55
+	orig: 52, 55
+	offset: 0, 0
+	index: -1
+a_Lshin_shanyuan
+	rotate: true
+	xy: 66, 213
+	size: 42, 63
+	orig: 42, 63
+	offset: 0, 0
+	index: -1
+a_Rthigh_shanyuan
+	rotate: false
+	xy: 186, 228
+	size: 53, 53
+	orig: 53, 53
+	offset: 0, 0
+	index: -1
+g_Lforearm_shanyuan
+	rotate: false
+	xy: 277, 134
+	size: 61, 58
+	orig: 61, 58
+	offset: 0, 0
+	index: -1
+i_Lhand_shanyuan
+	rotate: true
+	xy: 321, 317
+	size: 44, 46
+	orig: 44, 46
+	offset: 0, 0
+	index: -1
+m_coxa_shanyuan
+	rotate: false
+	xy: 308, 0
+	size: 69, 52
+	orig: 69, 52
+	offset: 0, 0
+	index: -1
+j_Lforearm_shanyuan
+	rotate: false
+	xy: 448, 51
+	size: 63, 68
+	orig: 63, 68
+	offset: 0, 0
+	index: -1
+j_Rfoot_shanyuan
+	rotate: false
+	xy: 401, 207
+	size: 42, 27
+	orig: 42, 27
+	offset: 0, 0
+	index: -1
+m_Rhand_shanyuan
+	rotate: true
+	xy: 273, 297
+	size: 43, 47
+	orig: 43, 47
+	offset: 0, 0
+	index: -1
+o_Lforearm_shanyuan
+	rotate: false
+	xy: 71, 156
+	size: 66, 56
+	orig: 66, 56
+	offset: 0, 0
+	index: -1
+j_Rhand_shanyuan
+	rotate: true
+	xy: 270, 341
+	size: 41, 46
+	orig: 41, 46
+	offset: 0, 0
+	index: -1
+p_Rhand_shanyuan
+	rotate: true
+	xy: 329, 271
+	size: 45, 48
+	orig: 45, 48
+	offset: 0, 0
+	index: -1
+k_Rarm_shanyuan
+	rotate: false
+	xy: 152, 63
+	size: 71, 64
+	orig: 71, 64
+	offset: 0, 0
+	index: -1
+o_coxa_shanyuan
+	rotate: false
+	xy: 138, 178
+	size: 63, 43
+	orig: 63, 43
+	offset: 0, 0
+	index: -1
+o_Rfoot_shanyuan
+	rotate: false
+	xy: 202, 194
+	size: 55, 33
+	orig: 55, 33
+	offset: 0, 0
+	index: -1
+i_Rforearm_shanyuan
+	rotate: false
+	xy: 224, 70
+	size: 68, 61
+	orig: 68, 61
+	offset: 0, 0
+	index: -1
+a_bizi_shanyuan
+	rotate: false
+	xy: 422, 101
+	size: 21, 19
+	orig: 21, 19
+	offset: 0, 0
+	index: -1
+c_Rforearm_shanyuan
+	rotate: false
+	xy: 444, 120
+	size: 62, 55
+	orig: 62, 55
+	offset: 0, 0
+	index: -1
+m_body_b_shanyuan
+	rotate: false
+	xy: 240, 276
+	size: 32, 51
+	orig: 32, 51
+	offset: 0, 0
+	index: -1
+j_coxa_shanyuan
+	rotate: false
+	xy: 79, 0
+	size: 78, 46
+	orig: 78, 46
+	offset: 0, 0
+	index: -1
+j_Lhand_shanyuan
+	rotate: true
+	xy: 113, 303
+	size: 44, 45
+	orig: 44, 45
+	offset: 0, 0
+	index: -1
+m_Lhand_shanyuan
+	rotate: false
+	xy: 401, 161
+	size: 42, 45
+	orig: 42, 45
+	offset: 0, 0
+	index: -1
+q_coxa_shanyuan
+	rotate: false
+	xy: 448, 0
+	size: 64, 50
+	orig: 64, 50
+	offset: 0, 0
+	index: -1
+o_Lthigh_shanyuan
+	rotate: false
+	xy: 73, 95
+	size: 70, 60
+	orig: 70, 60
+	offset: 0, 0
+	index: -1
+d_Rarm_shanyuan
+	rotate: true
+	xy: 236, 0
+	size: 69, 71
+	orig: 69, 71
+	offset: 0, 0
+	index: -1
+o_Rshin_shanyuan
+	rotate: true
+	xy: 378, 0
+	size: 50, 69
+	orig: 50, 69
+	offset: 0, 0
+	index: -1
+k_Rhand_shanyuan
+	rotate: false
+	xy: 378, 288
+	size: 47, 41
+	orig: 47, 41
+	offset: 0, 0
+	index: -1
+c_Rhand_shanyuan
+	rotate: true
+	xy: 50, 334
+	size: 40, 45
+	orig: 40, 45
+	offset: 0, 0
+	index: -1
+benghuai_shanyuan
+	rotate: true
+	xy: 275, 253
+	size: 43, 53
+	orig: 43, 53
+	offset: 0, 0
+	index: -1
+o_Rarm_shanyuan
+	rotate: false
+	xy: 0, 0
+	size: 78, 55
+	orig: 78, 55
+	offset: 0, 0
+	index: -1
+q_Lforearm_shanyuan
+	rotate: false
+	xy: 444, 236
+	size: 57, 47
+	orig: 57, 47
+	offset: 0, 0
+	index: -1
+o_Lshin_shanyuan
+	rotate: false
+	xy: 158, 0
+	size: 77, 62
+	orig: 77, 62
+	offset: 0, 0
+	index: -1
+a_Rfoot_shanyuan
+	rotate: true
+	xy: 240, 228
+	size: 47, 34
+	orig: 47, 34
+	offset: 0, 0
+	index: -1
+c_Lhand_shanyuan
+	rotate: false
+	xy: 0, 335
+	size: 45, 39
+	orig: 45, 39
+	offset: 0, 0
+	index: -1
+p_Rforearm_shanyuan
+	rotate: false
+	xy: 79, 47
+	size: 72, 47
+	orig: 72, 47
+	offset: 0, 0
+	index: -1
+j_Rshin_shanyuan
+	rotate: true
+	xy: 0, 56
+	size: 45, 72
+	orig: 45, 72
+	offset: 0, 0
+	index: -1
+n_body_b_shanyuan
+	rotate: true
+	xy: 308, 53
+	size: 27, 69
+	orig: 27, 69
+	offset: 0, 0
+	index: -1
+j_Rthigh_shanyuan
+	rotate: true
+	xy: 359, 101
+	size: 59, 62
+	orig: 59, 62
+	offset: 0, 0
+	index: -1
+g_Rhand_shanyuan
+	rotate: true
+	xy: 237, 328
+	size: 29, 32
+	orig: 29, 32
+	offset: 0, 0
+	index: -1
+b_Rfoot_shanyuan
+	rotate: true
+	xy: 414, 330
+	size: 40, 29
+	orig: 40, 29
+	offset: 0, 0
+	index: -1
+b_Lthigh_shanyuan
+	rotate: true
+	xy: 130, 253
+	size: 49, 53
+	orig: 49, 53
+	offset: 0, 0
+	index: -1
+q_Lhand_shanyuan
+	rotate: false
+	xy: 444, 337
+	size: 45, 31
+	orig: 45, 31
+	offset: 0, 0
+	index: -1
+p_Rarm_shanyuan
+	rotate: false
+	xy: 213, 132
+	size: 63, 61
+	orig: 63, 61
+	offset: 0, 0
+	index: -1
+i_Lforearm_shanyuan
+	rotate: false
+	xy: 338, 219
+	size: 58, 51
+	orig: 58, 51
+	offset: 0, 0
+	index: -1
+f_Rforearm_shanyuan
+	rotate: false
+	xy: 339, 161
+	size: 61, 57
+	orig: 61, 57
+	offset: 0, 0
+	index: -1
+j_Larm_shanyuan
+	rotate: true
+	xy: 378, 51
+	size: 49, 69
+	orig: 49, 69
+	offset: 0, 0
+	index: -1
+o_Lhand_shanyuan
+	rotate: true
+	xy: 63, 288
+	size: 45, 49
+	orig: 45, 49
+	offset: 0, 0
+	index: -1
+j_Lthigh_shanyuan
+	rotate: true
+	xy: 293, 81
+	size: 52, 65
+	orig: 52, 65
+	offset: 0, 0
+	index: -1
+d_Larm_shanyuan
+	rotate: false
+	xy: 0, 161
+	size: 65, 65
+	orig: 65, 65
+	offset: 0, 0
+	index: -1
+q_Larm_shanyuan
+	rotate: false
+	xy: 0, 102
+	size: 70, 58
+	orig: 70, 58
+	offset: 0, 0
+	index: -1
+q_Rfoot_shanyuan
+	rotate: true
+	xy: 159, 332
+	size: 39, 43
+	orig: 39, 43
+	offset: 0, 0
+	index: -1
+f_Lhand_shanyuan
+	rotate: false
+	xy: 368, 330
+	size: 45, 31
+	orig: 45, 31
+	offset: 0, 0
+	index: -1
+q_Rhand_shanyuan
+	rotate: true
+	xy: 96, 348
+	size: 40, 41
+	orig: 40, 41
+	offset: 0, 0
+	index: -1
+j_Rarm_shanyuan
+	rotate: true
+	xy: 144, 128
+	size: 49, 68
+	orig: 49, 68
+	offset: 0, 0
+	index: -1
+q_Lfoot_shanyuan
+	rotate: false
+	xy: 130, 222
+	size: 55, 30
+	orig: 55, 30
+	offset: 0, 0
+	index: -1
+j_Lshin_shanyuan
+	rotate: false
+	xy: 0, 227
+	size: 62, 62
+	orig: 62, 62
+	offset: 0, 0
+	index: -1
+f_Rhand_shanyuan
+	rotate: false
+	xy: 0, 290
+	size: 49, 44
+	orig: 49, 44
+	offset: 0, 0
+	index: -1
+g_Rforearm_shanyuan
+	rotate: true
+	xy: 184, 282
+	size: 49, 52
+	orig: 49, 52
+	offset: 0, 0
+	index: -1
+i_Lthigh_shanyuan
+	rotate: false
+	xy: 444, 176
+	size: 59, 59
+	orig: 59, 59
+	offset: 0, 0
+	index: -1
+f_Lforearm_shanyuan
+	rotate: true
+	xy: 397, 235
+	size: 52, 46
+	orig: 52, 46
+	offset: 0, 0
+	index: -1
+m_Lforearm_shanyuan
+	rotate: true
+	xy: 277, 193
+	size: 59, 60
+	orig: 59, 60
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanyuan1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m_Rarm_shanyuan
+	rotate: false
+	xy: 112, 381
+	size: 72, 70
+	orig: 72, 70
+	offset: 0, 0
+	index: -1
+a_body_b_shanyuan
+	rotate: false
+	xy: 93, 225
+	size: 38, 59
+	orig: 38, 59
+	offset: 0, 0
+	index: -1
+a_Larm_shanyuan
+	rotate: false
+	xy: 215, 284
+	size: 43, 59
+	orig: 43, 59
+	offset: 0, 0
+	index: -1
+a_Rshin_shanyuan
+	rotate: true
+	xy: 327, 419
+	size: 39, 60
+	orig: 39, 60
+	offset: 0, 0
+	index: -1
+q_Rforearm_shanyuan
+	rotate: true
+	xy: 89, 300
+	size: 65, 42
+	orig: 65, 42
+	offset: 0, 0
+	index: -1
+a_zuiba_shanyuan
+	rotate: true
+	xy: 427, 107
+	size: 20, 13
+	orig: 20, 13
+	offset: 0, 0
+	index: -1
+a_Rarm_shanyuan
+	rotate: true
+	xy: 185, 460
+	size: 52, 74
+	orig: 52, 74
+	offset: 0, 0
+	index: -1
+m_body_shanyuan
+	rotate: true
+	xy: 150, 0
+	size: 116, 146
+	orig: 116, 146
+	offset: 0, 0
+	index: -1
+o_body_shanyuan
+	rotate: false
+	xy: 261, 128
+	size: 124, 118
+	orig: 124, 118
+	offset: 0, 0
+	index: -1
+q_body_shanyuan
+	rotate: false
+	xy: 386, 128
+	size: 108, 116
+	orig: 108, 116
+	offset: 0, 0
+	index: -1
+n_biyan_shanyuan
+	rotate: false
+	xy: 0, 495
+	size: 33, 17
+	orig: 33, 17
+	offset: 0, 0
+	index: -1
+d_Lforearm_shanyuan
+	rotate: true
+	xy: 454, 455
+	size: 57, 52
+	orig: 57, 52
+	offset: 0, 0
+	index: -1
+e_Rarm_shanyuan
+	rotate: false
+	xy: 112, 452
+	size: 72, 60
+	orig: 72, 60
+	offset: 0, 0
+	index: -1
+o_Rthigh_shanyuan
+	rotate: false
+	xy: 0, 372
+	size: 84, 47
+	orig: 84, 47
+	offset: 0, 0
+	index: -1
+l_Rarm_shanyuan
+	rotate: false
+	xy: 334, 295
+	size: 74, 51
+	orig: 74, 51
+	offset: 0, 0
+	index: -1
+c_Lforearm_shanyuan
+	rotate: true
+	xy: 390, 455
+	size: 57, 63
+	orig: 57, 63
+	offset: 0, 0
+	index: -1
+d_Rhand_shanyuan
+	rotate: false
+	xy: 461, 415
+	size: 47, 39
+	orig: 47, 39
+	offset: 0, 0
+	index: -1
+g_Rarm_shanyuan
+	rotate: true
+	xy: 386, 245
+	size: 49, 82
+	orig: 49, 82
+	offset: 0, 0
+	index: -1
+d_Lhand_shanyuan
+	rotate: false
+	xy: 212, 344
+	size: 36, 36
+	orig: 36, 36
+	offset: 0, 0
+	index: -1
+j_body_shanyuan
+	rotate: true
+	xy: 0, 0
+	size: 116, 149
+	orig: 116, 149
+	offset: 0, 0
+	index: -1
+q_Lshin_shanyuan
+	rotate: true
+	xy: 259, 247
+	size: 41, 75
+	orig: 41, 75
+	offset: 0, 0
+	index: -1
+k_Rforearm_shanyuan
+	rotate: false
+	xy: 327, 347
+	size: 60, 71
+	orig: 60, 71
+	offset: 0, 0
+	index: -1
+d_body_b_shanyuan
+	rotate: false
+	xy: 472, 294
+	size: 33, 60
+	orig: 33, 60
+	offset: 0, 0
+	index: -1
+i_Rarm_shanyuan
+	rotate: false
+	xy: 277, 386
+	size: 49, 72
+	orig: 49, 72
+	offset: 0, 0
+	index: -1
+f_body_shanyuan
+	rotate: true
+	xy: 297, 0
+	size: 127, 129
+	orig: 127, 129
+	offset: 0, 0
+	index: -1
+a_Lhand_shanyuan
+	rotate: true
+	xy: 223, 241
+	size: 42, 35
+	orig: 42, 35
+	offset: 0, 0
+	index: -1
+m_Rfoot_shanyuan
+	rotate: false
+	xy: 335, 247
+	size: 50, 47
+	orig: 50, 47
+	offset: 0, 0
+	index: -1
+gedang_shanyuan
+	rotate: false
+	xy: 427, 0
+	size: 77, 106
+	orig: 77, 106
+	offset: 0, 0
+	index: -1
+m_Larm_shanyuan
+	rotate: true
+	xy: 259, 289
+	size: 55, 74
+	orig: 55, 74
+	offset: 0, 0
+	index: -1
+d_head_shanyuan
+	rotate: true
+	xy: 0, 225
+	size: 74, 92
+	orig: 74, 92
+	offset: 0, 0
+	index: -1
+c_body_shanyuan
+	rotate: true
+	xy: 132, 117
+	size: 123, 128
+	orig: 123, 128
+	offset: 0, 0
+	index: -1
+i_Lshin_shanyuan
+	rotate: false
+	xy: 232, 386
+	size: 44, 73
+	orig: 44, 73
+	offset: 0, 0
+	index: -1
+i_Larm_shanyuan
+	rotate: false
+	xy: 260, 460
+	size: 71, 52
+	orig: 71, 52
+	offset: 0, 0
+	index: -1
+g_Larm_shanyuan
+	rotate: false
+	xy: 132, 328
+	size: 79, 52
+	orig: 79, 52
+	offset: 0, 0
+	index: -1
+c_coxa_shanyuan
+	rotate: false
+	xy: 249, 345
+	size: 73, 40
+	orig: 73, 44
+	offset: 0, 4
+	index: -1
+e_Rforearm_shanyuan
+	rotate: false
+	xy: 332, 459
+	size: 57, 53
+	orig: 57, 53
+	offset: 0, 0
+	index: -1
+q_Rarm_shanyuan
+	rotate: true
+	xy: 460, 355
+	size: 59, 51
+	orig: 59, 51
+	offset: 0, 0
+	index: -1
+h_body_shanyuan
+	rotate: true
+	xy: 0, 117
+	size: 107, 131
+	orig: 107, 131
+	offset: 0, 0
+	index: -1
+b_Lshin_shanyuan
+	rotate: true
+	xy: 388, 415
+	size: 39, 72
+	orig: 39, 72
+	offset: 0, 0
+	index: -1
+m_Rforearm_shanyuan
+	rotate: false
+	xy: 388, 354
+	size: 71, 60
+	orig: 71, 60
+	offset: 0, 0
+	index: -1
+m_Rthigh_shanyuan
+	rotate: false
+	xy: 0, 300
+	size: 88, 71
+	orig: 88, 71
+	offset: 0, 0
+	index: -1
+a_coxa_shanyuan
+	rotate: false
+	xy: 132, 241
+	size: 90, 41
+	orig: 90, 41
+	offset: 0, 0
+	index: -1
+q_Lthigh_shanyuan
+	rotate: false
+	xy: 132, 283
+	size: 82, 44
+	orig: 82, 44
+	offset: 0, 0
+	index: -1
+i_Rhand_shanyuan
+	rotate: false
+	xy: 469, 245
+	size: 40, 48
+	orig: 40, 48
+	offset: 0, 0
+	index: -1
+i_Lfoot_shanyuan
+	rotate: true
+	xy: 85, 372
+	size: 42, 26
+	orig: 42, 26
+	offset: 0, 0
+	index: -1
+a_Lthigh_shanyuan
+	rotate: true
+	xy: 409, 295
+	size: 58, 62
+	orig: 58, 62
+	offset: 0, 0
+	index: -1
+m_Rshin_shanyuan
+	rotate: false
+	xy: 0, 420
+	size: 69, 74
+	orig: 69, 74
+	offset: 0, 0
+	index: -1
+l_Rforearm_shanyuan
+	rotate: false
+	xy: 185, 381
+	size: 46, 78
+	orig: 46, 78
+	offset: 0, 0
+	index: -1
+a_Lforearm_shanyuan
+	rotate: false
+	xy: 70, 420
+	size: 41, 74
+	orig: 41, 74
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanyuan0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+o_Larm_shanyuan
+	rotate: true
+	xy: 198, 458
+	size: 54, 62
+	orig: 54, 62
+	offset: 0, 0
+	index: -1
+c_Rarm_shanyuan
+	rotate: true
+	xy: 124, 255
+	size: 60, 77
+	orig: 60, 77
+	offset: 0, 0
+	index: -1
+l_body_shanyuan
+	rotate: false
+	xy: 263, 0
+	size: 134, 133
+	orig: 134, 133
+	offset: 0, 0
+	index: -1
+d_body_shanyuan
+	rotate: false
+	xy: 0, 0
+	size: 139, 154
+	orig: 139, 154
+	offset: 0, 0
+	index: -1
+b_Rthigh_shanyuan
+	rotate: true
+	xy: 214, 411
+	size: 46, 59
+	orig: 46, 59
+	offset: 0, 0
+	index: -1
+m_Lthigh_shanyuan
+	rotate: false
+	xy: 204, 247
+	size: 77, 68
+	orig: 77, 68
+	offset: 0, 0
+	index: -1
+c_Larm_shanyuan
+	rotate: false
+	xy: 135, 458
+	size: 62, 54
+	orig: 62, 54
+	offset: 0, 0
+	index: -1
+q_Rthigh_shanyuan
+	rotate: true
+	xy: 261, 458
+	size: 54, 58
+	orig: 54, 58
+	offset: 0, 0
+	index: -1
+o_Rforearm_shanyuan
+	rotate: false
+	xy: 71, 458
+	size: 63, 54
+	orig: 63, 54
+	offset: 0, 0
+	index: -1
+a_body_shanyuan
+	rotate: false
+	xy: 140, 0
+	size: 122, 146
+	orig: 122, 146
+	offset: 0, 0
+	index: -1
+f_Rarm_shanyuan
+	rotate: false
+	xy: 399, 296
+	size: 76, 67
+	orig: 76, 67
+	offset: 0, 0
+	index: -1
+a_Rhand_shanyuan
+	rotate: false
+	xy: 350, 389
+	size: 48, 38
+	orig: 48, 38
+	offset: 0, 0
+	index: -1
+o_head_shanyuan
+	rotate: false
+	xy: 299, 134
+	size: 92, 96
+	orig: 92, 96
+	offset: 0, 0
+	index: -1
+baozou_shanyuan
+	rotate: true
+	xy: 392, 149
+	size: 71, 97
+	orig: 71, 97
+	offset: 0, 0
+	index: -1
+a_head_shanyuan
+	rotate: false
+	xy: 200, 316
+	size: 72, 94
+	orig: 72, 94
+	offset: 0, 0
+	index: -1
+i_body_b_shanyuan
+	rotate: false
+	xy: 487, 221
+	size: 25, 58
+	orig: 25, 58
+	offset: 0, 0
+	index: -1
+i_coxa_shanyuan
+	rotate: true
+	xy: 478, 419
+	size: 80, 34
+	orig: 80, 34
+	offset: 0, 0
+	index: -1
+d_Rforearm_shanyuan
+	rotate: false
+	xy: 320, 458
+	size: 46, 54
+	orig: 46, 54
+	offset: 0, 0
+	index: -1
+b_head_shanyuan
+	rotate: true
+	xy: 299, 231
+	size: 72, 94
+	orig: 72, 94
+	offset: 0, 0
+	index: -1
+q_head_shanyuan
+	rotate: false
+	xy: 125, 316
+	size: 74, 94
+	orig: 74, 94
+	offset: 0, 0
+	index: -1
+c_bozi_shanyuan
+	rotate: false
+	xy: 0, 458
+	size: 70, 54
+	orig: 72, 54
+	offset: 0, 0
+	index: -1
+b_eyes_shanyuan
+	rotate: true
+	xy: 487, 280
+	size: 41, 25
+	orig: 41, 25
+	offset: 0, 0
+	index: -1
+e_Rhand_shanyuan
+	rotate: true
+	xy: 476, 322
+	size: 48, 36
+	orig: 48, 36
+	offset: 0, 0
+	index: -1
+o_Lfoot_shanyuan
+	rotate: false
+	xy: 436, 484
+	size: 36, 28
+	orig: 36, 28
+	offset: 0, 0
+	index: -1
+a_Lfoot_shanyuan
+	rotate: false
+	xy: 348, 428
+	size: 46, 29
+	orig: 46, 29
+	offset: 0, 0
+	index: -1
+j_Lfoot_shanyuan
+	rotate: false
+	xy: 399, 484
+	size: 36, 28
+	orig: 36, 28
+	offset: 0, 0
+	index: -1
+b_Rshin_shanyuan
+	rotate: true
+	xy: 399, 364
+	size: 55, 75
+	orig: 55, 75
+	offset: 0, 0
+	index: -1
+l_Rhand_shanyuan
+	rotate: true
+	xy: 475, 371
+	size: 47, 37
+	orig: 47, 37
+	offset: 0, 0
+	index: -1
+q_Rshin_shanyuan
+	rotate: false
+	xy: 274, 404
+	size: 73, 53
+	orig: 73, 53
+	offset: 0, 0
+	index: -1
+n_head_shanyuan
+	rotate: false
+	xy: 273, 316
+	size: 76, 87
+	orig: 76, 87
+	offset: 0, 0
+	index: -1
+k_body_shanyuan
+	rotate: false
+	xy: 0, 316
+	size: 124, 141
+	orig: 124, 141
+	offset: 0, 0
+	index: -1
+n_body_shanyuan
+	rotate: false
+	xy: 0, 155
+	size: 123, 160
+	orig: 123, 160
+	offset: 0, 0
+	index: -1
+c_head_shanyuan
+	rotate: false
+	xy: 124, 155
+	size: 79, 99
+	orig: 79, 99
+	offset: 0, 0
+	index: -1
+m_Lshin_shanyuan
+	rotate: true
+	xy: 350, 304
+	size: 84, 48
+	orig: 84, 48
+	offset: 0, 0
+	index: -1
+f_Larm_shanyuan
+	rotate: false
+	xy: 125, 411
+	size: 88, 46
+	orig: 88, 46
+	offset: 0, 0
+	index: -1
+a_Rforearm_shanyuan
+	rotate: true
+	xy: 399, 420
+	size: 63, 78
+	orig: 63, 78
+	offset: 0, 0
+	index: -1
+m_Lfoot_shanyuan
+	rotate: false
+	xy: 367, 458
+	size: 31, 53
+	orig: 31, 53
+	offset: 0, 0
+	index: -1
+h_head_shanyuan
+	rotate: false
+	xy: 204, 147
+	size: 94, 99
+	orig: 94, 99
+	offset: 0, 0
+	index: -1
+i_body_shanyuan
+	rotate: false
+	xy: 398, 0
+	size: 114, 148
+	orig: 114, 148
+	offset: 0, 0
+	index: -1
+j_body_b_shanyuan
+	rotate: false
+	xy: 490, 149
+	size: 21, 59
+	orig: 21, 59
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

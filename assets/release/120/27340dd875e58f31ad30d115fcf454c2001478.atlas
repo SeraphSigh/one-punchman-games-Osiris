@@ -1,0 +1,295 @@
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0001
+	rotate: true
+	xy: 639, 329
+	size: 98, 27
+	orig: 280, 73
+	offset: 89, 18
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0010
+	rotate: false
+	xy: 836, 891
+	size: 188, 63
+	orig: 280, 73
+	offset: 43, 7
+	index: -1
+global/a_global_texiao34_shenhaiwang_0009
+	rotate: false
+	xy: 840, 0
+	size: 184, 63
+	orig: 280, 73
+	offset: 46, 7
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0005
+	rotate: false
+	xy: 846, 78
+	size: 178, 59
+	orig: 280, 73
+	offset: 49, 9
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0011
+	rotate: false
+	xy: 799, 224
+	size: 190, 65
+	orig: 280, 73
+	offset: 42, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0012
+	rotate: false
+	xy: 400, 305
+	size: 192, 65
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0013
+	rotate: false
+	xy: 799, 290
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0014
+	rotate: false
+	xy: 593, 319
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 5
+	index: -1
+global/a_global_texiao34_shenhaiwang_0007
+	rotate: false
+	xy: 370, 519
+	size: 182, 61
+	orig: 280, 73
+	offset: 47, 8
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0003
+	rotate: false
+	xy: 276, 251
+	size: 156, 53
+	orig: 280, 73
+	offset: 59, 11
+	index: -1
+global/a_global_texiao34_shenhaiwang_0002
+	rotate: false
+	xy: 889, 238
+	size: 126, 47
+	orig: 280, 73
+	offset: 71, 12
+	index: -1
+
+asset/anim/quandoumorenSE.png
+size: 708,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quandoumoren_b_00024
+	rotate: false
+	xy: 355, 91
+	size: 218, 70
+	orig: 286, 128
+	offset: 42, 22
+	index: -1
+quandoumoren_b_00025
+	rotate: false
+	xy: 355, 162
+	size: 208, 68
+	orig: 286, 128
+	offset: 52, 22
+	index: -1
+quandoumoren_b_00026
+	rotate: true
+	xy: 506, 231
+	size: 178, 64
+	orig: 286, 128
+	offset: 82, 26
+	index: -1
+quandoumoren_b_00027
+	rotate: false
+	xy: 364, 803
+	size: 92, 56
+	orig: 286, 128
+	offset: 168, 32
+	index: -1
+quandoumoren_b_00020
+	rotate: false
+	xy: 356, 510
+	size: 114, 76
+	orig: 286, 128
+	offset: 42, 52
+	index: -1
+quandoumoren_b_00022
+	rotate: false
+	xy: 0, 361
+	size: 218, 100
+	orig: 286, 128
+	offset: 42, 22
+	index: -1
+quandoumoren_b_00023
+	rotate: false
+	xy: 355, 0
+	size: 218, 90
+	orig: 286, 128
+	offset: 42, 22
+	index: -1
+quandoumoren_yan_00028
+	rotate: true
+	xy: 497, 928
+	size: 96, 80
+	orig: 180, 128
+	offset: 18, 21
+	index: -1
+quandoumoren_yan_00024
+	rotate: true
+	xy: 245, 605
+	size: 136, 124
+	orig: 180, 128
+	offset: 17, 1
+	index: -1
+quandoumoren_yan_00025
+	rotate: false
+	xy: 574, 87
+	size: 132, 104
+	orig: 180, 128
+	offset: 20, 1
+	index: -1
+quandoumoren_yan_00026
+	rotate: false
+	xy: 219, 361
+	size: 130, 100
+	orig: 180, 128
+	offset: 17, 2
+	index: -1
+quandoumoren_yan_00027
+	rotate: true
+	xy: 367, 860
+	size: 106, 80
+	orig: 180, 128
+	offset: 16, 21
+	index: -1
+quandoumoren_yan_00020
+	rotate: true
+	xy: 237, 462
+	size: 142, 118
+	orig: 180, 128
+	offset: 33, 10
+	index: -1
+quandoumoren_yan_00021
+	rotate: false
+	xy: 355, 231
+	size: 150, 124
+	orig: 180, 128
+	offset: 23, 3
+	index: -1
+quandoumoren_yan_00022
+	rotate: true
+	xy: 116, 649
+	size: 142, 128
+	orig: 180, 128
+	offset: 21, 0
+	index: -1
+quandoumoren_yan_00023
+	rotate: false
+	xy: 113, 889
+	size: 138, 128
+	orig: 180, 128
+	offset: 19, 0
+	index: -1
+quandoumoren_shanggouquan_00031
+	rotate: false
+	xy: 355, 356
+	size: 132, 36
+	orig: 200, 64
+	offset: 67, 16
+	index: -1
+quandoumoren_shanggouquan_00030
+	rotate: true
+	xy: 67, 683
+	size: 196, 48
+	orig: 200, 64
+	offset: 4, 9
+	index: -1
+quandoumoren_shanggouquan_00033
+	rotate: false
+	xy: 611, 926
+	size: 68, 28
+	orig: 200, 64
+	offset: 132, 26
+	index: -1
+quandoumoren_shanggouquan_00032
+	rotate: true
+	xy: 578, 928
+	size: 90, 32
+	orig: 200, 64
+	offset: 110, 21
+	index: -1
+quandoumoren_shanggouquan_00035
+	rotate: true
+	xy: 700, 826
+	size: 14, 8
+	orig: 200, 64
+	offset: 176, 39
+	index: -1
+quandoumoren_shanggouquan_00034
+	rotate: false
+	xy: 67, 880
+	size: 40, 16
+	orig: 200, 64
+	offset: 160, 33
+	index: -1
+quandoumoren_shanggouquan_00028
+	rotate: false
+	xy: 479, 800
+	size: 114, 30
+	orig: 200, 64
+	offset: 9, 22
+	index: -1
+quandoumoren_shanggouquan_00029
+	rotate: false
+	xy: 479, 761
+	size: 156, 38
+	orig: 200, 64
+	offset: 6, 15
+	index: -1
+quandoumoren_yan_00019
+	rotate: false
+	xy: 116, 792
+	size: 130, 96
+	orig: 180, 128
+	offset: 50, 29
+	index: -1
+quandoumoren_yan_00030
+	rotate: false
+	xy: 71, 649
+	size: 36, 26
+	orig: 180, 128
+	offset: 24, 21
+	index: -1

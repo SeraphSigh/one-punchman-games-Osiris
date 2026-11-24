@@ -1,0 +1,340 @@
+
+asset/anim/zhushijuehaibao32.png
+size: 1019,930
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_longtouxiae1_jienuosihaibao3
+	rotate: false
+	xy: 935, 143
+	size: 84, 70
+	orig: 84, 70
+	offset: 0, 0
+	index: -1
+b_gunzi_jienuosihaibao3
+	rotate: false
+	xy: 134, 358
+	size: 58, 375
+	orig: 58, 375
+	offset: 0, 0
+	index: -1
+b_zuoxiuzi_jienuosihaibao3
+	rotate: false
+	xy: 914, 705
+	size: 54, 74
+	orig: 54, 74
+	offset: 0, 0
+	index: -1
+b_longxu1_jienuosihaibao3
+	rotate: true
+	xy: 0, 358
+	size: 345, 133
+	orig: 345, 133
+	offset: 0, 0
+	index: -1
+b_weijin1_jienuosihaibao3
+	rotate: false
+	xy: 685, 739
+	size: 64, 117
+	orig: 64, 117
+	offset: 0, 0
+	index: -1
+b_youtui1_jienuosihaibao3
+	rotate: false
+	xy: 811, 808
+	size: 77, 60
+	orig: 77, 60
+	offset: 0, 0
+	index: -1
+b_yifu_jienuosihaibao3
+	rotate: false
+	xy: 936, 0
+	size: 83, 142
+	orig: 83, 142
+	offset: 0, 0
+	index: -1
+b_youbi_jienuosihaibao3
+	rotate: false
+	xy: 714, 872
+	size: 83, 58
+	orig: 83, 58
+	offset: 0, 0
+	index: -1
+b_tou1_jienuosihaibao3
+	rotate: false
+	xy: 933, 780
+	size: 54, 73
+	orig: 54, 73
+	offset: 0, 0
+	index: -1
+b_yifu1_jienuosihaibao3
+	rotate: false
+	xy: 145, 770
+	size: 113, 153
+	orig: 113, 153
+	offset: 0, 0
+	index: -1
+b_zuotui1_jienuosihaibao3
+	rotate: false
+	xy: 854, 106
+	size: 80, 185
+	orig: 80, 185
+	offset: 0, 0
+	index: -1
+b_youjiao_jienuosihaibao3
+	rotate: false
+	xy: 787, 633
+	size: 46, 87
+	orig: 46, 87
+	offset: 0, 0
+	index: -1
+b_zuobi1_jienuosihaibao3
+	rotate: true
+	xy: 785, 531
+	size: 101, 47
+	orig: 101, 47
+	offset: 0, 0
+	index: -1
+b_kuzi_jienuosihaibao3
+	rotate: true
+	xy: 603, 636
+	size: 105, 69
+	orig: 105, 69
+	offset: 0, 0
+	index: -1
+b_zuotui_jienuosihaibao3
+	rotate: false
+	xy: 662, 266
+	size: 100, 163
+	orig: 100, 163
+	offset: 0, 0
+	index: -1
+b_longtou_jienuosihaibao3
+	rotate: true
+	xy: 679, 572
+	size: 95, 105
+	orig: 95, 105
+	offset: 0, 0
+	index: -1
+b_longtou4_jienuosihaibao3
+	rotate: true
+	xy: 425, 271
+	size: 220, 162
+	orig: 220, 162
+	offset: 0, 0
+	index: -1
+b_longxu_jienuosihaibao3
+	rotate: false
+	xy: 488, 744
+	size: 119, 126
+	orig: 119, 126
+	offset: 0, 0
+	index: -1
+b_longtouxiae3_jienuosihaibao3
+	rotate: true
+	xy: 315, 276
+	size: 262, 109
+	orig: 262, 109
+	offset: 0, 0
+	index: -1
+b_zuojiao_jienuosihaibao3
+	rotate: true
+	xy: 833, 441
+	size: 87, 92
+	orig: 87, 92
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushijuehaibao30.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_toufa6_jienuosihaibao3
+	rotate: false
+	xy: 129, 563
+	size: 50, 32
+	orig: 50, 32
+	offset: 0, 0
+	index: -1
+b_toufa2_jienuosihaibao3
+	rotate: true
+	xy: 507, 631
+	size: 16, 31
+	orig: 16, 31
+	offset: 0, 0
+	index: -1
+b_zuobi_jienuosihaibao3
+	rotate: true
+	xy: 547, 722
+	size: 67, 52
+	orig: 67, 52
+	offset: 0, 0
+	index: -1
+b_longshen3_jienuosihaibao3
+	rotate: true
+	xy: 776, 0
+	size: 355, 244
+	orig: 355, 244
+	offset: 0, 0
+	index: -1
+b_longtou1_jienuosihaibao3
+	rotate: false
+	xy: 945, 790
+	size: 79, 88
+	orig: 79, 88
+	offset: 0, 0
+	index: -1
+b_zuoshou_jienuosihaibao3
+	rotate: false
+	xy: 129, 512
+	size: 50, 50
+	orig: 50, 50
+	offset: 0, 0
+	index: -1
+b_zuobi2_jienuosihaibao3
+	rotate: true
+	xy: 0, 1014
+	size: 10, 7
+	orig: 10, 7
+	offset: 0, 0
+	index: -1
+b_longshen1_jienuosihaibao3
+	rotate: false
+	xy: 180, 287
+	size: 561, 318
+	orig: 561, 318
+	offset: 0, 0
+	index: -1
+b_youbi1_jienuosihaibao3
+	rotate: false
+	xy: 129, 356
+	size: 50, 102
+	orig: 50, 102
+	offset: 0, 0
+	index: -1
+b_toufa4_jienuosihaibao3
+	rotate: false
+	xy: 445, 606
+	size: 31, 41
+	orig: 31, 41
+	offset: 0, 0
+	index: -1
+b_weibo_jienuosihaibao3
+	rotate: true
+	xy: 742, 484
+	size: 72, 32
+	orig: 72, 32
+	offset: 0, 0
+	index: -1
+b_longtou3_jienuosihaibao3
+	rotate: false
+	xy: 277, 790
+	size: 425, 234
+	orig: 425, 234
+	offset: 0, 0
+	index: -1
+b_toufa7_jienuosihaibao3
+	rotate: false
+	xy: 945, 979
+	size: 24, 45
+	orig: 24, 45
+	offset: 0, 0
+	index: -1
+b_toufa5_jienuosihaibao3
+	rotate: false
+	xy: 477, 606
+	size: 29, 41
+	orig: 29, 41
+	offset: 0, 0
+	index: -1
+b_youbi2_jienuosihaibao3
+	rotate: true
+	xy: 38, 1014
+	size: 9, 7
+	orig: 9, 7
+	offset: 0, 0
+	index: -1
+b_longtou2_jienuosihaibao3
+	rotate: false
+	xy: 600, 710
+	size: 113, 78
+	orig: 113, 78
+	offset: 0, 0
+	index: -1
+b_youtui_jienuosihaibao3
+	rotate: true
+	xy: 547, 606
+	size: 103, 192
+	orig: 103, 192
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushijuehaibao31.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_youshou_jienuosihaibao3
+	rotate: false
+	xy: 985, 740
+	size: 37, 52
+	orig: 37, 52
+	offset: 0, 0
+	index: -1
+b_toufa8_jienuosihaibao3
+	rotate: false
+	xy: 992, 968
+	size: 20, 45
+	orig: 20, 45
+	offset: 0, 0
+	index: -1
+b_longshen2_jienuosihaibao3
+	rotate: false
+	xy: 615, 320
+	size: 296, 321
+	orig: 296, 321
+	offset: 0, 0
+	index: -1
+b_longshetou_jienuosihaibao3
+	rotate: false
+	xy: 912, 493
+	size: 111, 72
+	orig: 111, 72
+	offset: 0, 0
+	index: -1
+b_toufa1_jienuosihaibao3
+	rotate: false
+	xy: 156, 997
+	size: 34, 23
+	orig: 34, 23
+	offset: 0, 0
+	index: -1
+b_toufa3_jienuosihaibao3
+	rotate: false
+	xy: 427, 989
+	size: 15, 28
+	orig: 15, 28
+	offset: 0, 0
+	index: -1
+b_longtouxiae_jienuosihaibao3
+	rotate: false
+	xy: 668, 862
+	size: 234, 162
+	orig: 234, 162
+	offset: 0, 0
+	index: -1
+b_longshen_jienuosihaibao3
+	rotate: false
+	xy: 212, 551
+	size: 288, 437
+	orig: 288, 437
+	offset: 0, 0
+	index: -1
+b_neiyi_jienuosihaibao3
+	rotate: false
+	xy: 912, 566
+	size: 110, 173
+	orig: 110, 173
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,696 @@
+
+asset/anim/dabeitouxia0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_Lthigh_dabeitouxia
+	rotate: false
+	xy: 228, 383
+	size: 46, 58
+	orig: 46, 58
+	offset: 0, 0
+	index: -1
+k_Rshin_dabeitouxia
+	rotate: true
+	xy: 163, 239
+	size: 79, 56
+	orig: 79, 56
+	offset: 0, 0
+	index: -1
+g_Lshin_dabeitouxia
+	rotate: false
+	xy: 404, 0
+	size: 59, 42
+	orig: 59, 42
+	offset: 0, 0
+	index: -1
+a_zui2_dabeitouxia
+	rotate: false
+	xy: 93, 225
+	size: 14, 12
+	orig: 14, 12
+	offset: 0, 0
+	index: -1
+i_Rfoot_dabeitouxia
+	rotate: false
+	xy: 175, 92
+	size: 32, 28
+	orig: 32, 28
+	offset: 0, 0
+	index: -1
+a_Lforearm_dabeitouxia
+	rotate: true
+	xy: 330, 227
+	size: 24, 37
+	orig: 24, 37
+	offset: 0, 0
+	index: -1
+i_Lforearm_dabeitouxia
+	rotate: false
+	xy: 404, 238
+	size: 52, 31
+	orig: 52, 31
+	offset: 0, 0
+	index: -1
+a_Lfoot_dabeitouxia
+	rotate: false
+	xy: 132, 94
+	size: 42, 26
+	orig: 42, 26
+	offset: 0, 0
+	index: -1
+l_Larm_dabeitouxia
+	rotate: false
+	xy: 182, 442
+	size: 48, 66
+	orig: 48, 66
+	offset: 0, 0
+	index: -1
+c_Rarm_dabeitouxia
+	rotate: false
+	xy: 459, 192
+	size: 53, 43
+	orig: 53, 43
+	offset: 0, 0
+	index: -1
+g_Larm_dabeitouxia
+	rotate: false
+	xy: 145, 442
+	size: 36, 67
+	orig: 36, 67
+	offset: 0, 0
+	index: -1
+i_Larm_dabeitouxia
+	rotate: true
+	xy: 284, 182
+	size: 55, 45
+	orig: 55, 45
+	offset: 0, 0
+	index: -1
+c_Rhand_dabeitouxia
+	rotate: false
+	xy: 163, 319
+	size: 33, 22
+	orig: 33, 22
+	offset: 0, 0
+	index: -1
+d_Rarm_dabeitouxia
+	rotate: false
+	xy: 373, 118
+	size: 30, 51
+	orig: 30, 51
+	offset: 0, 0
+	index: -1
+a_Rhand_dabeitouxia
+	rotate: false
+	xy: 341, 381
+	size: 24, 30
+	orig: 24, 30
+	offset: 0, 0
+	index: -1
+l_Rarm_dabeitouxia
+	rotate: false
+	xy: 275, 380
+	size: 34, 61
+	orig: 34, 61
+	offset: 0, 0
+	index: -1
+f_Lforearm_dabeitouxia
+	rotate: true
+	xy: 458, 236
+	size: 31, 53
+	orig: 31, 53
+	offset: 0, 0
+	index: -1
+a_yanpi2_dabeitouxia
+	rotate: false
+	xy: 108, 225
+	size: 18, 10
+	orig: 18, 10
+	offset: 0, 0
+	index: -1
+f_body_dabeitouxia
+	rotate: false
+	xy: 0, 121
+	size: 82, 117
+	orig: 82, 117
+	offset: 0, 0
+	index: -1
+g_body_dabeitouxia
+	rotate: false
+	xy: 0, 351
+	size: 79, 111
+	orig: 79, 111
+	offset: 0, 0
+	index: -1
+a_Rfoot_dabeitouxia
+	rotate: true
+	xy: 340, 317
+	size: 31, 29
+	orig: 31, 29
+	offset: 0, 0
+	index: -1
+g_Rarm_dabeitouxia
+	rotate: false
+	xy: 462, 98
+	size: 50, 52
+	orig: 50, 52
+	offset: 0, 0
+	index: -1
+a_Lshin_dabeitouxia
+	rotate: false
+	xy: 231, 442
+	size: 29, 62
+	orig: 29, 62
+	offset: 0, 0
+	index: -1
+g_Rhand_dabeitouxia
+	rotate: false
+	xy: 161, 212
+	size: 29, 26
+	orig: 29, 26
+	offset: 0, 0
+	index: -1
+i_Rhand_dabeitouxia
+	rotate: true
+	xy: 341, 349
+	size: 31, 27
+	orig: 31, 27
+	offset: 0, 0
+	index: -1
+f_Lhand_dabeitouxia
+	rotate: false
+	xy: 321, 441
+	size: 27, 29
+	orig: 27, 29
+	offset: 0, 0
+	index: -1
+g_head_dabeitouxia
+	rotate: false
+	xy: 164, 0
+	size: 79, 91
+	orig: 79, 91
+	offset: 0, 0
+	index: -1
+c_Lhand_dabeitouxia
+	rotate: true
+	xy: 369, 349
+	size: 29, 24
+	orig: 29, 24
+	offset: 0, 0
+	index: -1
+k_Rforearm_dabeitouxia
+	rotate: true
+	xy: 373, 61
+	size: 56, 30
+	orig: 56, 30
+	offset: 0, 0
+	index: -1
+g_Rthigh_dabeitouxia
+	rotate: true
+	xy: 101, 444
+	size: 68, 43
+	orig: 68, 43
+	offset: 0, 0
+	index: -1
+c_Rforearm_dabeitouxia
+	rotate: false
+	xy: 321, 280
+	size: 44, 36
+	orig: 44, 36
+	offset: 0, 0
+	index: -1
+l_Rhand_dabeitouxia
+	rotate: false
+	xy: 347, 412
+	size: 27, 27
+	orig: 27, 27
+	offset: 0, 0
+	index: -1
+g_Lforearm_dabeitouxia
+	rotate: true
+	xy: 69, 463
+	size: 49, 31
+	orig: 49, 31
+	offset: 0, 0
+	index: -1
+k_body_dabeitouxia
+	rotate: false
+	xy: 80, 239
+	size: 82, 103
+	orig: 82, 103
+	offset: 0, 0
+	index: -1
+i_Rshin_dabeitouxia
+	rotate: true
+	xy: 404, 154
+	size: 40, 54
+	orig: 40, 54
+	offset: 0, 0
+	index: -1
+i_Rthigh_dabeitouxia
+	rotate: true
+	xy: 404, 195
+	size: 42, 53
+	orig: 42, 53
+	offset: 0, 0
+	index: -1
+a_Larm_dabeitouxia
+	rotate: true
+	xy: 404, 43
+	size: 31, 59
+	orig: 31, 59
+	offset: 0, 0
+	index: -1
+a_Rshin_dabeitouxia
+	rotate: false
+	xy: 331, 121
+	size: 39, 54
+	orig: 39, 54
+	offset: 0, 0
+	index: -1
+i_Lhand_dabeitouxia
+	rotate: false
+	xy: 368, 249
+	size: 34, 27
+	orig: 34, 27
+	offset: 0, 0
+	index: -1
+l_body_dabeitouxia
+	rotate: false
+	xy: 83, 121
+	size: 77, 103
+	orig: 77, 103
+	offset: 0, 0
+	index: -1
+f_Rarm_dabeitouxia
+	rotate: true
+	xy: 404, 111
+	size: 42, 55
+	orig: 42, 55
+	offset: 0, 0
+	index: -1
+d_Lforearm_dabeitouxia
+	rotate: true
+	xy: 84, 94
+	size: 26, 47
+	orig: 26, 47
+	offset: 0, 0
+	index: -1
+g_Rshin_dabeitouxia
+	rotate: true
+	xy: 263, 82
+	size: 38, 62
+	orig: 38, 62
+	offset: 0, 0
+	index: -1
+k_Lforearm_dabeitouxia
+	rotate: false
+	xy: 464, 0
+	size: 47, 27
+	orig: 47, 27
+	offset: 0, 0
+	index: -1
+a_yanpi3_dabeitouxia
+	rotate: false
+	xy: 127, 225
+	size: 14, 9
+	orig: 14, 9
+	offset: 0, 0
+	index: -1
+k_Larm_dabeitouxia
+	rotate: true
+	xy: 228, 318
+	size: 64, 43
+	orig: 64, 43
+	offset: 0, 0
+	index: -1
+f_head_dabeitouxia
+	rotate: false
+	xy: 244, 0
+	size: 79, 81
+	orig: 79, 81
+	offset: 0, 0
+	index: -1
+a_Rmeimao
+	rotate: true
+	xy: 370, 307
+	size: 27, 25
+	orig: 27, 25
+	offset: 0, 0
+	index: -1
+i_Rarm_dabeitouxia
+	rotate: true
+	xy: 274, 121
+	size: 60, 56
+	orig: 60, 56
+	offset: 0, 0
+	index: -1
+g_Rhand1_dabeitouxia
+	rotate: false
+	xy: 310, 413
+	size: 36, 27
+	orig: 36, 27
+	offset: 0, 0
+	index: -1
+e_Rarm_dabeitouxia
+	rotate: true
+	xy: 310, 368
+	size: 44, 30
+	orig: 44, 30
+	offset: 0, 0
+	index: -1
+k_Rhand_dabeitouxia
+	rotate: false
+	xy: 254, 211
+	size: 29, 25
+	orig: 29, 25
+	offset: 0, 0
+	index: -1
+i_Rforearm_dabeitouxia
+	rotate: true
+	xy: 371, 214
+	size: 34, 32
+	orig: 34, 32
+	offset: 0, 0
+	index: -1
+a_Rforearm_dabeitouxia
+	rotate: true
+	xy: 371, 170
+	size: 43, 32
+	orig: 43, 32
+	offset: 0, 0
+	index: -1
+a_Lhand_dabeitouxia
+	rotate: true
+	xy: 197, 319
+	size: 22, 30
+	orig: 22, 30
+	offset: 0, 0
+	index: -1
+a_Rarm_dabeitouxia
+	rotate: false
+	xy: 272, 318
+	size: 36, 61
+	orig: 36, 61
+	offset: 0, 0
+	index: -1
+e_Rforearm_dabeitouxia
+	rotate: true
+	xy: 403, 270
+	size: 29, 51
+	orig: 29, 51
+	offset: 0, 0
+	index: -1
+f_Larm_dabeitouxia
+	rotate: true
+	xy: 253, 238
+	size: 61, 55
+	orig: 61, 55
+	offset: 0, 0
+	index: -1
+l_Lforearm_dabeitouxia
+	rotate: false
+	xy: 367, 277
+	size: 33, 29
+	orig: 33, 29
+	offset: 0, 0
+	index: -1
+d_Rforearm_dabeitouxia
+	rotate: true
+	xy: 464, 28
+	size: 35, 46
+	orig: 35, 46
+	offset: 0, 0
+	index: -1
+e_Rhand_dabeitouxia
+	rotate: false
+	xy: 236, 92
+	size: 26, 28
+	orig: 26, 28
+	offset: 0, 0
+	index: -1
+k_Rthigh_dabeitouxia
+	rotate: false
+	xy: 261, 442
+	size: 59, 61
+	orig: 59, 61
+	offset: 0, 0
+	index: -1
+a_yanpi1_dabeitouxia
+	rotate: true
+	xy: 240, 188
+	size: 22, 17
+	orig: 22, 17
+	offset: 0, 0
+	index: -1
+c_Lforearm_dabeitouxia
+	rotate: true
+	xy: 219, 212
+	size: 25, 34
+	orig: 25, 34
+	offset: 0, 0
+	index: -1
+g_head2_dabeitouxia
+	rotate: false
+	xy: 142, 343
+	size: 85, 98
+	orig: 85, 98
+	offset: 0, 0
+	index: -1
+a_body_dabeitouxia
+	rotate: false
+	xy: 0, 239
+	size: 79, 111
+	orig: 79, 111
+	offset: 0, 0
+	index: -1
+g_head1_dabeitouxia
+	rotate: false
+	xy: 84, 0
+	size: 79, 93
+	orig: 79, 93
+	offset: 0, 0
+	index: -1
+l_Rforearm_dabeitouxia
+	rotate: false
+	xy: 404, 75
+	size: 57, 35
+	orig: 57, 35
+	offset: 0, 0
+	index: -1
+d_Lhand_dabeitouxia
+	rotate: false
+	xy: 191, 212
+	size: 27, 26
+	orig: 27, 26
+	offset: 0, 0
+	index: -1
+a_coxa_dabeitouxia
+	rotate: true
+	xy: 370, 0
+	size: 60, 33
+	orig: 60, 33
+	offset: 0, 0
+	index: -1
+g_Lhand_dabeitouxia
+	rotate: true
+	xy: 208, 92
+	size: 28, 27
+	orig: 28, 27
+	offset: 0, 0
+	index: -1
+l_Lhand_dabeitouxia
+	rotate: true
+	xy: 366, 381
+	size: 29, 25
+	orig: 29, 25
+	offset: 0, 0
+	index: -1
+a_Lthigh_dabeitouxia
+	rotate: true
+	xy: 460, 151
+	size: 40, 52
+	orig: 40, 52
+	offset: 0, 0
+	index: -1
+i_coxa_dabeitouxia
+	rotate: true
+	xy: 240, 121
+	size: 66, 33
+	orig: 66, 33
+	offset: 0, 0
+	index: -1
+a_Lmeimao
+	rotate: false
+	xy: 253, 300
+	size: 21, 17
+	orig: 21, 17
+	offset: 0, 0
+	index: -1
+i_body_dabeitouxia
+	rotate: false
+	xy: 0, 0
+	size: 83, 120
+	orig: 83, 120
+	offset: 0, 0
+	index: -1
+a_yanp4_dabeitouxia
+	rotate: true
+	xy: 83, 225
+	size: 13, 9
+	orig: 13, 9
+	offset: 0, 0
+	index: -1
+gedangcanying_dabeitouxia
+	rotate: false
+	xy: 80, 343
+	size: 61, 100
+	orig: 61, 100
+	offset: 0, 0
+	index: -1
+g_Rfoot_dabeitouxia
+	rotate: false
+	xy: 321, 252
+	size: 45, 27
+	orig: 45, 27
+	offset: 0, 0
+	index: -1
+a_Rthigh_dabeitouxia
+	rotate: false
+	xy: 37, 463
+	size: 31, 49
+	orig: 31, 49
+	offset: 0, 0
+	index: -1
+g_coxa_dabeitouxia
+	rotate: true
+	xy: 0, 463
+	size: 49, 36
+	orig: 49, 36
+	offset: 0, 0
+	index: -1
+g_Rforearm_dabeitouxia
+	rotate: true
+	xy: 457, 268
+	size: 31, 51
+	orig: 31, 51
+	offset: 0, 0
+	index: -1
+d_Larm_dabeitouxia
+	rotate: true
+	xy: 324, 0
+	size: 65, 45
+	orig: 65, 45
+	offset: 0, 0
+	index: -1
+f_Rforearm_dabeitouxia
+	rotate: false
+	xy: 309, 317
+	size: 30, 50
+	orig: 30, 50
+	offset: 0, 0
+	index: -1
+k_Rfoot_dabeitouxia
+	rotate: false
+	xy: 464, 64
+	size: 45, 33
+	orig: 45, 33
+	offset: 0, 0
+	index: -1
+k_coxa_dabeitouxia
+	rotate: true
+	xy: 331, 176
+	size: 50, 39
+	orig: 50, 39
+	offset: 0, 0
+	index: -1
+a_head_dabeitouxia
+	rotate: false
+	xy: 161, 121
+	size: 78, 90
+	orig: 78, 90
+	offset: 0, 0
+	index: -1
+c_Larm_dabeitouxia
+	rotate: true
+	xy: 326, 66
+	size: 54, 46
+	orig: 54, 46
+	offset: 0, 0
+	index: -1
+k_Rarm_dabeitouxia
+	rotate: true
+	xy: 220, 238
+	size: 79, 32
+	orig: 79, 32
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

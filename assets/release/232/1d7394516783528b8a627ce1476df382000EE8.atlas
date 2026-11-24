@@ -1,0 +1,204 @@
+
+asset/anim/tianxinjiamianSECOMMON1.png
+size: 487,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tianxinjiamian_jineng_dibaodian_12
+	rotate: false
+	xy: 0, 331
+	size: 186, 112
+	orig: 186, 112
+	offset: 0, 0
+	index: -1
+common/tianxinjiamian_jineng_dibaodian_15
+	rotate: true
+	xy: 0, 0
+	size: 330, 183
+	orig: 330, 183
+	offset: 0, 0
+	index: -1
+common/tianxinjiamian_jineng_dibaodian_16
+	rotate: false
+	xy: 187, 0
+	size: 243, 162
+	orig: 245, 162
+	offset: 2, 0
+	index: -1
+
+asset/anim/tianxinjiamianSECOMMON0.png
+size: 487,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tianxinjiamian_jineng_shandian14
+	rotate: false
+	xy: 440, 482
+	size: 25, 22
+	orig: 25, 22
+	offset: 0, 0
+	index: -1
+common/tianxinjiamian_jineng_shandian13
+	rotate: false
+	xy: 190, 454
+	size: 28, 39
+	orig: 28, 39
+	offset: 0, 0
+	index: -1
+common/tianxinjiamian_jineng_shandian12
+	rotate: true
+	xy: 466, 482
+	size: 20, 21
+	orig: 20, 21
+	offset: 0, 0
+	index: -1
+common/tianxinjiamian_jineng_shandian16
+	rotate: true
+	xy: 190, 494
+	size: 18, 25
+	orig: 18, 25
+	offset: 0, 0
+	index: -1
+common/tianxinjiamian_jineng_shandian15
+	rotate: false
+	xy: 440, 449
+	size: 41, 32
+	orig: 41, 32
+	offset: 0, 0
+	index: -1
+common/tianxinjiamian_jineng_shandian17
+	rotate: false
+	xy: 220, 384
+	size: 33, 33
+	orig: 33, 33
+	offset: 0, 0
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/tianxinjiamianSESKILL0.png
+size: 1021,1002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/tianxinjiamian_jineng_shouguijiA_14
+	rotate: true
+	xy: 779, 864
+	size: 128, 122
+	orig: 128, 122
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_shouguijiA_15
+	rotate: true
+	xy: 533, 703
+	size: 117, 114
+	orig: 117, 114
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_shouguijiA_12
+	rotate: true
+	xy: 394, 824
+	size: 167, 134
+	orig: 167, 134
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_shouguijiA_13
+	rotate: true
+	xy: 584, 864
+	size: 138, 127
+	orig: 138, 127
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_shouguijiA_10
+	rotate: true
+	xy: 448, 693
+	size: 130, 84
+	orig: 130, 84
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_shouguijiA_11
+	rotate: true
+	xy: 448, 556
+	size: 136, 87
+	orig: 136, 87
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_quanquanA_14
+	rotate: true
+	xy: 529, 824
+	size: 154, 54
+	orig: 154, 54
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_quanquanA_15
+	rotate: false
+	xy: 648, 768
+	size: 152, 59
+	orig: 152, 59
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_quanquanA_11
+	rotate: true
+	xy: 712, 828
+	size: 124, 66
+	orig: 124, 66
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_quanquanA_12
+	rotate: false
+	xy: 874, 272
+	size: 145, 78
+	orig: 145, 78
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_quanquanA_13
+	rotate: false
+	xy: 648, 703
+	size: 153, 64
+	orig: 153, 64
+	offset: 0, 0
+	index: -1
+
+asset/anim/jiangshinanSECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tianxinjiamian_jineng_dibaodian_13
+	rotate: false
+	xy: 0, 211
+	size: 367, 207
+	orig: 367, 207
+	offset: 0, 0
+	index: -1
+common/tianxinjiamian_jineng_dibaodian_14
+	rotate: false
+	xy: 0, 0
+	size: 367, 210
+	orig: 367, 210
+	offset: 0, 0
+	index: -1
+
+asset/anim/jiangshinanSECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tianxinjiamian_jineng_dibaodian_17
+	rotate: false
+	xy: 278, 0
+	size: 264, 163
+	orig: 264, 163
+	offset: 0, 0
+	index: -1

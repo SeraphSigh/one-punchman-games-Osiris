@@ -1,0 +1,230 @@
+
+asset/anim/tulongkapai.png
+size: 256,904
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_youshou5_tulongkapai
+	rotate: false
+	xy: 134, 704
+	size: 19, 85
+	orig: 19, 85
+	offset: 0, 0
+	index: -1
+a_zuodabi_tulongkapai
+	rotate: false
+	xy: 172, 683
+	size: 84, 88
+	orig: 84, 88
+	offset: 0, 0
+	index: -1
+a_youyan_tulongkapai
+	rotate: true
+	xy: 150, 390
+	size: 30, 29
+	orig: 30, 29
+	offset: 0, 0
+	index: -1
+a_zuoxiayanpi_tulongkapai
+	rotate: true
+	xy: 228, 218
+	size: 35, 27
+	orig: 35, 27
+	offset: 0, 0
+	index: -1
+a_youshou2_tulongkapai
+	rotate: false
+	xy: 134, 445
+	size: 41, 86
+	orig: 41, 86
+	offset: 0, 0
+	index: -1
+a_shenti_tulongkapai
+	rotate: true
+	xy: 0, 82
+	size: 159, 227
+	orig: 159, 227
+	offset: 0, 0
+	index: -1
+a_youshou4_tulongkapai
+	rotate: false
+	xy: 134, 565
+	size: 40, 48
+	orig: 40, 48
+	offset: 0, 0
+	index: -1
+a_youshou6_tulongkapai
+	rotate: true
+	xy: 180, 290
+	size: 23, 68
+	orig: 23, 68
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi_tulongkapai
+	rotate: false
+	xy: 180, 350
+	size: 63, 82
+	orig: 63, 82
+	offset: 0, 0
+	index: -1
+a_youdatui_tulongkapai
+	rotate: false
+	xy: 175, 570
+	size: 78, 112
+	orig: 78, 112
+	offset: 0, 0
+	index: -1
+a_youshou3_tulongkapai
+	rotate: true
+	xy: 176, 530
+	size: 39, 80
+	orig: 39, 80
+	offset: 0, 0
+	index: -1
+a_youshangyanpi_tulongkapai
+	rotate: false
+	xy: 134, 614
+	size: 40, 32
+	orig: 40, 32
+	offset: 0, 0
+	index: -1
+a_zuoshou1_tulongkapai
+	rotate: true
+	xy: 180, 314
+	size: 35, 67
+	orig: 35, 67
+	offset: 0, 0
+	index: -1
+a_youshou1_tulongkapai
+	rotate: false
+	xy: 134, 647
+	size: 37, 56
+	orig: 37, 56
+	offset: 0, 0
+	index: -1
+a_zuoshou5_tulongkapai
+	rotate: true
+	xy: 107, 852
+	size: 48, 54
+	orig: 48, 54
+	offset: 0, 0
+	index: -1
+a_zuoshang4_tulongkapai
+	rotate: true
+	xy: 180, 254
+	size: 35, 76
+	orig: 35, 76
+	offset: 0, 0
+	index: -1
+a_zuoyan_tulongkapai
+	rotate: true
+	xy: 228, 180
+	size: 37, 27
+	orig: 37, 27
+	offset: 0, 0
+	index: -1
+a_youxiayanpi_tulongkapai
+	rotate: false
+	xy: 150, 421
+	size: 26, 23
+	orig: 26, 23
+	offset: 0, 0
+	index: -1
+a_shitou_tulongkapai
+	rotate: true
+	xy: 0, 439
+	size: 412, 133
+	orig: 412, 133
+	offset: 0, 0
+	index: -1
+a_weiba_tulongkapai
+	rotate: true
+	xy: 63, 852
+	size: 51, 43
+	orig: 51, 43
+	offset: 0, 0
+	index: -1
+a_shitou2_tulongkapai
+	rotate: false
+	xy: 0, 0
+	size: 234, 81
+	orig: 234, 81
+	offset: 0, 0
+	index: -1
+a_youxiaobi_tulongkapai
+	rotate: true
+	xy: 0, 852
+	size: 52, 62
+	orig: 52, 62
+	offset: 0, 0
+	index: -1
+a_youdabi_tulongkapai
+	rotate: true
+	xy: 162, 772
+	size: 87, 92
+	orig: 87, 92
+	offset: 0, 0
+	index: -1
+a_youyanjing_tulongkapai
+	rotate: false
+	xy: 180, 242
+	size: 5, 6
+	orig: 5, 6
+	offset: 0, 0
+	index: -1
+a_zuodatui_tulongkapai
+	rotate: false
+	xy: 177, 433
+	size: 79, 96
+	orig: 79, 96
+	offset: 0, 0
+	index: -1
+a_zuoshou2_tulongkapai
+	rotate: false
+	xy: 235, 0
+	size: 20, 84
+	orig: 20, 84
+	offset: 0, 0
+	index: -1
+a_zuoshang3_tulongkapai
+	rotate: false
+	xy: 228, 85
+	size: 28, 94
+	orig: 28, 94
+	offset: 0, 0
+	index: -1
+a_tou_tulongkapai
+	rotate: true
+	xy: 0, 242
+	size: 147, 179
+	orig: 147, 179
+	offset: 0, 0
+	index: -1
+a_huzi_tulongkapai
+	rotate: false
+	xy: 0, 390
+	size: 149, 48
+	orig: 149, 48
+	offset: 0, 0
+	index: -1
+a_zuoyanjing_tulongkapai
+	rotate: false
+	xy: 186, 242
+	size: 5, 5
+	orig: 5, 5
+	offset: 0, 0
+	index: -1
+a_zuoshou_tulongkapai
+	rotate: true
+	xy: 162, 860
+	size: 44, 43
+	orig: 44, 43
+	offset: 0, 0
+	index: -1
+a_zuoshangyanpi_tulongkapai
+	rotate: false
+	xy: 134, 532
+	size: 41, 32
+	orig: 41, 32
+	offset: 0, 0
+	index: -1

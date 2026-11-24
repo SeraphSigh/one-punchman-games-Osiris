@@ -1,0 +1,34 @@
+
+asset/anim/yinyoudagu0.png
+size: 511,667
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yougujia
+	rotate: false
+	xy: 253, 460
+	size: 129, 102
+	orig: 129, 102
+	offset: 0, 0
+	index: -1
+yougu
+	rotate: false
+	xy: 278, 343
+	size: 121, 116
+	orig: 121, 116
+	offset: 0, 0
+	index: -1
+zuogujia
+	rotate: false
+	xy: 122, 454
+	size: 130, 102
+	orig: 130, 102
+	offset: 0, 0
+	index: -1
+zuogu
+	rotate: false
+	xy: 0, 454
+	size: 121, 116
+	orig: 121, 116
+	offset: 0, 0
+	index: -1

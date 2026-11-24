@@ -1,0 +1,214 @@
+
+asset/anim/siwangjiatelinSECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/siwangjiatelin_yanwu02_10
+	rotate: true
+	xy: 975, 467
+	size: 124, 47
+	orig: 132, 59
+	offset: 3, 6
+	index: -1
+common/siwangjiatelin_yanwu02_7
+	rotate: true
+	xy: 975, 346
+	size: 120, 49
+	orig: 132, 59
+	offset: 6, 6
+	index: -1
+common/siwangjiatelin_yanwu02_1
+	rotate: false
+	xy: 419, 980
+	size: 114, 41
+	orig: 132, 59
+	offset: 7, 7
+	index: -1
+
+asset/anim/siwangjiatelinSECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/siwangjiatelin_yanwu02_12
+	rotate: false
+	xy: 0, 971
+	size: 124, 47
+	orig: 132, 59
+	offset: 4, 6
+	index: -1
+common/siwangjiatelin_yanwu02_13
+	rotate: false
+	xy: 125, 971
+	size: 124, 47
+	orig: 132, 59
+	offset: 4, 6
+	index: -1
+common/siwangjiatelin_heibeijing1
+	rotate: false
+	xy: 743, 658
+	size: 45, 25
+	orig: 45, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/siwangjiatelinSECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/siwangjiatelin_yanwu02_23
+	rotate: false
+	xy: 0, 406
+	size: 122, 47
+	orig: 132, 59
+	offset: 6, 6
+	index: -1
+common/siwangjiatelin_yanwu02_22
+	rotate: false
+	xy: 0, 358
+	size: 122, 47
+	orig: 132, 59
+	offset: 5, 6
+	index: -1
+common/siwangjiatelin_yanwu02_21
+	rotate: false
+	xy: 0, 310
+	size: 122, 47
+	orig: 132, 59
+	offset: 5, 6
+	index: -1
+common/siwangjiatelin_yanwu02_20
+	rotate: false
+	xy: 0, 262
+	size: 122, 47
+	orig: 132, 59
+	offset: 6, 6
+	index: -1
+common/siwangjiatelin_yanwu02_26
+	rotate: true
+	xy: 430, 646
+	size: 122, 45
+	orig: 132, 59
+	offset: 6, 7
+	index: -1
+common/siwangjiatelin_yanwu02_25
+	rotate: false
+	xy: 384, 769
+	size: 122, 45
+	orig: 132, 59
+	offset: 6, 7
+	index: -1
+common/siwangjiatelin_yanwu02_24
+	rotate: true
+	xy: 384, 646
+	size: 122, 45
+	orig: 132, 59
+	offset: 6, 7
+	index: -1
+common/siwangjiatelin_dimianguangyun_1
+	rotate: true
+	xy: 347, 306
+	size: 85, 43
+	orig: 85, 43
+	offset: 0, 0
+	index: -1
+common/siwangjiatelin_yanwu02_16
+	rotate: true
+	xy: 650, 490
+	size: 124, 47
+	orig: 132, 59
+	offset: 4, 6
+	index: -1
+common/siwangjiatelin_yanwu02_17
+	rotate: false
+	xy: 525, 538
+	size: 124, 47
+	orig: 132, 59
+	offset: 4, 6
+	index: -1
+common/siwangjiatelin_yanwu02_14
+	rotate: false
+	xy: 152, 214
+	size: 124, 47
+	orig: 132, 59
+	offset: 4, 6
+	index: -1
+common/siwangjiatelin_yanwu02_15
+	rotate: false
+	xy: 525, 490
+	size: 124, 47
+	orig: 132, 59
+	offset: 4, 6
+	index: -1
+common/siwangjiatelin_yanwu02_11
+	rotate: false
+	xy: 283, 974
+	size: 124, 47
+	orig: 132, 59
+	offset: 4, 6
+	index: -1
+common/siwangjiatelin_yanwu02_18
+	rotate: false
+	xy: 525, 586
+	size: 124, 47
+	orig: 132, 59
+	offset: 4, 6
+	index: -1
+common/siwangjiatelin_yanwu02_19
+	rotate: false
+	xy: 0, 214
+	size: 122, 47
+	orig: 132, 59
+	offset: 6, 6
+	index: -1
+common/siwangjiatelin_yanwu02_8
+	rotate: false
+	xy: 384, 550
+	size: 122, 47
+	orig: 132, 59
+	offset: 4, 6
+	index: -1
+common/siwangjiatelin_yanwu02_9
+	rotate: false
+	xy: 384, 598
+	size: 122, 47
+	orig: 132, 59
+	offset: 4, 6
+	index: -1
+common/siwangjiatelin_yanwu02_4
+	rotate: false
+	xy: 408, 262
+	size: 120, 47
+	orig: 132, 59
+	offset: 5, 6
+	index: -1
+common/siwangjiatelin_yanwu02_5
+	rotate: false
+	xy: 408, 310
+	size: 120, 47
+	orig: 132, 59
+	offset: 5, 6
+	index: -1
+common/siwangjiatelin_yanwu02_6
+	rotate: false
+	xy: 408, 358
+	size: 120, 47
+	orig: 132, 59
+	offset: 6, 6
+	index: -1
+common/siwangjiatelin_yanwu02_2
+	rotate: false
+	xy: 408, 406
+	size: 118, 45
+	orig: 132, 59
+	offset: 6, 7
+	index: -1
+common/siwangjiatelin_yanwu02_3
+	rotate: false
+	xy: 408, 214
+	size: 120, 47
+	orig: 132, 59
+	offset: 5, 6
+	index: -1

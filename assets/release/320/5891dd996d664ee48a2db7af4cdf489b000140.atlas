@@ -1,0 +1,20 @@
+
+asset/anim/yehuofuleimuMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yehuo_juexing_bg2_00024
+	rotate: false
+	xy: 0, 0
+	size: 712, 640
+	orig: 712, 640
+	offset: 0, 0
+	index: -1
+max/hei
+	rotate: false
+	xy: 1002, 0
+	size: 17, 15
+	orig: 17, 15
+	offset: 0, 0
+	index: -1

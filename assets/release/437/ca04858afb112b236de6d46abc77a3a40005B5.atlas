@@ -1,0 +1,89 @@
+
+asset/anim/boluosiASESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/xingyanhuoblsa0008
+	rotate: true
+	xy: 993, 959
+	size: 51, 25
+	orig: 93, 35
+	offset: 42, 3
+	index: -1
+skill/xingyanhuoblsa0009
+	rotate: true
+	xy: 705, 962
+	size: 45, 23
+	orig: 93, 35
+	offset: 48, 4
+	index: -1
+skill/xingyanhuoblsa0003
+	rotate: false
+	xy: 932, 448
+	size: 85, 35
+	orig: 93, 35
+	offset: 6, 0
+	index: -1
+skill/blsaxianczhi
+	rotate: true
+	xy: 993, 765
+	size: 193, 29
+	orig: 193, 29
+	offset: 0, 0
+	index: -1
+skill/xingyanhuoblsa0001
+	rotate: true
+	xy: 264, 929
+	size: 89, 35
+	orig: 93, 35
+	offset: 0, 0
+	index: -1
+skill/xingyanhuoblsa0002
+	rotate: true
+	xy: 264, 929
+	size: 89, 35
+	orig: 93, 35
+	offset: 0, 0
+	index: -1
+skill/xingyanhuoblsa0010
+	rotate: true
+	xy: 433, 471
+	size: 15, 21
+	orig: 93, 35
+	offset: 78, 5
+	index: -1
+skill/xingyanhuoblsa0006
+	rotate: false
+	xy: 923, 765
+	size: 57, 31
+	orig: 93, 35
+	offset: 36, 0
+	index: -1
+skill/xingyanhuoblsa0007
+	rotate: true
+	xy: 993, 959
+	size: 51, 25
+	orig: 93, 35
+	offset: 42, 3
+	index: -1
+
+asset/anim/boluosiASESKILL1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/xingyanhuoblsa0004
+	rotate: false
+	xy: 661, 623
+	size: 79, 35
+	orig: 93, 35
+	offset: 13, 0
+	index: -1
+skill/xingyanhuoblsa0005
+	rotate: true
+	xy: 0, 954
+	size: 69, 33
+	orig: 93, 35
+	offset: 24, 0
+	index: -1

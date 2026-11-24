@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>zi_yanjiutudakaiimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{458,40}</string>
+                <key>spriteSourceSize</key>
+                <string>{458,40}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{458,40}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>yanjiutudakaiimage0.png</string>
+            <key>size</key>
+            <string>{458,40}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:309be53cd10b1cbd2ddcc3f71a34f7a8:dac2507dc288ef06b15b2510182893e0:a2a0f5b60c4e7d2076ce16ffe7e4b29c$</string>
+            <key>textureFileName</key>
+            <string>yanjiutudakaiimage0.png</string>
+        </dict>
+    </dict>
+</plist>

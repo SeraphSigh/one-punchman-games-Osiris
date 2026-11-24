@@ -1,0 +1,40 @@
+
+asset/anim/wugongxuezhangSE3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xuezhangnuhou_00035
+	rotate: false
+	xy: 540, 0
+	size: 267, 178
+	orig: 279, 178
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhangSE2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xuezhangnuhou_00034
+	rotate: true
+	xy: 196, 704
+	size: 279, 178
+	orig: 279, 178
+	offset: 0, 0
+	index: -1
+xuezhangnuhou_00032
+	rotate: true
+	xy: 847, 704
+	size: 269, 176
+	orig: 279, 178
+	offset: 0, 2
+	index: -1
+xuezhangnuhou_00033
+	rotate: false
+	xy: 557, 797
+	size: 257, 176
+	orig: 279, 178
+	offset: 0, 2
+	index: -1

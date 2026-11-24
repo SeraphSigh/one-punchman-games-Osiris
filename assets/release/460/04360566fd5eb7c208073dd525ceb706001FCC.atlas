@@ -1,0 +1,522 @@
+
+asset/anim/jurendi2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j_zuoxiaobi_jurendi
+	rotate: false
+	xy: 0, 0
+	size: 138, 138
+	orig: 138, 138
+	offset: 0, 0
+	index: -1
+b_zuoxiaobi_jurendi
+	rotate: false
+	xy: 139, 0
+	size: 89, 100
+	orig: 89, 100
+	offset: 0, 0
+	index: -1
+h_youxiaobi_jurendi
+	rotate: true
+	xy: 85, 139
+	size: 103, 100
+	orig: 103, 100
+	offset: 0, 0
+	index: -1
+b_youshou_jurendi
+	rotate: true
+	xy: 186, 101
+	size: 98, 97
+	orig: 98, 97
+	offset: 0, 0
+	index: -1
+c_youshou_jurendi
+	rotate: true
+	xy: 102, 384
+	size: 103, 102
+	orig: 103, 102
+	offset: 0, 0
+	index: -1
+a_zuoshou_jurendi
+	rotate: true
+	xy: 201, 286
+	size: 83, 82
+	orig: 83, 82
+	offset: 0, 0
+	index: -1
+d_youshou_jurendi
+	rotate: true
+	xy: 103, 243
+	size: 99, 97
+	orig: 99, 97
+	offset: 0, 0
+	index: -1
+e_youshou_jurendi
+	rotate: false
+	xy: 0, 278
+	size: 102, 105
+	orig: 102, 105
+	offset: 0, 0
+	index: -1
+d_zuoshou_jurendi
+	rotate: true
+	xy: 201, 200
+	size: 85, 83
+	orig: 85, 83
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi_jurendi
+	rotate: true
+	xy: 0, 139
+	size: 138, 84
+	orig: 138, 84
+	offset: 0, 0
+	index: -1
+b_zuoshou_jurendi
+	rotate: true
+	xy: 229, 0
+	size: 93, 80
+	orig: 93, 80
+	offset: 0, 0
+	index: -1
+k_zuoshou_jurendi
+	rotate: false
+	xy: 0, 384
+	size: 101, 105
+	orig: 101, 105
+	offset: 0, 0
+	index: -1
+
+asset/anim/jurendi0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_zuodabi_jurendi
+	rotate: false
+	xy: 672, 136
+	size: 128, 179
+	orig: 128, 179
+	offset: 0, 0
+	index: -1
+j_youxiaobi_jurendi
+	rotate: false
+	xy: 836, 0
+	size: 183, 135
+	orig: 183, 135
+	offset: 0, 0
+	index: -1
+h_youshou_jurendi
+	rotate: false
+	xy: 836, 936
+	size: 99, 88
+	orig: 99, 88
+	offset: 0, 0
+	index: -1
+e_zuodabi_jurendi
+	rotate: false
+	xy: 644, 820
+	size: 191, 200
+	orig: 191, 200
+	offset: 0, 0
+	index: -1
+b_shenti_jurendi
+	rotate: false
+	xy: 666, 509
+	size: 298, 302
+	orig: 298, 302
+	offset: 0, 0
+	index: -1
+e_zuoshou_jurendi
+	rotate: false
+	xy: 936, 936
+	size: 86, 81
+	orig: 86, 81
+	offset: 0, 0
+	index: -1
+h_kuabu_jurendi
+	rotate: true
+	xy: 173, 842
+	size: 181, 312
+	orig: 181, 312
+	offset: 0, 0
+	index: -1
+d_zuodabi_jurendi
+	rotate: true
+	xy: 421, 318
+	size: 192, 130
+	orig: 192, 130
+	offset: 0, 0
+	index: -1
+d_kuabu_jurendi
+	rotate: true
+	xy: 676, 316
+	size: 190, 252
+	orig: 190, 252
+	offset: 0, 0
+	index: -1
+j_youdabi_jurendi
+	rotate: true
+	xy: 801, 136
+	size: 178, 208
+	orig: 178, 208
+	offset: 0, 0
+	index: -1
+j_shenti_jurendi
+	rotate: false
+	xy: 149, 515
+	size: 282, 326
+	orig: 282, 326
+	offset: 0, 0
+	index: -1
+i_youshou_jurendi
+	rotate: true
+	xy: 929, 400
+	size: 106, 93
+	orig: 106, 93
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui_jurendi
+	rotate: true
+	xy: 965, 663
+	size: 71, 39
+	orig: 71, 39
+	offset: 0, 0
+	index: -1
+a_tou2_jurendi
+	rotate: false
+	xy: 486, 820
+	size: 157, 204
+	orig: 157, 204
+	offset: 0, 0
+	index: -1
+g_zuodabi_jurendi
+	rotate: true
+	xy: 254, 318
+	size: 192, 166
+	orig: 192, 166
+	offset: 0, 0
+	index: -1
+pic_jurenditu_05
+	rotate: true
+	xy: 505, 0
+	size: 315, 166
+	orig: 315, 166
+	offset: 0, 0
+	index: -1
+pic_jurenditu_03
+	rotate: false
+	xy: 0, 515
+	size: 148, 349
+	orig: 148, 349
+	offset: 0, 0
+	index: -1
+j_zuoshou_jurendi
+	rotate: true
+	xy: 929, 315
+	size: 84, 94
+	orig: 84, 94
+	offset: 0, 0
+	index: -1
+a_shangyanpi_jurendi
+	rotate: false
+	xy: 965, 639
+	size: 42, 23
+	orig: 42, 23
+	offset: 0, 0
+	index: -1
+f_Rarm225_jurdidi
+	rotate: true
+	xy: 836, 812
+	size: 123, 178
+	orig: 123, 178
+	offset: 0, 0
+	index: -1
+d_youxiaobi_jurendi
+	rotate: true
+	xy: 672, 0
+	size: 129, 144
+	orig: 129, 144
+	offset: 0, 0
+	index: -1
+f_body_jurendi
+	rotate: false
+	xy: 432, 511
+	size: 233, 308
+	orig: 233, 308
+	offset: 0, 0
+	index: -1
+b_youdabiqian_jurendi
+	rotate: false
+	xy: 965, 507
+	size: 56, 63
+	orig: 56, 63
+	offset: 0, 0
+	index: -1
+c_zuoxiaobi_jurendi
+	rotate: true
+	xy: 965, 571
+	size: 67, 47
+	orig: 67, 47
+	offset: 0, 0
+	index: -1
+a_coxa_jurendi
+	rotate: true
+	xy: 552, 316
+	size: 192, 123
+	orig: 192, 123
+	offset: 0, 0
+	index: -1
+i_shenti_jurendi
+	rotate: false
+	xy: 0, 0
+	size: 253, 514
+	orig: 253, 514
+	offset: 0, 0
+	index: -1
+f_coxa_jurendi
+	rotate: true
+	xy: 0, 865
+	size: 159, 172
+	orig: 159, 172
+	offset: 0, 0
+	index: -1
+a_shenti_jurendi
+	rotate: false
+	xy: 254, 0
+	size: 250, 317
+	orig: 250, 317
+	offset: 0, 0
+	index: -1
+a_xiayanpi_jurendi
+	rotate: false
+	xy: 432, 820
+	size: 44, 21
+	orig: 44, 21
+	offset: 0, 0
+	index: -1
+
+asset/anim/jurendi1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_zuodabi_jurendi
+	rotate: false
+	xy: 844, 826
+	size: 150, 103
+	orig: 150, 103
+	offset: 0, 0
+	index: -1
+j_youshou_jurendi
+	rotate: true
+	xy: 679, 0
+	size: 103, 106
+	orig: 103, 106
+	offset: 0, 0
+	index: -1
+e_zuoxiaobi_jurendi
+	rotate: false
+	xy: 822, 514
+	size: 157, 78
+	orig: 157, 78
+	offset: 0, 0
+	index: -1
+c_youdabi_jurendi
+	rotate: false
+	xy: 822, 593
+	size: 156, 114
+	orig: 156, 114
+	offset: 0, 0
+	index: -1
+a_youdabi_jurendi
+	rotate: false
+	xy: 538, 791
+	size: 156, 229
+	orig: 156, 229
+	offset: 0, 0
+	index: -1
+j_kuabu_jurendi
+	rotate: false
+	xy: 477, 554
+	size: 197, 236
+	orig: 197, 236
+	offset: 0, 0
+	index: -1
+e_youxiaobi_jurendi
+	rotate: false
+	xy: 807, 407
+	size: 164, 106
+	orig: 164, 106
+	offset: 0, 0
+	index: -1
+a_zuodatui_jurendi
+	rotate: false
+	xy: 826, 247
+	size: 166, 159
+	orig: 166, 159
+	offset: 0, 0
+	index: -1
+c_youxiaobi_jurendi
+	rotate: false
+	xy: 807, 0
+	size: 174, 135
+	orig: 174, 135
+	offset: 0, 0
+	index: -1
+a_zuodabi_jurendi
+	rotate: false
+	xy: 269, 879
+	size: 118, 141
+	orig: 118, 141
+	offset: 0, 0
+	index: -1
+g_zuoxiabi_jurendi
+	rotate: true
+	xy: 695, 791
+	size: 90, 106
+	orig: 90, 106
+	offset: 0, 0
+	index: -1
+b_youdabi_jurendi
+	rotate: false
+	xy: 679, 136
+	size: 146, 128
+	orig: 146, 128
+	offset: 0, 0
+	index: -1
+e_youdabi_jurendi
+	rotate: false
+	xy: 480, 270
+	size: 167, 214
+	orig: 167, 214
+	offset: 0, 0
+	index: -1
+a_tou_jurendi
+	rotate: false
+	xy: 648, 270
+	size: 158, 197
+	orig: 158, 197
+	offset: 0, 0
+	index: -1
+a_youxiaobi_jurendi
+	rotate: false
+	xy: 113, 879
+	size: 155, 141
+	orig: 155, 141
+	offset: 0, 0
+	index: -1
+a_youshou_jurendi
+	rotate: true
+	xy: 844, 930
+	size: 93, 105
+	orig: 93, 105
+	offset: 0, 0
+	index: -1
+b_kuabu_jurendi
+	rotate: false
+	xy: 215, 0
+	size: 249, 282
+	orig: 249, 282
+	offset: 0, 0
+	index: -1
+a_youdatui_jurendi
+	rotate: false
+	xy: 675, 554
+	size: 146, 158
+	orig: 146, 158
+	offset: 0, 0
+	index: -1
+i_youdabi_jurendi
+	rotate: true
+	xy: 0, 879
+	size: 142, 112
+	orig: 142, 112
+	offset: 0, 0
+	index: -1
+c_kuabu_jurendi
+	rotate: false
+	xy: 0, 0
+	size: 214, 298
+	orig: 214, 298
+	offset: 0, 0
+	index: -1
+d_youdabi_jurendi
+	rotate: true
+	xy: 388, 814
+	size: 198, 149
+	orig: 198, 149
+	offset: 0, 0
+	index: -1
+j_zuodabi_jurendi
+	rotate: false
+	xy: 695, 882
+	size: 148, 140
+	orig: 148, 140
+	offset: 0, 0
+	index: -1
+h_shenti_jurendi
+	rotate: false
+	xy: 230, 283
+	size: 249, 270
+	orig: 249, 270
+	offset: 0, 0
+	index: -1
+d_zuoxiaobi_jurendi
+	rotate: true
+	xy: 675, 713
+	size: 77, 91
+	orig: 77, 91
+	offset: 0, 0
+	index: -1
+d_shenti_jurendi
+	rotate: false
+	xy: 0, 597
+	size: 270, 281
+	orig: 270, 281
+	offset: 0, 0
+	index: -1
+i_kuabu_jurendi
+	rotate: false
+	xy: 271, 554
+	size: 205, 259
+	orig: 205, 259
+	offset: 0, 0
+	index: -1
+g_zuoshou_jurendi
+	rotate: true
+	xy: 822, 708
+	size: 117, 153
+	orig: 117, 153
+	offset: 0, 0
+	index: -1
+b_youxiaobi_jurendi
+	rotate: false
+	xy: 648, 468
+	size: 138, 85
+	orig: 138, 85
+	offset: 0, 0
+	index: -1
+c_shenti_jurendi
+	rotate: false
+	xy: 0, 299
+	size: 229, 297
+	orig: 229, 297
+	offset: 0, 0
+	index: -1
+f_kuabu_jurendi
+	rotate: false
+	xy: 465, 0
+	size: 213, 269
+	orig: 213, 269
+	offset: 0, 0
+	index: -1
+h_youdabi_jurendi
+	rotate: false
+	xy: 826, 136
+	size: 168, 110
+	orig: 168, 110
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,76 @@
+
+asset/anim/didirenCkapai.png
+size: 729,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuodatui_didirenCkapai
+	rotate: false
+	xy: 0, 340
+	size: 118, 169
+	orig: 118, 169
+	offset: 0, 0
+	index: -1
+youxiaobi_didirenCkapai
+	rotate: true
+	xy: 495, 299
+	size: 211, 127
+	orig: 211, 127
+	offset: 0, 0
+	index: -1
+shenti_didirenCkapai
+	rotate: false
+	xy: 0, 0
+	size: 254, 339
+	orig: 254, 339
+	offset: 0, 0
+	index: -1
+zuodabi_didirenCkapai
+	rotate: false
+	xy: 317, 299
+	size: 177, 212
+	orig: 177, 212
+	offset: 0, 0
+	index: -1
+youdatui_didirenCkapai
+	rotate: false
+	xy: 396, 109
+	size: 180, 189
+	orig: 180, 189
+	offset: 0, 0
+	index: -1
+youxiaotui_didirenCkapai
+	rotate: true
+	xy: 119, 340
+	size: 163, 197
+	orig: 163, 197
+	offset: 0, 0
+	index: -1
+zuoxiaotui_didirenCkapai
+	rotate: false
+	xy: 623, 266
+	size: 101, 220
+	orig: 101, 220
+	offset: 0, 0
+	index: -1
+youdabi_didirenCkapai
+	rotate: true
+	xy: 495, 0
+	size: 108, 222
+	orig: 108, 222
+	offset: 0, 0
+	index: -1
+tou_didirenCkapai
+	rotate: false
+	xy: 577, 109
+	size: 152, 156
+	orig: 152, 156
+	offset: 0, 0
+	index: -1
+zuoxiaobi_didirenCkapai
+	rotate: false
+	xy: 255, 0
+	size: 140, 298
+	orig: 140, 298
+	offset: 0, 0
+	index: -1

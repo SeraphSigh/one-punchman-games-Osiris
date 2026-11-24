@@ -1,0 +1,357 @@
+
+asset/anim/qudongqishiATTACK1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/qudongqishi_actshoujishandian_12
+	rotate: false
+	xy: 0, 0
+	size: 130, 108
+	orig: 216, 198
+	offset: 36, 14
+	index: -1
+attack/qudongqishi_actshoujishandian_14
+	rotate: false
+	xy: 131, 0
+	size: 124, 112
+	orig: 216, 198
+	offset: 37, 22
+	index: -1
+attack/qudongqishi_actshoujishandian_1
+	rotate: false
+	xy: 0, 109
+	size: 128, 118
+	orig: 216, 198
+	offset: 11, 15
+	index: -1
+
+asset/anim/qudongqishiATTACK0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/qudongqishi_actshoujishandian_10
+	rotate: true
+	xy: 0, 165
+	size: 184, 162
+	orig: 216, 198
+	offset: 31, 12
+	index: -1
+attack/qudongqishi_actshoujishandian_5
+	rotate: true
+	xy: 163, 344
+	size: 164, 168
+	orig: 216, 198
+	offset: 12, 8
+	index: -1
+attack/qudongqishi_actshoujishandian_4
+	rotate: true
+	xy: 344, 0
+	size: 128, 120
+	orig: 216, 198
+	offset: 26, 12
+	index: -1
+attack/qudongqishi_actshoujishandian_7
+	rotate: true
+	xy: 181, 0
+	size: 188, 162
+	orig: 216, 198
+	offset: 20, 17
+	index: -1
+attack/qudongqishi_actshoujishandian_6
+	rotate: false
+	xy: 344, 129
+	size: 120, 126
+	orig: 216, 198
+	offset: 34, 22
+	index: -1
+attack/qudongqishi_actshoujishandian_3
+	rotate: false
+	xy: 332, 344
+	size: 134, 116
+	orig: 216, 198
+	offset: 27, 9
+	index: -1
+attack/qudongqishi_actshoujishandian_2
+	rotate: false
+	xy: 0, 350
+	size: 150, 162
+	orig: 216, 198
+	offset: 9, 0
+	index: -1
+attack/qudongqishi_actshoujishandian_9
+	rotate: false
+	xy: 163, 189
+	size: 180, 154
+	orig: 216, 198
+	offset: 36, 20
+	index: -1
+attack/qudongqishi_actshoujishandian_8
+	rotate: false
+	xy: 0, 0
+	size: 180, 164
+	orig: 216, 198
+	offset: 34, 10
+	index: -1
+
+asset/anim/qudongqishiCOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/qudongqishi_zhutidaoguang_2
+	rotate: false
+	xy: 0, 0
+	size: 553, 282
+	orig: 559, 298
+	offset: 3, 15
+	index: -1
+common/qudongqishi_shandian1_5
+	rotate: false
+	xy: 649, 535
+	size: 368, 115
+	orig: 474, 161
+	offset: 50, 25
+	index: -1
+common/qudongqishi_zhutidaoguang_4
+	rotate: false
+	xy: 554, 0
+	size: 465, 286
+	orig: 559, 298
+	offset: 86, 8
+	index: -1
+common/qudongqishi_zhutidaoguang_5
+	rotate: true
+	xy: 0, 570
+	size: 451, 288
+	orig: 559, 298
+	offset: 93, 6
+	index: -1
+common/qudongqishi_guangyun_1
+	rotate: true
+	xy: 751, 949
+	size: 74, 70
+	orig: 74, 70
+	offset: 0, 0
+	index: -1
+common/qudongqishi_zhutidaoguang_3
+	rotate: false
+	xy: 0, 283
+	size: 543, 286
+	orig: 559, 298
+	offset: 13, 11
+	index: -1
+common/qudongqishi_shandian1_11
+	rotate: false
+	xy: 1020, 0
+	size: 3, 3
+	orig: 474, 161
+	offset: 0, 158
+	index: -1
+common/qudongqishi_shandian1_10
+	rotate: true
+	xy: 434, 570
+	size: 446, 117
+	orig: 474, 161
+	offset: 13, 17
+	index: -1
+common/qudongqishi_kejiquan1_3
+	rotate: false
+	xy: 649, 651
+	size: 89, 58
+	orig: 101, 78
+	offset: 5, 13
+	index: -1
+
+asset/anim/qudongqishiCOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/qudongqishi_shandian1_8
+	rotate: false
+	xy: 597, 839
+	size: 424, 131
+	orig: 474, 161
+	offset: 15, 15
+	index: -1
+common/qudongqishi_shandian1_4
+	rotate: false
+	xy: 585, 337
+	size: 340, 117
+	orig: 474, 161
+	offset: 13, 25
+	index: -1
+common/qudongqishi_shandian1_6
+	rotate: false
+	xy: 597, 455
+	size: 424, 133
+	orig: 474, 161
+	offset: 18, 16
+	index: -1
+common/qudongqishi_zhutidaoguang_8
+	rotate: false
+	xy: 0, 147
+	size: 395, 260
+	orig: 559, 298
+	offset: 137, 18
+	index: -1
+common/qudongqishi_shandian1_12
+	rotate: true
+	xy: 294, 411
+	size: 430, 129
+	orig: 474, 161
+	offset: 20, 0
+	index: -1
+common/qudongqishi_kejiquan1_4
+	rotate: false
+	xy: 895, 779
+	size: 91, 56
+	orig: 101, 78
+	offset: 3, 18
+	index: -1
+common/qudongqishi_kejiquan1_7
+	rotate: false
+	xy: 770, 971
+	size: 93, 52
+	orig: 101, 78
+	offset: 4, 26
+	index: -1
+common/qudongqishi_kejiquan1_1
+	rotate: false
+	xy: 926, 411
+	size: 45, 42
+	orig: 101, 78
+	offset: 28, 1
+	index: -1
+common/qudongqishi_kejiquan1_2
+	rotate: true
+	xy: 747, 262
+	size: 67, 48
+	orig: 101, 78
+	offset: 17, 7
+	index: -1
+
+asset/anim/qudongqishiCOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/qudongqishi_shandian1_9
+	rotate: false
+	xy: 0, 0
+	size: 420, 123
+	orig: 474, 161
+	offset: 18, 19
+	index: -1
+common/qudongqishi_shandian1_1
+	rotate: true
+	xy: 0, 768
+	size: 256, 113
+	orig: 474, 161
+	offset: 0, 33
+	index: -1
+common/qudongqishi_shandian1_7
+	rotate: false
+	xy: 421, 0
+	size: 418, 133
+	orig: 474, 161
+	offset: 11, 15
+	index: -1
+common/qudongqishi_zhutidaoguang_6
+	rotate: false
+	xy: 0, 124
+	size: 415, 272
+	orig: 559, 298
+	offset: 118, 11
+	index: -1
+common/qudongqishi_kejiquan1_6
+	rotate: true
+	xy: 969, 768
+	size: 93, 54
+	orig: 101, 78
+	offset: 3, 23
+	index: -1
+common/qudongqishi_kejiquan1_9
+	rotate: false
+	xy: 576, 979
+	size: 93, 44
+	orig: 101, 78
+	offset: 4, 34
+	index: -1
+common/qudongqishi_kejiquan1_8
+	rotate: false
+	xy: 318, 642
+	size: 93, 48
+	orig: 101, 78
+	offset: 4, 30
+	index: -1
+
+asset/anim/qudongqishiCOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/qudongqishi_zhutidaoguang_9
+	rotate: false
+	xy: 0, 521
+	size: 395, 252
+	orig: 559, 298
+	offset: 134, 23
+	index: -1
+common/qudongqishi_kejiquan1_5
+	rotate: false
+	xy: 534, 714
+	size: 91, 54
+	orig: 101, 78
+	offset: 4, 21
+	index: -1
+common/qudongqishi_zhutidaoguang_10
+	rotate: false
+	xy: 0, 774
+	size: 385, 248
+	orig: 559, 298
+	offset: 133, 27
+	index: -1
+
+asset/anim/qudongqishiCOMMON4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/qudongqishi_shandian1_3
+	rotate: false
+	xy: 392, 241
+	size: 344, 123
+	orig: 474, 161
+	offset: 11, 22
+	index: -1
+common/qudongqishi_shandian1_2
+	rotate: false
+	xy: 700, 529
+	size: 318, 121
+	orig: 474, 161
+	offset: 0, 20
+	index: -1
+common/qudongqishi_zhutidaoguang_7
+	rotate: false
+	xy: 0, 0
+	size: 391, 264
+	orig: 559, 298
+	offset: 142, 15
+	index: -1
+common/qudongqishi_zhutidaoguang_1
+	rotate: false
+	xy: 374, 365
+	size: 325, 196
+	orig: 559, 298
+	offset: 3, 95
+	index: -1
+common/qudongqishi_shandian1_13
+	rotate: false
+	xy: 0, 265
+	size: 340, 105
+	orig: 474, 161
+	offset: 107, 4
+	index: -1

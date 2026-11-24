@@ -1,0 +1,255 @@
+
+asset/anim/leiguangyuanshiSE2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lgys_atk_dian_00001
+	rotate: true
+	xy: 90, 409
+	size: 70, 67
+	orig: 216, 105
+	offset: 0, 11
+	index: -1
+lgys_atk_dian_00000
+	rotate: true
+	xy: 88, 563
+	size: 70, 65
+	orig: 216, 105
+	offset: 1, 9
+	index: -1
+lgys_atk_dian_00002
+	rotate: false
+	xy: 243, 495
+	size: 84, 69
+	orig: 216, 105
+	offset: 0, 9
+	index: -1
+lgys_atk_dian_00023
+	rotate: false
+	xy: 870, 188
+	size: 140, 97
+	orig: 216, 105
+	offset: 71, 2
+	index: -1
+lgys_atk_dian_00020
+	rotate: false
+	xy: 872, 0
+	size: 146, 97
+	orig: 216, 105
+	offset: 68, 4
+	index: -1
+lgys_atk_dian_00027
+	rotate: false
+	xy: 156, 492
+	size: 86, 77
+	orig: 216, 105
+	offset: 111, 16
+	index: -1
+lgys_atk_dian_00026
+	rotate: false
+	xy: 554, 294
+	size: 138, 97
+	orig: 216, 105
+	offset: 68, 0
+	index: -1
+lgys_atk_dian_00024
+	rotate: false
+	xy: 713, 222
+	size: 140, 97
+	orig: 216, 105
+	offset: 68, 3
+	index: -1
+lgys_atk_dian_00015
+	rotate: false
+	xy: 554, 222
+	size: 158, 71
+	orig: 216, 105
+	offset: 33, 15
+	index: -1
+lgys_atk_dian_00005
+	rotate: true
+	xy: 90, 480
+	size: 82, 65
+	orig: 216, 105
+	offset: 19, 15
+	index: -1
+lgys_atk_dian_00016
+	rotate: false
+	xy: 0, 317
+	size: 158, 91
+	orig: 216, 105
+	offset: 35, 14
+	index: -1
+lgys_atk_dian_00022
+	rotate: false
+	xy: 872, 98
+	size: 142, 89
+	orig: 216, 105
+	offset: 69, 12
+	index: -1
+lgys_atk_dian_00018
+	rotate: false
+	xy: 447, 218
+	size: 106, 81
+	orig: 216, 105
+	offset: 105, 21
+	index: -1
+lgys_atk_dian_00021
+	rotate: false
+	xy: 447, 300
+	size: 102, 87
+	orig: 216, 105
+	offset: 113, 3
+	index: -1
+
+asset/anim/leiguangyuanshiSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lgys_atk_dian_00006
+	rotate: false
+	xy: 938, 960
+	size: 82, 61
+	orig: 216, 105
+	offset: 26, 17
+	index: -1
+lgys_atk_dian_00003
+	rotate: false
+	xy: 499, 964
+	size: 82, 59
+	orig: 216, 105
+	offset: 0, 11
+	index: -1
+lgys_atk_dian_00028
+	rotate: false
+	xy: 849, 876
+	size: 124, 83
+	orig: 216, 105
+	offset: 67, 13
+	index: -1
+lgys_atk_dian_00013
+	rotate: false
+	xy: 733, 964
+	size: 62, 59
+	orig: 216, 105
+	offset: 24, 15
+	index: -1
+lgys_atk_dian_00031
+	rotate: true
+	xy: 0, 970
+	size: 50, 61
+	orig: 216, 105
+	offset: 125, 28
+	index: -1
+lgys_atk_dian_00011
+	rotate: false
+	xy: 582, 964
+	size: 78, 59
+	orig: 216, 105
+	offset: 19, 14
+	index: -1
+lgys_atk_dian_00017
+	rotate: false
+	xy: 872, 770
+	size: 152, 105
+	orig: 216, 105
+	offset: 39, 0
+	index: -1
+lgys_atk_dian_00014
+	rotate: false
+	xy: 980, 227
+	size: 44, 45
+	orig: 216, 105
+	offset: 30, 17
+	index: -1
+
+asset/anim/leiguangyuanshiSE1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lgys_atk_dian_00029
+	rotate: false
+	xy: 106, 385
+	size: 122, 73
+	orig: 216, 105
+	offset: 67, 13
+	index: -1
+lgys_atk_dian_00009
+	rotate: true
+	xy: 960, 0
+	size: 82, 61
+	orig: 216, 105
+	offset: 16, 12
+	index: -1
+lgys_atk_dian_00008
+	rotate: true
+	xy: 960, 245
+	size: 74, 61
+	orig: 216, 105
+	offset: 28, 15
+	index: -1
+lgys_atk_dian_00004
+	rotate: true
+	xy: 891, 941
+	size: 82, 69
+	orig: 216, 105
+	offset: 9, 12
+	index: -1
+lgys_atk_dian_00007
+	rotate: true
+	xy: 960, 378
+	size: 82, 57
+	orig: 216, 105
+	offset: 19, 20
+	index: -1
+lgys_atk_dian_00025
+	rotate: false
+	xy: 421, 936
+	size: 140, 87
+	orig: 216, 105
+	offset: 69, 12
+	index: -1
+lgys_atk_dian_00030
+	rotate: false
+	xy: 392, 385
+	size: 120, 73
+	orig: 216, 105
+	offset: 68, 18
+	index: -1
+lgys_atk_dian_00012
+	rotate: true
+	xy: 960, 166
+	size: 78, 61
+	orig: 216, 105
+	offset: 14, 14
+	index: -1
+lgys_atk_dian_00010
+	rotate: true
+	xy: 960, 83
+	size: 82, 61
+	orig: 216, 105
+	offset: 17, 13
+	index: -1
+lgys_atk_dian_00019
+	rotate: false
+	xy: 421, 846
+	size: 144, 89
+	orig: 216, 105
+	offset: 67, 10
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

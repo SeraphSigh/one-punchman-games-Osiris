@@ -1,0 +1,159 @@
+
+asset/anim/mingjiewangkapai0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_body_mingjiewangkp
+	rotate: false
+	xy: 0, 0
+	size: 355, 373
+	orig: 355, 373
+	offset: 0, 0
+	index: -1
+a_hand2_mingjiewangkp
+	rotate: false
+	xy: 456, 142
+	size: 56, 81
+	orig: 56, 81
+	offset: 0, 0
+	index: -1
+a_Rfoot2_mingjiewangkp
+	rotate: true
+	xy: 205, 499
+	size: 13, 12
+	orig: 13, 12
+	offset: 0, 0
+	index: -1
+a_hand_mingjiewangkp
+	rotate: true
+	xy: 356, 350
+	size: 23, 45
+	orig: 23, 45
+	offset: 0, 0
+	index: -1
+a_Lleg_mingjiewangkp
+	rotate: false
+	xy: 0, 374
+	size: 204, 127
+	orig: 204, 127
+	offset: 0, 0
+	index: -1
+a_Larm_mingjiewangkp
+	rotate: true
+	xy: 205, 374
+	size: 124, 169
+	orig: 124, 169
+	offset: 0, 0
+	index: -1
+a_guan2_mingjiewangkp
+	rotate: true
+	xy: 456, 224
+	size: 100, 42
+	orig: 100, 42
+	offset: 0, 0
+	index: -1
+a_Lhand_mingjiewangkp
+	rotate: true
+	xy: 402, 350
+	size: 135, 98
+	orig: 135, 98
+	offset: 0, 0
+	index: -1
+a_cha1_mingjiewangkp
+	rotate: false
+	xy: 356, 142
+	size: 99, 207
+	orig: 99, 207
+	offset: 0, 0
+	index: -1
+a_Larm2_mingjiewangkp
+	rotate: true
+	xy: 356, 0
+	size: 141, 151
+	orig: 141, 151
+	offset: 0, 0
+	index: -1
+
+asset/anim/mingjiewangkapai1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Lfoot_mingjiewangkp
+	rotate: false
+	xy: 123, 427
+	size: 121, 81
+	orig: 121, 81
+	offset: 0, 0
+	index: -1
+a_Rleg_mingjiewangkp
+	rotate: true
+	xy: 27, 261
+	size: 165, 115
+	orig: 165, 115
+	offset: 0, 0
+	index: -1
+a_hand3_mingjiewangkp
+	rotate: true
+	xy: 27, 133
+	size: 60, 87
+	orig: 60, 87
+	offset: 0, 0
+	index: -1
+a_guan_mingjiewangkp
+	rotate: true
+	xy: 27, 0
+	size: 132, 87
+	orig: 132, 87
+	offset: 0, 0
+	index: -1
+a_Rarm2_mingjiewangkp
+	rotate: true
+	xy: 356, 118
+	size: 124, 140
+	orig: 124, 140
+	offset: 0, 0
+	index: -1
+a_head_mingjiewangkp
+	rotate: true
+	xy: 123, 0
+	size: 198, 232
+	orig: 198, 232
+	offset: 0, 0
+	index: -1
+a_Rfoot_mingjiewangkp
+	rotate: false
+	xy: 0, 432
+	size: 122, 72
+	orig: 122, 72
+	offset: 0, 0
+	index: -1
+a_Rarm_mingjiewangkp
+	rotate: true
+	xy: 356, 0
+	size: 117, 144
+	orig: 117, 144
+	offset: 0, 0
+	index: -1
+a_guan3_mingjiewangkp
+	rotate: false
+	xy: 27, 194
+	size: 86, 66
+	orig: 86, 66
+	offset: 0, 0
+	index: -1
+a_cha2_mingjiewangkp
+	rotate: false
+	xy: 0, 0
+	size: 26, 431
+	orig: 26, 431
+	offset: 0, 0
+	index: -1
+a_guan4_mingjiewangkp
+	rotate: false
+	xy: 114, 199
+	size: 37, 59
+	orig: 37, 59
+	offset: 0, 0
+	index: -1

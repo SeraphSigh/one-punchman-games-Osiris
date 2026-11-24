@@ -1,0 +1,682 @@
+
+asset/anim/baojiaozi3.png
+size: 384,995
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhengqi_jiaozi0016
+	rotate: false
+	xy: 131, 835
+	size: 130, 118
+	orig: 140, 160
+	offset: 6, 27
+	index: -1
+zhengqi_jiaozi0017
+	rotate: false
+	xy: 0, 877
+	size: 130, 118
+	orig: 140, 160
+	offset: 5, 28
+	index: -1
+zhengqi_jiaozi0014
+	rotate: true
+	xy: 268, 732
+	size: 132, 116
+	orig: 140, 160
+	offset: 5, 27
+	index: -1
+zhengqi_jiaozi0015
+	rotate: false
+	xy: 131, 835
+	size: 130, 118
+	orig: 140, 160
+	offset: 6, 27
+	index: -1
+zhengqi_jiaozi0013
+	rotate: true
+	xy: 268, 732
+	size: 132, 116
+	orig: 140, 160
+	offset: 5, 27
+	index: -1
+zhengqi_jiaozi0011
+	rotate: false
+	xy: 200, 482
+	size: 134, 116
+	orig: 140, 160
+	offset: 3, 26
+	index: -1
+yanwu1_jiaozi0034
+	rotate: true
+	xy: 0, 174
+	size: 174, 209
+	orig: 280, 319
+	offset: 42, 56
+	index: -1
+zhengqi_jiaozi0018
+	rotate: false
+	xy: 0, 877
+	size: 130, 118
+	orig: 140, 160
+	offset: 5, 28
+	index: -1
+zhengqi_jiaozi0012
+	rotate: false
+	xy: 200, 482
+	size: 134, 116
+	orig: 140, 160
+	offset: 3, 26
+	index: -1
+zhengqi_jiaozi0005
+	rotate: false
+	xy: 0, 641
+	size: 134, 112
+	orig: 140, 160
+	offset: 3, 26
+	index: -1
+zhengqi_jiaozi0004
+	rotate: false
+	xy: 135, 599
+	size: 134, 112
+	orig: 140, 160
+	offset: 3, 25
+	index: -1
+zhengqi_jiaozi0007
+	rotate: false
+	xy: 0, 526
+	size: 134, 114
+	orig: 140, 160
+	offset: 3, 26
+	index: -1
+zhengqi_jiaozi0006
+	rotate: false
+	xy: 0, 641
+	size: 134, 112
+	orig: 140, 160
+	offset: 3, 26
+	index: -1
+zhengqi_jiaozi0001
+	rotate: true
+	xy: 270, 599
+	size: 132, 110
+	orig: 140, 160
+	offset: 5, 25
+	index: -1
+zhengqi_jiaozi0003
+	rotate: false
+	xy: 135, 599
+	size: 134, 112
+	orig: 140, 160
+	offset: 3, 25
+	index: -1
+zhengqi_jiaozi0002
+	rotate: true
+	xy: 270, 599
+	size: 132, 110
+	orig: 140, 160
+	offset: 5, 25
+	index: -1
+zhengqi_jiaozi0008
+	rotate: false
+	xy: 0, 526
+	size: 134, 114
+	orig: 140, 160
+	offset: 3, 26
+	index: -1
+yanwu_jiaozi0042
+	rotate: false
+	xy: 223, 150
+	size: 154, 147
+	orig: 250, 211
+	offset: 56, 27
+	index: -1
+zhengqi_jiaozi0019
+	rotate: true
+	xy: 262, 865
+	size: 128, 120
+	orig: 140, 160
+	offset: 5, 28
+	index: -1
+zhengqi_jiaozi0024
+	rotate: false
+	xy: 135, 712
+	size: 132, 122
+	orig: 140, 160
+	offset: 2, 29
+	index: -1
+zhengqi_jiaozi0023
+	rotate: false
+	xy: 135, 712
+	size: 132, 122
+	orig: 140, 160
+	offset: 2, 29
+	index: -1
+zhengqi_jiaozi0022
+	rotate: false
+	xy: 0, 754
+	size: 130, 122
+	orig: 140, 160
+	offset: 2, 29
+	index: -1
+zhengqi_jiaozi0021
+	rotate: false
+	xy: 0, 754
+	size: 130, 122
+	orig: 140, 160
+	offset: 2, 29
+	index: -1
+zhengqi_jiaozi0020
+	rotate: true
+	xy: 262, 865
+	size: 128, 120
+	orig: 140, 160
+	offset: 5, 28
+	index: -1
+yanwu1_jiaozi0076
+	rotate: true
+	xy: 0, 349
+	size: 176, 199
+	orig: 280, 319
+	offset: 69, 38
+	index: -1
+yanwu1_jiaozi0077
+	rotate: false
+	xy: 210, 298
+	size: 170, 183
+	orig: 280, 319
+	offset: 72, 42
+	index: -1
+yanwu1_jiaozi0078
+	rotate: false
+	xy: 223, 0
+	size: 160, 149
+	orig: 280, 319
+	offset: 75, 48
+	index: -1
+yanwu_jiaozi0039
+	rotate: false
+	xy: 0, 0
+	size: 222, 173
+	orig: 250, 211
+	offset: 26, 12
+	index: -1
+
+asset/anim/baojiaozi2.png
+size: 982,997
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanwu1_jiaozi0038
+	rotate: false
+	xy: 368, 736
+	size: 188, 227
+	orig: 280, 319
+	offset: 39, 53
+	index: -1
+yanwu1_jiaozi0035
+	rotate: true
+	xy: 557, 799
+	size: 178, 217
+	orig: 280, 319
+	offset: 39, 51
+	index: -1
+yanwu1_jiaozi0037
+	rotate: true
+	xy: 557, 612
+	size: 186, 221
+	orig: 280, 319
+	offset: 39, 54
+	index: -1
+yanwu1_jiaozi0039
+	rotate: true
+	xy: 260, 547
+	size: 188, 233
+	orig: 280, 319
+	offset: 40, 51
+	index: -1
+yanwu_jiaozi0041
+	rotate: false
+	xy: 779, 702
+	size: 182, 149
+	orig: 250, 211
+	offset: 59, 24
+	index: -1
+yanwu_jiaozi0040
+	rotate: true
+	xy: 818, 0
+	size: 212, 163
+	orig: 250, 211
+	offset: 32, 22
+	index: -1
+yanwu1_jiaozi0048
+	rotate: true
+	xy: 546, 0
+	size: 184, 271
+	orig: 280, 319
+	offset: 59, 26
+	index: -1
+yanwu1_jiaozi0041
+	rotate: false
+	xy: 187, 756
+	size: 180, 231
+	orig: 280, 319
+	offset: 43, 51
+	index: -1
+yanwu1_jiaozi0040
+	rotate: false
+	xy: 0, 756
+	size: 186, 231
+	orig: 280, 319
+	offset: 41, 54
+	index: -1
+yanwu1_jiaozi0043
+	rotate: false
+	xy: 816, 213
+	size: 166, 245
+	orig: 280, 319
+	offset: 62, 41
+	index: -1
+yanwu1_jiaozi0045
+	rotate: true
+	xy: 270, 376
+	size: 170, 267
+	orig: 280, 319
+	offset: 56, 28
+	index: -1
+yanwu1_jiaozi0044
+	rotate: true
+	xy: 0, 404
+	size: 170, 259
+	orig: 280, 319
+	offset: 57, 34
+	index: -1
+yanwu1_jiaozi0047
+	rotate: true
+	xy: 274, 197
+	size: 178, 269
+	orig: 280, 319
+	offset: 58, 28
+	index: -1
+yanwu1_jiaozi0046
+	rotate: true
+	xy: 0, 231
+	size: 172, 269
+	orig: 280, 319
+	offset: 56, 27
+	index: -1
+yanwu1_jiaozi0042
+	rotate: true
+	xy: 0, 575
+	size: 180, 233
+	orig: 280, 319
+	offset: 46, 48
+	index: -1
+yanwu1_jiaozi0066
+	rotate: true
+	xy: 0, 0
+	size: 230, 273
+	orig: 280, 319
+	offset: 26, 39
+	index: -1
+yanwu1_jiaozi0065
+	rotate: true
+	xy: 546, 185
+	size: 230, 269
+	orig: 280, 319
+	offset: 27, 43
+	index: -1
+yanwu1_jiaozi0074
+	rotate: true
+	xy: 274, 0
+	size: 196, 271
+	orig: 280, 319
+	offset: 54, 33
+	index: -1
+yanwu_jiaozi0033
+	rotate: false
+	xy: 775, 852
+	size: 166, 145
+	orig: 250, 211
+	offset: 43, 33
+	index: -1
+yanwu_jiaozi0036
+	rotate: false
+	xy: 538, 416
+	size: 242, 195
+	orig: 250, 211
+	offset: 5, 8
+	index: -1
+yanwu_jiaozi0037
+	rotate: true
+	xy: 781, 459
+	size: 242, 195
+	orig: 250, 211
+	offset: 5, 6
+	index: -1
+
+asset/anim/baojiaozi1.png
+size: 1022,1015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhengqi_jiaozi0010
+	rotate: true
+	xy: 897, 604
+	size: 134, 116
+	orig: 140, 160
+	offset: 3, 26
+	index: -1
+zhengqi_jiaozi0009
+	rotate: true
+	xy: 897, 604
+	size: 134, 116
+	orig: 140, 160
+	offset: 3, 26
+	index: -1
+yanwu1_jiaozi0049
+	rotate: true
+	xy: 635, 797
+	size: 188, 279
+	orig: 280, 319
+	offset: 57, 21
+	index: -1
+yanwu1_jiaozi0050
+	rotate: true
+	xy: 527, 0
+	size: 192, 285
+	orig: 280, 319
+	offset: 55, 18
+	index: -1
+zhengqi_jiaozi0027
+	rotate: true
+	xy: 897, 467
+	size: 136, 100
+	orig: 140, 160
+	offset: 0, 30
+	index: -1
+zhengqi_jiaozi0026
+	rotate: true
+	xy: 897, 467
+	size: 136, 100
+	orig: 140, 160
+	offset: 0, 30
+	index: -1
+zhengqi_jiaozi0025
+	rotate: true
+	xy: 897, 467
+	size: 136, 100
+	orig: 140, 160
+	offset: 0, 30
+	index: -1
+yanwu1_jiaozi0068
+	rotate: true
+	xy: 237, 0
+	size: 228, 289
+	orig: 280, 319
+	offset: 24, 30
+	index: -1
+yanwu1_jiaozi0067
+	rotate: false
+	xy: 292, 229
+	size: 230, 283
+	orig: 280, 319
+	offset: 24, 35
+	index: -1
+yanwu1_jiaozi0064
+	rotate: false
+	xy: 724, 193
+	size: 232, 273
+	orig: 280, 319
+	offset: 25, 45
+	index: -1
+yanwu1_jiaozi0063
+	rotate: false
+	xy: 402, 732
+	size: 232, 277
+	orig: 280, 319
+	offset: 23, 42
+	index: -1
+yanwu1_jiaozi0062
+	rotate: false
+	xy: 684, 517
+	size: 212, 279
+	orig: 280, 319
+	offset: 24, 40
+	index: -1
+yanwu1_jiaozi0061
+	rotate: true
+	xy: 402, 517
+	size: 214, 281
+	orig: 280, 319
+	offset: 26, 38
+	index: -1
+yanwu1_jiaozi0070
+	rotate: true
+	xy: 0, 237
+	size: 228, 291
+	orig: 280, 319
+	offset: 22, 28
+	index: -1
+yanwu1_jiaozi0071
+	rotate: false
+	xy: 0, 466
+	size: 202, 289
+	orig: 280, 319
+	offset: 49, 30
+	index: -1
+yanwu1_jiaozi0072
+	rotate: false
+	xy: 523, 229
+	size: 200, 287
+	orig: 280, 319
+	offset: 52, 32
+	index: -1
+yanwu1_jiaozi0073
+	rotate: false
+	xy: 203, 513
+	size: 198, 283
+	orig: 280, 319
+	offset: 53, 31
+	index: -1
+yanwu1_jiaozi0075
+	rotate: true
+	xy: 813, 0
+	size: 184, 209
+	orig: 280, 319
+	offset: 64, 36
+	index: -1
+xingxing_jiaozi
+	rotate: false
+	xy: 0, 0
+	size: 236, 236
+	orig: 256, 256
+	offset: 9, 11
+	index: -1
+yanwu_jiaozi0038
+	rotate: true
+	xy: 0, 756
+	size: 244, 191
+	orig: 250, 211
+	offset: 1, 10
+	index: -1
+yanwu_jiaozi0032
+	rotate: true
+	xy: 915, 739
+	size: 122, 105
+	orig: 250, 211
+	offset: 68, 53
+	index: -1
+yanwu_jiaozi0034
+	rotate: true
+	xy: 192, 797
+	size: 218, 189
+	orig: 250, 211
+	offset: 12, 8
+	index: -1
+
+asset/anim/baojiaozi0.png
+size: 1018,1018
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanwu1_jiaozi0036
+	rotate: true
+	xy: 432, 836
+	size: 182, 217
+	orig: 280, 319
+	offset: 39, 53
+	index: -1
+yanwu1_jiaozi0033
+	rotate: true
+	xy: 650, 836
+	size: 174, 145
+	orig: 280, 319
+	offset: 44, 87
+	index: -1
+yanwu_jiaozi0043
+	rotate: true
+	xy: 724, 739
+	size: 96, 97
+	orig: 250, 211
+	offset: 110, 77
+	index: -1
+yanwu1_jiaozi0055
+	rotate: true
+	xy: 432, 0
+	size: 216, 305
+	orig: 280, 319
+	offset: 33, 0
+	index: -1
+zhengqi_jiaozi0030
+	rotate: false
+	xy: 880, 739
+	size: 138, 108
+	orig: 140, 160
+	offset: 0, 25
+	index: -1
+zhengqi_jiaozi0031
+	rotate: false
+	xy: 880, 739
+	size: 138, 108
+	orig: 140, 160
+	offset: 0, 25
+	index: -1
+yanwu1_jiaozi0058
+	rotate: false
+	xy: 0, 0
+	size: 216, 319
+	orig: 280, 319
+	offset: 25, 0
+	index: -1
+yanwu1_jiaozi0059
+	rotate: false
+	xy: 0, 636
+	size: 214, 315
+	orig: 280, 319
+	offset: 27, 4
+	index: -1
+yanwu1_jiaozi0052
+	rotate: true
+	xy: 432, 426
+	size: 206, 299
+	orig: 280, 319
+	offset: 44, 8
+	index: -1
+yanwu1_jiaozi0053
+	rotate: true
+	xy: 432, 217
+	size: 208, 303
+	orig: 280, 319
+	offset: 41, 3
+	index: -1
+yanwu1_jiaozi0051
+	rotate: true
+	xy: 432, 633
+	size: 202, 291
+	orig: 280, 319
+	offset: 47, 15
+	index: -1
+yanwu1_jiaozi0056
+	rotate: false
+	xy: 215, 636
+	size: 216, 311
+	orig: 280, 319
+	offset: 31, 0
+	index: -1
+yanwu1_jiaozi0057
+	rotate: false
+	xy: 0, 320
+	size: 216, 315
+	orig: 280, 319
+	offset: 29, 0
+	index: -1
+yanwu1_jiaozi0054
+	rotate: false
+	xy: 217, 0
+	size: 214, 303
+	orig: 280, 319
+	offset: 35, 1
+	index: -1
+yanwu_jiaozi0044
+	rotate: true
+	xy: 724, 739
+	size: 96, 97
+	orig: 250, 211
+	offset: 110, 77
+	index: -1
+zhengqi_jiaozi0029
+	rotate: false
+	xy: 880, 848
+	size: 136, 108
+	orig: 140, 160
+	offset: 0, 25
+	index: -1
+zhengqi_jiaozi0028
+	rotate: false
+	xy: 880, 848
+	size: 136, 108
+	orig: 140, 160
+	offset: 0, 25
+	index: -1
+yanwu1_jiaozi0069
+	rotate: false
+	xy: 732, 447
+	size: 230, 291
+	orig: 280, 319
+	offset: 21, 28
+	index: -1
+yanwu1_jiaozi0060
+	rotate: false
+	xy: 217, 304
+	size: 214, 301
+	orig: 280, 319
+	offset: 27, 18
+	index: -1
+yanwu1_jiaozi0079
+	rotate: true
+	xy: 796, 836
+	size: 144, 83
+	orig: 280, 319
+	offset: 79, 62
+	index: -1
+yanwu1_jiaozi0080
+	rotate: false
+	xy: 0, 952
+	size: 12, 43
+	orig: 280, 319
+	offset: 86, 85
+	index: -1
+guangyun_jiaozi
+	rotate: false
+	xy: 738, 0
+	size: 256, 256
+	orig: 256, 256
+	offset: 0, 0
+	index: -1
+yanwu_jiaozi0035
+	rotate: false
+	xy: 736, 257
+	size: 232, 189
+	orig: 250, 211
+	offset: 9, 8
+	index: -1

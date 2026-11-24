@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>heixian_suduxianimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-1}</string>
+                <key>spriteSize</key>
+                <string>{38,582}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,584}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{38,582}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>suduxian.png</string>
+            <key>size</key>
+            <string>{38,582}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:615bc83bcec5370e5441e5bf5d224191:c0b4744662ca1e0812739d7e04d06504:90f4707b00f830b855c7c353b5b7f9db$</string>
+            <key>textureFileName</key>
+            <string>suduxian.png</string>
+        </dict>
+    </dict>
+</plist>

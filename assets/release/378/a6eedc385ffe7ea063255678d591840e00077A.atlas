@@ -1,0 +1,115 @@
+
+asset/anim/gudailongSE3.png
+size: 1024,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quanying3__yuangulong0006
+	rotate: false
+	xy: 702, 0
+	size: 315, 128
+	orig: 427, 162
+	offset: 57, 28
+	index: -1
+
+asset/anim/gudailongSE2.png
+size: 1024,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quanying3__yuangulong0008
+	rotate: false
+	xy: 778, 438
+	size: 201, 42
+	orig: 427, 162
+	offset: 159, 97
+	index: -1
+quanying3__yuangulong0007
+	rotate: false
+	xy: 710, 0
+	size: 311, 84
+	orig: 427, 162
+	offset: 59, 62
+	index: -1
+quanying3__yuangulong0005
+	rotate: false
+	xy: 702, 283
+	size: 317, 154
+	orig: 427, 162
+	offset: 57, 8
+	index: -1
+shi55_yuangulong
+	rotate: false
+	xy: 710, 85
+	size: 303, 197
+	orig: 303, 197
+	offset: 0, 0
+	index: -1
+
+asset/anim/gudailongSE1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+keng1_yuangulong
+	rotate: false
+	xy: 0, 0
+	size: 655, 250
+	orig: 655, 250
+	offset: 0, 0
+	index: -1
+quanying3__yuangulong0004
+	rotate: false
+	xy: 656, 0
+	size: 363, 160
+	orig: 427, 162
+	offset: 40, 2
+	index: -1
+quanying3__yuangulong0001
+	rotate: true
+	xy: 175, 251
+	size: 117, 46
+	orig: 427, 162
+	offset: 0, 13
+	index: -1
+quanying3__yuangulong0002
+	rotate: true
+	xy: 0, 378
+	size: 423, 162
+	orig: 427, 162
+	offset: 4, 0
+	index: -1
+quanying3__yuangulong0003
+	rotate: true
+	xy: 163, 378
+	size: 411, 162
+	orig: 427, 162
+	offset: 12, 0
+	index: -1
+
+asset/anim/gudailongSE0.png
+size: 1024,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiangyan_yuangulong
+	rotate: true
+	xy: 0, 442
+	size: 504, 401
+	orig: 504, 401
+	offset: 0, 0
+	index: -1
+quanying3__yuangulong0009
+	rotate: false
+	xy: 880, 127
+	size: 139, 30
+	orig: 427, 162
+	offset: 160, 107
+	index: -1
+kengs_yuangulong
+	rotate: false
+	xy: 0, 0
+	size: 879, 409
+	orig: 879, 409
+	offset: 0, 0
+	index: -1

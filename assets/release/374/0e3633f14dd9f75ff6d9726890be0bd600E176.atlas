@@ -1,0 +1,3453 @@
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishi25.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_fa3_shanguangfulaishi2
+	rotate: false
+	xy: 337, 283
+	size: 81, 81
+	orig: 81, 81
+	offset: 0, 0
+	index: -1
+w_zuodatui_shanguangfulaishi2
+	rotate: true
+	xy: 130, 88
+	size: 86, 36
+	orig: 86, 36
+	offset: 0, 0
+	index: -1
+v_shenti_shanguangfulaishi2
+	rotate: false
+	xy: 398, 169
+	size: 74, 81
+	orig: 74, 81
+	offset: 0, 0
+	index: -1
+r_zuodatui_shanguangfulaishi2
+	rotate: true
+	xy: 326, 366
+	size: 82, 59
+	orig: 82, 59
+	offset: 0, 0
+	index: -1
+a_zuodatui_shanguangfulaishi2
+	rotate: false
+	xy: 217, 174
+	size: 36, 85
+	orig: 36, 85
+	offset: 0, 0
+	index: -1
+s_tou_shanguangfulaishi2
+	rotate: true
+	xy: 360, 449
+	size: 63, 74
+	orig: 63, 74
+	offset: 0, 0
+	index: -1
+v_zuodatui_shanguangfulaishi2
+	rotate: false
+	xy: 435, 51
+	size: 77, 49
+	orig: 77, 49
+	offset: 0, 0
+	index: -1
+x_shenti_shanguangfulaishi2
+	rotate: false
+	xy: 0, 190
+	size: 61, 92
+	orig: 61, 92
+	offset: 0, 0
+	index: -1
+w_shenti_shanguangfulaishi2
+	rotate: false
+	xy: 130, 370
+	size: 79, 83
+	orig: 79, 83
+	offset: 0, 0
+	index: -1
+h_fa2_shanguangfulaishi2
+	rotate: false
+	xy: 473, 169
+	size: 37, 81
+	orig: 37, 81
+	offset: 0, 0
+	index: -1
+v_tou_shanguangfulaishi2
+	rotate: true
+	xy: 212, 451
+	size: 61, 68
+	orig: 61, 68
+	offset: 0, 0
+	index: -1
+r_youdatui_shanguangfulaishi2
+	rotate: true
+	xy: 179, 174
+	size: 85, 37
+	orig: 85, 37
+	offset: 0, 0
+	index: -1
+a_fa1_shanguangfulaishi2
+	rotate: false
+	xy: 0, 283
+	size: 57, 91
+	orig: 57, 91
+	offset: 0, 0
+	index: -1
+2_fa4_shanguangfulaishi2
+	rotate: true
+	xy: 0, 97
+	size: 92, 72
+	orig: 92, 72
+	offset: 0, 0
+	index: -1
+g_youdabi_shanguangfulaishi2
+	rotate: false
+	xy: 78, 466
+	size: 54, 46
+	orig: 54, 46
+	offset: 0, 0
+	index: -1
+v_fa1_shanguangfulaishi2
+	rotate: true
+	xy: 435, 0
+	size: 50, 77
+	orig: 50, 77
+	offset: 0, 0
+	index: -1
+x_tou_shanguangfulaishi2
+	rotate: false
+	xy: 254, 169
+	size: 66, 82
+	orig: 66, 82
+	offset: 0, 0
+	index: -1
+w_tou_shanguangfulaishi2
+	rotate: true
+	xy: 309, 101
+	size: 67, 79
+	orig: 67, 79
+	offset: 0, 0
+	index: -1
+r_zuodabi_shanguangfulaishi2
+	rotate: true
+	xy: 340, 251
+	size: 31, 61
+	orig: 31, 61
+	offset: 0, 0
+	index: -1
+q_fa3_shanguangfulaishi2
+	rotate: true
+	xy: 226, 85
+	size: 83, 82
+	orig: 83, 82
+	offset: 0, 0
+	index: -1
+2_zuodatui_shanguangfulaishi2
+	rotate: true
+	xy: 281, 450
+	size: 62, 78
+	orig: 62, 78
+	offset: 0, 0
+	index: -1
+3_jian2_shanguangfulaishi2
+	rotate: true
+	xy: 419, 283
+	size: 41, 38
+	orig: 41, 38
+	offset: 0, 0
+	index: -1
+6_youdabi_shanguangfulaishi2
+	rotate: true
+	xy: 402, 251
+	size: 31, 55
+	orig: 31, 55
+	offset: 0, 0
+	index: -1
+o_zuoxiaotui_shanguangfulaishi2
+	rotate: true
+	xy: 458, 251
+	size: 69, 54
+	orig: 69, 54
+	offset: 0, 0
+	index: -1
+a_fa2_shanguangfulaishi2
+	rotate: false
+	xy: 62, 190
+	size: 34, 89
+	orig: 34, 89
+	offset: 0, 0
+	index: -1
+v_youxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 386, 0
+	size: 48, 63
+	orig: 48, 63
+	offset: 0, 0
+	index: -1
+r_tou_shanguangfulaishi2
+	rotate: true
+	xy: 322, 0
+	size: 68, 63
+	orig: 68, 63
+	offset: 0, 0
+	index: -1
+2_xingxing_shanguangfulaishi2
+	rotate: true
+	xy: 218, 260
+	size: 21, 26
+	orig: 21, 26
+	offset: 0, 0
+	index: -1
+b_shen_shanguangfulaishi2
+	rotate: true
+	xy: 199, 283
+	size: 83, 73
+	orig: 83, 73
+	offset: 0, 0
+	index: -1
+s_bozi_shanguangfulaishi2
+	rotate: true
+	xy: 119, 283
+	size: 86, 79
+	orig: 86, 79
+	offset: 0, 0
+	index: -1
+h_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 245, 260
+	size: 21, 26
+	orig: 21, 26
+	offset: 0, 0
+	index: -1
+u_shenti_shanguangfulaishi2
+	rotate: false
+	xy: 57, 375
+	size: 72, 90
+	orig: 72, 90
+	offset: 0, 0
+	index: -1
+s_fa2_shanguangfulaishi2
+	rotate: true
+	xy: 435, 434
+	size: 78, 74
+	orig: 78, 74
+	offset: 0, 0
+	index: -1
+y_shenti_shanguangfulaishi2
+	rotate: false
+	xy: 61, 0
+	size: 64, 92
+	orig: 64, 92
+	offset: 0, 0
+	index: -1
+g_jian2_shanguangfulaishi2
+	rotate: false
+	xy: 97, 270
+	size: 52, 12
+	orig: 52, 12
+	offset: 0, 0
+	index: -1
+e_zuodatui_shanguangfulaishi2
+	rotate: false
+	xy: 0, 467
+	size: 77, 45
+	orig: 77, 45
+	offset: 0, 0
+	index: -1
+m_shen_shanguangfulaishi2
+	rotate: false
+	xy: 240, 0
+	size: 81, 83
+	orig: 81, 83
+	offset: 0, 0
+	index: -1
+n_zuodatui_shanguangfulaishi2
+	rotate: true
+	xy: 167, 88
+	size: 85, 58
+	orig: 85, 58
+	offset: 0, 0
+	index: -1
+h_pifeng1_shanguangfulaishi2
+	rotate: false
+	xy: 0, 0
+	size: 60, 96
+	orig: 60, 96
+	offset: 0, 0
+	index: -1
+v_doupeng_shanguangfulaishi2
+	rotate: true
+	xy: 146, 175
+	size: 86, 32
+	orig: 86, 32
+	offset: 0, 0
+	index: -1
+s_fa1_shanguangfulaishi2
+	rotate: false
+	xy: 126, 0
+	size: 50, 87
+	orig: 50, 87
+	offset: 0, 0
+	index: -1
+u_doupeng_shanguangfulaishi2
+	rotate: true
+	xy: 73, 93
+	size: 88, 56
+	orig: 88, 56
+	offset: 0, 0
+	index: -1
+h_fa1_shanguangfulaishi2
+	rotate: false
+	xy: 97, 182
+	size: 48, 87
+	orig: 48, 87
+	offset: 0, 0
+	index: -1
+a_yan_shanguangfulaishi2
+	rotate: false
+	xy: 386, 434
+	size: 43, 13
+	orig: 43, 13
+	offset: 0, 0
+	index: -1
+r_zuojiao_shanguangfulaishi2
+	rotate: false
+	xy: 419, 325
+	size: 38, 36
+	orig: 38, 36
+	offset: 0, 0
+	index: -1
+2_tou_shanguangfulaishi2
+	rotate: false
+	xy: 259, 367
+	size: 66, 82
+	orig: 66, 82
+	offset: 0, 0
+	index: -1
+x_youdatui_shanguangfulaishi2
+	rotate: true
+	xy: 386, 365
+	size: 68, 71
+	orig: 68, 71
+	offset: 0, 0
+	index: -1
+w_fa3_shanguangfulaishi2
+	rotate: false
+	xy: 58, 283
+	size: 60, 89
+	orig: 60, 89
+	offset: 0, 0
+	index: -1
+q_tou_shanguangfulaishi2
+	rotate: true
+	xy: 389, 101
+	size: 67, 78
+	orig: 67, 78
+	offset: 0, 0
+	index: -1
+c_pifeng1_shanguangfulaishi2
+	rotate: true
+	xy: 0, 375
+	size: 91, 56
+	orig: 91, 56
+	offset: 0, 0
+	index: -1
+b_zuoxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 386, 64
+	size: 36, 47
+	orig: 36, 47
+	offset: 0, 0
+	index: -1
+r_jian1_shanguangfulaishi2
+	rotate: false
+	xy: 150, 262
+	size: 67, 20
+	orig: 67, 20
+	offset: 0, 0
+	index: -1
+t_youdatui_shanguangfulaishi2
+	rotate: true
+	xy: 133, 454
+	size: 58, 78
+	orig: 58, 78
+	offset: 0, 0
+	index: -1
+u_xingxingtou_shanguangfulaishi2
+	rotate: true
+	xy: 468, 101
+	size: 67, 42
+	orig: 67, 42
+	offset: 0, 0
+	index: -1
+h_fa3_shanguangfulaishi2
+	rotate: false
+	xy: 273, 283
+	size: 63, 82
+	orig: 63, 82
+	offset: 0, 0
+	index: -1
+s_zuoxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 458, 321
+	size: 54, 54
+	orig: 54, 54
+	offset: 0, 0
+	index: -1
+e_shen_shanguangfulaishi2
+	rotate: false
+	xy: 321, 169
+	size: 76, 81
+	orig: 76, 81
+	offset: 0, 0
+	index: -1
+x_youxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 458, 376
+	size: 53, 57
+	orig: 53, 57
+	offset: 0, 0
+	index: -1
+k_youdabi_shanguangfulaishi2
+	rotate: true
+	xy: 322, 69
+	size: 30, 63
+	orig: 30, 63
+	offset: 0, 0
+	index: -1
+u_fa_shanguangfulaishi2
+	rotate: false
+	xy: 177, 0
+	size: 62, 84
+	orig: 62, 84
+	offset: 0, 0
+	index: -1
+t_youxiaotui_shanguangfulaishi2
+	rotate: true
+	xy: 272, 252
+	size: 30, 67
+	orig: 30, 67
+	offset: 0, 0
+	index: -1
+a_youdatui_shanguangfulaishi2
+	rotate: false
+	xy: 210, 367
+	size: 48, 83
+	orig: 48, 83
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishi24.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_fa4_shanguangfulaishi2
+	rotate: false
+	xy: 370, 117
+	size: 103, 102
+	orig: 103, 102
+	offset: 0, 0
+	index: -1
+c_jian1_shanguangfulaishi2
+	rotate: false
+	xy: 223, 0
+	size: 117, 123
+	orig: 117, 123
+	offset: 0, 0
+	index: -1
+3_jian_shanguangfulaishi2
+	rotate: true
+	xy: 186, 305
+	size: 133, 113
+	orig: 133, 113
+	offset: 0, 0
+	index: -1
+u_yaodai_shanguangfulaishi2
+	rotate: false
+	xy: 461, 478
+	size: 51, 33
+	orig: 51, 33
+	offset: 0, 0
+	index: -1
+n_youxaiotui_shanguangfulaishi2
+	rotate: false
+	xy: 328, 124
+	size: 27, 27
+	orig: 27, 27
+	offset: 0, 0
+	index: -1
+i_zuodatui_shanguangfulaishi2
+	rotate: false
+	xy: 126, 465
+	size: 64, 47
+	orig: 64, 47
+	offset: 0, 0
+	index: -1
+x_jian2_shanguangfulaishi2
+	rotate: true
+	xy: 187, 0
+	size: 151, 35
+	orig: 151, 35
+	offset: 0, 0
+	index: -1
+w_jian_shanguangfulaishi2
+	rotate: false
+	xy: 454, 410
+	size: 14, 66
+	orig: 14, 66
+	offset: 0, 0
+	index: -1
+a_mei_shanguangfulaishi2
+	rotate: false
+	xy: 328, 491
+	size: 41, 16
+	orig: 41, 16
+	offset: 0, 0
+	index: -1
+u_zuoxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 0, 474
+	size: 63, 38
+	orig: 63, 38
+	offset: 0, 0
+	index: -1
+q_qiao_shanguangfulaishi2
+	rotate: true
+	xy: 341, 0
+	size: 121, 28
+	orig: 121, 28
+	offset: 0, 0
+	index: -1
+r_qiao_shanguangfulaishi2
+	rotate: true
+	xy: 130, 0
+	size: 152, 56
+	orig: 152, 56
+	offset: 0, 0
+	index: -1
+n_zuoxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 212, 282
+	size: 53, 21
+	orig: 53, 21
+	offset: 0, 0
+	index: -1
+w_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 486, 0
+	size: 59, 26
+	orig: 59, 26
+	offset: 0, 0
+	index: -1
+k_youshou1_shanguangfulaishi2
+	rotate: false
+	xy: 300, 491
+	size: 27, 21
+	orig: 27, 21
+	offset: 0, 0
+	index: -1
+z_jian2_shanguangfulaishi2
+	rotate: false
+	xy: 266, 282
+	size: 51, 21
+	orig: 51, 21
+	offset: 0, 0
+	index: -1
+b_pifeng1_shanguangfulaishi2
+	rotate: false
+	xy: 370, 60
+	size: 108, 56
+	orig: 108, 56
+	offset: 0, 0
+	index: -1
+r_jian2_shanguangfulaishi2
+	rotate: true
+	xy: 146, 153
+	size: 151, 44
+	orig: 151, 44
+	offset: 0, 0
+	index: -1
+7_yanjing_shanguangfulaishi2
+	rotate: true
+	xy: 300, 361
+	size: 46, 13
+	orig: 46, 13
+	offset: 0, 0
+	index: -1
+r_zuoshou_shanguangfulaishi2
+	rotate: true
+	xy: 269, 124
+	size: 27, 29
+	orig: 27, 29
+	offset: 0, 0
+	index: -1
+y_jian2_shanguangfulaishi2
+	rotate: false
+	xy: 52, 313
+	size: 35, 152
+	orig: 35, 152
+	offset: 0, 0
+	index: -1
+q_shenti_shanguangfulaishi2
+	rotate: true
+	xy: 370, 410
+	size: 67, 83
+	orig: 67, 83
+	offset: 0, 0
+	index: -1
+b_youshou1_shanguangfulaishi2
+	rotate: true
+	xy: 191, 282
+	size: 22, 20
+	orig: 22, 20
+	offset: 0, 0
+	index: -1
+e_youxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 64, 466
+	size: 61, 46
+	orig: 61, 46
+	offset: 0, 0
+	index: -1
+2_zuoxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 348, 152
+	size: 45, 21
+	orig: 45, 21
+	offset: 0, 0
+	index: -1
+2_jian_shanguangfulaishi2
+	rotate: true
+	xy: 271, 152
+	size: 123, 76
+	orig: 123, 76
+	offset: 0, 0
+	index: -1
+x_yaodai_shanguangfulaishi2
+	rotate: true
+	xy: 348, 198
+	size: 44, 21
+	orig: 44, 21
+	offset: 0, 0
+	index: -1
+a_pifeng1_shanguangfulaishi2
+	rotate: false
+	xy: 370, 220
+	size: 101, 48
+	orig: 101, 48
+	offset: 0, 0
+	index: -1
+w_fa4_shanguangfulaishi2
+	rotate: false
+	xy: 370, 353
+	size: 98, 56
+	orig: 98, 56
+	offset: 0, 0
+	index: -1
+v_jian_shanguangfulaishi2
+	rotate: true
+	xy: 88, 313
+	size: 151, 65
+	orig: 151, 65
+	offset: 0, 0
+	index: -1
+5_jian2_shanguangfulaishi2
+	rotate: false
+	xy: 318, 276
+	size: 29, 64
+	orig: 29, 64
+	offset: 0, 0
+	index: -1
+c_zuoxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 474, 210
+	size: 38, 50
+	orig: 38, 50
+	offset: 0, 0
+	index: -1
+y_jian_shanguangfulaishi2
+	rotate: false
+	xy: 300, 304
+	size: 17, 56
+	orig: 17, 56
+	offset: 0, 0
+	index: -1
+5_jian_shanguangfulaishi2
+	rotate: false
+	xy: 0, 0
+	size: 67, 158
+	orig: 67, 158
+	offset: 0, 0
+	index: -1
+y_youshou_shanguangfulaishi2
+	rotate: true
+	xy: 299, 124
+	size: 27, 28
+	orig: 27, 28
+	offset: 0, 0
+	index: -1
+z_jian_shanguangfulaishi2
+	rotate: true
+	xy: 68, 0
+	size: 152, 61
+	orig: 152, 61
+	offset: 0, 0
+	index: -1
+n_jianqiao_shanguangfulaishi2
+	rotate: true
+	xy: 370, 0
+	size: 59, 115
+	orig: 59, 115
+	offset: 0, 0
+	index: -1
+7_xingxing_shanguangfulaishi2
+	rotate: false
+	xy: 348, 243
+	size: 21, 33
+	orig: 21, 33
+	offset: 0, 0
+	index: -1
+a_youshou2_shanguangfulaishi2
+	rotate: false
+	xy: 348, 277
+	size: 21, 32
+	orig: 21, 32
+	offset: 0, 0
+	index: -1
+s_jian2_shanguangfulaishi2
+	rotate: true
+	xy: 0, 318
+	size: 155, 51
+	orig: 155, 51
+	offset: 0, 0
+	index: -1
+a_jianqiao_shanguangfulaishi2
+	rotate: true
+	xy: 191, 439
+	size: 73, 108
+	orig: 73, 108
+	offset: 0, 0
+	index: -1
+u_fa4_shanguangfulaishi2
+	rotate: true
+	xy: 34, 159
+	size: 153, 111
+	orig: 153, 111
+	offset: 0, 0
+	index: -1
+2_shenti_shanguangfulaishi2
+	rotate: false
+	xy: 370, 269
+	size: 98, 83
+	orig: 98, 83
+	offset: 0, 0
+	index: -1
+n_youdatui_shanguangfulaishi2
+	rotate: false
+	xy: 472, 261
+	size: 40, 74
+	orig: 40, 74
+	offset: 0, 0
+	index: -1
+u_fa2_shanguangfulaishi2
+	rotate: false
+	xy: 479, 60
+	size: 33, 90
+	orig: 33, 90
+	offset: 0, 0
+	index: -1
+s_youxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 223, 124
+	size: 45, 27
+	orig: 45, 27
+	offset: 0, 0
+	index: -1
+3_youdabi_shanguangfulaishi2
+	rotate: false
+	xy: 469, 408
+	size: 43, 69
+	orig: 43, 69
+	offset: 0, 0
+	index: -1
+w_doupeng_shanguangfulaishi2
+	rotate: true
+	xy: 318, 341
+	size: 67, 51
+	orig: 67, 51
+	offset: 0, 0
+	index: -1
+g_jian1_shanguangfulaishi2
+	rotate: true
+	xy: 0, 159
+	size: 158, 33
+	orig: 158, 33
+	offset: 0, 0
+	index: -1
+g_pifeng1_shanguangfulaishi2
+	rotate: true
+	xy: 300, 409
+	size: 81, 69
+	orig: 81, 69
+	offset: 0, 0
+	index: -1
+i_youshou_shanguangfulaishi2
+	rotate: true
+	xy: 348, 310
+	size: 29, 21
+	orig: 29, 21
+	offset: 0, 0
+	index: -1
+q_fa2_shanguangfulaishi2
+	rotate: true
+	xy: 191, 152
+	size: 129, 79
+	orig: 129, 79
+	offset: 0, 0
+	index: -1
+v_fa2_shanguangfulaishi2
+	rotate: false
+	xy: 469, 336
+	size: 43, 71
+	orig: 43, 71
+	offset: 0, 0
+	index: -1
+2_fa3_shanguangfulaishi2
+	rotate: true
+	xy: 370, 478
+	size: 34, 90
+	orig: 34, 90
+	offset: 0, 0
+	index: -1
+w_jian2_shanguangfulaishi2
+	rotate: false
+	xy: 154, 305
+	size: 31, 151
+	orig: 31, 151
+	offset: 0, 0
+	index: -1
+v_zuoxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 474, 151
+	size: 38, 58
+	orig: 38, 58
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishi27.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+t_zuoxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 372, 268
+	size: 26, 37
+	orig: 26, 37
+	offset: 0, 0
+	index: -1
+n_zuoshou_shanguangfulaishi2
+	rotate: false
+	xy: 399, 280
+	size: 26, 24
+	orig: 26, 24
+	offset: 0, 0
+	index: -1
+y_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 40, 413
+	size: 54, 25
+	orig: 54, 25
+	offset: 0, 0
+	index: -1
+i_zuoxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 344, 351
+	size: 43, 32
+	orig: 43, 32
+	offset: 0, 0
+	index: -1
+h_youdabi_shanguangfulaishi2
+	rotate: true
+	xy: 360, 482
+	size: 30, 42
+	orig: 30, 42
+	offset: 0, 0
+	index: -1
+q_zuoshou_shanguangfulaishi2
+	rotate: false
+	xy: 479, 150
+	size: 32, 25
+	orig: 32, 25
+	offset: 0, 0
+	index: -1
+j_zuojiao_shanguangfulaishi2
+	rotate: false
+	xy: 273, 250
+	size: 33, 44
+	orig: 33, 44
+	offset: 0, 0
+	index: -1
+l_youshou1_shanguangfulaishi2
+	rotate: false
+	xy: 175, 330
+	size: 30, 20
+	orig: 30, 20
+	offset: 0, 0
+	index: -1
+b_zuoshou_shanguangfulaishi2
+	rotate: false
+	xy: 393, 409
+	size: 26, 28
+	orig: 26, 28
+	offset: 0, 0
+	index: -1
+w_youjiao_shanguangfulaishi2
+	rotate: true
+	xy: 476, 360
+	size: 28, 29
+	orig: 28, 29
+	offset: 0, 0
+	index: -1
+s_zuoshou_shanguangfulaishi2
+	rotate: true
+	xy: 446, 275
+	size: 26, 30
+	orig: 26, 30
+	offset: 0, 0
+	index: -1
+u_zuodabi_shanguangfulaishi2
+	rotate: true
+	xy: 0, 244
+	size: 57, 47
+	orig: 57, 47
+	offset: 0, 0
+	index: -1
+v_zuojiao_shanguangfulaishi2
+	rotate: false
+	xy: 298, 47
+	size: 32, 45
+	orig: 32, 45
+	offset: 0, 0
+	index: -1
+h_zuoxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 0, 358
+	size: 23, 55
+	orig: 23, 55
+	offset: 0, 0
+	index: -1
+o_youjiao_shanguangfulaishi2
+	rotate: false
+	xy: 486, 90
+	size: 26, 32
+	orig: 26, 32
+	offset: 0, 0
+	index: -1
+j_youshou1_shanguangfulaishi2
+	rotate: false
+	xy: 418, 232
+	size: 27, 23
+	orig: 27, 23
+	offset: 0, 0
+	index: -1
+u_kua_shanguangfulaishi2
+	rotate: true
+	xy: 132, 0
+	size: 55, 50
+	orig: 55, 50
+	offset: 0, 0
+	index: -1
+e_youshou_shanguangfulaishi2
+	rotate: true
+	xy: 446, 200
+	size: 24, 32
+	orig: 24, 32
+	offset: 0, 0
+	index: -1
+e_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 172, 108
+	size: 50, 41
+	orig: 50, 41
+	offset: 0, 0
+	index: -1
+e_yaodai_shanguangfulaishi2
+	rotate: true
+	xy: 246, 250
+	size: 45, 26
+	orig: 45, 26
+	offset: 0, 0
+	index: -1
+a_youdabi_shanguangfulaishi2
+	rotate: false
+	xy: 34, 0
+	size: 36, 60
+	orig: 36, 60
+	offset: 0, 0
+	index: -1
+o_youxaiotui_shanguangfulaishi2
+	rotate: false
+	xy: 217, 0
+	size: 26, 50
+	orig: 26, 50
+	offset: 0, 0
+	index: -1
+n_kua_shanguangfulaishi2
+	rotate: true
+	xy: 0, 414
+	size: 54, 39
+	orig: 54, 39
+	offset: 0, 0
+	index: -1
+o_youdabi_shanguangfulaishi2
+	rotate: false
+	xy: 301, 351
+	size: 42, 43
+	orig: 42, 43
+	offset: 0, 0
+	index: -1
+4_youshou_shanguangfulaishi2
+	rotate: false
+	xy: 387, 219
+	size: 30, 36
+	orig: 30, 36
+	offset: 0, 0
+	index: -1
+x_youxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 0, 62
+	size: 30, 61
+	orig: 30, 61
+	offset: 0, 0
+	index: -1
+7_bozi_shanguangfulaishi2
+	rotate: false
+	xy: 412, 123
+	size: 28, 35
+	orig: 28, 35
+	offset: 0, 0
+	index: -1
+o_zuoshou_shanguangfulaishi2
+	rotate: false
+	xy: 446, 485
+	size: 26, 26
+	orig: 26, 26
+	offset: 0, 0
+	index: -1
+5_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 101, 297
+	size: 53, 26
+	orig: 53, 26
+	offset: 0, 0
+	index: -1
+a_xiongxingxing_shanguangfulaishi2
+	rotate: true
+	xy: 446, 328
+	size: 23, 30
+	orig: 23, 30
+	offset: 0, 0
+	index: -1
+3_youshou_shanguangfulaishi2
+	rotate: true
+	xy: 478, 256
+	size: 28, 30
+	orig: 28, 30
+	offset: 0, 0
+	index: -1
+3_youxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 52, 123
+	size: 28, 57
+	orig: 28, 57
+	offset: 0, 0
+	index: -1
+w_zuoshou_shanguangfulaishi2
+	rotate: false
+	xy: 264, 492
+	size: 27, 20
+	orig: 27, 20
+	offset: 0, 0
+	index: -1
+c_youjiao_shanguangfulaishi2
+	rotate: true
+	xy: 249, 321
+	size: 29, 33
+	orig: 29, 33
+	offset: 0, 0
+	index: -1
+s_zuodabi_shanguangfulaishi2
+	rotate: false
+	xy: 128, 280
+	size: 26, 50
+	orig: 26, 50
+	offset: 0, 0
+	index: -1
+a_kua_shanguangfulaishi2
+	rotate: true
+	xy: 49, 299
+	size: 53, 51
+	orig: 53, 51
+	offset: 0, 0
+	index: -1
+f_zuoxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 477, 285
+	size: 30, 25
+	orig: 30, 25
+	offset: 0, 0
+	index: -1
+q_doupeng2_shanguangfulaishi2
+	rotate: true
+	xy: 339, 136
+	size: 41, 39
+	orig: 41, 39
+	offset: 0, 0
+	index: -1
+x_zuoxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 137, 56
+	size: 51, 39
+	orig: 51, 39
+	offset: 0, 0
+	index: -1
+r_xxingtou_shanguangfulaishi2
+	rotate: true
+	xy: 349, 89
+	size: 41, 38
+	orig: 41, 38
+	offset: 0, 0
+	index: -1
+b_youshou2_shanguangfulaishi2
+	rotate: true
+	xy: 401, 356
+	size: 25, 23
+	orig: 25, 23
+	offset: 0, 0
+	index: -1
+j_kua_shanguangfulaishi2
+	rotate: false
+	xy: 134, 461
+	size: 47, 51
+	orig: 47, 51
+	offset: 0, 0
+	index: -1
+r_youjiao_shanguangfulaishi2
+	rotate: false
+	xy: 356, 42
+	size: 36, 41
+	orig: 36, 41
+	offset: 0, 0
+	index: -1
+m_zuoxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 347, 321
+	size: 29, 29
+	orig: 29, 29
+	offset: 0, 0
+	index: -1
+r_youshou_shanguangfulaishi2
+	rotate: false
+	xy: 446, 382
+	size: 29, 26
+	orig: 29, 26
+	offset: 0, 0
+	index: -1
+r_youxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 81, 119
+	size: 42, 56
+	orig: 42, 56
+	offset: 0, 0
+	index: -1
+4_youdabi_shanguangfulaishi2
+	rotate: false
+	xy: 31, 62
+	size: 44, 60
+	orig: 44, 60
+	offset: 0, 0
+	index: -1
+m_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 286, 194
+	size: 42, 39
+	orig: 42, 39
+	offset: 0, 0
+	index: -1
+s_youdabi_shanguangfulaishi2
+	rotate: true
+	xy: 307, 237
+	size: 41, 40
+	orig: 41, 40
+	offset: 0, 0
+	index: -1
+7_youshou_shanguangfulaishi2
+	rotate: true
+	xy: 424, 81
+	size: 35, 28
+	orig: 35, 28
+	offset: 0, 0
+	index: -1
+g_youshou_shanguangfulaishi2
+	rotate: false
+	xy: 476, 389
+	size: 29, 24
+	orig: 29, 24
+	offset: 0, 0
+	index: -1
+a_youxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 87, 176
+	size: 24, 53
+	orig: 24, 53
+	offset: 0, 0
+	index: -1
+m_zuoshou_shanguangfulaishi2
+	rotate: false
+	xy: 473, 485
+	size: 25, 26
+	orig: 25, 26
+	offset: 0, 0
+	index: -1
+h_zuoshou_shanguangfulaishi2
+	rotate: true
+	xy: 283, 321
+	size: 29, 32
+	orig: 29, 32
+	offset: 0, 0
+	index: -1
+x_kua_shanguangfulaishi2
+	rotate: false
+	xy: 53, 353
+	size: 45, 53
+	orig: 45, 53
+	offset: 0, 0
+	index: -1
+2_youshou_shanguangfulaishi2
+	rotate: true
+	xy: 393, 382
+	size: 25, 23
+	orig: 25, 23
+	offset: 0, 0
+	index: -1
+r_youdabi_shanguangfulaishi2
+	rotate: true
+	xy: 100, 61
+	size: 56, 36
+	orig: 56, 36
+	offset: 0, 0
+	index: -1
+s_yaodai_shanguangfulaishi2
+	rotate: false
+	xy: 108, 0
+	size: 23, 56
+	orig: 23, 56
+	offset: 0, 0
+	index: -1
+4_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 206, 321
+	size: 29, 42
+	orig: 29, 42
+	offset: 0, 0
+	index: -1
+a_yaodai_shanguangfulaishi2
+	rotate: true
+	xy: 112, 176
+	size: 52, 26
+	orig: 52, 26
+	offset: 0, 0
+	index: -1
+c_youdabi_shanguangfulaishi2
+	rotate: true
+	xy: 394, 171
+	size: 36, 28
+	orig: 36, 28
+	offset: 0, 0
+	index: -1
+7_zuoshou_shanguangfulaishi2
+	rotate: true
+	xy: 476, 438
+	size: 24, 28
+	orig: 24, 28
+	offset: 0, 0
+	index: -1
+1_youxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 48, 243
+	size: 25, 55
+	orig: 25, 55
+	offset: 0, 0
+	index: -1
+7_zuoshou2_shanguangfulaishi2
+	rotate: false
+	xy: 418, 208
+	size: 27, 23
+	orig: 27, 23
+	offset: 0, 0
+	index: -1
+x_youjiao_shanguangfulaishi2
+	rotate: true
+	xy: 461, 0
+	size: 33, 32
+	orig: 33, 32
+	offset: 0, 0
+	index: -1
+s_kua_shanguangfulaishi2
+	rotate: true
+	xy: 161, 402
+	size: 48, 47
+	orig: 48, 47
+	offset: 0, 0
+	index: -1
+u_youshou_shanguangfulaishi2
+	rotate: false
+	xy: 475, 34
+	size: 33, 31
+	orig: 33, 31
+	offset: 0, 0
+	index: -1
+v_kua_shanguangfulaishi2
+	rotate: true
+	xy: 136, 352
+	size: 49, 48
+	orig: 49, 48
+	offset: 0, 0
+	index: -1
+w_youdabi_shanguangfulaishi2
+	rotate: true
+	xy: 74, 243
+	size: 53, 47
+	orig: 53, 47
+	offset: 0, 0
+	index: -1
+l_kua_shanguangfulaishi2
+	rotate: false
+	xy: 124, 118
+	size: 47, 51
+	orig: 47, 51
+	offset: 0, 0
+	index: -1
+u_youdabi_shanguangfulaishi2
+	rotate: true
+	xy: 219, 51
+	size: 48, 40
+	orig: 48, 40
+	offset: 0, 0
+	index: -1
+2_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 106, 407
+	size: 53, 30
+	orig: 53, 30
+	offset: 0, 0
+	index: -1
+q_yaodai_shanguangfulaishi2
+	rotate: true
+	xy: 244, 0
+	size: 48, 24
+	orig: 48, 24
+	offset: 0, 0
+	index: -1
+v_zuoshou_shanguangfulaishi2
+	rotate: true
+	xy: 479, 123
+	size: 26, 32
+	orig: 26, 32
+	offset: 0, 0
+	index: -1
+d_kua_shanguangfulaishi2
+	rotate: true
+	xy: 185, 351
+	size: 48, 45
+	orig: 48, 45
+	offset: 0, 0
+	index: -1
+m_youdabi_shanguangfulaishi2
+	rotate: true
+	xy: 71, 0
+	size: 60, 36
+	orig: 60, 36
+	offset: 0, 0
+	index: -1
+j_youshou2_shanguangfulaishi2
+	rotate: true
+	xy: 426, 39
+	size: 35, 24
+	orig: 35, 24
+	offset: 0, 0
+	index: -1
+u_zuoshou_shanguangfulaishi2
+	rotate: false
+	xy: 316, 321
+	size: 30, 29
+	orig: 30, 29
+	offset: 0, 0
+	index: -1
+t_yaodai_shanguangfulaishi2
+	rotate: true
+	xy: 24, 358
+	size: 54, 28
+	orig: 54, 28
+	offset: 0, 0
+	index: -1
+j_zuodabi_shanguangfulaishi2
+	rotate: true
+	xy: 245, 204
+	size: 45, 40
+	orig: 45, 40
+	offset: 0, 0
+	index: -1
+y_yaodai_shanguangfulaishi2
+	rotate: true
+	xy: 182, 451
+	size: 48, 24
+	orig: 48, 24
+	offset: 0, 0
+	index: -1
+6_youshou2_shanguangfulaishi2
+	rotate: true
+	xy: 393, 42
+	size: 38, 32
+	orig: 38, 32
+	offset: 0, 0
+	index: -1
+x_youdabi_shanguangfulaishi2
+	rotate: true
+	xy: 46, 185
+	size: 57, 40
+	orig: 57, 40
+	offset: 0, 0
+	index: -1
+s_youshou_shanguangfulaishi2
+	rotate: true
+	xy: 420, 409
+	size: 28, 26
+	orig: 28, 26
+	offset: 0, 0
+	index: -1
+r_kua_shanguangfulaishi2
+	rotate: true
+	xy: 0, 302
+	size: 55, 48
+	orig: 55, 48
+	offset: 0, 0
+	index: -1
+u_zuoxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 128, 331
+	size: 20, 46
+	orig: 20, 46
+	offset: 0, 0
+	index: -1
+2_youjiao_shanguangfulaishi2
+	rotate: true
+	xy: 302, 0
+	size: 45, 32
+	orig: 45, 32
+	offset: 0, 0
+	index: -1
+a_zuojiao_shanguangfulaishi2
+	rotate: true
+	xy: 231, 448
+	size: 46, 32
+	orig: 46, 32
+	offset: 0, 0
+	index: -1
+q_xingxingtou_shanguangfulaishi2
+	rotate: false
+	xy: 392, 438
+	size: 39, 42
+	orig: 39, 42
+	offset: 0, 0
+	index: -1
+e_youjiao_shanguangfulaishi2
+	rotate: false
+	xy: 367, 178
+	size: 26, 40
+	orig: 26, 40
+	offset: 0, 0
+	index: -1
+7_youdabi_shanguangfulaishi2
+	rotate: false
+	xy: 260, 49
+	size: 37, 46
+	orig: 37, 46
+	offset: 0, 0
+	index: -1
+g_kua_shanguangfulaishi2
+	rotate: true
+	xy: 0, 124
+	size: 60, 51
+	orig: 60, 51
+	offset: 0, 0
+	index: -1
+v_xingxing_shanguangfulaishi2
+	rotate: true
+	xy: 477, 336
+	size: 23, 30
+	orig: 23, 30
+	offset: 0, 0
+	index: -1
+q_youdabi_shanguangfulaishi2
+	rotate: false
+	xy: 263, 148
+	size: 39, 45
+	orig: 39, 45
+	offset: 0, 0
+	index: -1
+b_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 267, 351
+	size: 44, 33
+	orig: 44, 33
+	offset: 0, 0
+	index: -1
+e_kua_shanguangfulaishi2
+	rotate: true
+	xy: 308, 440
+	size: 43, 42
+	orig: 43, 42
+	offset: 0, 0
+	index: -1
+y_zuodabi_shanguangfulaishi2
+	rotate: true
+	xy: 139, 170
+	size: 50, 46
+	orig: 50, 46
+	offset: 0, 0
+	index: -1
+a_zuoshou_shanguangfulaishi2
+	rotate: false
+	xy: 451, 36
+	size: 23, 34
+	orig: 23, 34
+	offset: 0, 0
+	index: -1
+u_jian2_shanguangfulaishi2
+	rotate: true
+	xy: 282, 96
+	size: 45, 33
+	orig: 45, 33
+	offset: 0, 0
+	index: -1
+s_youjiao_shanguangfulaishi2
+	rotate: false
+	xy: 303, 142
+	size: 35, 42
+	orig: 35, 42
+	offset: 0, 0
+	index: -1
+m_youshou1_shanguangfulaishi2
+	rotate: true
+	xy: 479, 201
+	size: 28, 31
+	orig: 28, 31
+	offset: 0, 0
+	index: -1
+t_zuodatui_shanguangfulaishi2
+	rotate: false
+	xy: 335, 0
+	size: 41, 41
+	orig: 41, 41
+	offset: 0, 0
+	index: -1
+b_youdabi_shanguangfulaishi2
+	rotate: false
+	xy: 270, 396
+	size: 42, 43
+	orig: 42, 43
+	offset: 0, 0
+	index: -1
+f_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 348, 227
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+2_youshou2_shanguangfulaishi2
+	rotate: false
+	xy: 393, 330
+	size: 25, 25
+	orig: 25, 25
+	offset: 0, 0
+	index: -1
+c_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 437, 0
+	size: 35, 23
+	orig: 35, 23
+	offset: 0, 0
+	index: -1
+i_zuoshou_shanguangfulaishi2
+	rotate: false
+	xy: 446, 225
+	size: 31, 25
+	orig: 31, 25
+	offset: 0, 0
+	index: -1
+d_youshou1_shanguangfulaishi2
+	rotate: false
+	xy: 446, 148
+	size: 32, 25
+	orig: 32, 25
+	offset: 0, 0
+	index: -1
+t_youxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 183, 0
+	size: 33, 50
+	orig: 33, 50
+	offset: 0, 0
+	index: -1
+t_zuojiao_shanguangfulaishi2
+	rotate: false
+	xy: 246, 399
+	size: 23, 46
+	orig: 23, 46
+	offset: 0, 0
+	index: -1
+e_pifeng1_shanguangfulaishi2
+	rotate: false
+	xy: 231, 351
+	size: 35, 47
+	orig: 35, 47
+	offset: 0, 0
+	index: -1
+y_zuoshou_shanguangfulaishi2
+	rotate: false
+	xy: 399, 305
+	size: 26, 24
+	orig: 26, 24
+	offset: 0, 0
+	index: -1
+a_youjiao_shanguangfulaishi2
+	rotate: false
+	xy: 412, 0
+	size: 24, 38
+	orig: 24, 38
+	offset: 0, 0
+	index: -1
+5_youshou2_shanguangfulaishi2
+	rotate: true
+	xy: 446, 302
+	size: 25, 30
+	orig: 25, 30
+	offset: 0, 0
+	index: -1
+x_zuodabi_shanguangfulaishi2
+	rotate: false
+	xy: 313, 395
+	size: 39, 43
+	orig: 39, 43
+	offset: 0, 0
+	index: -1
+c_youshou1_shanguangfulaishi2
+	rotate: false
+	xy: 399, 256
+	size: 28, 23
+	orig: 28, 23
+	offset: 0, 0
+	index: -1
+v_youshou_shanguangfulaishi2
+	rotate: true
+	xy: 475, 66
+	size: 23, 33
+	orig: 23, 33
+	offset: 0, 0
+	index: -1
+o_zuodabi_shanguangfulaishi2
+	rotate: true
+	xy: 186, 159
+	size: 48, 45
+	orig: 48, 45
+	offset: 0, 0
+	index: -1
+s_zuojiao_shanguangfulaishi2
+	rotate: true
+	xy: 331, 279
+	size: 41, 40
+	orig: 41, 40
+	offset: 0, 0
+	index: -1
+c_zuoshou_shanguangfulaishi2
+	rotate: false
+	xy: 453, 90
+	size: 32, 28
+	orig: 32, 28
+	offset: 0, 0
+	index: -1
+h_zuoxiatui_shanguangfulaishi2
+	rotate: false
+	xy: 353, 395
+	size: 39, 42
+	orig: 39, 42
+	offset: 0, 0
+	index: -1
+u_zuojiao_shanguangfulaishi2
+	rotate: false
+	xy: 47, 468
+	size: 35, 44
+	orig: 35, 44
+	offset: 0, 0
+	index: -1
+v_youdatui_shanguangfulaishi2
+	rotate: false
+	xy: 214, 107
+	size: 40, 48
+	orig: 40, 48
+	offset: 0, 0
+	index: -1
+b_kua_shanguangfulaishi2
+	rotate: true
+	xy: 0, 185
+	size: 58, 45
+	orig: 58, 45
+	offset: 0, 0
+	index: -1
+o_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 331, 46
+	size: 42, 24
+	orig: 42, 24
+	offset: 0, 0
+	index: -1
+1_youshou2_shanguangfulaishi2
+	rotate: true
+	xy: 292, 492
+	size: 20, 25
+	orig: 20, 25
+	offset: 0, 0
+	index: -1
+k_youxaiobi_shanguangfulaishi2
+	rotate: true
+	xy: 246, 296
+	size: 24, 43
+	orig: 24, 43
+	offset: 0, 0
+	index: -1
+v_youjiao_shanguangfulaishi2
+	rotate: false
+	xy: 212, 208
+	size: 32, 47
+	orig: 32, 47
+	offset: 0, 0
+	index: -1
+m_youshou2_shanguangfulaishi2
+	rotate: true
+	xy: 477, 311
+	size: 24, 30
+	orig: 24, 30
+	offset: 0, 0
+	index: -1
+b_zuodabi_shanguangfulaishi2
+	rotate: false
+	xy: 99, 353
+	size: 36, 53
+	orig: 36, 53
+	offset: 0, 0
+	index: -1
+i_zuodabi_shanguangfulaishi2
+	rotate: false
+	xy: 66, 407
+	size: 39, 53
+	orig: 39, 53
+	offset: 0, 0
+	index: -1
+u_youjiao_shanguangfulaishi2
+	rotate: true
+	xy: 326, 185
+	size: 41, 40
+	orig: 41, 40
+	offset: 0, 0
+	index: -1
+c_zuoxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 476, 414
+	size: 29, 23
+	orig: 29, 23
+	offset: 0, 0
+	index: -1
+i_youdabi_shanguangfulaishi2
+	rotate: false
+	xy: 290, 295
+	size: 40, 25
+	orig: 40, 25
+	offset: 0, 0
+	index: -1
+f_jian2_shanguangfulaishi2
+	rotate: true
+	xy: 232, 156
+	size: 47, 30
+	orig: 47, 30
+	offset: 0, 0
+	index: -1
+j_zuoxaiobi_shanguangfulaishi2
+	rotate: false
+	xy: 318, 484
+	size: 41, 28
+	orig: 41, 28
+	offset: 0, 0
+	index: -1
+j_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 137, 402
+	size: 49, 23
+	orig: 49, 23
+	offset: 0, 0
+	index: -1
+d_zuodabi_shanguangfulaishi2
+	rotate: true
+	xy: 403, 481
+	size: 31, 42
+	orig: 31, 42
+	offset: 0, 0
+	index: -1
+d_zuoxaiobi_shanguangfulaishi2
+	rotate: true
+	xy: 377, 0
+	size: 41, 34
+	orig: 41, 34
+	offset: 0, 0
+	index: -1
+o_zuoxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 207, 451
+	size: 48, 23
+	orig: 48, 23
+	offset: 0, 0
+	index: -1
+s_zuoxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 0, 469
+	size: 46, 43
+	orig: 46, 43
+	offset: 0, 0
+	index: -1
+c_zuojiao_shanguangfulaishi2
+	rotate: true
+	xy: 446, 119
+	size: 28, 32
+	orig: 28, 32
+	offset: 0, 0
+	index: -1
+g_zuodabi_shanguangfulaishi2
+	rotate: true
+	xy: 155, 280
+	size: 49, 48
+	orig: 49, 48
+	offset: 0, 0
+	index: -1
+w_youshou_shanguangfulaishi2
+	rotate: false
+	xy: 446, 174
+	size: 32, 25
+	orig: 32, 25
+	offset: 0, 0
+	index: -1
+t_youshou_shanguangfulaishi2
+	rotate: true
+	xy: 446, 460
+	size: 24, 28
+	orig: 24, 28
+	offset: 0, 0
+	index: -1
+q_youjiao_shanguangfulaishi2
+	rotate: false
+	xy: 388, 84
+	size: 35, 38
+	orig: 35, 38
+	offset: 0, 0
+	index: -1
+l_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 76, 61
+	size: 57, 23
+	orig: 57, 23
+	offset: 0, 0
+	index: -1
+c_jian2_shanguangfulaishi2
+	rotate: true
+	xy: 83, 461
+	size: 51, 50
+	orig: 51, 50
+	offset: 0, 0
+	index: -1
+n_zuodabi_shanguangfulaishi2
+	rotate: false
+	xy: 209, 400
+	size: 36, 47
+	orig: 36, 47
+	offset: 0, 0
+	index: -1
+2_xingxingtou_shanguangfulaishi2
+	rotate: true
+	xy: 351, 439
+	size: 42, 40
+	orig: 42, 40
+	offset: 0, 0
+	index: -1
+r_yaodai_shanguangfulaishi2
+	rotate: true
+	xy: 379, 131
+	size: 39, 32
+	orig: 39, 32
+	offset: 0, 0
+	index: -1
+2_yaodai_shanguangfulaishi2
+	rotate: false
+	xy: 316, 93
+	size: 32, 42
+	orig: 32, 42
+	offset: 0, 0
+	index: -1
+n_zuojiao_shanguangfulaishi2
+	rotate: true
+	xy: 478, 230
+	size: 25, 31
+	orig: 25, 31
+	offset: 0, 0
+	index: -1
+z_youshou_shanguangfulaishi2
+	rotate: false
+	xy: 446, 352
+	size: 29, 29
+	orig: 29, 29
+	offset: 0, 0
+	index: -1
+n_youshou2_shanguangfulaishi2
+	rotate: false
+	xy: 447, 435
+	size: 28, 24
+	orig: 28, 24
+	offset: 0, 0
+	index: -1
+h_kua_shanguangfulaishi2
+	rotate: true
+	xy: 177, 56
+	size: 50, 41
+	orig: 50, 41
+	offset: 0, 0
+	index: -1
+c_youshou2_shanguangfulaishi2
+	rotate: true
+	xy: 417, 382
+	size: 25, 23
+	orig: 25, 23
+	offset: 0, 0
+	index: -1
+u_xingxing_shanguangfulaishi2
+	rotate: true
+	xy: 446, 251
+	size: 23, 31
+	orig: 23, 31
+	offset: 0, 0
+	index: -1
+n_youdabi_shanguangfulaishi2
+	rotate: true
+	xy: 255, 100
+	size: 47, 26
+	orig: 47, 26
+	offset: 0, 0
+	index: -1
+z_youdabi_shanguangfulaishi2
+	rotate: false
+	xy: 0, 0
+	size: 33, 61
+	orig: 33, 61
+	offset: 0, 0
+	index: -1
+t_youjiao_shanguangfulaishi2
+	rotate: false
+	xy: 269, 0
+	size: 32, 46
+	orig: 32, 46
+	offset: 0, 0
+	index: -1
+t_zuoshou_shanguangfulaishi2
+	rotate: false
+	xy: 419, 330
+	size: 25, 25
+	orig: 25, 25
+	offset: 0, 0
+	index: -1
+t_zuoxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 479, 176
+	size: 32, 24
+	orig: 32, 24
+	offset: 0, 0
+	index: -1
+s_youxiaotui_shanguangfulaishi2
+	rotate: true
+	xy: 264, 446
+	size: 45, 43
+	orig: 45, 43
+	offset: 0, 0
+	index: -1
+f_youshou1_shanguangfulaishi2
+	rotate: false
+	xy: 377, 356
+	size: 23, 25
+	orig: 23, 25
+	offset: 0, 0
+	index: -1
+q_zuoxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 169, 221
+	size: 49, 42
+	orig: 49, 42
+	offset: 0, 0
+	index: -1
+m_kua_shanguangfulaishi2
+	rotate: true
+	xy: 122, 229
+	size: 50, 46
+	orig: 50, 46
+	offset: 0, 0
+	index: -1
+t_xingxingtou_shanguangfulaishi2
+	rotate: true
+	xy: 204, 271
+	size: 49, 41
+	orig: 49, 41
+	offset: 0, 0
+	index: -1
+q_youshou2_shanguangfulaishi2
+	rotate: true
+	xy: 447, 409
+	size: 25, 28
+	orig: 25, 28
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishi26.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_lian_shanguangfulaishi2
+	rotate: false
+	xy: 258, 0
+	size: 56, 67
+	orig: 56, 67
+	offset: 0, 0
+	index: -1
+c_zuodatui_shanguangfulaishi2
+	rotate: true
+	xy: 181, 77
+	size: 71, 62
+	orig: 71, 62
+	offset: 0, 0
+	index: -1
+x_youshou_shanguangfulaishi2
+	rotate: true
+	xy: 413, 188
+	size: 30, 31
+	orig: 30, 31
+	offset: 0, 0
+	index: -1
+e_youdatui_shanguangfulaishi2
+	rotate: false
+	xy: 178, 152
+	size: 56, 72
+	orig: 56, 72
+	offset: 0, 0
+	index: -1
+h_youdatui_shanguangfulaishi2
+	rotate: true
+	xy: 106, 242
+	size: 74, 57
+	orig: 74, 57
+	offset: 0, 0
+	index: -1
+1_youdabi_shanguangfulaishi2
+	rotate: false
+	xy: 360, 219
+	size: 37, 62
+	orig: 37, 62
+	offset: 0, 0
+	index: -1
+x_zuoxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 285, 68
+	size: 37, 67
+	orig: 37, 67
+	offset: 0, 0
+	index: -1
+e_zuoxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 320, 219
+	size: 39, 63
+	orig: 39, 63
+	offset: 0, 0
+	index: -1
+a_jian2_shanguangfulaishi2
+	rotate: false
+	xy: 483, 183
+	size: 29, 48
+	orig: 29, 48
+	offset: 0, 0
+	index: -1
+2_youdatui_shanguangfulaishi2
+	rotate: false
+	xy: 65, 403
+	size: 59, 79
+	orig: 59, 79
+	offset: 0, 0
+	index: -1
+w_fa1_shanguangfulaishi2
+	rotate: true
+	xy: 133, 0
+	size: 76, 67
+	orig: 76, 67
+	offset: 0, 0
+	index: -1
+t_jian1_shanguangfulaishi2
+	rotate: true
+	xy: 323, 67
+	size: 63, 32
+	orig: 63, 32
+	offset: 0, 0
+	index: -1
+6_jian2_shanguangfulaishi2
+	rotate: false
+	xy: 336, 283
+	size: 33, 63
+	orig: 33, 63
+	offset: 0, 0
+	index: -1
+2_youxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 316, 393
+	size: 41, 64
+	orig: 41, 64
+	offset: 0, 0
+	index: -1
+w_youxiaotui_shanguangfulaishi2
+	rotate: true
+	xy: 283, 219
+	size: 64, 36
+	orig: 64, 36
+	offset: 0, 0
+	index: -1
+i_kua_shanguangfulaishi2
+	rotate: true
+	xy: 252, 460
+	size: 52, 49
+	orig: 52, 49
+	offset: 0, 0
+	index: -1
+5_youdabi_shanguangfulaishi2
+	rotate: false
+	xy: 358, 397
+	size: 39, 60
+	orig: 39, 60
+	offset: 0, 0
+	index: -1
+a_youshou1_shanguangfulaishi2
+	rotate: true
+	xy: 303, 200
+	size: 18, 24
+	orig: 18, 24
+	offset: 0, 0
+	index: -1
+u_zuodatui_shanguangfulaishi2
+	rotate: false
+	xy: 66, 242
+	size: 39, 76
+	orig: 39, 76
+	offset: 0, 0
+	index: -1
+r_zuoxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 195, 460
+	size: 56, 52
+	orig: 56, 52
+	offset: 0, 0
+	index: -1
+2_zuoxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 301, 350
+	size: 64, 42
+	orig: 64, 42
+	offset: 0, 0
+	index: -1
+u_youdatui_shanguangfulaishi2
+	rotate: false
+	xy: 132, 160
+	size: 45, 74
+	orig: 45, 74
+	offset: 0, 0
+	index: -1
+u_youxiaotui_shanguangfulaishi2
+	rotate: true
+	xy: 239, 296
+	size: 66, 32
+	orig: 66, 32
+	offset: 0, 0
+	index: -1
+w_kua_shanguangfulaishi2
+	rotate: true
+	xy: 398, 219
+	size: 51, 49
+	orig: 51, 49
+	offset: 0, 0
+	index: -1
+7_youxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 448, 0
+	size: 62, 30
+	orig: 62, 30
+	offset: 0, 0
+	index: -1
+2_jian2_shanguangfulaishi2
+	rotate: true
+	xy: 483, 281
+	size: 46, 29
+	orig: 46, 29
+	offset: 0, 0
+	index: -1
+g_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 448, 181
+	size: 49, 34
+	orig: 49, 34
+	offset: 0, 0
+	index: -1
+a_touxingxing_shanguangfulaishi2
+	rotate: true
+	xy: 244, 72
+	size: 69, 40
+	orig: 69, 40
+	offset: 0, 0
+	index: -1
+2_zuoshou_shanguangfulaishi2
+	rotate: true
+	xy: 370, 282
+	size: 26, 27
+	orig: 26, 27
+	offset: 0, 0
+	index: -1
+l_zuodatui_shanguangfulaishi2
+	rotate: true
+	xy: 195, 393
+	size: 66, 60
+	orig: 66, 60
+	offset: 0, 0
+	index: -1
+s_xingxingtou_shanguangfulaishi2
+	rotate: true
+	xy: 303, 136
+	size: 63, 50
+	orig: 63, 50
+	offset: 0, 0
+	index: -1
+c_youdatui_shanguangfulaishi2
+	rotate: false
+	xy: 460, 328
+	size: 52, 44
+	orig: 52, 44
+	offset: 0, 0
+	index: -1
+t_tou_shanguangfulaishi2
+	rotate: true
+	xy: 125, 394
+	size: 73, 69
+	orig: 73, 69
+	offset: 0, 0
+	index: -1
+q_zuoxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 126, 468
+	size: 68, 44
+	orig: 68, 44
+	offset: 0, 0
+	index: -1
+i_yaodai_shanguangfulaishi2
+	rotate: true
+	xy: 366, 347
+	size: 49, 31
+	orig: 49, 31
+	offset: 0, 0
+	index: -1
+7_jian2_shanguangfulaishi2
+	rotate: true
+	xy: 448, 231
+	size: 46, 34
+	orig: 46, 34
+	offset: 0, 0
+	index: -1
+q_youdatui_shanguangfulaishi2
+	rotate: false
+	xy: 272, 285
+	size: 63, 64
+	orig: 63, 64
+	offset: 0, 0
+	index: -1
+q_kua_shanguangfulaishi2
+	rotate: false
+	xy: 398, 271
+	size: 49, 49
+	orig: 49, 49
+	offset: 0, 0
+	index: -1
+shoujitou_shanguangfulaishi2
+	rotate: false
+	xy: 0, 243
+	size: 65, 79
+	orig: 65, 79
+	offset: 0, 0
+	index: -1
+s_shenti_shanguangfulaishi2
+	rotate: false
+	xy: 0, 82
+	size: 74, 80
+	orig: 74, 80
+	offset: 0, 0
+	index: -1
+w_zuoxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 250, 219
+	size: 32, 65
+	orig: 32, 65
+	offset: 0, 0
+	index: -1
+v_zuodabi_shanguangfulaishi2
+	rotate: false
+	xy: 281, 393
+	size: 34, 65
+	orig: 34, 65
+	offset: 0, 0
+	index: -1
+w_youdatui_shanguangfulaishi2
+	rotate: true
+	xy: 315, 0
+	size: 66, 61
+	orig: 66, 61
+	offset: 0, 0
+	index: -1
+a_lian_shanguangfulaishi2
+	rotate: false
+	xy: 0, 403
+	size: 64, 79
+	orig: 64, 79
+	offset: 0, 0
+	index: -1
+s_youdatui_shanguangfulaishi2
+	rotate: true
+	xy: 141, 77
+	size: 74, 39
+	orig: 74, 39
+	offset: 0, 0
+	index: -1
+g_zuoxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 483, 133
+	size: 29, 49
+	orig: 29, 49
+	offset: 0, 0
+	index: -1
+q_jian2_shanguangfulaishi2
+	rotate: true
+	xy: 393, 63
+	size: 62, 35
+	orig: 62, 35
+	offset: 0, 0
+	index: -1
+benghuaitou_shanguangfulaishi2
+	rotate: false
+	xy: 0, 163
+	size: 65, 79
+	orig: 65, 79
+	offset: 0, 0
+	index: -1
+r_fa2_shanguangfulaishi2
+	rotate: false
+	xy: 61, 0
+	size: 37, 80
+	orig: 37, 80
+	offset: 0, 0
+	index: -1
+t_zuodabi_shanguangfulaishi2
+	rotate: false
+	xy: 356, 67
+	size: 36, 62
+	orig: 36, 62
+	offset: 0, 0
+	index: -1
+c_shen_shanguangfulaishi2
+	rotate: true
+	xy: 235, 149
+	size: 69, 67
+	orig: 69, 67
+	offset: 0, 0
+	index: -1
+n_zuoxiaotui_shanguangfulaishi2
+	rotate: true
+	xy: 201, 0
+	size: 71, 56
+	orig: 71, 56
+	offset: 0, 0
+	index: -1
+t_kua_shanguangfulaishi2
+	rotate: false
+	xy: 456, 398
+	size: 56, 57
+	orig: 56, 57
+	offset: 0, 0
+	index: -1
+7_doupeng_shanguangfulaishi2
+	rotate: true
+	xy: 99, 0
+	size: 78, 33
+	orig: 78, 33
+	offset: 0, 0
+	index: -1
+q_youxiaotui_shanguangfulaishi2
+	rotate: true
+	xy: 225, 225
+	size: 70, 24
+	orig: 70, 24
+	offset: 0, 0
+	index: -1
+p_jian2_shanguangfulaishi2
+	rotate: false
+	xy: 460, 373
+	size: 48, 24
+	orig: 48, 24
+	offset: 0, 0
+	index: -1
+6_youxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 0, 483
+	size: 62, 29
+	orig: 62, 29
+	offset: 0, 0
+	index: -1
+4_jian_shanguangfulaishi2
+	rotate: false
+	xy: 398, 361
+	size: 61, 36
+	orig: 61, 36
+	offset: 0, 0
+	index: -1
+siwangitou_shanguangfulaishi2
+	rotate: false
+	xy: 0, 323
+	size: 65, 79
+	orig: 65, 79
+	offset: 0, 0
+	index: -1
+o_zuodatui_shanguangfulaishi2
+	rotate: true
+	xy: 66, 319
+	size: 74, 65
+	orig: 74, 65
+	offset: 0, 0
+	index: -1
+d_youxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 354, 194
+	size: 58, 24
+	orig: 58, 24
+	offset: 0, 0
+	index: -1
+y_youdabi_shanguangfulaishi2
+	rotate: false
+	xy: 429, 79
+	size: 53, 46
+	orig: 53, 46
+	offset: 0, 0
+	index: -1
+y_kua_shanguangfulaishi2
+	rotate: false
+	xy: 398, 398
+	size: 47, 59
+	orig: 47, 59
+	offset: 0, 0
+	index: -1
+b_jian2_shanguangfulaishi2
+	rotate: true
+	xy: 256, 393
+	size: 66, 24
+	orig: 66, 24
+	offset: 0, 0
+	index: -1
+t_youdabi_shanguangfulaishi2
+	rotate: true
+	xy: 63, 483
+	size: 29, 62
+	orig: 29, 62
+	offset: 0, 0
+	index: -1
+q_zuojiao_shanguangfulaishi2
+	rotate: false
+	xy: 448, 278
+	size: 34, 42
+	orig: 34, 42
+	offset: 0, 0
+	index: -1
+r_shenti_shanguangfulaishi2
+	rotate: false
+	xy: 0, 0
+	size: 60, 81
+	orig: 60, 81
+	offset: 0, 0
+	index: -1
+v_youdabi_shanguangfulaishi2
+	rotate: true
+	xy: 398, 321
+	size: 39, 61
+	orig: 39, 61
+	offset: 0, 0
+	index: -1
+h_zuodabi_shanguangfulaishi2
+	rotate: false
+	xy: 377, 0
+	size: 35, 62
+	orig: 35, 62
+	offset: 0, 0
+	index: -1
+q_youxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 448, 126
+	size: 34, 54
+	orig: 34, 54
+	offset: 0, 0
+	index: -1
+h_zuodatui_shanguangfulaishi2
+	rotate: true
+	xy: 403, 126
+	size: 61, 44
+	orig: 61, 44
+	offset: 0, 0
+	index: -1
+z_youxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 483, 232
+	size: 29, 48
+	orig: 29, 48
+	offset: 0, 0
+	index: -1
+v_zuoxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 354, 131
+	size: 48, 62
+	orig: 48, 62
+	offset: 0, 0
+	index: -1
+q_youshou_shanguangfulaishi2
+	rotate: true
+	xy: 370, 309
+	size: 24, 27
+	orig: 24, 27
+	offset: 0, 0
+	index: -1
+e_youdabi_shanguangfulaishi2
+	rotate: false
+	xy: 448, 31
+	size: 61, 47
+	orig: 61, 47
+	offset: 0, 0
+	index: -1
+u_tou_shanguangfulaishi2
+	rotate: false
+	xy: 75, 81
+	size: 65, 78
+	orig: 65, 78
+	offset: 0, 0
+	index: -1
+2_kua_shanguangfulaishi2
+	rotate: true
+	xy: 302, 459
+	size: 53, 55
+	orig: 53, 55
+	offset: 0, 0
+	index: -1
+i_shen_shanguangfulaishi2
+	rotate: false
+	xy: 66, 163
+	size: 65, 78
+	orig: 65, 78
+	offset: 0, 0
+	index: -1
+2_youdabi_shanguangfulaishi2
+	rotate: false
+	xy: 239, 363
+	size: 61, 29
+	orig: 61, 29
+	offset: 0, 0
+	index: -1
+j_youdatui_shanguangfulaishi2
+	rotate: true
+	xy: 132, 317
+	size: 73, 40
+	orig: 73, 40
+	offset: 0, 0
+	index: -1
+d_youdabi_shanguangfulaishi2
+	rotate: true
+	xy: 413, 0
+	size: 62, 34
+	orig: 62, 34
+	offset: 0, 0
+	index: -1
+2_zuodabi_shanguangfulaishi2
+	rotate: false
+	xy: 358, 458
+	size: 48, 54
+	orig: 48, 54
+	offset: 0, 0
+	index: -1
+a_biyan_shanguangfulaishi2
+	rotate: false
+	xy: 173, 380
+	size: 40, 12
+	orig: 40, 12
+	offset: 0, 0
+	index: -1
+a_youxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 202, 308
+	size: 36, 70
+	orig: 36, 70
+	offset: 0, 0
+	index: -1
+v_yaodai_shanguangfulaishi2
+	rotate: true
+	xy: 483, 79
+	size: 53, 29
+	orig: 53, 29
+	offset: 0, 0
+	index: -1
+c_kua_shanguangfulaishi2
+	rotate: true
+	xy: 407, 458
+	size: 54, 48
+	orig: 54, 48
+	offset: 0, 0
+	index: -1
+c_zuodabi_shanguangfulaishi2
+	rotate: false
+	xy: 456, 456
+	size: 56, 42
+	orig: 56, 42
+	offset: 0, 0
+	index: -1
+q_zuodatui_shanguangfulaishi2
+	rotate: true
+	xy: 164, 235
+	size: 72, 60
+	orig: 72, 60
+	offset: 0, 0
+	index: -1
+c_youxiaotui_shanguangfulaishi2
+	rotate: false
+	xy: 173, 308
+	size: 28, 71
+	orig: 28, 71
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishi21.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_zuodatui_shanguangfulaishi2
+	rotate: false
+	xy: 442, 256
+	size: 70, 62
+	orig: 70, 62
+	offset: 0, 0
+	index: -1
+g_shen_shanguangfulaishi2
+	rotate: true
+	xy: 442, 173
+	size: 82, 70
+	orig: 82, 70
+	offset: 0, 0
+	index: -1
+j_youdabi_shanguangfulaishi2
+	rotate: false
+	xy: 346, 337
+	size: 59, 27
+	orig: 59, 27
+	offset: 0, 0
+	index: -1
+gd_shanguangfulaishi2
+	rotate: true
+	xy: 0, 195
+	size: 169, 219
+	orig: 169, 219
+	offset: 0, 0
+	index: -1
+v_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 220, 337
+	size: 27, 63
+	orig: 27, 63
+	offset: 0, 0
+	index: -1
+c_pifeng2_shanguangfulaishi2
+	rotate: false
+	xy: 162, 365
+	size: 61, 147
+	orig: 61, 147
+	offset: 0, 0
+	index: -1
+g_zuoshou_shanguangfulaishi2
+	rotate: true
+	xy: 406, 337
+	size: 27, 35
+	orig: 27, 35
+	offset: 0, 0
+	index: -1
+e_zuodabi_shanguangfulaishi2
+	rotate: false
+	xy: 284, 337
+	size: 61, 27
+	orig: 61, 27
+	offset: 0, 0
+	index: -1
+d_pifeng1_shanguangfulaishi2
+	rotate: true
+	xy: 443, 0
+	size: 89, 69
+	orig: 89, 69
+	offset: 0, 0
+	index: -1
+a_pifeng3_shanguangfulaishi2
+	rotate: false
+	xy: 222, 161
+	size: 219, 175
+	orig: 219, 175
+	offset: 0, 0
+	index: -1
+m_pifeng2_shanguangfulaishi2
+	rotate: false
+	xy: 0, 0
+	size: 221, 194
+	orig: 221, 194
+	offset: 0, 0
+	index: -1
+t_fa2_shanguangfulaishi2
+	rotate: true
+	xy: 443, 90
+	size: 82, 69
+	orig: 82, 69
+	offset: 0, 0
+	index: -1
+a_shen_shanguangfulaishi2
+	rotate: false
+	xy: 441, 381
+	size: 71, 80
+	orig: 71, 80
+	offset: 0, 0
+	index: -1
+o_youdatui_shanguangfulaishi2
+	rotate: false
+	xy: 442, 319
+	size: 70, 61
+	orig: 70, 61
+	offset: 0, 0
+	index: -1
+q_doupeng_shanguangfulaishi2
+	rotate: false
+	xy: 222, 0
+	size: 220, 160
+	orig: 220, 160
+	offset: 0, 0
+	index: -1
+t_jian2_shanguangfulaishi2
+	rotate: true
+	xy: 82, 365
+	size: 147, 79
+	orig: 147, 79
+	offset: 0, 0
+	index: -1
+f_jian1_shanguangfulaishi2
+	rotate: true
+	xy: 0, 365
+	size: 147, 81
+	orig: 147, 81
+	offset: 0, 0
+	index: -1
+2_doupeng2_shanguangfulaishi2
+	rotate: false
+	xy: 224, 365
+	size: 216, 140
+	orig: 216, 140
+	offset: 0, 0
+	index: -1
+v_xingxingtou_shanguangfulaishi2
+	rotate: false
+	xy: 441, 462
+	size: 71, 46
+	orig: 71, 46
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishi20.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_zuoxiaotui_shanguangfulaishi2
+	rotate: true
+	xy: 67, 487
+	size: 25, 65
+	orig: 25, 65
+	offset: 0, 0
+	index: -1
+w_fa2_shanguangfulaishi2
+	rotate: true
+	xy: 184, 164
+	size: 141, 75
+	orig: 141, 75
+	offset: 0, 0
+	index: -1
+p_jian1_shanguangfulaishi2
+	rotate: false
+	xy: 355, 458
+	size: 106, 54
+	orig: 106, 54
+	offset: 0, 0
+	index: -1
+1_jian2_shanguangfulaishi2
+	rotate: false
+	xy: 490, 262
+	size: 22, 50
+	orig: 22, 50
+	offset: 0, 0
+	index: -1
+u_fa3_shanguangfulaishi2
+	rotate: false
+	xy: 355, 393
+	size: 157, 64
+	orig: 157, 64
+	offset: 0, 0
+	index: -1
+c_pifeng3_shanguangfulaishi2
+	rotate: false
+	xy: 260, 0
+	size: 249, 138
+	orig: 249, 138
+	offset: 0, 0
+	index: -1
+a_zuodabi_shanguangfulaishi2
+	rotate: false
+	xy: 155, 164
+	size: 28, 74
+	orig: 28, 74
+	offset: 0, 0
+	index: -1
+i_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 490, 313
+	size: 47, 22
+	orig: 47, 22
+	offset: 0, 0
+	index: -1
+a_zuoxaiobi_shanguangfulaishi2
+	rotate: true
+	xy: 133, 487
+	size: 25, 50
+	orig: 25, 50
+	offset: 0, 0
+	index: -1
+4_jian2_shanguangfulaishi2
+	rotate: false
+	xy: 0, 164
+	size: 154, 96
+	orig: 154, 96
+	offset: 0, 0
+	index: -1
+s_doupeng_shanguangfulaishi2
+	rotate: true
+	xy: 0, 262
+	size: 224, 183
+	orig: 224, 183
+	offset: 0, 0
+	index: -1
+x_zuoshou2_shanguangfulaishi2
+	rotate: false
+	xy: 155, 239
+	size: 27, 22
+	orig: 27, 22
+	offset: 0, 0
+	index: -1
+s_jian1_shanguangfulaishi2
+	rotate: false
+	xy: 0, 487
+	size: 66, 25
+	orig: 66, 25
+	offset: 0, 0
+	index: -1
+n_pifeng2_shanguangfulaishi2
+	rotate: false
+	xy: 0, 0
+	size: 259, 163
+	orig: 259, 163
+	offset: 0, 0
+	index: -1
+v_fa4_shanguangfulaishi2
+	rotate: true
+	xy: 355, 237
+	size: 155, 134
+	orig: 155, 134
+	offset: 0, 0
+	index: -1
+q_zuodabi_shanguangfulaishi2
+	rotate: false
+	xy: 462, 458
+	size: 50, 54
+	orig: 50, 54
+	offset: 0, 0
+	index: -1
+v_doupeng2_shanguangfulaishi2
+	rotate: true
+	xy: 490, 139
+	size: 63, 22
+	orig: 63, 22
+	offset: 0, 0
+	index: -1
+v_doupeng3_shanguangfulaishi2
+	rotate: false
+	xy: 260, 139
+	size: 229, 97
+	orig: 229, 97
+	offset: 0, 0
+	index: -1
+w_zuoxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 490, 203
+	size: 58, 22
+	orig: 58, 22
+	offset: 0, 0
+	index: -1
+y_doupeng_shanguangfulaishi2
+	rotate: true
+	xy: 184, 306
+	size: 206, 170
+	orig: 206, 170
+	offset: 0, 0
+	index: -1
+n_shen_shanguangfulaishi2
+	rotate: true
+	xy: 260, 237
+	size: 68, 79
+	orig: 68, 79
+	offset: 0, 0
+	index: -1
+x_jian_shanguangfulaishi2
+	rotate: true
+	xy: 340, 237
+	size: 68, 14
+	orig: 68, 14
+	offset: 0, 0
+	index: -1
+5_youshou_shanguangfulaishi2
+	rotate: false
+	xy: 490, 361
+	size: 22, 31
+	orig: 22, 31
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishi23.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+v_youshou2_shanguangfulaishi2
+	rotate: true
+	xy: 224, 340
+	size: 13, 18
+	orig: 13, 18
+	offset: 0, 0
+	index: -1
+t_doupeng_shanguangfulaishi2
+	rotate: false
+	xy: 0, 0
+	size: 192, 193
+	orig: 192, 193
+	offset: 0, 0
+	index: -1
+2_doupeng_shanguangfulaishi2
+	rotate: true
+	xy: 448, 437
+	size: 63, 64
+	orig: 63, 64
+	offset: 0, 0
+	index: -1
+t_fa1_shanguangfulaishi2
+	rotate: true
+	xy: 85, 384
+	size: 127, 154
+	orig: 127, 154
+	offset: 0, 0
+	index: -1
+s_xingxing_shanguangfulaishi2
+	rotate: false
+	xy: 332, 269
+	size: 22, 22
+	orig: 22, 22
+	offset: 0, 0
+	index: -1
+l_youshou2_shanguangfulaishi2
+	rotate: false
+	xy: 335, 173
+	size: 31, 20
+	orig: 31, 20
+	offset: 0, 0
+	index: -1
+d_youshou2_shanguangfulaishi2
+	rotate: false
+	xy: 282, 269
+	size: 25, 22
+	orig: 25, 22
+	offset: 0, 0
+	index: -1
+m_zuodabi_shanguangfulaishi2
+	rotate: true
+	xy: 335, 108
+	size: 64, 31
+	orig: 64, 31
+	offset: 0, 0
+	index: -1
+6_jian_shanguangfulaishi2
+	rotate: false
+	xy: 139, 194
+	size: 84, 166
+	orig: 84, 166
+	offset: 0, 0
+	index: -1
+v_jian1_shanguangfulaishi2
+	rotate: true
+	xy: 344, 55
+	size: 52, 21
+	orig: 52, 21
+	offset: 0, 0
+	index: -1
+x_fa2_shanguangfulaishi2
+	rotate: true
+	xy: 271, 0
+	size: 54, 93
+	orig: 54, 93
+	offset: 0, 0
+	index: -1
+q_jian_shanguangfulaishi2
+	rotate: false
+	xy: 367, 108
+	size: 144, 83
+	orig: 144, 83
+	offset: 0, 0
+	index: -1
+2_fa2_shanguangfulaishi2
+	rotate: false
+	xy: 367, 384
+	size: 143, 52
+	orig: 143, 52
+	offset: 0, 0
+	index: -1
+w_yaodai_shanguangfulaishi2
+	rotate: true
+	xy: 224, 292
+	size: 47, 18
+	orig: 47, 18
+	offset: 0, 0
+	index: -1
+b_jian1_shanguangfulaishi2
+	rotate: false
+	xy: 193, 55
+	size: 150, 52
+	orig: 150, 52
+	offset: 0, 0
+	index: -1
+1_youshou_shanguangfulaishi2
+	rotate: true
+	xy: 254, 269
+	size: 22, 27
+	orig: 22, 27
+	offset: 0, 0
+	index: -1
+a_pifeng2_shanguangfulaishi2
+	rotate: true
+	xy: 224, 194
+	size: 74, 141
+	orig: 74, 141
+	offset: 0, 0
+	index: -1
+x_zuodatui_shanguangfulaishi2
+	rotate: false
+	xy: 193, 0
+	size: 77, 52
+	orig: 77, 52
+	offset: 0, 0
+	index: -1
+j_shen_shanguangfulaishi2
+	rotate: true
+	xy: 193, 108
+	size: 85, 77
+	orig: 85, 77
+	offset: 0, 0
+	index: -1
+1_jian_shanguangfulaishi2
+	rotate: false
+	xy: 0, 384
+	size: 49, 128
+	orig: 49, 128
+	offset: 0, 0
+	index: -1
+a_fa4_shanguangfulaishi2
+	rotate: false
+	xy: 240, 384
+	size: 126, 127
+	orig: 126, 127
+	offset: 0, 0
+	index: -1
+n_youshou1_shanguangfulaishi2
+	rotate: false
+	xy: 224, 269
+	size: 29, 22
+	orig: 29, 22
+	offset: 0, 0
+	index: -1
+s_fa3_shanguangfulaishi2
+	rotate: true
+	xy: 385, 292
+	size: 91, 109
+	orig: 91, 109
+	offset: 0, 0
+	index: -1
+j_pifeng1_shanguangfulaishi2
+	rotate: true
+	xy: 271, 108
+	size: 85, 63
+	orig: 85, 63
+	offset: 0, 0
+	index: -1
+x_zuoshou_shanguangfulaishi2
+	rotate: true
+	xy: 495, 354
+	size: 22, 14
+	orig: 22, 14
+	offset: 0, 0
+	index: -1
+s_fa4_shanguangfulaishi2
+	rotate: false
+	xy: 367, 0
+	size: 145, 107
+	orig: 145, 107
+	offset: 0, 0
+	index: -1
+h_jian1_shanguangfulaishi2
+	rotate: false
+	xy: 244, 292
+	size: 140, 91
+	orig: 140, 91
+	offset: 0, 0
+	index: -1
+s_qiao_shanguangfulaishi2
+	rotate: true
+	xy: 50, 384
+	size: 128, 34
+	orig: 128, 34
+	offset: 0, 0
+	index: -1
+7_jian_shanguangfulaishi2
+	rotate: false
+	xy: 367, 192
+	size: 143, 99
+	orig: 143, 99
+	offset: 0, 0
+	index: -1
+f_youdabi_shanguangfulaishi2
+	rotate: false
+	xy: 179, 361
+	size: 32, 22
+	orig: 32, 22
+	offset: 0, 0
+	index: -1
+t_doupeng2_shanguangfulaishi2
+	rotate: true
+	xy: 495, 292
+	size: 61, 17
+	orig: 61, 17
+	offset: 0, 0
+	index: -1
+y_zuoxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 139, 361
+	size: 39, 22
+	orig: 39, 22
+	offset: 0, 0
+	index: -1
+n_youjiao_shanguangfulaishi2
+	rotate: true
+	xy: 212, 361
+	size: 22, 31
+	orig: 22, 31
+	offset: 0, 0
+	index: -1
+h_youshou_shanguangfulaishi2
+	rotate: false
+	xy: 308, 269
+	size: 23, 22
+	orig: 23, 22
+	offset: 0, 0
+	index: -1
+d_shen_shanguangfulaishi2
+	rotate: false
+	xy: 367, 437
+	size: 80, 75
+	orig: 80, 75
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishi22.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_shen_shanguangfulaishi2
+	rotate: true
+	xy: 395, 256
+	size: 53, 73
+	orig: 53, 73
+	offset: 0, 0
+	index: -1
+r_fa_shanguangfulaishi2
+	rotate: true
+	xy: 365, 0
+	size: 125, 146
+	orig: 125, 146
+	offset: 0, 0
+	index: -1
+t_qiao_shanguangfulaishi2
+	rotate: true
+	xy: 204, 126
+	size: 89, 125
+	orig: 89, 125
+	offset: 0, 0
+	index: -1
+x_fa_shanguangfulaishi2
+	rotate: false
+	xy: 204, 0
+	size: 159, 125
+	orig: 159, 125
+	offset: 0, 0
+	index: -1
+l_shen_shanguangfulaishi2
+	rotate: true
+	xy: 330, 126
+	size: 89, 64
+	orig: 89, 64
+	offset: 0, 0
+	index: -1
+x_doupeng_shanguangfulaishi2
+	rotate: true
+	xy: 170, 216
+	size: 207, 176
+	orig: 207, 176
+	offset: 0, 0
+	index: -1
+a_jian1_shanguangfulaishi2
+	rotate: true
+	xy: 225, 424
+	size: 88, 139
+	orig: 88, 139
+	offset: 0, 0
+	index: -1
+t_shenti_shanguangfulaishi2
+	rotate: true
+	xy: 365, 424
+	size: 88, 82
+	orig: 88, 82
+	offset: 0, 0
+	index: -1
+r_zuoxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 485, 360
+	size: 27, 47
+	orig: 27, 47
+	offset: 0, 0
+	index: -1
+i_pifeng1_shanguangfulaishi2
+	rotate: false
+	xy: 143, 425
+	size: 81, 87
+	orig: 81, 87
+	offset: 0, 0
+	index: -1
+h_pifeng2_shanguangfulaishi2
+	rotate: false
+	xy: 0, 0
+	size: 203, 215
+	orig: 203, 215
+	offset: 0, 0
+	index: -1
+v_fa3_shanguangfulaishi2
+	rotate: false
+	xy: 347, 310
+	size: 137, 113
+	orig: 137, 113
+	offset: 0, 0
+	index: -1
+q_fa1_shanguangfulaishi2
+	rotate: false
+	xy: 347, 216
+	size: 47, 93
+	orig: 47, 93
+	offset: 0, 0
+	index: -1
+7_qiao_shanguangfulaishi2
+	rotate: false
+	xy: 0, 425
+	size: 142, 87
+	orig: 142, 87
+	offset: 0, 0
+	index: -1
+r_doupeng_shanguangfulaishi2
+	rotate: true
+	xy: 0, 216
+	size: 208, 169
+	orig: 208, 169
+	offset: 0, 0
+	index: -1
+r_youxiaobi_shanguangfulaishi2
+	rotate: true
+	xy: 485, 310
+	size: 49, 27
+	orig: 49, 27
+	offset: 0, 0
+	index: -1
+f_youshou2_shanguangfulaishi2
+	rotate: true
+	xy: 485, 408
+	size: 15, 19
+	orig: 15, 19
+	offset: 0, 0
+	index: -1
+u_jian_shanguangfulaishi2
+	rotate: true
+	xy: 395, 126
+	size: 129, 117
+	orig: 129, 117
+	offset: 0, 0
+	index: -1
+2_fa_shanguangfulaishi2
+	rotate: false
+	xy: 448, 424
+	size: 58, 88
+	orig: 58, 88
+	offset: 0, 0
+	index: -1
+u_youxiaobi_shanguangfulaishi2
+	rotate: false
+	xy: 469, 256
+	size: 43, 53
+	orig: 43, 53
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishi28.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_zuoshou_shanguangfulaishi2
+	rotate: false
+	xy: 26, 0
+	size: 23, 23
+	orig: 23, 23
+	offset: 0, 0
+	index: -1
+w_zuoshou2_shanguangfulaishi2
+	rotate: false
+	xy: 0, 24
+	size: 23, 23
+	orig: 23, 23
+	offset: 0, 0
+	index: -1
+k_youshou2_shanguangfulaishi2
+	rotate: false
+	xy: 0, 0
+	size: 25, 23
+	orig: 25, 23
+	offset: 0, 0
+	index: -1

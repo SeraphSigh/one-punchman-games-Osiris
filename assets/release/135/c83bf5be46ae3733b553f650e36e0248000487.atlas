@@ -1,0 +1,66 @@
+
+asset/anim/zhushen2SESKILL1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/zs2_skill_4cishui_00152
+	rotate: false
+	xy: 520, 958
+	size: 121, 45
+	orig: 179, 141
+	offset: 0, 62
+	index: -1
+
+asset/anim/zhushen2SESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/zs2_skill_4cishui_00151
+	rotate: false
+	xy: 954, 126
+	size: 69, 31
+	orig: 179, 141
+	offset: 0, 74
+	index: -1
+
+asset/anim/zhushen2SESKILL3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/zs2_skill_4cishui_00154
+	rotate: false
+	xy: 0, 272
+	size: 167, 81
+	orig: 179, 141
+	offset: 0, 17
+	index: -1
+
+asset/anim/zhushen2SESKILL4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/zs2_skill_4cishui_00155
+	rotate: true
+	xy: 933, 446
+	size: 169, 91
+	orig: 179, 141
+	offset: 6, 7
+	index: -1
+skill/zs2_skill_4cishui_00156
+	rotate: true
+	xy: 256, 819
+	size: 167, 93
+	orig: 179, 141
+	offset: 11, 3
+	index: -1
+skill/zs2_skill_4cishui_00153
+	rotate: true
+	xy: 451, 270
+	size: 155, 71
+	orig: 179, 141
+	offset: 0, 35
+	index: -1

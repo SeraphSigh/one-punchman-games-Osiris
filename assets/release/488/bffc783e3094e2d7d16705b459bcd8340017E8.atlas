@@ -1,0 +1,333 @@
+
+asset/anim/hongwennvSECOMMON0.png
+size: 1018,981
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/hongwennv_skill_baoguang_007
+	rotate: true
+	xy: 729, 853
+	size: 128, 83
+	orig: 158, 145
+	offset: 18, 32
+	index: -1
+common/hongwennv_skill_baoguang_006
+	rotate: false
+	xy: 801, 530
+	size: 136, 89
+	orig: 158, 145
+	offset: 12, 27
+	index: -1
+common/hongwennv_xingxing_044
+	rotate: false
+	xy: 62, 0
+	size: 261, 118
+	orig: 261, 118
+	offset: 0, 0
+	index: -1
+common/hongwennv_skill_baoguang_009
+	rotate: true
+	xy: 523, 578
+	size: 130, 105
+	orig: 158, 145
+	offset: 13, 19
+	index: -1
+common/hongwennv_skill_baoguang_008
+	rotate: false
+	xy: 651, 294
+	size: 126, 111
+	orig: 158, 145
+	offset: 16, 16
+	index: -1
+common/hongwennv_skill_xuanqi_013
+	rotate: true
+	xy: 922, 702
+	size: 84, 35
+	orig: 158, 119
+	offset: 23, 72
+	index: -1
+common/hongwennv_skill_xuanqi_011
+	rotate: true
+	xy: 941, 342
+	size: 122, 71
+	orig: 158, 119
+	offset: 24, 37
+	index: -1
+common/hongwennv_skill_shandian_004
+	rotate: true
+	xy: 851, 903
+	size: 70, 52
+	orig: 132, 132
+	offset: 43, 28
+	index: -1
+common/hongwennv_skill_shandian_006
+	rotate: true
+	xy: 538, 78
+	size: 68, 44
+	orig: 132, 132
+	offset: 44, 37
+	index: -1
+common/hongwennv_skill_shandian_003
+	rotate: true
+	xy: 889, 829
+	size: 68, 52
+	orig: 132, 132
+	offset: 43, 27
+	index: -1
+common/hongwennv_skill_baoguang_014
+	rotate: true
+	xy: 729, 706
+	size: 146, 75
+	orig: 158, 145
+	offset: 5, 35
+	index: -1
+common/hongwennv_skill_baoguang_015
+	rotate: true
+	xy: 374, 716
+	size: 24, 21
+	orig: 158, 145
+	offset: 41, 86
+	index: -1
+common/hongwennv_skill_baoguang_010
+	rotate: false
+	xy: 374, 576
+	size: 148, 139
+	orig: 158, 145
+	offset: 4, 4
+	index: -1
+common/hongwennv_skill_baoguang_011
+	rotate: false
+	xy: 396, 315
+	size: 142, 133
+	orig: 158, 145
+	offset: 7, 9
+	index: -1
+common/hongwennv_skill_baoguang_012
+	rotate: true
+	xy: 539, 276
+	size: 138, 111
+	orig: 158, 145
+	offset: 13, 22
+	index: -1
+common/hongwennv_skill_baoguang_013
+	rotate: true
+	xy: 675, 155
+	size: 138, 105
+	orig: 158, 145
+	offset: 11, 26
+	index: -1
+common/hongwennv_skill_shandian_013
+	rotate: false
+	xy: 958, 753
+	size: 56, 56
+	orig: 132, 132
+	offset: 40, 27
+	index: -1
+common/hongwennv_skill_shandian_012
+	rotate: true
+	xy: 958, 690
+	size: 62, 60
+	orig: 132, 132
+	offset: 39, 25
+	index: -1
+common/hongwennv_skill_xuanqi_004
+	rotate: false
+	xy: 758, 74
+	size: 86, 45
+	orig: 158, 119
+	offset: 32, 8
+	index: -1
+common/hongwennv_skill_shandian_010
+	rotate: false
+	xy: 904, 898
+	size: 64, 66
+	orig: 132, 132
+	offset: 40, 25
+	index: -1
+common/hongwennv_skill_xuanqi_006
+	rotate: false
+	xy: 805, 702
+	size: 116, 81
+	orig: 158, 119
+	offset: 17, 10
+	index: -1
+common/hongwennv_skill_xuanqi_005
+	rotate: true
+	xy: 941, 465
+	size: 104, 71
+	orig: 158, 119
+	offset: 24, 9
+	index: -1
+common/hongwennv_skill_xuanqi_002
+	rotate: true
+	xy: 813, 903
+	size: 78, 37
+	orig: 158, 119
+	offset: 35, 6
+	index: -1
+common/hongwennv_skill_xuanqi_009
+	rotate: false
+	xy: 801, 620
+	size: 142, 81
+	orig: 158, 119
+	offset: 4, 27
+	index: -1
+common/hongwennv_skill_xuanqi_008
+	rotate: true
+	xy: 629, 578
+	size: 130, 87
+	orig: 158, 119
+	offset: 12, 14
+	index: -1
+
+asset/anim/hongwennvSESKILL0.png
+size: 1015,997
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/hongwennv_skill_juqixian_008
+	rotate: false
+	xy: 273, 898
+	size: 191, 94
+	orig: 255, 192
+	offset: 30, 56
+	index: -1
+skill/hongwennv_skill_juqixian_012
+	rotate: false
+	xy: 829, 855
+	size: 123, 74
+	orig: 255, 192
+	offset: 98, 62
+	index: -1
+skill/hongwennv_skill_juqixian_013
+	rotate: false
+	xy: 828, 930
+	size: 107, 44
+	orig: 255, 192
+	offset: 105, 70
+	index: -1
+skill/hongwennv_skill_juqixian_010
+	rotate: false
+	xy: 675, 829
+	size: 153, 84
+	orig: 255, 192
+	offset: 68, 60
+	index: -1
+skill/hongwennv_skill_juqixian_002
+	rotate: false
+	xy: 285, 644
+	size: 197, 134
+	orig: 255, 192
+	offset: 22, 26
+	index: -1
+skill/hongwennv_skill_juqixian_004
+	rotate: false
+	xy: 483, 644
+	size: 197, 130
+	orig: 255, 192
+	offset: 23, 37
+	index: -1
+skill/hongwennv_skill_juqixian_007
+	rotate: false
+	xy: 483, 775
+	size: 191, 102
+	orig: 255, 192
+	offset: 29, 54
+	index: -1
+skill/hongwennv_skill_juqixian_006
+	rotate: false
+	xy: 285, 779
+	size: 193, 118
+	orig: 255, 192
+	offset: 28, 47
+	index: -1
+skill/hongwennv_skill_juqixian_000
+	rotate: false
+	xy: 479, 878
+	size: 187, 102
+	orig: 255, 192
+	offset: 26, 18
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_longjuan_shandian_011
+	rotate: true
+	xy: 820, 684
+	size: 75, 70
+	orig: 255, 212
+	offset: 0, 113
+	index: -1
+global/a_global_longjuan_shandian_009
+	rotate: false
+	xy: 308, 631
+	size: 87, 132
+	orig: 255, 212
+	offset: 1, 49
+	index: -1
+global/a_global_longjuan_shandian_008
+	rotate: true
+	xy: 813, 831
+	size: 31, 66
+	orig: 255, 212
+	offset: 198, 86
+	index: -1
+global/a_global_longjuan_shandian_007
+	rotate: true
+	xy: 705, 230
+	size: 55, 84
+	orig: 255, 212
+	offset: 189, 80
+	index: -1
+global/a_global_longjuan_shandian_006
+	rotate: false
+	xy: 0, 0
+	size: 237, 154
+	orig: 255, 212
+	offset: 7, 19
+	index: -1
+global/a_global_longjuan_shandian_005
+	rotate: false
+	xy: 170, 484
+	size: 125, 146
+	orig: 255, 212
+	offset: 12, 15
+	index: -1
+global/a_global_longjuan_shandian_004
+	rotate: false
+	xy: 238, 0
+	size: 175, 144
+	orig: 255, 212
+	offset: 66, 11
+	index: -1
+global/a_global_longjuan_shandian_003
+	rotate: false
+	xy: 728, 688
+	size: 91, 68
+	orig: 255, 212
+	offset: 63, 43
+	index: -1
+global/a_global_longjuan_shandian_002
+	rotate: false
+	xy: 411, 166
+	size: 137, 120
+	orig: 255, 212
+	offset: 95, 19
+	index: -1
+global/a_global_longjuan_shandian_001
+	rotate: false
+	xy: 170, 631
+	size: 137, 112
+	orig: 255, 212
+	offset: 88, 16
+	index: -1
+global/a_global_longjuan_shandian_000
+	rotate: false
+	xy: 813, 760
+	size: 69, 70
+	orig: 255, 212
+	offset: 85, 12
+	index: -1

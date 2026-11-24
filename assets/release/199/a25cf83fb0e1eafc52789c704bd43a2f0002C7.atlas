@@ -1,0 +1,48 @@
+
+asset/anim/shangyejieqingdian0.png
+size: 419,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhongjiancaiqi
+	rotate: false
+	xy: 0, 117
+	size: 387, 88
+	orig: 387, 88
+	offset: 0, 0
+	index: -1
+tiaofu
+	rotate: false
+	xy: 0, 0
+	size: 387, 116
+	orig: 387, 116
+	offset: 0, 0
+	index: -1
+zuoloucaiqi
+	rotate: true
+	xy: 388, 0
+	size: 139, 31
+	orig: 139, 31
+	offset: 0, 0
+	index: -1
+reqiqiutiaofu
+	rotate: true
+	xy: 0, 415
+	size: 81, 330
+	orig: 81, 330
+	offset: 0, 0
+	index: -1
+youloucaiqi
+	rotate: true
+	xy: 331, 206
+	size: 185, 75
+	orig: 185, 75
+	offset: 0, 0
+	index: -1
+reqiqiu
+	rotate: false
+	xy: 0, 206
+	size: 325, 208
+	orig: 325, 208
+	offset: 0, 0
+	index: -1

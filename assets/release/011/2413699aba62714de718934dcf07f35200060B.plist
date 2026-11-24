@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>mask_4_zhanduiwenzhangjiemianimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{547,551}</string>
+                <key>spriteSourceSize</key>
+                <string>{547,551}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{547,551}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>zhanduiwenzhangjiemianimage3.png</string>
+            <key>size</key>
+            <string>{547,551}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:d4ca386b383bc5527241b89f593ea6ef:7cbc5a385126730a08439cc761574fc1:0b91673c35583e3ec05ba9db19392c68$</string>
+            <key>textureFileName</key>
+            <string>zhanduiwenzhangjiemianimage3.png</string>
+        </dict>
+    </dict>
+</plist>

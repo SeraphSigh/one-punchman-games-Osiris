@@ -1,0 +1,356 @@
+
+asset/anim/axiuluodujiaoxianSECOMMON0.png
+size: 1024,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/axiuluo_dian_037
+	rotate: true
+	xy: 380, 230
+	size: 289, 153
+	orig: 381, 165
+	offset: 27, 3
+	index: -1
+common/axiuluo_dian_039
+	rotate: true
+	xy: 932, 628
+	size: 249, 89
+	orig: 381, 165
+	offset: 105, 34
+	index: -1
+common/axiuluo_dian_038
+	rotate: true
+	xy: 274, 170
+	size: 305, 105
+	orig: 381, 165
+	offset: 43, 28
+	index: -1
+common/axiuluo_dian_045
+	rotate: false
+	xy: 239, 377
+	size: 27, 73
+	orig: 381, 165
+	offset: 304, 42
+	index: -1
+common/axiuluo_fangkuai_050
+	rotate: false
+	xy: 0, 377
+	size: 238, 232
+	orig: 238, 232
+	offset: 0, 0
+	index: -1
+common/axiuluo_diciyan_048
+	rotate: false
+	xy: 813, 792
+	size: 112, 194
+	orig: 252, 214
+	offset: 7, 7
+	index: -1
+common/axiuluo_diciyan_049
+	rotate: false
+	xy: 819, 591
+	size: 112, 200
+	orig: 252, 214
+	offset: 7, 8
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_chuixue_zhuanyan_016
+	rotate: true
+	xy: 764, 860
+	size: 89, 90
+	orig: 207, 104
+	offset: 9, 9
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_chuixue_zhuanyan_005
+	rotate: true
+	xy: 735, 654
+	size: 71, 48
+	orig: 207, 104
+	offset: 17, 19
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_chuixue_zhuanyan_012
+	rotate: true
+	xy: 383, 931
+	size: 93, 74
+	orig: 207, 104
+	offset: 6, 10
+	index: -1
+global/a_global_chuixue_zhuanyan_004
+	rotate: false
+	xy: 313, 931
+	size: 63, 44
+	orig: 207, 104
+	offset: 21, 20
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_chuixue_zhuanyan_013
+	rotate: true
+	xy: 718, 473
+	size: 85, 66
+	orig: 207, 104
+	offset: 10, 14
+	index: -1
+global/a_global_chuixue_zhuanyan_010
+	rotate: true
+	xy: 441, 785
+	size: 85, 82
+	orig: 207, 104
+	offset: 10, 10
+	index: -1
+global/a_global_chuixue_zhuanyan_011
+	rotate: true
+	xy: 454, 497
+	size: 89, 88
+	orig: 207, 104
+	offset: 8, 9
+	index: -1
+global/a_global_chuixue_zhuanyan_008
+	rotate: false
+	xy: 542, 669
+	size: 81, 76
+	orig: 207, 104
+	offset: 11, 14
+	index: -1
+global/a_global_chuixue_zhuanyan_014
+	rotate: false
+	xy: 454, 667
+	size: 87, 66
+	orig: 207, 104
+	offset: 9, 12
+	index: -1
+global/a_global_chuixue_zhuanyan_015
+	rotate: true
+	xy: 624, 588
+	size: 89, 78
+	orig: 207, 104
+	offset: 8, 10
+	index: -1
+global/a_global_chuixue_zhuanyan_007
+	rotate: true
+	xy: 306, 707
+	size: 77, 70
+	orig: 207, 104
+	offset: 14, 15
+	index: -1
+global/a_global_chuixue_zhuanyan_006
+	rotate: true
+	xy: 154, 801
+	size: 73, 58
+	orig: 207, 104
+	offset: 16, 17
+	index: -1
+global/a_global_yuanquangongyong
+	rotate: false
+	xy: 343, 0
+	size: 112, 112
+	orig: 112, 112
+	offset: 0, 0
+	index: -1
+global/a_global_chuixue_zhuanyan_009
+	rotate: true
+	xy: 696, 387
+	size: 85, 74
+	orig: 207, 104
+	offset: 9, 12
+	index: -1
+
+asset/anim/huoqiu0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_longjuan_dilie
+	rotate: false
+	xy: 0, 0
+	size: 440, 134
+	orig: 440, 134
+	offset: 0, 0
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/axiuluodujiaoxianSECOMMON1.png
+size: 1008,949
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/axiuluo_hongdilie_055
+	rotate: true
+	xy: 873, 215
+	size: 157, 128
+	orig: 355, 150
+	offset: 11, 10
+	index: -1
+common/axiuluo_diciyan_052
+	rotate: false
+	xy: 220, 150
+	size: 102, 84
+	orig: 252, 214
+	offset: 13, 10
+	index: -1
+common/axiuluo_hongdilie_051
+	rotate: false
+	xy: 507, 228
+	size: 159, 128
+	orig: 355, 150
+	offset: 9, 10
+	index: -1
+common/axiuluo_diciyan_056
+	rotate: false
+	xy: 775, 656
+	size: 100, 60
+	orig: 252, 214
+	offset: 14, 23
+	index: -1
+common/axiuluo_hongdilie_053
+	rotate: true
+	xy: 442, 386
+	size: 159, 126
+	orig: 355, 150
+	offset: 9, 10
+	index: -1
+common/axiuluo_diciyan_054
+	rotate: false
+	xy: 835, 786
+	size: 100, 58
+	orig: 252, 214
+	offset: 14, 23
+	index: -1
+common/axiuluo_hongdilie_059
+	rotate: true
+	xy: 456, 546
+	size: 157, 128
+	orig: 355, 150
+	offset: 11, 9
+	index: -1
+common/axiuluo_diciyan_053
+	rotate: false
+	xy: 673, 852
+	size: 100, 68
+	orig: 252, 214
+	offset: 14, 14
+	index: -1
+common/axiuluo_hongdilie_057
+	rotate: true
+	xy: 157, 235
+	size: 157, 130
+	orig: 355, 150
+	offset: 11, 8
+	index: -1
+common/axiuluo_diciyan_051
+	rotate: false
+	xy: 242, 47
+	size: 104, 102
+	orig: 252, 214
+	offset: 12, 8
+	index: -1
+common/axiuluo_hongdilie_047
+	rotate: false
+	xy: 164, 821
+	size: 159, 128
+	orig: 355, 150
+	offset: 9, 8
+	index: -1
+common/axiuluo_dian_044
+	rotate: true
+	xy: 684, 667
+	size: 101, 79
+	orig: 381, 165
+	offset: 242, 40
+	index: -1
+common/axiuluo_dian_042
+	rotate: false
+	xy: 791, 0
+	size: 211, 85
+	orig: 381, 165
+	offset: 146, 36
+	index: -1
+common/axiuluo_dian_043
+	rotate: true
+	xy: 281, 589
+	size: 203, 83
+	orig: 381, 165
+	offset: 154, 37
+	index: -1
+common/axiuluo_dian_040
+	rotate: false
+	xy: 0, 47
+	size: 241, 87
+	orig: 381, 165
+	offset: 114, 35
+	index: -1
+common/axiuluo_dian_041
+	rotate: true
+	xy: 193, 589
+	size: 219, 87
+	orig: 381, 165
+	offset: 137, 35
+	index: -1
+common/axiuluo_diciyan_055
+	rotate: true
+	xy: 952, 731
+	size: 100, 56
+	orig: 252, 214
+	offset: 14, 23
+	index: -1
+common/axiuluo_diciyan_050
+	rotate: true
+	xy: 288, 279
+	size: 106, 166
+	orig: 252, 214
+	offset: 11, 8
+	index: -1
+common/axiuluo_kuai_008
+	rotate: false
+	xy: 855, 845
+	size: 80, 80
+	orig: 80, 80
+	offset: 0, 0
+	index: -1
+common/axiuluo_hongdilie_061
+	rotate: true
+	xy: 658, 361
+	size: 157, 128
+	orig: 355, 150
+	offset: 11, 9
+	index: -1
+common/axiuluo_hongdilie_049
+	rotate: false
+	xy: 729, 86
+	size: 159, 128
+	orig: 355, 150
+	offset: 9, 10
+	index: -1

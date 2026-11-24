@@ -1,0 +1,26 @@
+
+asset/anim/xinnianchangjing0.png
+size: 431,474
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guofuzhuchangjingdenglong1
+	rotate: true
+	xy: 0, 408
+	size: 66, 208
+	orig: 66, 208
+	offset: 0, 0
+	index: -1
+
+asset/anim/xinnianchangjingwuxue0.png
+size: 431,474
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guofuzhuchangjingdenglongyingzi
+	rotate: false
+	xy: 361, 243
+	size: 70, 210
+	orig: 70, 210
+	offset: 0, 0
+	index: -1

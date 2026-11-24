@@ -1,0 +1,1524 @@
+
+asset/anim/yinseliaoya_shendu1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_zuodatui_yinseliaoya_shendu
+	rotate: false
+	xy: 136, 373
+	size: 60, 53
+	orig: 60, 53
+	offset: 0, 0
+	index: -1
+i_4youdabi_yinseliaoya_shendu
+	rotate: false
+	xy: 179, 295
+	size: 50, 61
+	orig: 50, 61
+	offset: 0, 0
+	index: -1
+m_youxiaobi_yinseliaoya_shendu
+	rotate: true
+	xy: 138, 458
+	size: 54, 29
+	orig: 54, 29
+	offset: 0, 0
+	index: -1
+h_youdabi_yinseliaoya_shendu
+	rotate: false
+	xy: 256, 466
+	size: 60, 46
+	orig: 60, 46
+	offset: 0, 0
+	index: -1
+f_Rarm_yinseliaoya_shendu
+	rotate: true
+	xy: 437, 233
+	size: 63, 41
+	orig: 63, 41
+	offset: 0, 0
+	index: -1
+x_kua_yinseliaoya_shendu
+	rotate: true
+	xy: 212, 450
+	size: 62, 43
+	orig: 62, 43
+	offset: 0, 0
+	index: -1
+d_youdatui_yinseliaoya_shendu
+	rotate: false
+	xy: 160, 180
+	size: 72, 52
+	orig: 72, 52
+	offset: 0, 0
+	index: -1
+k_shenti_yinseliaoya_shendu
+	rotate: true
+	xy: 355, 93
+	size: 88, 121
+	orig: 88, 121
+	offset: 0, 0
+	index: -1
+b_kua_yinseliaoya_shendu
+	rotate: false
+	xy: 256, 117
+	size: 69, 40
+	orig: 69, 40
+	offset: 0, 0
+	index: -1
+g_Rforearm_yinseliaoya_shendu
+	rotate: true
+	xy: 479, 303
+	size: 40, 33
+	orig: 40, 33
+	offset: 0, 0
+	index: -1
+m_zuoxiaotui_yinseliaoya_shendu
+	rotate: false
+	xy: 230, 234
+	size: 66, 53
+	orig: 66, 53
+	offset: 0, 0
+	index: -1
+z_Rarm_yinseliaoya_shendu
+	rotate: true
+	xy: 355, 182
+	size: 51, 61
+	orig: 51, 61
+	offset: 0, 0
+	index: -1
+b_youdatui_yinseliaoya_shendu
+	rotate: true
+	xy: 395, 234
+	size: 62, 41
+	orig: 62, 41
+	offset: 0, 0
+	index: -1
+b_Larm_yinseliaoyashendu
+	rotate: true
+	xy: 288, 348
+	size: 63, 36
+	orig: 63, 36
+	offset: 0, 0
+	index: -1
+c_youdatui_yinseliaoya_shendu
+	rotate: false
+	xy: 171, 233
+	size: 58, 61
+	orig: 58, 61
+	offset: 0, 0
+	index: -1
+l_kua_yinseliaoya_shendu
+	rotate: true
+	xy: 87, 255
+	size: 72, 37
+	orig: 72, 37
+	offset: 0, 0
+	index: -1
+i_1_Lforearm_yinseliaoya_shendu
+	rotate: true
+	xy: 297, 234
+	size: 53, 36
+	orig: 53, 36
+	offset: 0, 0
+	index: -1
+c_zuodabi_yinseliaoya_shendu
+	rotate: true
+	xy: 479, 245
+	size: 57, 33
+	orig: 57, 33
+	offset: 0, 0
+	index: -1
+b_zuoxiaotui_yinseliaoya_shendu
+	rotate: true
+	xy: 325, 401
+	size: 48, 55
+	orig: 48, 55
+	offset: 0, 0
+	index: -1
+b_youxiaotui_yinseliaoya_shendu
+	rotate: true
+	xy: 381, 395
+	size: 29, 61
+	orig: 29, 61
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui_yinseliaoya_shendu
+	rotate: true
+	xy: 0, 458
+	size: 54, 53
+	orig: 54, 53
+	offset: 0, 0
+	index: -1
+a_youjiao_yinseliaoya_shendu
+	rotate: true
+	xy: 477, 134
+	size: 47, 31
+	orig: 47, 31
+	offset: 0, 0
+	index: -1
+y_youdabi_yinseliaoya_shendu
+	rotate: false
+	xy: 317, 466
+	size: 60, 46
+	orig: 60, 46
+	offset: 0, 0
+	index: -1
+x_youdabi_yinseliaoya_shendu
+	rotate: true
+	xy: 417, 182
+	size: 50, 61
+	orig: 50, 61
+	offset: 0, 0
+	index: -1
+j_shenti_yinseliaoya_shendu
+	rotate: false
+	xy: 169, 0
+	size: 86, 133
+	orig: 86, 133
+	offset: 0, 0
+	index: -1
+shunyi1_yinseliaoyashendu
+	rotate: false
+	xy: 0, 0
+	size: 168, 156
+	orig: 202, 176
+	offset: 13, 9
+	index: -1
+k_zuodabi_yinseliaoya_shendu
+	rotate: false
+	xy: 435, 468
+	size: 60, 44
+	orig: 60, 44
+	offset: 0, 0
+	index: -1
+i_2youdabi_yinseliaoya_shendu
+	rotate: false
+	xy: 477, 65
+	size: 30, 68
+	orig: 30, 68
+	offset: 0, 0
+	index: -1
+n_youdabi_yinseliaoya_shendu
+	rotate: true
+	xy: 477, 0
+	size: 64, 35
+	orig: 64, 35
+	offset: 0, 0
+	index: -1
+c_kua_yinseliaoya_shendu
+	rotate: true
+	xy: 91, 360
+	size: 66, 44
+	orig: 66, 44
+	offset: 0, 0
+	index: -1
+d_kua_yinseliaoya_shendu
+	rotate: true
+	xy: 316, 168
+	size: 65, 38
+	orig: 65, 38
+	offset: 0, 0
+	index: -1
+c_youxiaotui_yinseliaoya_shendu
+	rotate: true
+	xy: 197, 357
+	size: 66, 42
+	orig: 66, 42
+	offset: 0, 0
+	index: -1
+z_Larm_yinseliaoya_shendu
+	rotate: false
+	xy: 233, 195
+	size: 68, 38
+	orig: 68, 38
+	offset: 0, 0
+	index: -1
+o_youdatui_yinseliaoya_shendu
+	rotate: false
+	xy: 125, 236
+	size: 45, 69
+	orig: 45, 69
+	offset: 0, 0
+	index: -1
+i_3youdabi_yinseliaoya_shendu
+	rotate: false
+	xy: 325, 344
+	size: 55, 56
+	orig: 55, 56
+	offset: 0, 0
+	index: -1
+z_Lthigh_yinseliaoya_shendu
+	rotate: true
+	xy: 106, 157
+	size: 78, 53
+	orig: 78, 53
+	offset: 0, 0
+	index: -1
+b_zuojiao_yinseliaoya_shendu
+	rotate: false
+	xy: 87, 328
+	size: 48, 31
+	orig: 48, 31
+	offset: 0, 0
+	index: -1
+q_Lthigh_yinseliaoya_shendu
+	rotate: false
+	xy: 443, 349
+	size: 43, 60
+	orig: 43, 60
+	offset: 0, 0
+	index: -1
+o_youdabi_yinseliaoya_shendu
+	rotate: false
+	xy: 324, 288
+	size: 58, 55
+	orig: 58, 55
+	offset: 0, 0
+	index: -1
+l_zuodabi_yinseliaoya_shendu
+	rotate: false
+	xy: 334, 234
+	size: 60, 53
+	orig: 60, 53
+	offset: 0, 0
+	index: -1
+c_zuodatui_yinseliaoya_shendu
+	rotate: false
+	xy: 169, 134
+	size: 77, 45
+	orig: 77, 45
+	offset: 0, 0
+	index: -1
+b_Rarm_yinseliaoya_shendu
+	rotate: true
+	xy: 286, 288
+	size: 59, 37
+	orig: 59, 37
+	offset: 0, 0
+	index: -1
+e_Rarm_yinseliaoya_shendu
+	rotate: true
+	xy: 240, 348
+	size: 61, 47
+	orig: 61, 47
+	offset: 0, 0
+	index: -1
+o_Rforearm_yinseliaoya_shendu
+	rotate: false
+	xy: 54, 458
+	size: 45, 54
+	orig: 45, 54
+	offset: 0, 0
+	index: -1
+a_youxiaotui_yinseliaoya_shendu
+	rotate: true
+	xy: 91, 427
+	size: 30, 59
+	orig: 30, 59
+	offset: 0, 0
+	index: -1
+i_1_Rarm117_yinseliaoyashendu
+	rotate: false
+	xy: 136, 306
+	size: 42, 66
+	orig: 42, 66
+	offset: 0, 0
+	index: -1
+q_youxiaotui_yinseliaoya_shendu
+	rotate: false
+	xy: 378, 466
+	size: 56, 46
+	orig: 56, 46
+	offset: 0, 0
+	index: -1
+f_Rarm134_yinseliaoyashendu
+	rotate: false
+	xy: 443, 410
+	size: 52, 57
+	orig: 52, 57
+	offset: 0, 0
+	index: -1
+a_zuodabi_yinseliaoya_shendu
+	rotate: false
+	xy: 151, 427
+	size: 56, 30
+	orig: 56, 30
+	offset: 0, 0
+	index: -1
+i_2youxiaobi_yinseliaoya_shendu
+	rotate: true
+	xy: 100, 458
+	size: 54, 37
+	orig: 54, 37
+	offset: 0, 0
+	index: -1
+d_youdabi_yinseliaoya_shendu
+	rotate: false
+	xy: 381, 425
+	size: 61, 40
+	orig: 61, 40
+	offset: 0, 0
+	index: -1
+z_Rshin_yinseliaoya_shendu
+	rotate: false
+	xy: 445, 297
+	size: 33, 51
+	orig: 33, 51
+	offset: 0, 0
+	index: -1
+n_shenti_yinseliaoya_shendu
+	rotate: true
+	xy: 355, 0
+	size: 92, 121
+	orig: 92, 121
+	offset: 0, 0
+	index: -1
+p_kua_yinseliaoya_shendu
+	rotate: true
+	xy: 286, 412
+	size: 42, 38
+	orig: 42, 38
+	offset: 0, 0
+	index: -1
+m_youdabi_yinseliaoya_shendu
+	rotate: false
+	xy: 247, 158
+	size: 68, 36
+	orig: 68, 36
+	offset: 0, 0
+	index: -1
+z_shenti_yinseliaoya_shendu
+	rotate: false
+	xy: 0, 255
+	size: 86, 104
+	orig: 86, 104
+	offset: 0, 0
+	index: -1
+l_shenti_yinseliaoya_shendu
+	rotate: false
+	xy: 256, 0
+	size: 98, 116
+	orig: 98, 116
+	offset: 0, 0
+	index: -1
+d_zuojiao_yinseliaoya_shendu
+	rotate: true
+	xy: 326, 117
+	size: 50, 28
+	orig: 50, 28
+	offset: 0, 0
+	index: -1
+o_kua_yinseliaoya_shendu
+	rotate: false
+	xy: 383, 297
+	size: 61, 46
+	orig: 61, 46
+	offset: 0, 0
+	index: -1
+x_zuodabi_yinseliaoya_shendu
+	rotate: true
+	xy: 381, 344
+	size: 50, 61
+	orig: 50, 61
+	offset: 0, 0
+	index: -1
+d_youxiaobi_yinseliaoya_shendu
+	rotate: true
+	xy: 256, 410
+	size: 55, 29
+	orig: 55, 29
+	offset: 0, 0
+	index: -1
+y_shenti_yinseliaoya_shendu
+	rotate: false
+	xy: 0, 360
+	size: 90, 97
+	orig: 90, 97
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi_yinseliaoya_shendu
+	rotate: true
+	xy: 479, 182
+	size: 62, 33
+	orig: 62, 33
+	offset: 0, 0
+	index: -1
+y_Rshin6_yinseliaoyashendu
+	rotate: false
+	xy: 230, 288
+	size: 55, 59
+	orig: 55, 59
+	offset: 0, 0
+	index: -1
+i_1_Rarm_yinseliaoya_shendu
+	rotate: true
+	xy: 168, 458
+	size: 53, 43
+	orig: 53, 43
+	offset: 0, 0
+	index: -1
+d_shenti_yinseliaoya_shendu
+	rotate: false
+	xy: 0, 157
+	size: 105, 97
+	orig: 105, 97
+	offset: 0, 0
+	index: -1
+
+asset/anim/yinseliaoya_shendu0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaocanying_yinseliaoyahshendu
+	rotate: false
+	xy: 0, 0
+	size: 218, 172
+	orig: 220, 172
+	offset: 2, 0
+	index: -1
+shunyi3_yinseliaoyashendu
+	rotate: false
+	xy: 0, 173
+	size: 203, 156
+	orig: 215, 178
+	offset: 12, 7
+	index: -1
+h_shenti_yinseliaoya_shendu
+	rotate: true
+	xy: 219, 157
+	size: 82, 118
+	orig: 82, 118
+	offset: 0, 0
+	index: -1
+y_Lforearm_yinseliaoya_shendu
+	rotate: true
+	xy: 105, 486
+	size: 24, 43
+	orig: 24, 43
+	offset: 0, 0
+	index: -1
+m_zuojiao_yinseliaoya_shendu
+	rotate: true
+	xy: 76, 486
+	size: 26, 28
+	orig: 26, 28
+	offset: 0, 0
+	index: -1
+b_Rforearm_yinseliaoya_shendu
+	rotate: false
+	xy: 458, 461
+	size: 54, 49
+	orig: 54, 49
+	offset: 0, 0
+	index: -1
+d_youxiaotui_yinseliaoya_shendu
+	rotate: true
+	xy: 410, 440
+	size: 72, 47
+	orig: 72, 47
+	offset: 0, 0
+	index: -1
+q_shenti_yinseliaoya_shendu
+	rotate: true
+	xy: 410, 0
+	size: 90, 102
+	orig: 90, 102
+	offset: 0, 0
+	index: -1
+n_zuodabi_yinseliaoya_shendu
+	rotate: false
+	xy: 182, 450
+	size: 49, 62
+	orig: 49, 62
+	offset: 0, 0
+	index: -1
+a_youdatui_yinseliaoya_shendu
+	rotate: true
+	xy: 318, 240
+	size: 82, 44
+	orig: 82, 44
+	offset: 0, 0
+	index: -1
+x_youjiao_yinseliaoya_shendu
+	rotate: false
+	xy: 38, 486
+	size: 37, 26
+	orig: 37, 26
+	offset: 0, 0
+	index: -1
+shunyi4_yinseliaoyashendu
+	rotate: false
+	xy: 0, 330
+	size: 181, 155
+	orig: 207, 161
+	offset: 10, 6
+	index: -1
+l_youdatui_yinseliaoya_shendu
+	rotate: false
+	xy: 334, 461
+	size: 75, 51
+	orig: 75, 51
+	offset: 0, 0
+	index: -1
+a_shenti_yinseliaoya_shendu
+	rotate: true
+	xy: 204, 240
+	size: 82, 113
+	orig: 82, 113
+	offset: 0, 0
+	index: -1
+p_zuodabi_yinseliaoya_shendu
+	rotate: true
+	xy: 458, 342
+	size: 59, 54
+	orig: 59, 54
+	offset: 0, 0
+	index: -1
+b_shenti_yinseliaoya_shendu
+	rotate: false
+	xy: 182, 330
+	size: 89, 119
+	orig: 89, 119
+	offset: 0, 0
+	index: -1
+x_body13_yinseliaoyashendu
+	rotate: true
+	xy: 410, 91
+	size: 80, 102
+	orig: 80, 102
+	offset: 0, 0
+	index: -1
+z_kua_yinseliaoya_shendu
+	rotate: true
+	xy: 480, 265
+	size: 76, 32
+	orig: 76, 32
+	offset: 0, 0
+	index: -1
+a_kouzi_yinseliaoya_shendu
+	rotate: false
+	xy: 149, 486
+	size: 28, 16
+	orig: 28, 16
+	offset: 0, 0
+	index: -1
+m_shenti_yinseliaoya_shendu
+	rotate: false
+	xy: 349, 339
+	size: 108, 100
+	orig: 108, 100
+	offset: 0, 0
+	index: -1
+i_2shenti_yinseliaoya_shendu
+	rotate: true
+	xy: 363, 265
+	size: 73, 116
+	orig: 73, 116
+	offset: 0, 0
+	index: -1
+shunyi2_yinseliaoyashendu
+	rotate: false
+	xy: 219, 0
+	size: 190, 156
+	orig: 206, 172
+	offset: 16, 9
+	index: -1
+c_shenti_yinseliaoya_shendu
+	rotate: true
+	xy: 398, 172
+	size: 92, 113
+	orig: 92, 113
+	offset: 0, 0
+	index: -1
+p_youdatui_yinseliaoya_shendu
+	rotate: false
+	xy: 232, 450
+	size: 44, 62
+	orig: 44, 62
+	offset: 0, 0
+	index: -1
+x_Lthigh_yinseliaoya_shendu
+	rotate: false
+	xy: 338, 157
+	size: 59, 79
+	orig: 59, 79
+	offset: 0, 0
+	index: -1
+p_shenti_yinseliaoya_shendu
+	rotate: false
+	xy: 272, 323
+	size: 76, 118
+	orig: 76, 118
+	offset: 0, 0
+	index: -1
+m_zuodatui_yinseliaoya_shendu
+	rotate: true
+	xy: 277, 442
+	size: 70, 56
+	orig: 70, 56
+	offset: 0, 0
+	index: -1
+q_zuojiao_yinseliaoya_shendu
+	rotate: false
+	xy: 0, 486
+	size: 37, 26
+	orig: 37, 26
+	offset: 0, 0
+	index: -1
+j_youdabi_yinseliaoya_shendu
+	rotate: true
+	xy: 458, 402
+	size: 58, 54
+	orig: 58, 54
+	offset: 0, 0
+	index: -1
+
+asset/anim/yinseliaoya_shendu2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+i_1_Rforearm_yinseliaoya_shendu
+	rotate: true
+	xy: 293, 296
+	size: 29, 41
+	orig: 29, 41
+	offset: 0, 0
+	index: -1
+f_Rforearm_yinseliaoya_shendu
+	rotate: false
+	xy: 0, 249
+	size: 48, 41
+	orig: 48, 41
+	offset: 0, 0
+	index: -1
+b_zuodatui_yinseliaoya_shendu
+	rotate: false
+	xy: 418, 78
+	size: 60, 43
+	orig: 60, 43
+	offset: 0, 0
+	index: -1
+q_Larm_yinseliaoya_shendu
+	rotate: true
+	xy: 300, 253
+	size: 42, 44
+	orig: 42, 44
+	offset: 0, 0
+	index: -1
+p_zuoxiaobi_yinseliaoya_shendu
+	rotate: true
+	xy: 91, 293
+	size: 34, 39
+	orig: 34, 39
+	offset: 0, 0
+	index: -1
+p_youxiaotui_yinseliaoya_shendu
+	rotate: false
+	xy: 73, 49
+	size: 66, 38
+	orig: 66, 38
+	offset: 0, 0
+	index: -1
+c_youjiao_yinseliaoya_shendu
+	rotate: true
+	xy: 0, 324
+	size: 31, 37
+	orig: 31, 37
+	offset: 0, 0
+	index: -1
+q_youjiao_yinseliaoya_shendu
+	rotate: false
+	xy: 141, 290
+	size: 40, 40
+	orig: 40, 40
+	offset: 0, 0
+	index: -1
+y_Lthigh_yinseliaoya_shendu
+	rotate: false
+	xy: 291, 0
+	size: 65, 64
+	orig: 65, 64
+	offset: 0, 0
+	index: -1
+l_youxiaobi_yinseliaoya_shendu
+	rotate: true
+	xy: 232, 196
+	size: 40, 48
+	orig: 40, 48
+	offset: 0, 0
+	index: -1
+l_zuojiao_yinseliaoya_shendu
+	rotate: false
+	xy: 346, 223
+	size: 48, 30
+	orig: 48, 30
+	offset: 0, 0
+	index: -1
+p_Larm_yinseliaoya_shendu
+	rotate: true
+	xy: 205, 90
+	size: 44, 58
+	orig: 44, 58
+	offset: 0, 0
+	index: -1
+l_zuodatui_yinseliaoya_shendu
+	rotate: false
+	xy: 76, 0
+	size: 74, 48
+	orig: 74, 48
+	offset: 0, 0
+	index: -1
+f_Rforearm133_yinseliaoyashendu
+	rotate: false
+	xy: 123, 153
+	size: 56, 32
+	orig: 56, 32
+	offset: 0, 0
+	index: -1
+m_kua_yinseliaoya_shendu
+	rotate: false
+	xy: 0, 165
+	size: 57, 43
+	orig: 57, 43
+	offset: 0, 0
+	index: -1
+p_Rforearm_yinseliaoya_shendu
+	rotate: false
+	xy: 109, 216
+	size: 49, 36
+	orig: 49, 36
+	offset: 0, 0
+	index: -1
+i_4youxiaobi_yinseliaoya_shendu
+	rotate: true
+	xy: 481, 0
+	size: 58, 31
+	orig: 58, 31
+	offset: 0, 0
+	index: -1
+o_youxiaobi_yinseliaoya_shendu
+	rotate: true
+	xy: 399, 217
+	size: 49, 51
+	orig: 49, 51
+	offset: 0, 0
+	index: -1
+g_Lforearm_yinseliaoya_shendu
+	rotate: false
+	xy: 253, 166
+	size: 56, 29
+	orig: 56, 29
+	offset: 0, 0
+	index: -1
+j_Lforearm_yinseliaoya_shendu
+	rotate: false
+	xy: 309, 213
+	size: 36, 39
+	orig: 36, 39
+	offset: 0, 0
+	index: -1
+a_zuojiao_yinseliaoya_shendu
+	rotate: false
+	xy: 479, 117
+	size: 33, 32
+	orig: 33, 32
+	offset: 0, 0
+	index: -1
+y_Lthigh4_yinseliaoyashendu
+	rotate: false
+	xy: 73, 88
+	size: 63, 63
+	orig: 63, 63
+	offset: 0, 0
+	index: -1
+c_youxiaobi_yinseliaoya_shendu
+	rotate: false
+	xy: 159, 218
+	size: 48, 29
+	orig: 48, 29
+	offset: 0, 0
+	index: -1
+l_youxiaotui_yinseliaoya_shendu
+	rotate: true
+	xy: 419, 0
+	size: 39, 61
+	orig: 39, 61
+	offset: 0, 0
+	index: -1
+d_youjiao_yinseliaoya_shendu
+	rotate: true
+	xy: 205, 270
+	size: 40, 43
+	orig: 40, 43
+	offset: 0, 0
+	index: -1
+n_youxiaobi_yinseliaoya_shendu
+	rotate: true
+	xy: 58, 187
+	size: 49, 50
+	orig: 49, 50
+	offset: 0, 0
+	index: -1
+j_Lforearm103_yinseliaoyashendu
+	rotate: false
+	xy: 159, 248
+	size: 45, 41
+	orig: 45, 41
+	offset: 0, 0
+	index: -1
+o_youxiaotui_yinseliaoya_shendu
+	rotate: false
+	xy: 357, 42
+	size: 60, 44
+	orig: 60, 44
+	offset: 0, 0
+	index: -1
+y_kua_yinseliaoya_shendu
+	rotate: false
+	xy: 249, 284
+	size: 43, 39
+	orig: 43, 39
+	offset: 0, 0
+	index: -1
+z_youxioabi_yinseliaoya_shendu
+	rotate: false
+	xy: 180, 181
+	size: 51, 36
+	orig: 51, 36
+	offset: 0, 0
+	index: -1
+q_Rforearm_yinseliaoya_shendu
+	rotate: true
+	xy: 481, 59
+	size: 57, 31
+	orig: 57, 31
+	offset: 0, 0
+	index: -1
+z_youjiao_yinseliaoya_shendu
+	rotate: false
+	xy: 465, 150
+	size: 46, 36
+	orig: 46, 36
+	offset: 0, 0
+	index: -1
+c_zuoxiaobi_yinseliaoya_shendu
+	rotate: true
+	xy: 42, 321
+	size: 31, 38
+	orig: 31, 38
+	offset: 0, 0
+	index: -1
+q_youdabi_yinseliaoya_shendu
+	rotate: true
+	xy: 219, 59
+	size: 30, 65
+	orig: 30, 65
+	offset: 0, 0
+	index: -1
+d_zuodabi_yinseliaoya_shendu
+	rotate: false
+	xy: 346, 180
+	size: 52, 42
+	orig: 52, 42
+	offset: 0, 0
+	index: -1
+q_zuoxiaotui_yinseliaoya_shendu
+	rotate: true
+	xy: 0, 209
+	size: 39, 49
+	orig: 39, 49
+	offset: 0, 0
+	index: -1
+q_kua_yinseliaoya_shendu
+	rotate: false
+	xy: 451, 231
+	size: 51, 39
+	orig: 51, 39
+	offset: 0, 0
+	index: -1
+m_zuodabi_yinseliaoya_shendu
+	rotate: false
+	xy: 151, 43
+	size: 67, 39
+	orig: 67, 39
+	offset: 0, 0
+	index: -1
+q_youdatui_yinseliaoya_shendu
+	rotate: false
+	xy: 223, 0
+	size: 67, 58
+	orig: 67, 58
+	offset: 0, 0
+	index: -1
+m_zuoxiaobi_yinseliaoya_shendu
+	rotate: false
+	xy: 310, 176
+	size: 35, 36
+	orig: 35, 36
+	offset: 0, 0
+	index: -1
+b_youjiao_yinseliaoya_shendu
+	rotate: false
+	xy: 0, 356
+	size: 35, 34
+	orig: 35, 34
+	offset: 0, 0
+	index: -1
+c_youdabi_yinseliaoya_shendu
+	rotate: false
+	xy: 285, 65
+	size: 60, 39
+	orig: 60, 39
+	offset: 0, 0
+	index: -1
+a_youxiaobi_yinseliaoya_shendu
+	rotate: false
+	xy: 281, 196
+	size: 27, 44
+	orig: 27, 44
+	offset: 0, 0
+	index: -1
+l_youdabi_yinseliaoya_shendu
+	rotate: false
+	xy: 140, 83
+	size: 64, 34
+	orig: 64, 34
+	offset: 0, 0
+	index: -1
+e_Lforearm_yinseliaoya_shendu
+	rotate: true
+	xy: 345, 285
+	size: 29, 41
+	orig: 29, 41
+	offset: 0, 0
+	index: -1
+g_Rarm_yinseliaoya_shendu
+	rotate: false
+	xy: 357, 0
+	size: 61, 41
+	orig: 61, 41
+	offset: 0, 0
+	index: -1
+y_Lshin_yinseliaoya_shendu
+	rotate: false
+	xy: 419, 40
+	size: 61, 37
+	orig: 61, 37
+	offset: 0, 0
+	index: -1
+k_youdabi_yinseliaoya_shendu
+	rotate: false
+	xy: 0, 127
+	size: 63, 37
+	orig: 63, 37
+	offset: 0, 0
+	index: -1
+h_Rarm_yinseliaoya_shendu
+	rotate: false
+	xy: 0, 89
+	size: 63, 37
+	orig: 63, 37
+	offset: 0, 0
+	index: -1
+n_zuoxiaobi_yinseliaoya_shendu
+	rotate: true
+	xy: 50, 237
+	size: 45, 48
+	orig: 45, 48
+	offset: 0, 0
+	index: -1
+a_youdabi_yinseliaoya_shendu
+	rotate: false
+	xy: 208, 237
+	size: 46, 32
+	orig: 46, 32
+	offset: 0, 0
+	index: -1
+x_zuoxiaotui_yinseliaoya_shendu
+	rotate: true
+	xy: 123, 186
+	size: 29, 51
+	orig: 29, 51
+	offset: 0, 0
+	index: -1
+z_Rthigh_yinseliaoya_shendu
+	rotate: false
+	xy: 0, 0
+	size: 75, 45
+	orig: 75, 45
+	offset: 0, 0
+	index: -1
+i_3_Rforearm_yinseliaoya_shendu
+	rotate: false
+	xy: 264, 105
+	size: 57, 29
+	orig: 57, 29
+	offset: 0, 0
+	index: -1
+h_Rforearm_yinseliaoya_shendu
+	rotate: false
+	xy: 0, 291
+	size: 41, 32
+	orig: 41, 32
+	offset: 0, 0
+	index: -1
+k_Lforearm_yinseliaoya_shendu
+	rotate: true
+	xy: 255, 241
+	size: 42, 44
+	orig: 42, 44
+	offset: 0, 0
+	index: -1
+z_Lshin_yinseliaoya_shendu
+	rotate: true
+	xy: 196, 135
+	size: 45, 56
+	orig: 45, 56
+	offset: 0, 0
+	index: -1
+d_zuodatui_yinseliaoya_shendu
+	rotate: false
+	xy: 0, 46
+	size: 72, 42
+	orig: 72, 42
+	offset: 0, 0
+	index: -1
+a_kua_yinseliaoya_shendu
+	rotate: false
+	xy: 151, 0
+	size: 71, 42
+	orig: 71, 42
+	offset: 0, 0
+	index: -1
+o_zuodabi_yinseliaoya_shendu
+	rotate: true
+	xy: 346, 87
+	size: 49, 59
+	orig: 49, 59
+	offset: 0, 0
+	index: -1
+x_zuojiao_yinseliaoya_shendu
+	rotate: false
+	xy: 38, 353
+	size: 36, 27
+	orig: 36, 27
+	offset: 0, 0
+	index: -1
+z_zuoxioabi_yinseliaoya_shendu
+	rotate: false
+	xy: 310, 135
+	size: 35, 40
+	orig: 35, 40
+	offset: 0, 0
+	index: -1
+k_Rforearm_yinseliaoya_shendu
+	rotate: true
+	xy: 345, 254
+	size: 30, 42
+	orig: 30, 42
+	offset: 0, 0
+	index: -1
+q_zuodabi_yinseliaoya_shendu
+	rotate: false
+	xy: 458, 187
+	size: 53, 43
+	orig: 53, 43
+	offset: 0, 0
+	index: -1
+x_youxiaobi_yinseliaoya_shendu
+	rotate: false
+	xy: 346, 137
+	size: 55, 42
+	orig: 55, 42
+	offset: 0, 0
+	index: -1
+g_Larm_yinseliaoya_shendu
+	rotate: true
+	xy: 253, 135
+	size: 30, 56
+	orig: 30, 56
+	offset: 0, 0
+	index: -1
+z_zuojiao_yinseliaoya_shendu
+	rotate: false
+	xy: 81, 328
+	size: 36, 34
+	orig: 36, 34
+	offset: 0, 0
+	index: -1
+l_youjiao_yinseliaoya_shendu
+	rotate: false
+	xy: 49, 283
+	size: 41, 37
+	orig: 41, 37
+	offset: 0, 0
+	index: -1
+l_zuoxiaobi_yinseliaoya_shendu
+	rotate: true
+	xy: 99, 253
+	size: 39, 41
+	orig: 39, 41
+	offset: 0, 0
+	index: -1
+d_zuoxiaotui_yinseliaoya_shendu
+	rotate: true
+	xy: 137, 118
+	size: 34, 58
+	orig: 34, 58
+	offset: 0, 0
+	index: -1
+x_zuoxiaobi_yinseliaoya_shendu
+	rotate: false
+	xy: 402, 174
+	size: 55, 42
+	orig: 55, 42
+	offset: 0, 0
+	index: -1
+b_Lforearm_yinseliaoyashendu
+	rotate: true
+	xy: 388, 267
+	size: 30, 41
+	orig: 30, 41
+	offset: 0, 0
+	index: -1
+j_zuodabi_yinseliaoya_shendu
+	rotate: false
+	xy: 406, 122
+	size: 58, 51
+	orig: 58, 51
+	offset: 0, 0
+	index: -1
+l_zuoxiaotui_yinseliaoya_shendu
+	rotate: true
+	xy: 64, 152
+	size: 34, 58
+	orig: 34, 58
+	offset: 0, 0
+	index: -1
+
+asset/anim/yinseliaoya2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k_Lhand89_yinseliaoya
+	rotate: false
+	xy: 334, 277
+	size: 36, 35
+	orig: 36, 35
+	offset: 0, 0
+	index: -1
+c_Lhand156_yinseliaoya
+	rotate: true
+	xy: 425, 284
+	size: 35, 37
+	orig: 35, 37
+	offset: 0, 0
+	index: -1
+a_Rhand_yinseliaoyabaozou
+	rotate: false
+	xy: 473, 250
+	size: 38, 29
+	orig: 38, 29
+	offset: 0, 0
+	index: -1
+e_Lhand135_yinseliaoya
+	rotate: true
+	xy: 279, 165
+	size: 32, 25
+	orig: 32, 25
+	offset: 0, 0
+	index: -1
+i_3_Rhand109_yinseliaoya
+	rotate: false
+	xy: 387, 259
+	size: 37, 35
+	orig: 37, 35
+	offset: 0, 0
+	index: -1
+m_Lhand67_yinseliaoya
+	rotate: false
+	xy: 260, 198
+	size: 42, 40
+	orig: 42, 40
+	offset: 0, 0
+	index: -1
+x_Lhand22_yinseliaoya
+	rotate: false
+	xy: 439, 215
+	size: 40, 34
+	orig: 40, 34
+	offset: 0, 0
+	index: -1
+h_Rhand123_yinseliaoya
+	rotate: true
+	xy: 293, 262
+	size: 30, 40
+	orig: 30, 40
+	offset: 0, 0
+	index: -1
+a_Rhand194_yinseliaoya
+	rotate: true
+	xy: 346, 245
+	size: 31, 40
+	orig: 31, 40
+	offset: 0, 0
+	index: -1
+y_Rhand10_yinseliaoya
+	rotate: true
+	xy: 363, 326
+	size: 29, 35
+	orig: 29, 35
+	offset: 0, 0
+	index: -1
+y_Lhand9_yinseliaoya
+	rotate: false
+	xy: 371, 295
+	size: 35, 30
+	orig: 35, 30
+	offset: 0, 0
+	index: -1
+a_Lhand_1_yinseliaoya
+	rotate: true
+	xy: 395, 192
+	size: 32, 43
+	orig: 32, 43
+	offset: 0, 0
+	index: -1
+b_Lhand166_yinseliaoya
+	rotate: false
+	xy: 478, 369
+	size: 33, 32
+	orig: 33, 32
+	offset: 0, 0
+	index: -1
+a_Lhand2179_yinseliaoya
+	rotate: false
+	xy: 477, 59
+	size: 35, 37
+	orig: 35, 37
+	offset: 0, 0
+	index: -1
+j_Lhand99_yinseliaoya
+	rotate: true
+	xy: 327, 313
+	size: 29, 35
+	orig: 29, 35
+	offset: 0, 0
+	index: -1
+
+asset/anim/yinseliaoya0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+i_1_Lhand113_yinseliaoya
+	rotate: false
+	xy: 491, 466
+	size: 18, 45
+	orig: 18, 45
+	offset: 0, 0
+	index: -1
+j_eye96_yinseliaoya
+	rotate: true
+	xy: 0, 323
+	size: 74, 94
+	orig: 74, 94
+	offset: 0, 0
+	index: -1
+a_eye1183_yinseliaoya
+	rotate: true
+	xy: 95, 331
+	size: 73, 93
+	orig: 73, 93
+	offset: 0, 0
+	index: -1
+l_eye74_yinseliaoya
+	rotate: false
+	xy: 435, 0
+	size: 77, 95
+	orig: 77, 95
+	offset: 0, 0
+	index: -1
+j_baozou_yinseliaoyabaozou
+	rotate: true
+	xy: 100, 256
+	size: 74, 97
+	orig: 74, 97
+	offset: 0, 0
+	index: -1
+canying_yinseliaoya
+	rotate: false
+	xy: 213, 405
+	size: 55, 67
+	orig: 55, 67
+	offset: 0, 0
+	index: -1
+x_hair16_yinseliaoya
+	rotate: false
+	xy: 353, 265
+	size: 73, 80
+	orig: 73, 80
+	offset: 0, 0
+	index: -1
+a_Lhand180_yinseliaoya
+	rotate: false
+	xy: 206, 473
+	size: 30, 39
+	orig: 30, 39
+	offset: 0, 0
+	index: -1
+m_Rhand61_yinseliaoya
+	rotate: true
+	xy: 301, 178
+	size: 39, 23
+	orig: 39, 23
+	offset: 0, 0
+	index: -1
+d_Rhand138_yinseliaoya
+	rotate: true
+	xy: 301, 218
+	size: 46, 21
+	orig: 46, 21
+	offset: 0, 0
+	index: -1
+f_Lhand132_yinseliaoya
+	rotate: true
+	xy: 174, 473
+	size: 39, 31
+	orig: 39, 31
+	offset: 0, 0
+	index: -1
+x_Rhand21_yinseliaoya
+	rotate: true
+	xy: 140, 473
+	size: 39, 33
+	orig: 39, 33
+	offset: 0, 0
+	index: -1
+
+asset/anim/yinseliaoya1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k_Rhand93_yinseliaoya
+	rotate: false
+	xy: 291, 93
+	size: 27, 34
+	orig: 27, 34
+	offset: 0, 0
+	index: -1
+c_eye150_yinseliaoya
+	rotate: false
+	xy: 0, 368
+	size: 76, 90
+	orig: 76, 90
+	offset: 0, 0
+	index: -1
+n_benghuai_yinseliaoya
+	rotate: false
+	xy: 89, 0
+	size: 69, 86
+	orig: 69, 86
+	offset: 0, 0
+	index: -1
+h_eye118_yinseliaoya
+	rotate: false
+	xy: 0, 184
+	size: 75, 91
+	orig: 75, 91
+	offset: 0, 0
+	index: -1
+j_baozou_yinseliaoya
+	rotate: false
+	xy: 0, 276
+	size: 65, 91
+	orig: 65, 91
+	offset: 0, 0
+	index: -1
+m_hair68_yinseliaoya
+	rotate: false
+	xy: 181, 359
+	size: 74, 83
+	orig: 74, 83
+	offset: 0, 0
+	index: -1
+a_Lhand_yinseliaoyabaozou
+	rotate: true
+	xy: 291, 178
+	size: 32, 26
+	orig: 32, 26
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

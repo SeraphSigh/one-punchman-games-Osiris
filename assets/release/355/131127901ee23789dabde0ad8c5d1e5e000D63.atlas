@@ -1,0 +1,193 @@
+
+asset/anim/tianxinjiamian2SKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/tianxinjiamian2_dimian_008
+	rotate: true
+	xy: 453, 400
+	size: 399, 150
+	orig: 399, 150
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian2_dimian_009
+	rotate: true
+	xy: 506, 0
+	size: 399, 150
+	orig: 399, 150
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian2_dimian_004
+	rotate: true
+	xy: 204, 0
+	size: 399, 150
+	orig: 399, 150
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian2_dimian_005
+	rotate: true
+	xy: 302, 400
+	size: 399, 150
+	orig: 399, 150
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian2_dimian_006
+	rotate: true
+	xy: 355, 0
+	size: 399, 150
+	orig: 399, 150
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian2_dimian_007
+	rotate: false
+	xy: 400, 800
+	size: 399, 150
+	orig: 399, 150
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian2_dimian_000
+	rotate: true
+	xy: 0, 401
+	size: 399, 150
+	orig: 399, 150
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian2_dimian_001
+	rotate: true
+	xy: 53, 0
+	size: 399, 150
+	orig: 399, 150
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian2_dimian_002
+	rotate: false
+	xy: 0, 801
+	size: 399, 150
+	orig: 399, 150
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian2_dimian_003
+	rotate: true
+	xy: 151, 400
+	size: 399, 150
+	orig: 399, 150
+	offset: 0, 0
+	index: -1
+
+asset/anim/tianxinjiamian2COMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tianxinjiamian2_xian_000
+	rotate: true
+	xy: 936, 540
+	size: 259, 84
+	orig: 259, 100
+	offset: 0, 4
+	index: -1
+common/tianxinjiamian2_xian_024
+	rotate: true
+	xy: 854, 737
+	size: 259, 80
+	orig: 259, 100
+	offset: 0, 7
+	index: -1
+common/tianxinjiamian2_lizidian_000
+	rotate: false
+	xy: 0, 0
+	size: 223, 223
+	orig: 223, 223
+	offset: 0, 0
+	index: -1
+common/tianxinjiamian2_dengzhao_00031
+	rotate: true
+	xy: 935, 800
+	size: 204, 79
+	orig: 234, 117
+	offset: 20, 19
+	index: -1
+
+asset/anim/tianxinjiamian2COMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tianxinjiamian2_xian_010
+	rotate: true
+	xy: 0, 244
+	size: 259, 84
+	orig: 259, 100
+	offset: 0, 6
+	index: -1
+common/tianxinjiamian2_xian_018
+	rotate: false
+	xy: 345, 166
+	size: 259, 82
+	orig: 259, 100
+	offset: 0, 6
+	index: -1
+common/tianxinjiamian2_xian_016
+	rotate: false
+	xy: 417, 83
+	size: 259, 82
+	orig: 259, 100
+	offset: 0, 5
+	index: -1
+common/tianxinjiamian2_xian_014
+	rotate: false
+	xy: 417, 0
+	size: 259, 82
+	orig: 259, 100
+	offset: 0, 5
+	index: -1
+common/tianxinjiamian2_xian_020
+	rotate: false
+	xy: 345, 249
+	size: 259, 82
+	orig: 259, 100
+	offset: 0, 6
+	index: -1
+common/tianxinjiamian2_xian_012
+	rotate: true
+	xy: 85, 244
+	size: 259, 84
+	orig: 259, 100
+	offset: 0, 5
+	index: -1
+common/tianxinjiamian2_xian_006
+	rotate: true
+	xy: 260, 85
+	size: 259, 84
+	orig: 259, 100
+	offset: 0, 6
+	index: -1
+common/tianxinjiamian2_xian_002
+	rotate: false
+	xy: 0, 159
+	size: 259, 84
+	orig: 259, 100
+	offset: 0, 5
+	index: -1
+common/tianxinjiamian2_xian_008
+	rotate: true
+	xy: 170, 244
+	size: 259, 82
+	orig: 259, 100
+	offset: 0, 7
+	index: -1
+common/tianxinjiamian2_xian_022
+	rotate: true
+	xy: 430, 332
+	size: 259, 82
+	orig: 259, 100
+	offset: 0, 8
+	index: -1
+common/tianxinjiamian2_xian_004
+	rotate: false
+	xy: 157, 0
+	size: 259, 84
+	orig: 259, 100
+	offset: 0, 5
+	index: -1

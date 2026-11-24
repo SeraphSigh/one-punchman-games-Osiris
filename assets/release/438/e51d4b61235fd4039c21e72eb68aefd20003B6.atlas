@@ -1,0 +1,62 @@
+
+asset/anim/wurenjida0.png
+size: 482,207
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_ziti_wurenjida
+	rotate: true
+	xy: 300, 109
+	size: 98, 43
+	orig: 98, 43
+	offset: 0, 0
+	index: -1
+a_houceng_wurenjida
+	rotate: false
+	xy: 47, 186
+	size: 89, 20
+	orig: 89, 20
+	offset: 0, 0
+	index: -1
+a_zhuan_wurenjida
+	rotate: true
+	xy: 344, 109
+	size: 91, 75
+	orig: 91, 75
+	offset: 0, 0
+	index: -1
+a_qianceng_wurenjida
+	rotate: true
+	xy: 456, 0
+	size: 89, 26
+	orig: 89, 26
+	offset: 0, 0
+	index: -1
+a_jishen_wurenjida
+	rotate: false
+	xy: 0, 0
+	size: 299, 185
+	orig: 299, 185
+	offset: 0, 0
+	index: -1
+a_zhou_wurenjida
+	rotate: true
+	xy: 0, 186
+	size: 21, 46
+	orig: 21, 46
+	offset: 0, 0
+	index: -1
+a_xiangzi_wurenjida
+	rotate: false
+	xy: 300, 0
+	size: 155, 108
+	orig: 155, 108
+	offset: 0, 0
+	index: -1
+a_lv_wurenjida
+	rotate: true
+	xy: 420, 109
+	size: 68, 58
+	orig: 68, 58
+	offset: 0, 0
+	index: -1

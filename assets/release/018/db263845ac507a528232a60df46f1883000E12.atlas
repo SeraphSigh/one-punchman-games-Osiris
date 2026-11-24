@@ -1,0 +1,206 @@
+
+asset/anim/spineGlobalPic/pc_global0.png
+size: 710,923
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_nengliangbaodian_003
+	rotate: false
+	xy: 0, 0
+	size: 239, 206
+	orig: 269, 238
+	offset: 12, 14
+	index: -1
+
+asset/anim/hongzhawurenjiASE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongzhawurenjiA_baozha_9
+	rotate: false
+	xy: 651, 206
+	size: 216, 199
+	orig: 216, 211
+	offset: 0, 2
+	index: -1
+hongzhawurenjiA_baozha_8
+	rotate: false
+	xy: 0, 840
+	size: 172, 175
+	orig: 216, 211
+	offset: 27, 22
+	index: -1
+hongzhawurenjiA_baozha_3
+	rotate: false
+	xy: 342, 400
+	size: 216, 187
+	orig: 216, 211
+	offset: 0, 0
+	index: -1
+hongzhawurenjiA_baozha_2
+	rotate: true
+	xy: 0, 406
+	size: 216, 189
+	orig: 216, 211
+	offset: 0, 0
+	index: -1
+hongzhawurenjiA_baozha_1
+	rotate: false
+	xy: 868, 0
+	size: 118, 113
+	orig: 216, 211
+	offset: 50, 47
+	index: -1
+hongzhawurenjiA_baozha_7
+	rotate: false
+	xy: 173, 840
+	size: 168, 169
+	orig: 216, 211
+	offset: 28, 21
+	index: -1
+hongzhawurenjiA_baozha_6
+	rotate: true
+	xy: 398, 588
+	size: 208, 185
+	orig: 216, 211
+	offset: 0, 4
+	index: -1
+hongzhawurenjiA_baozha_5
+	rotate: false
+	xy: 342, 210
+	size: 216, 189
+	orig: 216, 211
+	offset: 0, 0
+	index: -1
+hongzhawurenjiA_baozha_4
+	rotate: true
+	xy: 0, 623
+	size: 216, 189
+	orig: 216, 211
+	offset: 0, 0
+	index: -1
+hongzhawurenjiA_baozha_19
+	rotate: true
+	xy: 342, 803
+	size: 212, 193
+	orig: 216, 211
+	offset: 4, 9
+	index: -1
+hongzhawurenjiA_baozha_18
+	rotate: false
+	xy: 0, 210
+	size: 208, 195
+	orig: 216, 211
+	offset: 5, 11
+	index: -1
+hongzhawurenjiA_baozha_17
+	rotate: true
+	xy: 536, 797
+	size: 206, 197
+	orig: 216, 211
+	offset: 7, 9
+	index: -1
+hongzhawurenjiA_baozha_16
+	rotate: false
+	xy: 734, 406
+	size: 204, 199
+	orig: 216, 211
+	offset: 7, 6
+	index: -1
+hongzhawurenjiA_baozha_15
+	rotate: false
+	xy: 734, 606
+	size: 198, 195
+	orig: 216, 211
+	offset: 12, 4
+	index: -1
+hongzhawurenjiA_baozha_14
+	rotate: true
+	xy: 190, 588
+	size: 214, 207
+	orig: 216, 211
+	offset: 2, 3
+	index: -1
+hongzhawurenjiA_baozha_13
+	rotate: false
+	xy: 434, 0
+	size: 216, 209
+	orig: 216, 211
+	offset: 0, 2
+	index: -1
+hongzhawurenjiA_baozha_12
+	rotate: false
+	xy: 217, 0
+	size: 216, 209
+	orig: 216, 211
+	offset: 0, 2
+	index: -1
+hongzhawurenjiA_baozha_11
+	rotate: false
+	xy: 0, 0
+	size: 216, 209
+	orig: 216, 211
+	offset: 0, 2
+	index: -1
+hongzhawurenjiA_baozha_10
+	rotate: false
+	xy: 651, 0
+	size: 216, 205
+	orig: 216, 211
+	offset: 0, 2
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_nengliangbaodian_001
+	rotate: false
+	xy: 264, 387
+	size: 128, 129
+	orig: 188, 167
+	offset: 31, 25
+	index: -1
+global/a_global_nengliangbaodian_002
+	rotate: false
+	xy: 0, 418
+	size: 136, 143
+	orig: 188, 167
+	offset: 26, 11
+	index: -1
+global/a_global_nengliangbaodian_004
+	rotate: true
+	xy: 0, 562
+	size: 142, 135
+	orig: 188, 167
+	offset: 27, 16
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_nengliangbaodian_000
+	rotate: false
+	xy: 111, 170
+	size: 72, 73
+	orig: 188, 167
+	offset: 60, 52
+	index: -1
+global/a_global_nengliangbaodian_005
+	rotate: false
+	xy: 115, 0
+	size: 114, 117
+	orig: 188, 167
+	offset: 45, 28
+	index: -1
+global/a_global_nengliangbaodian_006
+	rotate: false
+	xy: 230, 0
+	size: 112, 113
+	orig: 188, 167
+	offset: 45, 30
+	index: -1

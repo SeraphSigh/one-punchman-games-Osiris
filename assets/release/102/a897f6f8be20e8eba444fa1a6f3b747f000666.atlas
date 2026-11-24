@@ -1,0 +1,97 @@
+
+asset/anim/tongdiSECOMMON.png
+size: 951,1002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tongdi_shitou_018
+	rotate: true
+	xy: 460, 95
+	size: 90, 258
+	orig: 340, 380
+	offset: 59, 65
+	index: -1
+common/tongdi_shitou_019
+	rotate: false
+	xy: 0, 630
+	size: 96, 274
+	orig: 340, 380
+	offset: 53, 60
+	index: -1
+common/tongdi_shitou_021
+	rotate: false
+	xy: 0, 323
+	size: 106, 306
+	orig: 340, 380
+	offset: 43, 44
+	index: -1
+common/tongdi_shitou_008
+	rotate: false
+	xy: 894, 184
+	size: 54, 140
+	orig: 340, 380
+	offset: 98, 83
+	index: -1
+common/tongdi_shitou_024
+	rotate: false
+	xy: 815, 342
+	size: 120, 144
+	orig: 340, 380
+	offset: 29, 83
+	index: -1
+common/tongdi_shitou_020
+	rotate: false
+	xy: 111, 0
+	size: 100, 290
+	orig: 340, 380
+	offset: 49, 52
+	index: -1
+common/tongdi_shitou_010
+	rotate: false
+	xy: 805, 827
+	size: 62, 170
+	orig: 340, 380
+	offset: 90, 80
+	index: -1
+common/tongdi_shitou_012
+	rotate: true
+	xy: 432, 659
+	size: 68, 190
+	orig: 340, 380
+	offset: 81, 82
+	index: -1
+common/tongdi_shitou_026
+	rotate: true
+	xy: 637, 554
+	size: 132, 156
+	orig: 340, 380
+	offset: 17, 62
+	index: -1
+common/tongdi_shitou_014
+	rotate: false
+	xy: 97, 630
+	size: 76, 210
+	orig: 340, 380
+	offset: 73, 80
+	index: -1
+common/tongdi_shitou_016
+	rotate: true
+	xy: 719, 99
+	size: 84, 232
+	orig: 340, 380
+	offset: 65, 75
+	index: -1
+common/tongdi_shitou_017
+	rotate: true
+	xy: 470, 186
+	size: 86, 244
+	orig: 340, 380
+	offset: 63, 70
+	index: -1
+common/tongdi_shitou_022
+	rotate: false
+	xy: 0, 0
+	size: 110, 322
+	orig: 340, 380
+	offset: 39, 35
+	index: -1

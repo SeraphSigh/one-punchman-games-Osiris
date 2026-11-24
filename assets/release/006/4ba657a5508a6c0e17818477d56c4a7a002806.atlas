@@ -1,0 +1,660 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/qingwanan1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e_dao_qingwanan
+	rotate: false
+	xy: 446, 0
+	size: 59, 27
+	orig: 59, 27
+	offset: 0, 0
+	index: -1
+g_Lthin_qingwanan
+	rotate: true
+	xy: 97, 94
+	size: 33, 35
+	orig: 33, 35
+	offset: 0, 0
+	index: -1
+g_Lhand_qingwanan
+	rotate: true
+	xy: 199, 95
+	size: 26, 27
+	orig: 26, 27
+	offset: 0, 0
+	index: -1
+f_qianxiaobi_qingwanan
+	rotate: false
+	xy: 323, 53
+	size: 55, 51
+	orig: 55, 51
+	offset: 0, 0
+	index: -1
+a_youshangbi_qingwanan
+	rotate: false
+	xy: 258, 57
+	size: 55, 50
+	orig: 55, 50
+	offset: 0, 0
+	index: -1
+g_shangyanpi_qingwanan
+	rotate: true
+	xy: 80, 29
+	size: 57, 16
+	orig: 57, 16
+	offset: 0, 0
+	index: -1
+g_Rthigh_qingwanan
+	rotate: false
+	xy: 361, 128
+	size: 46, 29
+	orig: 46, 29
+	offset: 0, 0
+	index: -1
+c_jiao_qingwanan
+	rotate: false
+	xy: 476, 120
+	size: 36, 24
+	orig: 36, 24
+	offset: 0, 0
+	index: -1
+g_shouji_qingwanan
+	rotate: false
+	xy: 0, 29
+	size: 79, 59
+	orig: 79, 59
+	offset: 0, 0
+	index: -1
+c_youxiaobi_qingwanan
+	rotate: false
+	xy: 258, 0
+	size: 64, 56
+	orig: 64, 56
+	offset: 0, 0
+	index: -1
+c_zuodatui_qingwanan
+	rotate: false
+	xy: 97, 34
+	size: 73, 59
+	orig: 73, 59
+	offset: 0, 0
+	index: -1
+g_coxa_qingwanan
+	rotate: false
+	xy: 97, 0
+	size: 84, 33
+	orig: 84, 33
+	offset: 0, 0
+	index: -1
+f_houxiaobi_qingwanan
+	rotate: false
+	xy: 214, 62
+	size: 37, 32
+	orig: 37, 32
+	offset: 0, 0
+	index: -1
+b_houshou_qingwanan
+	rotate: true
+	xy: 74, 128
+	size: 28, 33
+	orig: 28, 33
+	offset: 0, 0
+	index: -1
+b_qianshou_qingwanan
+	rotate: false
+	xy: 476, 145
+	size: 35, 39
+	orig: 35, 39
+	offset: 0, 0
+	index: -1
+e-datui_qingwanan
+	rotate: false
+	xy: 323, 0
+	size: 61, 52
+	orig: 61, 52
+	offset: 0, 0
+	index: -1
+g_Rforearm_qingwanan
+	rotate: true
+	xy: 408, 151
+	size: 30, 44
+	orig: 30, 44
+	offset: 0, 0
+	index: -1
+c_zuoshou_qingwanan
+	rotate: true
+	xy: 168, 95
+	size: 28, 30
+	orig: 28, 30
+	offset: 0, 0
+	index: -1
+a_xiaotui_qingwanan
+	rotate: true
+	xy: 32, 148
+	size: 30, 31
+	orig: 30, 31
+	offset: 0, 0
+	index: -1
+e_xiaotui_qingwanan
+	rotate: false
+	xy: 0, 148
+	size: 31, 31
+	orig: 31, 31
+	offset: 0, 0
+	index: -1
+g_Lthigh_qingwanan
+	rotate: false
+	xy: 171, 62
+	size: 42, 32
+	orig: 42, 32
+	offset: 0, 0
+	index: -1
+a_youxiaobi_qingwanan
+	rotate: true
+	xy: 442, 88
+	size: 31, 50
+	orig: 31, 50
+	offset: 0, 0
+	index: -1
+a_zuoshangbi_qingwanan
+	rotate: false
+	xy: 182, 0
+	size: 75, 61
+	orig: 75, 61
+	offset: 0, 0
+	index: -1
+c_youshangbi_qingwanan
+	rotate: false
+	xy: 0, 89
+	size: 73, 58
+	orig: 73, 58
+	offset: 0, 0
+	index: -1
+g_Rhand1_qingwanan
+	rotate: false
+	xy: 133, 94
+	size: 34, 34
+	orig: 34, 34
+	offset: 0, 0
+	index: -1
+a_kua_qingwanan
+	rotate: false
+	xy: 0, 0
+	size: 96, 28
+	orig: 96, 28
+	offset: 0, 0
+	index: -1
+g_Rhand2_qingwanan
+	rotate: false
+	xy: 74, 89
+	size: 22, 23
+	orig: 22, 23
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi_qingwanan
+	rotate: true
+	xy: 429, 120
+	size: 30, 46
+	orig: 30, 46
+	offset: 0, 0
+	index: -1
+b_qianxiaobi_qingwanan
+	rotate: false
+	xy: 385, 49
+	size: 56, 46
+	orig: 56, 46
+	offset: 0, 0
+	index: -1
+g_xiayanpi_qingwanan
+	rotate: false
+	xy: 385, 31
+	size: 57, 17
+	orig: 57, 17
+	offset: 0, 0
+	index: -1
+g_Lfoot_qingwanan
+	rotate: false
+	xy: 446, 28
+	size: 58, 32
+	orig: 58, 32
+	offset: 0, 0
+	index: -1
+e_zuoxiaobi_qingwanan
+	rotate: true
+	xy: 379, 96
+	size: 31, 49
+	orig: 31, 49
+	offset: 0, 0
+	index: -1
+g_Rfoot_qingwanan
+	rotate: false
+	xy: 314, 105
+	size: 46, 32
+	orig: 46, 32
+	offset: 0, 0
+	index: -1
+g_Larm_qingwanan
+	rotate: true
+	xy: 442, 61
+	size: 26, 51
+	orig: 26, 51
+	offset: 0, 0
+	index: -1
+f_jiao_qingwanan
+	rotate: false
+	xy: 385, 0
+	size: 60, 30
+	orig: 60, 30
+	offset: 0, 0
+	index: -1
+
+asset/anim/qingwanan0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_shenti_qingwanan
+	rotate: false
+	xy: 384, 0
+	size: 105, 140
+	orig: 105, 140
+	offset: 0, 0
+	index: -1
+c_youshou_qingwanan
+	rotate: false
+	xy: 472, 473
+	size: 38, 39
+	orig: 38, 39
+	offset: 0, 0
+	index: -1
+e_kua_qingwanan
+	rotate: true
+	xy: 117, 156
+	size: 96, 26
+	orig: 96, 26
+	offset: 0, 0
+	index: -1
+g_Rthin_qingwanan
+	rotate: true
+	xy: 431, 473
+	size: 39, 40
+	orig: 39, 40
+	offset: 0, 0
+	index: -1
+e_youshangbi_qingwanan
+	rotate: false
+	xy: 450, 362
+	size: 62, 34
+	orig: 62, 34
+	offset: 0, 0
+	index: -1
+f_dao_qingwanan
+	rotate: true
+	xy: 117, 253
+	size: 56, 26
+	orig: 56, 26
+	offset: 0, 0
+	index: -1
+f_datui_qingwanan
+	rotate: true
+	xy: 394, 336
+	size: 67, 55
+	orig: 67, 55
+	offset: 0, 0
+	index: -1
+g_sword_qingwanan
+	rotate: true
+	xy: 221, 426
+	size: 79, 36
+	orig: 79, 36
+	offset: 0, 0
+	index: -1
+b_xiaotui_qingwanan
+	rotate: true
+	xy: 93, 479
+	size: 33, 42
+	orig: 33, 42
+	offset: 0, 0
+	index: -1
+g_body_qingwanan
+	rotate: false
+	xy: 0, 313
+	size: 103, 148
+	orig: 103, 148
+	offset: 0, 0
+	index: -1
+g_head_qingwanan
+	rotate: false
+	xy: 144, 355
+	size: 96, 70
+	orig: 96, 70
+	offset: 0, 0
+	index: -1
+c_zuoxiaobi_qingwanan
+	rotate: false
+	xy: 413, 404
+	size: 32, 68
+	orig: 32, 68
+	offset: 0, 0
+	index: -1
+a_zuoshou_qingwanan
+	rotate: true
+	xy: 446, 435
+	size: 37, 39
+	orig: 37, 39
+	offset: 0, 0
+	index: -1
+d_youshou_qingwanan
+	rotate: false
+	xy: 241, 337
+	size: 68, 79
+	orig: 68, 79
+	offset: 0, 0
+	index: -1
+f_naodai_qingwanan
+	rotate: false
+	xy: 383, 141
+	size: 103, 83
+	orig: 103, 83
+	offset: 0, 0
+	index: -1
+f_qianshou_qingwanan
+	rotate: true
+	xy: 356, 476
+	size: 36, 41
+	orig: 36, 41
+	offset: 0, 0
+	index: -1
+f_xiaotui_qingwanan
+	rotate: true
+	xy: 104, 437
+	size: 41, 39
+	orig: 41, 39
+	offset: 0, 0
+	index: -1
+b_houxiaobi_qingwanan
+	rotate: true
+	xy: 486, 435
+	size: 35, 26
+	orig: 35, 26
+	offset: 0, 0
+	index: -1
+e_shenti_qingwanan
+	rotate: true
+	xy: 241, 109
+	size: 105, 141
+	orig: 105, 141
+	offset: 0, 0
+	index: -1
+b_shenti_qingwanan
+	rotate: true
+	xy: 241, 0
+	size: 108, 142
+	orig: 108, 142
+	offset: 0, 0
+	index: -1
+f_qianshangbi_qingwanan
+	rotate: false
+	xy: 356, 411
+	size: 56, 64
+	orig: 56, 64
+	offset: 0, 0
+	index: -1
+c_kua_qingwanan
+	rotate: false
+	xy: 144, 221
+	size: 110, 48
+	orig: 110, 48
+	offset: 0, 0
+	index: -1
+b_datui_qingwanan
+	rotate: true
+	xy: 353, 337
+	size: 73, 40
+	orig: 73, 40
+	offset: 0, 0
+	index: -1
+e_zuoshou_qingwanan
+	rotate: false
+	xy: 472, 397
+	size: 40, 37
+	orig: 40, 37
+	offset: 0, 0
+	index: -1
+f_kua_qingwanan
+	rotate: false
+	xy: 0, 462
+	size: 92, 50
+	orig: 92, 50
+	offset: 0, 0
+	index: -1
+a_daozi_qingwanan
+	rotate: true
+	xy: 490, 41
+	size: 67, 21
+	orig: 67, 21
+	offset: 0, 0
+	index: -1
+d_shenti_qingwanan
+	rotate: false
+	xy: 0, 0
+	size: 122, 155
+	orig: 122, 155
+	offset: 0, 0
+	index: -1
+d_zuotui_qingwanan
+	rotate: false
+	xy: 302, 421
+	size: 53, 71
+	orig: 53, 71
+	offset: 0, 0
+	index: -1
+d_kua_qingwanan
+	rotate: false
+	xy: 255, 215
+	size: 107, 56
+	orig: 107, 56
+	offset: 0, 0
+	index: -1
+g_Rarm_qingwanan
+	rotate: false
+	xy: 258, 417
+	size: 43, 71
+	orig: 43, 71
+	offset: 0, 0
+	index: -1
+b_qianshangbi_qingwanan
+	rotate: false
+	xy: 341, 272
+	size: 47, 64
+	orig: 47, 64
+	offset: 0, 0
+	index: -1
+e_zuoshangbi_qingwanan
+	rotate: true
+	xy: 389, 265
+	size: 70, 68
+	orig: 70, 68
+	offset: 0, 0
+	index: -1
+c_zuoxiaotui_qingwanan
+	rotate: true
+	xy: 446, 404
+	size: 28, 25
+	orig: 28, 25
+	offset: 0, 0
+	index: -1
+f_shenti_qingwanan
+	rotate: false
+	xy: 0, 156
+	size: 116, 156
+	orig: 116, 156
+	offset: 0, 0
+	index: -1
+c_shenti_qingwanan
+	rotate: false
+	xy: 123, 0
+	size: 117, 137
+	orig: 117, 137
+	offset: 0, 0
+	index: -1
+b_dao_qingwanan
+	rotate: true
+	xy: 487, 141
+	size: 59, 16
+	orig: 59, 16
+	offset: 0, 0
+	index: -1
+c_zuoshangbi_qingwanan
+	rotate: true
+	xy: 310, 337
+	size: 83, 42
+	orig: 83, 42
+	offset: 0, 0
+	index: -1
+a_naodai_qingwanan
+	rotate: false
+	xy: 144, 270
+	size: 95, 84
+	orig: 95, 84
+	offset: 0, 0
+	index: -1
+e_youshou_qingwanan
+	rotate: true
+	xy: 472, 319
+	size: 42, 40
+	orig: 42, 40
+	offset: 0, 0
+	index: -1
+d_tou_qingwanan
+	rotate: true
+	xy: 144, 426
+	size: 86, 76
+	orig: 86, 76
+	offset: 0, 0
+	index: -1
+c_dao_qingwanan
+	rotate: true
+	xy: 104, 313
+	size: 123, 39
+	orig: 123, 39
+	offset: 0, 0
+	index: -1
+a_youshou_qingwanan
+	rotate: false
+	xy: 398, 476
+	size: 32, 36
+	orig: 32, 36
+	offset: 0, 0
+	index: -1
+e_youxiaobi_qingwanan
+	rotate: false
+	xy: 458, 254
+	size: 52, 64
+	orig: 52, 64
+	offset: 0, 0
+	index: -1
+b_naodai_qingwanan
+	rotate: false
+	xy: 144, 138
+	size: 96, 82
+	orig: 96, 82
+	offset: 0, 0
+	index: -1
+b_jiao_qingwanan
+	rotate: false
+	xy: 455, 225
+	size: 57, 28
+	orig: 57, 28
+	offset: 0, 0
+	index: -1
+g_Lforearm_qingwanan
+	rotate: false
+	xy: 490, 0
+	size: 22, 40
+	orig: 22, 40
+	offset: 0, 0
+	index: -1
+b_kua_qingwanan
+	rotate: false
+	xy: 363, 225
+	size: 91, 39
+	orig: 91, 39
+	offset: 0, 0
+	index: -1
+gedangcanying_qingwanan
+	rotate: true
+	xy: 240, 272
+	size: 64, 100
+	orig: 64, 100
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

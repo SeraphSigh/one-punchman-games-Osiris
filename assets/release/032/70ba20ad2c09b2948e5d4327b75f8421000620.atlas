@@ -1,0 +1,89 @@
+
+asset/anim/axiuluodujiaoxianSECOMMON1.png
+size: 1008,949
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/axiuluo_baoguang_086
+	rotate: true
+	xy: 0, 393
+	size: 213, 97
+	orig: 285, 253
+	offset: 40, 138
+	index: -1
+common/axiuluo_baoguang_087
+	rotate: true
+	xy: 97, 607
+	size: 213, 95
+	orig: 285, 253
+	offset: 37, 139
+	index: -1
+common/axiuluo_baoguang_092
+	rotate: false
+	xy: 571, 0
+	size: 219, 71
+	orig: 285, 253
+	offset: 32, 153
+	index: -1
+common/axiuluo_baoguang_091
+	rotate: true
+	xy: 98, 393
+	size: 211, 93
+	orig: 285, 253
+	offset: 40, 145
+	index: -1
+common/axiuluo_baoguang_090
+	rotate: false
+	xy: 0, 135
+	size: 219, 99
+	orig: 285, 253
+	offset: 34, 141
+	index: -1
+
+asset/anim/axiuluodujiaoxianSECOMMON0.png
+size: 1024,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/axiuluo_juguang_085
+	rotate: false
+	xy: 259, 723
+	size: 208, 114
+	orig: 208, 114
+	offset: 0, 0
+	index: -1
+common/axiuluo_baoguang_088
+	rotate: true
+	xy: 534, 230
+	size: 251, 121
+	orig: 285, 253
+	offset: 18, 128
+	index: -1
+common/axiuluo_baoguang_089
+	rotate: true
+	xy: 143, 610
+	size: 241, 115
+	orig: 285, 253
+	offset: 21, 131
+	index: -1
+common/axiuluo_baoguang_084
+	rotate: true
+	xy: 939, 394
+	size: 233, 81
+	orig: 285, 253
+	offset: 29, 146
+	index: -1
+common/axiuluo_baoguang_085
+	rotate: true
+	xy: 945, 170
+	size: 223, 79
+	orig: 285, 253
+	offset: 38, 149
+	index: -1
+common/axiuluo_baoguang_093
+	rotate: true
+	xy: 239, 451
+	size: 53, 29
+	orig: 285, 253
+	offset: 79, 191
+	index: -1

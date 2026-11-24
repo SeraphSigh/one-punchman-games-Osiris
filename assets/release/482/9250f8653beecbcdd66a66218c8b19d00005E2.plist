@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>a_Rdatui_hudieDXkapai.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{159,582}</string>
+                <key>spriteSourceSize</key>
+                <string>{159,582}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{159,582}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>hudiedxkapai1.png</string>
+            <key>size</key>
+            <string>{1024,1024}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:3739084b9da21052a5e3b11ff994e023:a3a6d5a9887662ef2385c47fd8954828:4882e0ca995abc46350b08bd5c447fe8$</string>
+            <key>textureFileName</key>
+            <string>hudiedxkapai1.png</string>
+        </dict>
+    </dict>
+</plist>

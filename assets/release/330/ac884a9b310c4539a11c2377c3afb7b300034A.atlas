@@ -1,0 +1,48 @@
+
+asset/anim/beixinzunzheSESKILL0.png
+size: 509,498
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/xinbeixinzunzhe_suishi0002
+	rotate: true
+	xy: 191, 294
+	size: 108, 52
+	orig: 194, 58
+	offset: 0, 6
+	index: -1
+skill/xinbeixinzunzhe_suishi0003
+	rotate: true
+	xy: 111, 177
+	size: 118, 58
+	orig: 194, 58
+	offset: 0, 0
+	index: -1
+skill/xinbeixinzunzhe_suishi0001
+	rotate: true
+	xy: 436, 320
+	size: 76, 42
+	orig: 194, 58
+	offset: 14, 11
+	index: -1
+skill/xinbeixinzunzhe_suishi0006
+	rotate: false
+	xy: 0, 59
+	size: 194, 58
+	orig: 194, 58
+	offset: 0, 0
+	index: -1
+skill/xinbeixinzunzhe_suishi0004
+	rotate: false
+	xy: 0, 118
+	size: 138, 58
+	orig: 194, 58
+	offset: 0, 0
+	index: -1
+skill/xinbeixinzunzhe_suishi0005
+	rotate: false
+	xy: 0, 0
+	size: 194, 58
+	orig: 194, 58
+	offset: 0, 0
+	index: -1

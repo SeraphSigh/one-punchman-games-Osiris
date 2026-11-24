@@ -1,0 +1,285 @@
+
+asset/anim/shanguangfulaishikp1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_hairBack_shanguangfulaishikp
+	rotate: true
+	xy: 0, 261
+	size: 83, 90
+	orig: 83, 90
+	offset: 0, 0
+	index: -1
+a_hair6_shanguangfulaishikp
+	rotate: true
+	xy: 105, 245
+	size: 86, 90
+	orig: 86, 90
+	offset: 0, 0
+	index: -1
+a_cloak1_shanguangfulaishikp
+	rotate: false
+	xy: 0, 0
+	size: 324, 177
+	orig: 324, 177
+	offset: 0, 0
+	index: -1
+a_hair3_shanguangfulaishikp
+	rotate: true
+	xy: 325, 72
+	size: 54, 149
+	orig: 54, 149
+	offset: 0, 0
+	index: -1
+a_hair1_shanguangfulaishikp
+	rotate: true
+	xy: 325, 0
+	size: 71, 162
+	orig: 71, 162
+	offset: 0, 0
+	index: -1
+a_Rfoot_shanguangfulaishikp
+	rotate: true
+	xy: 325, 127
+	size: 58, 143
+	orig: 58, 143
+	offset: 0, 0
+	index: -1
+a_chainShadow_shanguangfulaishikp
+	rotate: false
+	xy: 204, 178
+	size: 94, 74
+	orig: 94, 74
+	offset: 0, 0
+	index: -1
+a_face_shanguangfulaishikp
+	rotate: true
+	xy: 0, 178
+	size: 82, 104
+	orig: 82, 104
+	offset: 0, 0
+	index: -1
+a_Rarm_shanguangfulaishikp
+	rotate: true
+	xy: 105, 178
+	size: 66, 98
+	orig: 66, 98
+	offset: 0, 0
+	index: -1
+
+asset/anim/shanguangfulaishikp0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_cloakBack1
+	rotate: false
+	xy: 0, 0
+	size: 788, 503
+	orig: 788, 503
+	offset: 0, 0
+	index: -1
+a_Rhand_shanguangfulaishikp
+	rotate: false
+	xy: 979, 321
+	size: 44, 106
+	orig: 44, 106
+	offset: 0, 0
+	index: -1
+a_Larmour_shanguangfulaishikp
+	rotate: true
+	xy: 789, 296
+	size: 72, 189
+	orig: 72, 189
+	offset: 0, 0
+	index: -1
+a_sword_shanguangfulaishikp
+	rotate: true
+	xy: 0, 504
+	size: 297, 608
+	orig: 297, 608
+	offset: 0, 0
+	index: -1
+a_Rthumb_shanguangfulaishikp
+	rotate: false
+	xy: 981, 193
+	size: 27, 66
+	orig: 27, 66
+	offset: 0, 0
+	index: -1
+a_Lhand_shanguangfulaishikp
+	rotate: false
+	xy: 976, 586
+	size: 46, 86
+	orig: 46, 86
+	offset: 0, 0
+	index: -1
+a_Larm_shanguangfulaishikp
+	rotate: false
+	xy: 307, 895
+	size: 59, 115
+	orig: 59, 115
+	offset: 0, 0
+	index: -1
+a_Lshank_shanguangfulaishikp
+	rotate: false
+	xy: 976, 428
+	size: 47, 157
+	orig: 47, 157
+	offset: 0, 0
+	index: -1
+a_body_shanguangfulaishikp
+	rotate: false
+	xy: 609, 504
+	size: 179, 319
+	orig: 179, 319
+	offset: 0, 0
+	index: -1
+a_Rarmour_shanguangfulaishikp
+	rotate: false
+	xy: 234, 824
+	size: 72, 181
+	orig: 72, 181
+	offset: 0, 0
+	index: -1
+a_star1_shanguangfulaishikp
+	rotate: true
+	xy: 868, 807
+	size: 85, 89
+	orig: 85, 89
+	offset: 0, 0
+	index: -1
+a_Rshank_shanguangfulaishikp
+	rotate: true
+	xy: 593, 824
+	size: 68, 274
+	orig: 68, 274
+	offset: 0, 0
+	index: -1
+a_Rthigh_shanguangfulaishikp
+	rotate: true
+	xy: 417, 895
+	size: 107, 327
+	orig: 107, 327
+	offset: 0, 0
+	index: -1
+a_eyesclose2_shanguangfulaishikp
+	rotate: true
+	xy: 1009, 257
+	size: 63, 15
+	orig: 63, 15
+	offset: 0, 0
+	index: -1
+a_star_shanguangfulaishikp
+	rotate: true
+	xy: 745, 893
+	size: 131, 62
+	orig: 131, 62
+	offset: 0, 0
+	index: -1
+a_eyebrow_shanguangfulaishikp
+	rotate: true
+	xy: 976, 673
+	size: 68, 16
+	orig: 68, 16
+	offset: 0, 0
+	index: -1
+a_Rforearm_shanguangfulaishikp
+	rotate: false
+	xy: 0, 807
+	size: 57, 185
+	orig: 57, 185
+	offset: 0, 0
+	index: -1
+a_neck_shanguangfulaishikp
+	rotate: true
+	xy: 981, 138
+	size: 54, 42
+	orig: 54, 42
+	offset: 0, 0
+	index: -1
+a_chain_shanguangfulaishikp
+	rotate: false
+	xy: 58, 824
+	size: 175, 183
+	orig: 175, 183
+	offset: 0, 0
+	index: -1
+a_chain2_shanguangfulaishikp
+	rotate: false
+	xy: 979, 305
+	size: 19, 14
+	orig: 19, 14
+	offset: 0, 0
+	index: -1
+a_cloakBack_shanguangfulaishikp
+	rotate: true
+	xy: 367, 895
+	size: 113, 49
+	orig: 113, 49
+	offset: 0, 0
+	index: -1
+a_hair2_shanguangfulaishikp
+	rotate: true
+	xy: 808, 893
+	size: 130, 175
+	orig: 130, 175
+	offset: 0, 0
+	index: -1
+a_eyes_shanguangfulaishikp
+	rotate: true
+	xy: 1009, 193
+	size: 63, 15
+	orig: 63, 15
+	offset: 0, 0
+	index: -1
+a_Lfoot_shanguangfulaishikp
+	rotate: false
+	xy: 986, 0
+	size: 34, 137
+	orig: 34, 137
+	offset: 0, 0
+	index: -1
+a_Lforearm_shanguangfulaishikp
+	rotate: true
+	xy: 789, 0
+	size: 55, 196
+	orig: 55, 196
+	offset: 0, 0
+	index: -1
+a_cloak2_shanguangfulaishikp
+	rotate: true
+	xy: 789, 56
+	size: 239, 191
+	orig: 239, 191
+	offset: 0, 0
+	index: -1
+a_Lthigh_shanguangfulaishikp
+	rotate: true
+	xy: 307, 802
+	size: 92, 285
+	orig: 92, 285
+	offset: 0, 0
+	index: -1
+a_eyesclose1_shanguangfulaishikp
+	rotate: true
+	xy: 993, 673
+	size: 62, 12
+	orig: 62, 12
+	offset: 0, 0
+	index: -1
+a_scabbard_shanguangfulaishikp
+	rotate: false
+	xy: 789, 369
+	size: 186, 437
+	orig: 186, 437
+	offset: 0, 0
+	index: -1
+a_Rfingers_shanguangfulaishikp
+	rotate: false
+	xy: 981, 260
+	size: 20, 44
+	orig: 20, 44
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,414 @@
+
+asset/anim/jifengSECOMMON5.png
+size: 1002,545
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jifengwende_diyan1_018
+	rotate: true
+	xy: 478, 284
+	size: 253, 125
+	orig: 313, 137
+	offset: 39, 0
+	index: -1
+common/jifengwende_diyan1_020
+	rotate: true
+	xy: 135, 0
+	size: 285, 125
+	orig: 313, 137
+	offset: 26, 0
+	index: -1
+common/jifengwende_diyan1_017
+	rotate: true
+	xy: 342, 285
+	size: 253, 135
+	orig: 313, 137
+	offset: 22, 0
+	index: -1
+common/jifengwende_diyan2_010
+	rotate: false
+	xy: 751, 0
+	size: 251, 132
+	orig: 309, 156
+	offset: 20, 4
+	index: -1
+common/jifengwende_diyan2_012
+	rotate: true
+	xy: 0, 0
+	size: 287, 134
+	orig: 309, 156
+	offset: 2, 15
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_02
+	rotate: false
+	xy: 526, 860
+	size: 203, 163
+	orig: 255, 183
+	offset: 8, 11
+	index: -1
+global/a_global_quanbaodian_03
+	rotate: false
+	xy: 306, 860
+	size: 219, 163
+	orig: 255, 183
+	offset: 7, 10
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_04
+	rotate: false
+	xy: 617, 780
+	size: 195, 139
+	orig: 255, 183
+	offset: 38, 10
+	index: -1
+global/a_global_pugongjineng_wennv_04
+	rotate: true
+	xy: 813, 467
+	size: 213, 211
+	orig: 245, 245
+	offset: 15, 17
+	index: -1
+global/a_global_pugongjineng_wennv_02
+	rotate: false
+	xy: 813, 681
+	size: 209, 209
+	orig: 245, 245
+	offset: 17, 19
+	index: -1
+global/a_global_pugongjineng_wennv_03
+	rotate: true
+	xy: 813, 251
+	size: 215, 211
+	orig: 245, 245
+	offset: 15, 18
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pugongjineng_wennv_05
+	rotate: true
+	xy: 584, 216
+	size: 209, 205
+	orig: 245, 245
+	offset: 17, 19
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_01
+	rotate: false
+	xy: 784, 534
+	size: 179, 147
+	orig: 255, 183
+	offset: 29, 12
+	index: -1
+global/a_global_quanbaodian_05
+	rotate: false
+	xy: 814, 0
+	size: 195, 129
+	orig: 255, 183
+	offset: 46, 16
+	index: -1
+global/a_global_quanbaodian_06
+	rotate: false
+	xy: 204, 73
+	size: 201, 137
+	orig: 255, 183
+	offset: 46, 16
+	index: -1
+global/a_global_pugongjineng_wennv
+	rotate: false
+	xy: 614, 0
+	size: 199, 199
+	orig: 245, 245
+	offset: 23, 24
+	index: -1
+global/a_global_pugongjineng_wennv_06
+	rotate: true
+	xy: 784, 348
+	size: 185, 187
+	orig: 245, 245
+	offset: 39, 25
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_00
+	rotate: false
+	xy: 889, 457
+	size: 125, 99
+	orig: 255, 183
+	offset: 53, 31
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/jifengSECOMMON4.png
+size: 1024,1019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jifengwende_diyan2_013
+	rotate: false
+	xy: 701, 698
+	size: 293, 142
+	orig: 309, 156
+	offset: 0, 10
+	index: -1
+
+asset/anim/jifengSEATTACK0.png
+size: 988,745
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/Jifengwende_attack_guiji_017
+	rotate: false
+	xy: 340, 146
+	size: 315, 127
+	orig: 343, 163
+	offset: 17, 0
+	index: -1
+attack/Jifengwende_attack_guiji_018
+	rotate: false
+	xy: 340, 0
+	size: 333, 145
+	orig: 343, 163
+	offset: 4, 1
+	index: -1
+attack/Jifengwende_attack_guiji_019
+	rotate: false
+	xy: 0, 146
+	size: 339, 143
+	orig: 343, 163
+	offset: 0, 3
+	index: -1
+attack/Jifengwende_attack_baodian008
+	rotate: false
+	xy: 800, 571
+	size: 124, 126
+	orig: 234, 228
+	offset: 78, 57
+	index: -1
+attack/Jifengwende_attack_baodian016
+	rotate: false
+	xy: 556, 274
+	size: 82, 74
+	orig: 234, 228
+	offset: 70, 143
+	index: -1
+attack/Jifengwende_attack_baodian009
+	rotate: false
+	xy: 396, 422
+	size: 208, 174
+	orig: 234, 228
+	offset: 4, 24
+	index: -1
+attack/Jifengwende_attack_baodian014
+	rotate: true
+	xy: 605, 553
+	size: 184, 194
+	orig: 234, 228
+	offset: 0, 23
+	index: -1
+attack/Jifengwende_attack_baodian015
+	rotate: true
+	xy: 873, 181
+	size: 106, 92
+	orig: 234, 228
+	offset: 68, 125
+	index: -1
+attack/Jifengwende_attack_baodian012
+	rotate: false
+	xy: 605, 370
+	size: 204, 182
+	orig: 234, 228
+	offset: 21, 27
+	index: -1
+attack/Jifengwende_attack_baodian013
+	rotate: false
+	xy: 656, 181
+	size: 216, 188
+	orig: 234, 228
+	offset: 11, 24
+	index: -1
+attack/Jifengwende_attack_baodian010
+	rotate: true
+	xy: 810, 370
+	size: 200, 178
+	orig: 234, 228
+	offset: 22, 25
+	index: -1
+attack/Jifengwende_attack_baodian011
+	rotate: false
+	xy: 674, 0
+	size: 222, 180
+	orig: 234, 228
+	offset: 2, 25
+	index: -1
+attack/Jifengwende_attack_guiji_023
+	rotate: false
+	xy: 0, 588
+	size: 241, 151
+	orig: 343, 163
+	offset: 95, 6
+	index: -1
+attack/Jifengwende_attack_guiji_022
+	rotate: false
+	xy: 0, 438
+	size: 261, 149
+	orig: 343, 163
+	offset: 79, 5
+	index: -1
+attack/Jifengwende_attack_guiji_021
+	rotate: false
+	xy: 0, 290
+	size: 317, 147
+	orig: 343, 163
+	offset: 23, 4
+	index: -1
+attack/Jifengwende_attack_guiji_020
+	rotate: false
+	xy: 0, 0
+	size: 339, 145
+	orig: 343, 163
+	offset: 1, 4
+	index: -1
+attack/Jifengwende_attack_guiji_027
+	rotate: false
+	xy: 436, 597
+	size: 165, 133
+	orig: 343, 163
+	offset: 147, 15
+	index: -1
+attack/Jifengwende_attack_guiji_026
+	rotate: true
+	xy: 262, 438
+	size: 161, 133
+	orig: 343, 163
+	offset: 151, 15
+	index: -1
+attack/Jifengwende_attack_guiji_025
+	rotate: false
+	xy: 242, 600
+	size: 193, 145
+	orig: 343, 163
+	offset: 119, 9
+	index: -1
+attack/Jifengwende_attack_guiji_024
+	rotate: false
+	xy: 340, 274
+	size: 215, 147
+	orig: 343, 163
+	offset: 109, 8
+	index: -1
+
+asset/anim/jifengSECOMMON2.png
+size: 1024,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jifengwende_diyan2_008
+	rotate: true
+	xy: 924, 0
+	size: 183, 98
+	orig: 309, 156
+	offset: 55, 0
+	index: -1
+common/jifengwende_diyan2_009
+	rotate: false
+	xy: 192, 908
+	size: 229, 114
+	orig: 309, 156
+	offset: 28, 2
+	index: -1
+common/jifengwende_diyan2_011
+	rotate: false
+	xy: 527, 569
+	size: 275, 144
+	orig: 309, 156
+	offset: 7, 3
+	index: -1
+
+asset/anim/jifengSECOMMON3.png
+size: 1023,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jifengwende_diyan1_021
+	rotate: true
+	xy: 905, 0
+	size: 197, 117
+	orig: 313, 137
+	offset: 116, 0
+	index: -1
+common/jifengwende_diyan2_014
+	rotate: true
+	xy: 525, 725
+	size: 297, 122
+	orig: 309, 156
+	offset: 0, 24
+	index: -1
+
+asset/anim/jifengSECOMMON0.png
+size: 1024,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jifengwende_diyan1_023
+	rotate: true
+	xy: 389, 974
+	size: 47, 101
+	orig: 313, 137
+	offset: 266, 7
+	index: -1
+
+asset/anim/jifengSECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jifengwende_diyan1_019
+	rotate: true
+	xy: 148, 750
+	size: 273, 137
+	orig: 313, 137
+	offset: 30, 0
+	index: -1
+common/jifengwende_diyan1_022
+	rotate: true
+	xy: 812, 813
+	size: 199, 105
+	orig: 313, 137
+	offset: 114, 0
+	index: -1

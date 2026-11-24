@@ -1,0 +1,877 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/taoyuantuangaoshou1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j_zuojiao_taoyuantuangaoshou
+	rotate: true
+	xy: 72, 302
+	size: 53, 34
+	orig: 53, 34
+	offset: 0, 0
+	index: -1
+j_youjiao_taoyuantuangaoshou
+	rotate: true
+	xy: 171, 55
+	size: 50, 33
+	orig: 50, 33
+	offset: 0, 0
+	index: -1
+b_Larm_taoyuantuangaoshou
+	rotate: false
+	xy: 97, 408
+	size: 42, 51
+	orig: 42, 51
+	offset: 0, 0
+	index: -1
+i_youdatui_taoyuantuangaoshou
+	rotate: false
+	xy: 51, 130
+	size: 45, 60
+	orig: 45, 60
+	offset: 0, 0
+	index: -1
+m_zuodabi_taoyuantuangaoshou
+	rotate: true
+	xy: 107, 300
+	size: 51, 44
+	orig: 51, 44
+	offset: 0, 0
+	index: -1
+b_Rthigh_taoyuantuangaoshou
+	rotate: false
+	xy: 0, 435
+	size: 51, 53
+	orig: 51, 53
+	offset: 0, 0
+	index: -1
+b_Rforearm_taoyuantuangaoshou
+	rotate: true
+	xy: 86, 356
+	size: 51, 44
+	orig: 51, 44
+	offset: 0, 0
+	index: -1
+f_Rfoot_taoyuantuangaoshou
+	rotate: false
+	xy: 63, 247
+	size: 36, 54
+	orig: 36, 54
+	offset: 0, 0
+	index: -1
+i_youxiaotui_taoyuantuangaoshou
+	rotate: false
+	xy: 0, 378
+	size: 45, 56
+	orig: 45, 56
+	offset: 0, 0
+	index: -1
+c_Rhand_taoyuantuangaoshou
+	rotate: true
+	xy: 189, 447
+	size: 42, 33
+	orig: 42, 33
+	offset: 0, 0
+	index: -1
+a_coxa_taoyuantuangaoshou
+	rotate: true
+	xy: 29, 66
+	size: 63, 33
+	orig: 63, 33
+	offset: 0, 0
+	index: -1
+l_kua_taoyuantuangaoshou
+	rotate: true
+	xy: 217, 0
+	size: 48, 32
+	orig: 48, 32
+	offset: 0, 0
+	index: -1
+b_Lhand_taoyuantuangaoshou
+	rotate: true
+	xy: 152, 115
+	size: 50, 33
+	orig: 50, 33
+	offset: 0, 0
+	index: -1
+f_Rhand_taoyuantuangaoshou
+	rotate: false
+	xy: 266, 92
+	size: 38, 39
+	orig: 38, 39
+	offset: 0, 0
+	index: -1
+j_youxiaobi_taoyuantuangaoshou
+	rotate: true
+	xy: 52, 429
+	size: 52, 44
+	orig: 52, 44
+	offset: 0, 0
+	index: -1
+a_Rthigh_taoyuantuangaoshou
+	rotate: false
+	xy: 0, 0
+	size: 42, 65
+	orig: 42, 65
+	offset: 0, 0
+	index: -1
+j_youshou_taoyuantuangaoshou
+	rotate: true
+	xy: 202, 324
+	size: 42, 41
+	orig: 42, 41
+	offset: 0, 0
+	index: -1
+c_Rarm_taoyuantuangaoshou
+	rotate: true
+	xy: 187, 0
+	size: 50, 29
+	orig: 50, 29
+	offset: 0, 0
+	index: -1
+f_Larm_taoyuantuangaoshou
+	rotate: true
+	xy: 0, 318
+	size: 59, 28
+	orig: 59, 28
+	offset: 0, 0
+	index: -1
+j_zuoxiaobi_taoyuantuangaoshou
+	rotate: true
+	xy: 144, 456
+	size: 50, 44
+	orig: 50, 44
+	offset: 0, 0
+	index: -1
+d_Larm_taoyuantuangaoshou
+	rotate: true
+	xy: 106, 178
+	size: 52, 44
+	orig: 52, 44
+	offset: 0, 0
+	index: -1
+h_Rforearm_taoyuantuangaoshou
+	rotate: false
+	xy: 0, 132
+	size: 50, 63
+	orig: 50, 63
+	offset: 0, 0
+	index: -1
+i_zuoshou_taoyuantuangaoshou
+	rotate: false
+	xy: 295, 47
+	size: 36, 37
+	orig: 36, 37
+	offset: 0, 0
+	index: -1
+d_Lforearm_taoyuantuangaoshou
+	rotate: true
+	xy: 104, 460
+	size: 51, 39
+	orig: 51, 39
+	offset: 0, 0
+	index: -1
+f_Lhand_taoyuantuangaoshou
+	rotate: false
+	xy: 197, 246
+	size: 34, 30
+	orig: 34, 30
+	offset: 0, 0
+	index: -1
+m_youdabi_taoyuantuangaoshou
+	rotate: false
+	xy: 0, 258
+	size: 32, 59
+	orig: 32, 59
+	offset: 0, 0
+	index: -1
+m_youxiaotui_taoyuantuangaoshou
+	rotate: false
+	xy: 117, 60
+	size: 53, 54
+	orig: 53, 54
+	offset: 0, 0
+	index: -1
+b_Lthigh_taoyuantuangaoshou
+	rotate: true
+	xy: 0, 196
+	size: 61, 54
+	orig: 61, 54
+	offset: 0, 0
+	index: -1
+m_youshou_taoyuantuangaoshou
+	rotate: false
+	xy: 252, 47
+	size: 42, 44
+	orig: 42, 44
+	offset: 0, 0
+	index: -1
+f_Lforearm_taoyuantuangaoshou
+	rotate: false
+	xy: 223, 100
+	size: 42, 45
+	orig: 42, 45
+	offset: 0, 0
+	index: -1
+g_Rhand_taoyuantuangaoshou
+	rotate: true
+	xy: 331, 0
+	size: 36, 34
+	orig: 36, 34
+	offset: 0, 0
+	index: -1
+i_zuojiao_taoyuantuangaoshou
+	rotate: true
+	xy: 33, 258
+	size: 56, 29
+	orig: 56, 29
+	offset: 0, 0
+	index: -1
+d_Lfoot_taoyuantuangaoshou
+	rotate: false
+	xy: 52, 482
+	size: 51, 30
+	orig: 51, 30
+	offset: 0, 0
+	index: -1
+f_Rshin_taoyuantuangaoshou
+	rotate: true
+	xy: 205, 51
+	size: 48, 46
+	orig: 48, 46
+	offset: 0, 0
+	index: -1
+j_youxiaotui_taoyuantuangaoshou
+	rotate: false
+	xy: 97, 123
+	size: 54, 54
+	orig: 54, 54
+	offset: 0, 0
+	index: -1
+a_Lhand_taoyuantuangaoshou
+	rotate: false
+	xy: 197, 203
+	size: 32, 42
+	orig: 32, 42
+	offset: 0, 0
+	index: -1
+b_Rhand_taoyuantuangaoshou
+	rotate: false
+	xy: 227, 146
+	size: 39, 39
+	orig: 39, 39
+	offset: 0, 0
+	index: -1
+n_youshou_taoyuantuangaoshou
+	rotate: false
+	xy: 169, 369
+	size: 37, 34
+	orig: 37, 34
+	offset: 0, 0
+	index: -1
+a_Lshin_taoyuantuangaoshou
+	rotate: false
+	xy: 151, 178
+	size: 42, 50
+	orig: 42, 50
+	offset: 0, 0
+	index: -1
+f_coxa_taoyuantuangaoshou
+	rotate: true
+	xy: 170, 404
+	size: 42, 36
+	orig: 42, 36
+	offset: 0, 0
+	index: -1
+m_zuoshou_taoyuantuangaoshou
+	rotate: false
+	xy: 169, 324
+	size: 32, 44
+	orig: 32, 44
+	offset: 0, 0
+	index: -1
+e_coxa_taoyuantuangaoshou
+	rotate: true
+	xy: 186, 106
+	size: 49, 36
+	orig: 49, 36
+	offset: 0, 0
+	index: -1
+l_youxiaobi_taoyuantuangaoshou
+	rotate: true
+	xy: 43, 0
+	size: 62, 44
+	orig: 62, 44
+	offset: 0, 0
+	index: -1
+b_Lforearm_taoyuantuangaoshou
+	rotate: false
+	xy: 250, 0
+	size: 45, 46
+	orig: 45, 46
+	offset: 0, 0
+	index: -1
+i_zuodatui_taoyuantuangaoshou
+	rotate: true
+	xy: 88, 0
+	size: 59, 52
+	orig: 59, 52
+	offset: 0, 0
+	index: -1
+i_youxiaobi_taoyuantuangaoshou
+	rotate: false
+	xy: 141, 0
+	size: 45, 54
+	orig: 45, 54
+	offset: 0, 0
+	index: -1
+f_Rarm_taoyuantuangaoshou
+	rotate: false
+	xy: 131, 352
+	size: 37, 51
+	orig: 37, 51
+	offset: 0, 0
+	index: -1
+d_Rarm_taoyuantuangaoshou
+	rotate: true
+	xy: 140, 404
+	size: 51, 29
+	orig: 51, 29
+	offset: 0, 0
+	index: -1
+i_youjiao_taoyuantuangaoshou
+	rotate: true
+	xy: 192, 279
+	size: 44, 30
+	orig: 44, 30
+	offset: 0, 0
+	index: -1
+f_Rforearm_taoyuantuangaoshou
+	rotate: true
+	xy: 29, 318
+	size: 56, 42
+	orig: 56, 42
+	offset: 0, 0
+	index: -1
+i_zuoxiaobi_taoyuantuangaoshou
+	rotate: true
+	xy: 151, 229
+	size: 49, 45
+	orig: 49, 45
+	offset: 0, 0
+	index: -1
+f_Rthigh_taoyuantuangaoshou
+	rotate: false
+	xy: 63, 63
+	size: 53, 59
+	orig: 53, 59
+	offset: 0, 0
+	index: -1
+d_coxa_taoyuantuangaoshou
+	rotate: true
+	xy: 46, 375
+	size: 53, 39
+	orig: 53, 39
+	offset: 0, 0
+	index: -1
+m_kua_taoyuantuangaoshou
+	rotate: true
+	xy: 152, 279
+	size: 44, 39
+	orig: 44, 39
+	offset: 0, 0
+	index: -1
+i_youshou_taoyuantuangaoshou
+	rotate: true
+	xy: 223, 277
+	size: 41, 36
+	orig: 41, 36
+	offset: 0, 0
+	index: -1
+j_youdatui_taoyuantuangaoshou
+	rotate: false
+	xy: 55, 191
+	size: 50, 55
+	orig: 50, 55
+	offset: 0, 0
+	index: -1
+d_Rhand_taoyuantuangaoshou
+	rotate: true
+	xy: 296, 0
+	size: 36, 34
+	orig: 36, 34
+	offset: 0, 0
+	index: -1
+m_youjiao_taoyuantuangaoshou
+	rotate: true
+	xy: 194, 156
+	size: 46, 32
+	orig: 46, 32
+	offset: 0, 0
+	index: -1
+d_Rthigh_taoyuantuangaoshou
+	rotate: true
+	xy: 100, 247
+	size: 52, 50
+	orig: 52, 50
+	offset: 0, 0
+	index: -1
+i_kua_taoyuantuangaoshou
+	rotate: true
+	xy: 0, 66
+	size: 65, 28
+	orig: 65, 28
+	offset: 0, 0
+	index: -1
+
+asset/anim/taoyuantuangaoshou0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_Rforearm_taoyuantuangaoshou
+	rotate: true
+	xy: 344, 0
+	size: 69, 62
+	orig: 69, 62
+	offset: 0, 0
+	index: -1
+a_Rhand_taoyuantuangaoshou
+	rotate: false
+	xy: 327, 70
+	size: 41, 35
+	orig: 41, 35
+	offset: 0, 0
+	index: -1
+c_Lforearm_taoyuantuangaoshou
+	rotate: true
+	xy: 411, 359
+	size: 52, 43
+	orig: 52, 43
+	offset: 0, 0
+	index: -1
+m_shenti_taoyuantuangaoshou
+	rotate: true
+	xy: 210, 0
+	size: 105, 59
+	orig: 105, 59
+	offset: 0, 0
+	index: -1
+c_head_taoyuantuangaoshou
+	rotate: true
+	xy: 273, 205
+	size: 64, 98
+	orig: 64, 98
+	offset: 0, 0
+	index: -1
+j_zuoxiaotui_taoyuantuangaoshou
+	rotate: true
+	xy: 455, 230
+	size: 44, 57
+	orig: 44, 57
+	offset: 0, 0
+	index: -1
+l_shenti_taoyuantuangaoshou
+	rotate: false
+	xy: 172, 123
+	size: 91, 105
+	orig: 91, 105
+	offset: 0, 0
+	index: -1
+gedangcanying_taoyuangaoshou
+	rotate: false
+	xy: 208, 270
+	size: 60, 100
+	orig: 60, 100
+	offset: 0, 0
+	index: -1
+a_Rshin_taoyuantuangaoshou
+	rotate: false
+	xy: 464, 373
+	size: 48, 56
+	orig: 48, 56
+	offset: 0, 0
+	index: -1
+a_Larm_taoyuantuangaoshou
+	rotate: true
+	xy: 270, 70
+	size: 35, 56
+	orig: 35, 56
+	offset: 0, 0
+	index: -1
+d_body_taoyuantuangaoshou
+	rotate: false
+	xy: 113, 270
+	size: 94, 103
+	orig: 94, 103
+	offset: 0, 0
+	index: -1
+a_Rarm_taoyuantuangaoshou
+	rotate: true
+	xy: 252, 475
+	size: 37, 53
+	orig: 37, 53
+	offset: 0, 0
+	index: -1
+e_body_taoyuantuangaoshou
+	rotate: false
+	xy: 333, 270
+	size: 77, 97
+	orig: 77, 97
+	offset: 0, 0
+	index: -1
+a_Rforearm_taoyuantuangaoshou
+	rotate: false
+	xy: 411, 248
+	size: 43, 55
+	orig: 43, 55
+	offset: 0, 0
+	index: -1
+a_baozou_tiaoyuantuangaoshou
+	rotate: true
+	xy: 411, 0
+	size: 69, 96
+	orig: 69, 96
+	offset: 0, 0
+	index: -1
+n_youdabi_taoyuantuangaoshou
+	rotate: true
+	xy: 455, 275
+	size: 38, 57
+	orig: 38, 57
+	offset: 0, 0
+	index: -1
+j_zuodabi_taoyuantuangaoshou
+	rotate: true
+	xy: 306, 471
+	size: 41, 60
+	orig: 41, 60
+	offset: 0, 0
+	index: -1
+c_Larm_taoyuantuangaoshou
+	rotate: true
+	xy: 369, 70
+	size: 35, 32
+	orig: 35, 32
+	offset: 0, 0
+	index: -1
+a_body_taoyuantuangaoshou
+	rotate: false
+	xy: 0, 0
+	size: 104, 134
+	orig: 104, 134
+	offset: 0, 0
+	index: -1
+j_kua_taoyuantuangaoshou
+	rotate: true
+	xy: 411, 412
+	size: 58, 32
+	orig: 58, 32
+	offset: 0, 0
+	index: -1
+h_Rhand_taoyuantuangaoshou
+	rotate: false
+	xy: 113, 374
+	size: 59, 19
+	orig: 59, 19
+	offset: 0, 0
+	index: -1
+f_head_taoyuantuangaoshou
+	rotate: false
+	xy: 192, 374
+	size: 71, 100
+	orig: 71, 100
+	offset: 0, 0
+	index: -1
+i_youdabi_taoyuantuangaoshou
+	rotate: true
+	xy: 367, 471
+	size: 41, 51
+	orig: 41, 51
+	offset: 0, 0
+	index: -1
+l_youdabi_taoyuantuangaoshou
+	rotate: true
+	xy: 455, 314
+	size: 58, 56
+	orig: 58, 56
+	offset: 0, 0
+	index: -1
+a_head_taoyuantuangaoshou
+	rotate: false
+	xy: 264, 106
+	size: 69, 98
+	orig: 69, 98
+	offset: 0, 0
+	index: -1
+g_Rforearm_taoyuantuangaoshou
+	rotate: false
+	xy: 419, 471
+	size: 44, 41
+	orig: 44, 41
+	offset: 0, 0
+	index: -1
+j_youdabi_taoyuantuangaoshou
+	rotate: true
+	xy: 192, 475
+	size: 37, 59
+	orig: 37, 59
+	offset: 0, 0
+	index: -1
+d_Lthigh_taoyuantuangaoshou
+	rotate: false
+	xy: 431, 136
+	size: 68, 44
+	orig: 68, 44
+	offset: 0, 0
+	index: -1
+d_Rfoot_taoyuantuangaoshou
+	rotate: true
+	xy: 367, 368
+	size: 50, 43
+	orig: 50, 43
+	offset: 0, 0
+	index: -1
+j_shenti_taoyuantuangaoshou
+	rotate: true
+	xy: 0, 396
+	size: 112, 119
+	orig: 112, 119
+	offset: 0, 0
+	index: -1
+h_Rarm_taoyuantuangaoshou
+	rotate: true
+	xy: 105, 235
+	size: 34, 68
+	orig: 34, 68
+	offset: 0, 0
+	index: -1
+f_body_taoyuantuangaoshou
+	rotate: false
+	xy: 105, 123
+	size: 66, 111
+	orig: 66, 111
+	offset: 0, 0
+	index: -1
+f_benghuai_tiaoyuantuangaoshou
+	rotate: false
+	xy: 120, 394
+	size: 71, 100
+	orig: 71, 100
+	offset: 0, 0
+	index: -1
+a_Rfoot_taoyuantuangaoshou
+	rotate: false
+	xy: 225, 229
+	size: 47, 40
+	orig: 47, 40
+	offset: 0, 0
+	index: -1
+d_head_taoyuantuangaoshou
+	rotate: false
+	xy: 269, 270
+	size: 63, 99
+	orig: 63, 99
+	offset: 0, 0
+	index: -1
+c_Lhand_taoyuantuangaoshou
+	rotate: true
+	xy: 382, 106
+	size: 71, 48
+	orig: 71, 48
+	offset: 0, 0
+	index: -1
+j_tou_taoyuantuangaoshou
+	rotate: false
+	xy: 264, 371
+	size: 69, 99
+	orig: 69, 99
+	offset: 0, 0
+	index: -1
+m_youxiaobi_taoyuantuangaoshou
+	rotate: false
+	xy: 464, 430
+	size: 48, 47
+	orig: 48, 47
+	offset: 0, 0
+	index: -1
+m_youdatui_taoyuantuangaoshou
+	rotate: true
+	xy: 372, 181
+	size: 74, 36
+	orig: 74, 36
+	offset: 0, 0
+	index: -1
+j_zuodatui_taoyuantuangaoshou
+	rotate: true
+	xy: 457, 70
+	size: 65, 55
+	orig: 65, 55
+	offset: 0, 0
+	index: -1
+a_Eyelid_taoyuantuangaoshou
+	rotate: false
+	xy: 210, 106
+	size: 45, 12
+	orig: 45, 12
+	offset: 0, 0
+	index: -1
+a_Lforearm_taoyuantuangaoshou
+	rotate: true
+	xy: 174, 229
+	size: 40, 50
+	orig: 40, 50
+	offset: 0, 0
+	index: -1
+a_Lfoot_taoyuantuangaoshou
+	rotate: false
+	xy: 464, 478
+	size: 47, 34
+	orig: 47, 34
+	offset: 0, 0
+	index: -1
+n_youxiaobi_taoyuantuangaoshou
+	rotate: true
+	xy: 334, 106
+	size: 74, 47
+	orig: 74, 47
+	offset: 0, 0
+	index: -1
+a_Lthigh_taoyuantuangaoshou
+	rotate: false
+	xy: 409, 181
+	size: 45, 66
+	orig: 45, 66
+	offset: 0, 0
+	index: -1
+c_body_taoyuantuangaoshou
+	rotate: false
+	xy: 105, 0
+	size: 104, 122
+	orig: 104, 122
+	offset: 0, 0
+	index: -1
+c_coxa_taoyuantuangaoshou
+	rotate: true
+	xy: 334, 368
+	size: 63, 32
+	orig: 63, 32
+	offset: 0, 0
+	index: -1
+i_zuoxiaotui_taoyuantuangaoshou
+	rotate: false
+	xy: 411, 304
+	size: 43, 54
+	orig: 43, 54
+	offset: 0, 0
+	index: -1
+d_Rshin_taoyuantuangaoshou
+	rotate: false
+	xy: 455, 181
+	size: 57, 48
+	orig: 57, 48
+	offset: 0, 0
+	index: -1
+b_body_taoyuantuangaoshou
+	rotate: false
+	xy: 0, 135
+	size: 104, 134
+	orig: 104, 134
+	offset: 0, 0
+	index: -1
+i_zuodabi_taoyuantuangaoshou
+	rotate: true
+	xy: 402, 70
+	size: 34, 54
+	orig: 34, 54
+	offset: 0, 0
+	index: -1
+i_shenti_taoyuantuangaoshou
+	rotate: false
+	xy: 0, 270
+	size: 112, 125
+	orig: 112, 125
+	offset: 0, 0
+	index: -1
+b_Rarm_taoyuantuangaoshou
+	rotate: false
+	xy: 334, 432
+	size: 47, 38
+	orig: 47, 38
+	offset: 0, 0
+	index: -1
+d_Rforearm_taoyuantuangaoshou
+	rotate: false
+	xy: 270, 0
+	size: 73, 69
+	orig: 73, 69
+	offset: 0, 0
+	index: -1

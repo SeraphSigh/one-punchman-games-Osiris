@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>lj2_juexing_qiubaogong_00145.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			</array>
+			<key>spriteOffset</key>
+			<string>{0,1}</string>
+			<key>spriteSize</key>
+			<string>{225,208}</string>
+			<key>spriteSourceSize</key>
+			<string>{273,248}</string>
+			<key>textureRect</key>
+			<string>{{0,0},{225,208}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>lj2_juexing_zhaci_00159.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			</array>
+			<key>spriteOffset</key>
+			<string>{-18,8}</string>
+			<key>spriteSize</key>
+			<string>{219,210}</string>
+			<key>spriteSourceSize</key>
+			<string>{345,360}</string>
+			<key>textureRect</key>
+			<string>{{226,0},{219,210}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>pixelFormat</key>
+		<string>RGBA8888</string>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>longjuan2SEMAX5.png</string>
+		<key>scale</key>
+		<real>0.78</real>
+		<key>size</key>
+		<string>{512,512}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:d02d5b6a6944f6932729c2cdf135dec1:a3972d286b2523c5dc40a926bc81bcd6:09590561e738867d7ff033a53787c66d$</string>
+		<key>textureFileName</key>
+		<string>longjuan2SEMAX5.png</string>
+	</dict>
+</dict>
+</plist>

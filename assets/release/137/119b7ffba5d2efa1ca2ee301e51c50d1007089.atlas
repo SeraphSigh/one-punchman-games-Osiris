@@ -1,0 +1,1555 @@
+
+asset/anim/dajiongyan2SECOMMON5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/dajiongyan2_skill_screen_effect01_00074
+	rotate: false
+	xy: 285, 606
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00075
+	rotate: true
+	xy: 570, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00058
+	rotate: false
+	xy: 285, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00056
+	rotate: true
+	xy: 285, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00057
+	rotate: true
+	xy: 606, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_huohua_00119
+	rotate: false
+	xy: 570, 570
+	size: 203, 318
+	orig: 269, 346
+	offset: 26, 18
+	index: -1
+common/dajiongyan2_skill_huohua_00118
+	rotate: false
+	xy: 774, 570
+	size: 227, 300
+	orig: 269, 346
+	offset: 21, 29
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00040
+	rotate: false
+	xy: 0, 642
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_baiping
+	rotate: false
+	xy: 0, 963
+	size: 5, 5
+	orig: 5, 5
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00038
+	rotate: false
+	xy: 0, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00039
+	rotate: false
+	xy: 0, 321
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SESKILL6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/dajiongyan2_skill_guang01_00115
+	rotate: false
+	xy: 589, 1000
+	size: 444, 429
+	orig: 444, 429
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/dajiongyan2_skill_screen_effect01_00071
+	rotate: false
+	xy: 285, 606
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00072
+	rotate: true
+	xy: 570, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00073
+	rotate: false
+	xy: 570, 570
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00053
+	rotate: true
+	xy: 285, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00054
+	rotate: true
+	xy: 606, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00055
+	rotate: false
+	xy: 285, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00035
+	rotate: false
+	xy: 0, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00036
+	rotate: false
+	xy: 0, 321
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00037
+	rotate: false
+	xy: 0, 642
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/dajiongyan2_skill_screen_effect01_00059
+	rotate: true
+	xy: 285, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_huohua_00124
+	rotate: true
+	xy: 717, 685
+	size: 187, 210
+	orig: 269, 346
+	offset: 14, 27
+	index: -1
+common/dajiongyan2_skill_huohua_00120
+	rotate: false
+	xy: 285, 606
+	size: 217, 272
+	orig: 269, 346
+	offset: 25, 23
+	index: -1
+common/dajiongyan2_skill_huohua_00121
+	rotate: false
+	xy: 285, 606
+	size: 217, 272
+	orig: 269, 346
+	offset: 25, 23
+	index: -1
+common/dajiongyan2_skill_huohua_00122
+	rotate: true
+	xy: 717, 285
+	size: 211, 248
+	orig: 269, 346
+	offset: 46, 32
+	index: -1
+common/dajiongyan2_skill_huohua_00123
+	rotate: true
+	xy: 717, 497
+	size: 187, 220
+	orig: 269, 346
+	offset: 15, 18
+	index: -1
+common/dajiongyan2_skill_huohua_00117
+	rotate: false
+	xy: 503, 606
+	size: 213, 252
+	orig: 269, 346
+	offset: 33, 28
+	index: -1
+common/dajiongyan2_skill_huohua_00116
+	rotate: false
+	xy: 503, 606
+	size: 213, 252
+	orig: 269, 346
+	offset: 33, 28
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00061
+	rotate: false
+	xy: 285, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00060
+	rotate: true
+	xy: 606, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00041
+	rotate: false
+	xy: 0, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00043
+	rotate: false
+	xy: 0, 642
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00042
+	rotate: false
+	xy: 0, 321
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/dajiongyan2_skill_screen_effect01_00025
+	rotate: false
+	xy: 570, 570
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00024
+	rotate: true
+	xy: 570, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_huohua_00115
+	rotate: false
+	xy: 855, 570
+	size: 137, 314
+	orig: 269, 346
+	offset: 44, 12
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00023
+	rotate: false
+	xy: 285, 606
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00022
+	rotate: false
+	xy: 285, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_huohua_00125
+	rotate: false
+	xy: 891, 285
+	size: 123, 176
+	orig: 269, 346
+	offset: 38, 34
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00020
+	rotate: true
+	xy: 285, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00017
+	rotate: false
+	xy: 0, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00018
+	rotate: false
+	xy: 0, 321
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00019
+	rotate: false
+	xy: 0, 642
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00021
+	rotate: true
+	xy: 606, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/dajiongyan2_skill_screen_effect01_00028
+	rotate: false
+	xy: 0, 642
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00026
+	rotate: false
+	xy: 0, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00027
+	rotate: false
+	xy: 0, 321
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00064
+	rotate: false
+	xy: 570, 570
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00045
+	rotate: true
+	xy: 606, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00044
+	rotate: true
+	xy: 285, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00046
+	rotate: false
+	xy: 285, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00063
+	rotate: true
+	xy: 570, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00062
+	rotate: false
+	xy: 285, 606
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/dajiongyan2_skill_screen_effect01_00029
+	rotate: false
+	xy: 0, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00031
+	rotate: false
+	xy: 0, 642
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00049
+	rotate: false
+	xy: 285, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00048
+	rotate: true
+	xy: 606, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00067
+	rotate: false
+	xy: 570, 570
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00066
+	rotate: true
+	xy: 570, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00065
+	rotate: false
+	xy: 285, 606
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00047
+	rotate: true
+	xy: 285, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00030
+	rotate: false
+	xy: 0, 321
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/dajiongyan2_skill_screen_effect01_00070
+	rotate: false
+	xy: 570, 570
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00052
+	rotate: false
+	xy: 285, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00050
+	rotate: true
+	xy: 285, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00051
+	rotate: true
+	xy: 606, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00068
+	rotate: false
+	xy: 285, 606
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00069
+	rotate: true
+	xy: 570, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00032
+	rotate: false
+	xy: 0, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00034
+	rotate: false
+	xy: 0, 642
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00033
+	rotate: false
+	xy: 0, 321
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/dajiongyan2SEMAX10.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/dajiongyan2_max_daji_00081
+	rotate: false
+	xy: 0, 0
+	size: 229, 245
+	orig: 247, 399
+	offset: 16, 59
+	index: -1
+
+asset/anim/dajiongyan2SEMAX8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/dajiongyan2_max_screen01_00045
+	rotate: false
+	xy: 0, 666
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00044
+	rotate: false
+	xy: 0, 333
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00046
+	rotate: true
+	xy: 296, 0
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00043
+	rotate: false
+	xy: 0, 0
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen_heibai_00141
+	rotate: true
+	xy: 592, 296
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen_heibai_00140
+	rotate: false
+	xy: 296, 629
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen_heibai_00142
+	rotate: false
+	xy: 592, 592
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen_heibai_00138
+	rotate: true
+	xy: 629, 0
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen_heibai_00139
+	rotate: false
+	xy: 296, 296
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SEMAX9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/dajiongyan2_max_baodian01_00072
+	rotate: true
+	xy: 781, 522
+	size: 164, 243
+	orig: 198, 265
+	offset: 22, 12
+	index: -1
+max/dajiongyan2_max_baodian01_00067
+	rotate: true
+	xy: 537, 510
+	size: 186, 243
+	orig: 198, 265
+	offset: 8, 9
+	index: -1
+max/dajiongyan2_max_screen_heibai_00143
+	rotate: false
+	xy: 0, 0
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_kuoquan_00146
+	rotate: false
+	xy: 464, 158
+	size: 316, 151
+	orig: 356, 191
+	offset: 19, 22
+	index: -1
+max/dajiongyan2_max_screen_heibai_00144
+	rotate: false
+	xy: 0, 333
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00049
+	rotate: false
+	xy: 244, 666
+	size: 219, 332
+	orig: 295, 332
+	offset: 74, 0
+	index: -1
+max/dajiongyan2_max_daji_00121
+	rotate: false
+	xy: 797, 0
+	size: 219, 291
+	orig: 247, 399
+	offset: 11, 30
+	index: -1
+max/dajiongyan2_max_daji_00063
+	rotate: true
+	xy: 464, 697
+	size: 197, 269
+	orig: 247, 399
+	offset: 22, 39
+	index: -1
+max/dajiongyan2_max_daji_00061
+	rotate: true
+	xy: 464, 310
+	size: 199, 275
+	orig: 247, 399
+	offset: 20, 34
+	index: -1
+max/dajiongyan2_max_screen01_00022
+	rotate: true
+	xy: 464, 0
+	size: 157, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00025
+	rotate: false
+	xy: 0, 666
+	size: 243, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen_heibai_00137
+	rotate: true
+	xy: 296, 510
+	size: 155, 240
+	orig: 295, 332
+	offset: 39, 56
+	index: -1
+max/dajiongyan2_max_daji_00133
+	rotate: true
+	xy: 781, 687
+	size: 207, 237
+	orig: 247, 399
+	offset: 17, 66
+	index: -1
+max/dajiongyan2_max_daji_00164
+	rotate: false
+	xy: 296, 0
+	size: 167, 329
+	orig: 247, 399
+	offset: 39, 33
+	index: -1
+
+asset/anim/dajiongyan2SEMAX6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/dajiongyan2_max_baodian01_00073
+	rotate: true
+	xy: 564, 882
+	size: 136, 221
+	orig: 198, 265
+	offset: 30, 11
+	index: -1
+max/dajiongyan2_max_daji_00101
+	rotate: false
+	xy: 0, 0
+	size: 129, 337
+	orig: 247, 399
+	offset: 61, 16
+	index: -1
+max/dajiongyan2_max_daji_00131
+	rotate: true
+	xy: 758, 672
+	size: 209, 261
+	orig: 247, 399
+	offset: 16, 49
+	index: -1
+max/dajiongyan2_max_daji_00083
+	rotate: true
+	xy: 296, 795
+	size: 229, 267
+	orig: 247, 399
+	offset: 16, 65
+	index: -1
+max/dajiongyan2_max_screen01_00032
+	rotate: true
+	xy: 426, 0
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00033
+	rotate: true
+	xy: 426, 296
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00030
+	rotate: false
+	xy: 130, 0
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00031
+	rotate: false
+	xy: 0, 671
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_daji_00067
+	rotate: false
+	xy: 564, 592
+	size: 193, 237
+	orig: 247, 399
+	offset: 23, 66
+	index: -1
+max/dajiongyan2_max_screen02_00040
+	rotate: true
+	xy: 759, 234
+	size: 207, 265
+	orig: 357, 403
+	offset: 132, 131
+	index: -1
+max/dajiongyan2_max_screen01_00029
+	rotate: false
+	xy: 0, 338
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_daji_00073
+	rotate: true
+	xy: 759, 0
+	size: 233, 265
+	orig: 247, 399
+	offset: 14, 41
+	index: -1
+max/dajiongyan2_max_daji_00043
+	rotate: false
+	xy: 296, 565
+	size: 115, 229
+	orig: 247, 399
+	offset: 64, 69
+	index: -1
+max/dajiongyan2_max_daji_00047
+	rotate: false
+	xy: 296, 333
+	size: 117, 231
+	orig: 247, 399
+	offset: 65, 66
+	index: -1
+max/dajiongyan2_max_daji_00051
+	rotate: true
+	xy: 786, 882
+	size: 131, 235
+	orig: 247, 399
+	offset: 63, 68
+	index: -1
+max/dajiongyan2_max_daji_00079
+	rotate: true
+	xy: 759, 442
+	size: 229, 261
+	orig: 247, 399
+	offset: 16, 43
+	index: -1
+
+asset/anim/dajiongyan2SEMAX7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/dajiongyan2_max_baodian01_00074
+	rotate: false
+	xy: 888, 592
+	size: 134, 219
+	orig: 198, 265
+	offset: 31, 12
+	index: -1
+max/dajiongyan2_max_screen01_00042
+	rotate: false
+	xy: 592, 592
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00041
+	rotate: true
+	xy: 592, 296
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00040
+	rotate: false
+	xy: 296, 629
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00036
+	rotate: false
+	xy: 0, 666
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00037
+	rotate: true
+	xy: 296, 0
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00034
+	rotate: false
+	xy: 0, 0
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00035
+	rotate: false
+	xy: 0, 333
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00038
+	rotate: true
+	xy: 629, 0
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00039
+	rotate: false
+	xy: 296, 296
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SEMAX4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/dajiongyan2_max_daji_00119
+	rotate: false
+	xy: 563, 734
+	size: 193, 289
+	orig: 247, 399
+	offset: 46, 13
+	index: -1
+max/dajiongyan2_max_daji_00039
+	rotate: true
+	xy: 921, 149
+	size: 75, 97
+	orig: 247, 399
+	offset: 75, 152
+	index: -1
+max/dajiongyan2_max_daji_00109
+	rotate: false
+	xy: 333, 734
+	size: 229, 289
+	orig: 247, 399
+	offset: 10, 48
+	index: -1
+max/dajiongyan2_max_daji_00069
+	rotate: false
+	xy: 358, 0
+	size: 203, 275
+	orig: 247, 399
+	offset: 6, 29
+	index: -1
+max/dajiongyan2_max_daji_00137
+	rotate: false
+	xy: 757, 687
+	size: 177, 337
+	orig: 247, 399
+	offset: 34, 22
+	index: -1
+max/dajiongyan2_max_kuoquan_00149
+	rotate: false
+	xy: 563, 180
+	size: 356, 173
+	orig: 356, 191
+	offset: 0, 8
+	index: -1
+max/dajiongyan2_max_screen01_00048
+	rotate: false
+	xy: 757, 354
+	size: 267, 332
+	orig: 295, 332
+	offset: 28, 0
+	index: -1
+max/dajiongyan2_max_daji_00091
+	rotate: false
+	xy: 196, 0
+	size: 161, 361
+	orig: 247, 399
+	offset: 45, 4
+	index: -1
+max/dajiongyan2_max_daji_00157
+	rotate: false
+	xy: 0, 0
+	size: 195, 367
+	orig: 247, 399
+	offset: 27, 17
+	index: -1
+max/dajiongyan2_max_screen01_00026
+	rotate: true
+	xy: 0, 734
+	size: 289, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen02_00037
+	rotate: false
+	xy: 0, 368
+	size: 357, 365
+	orig: 357, 403
+	offset: 0, 38
+	index: -1
+max/dajiongyan2_max_daji_00057
+	rotate: false
+	xy: 358, 276
+	size: 203, 269
+	orig: 247, 399
+	offset: 18, 37
+	index: -1
+max/dajiongyan2_max_daji_00053
+	rotate: true
+	xy: 358, 546
+	size: 187, 325
+	orig: 247, 399
+	offset: 44, 22
+	index: -1
+max/dajiongyan2_max_daji_00161
+	rotate: true
+	xy: 563, 0
+	size: 179, 357
+	orig: 247, 399
+	offset: 33, 20
+	index: -1
+
+asset/anim/dajiongyan2SEMAX5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/dajiongyan2_max_baodian01_00071
+	rotate: true
+	xy: 240, 666
+	size: 168, 241
+	orig: 198, 265
+	offset: 18, 13
+	index: -1
+max/dajiongyan2_max_baodian01_00070
+	rotate: true
+	xy: 0, 666
+	size: 170, 239
+	orig: 198, 265
+	offset: 16, 15
+	index: -1
+max/dajiongyan2_max_baodian01_00068
+	rotate: true
+	xy: 579, 839
+	size: 182, 241
+	orig: 198, 265
+	offset: 9, 11
+	index: -1
+max/dajiongyan2_max_baodian01_00069
+	rotate: true
+	xy: 333, 839
+	size: 182, 245
+	orig: 198, 265
+	offset: 12, 9
+	index: -1
+max/dajiongyan2_max_kuoquan_00150
+	rotate: false
+	xy: 0, 0
+	size: 356, 169
+	orig: 356, 191
+	offset: 0, 10
+	index: -1
+max/dajiongyan2_max_kuoquan_00147
+	rotate: false
+	xy: 0, 502
+	size: 338, 161
+	orig: 356, 191
+	offset: 8, 15
+	index: -1
+max/dajiongyan2_max_daji_00127
+	rotate: true
+	xy: 711, 0
+	size: 209, 301
+	orig: 247, 399
+	offset: 16, 25
+	index: -1
+max/dajiongyan2_max_daji_00095
+	rotate: true
+	xy: 0, 170
+	size: 155, 353
+	orig: 247, 399
+	offset: 47, 8
+	index: -1
+max/dajiongyan2_max_screen01_00023
+	rotate: true
+	xy: 0, 839
+	size: 185, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00027
+	rotate: false
+	xy: 711, 210
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen01_00028
+	rotate: true
+	xy: 692, 543
+	size: 295, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen02_00039
+	rotate: false
+	xy: 348, 334
+	size: 343, 331
+	orig: 357, 403
+	offset: 9, 72
+	index: -1
+max/dajiongyan2_max_screen02_00038
+	rotate: false
+	xy: 357, 0
+	size: 353, 333
+	orig: 357, 403
+	offset: 4, 70
+	index: -1
+max/dajiongyan2_max_daji_00163
+	rotate: true
+	xy: 0, 326
+	size: 175, 347
+	orig: 247, 399
+	offset: 35, 25
+	index: -1
+
+asset/anim/dajiongyan2SEMAX2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/dajiongyan2_max_kuoquan_00148
+	rotate: false
+	xy: 672, 0
+	size: 352, 167
+	orig: 356, 191
+	offset: 2, 11
+	index: -1
+max/dajiongyan2_max_kuoquan_00144
+	rotate: true
+	xy: 562, 345
+	size: 230, 109
+	orig: 356, 191
+	offset: 61, 47
+	index: -1
+max/dajiongyan2_max_daji_00085
+	rotate: false
+	xy: 358, 0
+	size: 159, 251
+	orig: 247, 399
+	offset: 40, 65
+	index: -1
+max/dajiongyan2_max_daji_00123
+	rotate: true
+	xy: 0, 808
+	size: 213, 295
+	orig: 247, 399
+	offset: 14, 28
+	index: -1
+max/dajiongyan2_max_daji_00093
+	rotate: false
+	xy: 358, 448
+	size: 159, 359
+	orig: 247, 399
+	offset: 46, 4
+	index: -1
+max/dajiongyan2_max_daji_00097
+	rotate: true
+	xy: 672, 168
+	size: 145, 351
+	orig: 247, 399
+	offset: 51, 9
+	index: -1
+max/dajiongyan2_max_daji_00099
+	rotate: true
+	xy: 672, 314
+	size: 133, 349
+	orig: 247, 399
+	offset: 59, 10
+	index: -1
+max/dajiongyan2_max_daji_00077
+	rotate: true
+	xy: 518, 576
+	size: 231, 269
+	orig: 247, 399
+	offset: 14, 39
+	index: -1
+max/dajiongyan2_max_daji_00071
+	rotate: false
+	xy: 788, 576
+	size: 235, 267
+	orig: 247, 399
+	offset: 12, 39
+	index: -1
+max/dajiongyan2_max_daji_00146
+	rotate: true
+	xy: 296, 808
+	size: 211, 375
+	orig: 247, 399
+	offset: 20, 16
+	index: -1
+max/dajiongyan2_max_daji_00049
+	rotate: true
+	xy: 787, 844
+	size: 129, 237
+	orig: 247, 399
+	offset: 62, 66
+	index: -1
+max/dajiongyan2_max_screen_heibai_00136
+	rotate: true
+	xy: 672, 448
+	size: 127, 180
+	orig: 295, 332
+	offset: 39, 62
+	index: -1
+max/dajiongyan2_max_screen02_00035
+	rotate: false
+	xy: 0, 404
+	size: 357, 403
+	orig: 357, 403
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen02_00034
+	rotate: false
+	xy: 0, 0
+	size: 357, 403
+	orig: 357, 403
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_daji_00167
+	rotate: true
+	xy: 358, 345
+	size: 101, 203
+	orig: 247, 399
+	offset: 69, 89
+	index: -1
+
+asset/anim/dajiongyan2SEMAX3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/dajiongyan2_max_daji_00075
+	rotate: true
+	xy: 268, 792
+	size: 231, 267
+	orig: 247, 399
+	offset: 14, 40
+	index: -1
+max/dajiongyan2_max_daji_00117
+	rotate: true
+	xy: 0, 802
+	size: 221, 267
+	orig: 247, 399
+	offset: 14, 36
+	index: -1
+max/dajiongyan2_max_daji_00113
+	rotate: true
+	xy: 766, 122
+	size: 229, 255
+	orig: 247, 399
+	offset: 10, 65
+	index: -1
+max/dajiongyan2_max_daji_00111
+	rotate: false
+	xy: 536, 746
+	size: 229, 277
+	orig: 247, 399
+	offset: 10, 54
+	index: -1
+max/dajiongyan2_max_baodian01_00066
+	rotate: false
+	xy: 836, 352
+	size: 188, 241
+	orig: 198, 265
+	offset: 5, 9
+	index: -1
+max/dajiongyan2_max_daji_00135
+	rotate: true
+	xy: 766, 0
+	size: 121, 257
+	orig: 247, 399
+	offset: 62, 46
+	index: -1
+max/dajiongyan2_max_daji_00136
+	rotate: false
+	xy: 642, 372
+	size: 193, 369
+	orig: 247, 399
+	offset: 26, 7
+	index: -1
+max/dajiongyan2_max_kuoquan_00145
+	rotate: true
+	xy: 766, 742
+	size: 282, 135
+	orig: 356, 191
+	offset: 35, 32
+	index: -1
+max/dajiongyan2_max_daji_00089
+	rotate: false
+	xy: 554, 0
+	size: 161, 371
+	orig: 247, 399
+	offset: 43, 0
+	index: -1
+max/dajiongyan2_max_daji_00155
+	rotate: false
+	xy: 358, 0
+	size: 195, 373
+	orig: 247, 399
+	offset: 28, 17
+	index: -1
+max/dajiongyan2_max_daji_00152
+	rotate: false
+	xy: 450, 374
+	size: 191, 371
+	orig: 247, 399
+	offset: 29, 17
+	index: -1
+max/dajiongyan2_max_daji_00150
+	rotate: false
+	xy: 230, 404
+	size: 219, 387
+	orig: 247, 399
+	offset: 16, 9
+	index: -1
+max/dajiongyan2_max_daji_00148
+	rotate: false
+	xy: 0, 404
+	size: 229, 397
+	orig: 247, 399
+	offset: 10, 2
+	index: -1
+max/dajiongyan2_max_daji_00045
+	rotate: false
+	xy: 902, 745
+	size: 117, 233
+	orig: 247, 399
+	offset: 65, 66
+	index: -1
+max/dajiongyan2_max_screen02_00036
+	rotate: false
+	xy: 0, 0
+	size: 357, 403
+	orig: 357, 403
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/dajiongyan2_max_baodian01_00076
+	rotate: true
+	xy: 497, 135
+	size: 126, 217
+	orig: 198, 265
+	offset: 39, 13
+	index: -1
+max/dajiongyan2_max_baodian01_00075
+	rotate: true
+	xy: 497, 0
+	size: 134, 217
+	orig: 198, 265
+	offset: 31, 13
+	index: -1
+max/dajiongyan2_max_daji_00107
+	rotate: true
+	xy: 737, 172
+	size: 231, 287
+	orig: 247, 399
+	offset: 9, 50
+	index: -1
+max/dajiongyan2_max_daji_00103
+	rotate: false
+	xy: 497, 262
+	size: 239, 311
+	orig: 247, 399
+	offset: 5, 38
+	index: -1
+max/dajiongyan2_max_daji_00129
+	rotate: true
+	xy: 737, 404
+	size: 209, 287
+	orig: 247, 399
+	offset: 16, 32
+	index: -1
+max/dajiongyan2_max_daji_00144
+	rotate: true
+	xy: 716, 0
+	size: 171, 307
+	orig: 247, 399
+	offset: 41, 50
+	index: -1
+max/dajiongyan2_max_screen02_00031
+	rotate: false
+	xy: 358, 574
+	size: 357, 403
+	orig: 357, 403
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen02_00030
+	rotate: false
+	xy: 0, 574
+	size: 357, 403
+	orig: 357, 403
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_daji_00055
+	rotate: true
+	xy: 716, 614
+	size: 207, 305
+	orig: 247, 399
+	offset: 16, 38
+	index: -1
+max/dajiongyan2_max_daji_00059
+	rotate: true
+	xy: 716, 822
+	size: 201, 271
+	orig: 247, 399
+	offset: 19, 36
+	index: -1
+
+asset/anim/dajiongyan2SEMAX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/dajiongyan2_max_daji_00115
+	rotate: false
+	xy: 358, 569
+	size: 229, 237
+	orig: 247, 399
+	offset: 10, 71
+	index: -1
+max/dajiongyan2_max_daji_00105
+	rotate: true
+	xy: 358, 333
+	size: 235, 283
+	orig: 247, 399
+	offset: 7, 52
+	index: -1
+max/dajiongyan2_max_daji_00065
+	rotate: false
+	xy: 642, 556
+	size: 197, 251
+	orig: 247, 399
+	offset: 22, 55
+	index: -1
+max/dajiongyan2_max_screen01_00047
+	rotate: false
+	xy: 358, 0
+	size: 283, 332
+	orig: 295, 332
+	offset: 12, 0
+	index: -1
+max/dajiongyan2_max_daji_00087
+	rotate: true
+	xy: 642, 382
+	size: 173, 381
+	orig: 247, 399
+	offset: 39, 0
+	index: -1
+max/dajiongyan2_max_daji_00125
+	rotate: true
+	xy: 333, 808
+	size: 213, 311
+	orig: 247, 399
+	offset: 13, 27
+	index: -1
+max/dajiongyan2_max_daji_00159
+	rotate: false
+	xy: 840, 556
+	size: 183, 359
+	orig: 247, 399
+	offset: 33, 18
+	index: -1
+max/dajiongyan2_max_daji_00153
+	rotate: true
+	xy: 645, 0
+	size: 193, 377
+	orig: 247, 399
+	offset: 29, 17
+	index: -1
+max/dajiongyan2_max_daji_00151
+	rotate: true
+	xy: 642, 194
+	size: 187, 381
+	orig: 247, 399
+	offset: 30, 17
+	index: -1
+max/dajiongyan2_max_screen01_00024
+	rotate: true
+	xy: 0, 808
+	size: 213, 332
+	orig: 295, 332
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_daji_00041
+	rotate: true
+	xy: 645, 916
+	size: 105, 163
+	orig: 247, 399
+	offset: 67, 102
+	index: -1
+max/dajiongyan2_max_screen02_00033
+	rotate: false
+	xy: 0, 404
+	size: 357, 403
+	orig: 357, 403
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_screen02_00032
+	rotate: false
+	xy: 0, 0
+	size: 357, 403
+	orig: 357, 403
+	offset: 0, 0
+	index: -1
+max/dajiongyan2_max_daji_00166
+	rotate: true
+	xy: 809, 916
+	size: 101, 207
+	orig: 247, 399
+	offset: 68, 89
+	index: -1

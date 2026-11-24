@@ -1,0 +1,404 @@
+
+asset/anim/mengzhongdidiwangkp0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shangyan2_mengzhongdidiwangkp
+	rotate: true
+	xy: 228, 997
+	size: 23, 54
+	orig: 23, 54
+	offset: 0, 0
+	index: -1
+youshou_mengzhongdidiwangkp
+	rotate: true
+	xy: 881, 0
+	size: 110, 143
+	orig: 110, 143
+	offset: 0, 0
+	index: -1
+youjiao_mengzhongdidiwangkp
+	rotate: true
+	xy: 881, 111
+	size: 200, 141
+	orig: 200, 141
+	offset: 0, 0
+	index: -1
+zzuodabi_mengzhongdidiwangkp
+	rotate: false
+	xy: 881, 506
+	size: 138, 166
+	orig: 138, 166
+	offset: 0, 0
+	index: -1
+shentiguang_mengzhongdidiwangkp
+	rotate: false
+	xy: 173, 583
+	size: 246, 413
+	orig: 246, 413
+	offset: 0, 0
+	index: -1
+youshoutx2_mengzhongdidiwangkp
+	rotate: false
+	xy: 382, 531
+	size: 73, 45
+	orig: 73, 45
+	offset: 0, 0
+	index: -1
+zuojiao_mengzhongdidiwangkp
+	rotate: true
+	xy: 871, 673
+	size: 121, 150
+	orig: 121, 150
+	offset: 0, 0
+	index: -1
+zzuoxiaobitexiao_mengzhongdidiwangkp
+	rotate: false
+	xy: 267, 531
+	size: 48, 48
+	orig: 48, 48
+	offset: 0, 0
+	index: -1
+youxiajian_mengzhongdidiwangkp
+	rotate: false
+	xy: 568, 0
+	size: 312, 527
+	orig: 312, 527
+	offset: 0, 0
+	index: -1
+youxiaobitx_mengzhongdidiwangkp
+	rotate: false
+	xy: 420, 797
+	size: 30, 54
+	orig: 30, 54
+	offset: 0, 0
+	index: -1
+zshangjian_mengzhongdidiwangkp
+	rotate: false
+	xy: 456, 531
+	size: 207, 486
+	orig: 207, 486
+	offset: 0, 0
+	index: -1
+youyan2_mengzhongdidiwangkp
+	rotate: true
+	xy: 420, 757
+	size: 39, 31
+	orig: 39, 31
+	offset: 0, 0
+	index: -1
+zuoyanqiu3_mengzhongdidiwangkp
+	rotate: true
+	xy: 420, 634
+	size: 40, 34
+	orig: 40, 34
+	offset: 0, 0
+	index: -1
+zuoyan3_mengzhongdidiwangkp
+	rotate: true
+	xy: 871, 795
+	size: 45, 42
+	orig: 45, 42
+	offset: 0, 0
+	index: -1
+zuoyan1_mengzhongdidiwangkp
+	rotate: true
+	xy: 954, 795
+	size: 42, 41
+	orig: 42, 41
+	offset: 0, 0
+	index: -1
+zuozhongjian_mengzhongdidiwangkp
+	rotate: false
+	xy: 0, 0
+	size: 266, 582
+	orig: 292, 608
+	offset: 0, 0
+	index: -1
+shen_mengzhongdidiwangkp
+	rotate: false
+	xy: 267, 0
+	size: 300, 530
+	orig: 300, 530
+	offset: 0, 0
+	index: -1
+youyan3_mengzhongdidiwangkp
+	rotate: true
+	xy: 420, 675
+	size: 41, 33
+	orig: 41, 33
+	offset: 0, 0
+	index: -1
+shangyanqiu3_mengzhongdidiwangkp
+	rotate: false
+	xy: 420, 577
+	size: 34, 56
+	orig: 34, 56
+	offset: 0, 0
+	index: -1
+zuoyan2_mengzhongdidiwangkp
+	rotate: true
+	xy: 914, 795
+	size: 44, 39
+	orig: 44, 39
+	offset: 0, 0
+	index: -1
+zuojian1_mengzhongdidiwangkp
+	rotate: false
+	xy: 664, 842
+	size: 222, 179
+	orig: 222, 179
+	offset: 0, 0
+	index: -1
+youjian1_mengzhongdidiwangkp
+	rotate: false
+	xy: 0, 583
+	size: 172, 435
+	orig: 172, 435
+	offset: 0, 0
+	index: -1
+shangyan1_mengzhongdidiwangkp
+	rotate: true
+	xy: 173, 997
+	size: 24, 54
+	orig: 24, 54
+	offset: 0, 0
+	index: -1
+zzuoshou2_mengzhongdidiwangkp
+	rotate: false
+	xy: 316, 531
+	size: 65, 46
+	orig: 65, 46
+	offset: 0, 0
+	index: -1
+zuodatuitexiao_mengzhongdidiwangkp
+	rotate: true
+	xy: 887, 841
+	size: 157, 133
+	orig: 157, 133
+	offset: 0, 0
+	index: -1
+youdatuitexiao_mengzhongdidiwangkp
+	rotate: true
+	xy: 881, 312
+	size: 193, 139
+	orig: 193, 139
+	offset: 0, 0
+	index: -1
+zuoxiaotui_mengzhongdidiwangkp
+	rotate: false
+	xy: 664, 528
+	size: 206, 313
+	orig: 206, 313
+	offset: 0, 0
+	index: -1
+youxiaxiaobitx_mengzhongdidiwang
+	rotate: false
+	xy: 420, 852
+	size: 30, 45
+	orig: 30, 45
+	offset: 0, 0
+	index: -1
+youyan1_mengzhongdidiwangkp
+	rotate: true
+	xy: 420, 717
+	size: 39, 31
+	orig: 39, 31
+	offset: 0, 0
+	index: -1
+
+asset/anim/mengzhongdidiwangkp1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shangyan3_mengzhongdidiwangkp
+	rotate: false
+	xy: 490, 343
+	size: 37, 57
+	orig: 37, 57
+	offset: 0, 0
+	index: -1
+youdabitx_mengzhongdidiwangkp
+	rotate: true
+	xy: 433, 0
+	size: 68, 83
+	orig: 68, 83
+	offset: 0, 0
+	index: -1
+zzuodabi1_mengzhongdidiwangkp
+	rotate: true
+	xy: 566, 248
+	size: 65, 67
+	orig: 65, 67
+	offset: 0, 0
+	index: -1
+youshou2_mengzhongdidiwangkp
+	rotate: true
+	xy: 547, 0
+	size: 78, 96
+	orig: 78, 96
+	offset: 0, 0
+	index: -1
+zuodatui_mengzhongdidiwangkp
+	rotate: false
+	xy: 0, 731
+	size: 254, 283
+	orig: 254, 283
+	offset: 0, 0
+	index: -1
+youtexiao_mengzhongdidiwangkp
+	rotate: false
+	xy: 379, 711
+	size: 265, 300
+	orig: 265, 300
+	offset: 0, 0
+	index: -1
+youjian_mengzhongdidiwangkp
+	rotate: false
+	xy: 748, 588
+	size: 185, 166
+	orig: 185, 166
+	offset: 0, 0
+	index: -1
+youshou1_mengzhongdidiwangkp
+	rotate: true
+	xy: 326, 0
+	size: 76, 106
+	orig: 76, 106
+	offset: 0, 0
+	index: -1
+youdabi_mengzhongdidiwangkp
+	rotate: false
+	xy: 645, 243
+	size: 227, 165
+	orig: 227, 165
+	offset: 0, 0
+	index: -1
+szuodabi_mengzhongdidiwangkp
+	rotate: false
+	xy: 547, 409
+	size: 200, 224
+	orig: 200, 224
+	offset: 0, 0
+	index: -1
+szuoshou_mengzhongdidiwangkp
+	rotate: false
+	xy: 547, 79
+	size: 93, 101
+	orig: 93, 101
+	offset: 0, 0
+	index: -1
+tou_mengzhongdidiwangkp
+	rotate: false
+	xy: 645, 0
+	size: 250, 242
+	orig: 250, 242
+	offset: 0, 0
+	index: -1
+zzuoxiaobi_mengzhongdidiwangkp
+	rotate: false
+	xy: 748, 409
+	size: 187, 178
+	orig: 187, 178
+	offset: 0, 0
+	index: -1
+zzuoshou3_mengzhongdidiwangkp
+	rotate: true
+	xy: 896, 127
+	size: 99, 119
+	orig: 99, 119
+	offset: 0, 0
+	index: -1
+zuoxiaotuitexiao_mengzhongdidiwangkp
+	rotate: false
+	xy: 94, 406
+	size: 171, 323
+	orig: 171, 323
+	offset: 0, 0
+	index: -1
+szuoxiaobi_mengzhongdidiwangkp
+	rotate: false
+	xy: 896, 227
+	size: 105, 99
+	orig: 105, 99
+	offset: 0, 0
+	index: -1
+youxiaxiaobi_mengzhongdidiwangkp
+	rotate: false
+	xy: 326, 79
+	size: 183, 163
+	orig: 183, 163
+	offset: 0, 0
+	index: -1
+youdatui_mengzhongdidiwangkp
+	rotate: false
+	xy: 266, 406
+	size: 280, 304
+	orig: 280, 304
+	offset: 0, 0
+	index: -1
+youxiadabi_mengzhongdidiwangkp
+	rotate: true
+	xy: 326, 243
+	size: 159, 163
+	orig: 159, 163
+	offset: 0, 0
+	index: -1
+zzuoshou1_mengzhongdidiwangkp
+	rotate: false
+	xy: 490, 243
+	size: 55, 99
+	orig: 55, 99
+	offset: 0, 0
+	index: -1
+zuojian2_mengzhongdidiwangkp
+	rotate: true
+	xy: 645, 755
+	size: 176, 166
+	orig: 176, 166
+	offset: 0, 0
+	index: -1
+youxiaobi_mengzhongdidiwangkp
+	rotate: true
+	xy: 812, 755
+	size: 166, 173
+	orig: 166, 173
+	offset: 0, 0
+	index: -1
+youxiadabitx_mengzhongdidiwangkp
+	rotate: true
+	xy: 547, 181
+	size: 66, 87
+	orig: 66, 87
+	offset: 0, 0
+	index: -1
+youxiaotuitexiao_mengzhongdidiwangkp
+	rotate: false
+	xy: 0, 406
+	size: 93, 324
+	orig: 93, 324
+	offset: 0, 0
+	index: -1
+zuotexiao_mengzhongdidiwangkp
+	rotate: false
+	xy: 0, 0
+	size: 325, 405
+	orig: 325, 405
+	offset: 0, 0
+	index: -1
+youxiaotui_mengzhongdidiwangkp
+	rotate: false
+	xy: 255, 730
+	size: 123, 282
+	orig: 123, 282
+	offset: 0, 0
+	index: -1
+pangxieguai_guagnyun_00
+	rotate: false
+	xy: 896, 0
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

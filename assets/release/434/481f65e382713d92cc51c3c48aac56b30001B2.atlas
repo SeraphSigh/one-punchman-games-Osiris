@@ -1,0 +1,26 @@
+
+asset/anim/KINGSEATTACK0.png
+size: 977,503
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/xingkong_van_01
+	rotate: false
+	xy: 774, 0
+	size: 184, 182
+	orig: 192, 192
+	offset: 6, 5
+	index: -1
+
+asset/anim/KINGSECOMMON0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/king_xuanwo_053
+	rotate: false
+	xy: 179, 312
+	size: 155, 161
+	orig: 155, 161
+	offset: 0, 0
+	index: -1

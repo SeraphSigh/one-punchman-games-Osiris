@@ -1,0 +1,20 @@
+
+asset/anim/chongtianhaoxiaoziSE.png
+size: 507,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shunyi2_chongtianhaoxiaozi
+	rotate: false
+	xy: 387, 464
+	size: 73, 52
+	orig: 73, 52
+	offset: 0, 0
+	index: -1
+shunyi1_chongtianhaoxiaozi
+	rotate: false
+	xy: 387, 410
+	size: 84, 53
+	orig: 84, 53
+	offset: 0, 0
+	index: -1

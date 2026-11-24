@@ -1,0 +1,249 @@
+
+asset/anim/haojie2kapai2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haojie_lihui_yanjingguang_00013
+	rotate: true
+	xy: 210, 243
+	size: 80, 69
+	orig: 80, 69
+	offset: 0, 0
+	index: -1
+haojie_lihui_yanjingguang_00014
+	rotate: true
+	xy: 204, 0
+	size: 80, 69
+	orig: 80, 69
+	offset: 0, 0
+	index: -1
+haojie_lihui_yanjingguang_00010
+	rotate: true
+	xy: 134, 0
+	size: 80, 69
+	orig: 80, 69
+	offset: 0, 0
+	index: -1
+haojie_lihui_yanjingguang_00011
+	rotate: true
+	xy: 134, 81
+	size: 80, 69
+	orig: 80, 69
+	offset: 0, 0
+	index: -1
+haojie_lihui_yanjingguang_00012
+	rotate: true
+	xy: 175, 162
+	size: 80, 69
+	orig: 80, 69
+	offset: 0, 0
+	index: -1
+piaodai_haojie2kapai
+	rotate: false
+	xy: 0, 231
+	size: 104, 124
+	orig: 104, 124
+	offset: 0, 0
+	index: -1
+youxiaotui_haojie2kapai
+	rotate: false
+	xy: 0, 0
+	size: 133, 230
+	orig: 133, 230
+	offset: 0, 0
+	index: -1
+haojie_lihui_yanjingguang_00007
+	rotate: true
+	xy: 105, 231
+	size: 80, 69
+	orig: 80, 69
+	offset: 0, 0
+	index: -1
+haojie_lihui_yanjingguang_00005
+	rotate: true
+	xy: 70, 356
+	size: 80, 69
+	orig: 80, 69
+	offset: 0, 0
+	index: -1
+haojie_lihui_yanjingguang_00004
+	rotate: false
+	xy: 0, 437
+	size: 80, 69
+	orig: 80, 69
+	offset: 0, 0
+	index: -1
+haojie_lihui_yanjingguang_00003
+	rotate: true
+	xy: 0, 356
+	size: 80, 69
+	orig: 80, 69
+	offset: 0, 0
+	index: -1
+haojie_lihui_yanjingguang_00009
+	rotate: true
+	xy: 162, 393
+	size: 80, 69
+	orig: 80, 69
+	offset: 0, 0
+	index: -1
+haojie_lihui_yanjingguang_00008
+	rotate: true
+	xy: 140, 312
+	size: 80, 69
+	orig: 80, 69
+	offset: 0, 0
+	index: -1
+haojie_lihui_yanjingguang_00006
+	rotate: false
+	xy: 81, 437
+	size: 80, 69
+	orig: 80, 69
+	offset: 0, 0
+	index: -1
+
+asset/anim/haojie2kapai0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti_haojie2kapai
+	rotate: false
+	xy: 0, 0
+	size: 296, 314
+	orig: 296, 314
+	offset: 0, 0
+	index: -1
+zui_haojie2kapai
+	rotate: true
+	xy: 421, 452
+	size: 52, 44
+	orig: 52, 44
+	offset: 0, 0
+	index: -1
+zuoxiaotui_haojie2kapai
+	rotate: true
+	xy: 297, 177
+	size: 134, 208
+	orig: 134, 208
+	offset: 0, 0
+	index: -1
+toufa_haojie2kapai
+	rotate: false
+	xy: 466, 452
+	size: 39, 31
+	orig: 39, 31
+	offset: 0, 0
+	index: -1
+youjiao_haojie2kapai
+	rotate: false
+	xy: 160, 315
+	size: 125, 158
+	orig: 125, 158
+	offset: 0, 0
+	index: -1
+zuoxiaobi_haojie2kapai
+	rotate: true
+	xy: 297, 312
+	size: 200, 123
+	orig: 200, 123
+	offset: 0, 0
+	index: -1
+youdabi_haojie2kapai
+	rotate: true
+	xy: 297, 0
+	size: 176, 215
+	orig: 176, 215
+	offset: 0, 0
+	index: -1
+haojie_lihui_yanjingguang_00001
+	rotate: false
+	xy: 421, 382
+	size: 80, 69
+	orig: 80, 69
+	offset: 0, 0
+	index: -1
+haojie_lihui_yanjingguang_00000
+	rotate: false
+	xy: 421, 312
+	size: 80, 69
+	orig: 80, 69
+	offset: 0, 0
+	index: -1
+toufa1_haojie2kapai
+	rotate: false
+	xy: 160, 474
+	size: 50, 37
+	orig: 50, 37
+	offset: 0, 0
+	index: -1
+
+asset/anim/haojie2kapai1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanjing_haojie2kapai
+	rotate: true
+	xy: 240, 298
+	size: 62, 41
+	orig: 62, 41
+	offset: 0, 0
+	index: -1
+zuodatui_haojie2kapai
+	rotate: true
+	xy: 259, 154
+	size: 143, 249
+	orig: 143, 249
+	offset: 0, 0
+	index: -1
+youdatui_haojie2kapai
+	rotate: true
+	xy: 0, 150
+	size: 144, 258
+	orig: 144, 258
+	offset: 0, 0
+	index: -1
+youxiaobi_haojie2kapai
+	rotate: false
+	xy: 273, 0
+	size: 230, 153
+	orig: 230, 153
+	offset: 0, 0
+	index: -1
+tou1_haojie2kapai
+	rotate: false
+	xy: 308, 298
+	size: 180, 155
+	orig: 180, 155
+	offset: 0, 0
+	index: -1
+haojie_lihui_yanjingguang_00002
+	rotate: false
+	xy: 159, 295
+	size: 80, 69
+	orig: 80, 69
+	offset: 0, 0
+	index: -1
+qunbai_haojie2kapai
+	rotate: false
+	xy: 0, 0
+	size: 272, 149
+	orig: 272, 149
+	offset: 0, 0
+	index: -1
+zuodabi_haojie2kapai
+	rotate: false
+	xy: 0, 295
+	size: 158, 217
+	orig: 158, 217
+	offset: 0, 0
+	index: -1
+zuojiao_haojie2kapai
+	rotate: true
+	xy: 159, 365
+	size: 138, 148
+	orig: 138, 148
+	offset: 0, 0
+	index: -1

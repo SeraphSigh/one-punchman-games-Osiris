@@ -1,0 +1,41 @@
+
+asset/anim/beixinheidongSE.png
+size: 1002,934
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quanguangN_09
+	rotate: true
+	xy: 408, 553
+	size: 159, 67
+	orig: 159, 67
+	offset: 0, 0
+	index: -1
+quanguangN_08
+	rotate: true
+	xy: 359, 769
+	size: 165, 67
+	orig: 165, 67
+	offset: 0, 0
+	index: -1
+quanguangN_10
+	rotate: false
+	xy: 617, 690
+	size: 132, 65
+	orig: 132, 65
+	offset: 0, 0
+	index: -1
+quanguangN_11
+	rotate: true
+	xy: 150, 785
+	size: 122, 61
+	orig: 124, 61
+	offset: 2, 0
+	index: -1
+quanguangN_07
+	rotate: false
+	xy: 904, 707
+	size: 85, 78
+	orig: 87, 78
+	offset: 1, 0
+	index: -1

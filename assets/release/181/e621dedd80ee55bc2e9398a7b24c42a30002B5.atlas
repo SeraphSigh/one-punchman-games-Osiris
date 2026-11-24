@@ -1,0 +1,48 @@
+
+asset/anim/dajiadeqiurichangjing0.png
+size: 801,838
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shu6
+	rotate: false
+	xy: 430, 455
+	size: 264, 173
+	orig: 282, 173
+	offset: 7, 0
+	index: -1
+shu4
+	rotate: false
+	xy: 624, 629
+	size: 177, 190
+	orig: 199, 194
+	offset: 11, 2
+	index: -1
+shu5
+	rotate: true
+	xy: 430, 629
+	size: 209, 193
+	orig: 223, 197
+	offset: 2, 4
+	index: -1
+shu2
+	rotate: false
+	xy: 0, 0
+	size: 794, 454
+	orig: 810, 454
+	offset: 16, 0
+	index: -1
+shu3
+	rotate: true
+	xy: 695, 455
+	size: 133, 99
+	orig: 149, 101
+	offset: 12, 0
+	index: -1
+shu1
+	rotate: false
+	xy: 0, 455
+	size: 429, 299
+	orig: 441, 299
+	offset: 0, 0
+	index: -1

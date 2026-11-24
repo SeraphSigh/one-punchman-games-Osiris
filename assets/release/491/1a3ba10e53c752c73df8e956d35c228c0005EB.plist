@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>kuosan_tianfutishiimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-2,2}</string>
+                <key>spriteSize</key>
+                <string>{113,129}</string>
+                <key>spriteSourceSize</key>
+                <string>{119,135}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{113,129}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>tianfutishiimage0.png</string>
+            <key>size</key>
+            <string>{113,129}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:c64cb0da73c9d7c13bee2c809b1883be:de9e88d51efb790ecc59595e58c05e5b:13a2546015fd71ddc609f5727089c441$</string>
+            <key>textureFileName</key>
+            <string>tianfutishiimage0.png</string>
+        </dict>
+    </dict>
+</plist>

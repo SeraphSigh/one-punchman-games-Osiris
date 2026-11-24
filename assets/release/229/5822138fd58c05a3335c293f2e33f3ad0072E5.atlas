@@ -1,0 +1,1535 @@
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_13
+	rotate: false
+	xy: 553, 522
+	size: 181, 72
+	orig: 205, 90
+	offset: 16, 8
+	index: -1
+global/a_global_txskill_sinaike_19
+	rotate: false
+	xy: 0, 516
+	size: 185, 40
+	orig: 205, 90
+	offset: 0, 8
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_11
+	rotate: false
+	xy: 502, 225
+	size: 161, 62
+	orig: 205, 90
+	offset: 32, 8
+	index: -1
+global/a_global_txskill_sinaike_23
+	rotate: false
+	xy: 160, 470
+	size: 159, 40
+	orig: 205, 90
+	offset: 0, 9
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_25
+	rotate: true
+	xy: 86, 472
+	size: 115, 40
+	orig: 205, 90
+	offset: 26, 9
+	index: -1
+global/a_global_txskill_sinaike_26
+	rotate: false
+	xy: 567, 170
+	size: 105, 38
+	orig: 205, 90
+	offset: 28, 9
+	index: -1
+
+asset/anim/huoqiu1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_20
+	rotate: false
+	xy: 549, 500
+	size: 226, 41
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+global/a_global_txskill_sinaike_22
+	rotate: false
+	xy: 197, 504
+	size: 220, 45
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+
+asset/anim/huoqiu0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_12
+	rotate: false
+	xy: 320, 704
+	size: 250, 87
+	orig: 252, 111
+	offset: 0, 10
+	index: -1
+global/a_global_txskill_sinaike_14
+	rotate: true
+	xy: 425, 485
+	size: 214, 91
+	orig: 252, 111
+	offset: 12, 10
+	index: -1
+global/a_global_txskill_sinaike_15
+	rotate: true
+	xy: 331, 362
+	size: 218, 93
+	orig: 252, 111
+	offset: 7, 11
+	index: -1
+global/a_global_txskill_sinaike_16
+	rotate: true
+	xy: 335, 135
+	size: 226, 93
+	orig: 252, 111
+	offset: 0, 10
+	index: -1
+global/a_global_txskill_sinaike_17
+	rotate: true
+	xy: 0, 792
+	size: 230, 91
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+global/a_global_txskill_sinaike_18
+	rotate: true
+	xy: 92, 792
+	size: 230, 83
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+global/a_global_txskill_sinaike_24
+	rotate: true
+	xy: 518, 792
+	size: 196, 49
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+global/a_global_txskill_sinaike_27
+	rotate: true
+	xy: 320, 581
+	size: 122, 35
+	orig: 252, 111
+	offset: 41, 12
+	index: -1
+
+asset/anim/huoqiu2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_txskill_sinaike_21
+	rotate: true
+	xy: 983, 189
+	size: 226, 41
+	orig: 252, 111
+	offset: 0, 11
+	index: -1
+
+asset/anim/yinseliaoyaSEMAX3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yinseliaoyajuexing_shifa_shuiquan_00032
+	rotate: true
+	xy: 0, 554
+	size: 212, 199
+	orig: 260, 223
+	offset: 24, 9
+	index: -1
+max/yinseliaoyajuexing_chong_liushui_00061
+	rotate: false
+	xy: 729, 352
+	size: 121, 141
+	orig: 283, 243
+	offset: 107, 53
+	index: -1
+max/yinseliaoyajuexing_shifa_shuiquan_00022
+	rotate: false
+	xy: 0, 0
+	size: 212, 199
+	orig: 260, 223
+	offset: 24, 9
+	index: -1
+max/yinseliaoyajuexing_shifa_shuiquan_00028
+	rotate: false
+	xy: 639, 0
+	size: 212, 199
+	orig: 260, 223
+	offset: 24, 9
+	index: -1
+max/yinseliaoyajuexing_shifa_shuiquan_00038
+	rotate: false
+	xy: 516, 200
+	size: 212, 199
+	orig: 260, 223
+	offset: 24, 9
+	index: -1
+max/yinseliaoyajuexing_chongji1_smoke_00068
+	rotate: true
+	xy: 454, 942
+	size: 46, 53
+	orig: 52, 53
+	offset: 6, 0
+	index: -1
+max/yinseliaoyajuexing_chongji1_smoke_00069
+	rotate: true
+	xy: 295, 980
+	size: 38, 53
+	orig: 52, 53
+	offset: 14, 0
+	index: -1
+max/yinseliaoyajuexing_shifa_shuiquan_00024
+	rotate: false
+	xy: 213, 0
+	size: 212, 199
+	orig: 260, 223
+	offset: 24, 9
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00078
+	rotate: false
+	xy: 849, 733
+	size: 175, 195
+	orig: 175, 261
+	offset: 0, 66
+	index: -1
+max/yinseliaoyajuexing_shitou_00112
+	rotate: false
+	xy: 365, 942
+	size: 88, 82
+	orig: 88, 82
+	offset: 0, 0
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00075
+	rotate: true
+	xy: 121, 200
+	size: 139, 181
+	orig: 175, 261
+	offset: 36, 52
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00077
+	rotate: false
+	xy: 849, 533
+	size: 175, 199
+	orig: 175, 261
+	offset: 0, 62
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00071
+	rotate: false
+	xy: 219, 503
+	size: 83, 163
+	orig: 175, 261
+	offset: 92, 98
+	index: -1
+max/yinseliaoyajuexing_chongji_00115
+	rotate: false
+	xy: 852, 0
+	size: 172, 148
+	orig: 398, 218
+	offset: 9, 32
+	index: -1
+max/yinseliaoyajuexing_dajibaodian1_00058
+	rotate: false
+	xy: 510, 883
+	size: 186, 141
+	orig: 216, 195
+	offset: 21, 20
+	index: -1
+max/yinseliaoyajuexing_shifa_shuiquan_00014
+	rotate: true
+	xy: 316, 733
+	size: 208, 193
+	orig: 260, 223
+	offset: 25, 12
+	index: -1
+max/yinseliaoyajuexing_shifa_shuiquan_00012
+	rotate: true
+	xy: 667, 690
+	size: 192, 181
+	orig: 260, 223
+	offset: 33, 18
+	index: -1
+max/yinseliaoyajuexing_chongji1_tuoguangci_00063
+	rotate: true
+	xy: 729, 494
+	size: 195, 119
+	orig: 339, 171
+	offset: 38, 24
+	index: -1
+max/yinseliaoyajuexing_chong_qiliu_00048
+	rotate: false
+	xy: 200, 944
+	size: 164, 35
+	orig: 190, 61
+	offset: 10, 13
+	index: -1
+max/yinseliaoyajuexing_daji_genshui_00046
+	rotate: false
+	xy: 924, 929
+	size: 74, 95
+	orig: 138, 217
+	offset: 35, 16
+	index: -1
+max/yinseliaoyajuexing_chongji_00128
+	rotate: false
+	xy: 0, 980
+	size: 142, 44
+	orig: 398, 218
+	offset: 24, 80
+	index: -1
+max/yinseliaoyajuexing_daji_baoshuihua_00067
+	rotate: true
+	xy: 729, 200
+	size: 151, 122
+	orig: 291, 206
+	offset: 38, 44
+	index: -1
+max/yinseliaoyajuexing_shifa_shuiquan_00040
+	rotate: false
+	xy: 303, 400
+	size: 212, 199
+	orig: 260, 223
+	offset: 24, 9
+	index: -1
+max/yinseliaoyajuexing_shifa_shuiquan_00042
+	rotate: false
+	xy: 516, 400
+	size: 212, 199
+	orig: 260, 223
+	offset: 24, 9
+	index: -1
+max/yinseliaoyajuexing_shifa_shuiquan_00026
+	rotate: false
+	xy: 426, 0
+	size: 212, 199
+	orig: 260, 223
+	offset: 24, 9
+	index: -1
+max/yinseliaoyajuexing_chongji1_00043
+	rotate: true
+	xy: 200, 733
+	size: 210, 115
+	orig: 264, 131
+	offset: 35, 9
+	index: -1
+max/yinseliaoyajuexing_shifa_shuiquan_00034
+	rotate: true
+	xy: 0, 767
+	size: 212, 199
+	orig: 260, 223
+	offset: 24, 9
+	index: -1
+max/yinseliaoyajuexing_shifa_shuiquan_00036
+	rotate: false
+	xy: 303, 200
+	size: 212, 199
+	orig: 260, 223
+	offset: 24, 9
+	index: -1
+max/yinseliaoyajuexing_shifa_shuiquan_00030
+	rotate: true
+	xy: 0, 341
+	size: 212, 199
+	orig: 260, 223
+	offset: 24, 9
+	index: -1
+
+asset/anim/yinseliaoyaSEMAX2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yinseliaoyajuexing_shifa_shuiquan_00020
+	rotate: false
+	xy: 0, 699
+	size: 212, 199
+	orig: 260, 223
+	offset: 24, 9
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00062
+	rotate: true
+	xy: 0, 533
+	size: 165, 213
+	orig: 175, 261
+	offset: 10, 0
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00061
+	rotate: true
+	xy: 0, 365
+	size: 167, 225
+	orig: 175, 261
+	offset: 8, 0
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00060
+	rotate: true
+	xy: 698, 225
+	size: 159, 225
+	orig: 175, 261
+	offset: 16, 0
+	index: -1
+max/yinseliaoyajuexing_chongji1_smoke_00060
+	rotate: true
+	xy: 953, 989
+	size: 34, 37
+	orig: 52, 53
+	offset: 0, 0
+	index: -1
+max/yinseliaoyajuexing_chongji1_smoke_00061
+	rotate: false
+	xy: 654, 623
+	size: 40, 45
+	orig: 52, 53
+	offset: 0, 0
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00070
+	rotate: true
+	xy: 234, 151
+	size: 85, 233
+	orig: 175, 261
+	offset: 90, 28
+	index: -1
+max/yinseliaoyajuexing_shifa_shuiquan_00018
+	rotate: false
+	xy: 214, 602
+	size: 212, 199
+	orig: 260, 223
+	offset: 24, 9
+	index: -1
+max/yinseliaoyajuexing_dajibaodian1_00055
+	rotate: false
+	xy: 696, 623
+	size: 188, 151
+	orig: 216, 195
+	offset: 19, 19
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00082
+	rotate: false
+	xy: 885, 591
+	size: 139, 191
+	orig: 175, 261
+	offset: 25, 70
+	index: -1
+max/yinseliaoyajuexing_chongji1_cijibaodian_00060
+	rotate: false
+	xy: 450, 453
+	size: 220, 113
+	orig: 278, 125
+	offset: 34, 3
+	index: -1
+max/yinseliaoyajuexing_chongji1_cijibaodian_00063
+	rotate: false
+	xy: 712, 151
+	size: 230, 73
+	orig: 278, 125
+	offset: 18, 29
+	index: -1
+max/yinseliaoyajuexing_shifa_shuiquan_00016
+	rotate: false
+	xy: 441, 567
+	size: 212, 199
+	orig: 260, 223
+	offset: 24, 9
+	index: -1
+max/yinseliaoyajuexing_chongji1_tuoguangci_00062
+	rotate: false
+	xy: 671, 501
+	size: 213, 121
+	orig: 339, 171
+	offset: 30, 23
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00091
+	rotate: true
+	xy: 0, 247
+	size: 117, 227
+	orig: 175, 261
+	offset: 55, 0
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00095
+	rotate: true
+	xy: 690, 385
+	size: 115, 225
+	orig: 175, 261
+	offset: 47, 36
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00098
+	rotate: true
+	xy: 943, 156
+	size: 59, 79
+	orig: 175, 261
+	offset: 87, 182
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00099
+	rotate: true
+	xy: 885, 501
+	size: 27, 29
+	orig: 175, 261
+	offset: 97, 232
+	index: -1
+max/yinseliaoyajuexing_daji_genshui_00052
+	rotate: true
+	xy: 538, 767
+	size: 74, 157
+	orig: 138, 217
+	offset: 30, 35
+	index: -1
+max/yinseliaoyajuexing_chongji_00130
+	rotate: false
+	xy: 722, 947
+	size: 130, 38
+	orig: 398, 218
+	offset: 32, 85
+	index: -1
+max/yinseliaoyajuexing_daji_genshui_00054
+	rotate: false
+	xy: 944, 0
+	size: 80, 155
+	orig: 138, 217
+	offset: 27, 38
+	index: -1
+max/yinseliaoyajuexing_chong_qiliu_00052
+	rotate: false
+	xy: 538, 842
+	size: 156, 37
+	orig: 190, 61
+	offset: 15, 12
+	index: -1
+max/yinseliaoyajuexing_chongji_00125
+	rotate: false
+	xy: 349, 899
+	size: 174, 124
+	orig: 398, 218
+	offset: 10, 40
+	index: -1
+max/yinseliaoyajuexing_daji_baoshuihua_00062
+	rotate: false
+	xy: 712, 0
+	size: 231, 150
+	orig: 291, 206
+	offset: 32, 24
+	index: -1
+max/yinseliaoyajuexing_daji_baoshuihua_00063
+	rotate: false
+	xy: 242, 0
+	size: 235, 150
+	orig: 291, 206
+	offset: 32, 24
+	index: -1
+max/yinseliaoyajuexing_daji_baoshuihua_00060
+	rotate: false
+	xy: 468, 153
+	size: 229, 148
+	orig: 291, 206
+	offset: 33, 27
+	index: -1
+max/yinseliaoyajuexing_daji_baoshuihua_00061
+	rotate: false
+	xy: 0, 94
+	size: 233, 152
+	orig: 291, 206
+	offset: 32, 24
+	index: -1
+max/yinseliaoyajuexing_daji_baoshuihua_00066
+	rotate: true
+	xy: 884, 783
+	size: 205, 140
+	orig: 291, 206
+	offset: 37, 35
+	index: -1
+max/yinseliaoyajuexing_daji_baoshuihua_00064
+	rotate: false
+	xy: 478, 0
+	size: 233, 152
+	orig: 291, 206
+	offset: 34, 25
+	index: -1
+max/yinseliaoyajuexing_daji_baoshuihua_00065
+	rotate: false
+	xy: 464, 302
+	size: 225, 150
+	orig: 291, 206
+	offset: 36, 28
+	index: -1
+max/yinseliaoyajuexing_dajibaodian1_00046
+	rotate: true
+	xy: 213, 802
+	size: 96, 95
+	orig: 216, 195
+	offset: 38, 41
+	index: -1
+max/yinseliaoyajuexing_daji_genshui_00060
+	rotate: false
+	xy: 189, 899
+	size: 88, 125
+	orig: 138, 217
+	offset: 26, 71
+	index: -1
+max/yinseliaoyajuexing_chong_qiliu_00047
+	rotate: false
+	xy: 696, 989
+	size: 164, 35
+	orig: 190, 61
+	offset: 9, 13
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00059
+	rotate: true
+	xy: 226, 368
+	size: 123, 223
+	orig: 175, 261
+	offset: 52, 2
+	index: -1
+max/yinseliaoyajuexing_daji_baoshuihua_00059
+	rotate: false
+	xy: 234, 237
+	size: 229, 130
+	orig: 291, 206
+	offset: 33, 34
+	index: -1
+max/yinseliaoyajuexing_chongji1_cijibaodian_00059
+	rotate: false
+	xy: 226, 492
+	size: 214, 109
+	orig: 278, 125
+	offset: 40, 0
+	index: -1
+
+asset/anim/yinseliaoyaSEMAX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yinseliaoyajuexing_chong_liushui_00058
+	rotate: true
+	xy: 506, 0
+	size: 255, 169
+	orig: 283, 243
+	offset: 0, 26
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00083
+	rotate: true
+	xy: 766, 0
+	size: 135, 251
+	orig: 175, 261
+	offset: 40, 10
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00069
+	rotate: false
+	xy: 488, 524
+	size: 91, 261
+	orig: 175, 261
+	offset: 84, 0
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00067
+	rotate: false
+	xy: 502, 262
+	size: 89, 261
+	orig: 175, 261
+	offset: 81, 0
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00066
+	rotate: false
+	xy: 260, 524
+	size: 113, 261
+	orig: 175, 261
+	offset: 33, 0
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00086
+	rotate: false
+	xy: 599, 786
+	size: 129, 237
+	orig: 175, 261
+	offset: 46, 0
+	index: -1
+max/yinseliaoyajuexing_dajibaodian1_00056
+	rotate: true
+	xy: 161, 834
+	size: 190, 145
+	orig: 216, 195
+	offset: 18, 19
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00072
+	rotate: false
+	xy: 688, 256
+	size: 77, 129
+	orig: 175, 261
+	offset: 98, 132
+	index: -1
+max/yinseliaoyajuexing_chongji_00119
+	rotate: false
+	xy: 846, 659
+	size: 178, 176
+	orig: 398, 218
+	offset: 8, 14
+	index: -1
+max/yinseliaoyajuexing_dajibaodian1_00057
+	rotate: true
+	xy: 307, 834
+	size: 190, 143
+	orig: 216, 195
+	offset: 18, 19
+	index: -1
+max/yinseliaoyajuexing_chongji1_cijibaodian_00064
+	rotate: true
+	xy: 451, 786
+	size: 238, 73
+	orig: 278, 125
+	offset: 17, 30
+	index: -1
+max/yinseliaoyajuexing_chongji1_cijibaodian_00065
+	rotate: true
+	xy: 525, 786
+	size: 238, 73
+	orig: 278, 125
+	offset: 18, 30
+	index: -1
+max/yinseliaoyajuexing_chongji1_cijibaodian_00061
+	rotate: false
+	xy: 766, 310
+	size: 246, 113
+	orig: 278, 125
+	offset: 22, 4
+	index: -1
+max/yinseliaoyajuexing_chongji1_cijibaodian_00062
+	rotate: false
+	xy: 766, 232
+	size: 250, 77
+	orig: 278, 125
+	offset: 18, 24
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00092
+	rotate: false
+	xy: 374, 524
+	size: 113, 261
+	orig: 175, 261
+	offset: 56, 0
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00093
+	rotate: false
+	xy: 392, 262
+	size: 109, 261
+	orig: 175, 261
+	offset: 57, 0
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00094
+	rotate: false
+	xy: 388, 0
+	size: 117, 261
+	orig: 175, 261
+	offset: 48, 0
+	index: -1
+max/yinseliaoyajuexing_shuihuaxulie_00031
+	rotate: true
+	xy: 0, 834
+	size: 190, 160
+	orig: 256, 222
+	offset: 38, 33
+	index: -1
+max/yinseliaoyajuexing_chongji_00131
+	rotate: true
+	xy: 729, 920
+	size: 104, 28
+	orig: 398, 218
+	offset: 54, 88
+	index: -1
+max/yinseliaoyajuexing_chong_qiliu_00050
+	rotate: true
+	xy: 717, 502
+	size: 156, 37
+	orig: 190, 61
+	offset: 15, 12
+	index: -1
+max/yinseliaoyajuexing_chongji_00126
+	rotate: true
+	xy: 668, 512
+	size: 146, 48
+	orig: 398, 218
+	offset: 21, 78
+	index: -1
+max/yinseliaoyajuexing_chongji_00121
+	rotate: true
+	xy: 846, 836
+	size: 174, 178
+	orig: 398, 218
+	offset: 8, 21
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00085
+	rotate: false
+	xy: 256, 262
+	size: 135, 261
+	orig: 175, 261
+	offset: 40, 0
+	index: -1
+max/yinseliaoyajuexing_chong_qiliu_00042
+	rotate: false
+	xy: 180, 808
+	size: 164, 25
+	orig: 190, 61
+	offset: 13, 22
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00084
+	rotate: false
+	xy: 252, 0
+	size: 135, 261
+	orig: 175, 261
+	offset: 40, 0
+	index: -1
+
+asset/anim/yinseliaoyaSEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yinseliaoyajuexing_daji_liushui_00068
+	rotate: false
+	xy: 284, 315
+	size: 93, 261
+	orig: 175, 261
+	offset: 82, 0
+	index: -1
+max/yinseliaoyajuexing_chong_liushui_00054
+	rotate: false
+	xy: 717, 324
+	size: 283, 173
+	orig: 283, 243
+	offset: 0, 16
+	index: -1
+max/yinseliaoyajuexing_chong_liushui_00055
+	rotate: false
+	xy: 717, 144
+	size: 283, 179
+	orig: 283, 243
+	offset: 0, 17
+	index: -1
+max/yinseliaoyajuexing_chong_liushui_00056
+	rotate: false
+	xy: 0, 144
+	size: 283, 179
+	orig: 283, 243
+	offset: 0, 17
+	index: -1
+max/yinseliaoyajuexing_chong_liushui_00057
+	rotate: false
+	xy: 0, 324
+	size: 283, 173
+	orig: 283, 243
+	offset: 0, 21
+	index: -1
+max/yinseliaoyajuexing_chong_liushui_00050
+	rotate: false
+	xy: 378, 650
+	size: 283, 113
+	orig: 283, 243
+	offset: 0, 53
+	index: -1
+max/yinseliaoyajuexing_chong_liushui_00051
+	rotate: false
+	xy: 0, 498
+	size: 283, 139
+	orig: 283, 243
+	offset: 0, 38
+	index: -1
+max/yinseliaoyajuexing_chong_liushui_00052
+	rotate: false
+	xy: 378, 392
+	size: 283, 139
+	orig: 283, 243
+	offset: 0, 38
+	index: -1
+max/yinseliaoyajuexing_chong_liushui_00053
+	rotate: false
+	xy: 379, 218
+	size: 283, 173
+	orig: 283, 243
+	offset: 0, 16
+	index: -1
+max/yinseliaoyajuexing_chongji1_smoke_00066
+	rotate: true
+	xy: 662, 568
+	size: 52, 53
+	orig: 52, 53
+	offset: 0, 0
+	index: -1
+max/yinseliaoyajuexing_chongji1_smoke_00067
+	rotate: true
+	xy: 662, 621
+	size: 48, 53
+	orig: 52, 53
+	offset: 4, 0
+	index: -1
+max/yinseliaoyajuexing_chongji1_smoke_00064
+	rotate: true
+	xy: 662, 462
+	size: 52, 53
+	orig: 52, 53
+	offset: 0, 0
+	index: -1
+max/yinseliaoyajuexing_chongji1_smoke_00065
+	rotate: true
+	xy: 662, 515
+	size: 52, 53
+	orig: 52, 53
+	offset: 0, 0
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00073
+	rotate: false
+	xy: 284, 823
+	size: 65, 201
+	orig: 175, 261
+	offset: 110, 60
+	index: -1
+max/yinseliaoyajuexing_chong_liushui_00049
+	rotate: false
+	xy: 0, 754
+	size: 283, 113
+	orig: 283, 243
+	offset: 0, 61
+	index: -1
+max/yinseliaoyajuexing_chong_liushui_00048
+	rotate: false
+	xy: 0, 638
+	size: 283, 115
+	orig: 283, 243
+	offset: 0, 61
+	index: -1
+max/yinseliaoyajuexing_chong_liushui_00047
+	rotate: false
+	xy: 378, 532
+	size: 283, 117
+	orig: 283, 243
+	offset: 0, 58
+	index: -1
+max/yinseliaoyajuexing_chongji_00111
+	rotate: true
+	xy: 673, 164
+	size: 90, 42
+	orig: 398, 218
+	offset: 17, 81
+	index: -1
+max/yinseliaoyajuexing_chongji_00124
+	rotate: true
+	xy: 878, 632
+	size: 182, 146
+	orig: 398, 218
+	offset: 10, 38
+	index: -1
+max/yinseliaoyajuexing_chongji1_tuoguangci_00060
+	rotate: false
+	xy: 717, 0
+	size: 301, 143
+	orig: 339, 171
+	offset: 19, 13
+	index: -1
+max/yinseliaoyajuexing_chongji1_tuoguangci_00061
+	rotate: false
+	xy: 379, 78
+	size: 293, 139
+	orig: 339, 171
+	offset: 18, 15
+	index: -1
+max/yinseliaoyajuexing_chong_qiliu_00049
+	rotate: false
+	xy: 716, 632
+	size: 158, 37
+	orig: 190, 61
+	offset: 13, 12
+	index: -1
+max/yinseliaoyajuexing_shuihuaxulie_00032
+	rotate: true
+	xy: 350, 823
+	size: 200, 168
+	orig: 256, 222
+	offset: 33, 28
+	index: -1
+max/yinseliaoyajuexing_shuihuaxulie_00033
+	rotate: true
+	xy: 715, 820
+	size: 204, 172
+	orig: 256, 222
+	offset: 30, 25
+	index: -1
+max/yinseliaoyajuexing_chongji1_00046
+	rotate: false
+	xy: 416, 764
+	size: 174, 55
+	orig: 264, 131
+	offset: 76, 38
+	index: -1
+max/yinseliaoyajuexing_chong_liushui_00046
+	rotate: false
+	xy: 716, 498
+	size: 283, 133
+	orig: 283, 243
+	offset: 0, 48
+	index: -1
+max/yinseliaoyajuexing_dajibaodian1_00065
+	rotate: true
+	xy: 1001, 419
+	size: 40, 13
+	orig: 216, 195
+	offset: 118, 38
+	index: -1
+max/yinseliaoyajuexing_chongji_00129
+	rotate: false
+	xy: 888, 815
+	size: 136, 40
+	orig: 398, 218
+	offset: 28, 82
+	index: -1
+max/yinseliaoyajuexing_shifa_shuiquan_00044
+	rotate: true
+	xy: 519, 820
+	size: 204, 195
+	orig: 260, 223
+	offset: 27, 11
+	index: -1
+max/yinseliaoyajuexing_daji_genshui_00064
+	rotate: true
+	xy: 1001, 232
+	size: 32, 23
+	orig: 138, 217
+	offset: 84, 174
+	index: -1
+max/yinseliaoyajuexing_shifa_dilie01_00018
+	rotate: false
+	xy: 0, 0
+	size: 378, 143
+	orig: 378, 143
+	offset: 0, 0
+	index: -1
+max/yinseliaoyajuexing_chongji1_tou_00060
+	rotate: false
+	xy: 957, 856
+	size: 65, 84
+	orig: 261, 136
+	offset: 172, 7
+	index: -1
+
+asset/anim/yinseliaoyaSEMAX5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yinseliaoyajuexing_chong_liushui_00060
+	rotate: false
+	xy: 885, 109
+	size: 139, 155
+	orig: 283, 243
+	offset: 88, 40
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00063
+	rotate: true
+	xy: 0, 302
+	size: 153, 169
+	orig: 175, 261
+	offset: 18, 0
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00064
+	rotate: false
+	xy: 567, 878
+	size: 117, 129
+	orig: 175, 261
+	offset: 25, 0
+	index: -1
+max/yinseliaoyajuexing_chong_liushui_00059
+	rotate: true
+	xy: 536, 255
+	size: 165, 167
+	orig: 283, 243
+	offset: 75, 28
+	index: -1
+max/yinseliaoyajuexing_chongji1_smoke_00063
+	rotate: false
+	xy: 645, 617
+	size: 52, 49
+	orig: 52, 53
+	offset: 0, 0
+	index: -1
+max/yinseliaoyajuexing_chongji_00114
+	rotate: false
+	xy: 361, 136
+	size: 174, 142
+	orig: 398, 218
+	offset: 8, 35
+	index: -1
+max/yinseliaoyajuexing_dajibaodian1_00051
+	rotate: false
+	xy: 180, 259
+	size: 170, 161
+	orig: 216, 195
+	offset: 21, 9
+	index: -1
+max/yinseliaoyajuexing_dajibaodian1_00050
+	rotate: false
+	xy: 704, 311
+	size: 166, 161
+	orig: 216, 195
+	offset: 21, 15
+	index: -1
+max/yinseliaoyajuexing_dajibaodian1_00052
+	rotate: false
+	xy: 540, 85
+	size: 174, 169
+	orig: 216, 195
+	offset: 19, 3
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00089
+	rotate: false
+	xy: 685, 878
+	size: 123, 123
+	orig: 175, 261
+	offset: 52, 0
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00088
+	rotate: true
+	xy: 715, 245
+	size: 65, 169
+	orig: 175, 261
+	offset: 110, 0
+	index: -1
+max/yinseliaoyajuexing_dajibaodian1_00059
+	rotate: false
+	xy: 361, 0
+	size: 178, 135
+	orig: 216, 195
+	offset: 29, 22
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00090
+	rotate: true
+	xy: 0, 456
+	size: 117, 161
+	orig: 175, 261
+	offset: 54, 0
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00097
+	rotate: true
+	xy: 467, 634
+	size: 75, 143
+	orig: 175, 261
+	offset: 81, 118
+	index: -1
+max/yinseliaoyajuexing_shuihuaxulie_00030
+	rotate: false
+	xy: 0, 0
+	size: 180, 150
+	orig: 256, 222
+	offset: 45, 36
+	index: -1
+max/yinseliaoyajuexing_daji_genshui_00050
+	rotate: true
+	xy: 863, 489
+	size: 72, 157
+	orig: 138, 217
+	offset: 25, 30
+	index: -1
+max/yinseliaoyajuexing_daji_baoshuihua_00058
+	rotate: false
+	xy: 310, 716
+	size: 131, 92
+	orig: 291, 206
+	offset: 38, 52
+	index: -1
+max/yinseliaoyajuexing_daji_genshui_00056
+	rotate: true
+	xy: 701, 586
+	size: 82, 155
+	orig: 138, 217
+	offset: 27, 40
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00081
+	rotate: true
+	xy: 489, 532
+	size: 101, 155
+	orig: 175, 261
+	offset: 21, 106
+	index: -1
+max/yinseliaoyajuexing_chong_qiliu_00054
+	rotate: false
+	xy: 161, 692
+	size: 148, 37
+	orig: 190, 61
+	offset: 18, 12
+	index: -1
+max/yinseliaoyajuexing_chongji1_00047
+	rotate: true
+	xy: 645, 532
+	size: 84, 55
+	orig: 264, 131
+	offset: 113, 39
+	index: -1
+max/yinseliaoyajuexing_chongji1_00042
+	rotate: false
+	xy: 203, 914
+	size: 108, 109
+	orig: 264, 131
+	offset: 20, 7
+	index: -1
+max/yinseliaoyajuexing_chong_qiliu_00046
+	rotate: false
+	xy: 351, 311
+	size: 164, 31
+	orig: 190, 61
+	offset: 9, 16
+	index: -1
+max/yinseliaoyajuexing_shuihuaxulie_00029
+	rotate: false
+	xy: 863, 562
+	size: 156, 128
+	orig: 256, 222
+	offset: 62, 49
+	index: -1
+max/yinseliaoyajuexing_dajibaodian1_00061
+	rotate: true
+	xy: 0, 914
+	size: 110, 111
+	orig: 216, 195
+	offset: 39, 43
+	index: -1
+max/yinseliaoyajuexing_dajibaodian1_00063
+	rotate: false
+	xy: 275, 840
+	size: 112, 73
+	orig: 216, 195
+	offset: 42, 44
+	index: -1
+max/yinseliaoyajuexing_daji_baoshuihua_00068
+	rotate: false
+	xy: 437, 909
+	size: 129, 112
+	orig: 291, 206
+	offset: 41, 48
+	index: -1
+max/yinseliaoyajuexing_chong_qiliu_00043
+	rotate: false
+	xy: 351, 343
+	size: 164, 29
+	orig: 190, 61
+	offset: 12, 19
+	index: -1
+max/yinseliaoyajuexing_chong_qiliu_00045
+	rotate: false
+	xy: 351, 279
+	size: 164, 31
+	orig: 190, 61
+	offset: 9, 16
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00056
+	rotate: false
+	xy: 760, 761
+	size: 101, 111
+	orig: 175, 261
+	offset: 61, 131
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00057
+	rotate: true
+	xy: 161, 580
+	size: 111, 155
+	orig: 175, 261
+	offset: 64, 74
+	index: -1
+max/yinseliaoyajuexing_chongji1_tou_00064
+	rotate: false
+	xy: 317, 631
+	size: 149, 84
+	orig: 261, 136
+	offset: 26, 26
+	index: -1
+max/yinseliaoyajuexing_chongji1_tou_00063
+	rotate: false
+	xy: 180, 166
+	size: 173, 92
+	orig: 261, 136
+	offset: 26, 21
+	index: -1
+max/yinseliaoyajuexing_chongji1_tou_00061
+	rotate: true
+	xy: 809, 873
+	size: 97, 90
+	orig: 261, 136
+	offset: 139, 14
+	index: -1
+max/yinseliaoyajuexing_dajibaodian1_00048
+	rotate: true
+	xy: 0, 151
+	size: 150, 179
+	orig: 216, 195
+	offset: 27, 8
+	index: -1
+max/yinseliaoyajuexing_dajibaodian1_00049
+	rotate: true
+	xy: 170, 421
+	size: 158, 161
+	orig: 216, 195
+	offset: 23, 20
+	index: -1
+
+asset/anim/yinseliaoyaSEMAX4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/yinseliaoyajuexing_chong_liushui_00062
+	rotate: true
+	xy: 626, 960
+	size: 59, 119
+	orig: 283, 243
+	offset: 169, 70
+	index: -1
+max/yinseliaoyajuexing_chongji1_smoke_00070
+	rotate: false
+	xy: 984, 856
+	size: 38, 53
+	orig: 52, 53
+	offset: 14, 0
+	index: -1
+max/yinseliaoyajuexing_dajibaodian1_00054
+	rotate: true
+	xy: 437, 390
+	size: 186, 153
+	orig: 216, 195
+	offset: 17, 19
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00065
+	rotate: false
+	xy: 166, 200
+	size: 111, 197
+	orig: 175, 261
+	offset: 29, 0
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00087
+	rotate: false
+	xy: 108, 608
+	size: 101, 195
+	orig: 175, 261
+	offset: 74, 0
+	index: -1
+max/yinseliaoyajuexing_chongji1_smoke_00062
+	rotate: true
+	xy: 632, 0
+	size: 48, 47
+	orig: 52, 53
+	offset: 0, 0
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00074
+	rotate: false
+	xy: 108, 804
+	size: 99, 195
+	orig: 175, 261
+	offset: 76, 42
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00076
+	rotate: false
+	xy: 0, 206
+	size: 165, 203
+	orig: 175, 261
+	offset: 10, 58
+	index: -1
+max/yinseliaoyajuexing_chongji_00118
+	rotate: true
+	xy: 380, 588
+	size: 186, 170
+	orig: 398, 218
+	offset: 8, 20
+	index: -1
+max/yinseliaoyajuexing_chongji_00116
+	rotate: false
+	xy: 843, 546
+	size: 180, 158
+	orig: 398, 218
+	offset: 8, 27
+	index: -1
+max/yinseliaoyajuexing_chongji_00117
+	rotate: true
+	xy: 495, 775
+	size: 184, 166
+	orig: 398, 218
+	offset: 9, 24
+	index: -1
+max/yinseliaoyajuexing_chongji_00112
+	rotate: true
+	xy: 438, 190
+	size: 186, 152
+	orig: 398, 218
+	offset: 8, 37
+	index: -1
+max/yinseliaoyajuexing_chongji_00113
+	rotate: false
+	xy: 664, 434
+	size: 178, 142
+	orig: 398, 218
+	offset: 8, 38
+	index: -1
+max/yinseliaoyajuexing_daji_genshui_00062
+	rotate: true
+	xy: 746, 944
+	size: 76, 75
+	orig: 138, 217
+	offset: 39, 123
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00080
+	rotate: true
+	xy: 843, 434
+	size: 111, 181
+	orig: 175, 261
+	offset: 18, 80
+	index: -1
+max/yinseliaoyajuexing_dajibaodian1_00053
+	rotate: true
+	xy: 662, 761
+	size: 182, 153
+	orig: 216, 195
+	offset: 18, 20
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00079
+	rotate: false
+	xy: 278, 200
+	size: 159, 189
+	orig: 175, 261
+	offset: 3, 72
+	index: -1
+max/yinseliaoyajuexing_shifa_shuiquan_00010
+	rotate: true
+	xy: 822, 856
+	size: 168, 161
+	orig: 260, 223
+	offset: 45, 28
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00096
+	rotate: false
+	xy: 208, 804
+	size: 111, 193
+	orig: 175, 261
+	offset: 48, 68
+	index: -1
+max/yinseliaoyajuexing_chong_qiliu_00053
+	rotate: false
+	xy: 475, 987
+	size: 150, 37
+	orig: 190, 61
+	offset: 17, 12
+	index: -1
+max/yinseliaoyajuexing_chong_qiliu_00051
+	rotate: false
+	xy: 320, 987
+	size: 154, 37
+	orig: 190, 61
+	offset: 16, 12
+	index: -1
+max/yinseliaoyajuexing_daji_genshui_00058
+	rotate: false
+	xy: 591, 192
+	size: 86, 127
+	orig: 138, 217
+	offset: 25, 68
+	index: -1
+max/yinseliaoyajuexing_chongji1_00044
+	rotate: true
+	xy: 0, 610
+	size: 198, 107
+	orig: 264, 131
+	offset: 45, 12
+	index: -1
+max/yinseliaoyajuexing_daji_genshui_00048
+	rotate: false
+	xy: 591, 431
+	size: 72, 145
+	orig: 138, 217
+	offset: 27, 24
+	index: -1
+max/yinseliaoyajuexing_shuihuaxulie_00028
+	rotate: true
+	xy: 591, 320
+	size: 110, 86
+	orig: 256, 222
+	offset: 82, 69
+	index: -1
+max/yinseliaoyajuexing_chongji_00127
+	rotate: true
+	xy: 632, 49
+	size: 142, 46
+	orig: 398, 218
+	offset: 24, 79
+	index: -1
+max/yinseliaoyajuexing_chongji_00120
+	rotate: false
+	xy: 320, 800
+	size: 174, 186
+	orig: 398, 218
+	offset: 8, 9
+	index: -1
+max/yinseliaoyajuexing_chongji_00123
+	rotate: false
+	xy: 822, 0
+	size: 182, 148
+	orig: 398, 218
+	offset: 10, 38
+	index: -1
+max/yinseliaoyajuexing_chongji_00122
+	rotate: false
+	xy: 843, 705
+	size: 180, 150
+	orig: 398, 218
+	offset: 8, 36
+	index: -1
+max/yinseliaoyajuexing_dajibaodian1_00047
+	rotate: true
+	xy: 680, 133
+	size: 128, 141
+	orig: 216, 195
+	offset: 32, 35
+	index: -1
+max/yinseliaoyajuexing_chongji1_00045
+	rotate: true
+	xy: 70, 0
+	size: 202, 63
+	orig: 264, 131
+	offset: 50, 35
+	index: -1
+max/yinseliaoyajuexing_chong_qiliu_00044
+	rotate: false
+	xy: 680, 710
+	size: 162, 31
+	orig: 190, 61
+	offset: 11, 16
+	index: -1
+max/yinseliaoyajuexing_daji_liushui_00058
+	rotate: false
+	xy: 0, 809
+	size: 107, 195
+	orig: 175, 261
+	offset: 68, 32
+	index: -1
+max/yinseliaoyajuexing_chongji1_tou_00062
+	rotate: true
+	xy: 0, 410
+	size: 199, 98
+	orig: 261, 136
+	offset: 31, 20
+	index: -1

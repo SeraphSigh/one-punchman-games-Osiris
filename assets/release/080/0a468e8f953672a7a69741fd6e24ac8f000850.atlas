@@ -1,0 +1,130 @@
+
+asset/anim/suonike_yinghua1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+snkyh_jiaoxiatuowei07
+	rotate: false
+	xy: 799, 399
+	size: 180, 81
+	orig: 282, 81
+	offset: 28, 0
+	index: -1
+snkyh_jiaoxiatuowei06
+	rotate: false
+	xy: 799, 317
+	size: 204, 81
+	orig: 282, 81
+	offset: 22, 0
+	index: -1
+snkyh_jiaoxiatuowei05
+	rotate: false
+	xy: 799, 235
+	size: 206, 81
+	orig: 282, 81
+	offset: 24, 0
+	index: -1
+snkyh_jiaoxiatuowei02
+	rotate: false
+	xy: 799, 153
+	size: 216, 81
+	orig: 282, 81
+	offset: 44, 0
+	index: -1
+snkyh_jiaoxiatuowei01
+	rotate: false
+	xy: 831, 664
+	size: 164, 81
+	orig: 282, 81
+	offset: 54, 0
+	index: -1
+snkyh_jiaoxiatuowei00
+	rotate: false
+	xy: 839, 746
+	size: 150, 81
+	orig: 282, 81
+	offset: 62, 0
+	index: -1
+snkyh_jiaoxiatuowei12
+	rotate: true
+	xy: 0, 892
+	size: 122, 81
+	orig: 282, 81
+	offset: 53, 0
+	index: -1
+snkyh_jiaoxiatuowei09
+	rotate: true
+	xy: 400, 880
+	size: 144, 81
+	orig: 282, 81
+	offset: 54, 0
+	index: -1
+snkyh_jiaoxiatuowei13
+	rotate: true
+	xy: 757, 753
+	size: 104, 81
+	orig: 282, 81
+	offset: 52, 0
+	index: -1
+snkyh_jiaoxiatuowei11
+	rotate: false
+	xy: 831, 481
+	size: 146, 81
+	orig: 282, 81
+	offset: 52, 0
+	index: -1
+snkyh_jiaoxiatuowei08
+	rotate: true
+	xy: 717, 858
+	size: 166, 81
+	orig: 282, 81
+	offset: 35, 0
+	index: -1
+
+asset/anim/suonike_yinghua0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+snkyh_jiaoxiatuowei04
+	rotate: false
+	xy: 338, 50
+	size: 282, 81
+	orig: 282, 81
+	offset: 0, 0
+	index: -1
+snkyh_jiaoxiatuowei03
+	rotate: false
+	xy: 661, 0
+	size: 282, 81
+	orig: 282, 81
+	offset: 0, 0
+	index: -1
+snkyh_jiaoxiatuowei10
+	rotate: true
+	xy: 0, 713
+	size: 142, 81
+	orig: 282, 81
+	offset: 55, 0
+	index: -1
+snkyh_jiaoxiatuowei14
+	rotate: true
+	xy: 589, 334
+	size: 60, 71
+	orig: 282, 81
+	offset: 52, 9
+	index: -1
+
+asset/anim/suonike_yinghua2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+snkyh_jiaoxiatuowei15
+	rotate: false
+	xy: 43, 866
+	size: 48, 65
+	orig: 282, 81
+	offset: 55, 14
+	index: -1

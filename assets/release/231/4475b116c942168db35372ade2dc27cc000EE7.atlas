@@ -1,0 +1,243 @@
+
+asset/anim/renzhetexun1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+toufa3_renzhetexun
+	rotate: false
+	xy: 0, 0
+	size: 119, 133
+	orig: 119, 133
+	offset: 0, 0
+	index: -1
+zuoyanjing1_renzhetexun
+	rotate: true
+	xy: 0, 134
+	size: 50, 36
+	orig: 50, 36
+	offset: 0, 0
+	index: -1
+zuoxiaobi_renzhetexun
+	rotate: false
+	xy: 0, 185
+	size: 39, 40
+	orig: 39, 40
+	offset: 0, 0
+	index: -1
+
+asset/anim/renzhetexun0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youmeimao_renzhetexun2
+	rotate: true
+	xy: 432, 478
+	size: 33, 12
+	orig: 33, 12
+	offset: 0, 0
+	index: -1
+youdabi_renzhetexun
+	rotate: true
+	xy: 250, 108
+	size: 38, 50
+	orig: 38, 50
+	offset: 0, 0
+	index: -1
+shenti_renzhetexun
+	rotate: false
+	xy: 213, 173
+	size: 89, 96
+	orig: 89, 96
+	offset: 0, 0
+	index: -1
+wuqi_renzhetexun
+	rotate: true
+	xy: 303, 238
+	size: 29, 151
+	orig: 29, 151
+	offset: 0, 0
+	index: -1
+weibo_bu_renzhetexun
+	rotate: false
+	xy: 314, 480
+	size: 36, 27
+	orig: 36, 27
+	offset: 0, 0
+	index: -1
+tou_renzhetexun
+	rotate: false
+	xy: 201, 270
+	size: 171, 209
+	orig: 171, 209
+	offset: 0, 0
+	index: -1
+youshouwan_renzhetexun
+	rotate: false
+	xy: 490, 490
+	size: 11, 17
+	orig: 11, 17
+	offset: 0, 0
+	index: -1
+youyanqiu_renzhetexun2
+	rotate: false
+	xy: 432, 356
+	size: 22, 13
+	orig: 22, 13
+	offset: 0, 0
+	index: -1
+youtui_renzhetexun
+	rotate: false
+	xy: 303, 66
+	size: 66, 122
+	orig: 66, 122
+	offset: 0, 0
+	index: -1
+zuodabi_renzhetexun
+	rotate: true
+	xy: 303, 0
+	size: 65, 68
+	orig: 65, 68
+	offset: 0, 0
+	index: -1
+youshangyanpi_renzhetexun
+	rotate: false
+	xy: 274, 480
+	size: 39, 28
+	orig: 39, 28
+	offset: 0, 0
+	index: -1
+zuomeimao_renzhetexun
+	rotate: true
+	xy: 235, 480
+	size: 30, 38
+	orig: 30, 38
+	offset: 0, 0
+	index: -1
+zuotui_renzhetexun
+	rotate: false
+	xy: 455, 238
+	size: 56, 131
+	orig: 56, 131
+	offset: 0, 0
+	index: -1
+youshou_renzhetexun
+	rotate: true
+	xy: 273, 0
+	size: 35, 23
+	orig: 35, 23
+	offset: 0, 0
+	index: -1
+zuoshou_renzhetexun
+	rotate: false
+	xy: 445, 478
+	size: 44, 24
+	orig: 44, 24
+	offset: 0, 0
+	index: -1
+toufa_renzhetexun
+	rotate: true
+	xy: 373, 173
+	size: 64, 137
+	orig: 64, 137
+	offset: 0, 0
+	index: -1
+zuoyanqiu_renzhetexun2
+	rotate: true
+	xy: 351, 480
+	size: 23, 20
+	orig: 23, 20
+	offset: 0, 0
+	index: -1
+weibo_bu2_renzhetexun
+	rotate: false
+	xy: 373, 268
+	size: 77, 50
+	orig: 77, 50
+	offset: 0, 0
+	index: -1
+kua_renzhetexun
+	rotate: false
+	xy: 213, 56
+	size: 58, 51
+	orig: 58, 51
+	offset: 0, 0
+	index: -1
+youyanbai_renzhetexun2
+	rotate: true
+	xy: 432, 319
+	size: 36, 22
+	orig: 36, 22
+	offset: 0, 0
+	index: -1
+zuoshangyanpi_renzhetexun
+	rotate: false
+	xy: 303, 189
+	size: 61, 48
+	orig: 61, 48
+	offset: 0, 0
+	index: -1
+toufa2_renzhetexun
+	rotate: false
+	xy: 373, 0
+	size: 138, 172
+	orig: 138, 172
+	offset: 0, 0
+	index: -1
+wenshen2_renzhetexun
+	rotate: false
+	xy: 490, 478
+	size: 22, 11
+	orig: 22, 11
+	offset: 0, 0
+	index: -1
+piaodai2_renzhetexun
+	rotate: false
+	xy: 0, 270
+	size: 200, 232
+	orig: 200, 232
+	offset: 0, 0
+	index: -1
+wenshen1_renzhetexun
+	rotate: true
+	xy: 201, 480
+	size: 31, 33
+	orig: 31, 33
+	offset: 0, 0
+	index: -1
+youxiaobi_renzhetexun
+	rotate: true
+	xy: 213, 108
+	size: 51, 36
+	orig: 51, 36
+	offset: 0, 0
+	index: -1
+piaodai_renzhetexun
+	rotate: false
+	xy: 0, 0
+	size: 212, 269
+	orig: 212, 269
+	offset: 0, 0
+	index: -1
+weibo_renzhetexun
+	rotate: true
+	xy: 432, 370
+	size: 107, 71
+	orig: 107, 71
+	offset: 0, 0
+	index: -1
+toufa1_renzhetexun
+	rotate: false
+	xy: 373, 319
+	size: 58, 188
+	orig: 58, 188
+	offset: 0, 0
+	index: -1
+xinfeng_renzhetexun
+	rotate: true
+	xy: 213, 0
+	size: 55, 59
+	orig: 55, 59
+	offset: 0, 0
+	index: -1

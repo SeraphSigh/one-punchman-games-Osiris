@@ -1,0 +1,1395 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/tongdi1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Rhand_tongdi
+	rotate: true
+	xy: 147, 429
+	size: 15, 21
+	orig: 15, 21
+	offset: 0, 0
+	index: -1
+g_body_tongdi2
+	rotate: true
+	xy: 259, 305
+	size: 54, 73
+	orig: 54, 73
+	offset: 0, 0
+	index: -1
+4B3_tongdi2
+	rotate: true
+	xy: 41, 378
+	size: 20, 35
+	orig: 20, 35
+	offset: 0, 0
+	index: -1
+h_kua_tongdi
+	rotate: false
+	xy: 333, 337
+	size: 34, 27
+	orig: 34, 27
+	offset: 0, 0
+	index: -1
+a_Lfoot_tongdi
+	rotate: false
+	xy: 97, 174
+	size: 32, 26
+	orig: 32, 26
+	offset: 0, 0
+	index: -1
+d_Lforearm_tongdi2
+	rotate: true
+	xy: 139, 465
+	size: 19, 18
+	orig: 19, 18
+	offset: 0, 0
+	index: -1
+d_head_tongdi
+	rotate: true
+	xy: 130, 314
+	size: 59, 65
+	orig: 59, 65
+	offset: 0, 0
+	index: -1
+a_hair2_tongdi
+	rotate: true
+	xy: 0, 140
+	size: 89, 96
+	orig: 89, 96
+	offset: 0, 0
+	index: -1
+e_Larm_tongdi2
+	rotate: false
+	xy: 97, 201
+	size: 32, 25
+	orig: 32, 25
+	offset: 0, 0
+	index: -1
+a_Lthigh_tongdi
+	rotate: false
+	xy: 169, 374
+	size: 26, 42
+	orig: 26, 42
+	offset: 0, 0
+	index: -1
+4B1_tongdi2
+	rotate: false
+	xy: 23, 450
+	size: 15, 33
+	orig: 15, 33
+	offset: 0, 0
+	index: -1
+a_Rshin_tongdi
+	rotate: false
+	xy: 349, 231
+	size: 18, 42
+	orig: 18, 42
+	offset: 0, 0
+	index: -1
+e_Lforearm_tongdi2
+	rotate: true
+	xy: 120, 430
+	size: 17, 25
+	orig: 17, 25
+	offset: 0, 0
+	index: -1
+a_Lhand_tongdi
+	rotate: false
+	xy: 335, 285
+	size: 13, 20
+	orig: 13, 20
+	offset: 0, 0
+	index: -1
+d_zuoxiaobi_tongdi
+	rotate: true
+	xy: 25, 378
+	size: 36, 15
+	orig: 36, 15
+	offset: 0, 0
+	index: -1
+2B7_tongdi2
+	rotate: true
+	xy: 259, 186
+	size: 73, 89
+	orig: 73, 89
+	offset: 0, 0
+	index: -1
+c_youshou2_tongdi
+	rotate: true
+	xy: 106, 491
+	size: 19, 18
+	orig: 19, 18
+	offset: 0, 0
+	index: -1
+f_dabi3_tongdi
+	rotate: true
+	xy: 480, 144
+	size: 28, 32
+	orig: 28, 32
+	offset: 0, 0
+	index: -1
+shouji_biao2_tongdi
+	rotate: true
+	xy: 144, 485
+	size: 19, 13
+	orig: 19, 13
+	offset: 0, 0
+	index: -1
+j_youxiaotui_tongdi
+	rotate: false
+	xy: 39, 450
+	size: 15, 33
+	orig: 15, 33
+	offset: 0, 0
+	index: -1
+h_youdatui_tongdi
+	rotate: false
+	xy: 258, 360
+	size: 44, 27
+	orig: 44, 27
+	offset: 0, 0
+	index: -1
+i_shou5_tongdi
+	rotate: false
+	xy: 158, 464
+	size: 17, 18
+	orig: 17, 18
+	offset: 0, 0
+	index: -1
+b_zuoshou_tongdi
+	rotate: true
+	xy: 169, 432
+	size: 22, 25
+	orig: 22, 25
+	offset: 0, 0
+	index: -1
+a_Rarm_tongdi
+	rotate: true
+	xy: 257, 388
+	size: 20, 44
+	orig: 20, 44
+	offset: 0, 0
+	index: -1
+d_zuodabi_tongdi
+	rotate: true
+	xy: 0, 450
+	size: 39, 22
+	orig: 39, 22
+	offset: 0, 0
+	index: -1
+lian2_tongdi2
+	rotate: false
+	xy: 475, 204
+	size: 37, 29
+	orig: 37, 29
+	offset: 0, 0
+	index: -1
+j_Rhand_tongdi
+	rotate: false
+	xy: 73, 491
+	size: 18, 20
+	orig: 18, 20
+	offset: 0, 0
+	index: -1
+c_Rforearm_tongdi2
+	rotate: false
+	xy: 303, 386
+	size: 29, 22
+	orig: 29, 22
+	offset: 0, 0
+	index: -1
+i_shou4_tongdi
+	rotate: false
+	xy: 93, 455
+	size: 20, 20
+	orig: 20, 20
+	offset: 0, 0
+	index: -1
+c_Larm_tongdi2
+	rotate: false
+	xy: 238, 110
+	size: 21, 35
+	orig: 21, 35
+	offset: 0, 0
+	index: -1
+a_coxa_tongdi
+	rotate: false
+	xy: 89, 305
+	size: 40, 22
+	orig: 40, 22
+	offset: 0, 0
+	index: -1
+dao2_tongdi2
+	rotate: true
+	xy: 0, 302
+	size: 75, 78
+	orig: 75, 78
+	offset: 0, 0
+	index: -1
+f_Lhand_tongdi2
+	rotate: false
+	xy: 196, 414
+	size: 23, 35
+	orig: 23, 35
+	offset: 0, 0
+	index: -1
+shouji_biao_tongdi
+	rotate: true
+	xy: 0, 378
+	size: 36, 24
+	orig: 36, 24
+	offset: 0, 0
+	index: -1
+c_Lhand_tongdi2
+	rotate: true
+	xy: 335, 260
+	size: 24, 13
+	orig: 24, 13
+	offset: 0, 0
+	index: -1
+jian1_3_tongdi2
+	rotate: false
+	xy: 260, 0
+	size: 115, 31
+	orig: 115, 31
+	offset: 0, 0
+	index: -1
+chui4_tongdi2
+	rotate: true
+	xy: 220, 241
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+bumian_tongdi
+	rotate: false
+	xy: 0, 490
+	size: 25, 22
+	orig: 25, 22
+	offset: 0, 0
+	index: -1
+h_shubao_tongdi
+	rotate: true
+	xy: 442, 289
+	size: 47, 67
+	orig: 47, 67
+	offset: 0, 0
+	index: -1
+siwang_biyan_tongdi
+	rotate: false
+	xy: 175, 483
+	size: 16, 16
+	orig: 16, 16
+	offset: 0, 0
+	index: -1
+e_Lhand_tongdi2
+	rotate: false
+	xy: 26, 484
+	size: 25, 28
+	orig: 25, 28
+	offset: 0, 0
+	index: -1
+a_Lforearm_tongdi
+	rotate: true
+	xy: 93, 476
+	size: 14, 16
+	orig: 14, 16
+	offset: 0, 0
+	index: -1
+a_youyanjing_tongdi
+	rotate: true
+	xy: 176, 455
+	size: 16, 13
+	orig: 16, 13
+	offset: 0, 0
+	index: -1
+zuan2_tongdi2
+	rotate: false
+	xy: 376, 0
+	size: 111, 52
+	orig: 111, 52
+	offset: 0, 0
+	index: -1
+j_youjiao_tongdi
+	rotate: false
+	xy: 72, 417
+	size: 20, 27
+	orig: 20, 27
+	offset: 0, 0
+	index: -1
+h_youjiao_tongdi
+	rotate: false
+	xy: 220, 369
+	size: 36, 28
+	orig: 36, 28
+	offset: 0, 0
+	index: -1
+j_kua_tongdi
+	rotate: true
+	xy: 196, 371
+	size: 42, 23
+	orig: 42, 23
+	offset: 0, 0
+	index: -1
+bang3_tongdi2
+	rotate: false
+	xy: 79, 375
+	size: 39, 33
+	orig: 39, 33
+	offset: 0, 0
+	index: -1
+3B3_tongdi2
+	rotate: true
+	xy: 130, 72
+	size: 66, 107
+	orig: 66, 107
+	offset: 0, 0
+	index: -1
+i_shou5_2_tongdi
+	rotate: false
+	xy: 158, 483
+	size: 16, 18
+	orig: 16, 18
+	offset: 0, 0
+	index: -1
+f_head_tongdi2
+	rotate: true
+	xy: 444, 234
+	size: 54, 68
+	orig: 54, 68
+	offset: 0, 0
+	index: -1
+lian3_tongdi2
+	rotate: false
+	xy: 260, 140
+	size: 107, 45
+	orig: 107, 45
+	offset: 0, 0
+	index: -1
+4B4_tongdi2
+	rotate: false
+	xy: 488, 0
+	size: 24, 106
+	orig: 24, 106
+	offset: 0, 0
+	index: -1
+bang1_tongdi2
+	rotate: true
+	xy: 371, 53
+	size: 107, 108
+	orig: 107, 108
+	offset: 0, 0
+	index: -1
+f_dabi1_tongdi
+	rotate: true
+	xy: 227, 161
+	size: 38, 31
+	orig: 38, 31
+	offset: 0, 0
+	index: -1
+i_xiaobi7_tongdi
+	rotate: false
+	xy: 118, 448
+	size: 23, 16
+	orig: 23, 16
+	offset: 0, 0
+	index: -1
+d_zuoshou_tongdi
+	rotate: true
+	xy: 50, 417
+	size: 29, 21
+	orig: 29, 21
+	offset: 0, 0
+	index: -1
+bang2_tongdi2
+	rotate: false
+	xy: 130, 139
+	size: 96, 76
+	orig: 96, 76
+	offset: 0, 0
+	index: -1
+shengli_yanjing1_tongdi
+	rotate: true
+	xy: 349, 186
+	size: 44, 18
+	orig: 44, 18
+	offset: 0, 0
+	index: -1
+f_shou2_tongdi
+	rotate: true
+	xy: 120, 410
+	size: 19, 26
+	orig: 19, 26
+	offset: 0, 0
+	index: -1
+a_zuomeimao_tongdi
+	rotate: true
+	xy: 79, 302
+	size: 18, 9
+	orig: 18, 9
+	offset: 0, 0
+	index: -1
+a_Rforearm_tongdi
+	rotate: true
+	xy: 203, 290
+	size: 24, 16
+	orig: 24, 16
+	offset: 0, 0
+	index: -1
+h_zuoxiaotui_tongdi
+	rotate: false
+	xy: 220, 323
+	size: 38, 15
+	orig: 38, 15
+	offset: 0, 0
+	index: -1
+a_zuoshangyanjian_tongdi
+	rotate: true
+	xy: 190, 455
+	size: 15, 13
+	orig: 15, 13
+	offset: 0, 0
+	index: -1
+f_dabi2_tongdi
+	rotate: false
+	xy: 220, 398
+	size: 36, 27
+	orig: 36, 27
+	offset: 0, 0
+	index: -1
+a_youxiayanjian_tongdi
+	rotate: true
+	xy: 79, 321
+	size: 16, 9
+	orig: 16, 9
+	offset: 0, 0
+	index: -1
+zhuantou2_tongdi22
+	rotate: false
+	xy: 0, 0
+	size: 129, 73
+	orig: 129, 73
+	offset: 0, 0
+	index: -1
+chui1_tongdi2
+	rotate: true
+	xy: 260, 32
+	size: 107, 110
+	orig: 107, 110
+	offset: 0, 0
+	index: -1
+zuan3_tongdi2
+	rotate: false
+	xy: 89, 264
+	size: 40, 40
+	orig: 40, 40
+	offset: 0, 0
+	index: -1
+i_shou3_tongdi
+	rotate: false
+	xy: 93, 409
+	size: 26, 21
+	orig: 26, 21
+	offset: 0, 0
+	index: -1
+3B7_tongdi2
+	rotate: true
+	xy: 130, 216
+	size: 73, 89
+	orig: 73, 89
+	offset: 0, 0
+	index: -1
+h_shenti_tongdi
+	rotate: true
+	xy: 368, 215
+	size: 69, 75
+	orig: 69, 75
+	offset: 0, 0
+	index: -1
+c_youshou_tongdi
+	rotate: true
+	xy: 125, 491
+	size: 19, 18
+	orig: 19, 18
+	offset: 0, 0
+	index: -1
+a_zuoyanjing_tongdi
+	rotate: false
+	xy: 127, 476
+	size: 11, 14
+	orig: 11, 14
+	offset: 0, 0
+	index: -1
+h_youdabi_tongdi
+	rotate: true
+	xy: 480, 107
+	size: 36, 32
+	orig: 36, 32
+	offset: 0, 0
+	index: -1
+a_Rfoot_tongdi
+	rotate: false
+	xy: 333, 306
+	size: 34, 30
+	orig: 34, 30
+	offset: 0, 0
+	index: -1
+h_toufa3_tongdi
+	rotate: false
+	xy: 196, 315
+	size: 23, 55
+	orig: 23, 55
+	offset: 0, 0
+	index: -1
+a_Rbag_tongdi
+	rotate: false
+	xy: 101, 74
+	size: 28, 58
+	orig: 28, 58
+	offset: 0, 0
+	index: -1
+d_bozi_tongdi
+	rotate: true
+	xy: 368, 332
+	size: 56, 72
+	orig: 56, 72
+	offset: 0, 0
+	index: -1
+i_shou1_tongdi
+	rotate: true
+	xy: 349, 274
+	size: 25, 18
+	orig: 25, 18
+	offset: 0, 0
+	index: -1
+zhuantou3_tongdi22
+	rotate: false
+	xy: 130, 0
+	size: 129, 71
+	orig: 129, 71
+	offset: 0, 0
+	index: -1
+lian4_tongdi2
+	rotate: false
+	xy: 475, 173
+	size: 37, 30
+	orig: 37, 30
+	offset: 0, 0
+	index: -1
+h_toufa1_tongdi
+	rotate: false
+	xy: 227, 200
+	size: 30, 40
+	orig: 30, 40
+	offset: 0, 0
+	index: -1
+zui2_shengli_tongdi
+	rotate: false
+	xy: 114, 465
+	size: 15, 10
+	orig: 15, 10
+	offset: 0, 0
+	index: -1
+i_dabi2_tongdi
+	rotate: true
+	xy: 220, 339
+	size: 29, 37
+	orig: 29, 37
+	offset: 0, 0
+	index: -1
+j_youxiaobi_tongdi
+	rotate: true
+	xy: 55, 450
+	size: 29, 17
+	orig: 29, 17
+	offset: 0, 0
+	index: -1
+i_shou2_tongdi
+	rotate: false
+	xy: 73, 470
+	size: 19, 20
+	orig: 19, 20
+	offset: 0, 0
+	index: -1
+dao3_tongdi2
+	rotate: true
+	xy: 220, 282
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+b_Lhand_tongdi2
+	rotate: false
+	xy: 52, 484
+	size: 20, 28
+	orig: 20, 28
+	offset: 0, 0
+	index: -1
+d_youjiao_tongdi
+	rotate: false
+	xy: 0, 417
+	size: 25, 30
+	orig: 25, 30
+	offset: 0, 0
+	index: -1
+f_shou1_tongdi
+	rotate: false
+	xy: 93, 431
+	size: 24, 23
+	orig: 24, 23
+	offset: 0, 0
+	index: -1
+j_youdabi_tongdi
+	rotate: false
+	xy: 101, 133
+	size: 28, 40
+	orig: 28, 40
+	offset: 0, 0
+	index: -1
+f_shou3_tongdi
+	rotate: true
+	xy: 146, 445
+	size: 18, 22
+	orig: 18, 22
+	offset: 0, 0
+	index: -1
+j_zuodabi_tongdi
+	rotate: true
+	xy: 89, 328
+	size: 22, 40
+	orig: 22, 40
+	offset: 0, 0
+	index: -1
+1B5_tongdi2
+	rotate: true
+	xy: 130, 290
+	size: 23, 72
+	orig: 23, 72
+	offset: 0, 0
+	index: -1
+a_head_tongdi
+	rotate: true
+	xy: 441, 337
+	size: 59, 65
+	orig: 59, 65
+	offset: 0, 0
+	index: -1
+j_zuoxioabi_tongdi
+	rotate: true
+	xy: 110, 476
+	size: 14, 16
+	orig: 14, 16
+	offset: 0, 0
+	index: -1
+c_Rhand_tongdi2
+	rotate: true
+	xy: 192, 471
+	size: 15, 13
+	orig: 15, 13
+	offset: 0, 0
+	index: -1
+a_youshangyanjian_tongdi
+	rotate: true
+	xy: 92, 491
+	size: 20, 13
+	orig: 20, 13
+	offset: 0, 0
+	index: -1
+1B4_tongdi2
+	rotate: false
+	xy: 238, 72
+	size: 21, 37
+	orig: 21, 37
+	offset: 0, 0
+	index: -1
+zhibi1_2_tongdi2
+	rotate: false
+	xy: 0, 74
+	size: 100, 65
+	orig: 100, 65
+	offset: 0, 0
+	index: -1
+2b7_1_tongdi2
+	rotate: false
+	xy: 0, 74
+	size: 100, 65
+	orig: 100, 65
+	offset: 0, 0
+	index: -1
+c_Lforearm_tongdi2
+	rotate: false
+	xy: 169, 417
+	size: 26, 14
+	orig: 26, 14
+	offset: 0, 0
+	index: -1
+chui3_tongdi2
+	rotate: false
+	xy: 0, 230
+	size: 88, 71
+	orig: 88, 71
+	offset: 0, 0
+	index: -1
+i_shou7_tongdi
+	rotate: false
+	xy: 147, 410
+	size: 21, 18
+	orig: 21, 18
+	offset: 0, 0
+	index: -1
+j_bangbangtang_tongdi
+	rotate: true
+	xy: 79, 351
+	size: 23, 46
+	orig: 23, 46
+	offset: 0, 0
+	index: -1
+j_zuoxiaotui_tongdi
+	rotate: true
+	xy: 227, 146
+	size: 14, 32
+	orig: 14, 32
+	offset: 0, 0
+	index: -1
+h_toufa2_tongdi
+	rotate: false
+	xy: 126, 374
+	size: 42, 35
+	orig: 42, 35
+	offset: 0, 0
+	index: -1
+f_xiaobi1_tongdi
+	rotate: false
+	xy: 303, 360
+	size: 29, 25
+	orig: 29, 25
+	offset: 0, 0
+	index: -1
+zuan4_tongdi2
+	rotate: false
+	xy: 368, 161
+	size: 106, 53
+	orig: 106, 53
+	offset: 0, 0
+	index: -1
+i_xiaobi1_tongdi
+	rotate: false
+	xy: 26, 417
+	size: 23, 30
+	orig: 23, 30
+	offset: 0, 0
+	index: -1
+i_dabi1_tongdi
+	rotate: false
+	xy: 97, 227
+	size: 30, 36
+	orig: 30, 36
+	offset: 0, 0
+	index: -1
+j_shenti_tongdi
+	rotate: true
+	xy: 259, 260
+	size: 44, 75
+	orig: 44, 75
+	offset: 0, 0
+	index: -1
+h_zuodatui_tongdi
+	rotate: true
+	xy: 333, 365
+	size: 27, 34
+	orig: 27, 34
+	offset: 0, 0
+	index: -1
+f_body_tongdi2
+	rotate: true
+	xy: 368, 285
+	size: 46, 73
+	orig: 46, 73
+	offset: 0, 0
+	index: -1
+i_xiaobi2_tongdi
+	rotate: true
+	xy: 444, 215
+	size: 14, 30
+	orig: 14, 30
+	offset: 0, 0
+	index: -1
+b_Rhand_tongdi2
+	rotate: true
+	xy: 73, 445
+	size: 24, 19
+	orig: 24, 19
+	offset: 0, 0
+	index: -1
+4B5_tongdi2
+	rotate: true
+	xy: 41, 399
+	size: 15, 34
+	orig: 15, 34
+	offset: 0, 0
+	index: -1
+
+asset/anim/tongdi0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2B2_tongdi2
+	rotate: true
+	xy: 474, 216
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+3B1_tongdi2
+	rotate: true
+	xy: 112, 0
+	size: 68, 149
+	orig: 68, 149
+	offset: 0, 0
+	index: -1
+bang4_tongdi2
+	rotate: false
+	xy: 112, 69
+	size: 133, 45
+	orig: 133, 45
+	offset: 0, 0
+	index: -1
+d_Lhand_tongdi2
+	rotate: false
+	xy: 484, 496
+	size: 28, 16
+	orig: 28, 16
+	offset: 0, 0
+	index: -1
+lian5_tongdi2
+	rotate: false
+	xy: 0, 0
+	size: 111, 115
+	orig: 111, 115
+	offset: 0, 0
+	index: -1
+c_hair1_tongdi2
+	rotate: false
+	xy: 380, 456
+	size: 60, 56
+	orig: 60, 56
+	offset: 0, 0
+	index: -1
+1B6_tongdi2
+	rotate: false
+	xy: 365, 465
+	size: 14, 33
+	orig: 14, 33
+	offset: 0, 0
+	index: -1
+b_zuoxiaobi_tongdi
+	rotate: false
+	xy: 299, 444
+	size: 23, 26
+	orig: 23, 26
+	offset: 0, 0
+	index: -1
+h_youxiaotui_tongdi
+	rotate: false
+	xy: 263, 223
+	size: 19, 41
+	orig: 19, 41
+	offset: 0, 0
+	index: -1
+jian1_2_tongdi2
+	rotate: false
+	xy: 246, 74
+	size: 118, 39
+	orig: 118, 39
+	offset: 0, 0
+	index: -1
+dao1_tongdi2
+	rotate: false
+	xy: 393, 0
+	size: 119, 76
+	orig: 119, 76
+	offset: 0, 0
+	index: -1
+1B2_tongdi2
+	rotate: true
+	xy: 466, 478
+	size: 17, 40
+	orig: 17, 40
+	offset: 0, 0
+	index: -1
+quan1_tongdi2
+	rotate: true
+	xy: 97, 274
+	size: 105, 72
+	orig: 105, 72
+	offset: 0, 0
+	index: -1
+c_head_tongdi2
+	rotate: false
+	xy: 316, 274
+	size: 52, 65
+	orig: 52, 65
+	offset: 0, 0
+	index: -1
+3B5_tongdi2
+	rotate: false
+	xy: 369, 258
+	size: 104, 76
+	orig: 104, 76
+	offset: 0, 0
+	index: -1
+c_kua_tongdi
+	rotate: true
+	xy: 441, 456
+	size: 39, 24
+	orig: 39, 24
+	offset: 0, 0
+	index: -1
+dao4_tongdi2
+	rotate: false
+	xy: 122, 115
+	size: 93, 104
+	orig: 93, 104
+	offset: 0, 0
+	index: -1
+h_tou_tongdi
+	rotate: false
+	xy: 172, 375
+	size: 71, 98
+	orig: 71, 98
+	offset: 0, 0
+	index: -1
+a_youyanzhu_tongdi
+	rotate: false
+	xy: 77, 384
+	size: 10, 10
+	orig: 10, 10
+	offset: 0, 0
+	index: -1
+a_youmeimao_tongdi
+	rotate: true
+	xy: 507, 478
+	size: 14, 5
+	orig: 14, 5
+	offset: 0, 0
+	index: -1
+c_Rarm_tongdi2
+	rotate: false
+	xy: 296, 471
+	size: 27, 41
+	orig: 27, 41
+	offset: 0, 0
+	index: -1
+jian2_tongdi2
+	rotate: false
+	xy: 283, 219
+	size: 85, 54
+	orig: 85, 54
+	offset: 0, 0
+	index: -1
+2B1_tongdi2
+	rotate: false
+	xy: 0, 116
+	size: 68, 149
+	orig: 68, 149
+	offset: 0, 0
+	index: -1
+quan4_tongdi2
+	rotate: false
+	xy: 170, 274
+	size: 55, 100
+	orig: 55, 100
+	offset: 0, 0
+	index: -1
+gedang_tongdi2
+	rotate: false
+	xy: 0, 266
+	size: 76, 130
+	orig: 76, 130
+	offset: 0, 0
+	index: -1
+a_hair1_tongdi
+	rotate: false
+	xy: 323, 408
+	size: 56, 56
+	orig: 56, 56
+	offset: 0, 0
+	index: -1
+chui5_tongdi2
+	rotate: false
+	xy: 0, 397
+	size: 99, 113
+	orig: 99, 113
+	offset: 0, 0
+	index: -1
+c_shenti_tongdi
+	rotate: false
+	xy: 462, 77
+	size: 50, 82
+	orig: 50, 82
+	offset: 0, 0
+	index: -1
+2B6_tongdi2
+	rotate: true
+	xy: 474, 298
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+j_shetou-tongdi
+	rotate: false
+	xy: 499, 421
+	size: 10, 10
+	orig: 10, 10
+	offset: 0, 0
+	index: -1
+lian1_tongdi2
+	rotate: false
+	xy: 323, 340
+	size: 46, 67
+	orig: 46, 67
+	offset: 0, 0
+	index: -1
+b_Rforearm_tongdi2
+	rotate: true
+	xy: 499, 394
+	size: 26, 13
+	orig: 26, 13
+	offset: 0, 0
+	index: -1
+2B3_tongdi2
+	rotate: false
+	xy: 216, 115
+	size: 66, 107
+	orig: 66, 107
+	offset: 0, 0
+	index: -1
+3B4_tongdi2
+	rotate: false
+	xy: 231, 474
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+c_youdabi_tongdi
+	rotate: false
+	xy: 464, 394
+	size: 34, 39
+	orig: 34, 39
+	offset: 0, 0
+	index: -1
+a_Lshin_tongdi
+	rotate: true
+	xy: 441, 496
+	size: 16, 42
+	orig: 16, 42
+	offset: 0, 0
+	index: -1
+quan2_tongdi2
+	rotate: true
+	xy: 244, 371
+	size: 97, 54
+	orig: 97, 54
+	offset: 0, 0
+	index: -1
+a_Rthigh_tongdi
+	rotate: true
+	xy: 149, 483
+	size: 29, 40
+	orig: 29, 40
+	offset: 0, 0
+	index: -1
+a_bag_tongdi
+	rotate: true
+	xy: 195, 223
+	size: 49, 67
+	orig: 49, 67
+	offset: 0, 0
+	index: -1
+j_shubao_tongdi
+	rotate: false
+	xy: 464, 339
+	size: 47, 54
+	orig: 47, 54
+	offset: 0, 0
+	index: -1
+j_toufa1_tongdi
+	rotate: false
+	xy: 370, 335
+	size: 57, 60
+	orig: 57, 60
+	offset: 0, 0
+	index: -1
+4B2_tongdi2
+	rotate: false
+	xy: 299, 371
+	size: 23, 72
+	orig: 23, 72
+	offset: 0, 0
+	index: -1
+chui2_tongdi2
+	rotate: false
+	xy: 369, 77
+	size: 92, 103
+	orig: 92, 103
+	offset: 0, 0
+	index: -1
+zhuantou1_tongdi22
+	rotate: false
+	xy: 262, 0
+	size: 130, 73
+	orig: 130, 73
+	offset: 0, 0
+	index: -1
+c_youxiaobi_tongdi
+	rotate: false
+	xy: 424, 440
+	size: 41, 15
+	orig: 41, 15
+	offset: 0, 0
+	index: -1
+1B1_tongdi2
+	rotate: false
+	xy: 69, 116
+	size: 24, 148
+	orig: 24, 148
+	offset: 0, 0
+	index: -1
+3B2_tongdi2
+	rotate: false
+	xy: 190, 474
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+a_larm_tongdi
+	rotate: false
+	xy: 272, 469
+	size: 23, 43
+	orig: 23, 43
+	offset: 0, 0
+	index: -1
+4B6_tongdi2
+	rotate: false
+	xy: 77, 265
+	size: 19, 118
+	orig: 19, 118
+	offset: 0, 0
+	index: -1
+c_hair2_tongdi2
+	rotate: false
+	xy: 226, 274
+	size: 89, 96
+	orig: 89, 96
+	offset: 0, 0
+	index: -1
+a_zuoxiayanjian_tongdi
+	rotate: false
+	xy: 172, 474
+	size: 11, 8
+	orig: 11, 8
+	offset: 0, 0
+	index: -1
+f_xiaobi2_tongdi
+	rotate: false
+	xy: 97, 256
+	size: 18, 17
+	orig: 18, 17
+	offset: 0, 0
+	index: -1
+a_neck_tongdi
+	rotate: true
+	xy: 122, 220
+	size: 45, 72
+	orig: 45, 72
+	offset: 0, 0
+	index: -1
+zhibi1_1_tongdi2
+	rotate: true
+	xy: 283, 114
+	size: 104, 85
+	orig: 104, 85
+	offset: 0, 0
+	index: -1
+jian1_1_tongdi2
+	rotate: false
+	xy: 474, 160
+	size: 38, 55
+	orig: 38, 55
+	offset: 0, 0
+	index: -1
+zui1_shengli_tongdi
+	rotate: true
+	xy: 462, 160
+	size: 18, 11
+	orig: 18, 11
+	offset: 0, 0
+	index: -1
+a_Lbag_tongdi
+	rotate: true
+	xy: 466, 459
+	size: 18, 46
+	orig: 18, 46
+	offset: 0, 0
+	index: -1
+j_toufa3_tongdi
+	rotate: false
+	xy: 380, 396
+	size: 31, 59
+	orig: 31, 59
+	offset: 0, 0
+	index: -1
+j_shubaodai2_tongdi
+	rotate: false
+	xy: 412, 396
+	size: 11, 51
+	orig: 11, 51
+	offset: 0, 0
+	index: -1
+3B6_tongdi2
+	rotate: false
+	xy: 424, 401
+	size: 39, 38
+	orig: 39, 38
+	offset: 0, 0
+	index: -1
+j_toufa2_tongdi
+	rotate: false
+	xy: 428, 335
+	size: 35, 65
+	orig: 35, 65
+	offset: 0, 0
+	index: -1
+a_zuoyanzhu_tongdi
+	rotate: true
+	xy: 263, 265
+	size: 8, 9
+	orig: 8, 9
+	offset: 0, 0
+	index: -1
+j_tou_tongdi
+	rotate: false
+	xy: 100, 380
+	size: 71, 102
+	orig: 71, 102
+	offset: 0, 0
+	index: -1
+d_Rhand_tongdi2
+	rotate: false
+	xy: 94, 235
+	size: 27, 20
+	orig: 27, 20
+	offset: 0, 0
+	index: -1
+quan3_tongdi2
+	rotate: false
+	xy: 324, 465
+	size: 40, 39
+	orig: 40, 39
+	offset: 0, 0
+	index: -1
+2B5_tongdi2
+	rotate: false
+	xy: 369, 181
+	size: 104, 76
+	orig: 104, 76
+	offset: 0, 0
+	index: -1
+j_zuodatui_tongdi
+	rotate: true
+	xy: 466, 434
+	size: 24, 46
+	orig: 24, 46
+	offset: 0, 0
+	index: -1
+j_youdatui_tongdi
+	rotate: true
+	xy: 100, 483
+	size: 29, 48
+	orig: 29, 48
+	offset: 0, 0
+	index: -1
+2B4_tongdi2
+	rotate: true
+	xy: 474, 257
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+1B3_tongdi2
+	rotate: false
+	xy: 94, 116
+	size: 27, 118
+	orig: 27, 118
+	offset: 0, 0
+	index: -1

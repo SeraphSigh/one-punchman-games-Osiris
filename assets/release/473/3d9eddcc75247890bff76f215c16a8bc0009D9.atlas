@@ -1,0 +1,160 @@
+
+asset/anim/mianmorenSE.png
+size: 256,928
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianmoren_jizhong032
+	rotate: false
+	xy: 241, 0
+	size: 8, 27
+	orig: 8, 27
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong031
+	rotate: false
+	xy: 143, 818
+	size: 24, 33
+	orig: 24, 33
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong030
+	rotate: true
+	xy: 193, 858
+	size: 26, 55
+	orig: 26, 55
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong011
+	rotate: false
+	xy: 191, 589
+	size: 65, 65
+	orig: 65, 65
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong013
+	rotate: false
+	xy: 0, 0
+	size: 119, 119
+	orig: 119, 119
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong012
+	rotate: false
+	xy: 120, 0
+	size: 120, 118
+	orig: 120, 118
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong015
+	rotate: true
+	xy: 107, 234
+	size: 102, 106
+	orig: 102, 106
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong014
+	rotate: false
+	xy: 120, 119
+	size: 118, 114
+	orig: 118, 114
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong017
+	rotate: false
+	xy: 0, 633
+	size: 90, 87
+	orig: 90, 87
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong016
+	rotate: true
+	xy: 101, 337
+	size: 102, 103
+	orig: 102, 103
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong019
+	rotate: true
+	xy: 0, 721
+	size: 82, 88
+	orig: 82, 88
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong018
+	rotate: false
+	xy: 0, 539
+	size: 90, 93
+	orig: 90, 93
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong028
+	rotate: false
+	xy: 205, 430
+	size: 50, 70
+	orig: 50, 70
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong029
+	rotate: false
+	xy: 214, 234
+	size: 29, 73
+	orig: 29, 73
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong020
+	rotate: false
+	xy: 169, 763
+	size: 83, 94
+	orig: 83, 94
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong021
+	rotate: false
+	xy: 91, 617
+	size: 82, 100
+	orig: 82, 100
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong022
+	rotate: false
+	xy: 0, 818
+	size: 73, 102
+	orig: 73, 102
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong023
+	rotate: false
+	xy: 174, 655
+	size: 72, 107
+	orig: 72, 107
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong024
+	rotate: false
+	xy: 194, 501
+	size: 53, 87
+	orig: 53, 87
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong025
+	rotate: false
+	xy: 205, 354
+	size: 50, 75
+	orig: 50, 75
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong026
+	rotate: false
+	xy: 143, 858
+	size: 49, 70
+	orig: 49, 70
+	offset: 0, 0
+	index: -1
+mianmoren_jizhong027
+	rotate: true
+	xy: 74, 878
+	size: 50, 68
+	orig: 50, 68
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,233 @@
+
+asset/anim/dajiongyan2SEATTACK1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/dajiongyan2_attack_yanwu_00027
+	rotate: true
+	xy: 574, 792
+	size: 229, 83
+	orig: 271, 149
+	offset: 16, 29
+	index: -1
+attack/dajiongyan2_attack_shifa_up_00023
+	rotate: false
+	xy: 622, 392
+	size: 190, 89
+	orig: 322, 319
+	offset: 63, 118
+	index: -1
+attack/dajiongyan2_attack_shifa_up_00017
+	rotate: true
+	xy: 0, 806
+	size: 218, 221
+	orig: 322, 319
+	offset: 62, 63
+	index: -1
+attack/dajiongyan2_attack_shifa_up_00018
+	rotate: true
+	xy: 658, 752
+	size: 272, 279
+	orig: 322, 319
+	offset: 27, 20
+	index: -1
+attack/dajiongyan2_attack_yanwu_00017
+	rotate: true
+	xy: 340, 798
+	size: 215, 111
+	orig: 271, 149
+	offset: 28, 20
+	index: -1
+attack/dajiongyan2_attack_yanwu_00018
+	rotate: true
+	xy: 222, 798
+	size: 219, 117
+	orig: 271, 149
+	offset: 25, 16
+	index: -1
+attack/dajiongyan2_attack_yanwu_00019
+	rotate: true
+	xy: 452, 792
+	size: 229, 121
+	orig: 271, 149
+	offset: 21, 14
+	index: -1
+attack/dajiongyan2_attack_shifa_up_00022
+	rotate: true
+	xy: 938, 752
+	size: 172, 85
+	orig: 322, 319
+	offset: 72, 119
+	index: -1
+
+asset/anim/dajiongyan2SEATTACK0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/dajiongyan2_attack_shifa_up_00028
+	rotate: true
+	xy: 834, 408
+	size: 200, 39
+	orig: 322, 319
+	offset: 59, 140
+	index: -1
+attack/dajiongyan2_attack_shifa_up_00024
+	rotate: true
+	xy: 168, 826
+	size: 198, 93
+	orig: 322, 319
+	offset: 60, 116
+	index: -1
+attack/dajiongyan2_attack_shifa_up_00027
+	rotate: true
+	xy: 204, 0
+	size: 202, 49
+	orig: 322, 319
+	offset: 58, 135
+	index: -1
+attack/dajiongyan2_attack_shifa_up_00021
+	rotate: true
+	xy: 875, 378
+	size: 234, 149
+	orig: 322, 319
+	offset: 26, 117
+	index: -1
+attack/dajiongyan2_attack_shifa_up_00016
+	rotate: true
+	xy: 0, 826
+	size: 198, 167
+	orig: 322, 319
+	offset: 62, 75
+	index: -1
+attack/dajiongyan2_attack_shifa_up_00029
+	rotate: false
+	xy: 670, 378
+	size: 204, 29
+	orig: 322, 319
+	offset: 56, 145
+	index: -1
+attack/dajiongyan2_attack_yanwu_00029
+	rotate: false
+	xy: 204, 203
+	size: 47, 69
+	orig: 271, 149
+	offset: 23, 38
+	index: -1
+attack/dajiongyan2_attack_shifa_up_00030
+	rotate: true
+	xy: 816, 408
+	size: 204, 17
+	orig: 322, 319
+	offset: 55, 150
+	index: -1
+
+asset/anim/dajiongyan2SEATTACK3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/dajiongyan2_attack_yanwu_00026
+	rotate: false
+	xy: 0, 0
+	size: 233, 89
+	orig: 271, 149
+	offset: 14, 25
+	index: -1
+attack/dajiongyan2_attack_yanwu_00028
+	rotate: false
+	xy: 234, 0
+	size: 227, 83
+	orig: 271, 149
+	offset: 17, 29
+	index: -1
+
+asset/anim/dajiongyan2SEATTACK2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/dajiongyan2_attack_yanwu_00025
+	rotate: true
+	xy: 914, 766
+	size: 233, 101
+	orig: 271, 149
+	offset: 14, 13
+	index: -1
+attack/dajiongyan2_attack_yanwu_00024
+	rotate: false
+	xy: 734, 428
+	size: 235, 103
+	orig: 271, 149
+	offset: 14, 12
+	index: -1
+attack/dajiongyan2_attack_yanwu_00021
+	rotate: true
+	xy: 114, 778
+	size: 235, 123
+	orig: 271, 149
+	offset: 16, 12
+	index: -1
+attack/dajiongyan2_attack_yanwu_00023
+	rotate: false
+	xy: 728, 656
+	size: 233, 109
+	orig: 271, 149
+	offset: 16, 12
+	index: -1
+attack/dajiongyan2_attack_yanwu_00022
+	rotate: true
+	xy: 0, 778
+	size: 237, 113
+	orig: 271, 149
+	offset: 14, 11
+	index: -1
+attack/dajiongyan2_attack_shifa_up_00025
+	rotate: false
+	xy: 202, 704
+	size: 170, 73
+	orig: 322, 319
+	offset: 74, 125
+	index: -1
+attack/dajiongyan2_attack_shifa_up_00026
+	rotate: false
+	xy: 388, 308
+	size: 194, 61
+	orig: 322, 319
+	offset: 61, 130
+	index: -1
+attack/dajiongyan2_attack_shifa_up_00020
+	rotate: false
+	xy: 734, 0
+	size: 266, 227
+	orig: 322, 319
+	offset: 27, 43
+	index: -1
+attack/dajiongyan2_attack_yanwu_00020
+	rotate: false
+	xy: 728, 532
+	size: 233, 123
+	orig: 271, 149
+	offset: 18, 13
+	index: -1
+attack/dajiongyan2_attack_shifa_up_00019
+	rotate: false
+	xy: 734, 228
+	size: 266, 199
+	orig: 322, 319
+	offset: 27, 49
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

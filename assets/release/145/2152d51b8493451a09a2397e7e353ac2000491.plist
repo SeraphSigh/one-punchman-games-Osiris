@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>elang2_jn_daji_00032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			</array>
+			<key>spriteOffset</key>
+			<string>{19,-30}</string>
+			<key>spriteSize</key>
+			<string>{221,264}</string>
+			<key>spriteSourceSize</key>
+			<string>{347,334}</string>
+			<key>textureRect</key>
+			<string>{{0,0},{221,264}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>pixelFormat</key>
+		<string>RGBA8888</string>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>elang2SKILL2.png</string>
+		<key>scale</key>
+		<real>0.96</real>
+		<key>size</key>
+		<string>{512,512}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:0f94baf4f09aeb116320b75f3e6c4003:e912a8b03a261e7f78cab41ba8c9daa3:c049c256ece72266684ba82770b6c516$</string>
+		<key>textureFileName</key>
+		<string>elang2SKILL2.png</string>
+	</dict>
+</dict>
+</plist>

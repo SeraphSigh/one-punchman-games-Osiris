@@ -1,0 +1,13 @@
+
+asset/anim/longjuanSESKILL0.png
+size: 1023,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/longjuansk_bg
+	rotate: false
+	xy: 0, 0
+	size: 388, 239
+	orig: 388, 239
+	offset: 0, 0
+	index: -1

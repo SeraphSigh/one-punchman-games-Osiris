@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>shw2_qh3_xiniannianshiuzhuchangjing2023image.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{3,0}</string>
+                <key>spriteSize</key>
+                <string>{170,101}</string>
+                <key>spriteSourceSize</key>
+                <string>{176,101}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{170,101}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>xiniannianshiuzhuchangjing2023image2.png</string>
+            <key>size</key>
+            <string>{170,101}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:3ecdc52d83f27339ef507a1d57ab6e90:fc36a3e6fe0e53144c129a0e642d72ab:1ef96b4eb16c537fcccfe91ec5d6c0df$</string>
+            <key>textureFileName</key>
+            <string>xiniannianshiuzhuchangjing2023image2.png</string>
+        </dict>
+    </dict>
+</plist>

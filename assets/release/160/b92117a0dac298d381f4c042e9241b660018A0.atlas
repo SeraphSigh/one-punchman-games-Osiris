@@ -1,0 +1,370 @@
+
+asset/anim/changsheerkapai.png
+size: 998,617
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_zuodatui_changsheerkapai
+	rotate: false
+	xy: 664, 143
+	size: 224, 164
+	orig: 224, 164
+	offset: 0, 0
+	index: -1
+a_zuodamuzhi_changsheerkapai
+	rotate: false
+	xy: 834, 499
+	size: 35, 46
+	orig: 35, 46
+	offset: 0, 0
+	index: -1
+a_zuoxiaomuzhi_changsheerkapai
+	rotate: false
+	xy: 926, 564
+	size: 37, 38
+	orig: 37, 38
+	offset: 0, 0
+	index: -1
+a_youzhongzhi1_changsheerkapai
+	rotate: true
+	xy: 924, 278
+	size: 29, 34
+	orig: 29, 34
+	offset: 0, 0
+	index: -1
+a_youshouzhang_changsheerkapai
+	rotate: false
+	xy: 525, 542
+	size: 81, 72
+	orig: 81, 72
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui_changsheerkapai
+	rotate: false
+	xy: 562, 282
+	size: 101, 146
+	orig: 101, 146
+	offset: 0, 0
+	index: -1
+a_youbiyanxiayanpi_changsheerkapai
+	rotate: true
+	xy: 478, 511
+	size: 27, 17
+	orig: 35, 23
+	offset: 4, 3
+	index: -1
+a_zuowumingzhi_changsheerkapai
+	rotate: false
+	xy: 295, 255
+	size: 62, 25
+	orig: 62, 25
+	offset: 0, 0
+	index: -1
+a_youwumingzhi2_changsheerkapai
+	rotate: true
+	xy: 964, 564
+	size: 41, 33
+	orig: 41, 33
+	offset: 0, 0
+	index: -1
+a_weiba_changsheerkapai
+	rotate: false
+	xy: 0, 255
+	size: 294, 183
+	orig: 294, 183
+	offset: 0, 0
+	index: -1
+a_youdabi_changsheerkapai
+	rotate: false
+	xy: 874, 435
+	size: 120, 128
+	orig: 120, 128
+	offset: 0, 0
+	index: -1
+a_youxiaomuzhi1_changsheerkapai
+	rotate: false
+	xy: 638, 585
+	size: 27, 26
+	orig: 27, 26
+	offset: 0, 0
+	index: -1
+a_zuozhengyanshangyanpi_changsheerkapai
+	rotate: true
+	xy: 979, 278
+	size: 29, 19
+	orig: 37, 25
+	offset: 4, 3
+	index: -1
+a_zuobiyanxiayanpi_changsheerkapai
+	rotate: false
+	xy: 694, 602
+	size: 27, 15
+	orig: 29, 23
+	offset: 1, 4
+	index: -1
+a_youwumingzhi1_changsheerkapai
+	rotate: true
+	xy: 889, 278
+	size: 29, 34
+	orig: 29, 34
+	offset: 0, 0
+	index: -1
+a_youxiaotui_changsheerkapai
+	rotate: true
+	xy: 385, 164
+	size: 117, 270
+	orig: 117, 270
+	offset: 0, 0
+	index: -1
+a_shetou1_changsheerkapai
+	rotate: false
+	xy: 0, 0
+	size: 384, 254
+	orig: 384, 254
+	offset: 0, 0
+	index: -1
+a_youwaitao_changsheerkapai
+	rotate: true
+	xy: 664, 0
+	size: 142, 265
+	orig: 142, 265
+	offset: 0, 0
+	index: -1
+a_toufa2_changsheerkapai
+	rotate: false
+	xy: 266, 460
+	size: 25, 30
+	orig: 25, 30
+	offset: 0, 0
+	index: -1
+a_youdatui_changsheerkapai
+	rotate: false
+	xy: 0, 439
+	size: 229, 178
+	orig: 261, 192
+	offset: 17, 7
+	index: -1
+a_youyanqiu_changsheerkapai
+	rotate: false
+	xy: 358, 255
+	size: 25, 20
+	orig: 25, 20
+	offset: 0, 0
+	index: -1
+a_zuowaitao_changsheerkapai
+	rotate: true
+	xy: 295, 282
+	size: 137, 266
+	orig: 137, 266
+	offset: 0, 0
+	index: -1
+a_youtongkong_changsheerkapai
+	rotate: true
+	xy: 230, 614
+	size: 3, 4
+	orig: 3, 4
+	offset: 0, 0
+	index: -1
+a_tou_changsheerkapai
+	rotate: false
+	xy: 889, 143
+	size: 103, 134
+	orig: 103, 134
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi_changsheerkapai
+	rotate: false
+	xy: 230, 511
+	size: 105, 102
+	orig: 105, 102
+	offset: 0, 0
+	index: -1
+a_youzhengyanshangyanpi_changsheerkapai
+	rotate: false
+	xy: 266, 439
+	size: 28, 20
+	orig: 36, 24
+	offset: 4, 2
+	index: -1
+a_zuobiyanshangyanpi_changsheerkapai
+	rotate: false
+	xy: 834, 546
+	size: 27, 17
+	orig: 31, 21
+	offset: 2, 2
+	index: -1
+a_shangzuichun_changsheerkapai
+	rotate: true
+	xy: 639, 429
+	size: 55, 18
+	orig: 55, 18
+	offset: 0, 0
+	index: -1
+a_youzhongzhi2_changsheerkapai
+	rotate: false
+	xy: 882, 564
+	size: 43, 46
+	orig: 43, 46
+	offset: 0, 0
+	index: -1
+a_shetouyinying_changsheerkapai
+	rotate: true
+	xy: 445, 564
+	size: 53, 79
+	orig: 53, 79
+	offset: 0, 0
+	index: -1
+a_zuoshouzhang_changsheerkapai
+	rotate: false
+	xy: 930, 0
+	size: 68, 76
+	orig: 68, 76
+	offset: 0, 0
+	index: -1
+a_youshizhi1_changsheerkapai
+	rotate: false
+	xy: 607, 542
+	size: 31, 35
+	orig: 31, 35
+	offset: 0, 0
+	index: -1
+a_zuozhongzhi_changsheerkapai
+	rotate: true
+	xy: 230, 439
+	size: 70, 35
+	orig: 70, 35
+	offset: 0, 0
+	index: -1
+a_zuotongkong_changsheerkapai
+	rotate: false
+	xy: 870, 499
+	size: 3, 4
+	orig: 3, 4
+	offset: 0, 0
+	index: -1
+a_zuoyanqiu_changsheerkapai
+	rotate: false
+	xy: 266, 491
+	size: 25, 19
+	orig: 25, 19
+	offset: 0, 0
+	index: -1
+a_shetou2_changsheerkapai
+	rotate: true
+	xy: 664, 308
+	size: 190, 209
+	orig: 190, 209
+	offset: 0, 0
+	index: -1
+a_youxiaobi_changsheerkapai
+	rotate: true
+	xy: 639, 499
+	size: 85, 101
+	orig: 85, 101
+	offset: 0, 0
+	index: -1
+a_youzhegnyanxiayanpi_changsheerkapai
+	rotate: false
+	xy: 694, 585
+	size: 27, 16
+	orig: 33, 20
+	offset: 3, 2
+	index: -1
+a_zuozhengyanxiayanpi_changsheerkapai
+	rotate: true
+	xy: 722, 585
+	size: 27, 15
+	orig: 33, 17
+	offset: 3, 1
+	index: -1
+a_zuodabi_changsheerkapai
+	rotate: true
+	xy: 874, 308
+	size: 126, 124
+	orig: 126, 124
+	offset: 0, 0
+	index: -1
+a_waitaohou_changsheerkapai
+	rotate: true
+	xy: 496, 429
+	size: 112, 142
+	orig: 112, 142
+	offset: 0, 0
+	index: -1
+a_zuoshizhi_changsheerkapai
+	rotate: false
+	xy: 834, 564
+	size: 47, 53
+	orig: 47, 53
+	offset: 0, 0
+	index: -1
+a_youdamuzhi1_changsheerkapai
+	rotate: false
+	xy: 607, 578
+	size: 30, 37
+	orig: 30, 37
+	offset: 0, 0
+	index: -1
+a_youxiaomuzhi2_changsheerkapai
+	rotate: false
+	xy: 666, 585
+	size: 27, 26
+	orig: 27, 26
+	offset: 0, 0
+	index: -1
+a_neiyi_changsheerkapai
+	rotate: true
+	xy: 385, 0
+	size: 163, 278
+	orig: 163, 278
+	offset: 0, 0
+	index: -1
+a-pigu_changsheerkapai
+	rotate: false
+	xy: 295, 420
+	size: 200, 90
+	orig: 200, 90
+	offset: 0, 0
+	index: -1
+a_youshizhi2_changsheerkapai
+	rotate: false
+	xy: 445, 511
+	size: 32, 52
+	orig: 32, 52
+	offset: 0, 0
+	index: -1
+a_zuojiao_changsheerkapai
+	rotate: false
+	xy: 741, 499
+	size: 92, 83
+	orig: 92, 83
+	offset: 0, 0
+	index: -1
+a_toufa1_changsheerkapai
+	rotate: false
+	xy: 930, 77
+	size: 66, 52
+	orig: 66, 52
+	offset: 0, 0
+	index: -1
+a_youjiao_changsheerkapai
+	rotate: true
+	xy: 336, 511
+	size: 95, 108
+	orig: 95, 108
+	offset: 0, 0
+	index: -1
+a_youdamuzhi2_changsheerkapai
+	rotate: true
+	xy: 738, 585
+	size: 19, 18
+	orig: 19, 18
+	offset: 0, 0
+	index: -1
+a_youbiyanshangyanpi_changsheerkapai
+	rotate: true
+	xy: 959, 278
+	size: 29, 19
+	orig: 35, 23
+	offset: 2, 3
+	index: -1

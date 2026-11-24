@@ -1,0 +1,299 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+
+asset/anim/xiaotiankongzu0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+XTKZ_g_mantle1_tiankongzu
+	rotate: false
+	xy: 502, 0
+	size: 9, 26
+	orig: 9, 26
+	offset: 0, 0
+	index: -1
+XTKZ_g_Rwing4_tiankongzu
+	rotate: true
+	xy: 290, 395
+	size: 64, 54
+	orig: 64, 54
+	offset: 0, 0
+	index: -1
+XTKZ_a_Rhand_tiankongzu
+	rotate: false
+	xy: 189, 315
+	size: 30, 31
+	orig: 30, 31
+	offset: 0, 0
+	index: -1
+XTKZ_e_Rfoot_tiankongzu
+	rotate: false
+	xy: 295, 227
+	size: 56, 39
+	orig: 56, 39
+	offset: 0, 0
+	index: -1
+XTKZ_e_coxa_tiankongzu
+	rotate: true
+	xy: 164, 348
+	size: 50, 42
+	orig: 50, 42
+	offset: 0, 0
+	index: -1
+XTKZ_e_Rthigh_tiankongzu
+	rotate: true
+	xy: 295, 267
+	size: 71, 59
+	orig: 71, 59
+	offset: 0, 0
+	index: -1
+XTKZ_g_Lhand_tiankongzu
+	rotate: true
+	xy: 220, 315
+	size: 30, 23
+	orig: 30, 23
+	offset: 0, 0
+	index: -1
+XTKZ_a_Lhand_tiankongzu
+	rotate: false
+	xy: 393, 282
+	size: 36, 41
+	orig: 36, 41
+	offset: 0, 0
+	index: -1
+XTKZ_g_body_tiankongzu
+	rotate: false
+	xy: 80, 400
+	size: 88, 96
+	orig: 88, 96
+	offset: 0, 0
+	index: -1
+XTKZ_g_Lwing4_tiankongzu
+	rotate: true
+	xy: 122, 207
+	size: 97, 67
+	orig: 97, 67
+	offset: 0, 0
+	index: -1
+XTKZ_g_Rhand_1_tiankongzu
+	rotate: true
+	xy: 337, 460
+	size: 52, 36
+	orig: 52, 36
+	offset: 0, 0
+	index: -1
+XTKZ_a_piaodai2_tiankongzu
+	rotate: false
+	xy: 352, 108
+	size: 15, 37
+	orig: 15, 37
+	offset: 0, 0
+	index: -1
+XTKZ_e_head_tiankongzu
+	rotate: true
+	xy: 0, 322
+	size: 77, 102
+	orig: 77, 102
+	offset: 0, 0
+	index: -1
+XTKZ_e_mantle1_tiankongzu
+	rotate: true
+	xy: 498, 108
+	size: 27, 13
+	orig: 27, 13
+	offset: 0, 0
+	index: -1
+XTKZ_g_Rwing1_tiankongzu
+	rotate: false
+	xy: 191, 108
+	size: 160, 118
+	orig: 160, 118
+	offset: 0, 0
+	index: -1
+XTKZ_g_Rforearm_tiankongzu
+	rotate: true
+	xy: 378, 328
+	size: 59, 40
+	orig: 59, 40
+	offset: 0, 0
+	index: -1
+XTKZ_g_mantle_tiankongzu
+	rotate: false
+	xy: 371, 90
+	size: 126, 102
+	orig: 126, 102
+	offset: 0, 0
+	index: -1
+XTKZ_e_Lthigh_tiankongzu
+	rotate: false
+	xy: 256, 340
+	size: 75, 54
+	orig: 75, 54
+	offset: 0, 0
+	index: -1
+XTKZ_a_Rforearm_tiankongzu
+	rotate: false
+	xy: 345, 394
+	size: 44, 59
+	orig: 44, 59
+	offset: 0, 0
+	index: -1
+XTKZ_a_Lwing1_tiankongzu
+	rotate: false
+	xy: 192, 0
+	size: 178, 107
+	orig: 178, 107
+	offset: 0, 0
+	index: -1
+XTKZ_e_Rthin_tiankongzu
+	rotate: true
+	xy: 122, 305
+	size: 42, 66
+	orig: 42, 66
+	offset: 0, 0
+	index: -1
+XTKZ_e_mantle_tiankongzu
+	rotate: true
+	xy: 0, 207
+	size: 114, 121
+	orig: 114, 121
+	offset: 0, 0
+	index: -1
+XTKZ_e_Lthin_tiankongzu
+	rotate: false
+	xy: 290, 460
+	size: 46, 52
+	orig: 46, 52
+	offset: 0, 0
+	index: -1
+XTKZ_g_Lwing3_tiankongzu
+	rotate: false
+	xy: 371, 0
+	size: 130, 89
+	orig: 130, 89
+	offset: 0, 0
+	index: -1
+XTKZ_e_Lfoot_tiankongzu
+	rotate: true
+	xy: 207, 347
+	size: 49, 48
+	orig: 49, 48
+	offset: 0, 0
+	index: -1
+XTKZ_g_Lwing1_tiankongzu
+	rotate: false
+	xy: 0, 0
+	size: 191, 80
+	orig: 191, 80
+	offset: 0, 0
+	index: -1
+XTKZ_g_Rwing4_1_tiankongzu
+	rotate: true
+	xy: 352, 193
+	size: 66, 124
+	orig: 66, 124
+	offset: 0, 0
+	index: -1
+XTKZ_g_Rhand_tiankongzu
+	rotate: true
+	xy: 477, 241
+	size: 40, 31
+	orig: 40, 31
+	offset: 0, 0
+	index: -1
+XTKZ_a_string2_tiankongzu
+	rotate: false
+	xy: 498, 90
+	size: 14, 17
+	orig: 14, 17
+	offset: 0, 0
+	index: -1
+XTKZ_g_Rwing3_1_tiankongzu
+	rotate: false
+	xy: 190, 227
+	size: 104, 87
+	orig: 104, 87
+	offset: 0, 0
+	index: -1
+XTKZ_a_head_tiankongzubenghuai
+	rotate: false
+	xy: 0, 400
+	size: 79, 99
+	orig: 79, 99
+	offset: 0, 0
+	index: -1
+XTKZ_a_Lforearm_tiankongzu
+	rotate: false
+	xy: 332, 339
+	size: 45, 54
+	orig: 45, 54
+	offset: 0, 0
+	index: -1
+XTKZ_g_Larmm_tiankongzu
+	rotate: true
+	xy: 477, 193
+	size: 47, 35
+	orig: 47, 35
+	offset: 0, 0
+	index: -1
+XTKZ_a_string1_tiankongzu
+	rotate: false
+	xy: 170, 81
+	size: 20, 36
+	orig: 20, 36
+	offset: 0, 0
+	index: -1
+XTKZ_g_mantle2_tiankongzu
+	rotate: true
+	xy: 169, 399
+	size: 94, 61
+	orig: 94, 61
+	offset: 0, 0
+	index: -1
+XTKZ_a_Rarm_tiankongzu
+	rotate: false
+	xy: 244, 315
+	size: 40, 24
+	orig: 40, 24
+	offset: 0, 0
+	index: -1
+XTKZ_g_Lwing2_tiankongzu
+	rotate: false
+	xy: 0, 81
+	size: 169, 125
+	orig: 169, 125
+	offset: 0, 0
+	index: -1
+XTKZ_a_Larmm_tiankongzu
+	rotate: false
+	xy: 355, 282
+	size: 37, 45
+	orig: 37, 45
+	offset: 0, 0
+	index: -1
+XTKZ_g_Rwing3_tiankongzu
+	rotate: true
+	xy: 231, 397
+	size: 87, 58
+	orig: 87, 58
+	offset: 0, 0
+	index: -1
+XTKZ_e_mantle2_tiankongzu
+	rotate: true
+	xy: 103, 348
+	size: 51, 60
+	orig: 51, 60
+	offset: 0, 0
+	index: -1

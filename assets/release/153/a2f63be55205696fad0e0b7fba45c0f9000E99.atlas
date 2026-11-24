@@ -1,0 +1,209 @@
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_yanquan14
+	rotate: true
+	xy: 327, 110
+	size: 121, 31
+	orig: 215, 53
+	offset: 52, 15
+	index: -1
+
+asset/anim/shenhaiwangbeijing0.png
+size: 996,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shenhaiwang_yudi2_00010
+	rotate: false
+	xy: 442, 969
+	size: 70, 14
+	orig: 70, 20
+	offset: 0, 2
+	index: -1
+max/shenhaiwang_yudi2_00006
+	rotate: true
+	xy: 391, 954
+	size: 70, 16
+	orig: 70, 20
+	offset: 0, 2
+	index: -1
+max/shenhaiwang_yudi2_00007
+	rotate: true
+	xy: 408, 954
+	size: 70, 16
+	orig: 70, 20
+	offset: 0, 2
+	index: -1
+max/shenhaiwang_yudi2_00008
+	rotate: true
+	xy: 425, 954
+	size: 70, 16
+	orig: 70, 20
+	offset: 0, 2
+	index: -1
+max/shenhaiwang_yudi2_00009
+	rotate: false
+	xy: 442, 954
+	size: 70, 14
+	orig: 70, 20
+	offset: 0, 2
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_yanquan24
+	rotate: true
+	xy: 540, 216
+	size: 215, 43
+	orig: 215, 53
+	offset: 0, 0
+	index: -1
+global/a_global_pangxieguai_yanquan21
+	rotate: true
+	xy: 484, 519
+	size: 213, 53
+	orig: 215, 53
+	offset: 0, 0
+	index: -1
+global/a_global_pangxieguai_yanquan23
+	rotate: true
+	xy: 538, 519
+	size: 213, 45
+	orig: 215, 53
+	offset: 0, 0
+	index: -1
+global/a_global_pangxieguai_yanquan22
+	rotate: true
+	xy: 518, 733
+	size: 213, 53
+	orig: 215, 53
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_yanquan16
+	rotate: false
+	xy: 0, 557
+	size: 183, 43
+	orig: 215, 53
+	offset: 19, 8
+	index: -1
+global/a_global_pangxieguai_yanquan17
+	rotate: false
+	xy: 400, 259
+	size: 193, 45
+	orig: 215, 53
+	offset: 13, 6
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_yanquan15
+	rotate: true
+	xy: 664, 225
+	size: 155, 37
+	orig: 215, 53
+	offset: 35, 11
+	index: -1
+
+asset/anim/shenhaiwangSEMAX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shenhaiwang_yudi2_00003
+	rotate: false
+	xy: 968, 1010
+	size: 51, 12
+	orig: 55, 16
+	offset: 2, 2
+	index: -1
+
+asset/anim/shenhaiwangSEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shenhaiwang_yudi2_00002
+	rotate: true
+	xy: 761, 448
+	size: 47, 12
+	orig: 55, 16
+	offset: 5, 3
+	index: -1
+max/shenhaiwang_yudi2_00000
+	rotate: true
+	xy: 816, 746
+	size: 33, 10
+	orig: 55, 16
+	offset: 12, 3
+	index: -1
+max/shenhaiwang_yudi2_00001
+	rotate: true
+	xy: 487, 399
+	size: 41, 10
+	orig: 55, 16
+	offset: 8, 3
+	index: -1
+max/shenhaiwang_yudi2_00011
+	rotate: false
+	xy: 986, 239
+	size: 37, 10
+	orig: 55, 16
+	offset: 9, 2
+	index: -1
+max/shenhaiwang_yudi2_00004
+	rotate: true
+	xy: 1008, 853
+	size: 55, 14
+	orig: 55, 16
+	offset: 0, 1
+	index: -1
+max/shenhaiwang_yudi2_00005
+	rotate: true
+	xy: 1008, 909
+	size: 55, 14
+	orig: 55, 16
+	offset: 0, 1
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_yanquan20
+	rotate: false
+	xy: 601, 515
+	size: 211, 51
+	orig: 215, 53
+	offset: 2, 1
+	index: -1
+global/a_global_pangxieguai_yanquan18
+	rotate: false
+	xy: 601, 567
+	size: 211, 49
+	orig: 215, 53
+	offset: 2, 3
+	index: -1
+global/a_global_pangxieguai_yanquan19
+	rotate: false
+	xy: 601, 221
+	size: 211, 51
+	orig: 215, 53
+	offset: 2, 1
+	index: -1

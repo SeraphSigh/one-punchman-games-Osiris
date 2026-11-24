@@ -1,0 +1,27 @@
+
+asset/anim/jurengeSE.png
+size: 854,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangtowei02_jurengegetx
+	rotate: false
+	xy: 689, 426
+	size: 23, 135
+	orig: 23, 135
+	offset: 0, 0
+	index: -1
+jrgg_pingziguang
+	rotate: false
+	xy: 807, 772
+	size: 44, 74
+	orig: 44, 74
+	offset: 0, 0
+	index: -1
+b_testtube_jurengetx
+	rotate: false
+	xy: 248, 910
+	size: 16, 45
+	orig: 16, 45
+	offset: 0, 0
+	index: -1

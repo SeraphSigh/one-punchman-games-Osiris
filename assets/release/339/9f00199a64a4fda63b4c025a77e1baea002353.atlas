@@ -1,0 +1,462 @@
+
+asset/anim/dajiongyan2SECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/dajiongyan2_skill_screen_effect01_00025
+	rotate: false
+	xy: 570, 570
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00024
+	rotate: true
+	xy: 570, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00023
+	rotate: false
+	xy: 285, 606
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00022
+	rotate: false
+	xy: 285, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00021
+	rotate: true
+	xy: 606, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00020
+	rotate: true
+	xy: 285, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00017
+	rotate: false
+	xy: 0, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00018
+	rotate: false
+	xy: 0, 321
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00019
+	rotate: false
+	xy: 0, 642
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/dajiongyan2_skill_screen_effect01_00028
+	rotate: false
+	xy: 0, 642
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00027
+	rotate: false
+	xy: 0, 321
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00063
+	rotate: true
+	xy: 570, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00062
+	rotate: false
+	xy: 285, 606
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00064
+	rotate: false
+	xy: 570, 570
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00045
+	rotate: true
+	xy: 606, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00044
+	rotate: true
+	xy: 285, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00046
+	rotate: false
+	xy: 285, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00026
+	rotate: false
+	xy: 0, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/dajiongyan2_skill_screen_effect01_00029
+	rotate: false
+	xy: 0, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00067
+	rotate: false
+	xy: 570, 570
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00066
+	rotate: true
+	xy: 570, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00065
+	rotate: false
+	xy: 285, 606
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00047
+	rotate: true
+	xy: 285, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00030
+	rotate: false
+	xy: 0, 321
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00031
+	rotate: false
+	xy: 0, 642
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00048
+	rotate: true
+	xy: 606, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00049
+	rotate: false
+	xy: 285, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/dajiongyan2_skill_screen_effect01_00070
+	rotate: false
+	xy: 570, 570
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00052
+	rotate: false
+	xy: 285, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00050
+	rotate: true
+	xy: 285, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00051
+	rotate: true
+	xy: 606, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00069
+	rotate: true
+	xy: 570, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00068
+	rotate: false
+	xy: 285, 606
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00032
+	rotate: false
+	xy: 0, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00033
+	rotate: false
+	xy: 0, 321
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00034
+	rotate: false
+	xy: 0, 642
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/dajiongyan2_skill_screen_effect01_00071
+	rotate: false
+	xy: 285, 606
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00072
+	rotate: true
+	xy: 570, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00073
+	rotate: false
+	xy: 570, 570
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00053
+	rotate: true
+	xy: 285, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00054
+	rotate: true
+	xy: 606, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00055
+	rotate: false
+	xy: 285, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00035
+	rotate: false
+	xy: 0, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00036
+	rotate: false
+	xy: 0, 321
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00037
+	rotate: false
+	xy: 0, 642
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/dajiongyan2_baiping
+	rotate: false
+	xy: 0, 963
+	size: 5, 5
+	orig: 5, 5
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00074
+	rotate: false
+	xy: 285, 606
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00075
+	rotate: true
+	xy: 570, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00058
+	rotate: false
+	xy: 285, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00056
+	rotate: true
+	xy: 285, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00040
+	rotate: false
+	xy: 0, 642
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00038
+	rotate: false
+	xy: 0, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00039
+	rotate: false
+	xy: 0, 321
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00057
+	rotate: true
+	xy: 606, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/dajiongyan2_skill_screen_effect01_00059
+	rotate: true
+	xy: 285, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00061
+	rotate: false
+	xy: 285, 285
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00060
+	rotate: true
+	xy: 606, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00041
+	rotate: false
+	xy: 0, 0
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00043
+	rotate: false
+	xy: 0, 642
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1
+common/dajiongyan2_skill_screen_effect01_00042
+	rotate: false
+	xy: 0, 321
+	size: 284, 320
+	orig: 284, 320
+	offset: 0, 0
+	index: -1

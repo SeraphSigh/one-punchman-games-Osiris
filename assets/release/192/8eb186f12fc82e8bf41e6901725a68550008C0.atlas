@@ -1,0 +1,129 @@
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/king2SESKILL2.png
+size: 437,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/king2_skill_qixuan_00027
+	rotate: true
+	xy: 304, 0
+	size: 279, 133
+	orig: 331, 149
+	offset: 24, 4
+	index: -1
+skill/king2_skill_qixuan_00028
+	rotate: false
+	xy: 0, 382
+	size: 305, 129
+	orig: 331, 149
+	offset: 9, 4
+	index: -1
+skill/king2_skill_qixuan_00021
+	rotate: false
+	xy: 0, 124
+	size: 301, 127
+	orig: 331, 149
+	offset: 12, 4
+	index: -1
+skill/king2_skill_qixuan_00020
+	rotate: false
+	xy: 0, 0
+	size: 303, 123
+	orig: 331, 149
+	offset: 14, 4
+	index: -1
+skill/king2_skill_qixuan_00032
+	rotate: false
+	xy: 0, 252
+	size: 299, 129
+	orig: 331, 149
+	offset: 9, 4
+	index: -1
+
+asset/anim/king2SESKILL0.png
+size: 465,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/king2_skill_lang_00026
+	rotate: false
+	xy: 0, 0
+	size: 244, 91
+	orig: 246, 105
+	offset: 2, 9
+	index: -1
+skill/king2_skill_qixuan_00026
+	rotate: true
+	xy: 326, 0
+	size: 299, 139
+	orig: 331, 149
+	offset: 15, 3
+	index: -1
+skill/king2_skill_qixuan_00030
+	rotate: false
+	xy: 0, 222
+	size: 321, 129
+	orig: 331, 149
+	offset: 2, 4
+	index: -1
+skill/king2_skill_qixuan_00031
+	rotate: false
+	xy: 0, 92
+	size: 325, 129
+	orig: 331, 149
+	offset: 2, 4
+	index: -1
+skill/king2_skill_qixuan_00024
+	rotate: false
+	xy: 0, 352
+	size: 319, 139
+	orig: 331, 149
+	offset: 5, 3
+	index: -1
+
+asset/anim/king2SESKILL1.png
+size: 455,399
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/king2_skill_qixuan_00029
+	rotate: false
+	xy: 0, 138
+	size: 313, 127
+	orig: 331, 149
+	offset: 7, 4
+	index: -1
+skill/king2_skill_qixuan_00025
+	rotate: true
+	xy: 316, 0
+	size: 293, 139
+	orig: 331, 149
+	offset: 14, 3
+	index: -1
+skill/king2_skill_qixuan_00023
+	rotate: false
+	xy: 0, 0
+	size: 315, 137
+	orig: 331, 149
+	offset: 5, 4
+	index: -1
+skill/king2_skill_qixuan_00022
+	rotate: false
+	xy: 0, 266
+	size: 309, 133
+	orig: 331, 149
+	offset: 9, 4
+	index: -1

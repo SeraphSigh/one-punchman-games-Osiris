@@ -1,0 +1,160 @@
+
+asset/anim/wugongzhanglao8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e3_foot1_wgzhanglao
+	rotate: false
+	xy: 951, 780
+	size: 47, 140
+	orig: 47, 140
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongzhanglao3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e1_foot3_wgzhanglao
+	rotate: false
+	xy: 0, 950
+	size: 32, 72
+	orig: 32, 72
+	offset: 0, 0
+	index: -1
+e2_foot3_wgzhanglao
+	rotate: false
+	xy: 351, 0
+	size: 37, 81
+	orig: 37, 81
+	offset: 0, 0
+	index: -1
+e3_foot3_wgzhanglao
+	rotate: false
+	xy: 33, 950
+	size: 31, 72
+	orig: 31, 72
+	offset: 0, 0
+	index: -1
+e1_foot1_wgzhanglao
+	rotate: false
+	xy: 541, 349
+	size: 47, 140
+	orig: 47, 140
+	offset: 0, 0
+	index: -1
+i_head_wgzhanglao
+	rotate: true
+	xy: 351, 492
+	size: 457, 355
+	orig: 457, 355
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongzhanglao2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e_body1_wgzhanglao
+	rotate: false
+	xy: 640, 0
+	size: 376, 188
+	orig: 376, 188
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongzhanglao1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e2_foot1_wgzhanglao
+	rotate: false
+	xy: 405, 507
+	size: 47, 96
+	orig: 47, 96
+	offset: 0, 0
+	index: -1
+i_Lantenna_wgzhanglao
+	rotate: true
+	xy: 704, 461
+	size: 141, 94
+	orig: 141, 94
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongzhanglao0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_beard_wgzhanglao
+	rotate: false
+	xy: 0, 0
+	size: 639, 146
+	orig: 639, 146
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongzhanglao7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e4_foot1_wgzhanglao
+	rotate: false
+	xy: 371, 885
+	size: 47, 138
+	orig: 47, 138
+	offset: 0, 0
+	index: -1
+i_Rantenna_wgzhanglao
+	rotate: false
+	xy: 466, 885
+	size: 298, 134
+	orig: 298, 134
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongzhanglao6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+i_body1_wgzhanglao
+	rotate: false
+	xy: 691, 786
+	size: 309, 238
+	orig: 309, 238
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongzhanglao5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e2_foot2_wgzhanglao
+	rotate: false
+	xy: 199, 950
+	size: 45, 59
+	orig: 45, 59
+	offset: 0, 0
+	index: -1
+e3_foot2_wgzhanglao
+	rotate: false
+	xy: 150, 950
+	size: 48, 59
+	orig: 48, 59
+	offset: 0, 0
+	index: -1
+e1_foot2_wgzhanglao
+	rotate: false
+	xy: 101, 950
+	size: 48, 59
+	orig: 48, 59
+	offset: 0, 0
+	index: -1

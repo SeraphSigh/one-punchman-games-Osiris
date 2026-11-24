@@ -1,0 +1,173 @@
+
+asset/anim/juheanSE.png
+size: 1022,1001
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+juhean_zhuanyan_008
+	rotate: false
+	xy: 909, 746
+	size: 73, 71
+	orig: 189, 95
+	offset: 11, 12
+	index: -1
+canying3_juhean
+	rotate: true
+	xy: 967, 80
+	size: 100, 55
+	orig: 102, 55
+	offset: 2, 0
+	index: -1
+juhean_zhuanyan_019
+	rotate: true
+	xy: 790, 727
+	size: 77, 69
+	orig: 189, 95
+	offset: 9, 11
+	index: -1
+juhean_zhuanyan_018
+	rotate: false
+	xy: 909, 818
+	size: 73, 71
+	orig: 189, 95
+	offset: 11, 12
+	index: -1
+juhean_zhuanyan_011
+	rotate: true
+	xy: 637, 697
+	size: 83, 81
+	orig: 189, 95
+	offset: 6, 8
+	index: -1
+juhean_zhuanyan_010
+	rotate: false
+	xy: 785, 583
+	size: 79, 75
+	orig: 189, 95
+	offset: 8, 9
+	index: -1
+juhean_zhuanyan_013
+	rotate: true
+	xy: 961, 0
+	size: 79, 61
+	orig: 189, 95
+	offset: 8, 12
+	index: -1
+juhean_zhuanyan_012
+	rotate: true
+	xy: 570, 871
+	size: 85, 69
+	orig: 189, 95
+	offset: 5, 9
+	index: -1
+juhean_zhuanyan_015
+	rotate: false
+	xy: 640, 863
+	size: 81, 71
+	orig: 189, 95
+	offset: 8, 9
+	index: -1
+juhean_zhuanyan_014
+	rotate: false
+	xy: 792, 942
+	size: 81, 59
+	orig: 189, 95
+	offset: 7, 11
+	index: -1
+juhean_zhuanyan_017
+	rotate: false
+	xy: 640, 781
+	size: 81, 81
+	orig: 189, 95
+	offset: 9, 8
+	index: -1
+juhean_zhuanyan_016
+	rotate: false
+	xy: 911, 620
+	size: 83, 83
+	orig: 189, 95
+	offset: 7, 8
+	index: -1
+canying1_juhean
+	rotate: true
+	xy: 553, 228
+	size: 100, 49
+	orig: 102, 49
+	offset: 2, 0
+	index: -1
+canying2_juhean
+	rotate: true
+	xy: 436, 620
+	size: 103, 49
+	orig: 103, 49
+	offset: 0, 0
+	index: -1
+juhean_zhuanyan_020
+	rotate: false
+	xy: 785, 659
+	size: 79, 67
+	orig: 189, 95
+	offset: 8, 9
+	index: -1
+juhean_zhuanyan_021
+	rotate: true
+	xy: 722, 755
+	size: 81, 67
+	orig: 189, 95
+	offset: 7, 8
+	index: -1
+juhean_zhuanyan_022
+	rotate: false
+	xy: 722, 915
+	size: 69, 65
+	orig: 189, 95
+	offset: 15, 7
+	index: -1
+juhean_zhuanyan_009
+	rotate: true
+	xy: 722, 837
+	size: 77, 69
+	orig: 189, 95
+	offset: 9, 11
+	index: -1
+juhean_zhuanyan_006
+	rotate: false
+	xy: 640, 935
+	size: 67, 53
+	orig: 189, 95
+	offset: 14, 16
+	index: -1
+juhean_zhuanyan_007
+	rotate: true
+	xy: 719, 683
+	size: 71, 65
+	orig: 189, 95
+	offset: 12, 14
+	index: -1
+juhean_zhuanyan_004
+	rotate: true
+	xy: 983, 746
+	size: 59, 39
+	orig: 189, 95
+	offset: 18, 18
+	index: -1
+juhean_zhuanyan_005
+	rotate: true
+	xy: 863, 801
+	size: 65, 45
+	orig: 189, 95
+	offset: 15, 17
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

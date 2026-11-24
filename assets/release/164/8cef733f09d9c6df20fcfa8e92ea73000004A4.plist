@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>longjuan2_attack_juliadd_19.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			</array>
+			<key>spriteOffset</key>
+			<string>{-10,19}</string>
+			<key>spriteSize</key>
+			<string>{152,157}</string>
+			<key>spriteSourceSize</key>
+			<string>{334,285}</string>
+			<key>textureRect</key>
+			<string>{{0,0},{152,157}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>pixelFormat</key>
+		<string>RGBA8888</string>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>longjuan2SEATTACK3.png</string>
+		<key>scale</key>
+		<real>0.89</real>
+		<key>size</key>
+		<string>{256,256}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:3e1a56f4b8cc6c56d3646b39fb6f12b6:c247ce3348cb74bd9c2322dfa48c9011:ab37929cb45198c01c2ab115c1f44bd2$</string>
+		<key>textureFileName</key>
+		<string>longjuan2SEATTACK3.png</string>
+	</dict>
+</dict>
+</plist>

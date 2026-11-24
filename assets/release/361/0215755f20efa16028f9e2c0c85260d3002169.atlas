@@ -1,0 +1,480 @@
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0001
+	rotate: true
+	xy: 639, 329
+	size: 98, 27
+	orig: 280, 73
+	offset: 89, 18
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0010
+	rotate: false
+	xy: 836, 891
+	size: 188, 63
+	orig: 280, 73
+	offset: 43, 7
+	index: -1
+global/a_global_texiao34_shenhaiwang_0009
+	rotate: false
+	xy: 840, 0
+	size: 184, 63
+	orig: 280, 73
+	offset: 46, 7
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0005
+	rotate: false
+	xy: 846, 78
+	size: 178, 59
+	orig: 280, 73
+	offset: 49, 9
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0011
+	rotate: false
+	xy: 799, 224
+	size: 190, 65
+	orig: 280, 73
+	offset: 42, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0012
+	rotate: false
+	xy: 400, 305
+	size: 192, 65
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0013
+	rotate: false
+	xy: 799, 290
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0014
+	rotate: false
+	xy: 593, 319
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 5
+	index: -1
+global/a_global_texiao34_shenhaiwang_0007
+	rotate: false
+	xy: 370, 519
+	size: 182, 61
+	orig: 280, 73
+	offset: 47, 8
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0003
+	rotate: false
+	xy: 276, 251
+	size: 156, 53
+	orig: 280, 73
+	offset: 59, 11
+	index: -1
+global/a_global_texiao34_shenhaiwang_0002
+	rotate: false
+	xy: 889, 238
+	size: 126, 47
+	orig: 280, 73
+	offset: 71, 12
+	index: -1
+
+asset/anim/hudiedxSEATTACK4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/hudiedx_atk_yan_00034
+	rotate: false
+	xy: 0, 134
+	size: 162, 131
+	orig: 214, 145
+	offset: 50, 12
+	index: -1
+attack/hudiedx_atk_yan_00032
+	rotate: false
+	xy: 0, 0
+	size: 164, 133
+	orig: 214, 145
+	offset: 43, 10
+	index: -1
+attack/hudiedx_atk_yan_00033
+	rotate: false
+	xy: 163, 134
+	size: 164, 129
+	orig: 214, 145
+	offset: 48, 13
+	index: -1
+attack/hudiedx_atk_pai22_00037
+	rotate: false
+	xy: 328, 234
+	size: 184, 114
+	orig: 186, 122
+	offset: 2, 0
+	index: -1
+attack/hudiedx_atk_pai22_00034
+	rotate: false
+	xy: 328, 0
+	size: 184, 116
+	orig: 186, 122
+	offset: 2, 0
+	index: -1
+attack/hudiedx_atk_pai22_00035
+	rotate: false
+	xy: 328, 117
+	size: 184, 116
+	orig: 186, 122
+	offset: 2, 0
+	index: -1
+attack/hudiedx_atk_pai_00019
+	rotate: false
+	xy: 167, 394
+	size: 139, 109
+	orig: 239, 179
+	offset: 0, 63
+	index: -1
+attack/hudiedx_atk_yan_00025
+	rotate: false
+	xy: 0, 394
+	size: 166, 113
+	orig: 214, 145
+	offset: 13, 7
+	index: -1
+attack/hudiedx_atk_yan_00027
+	rotate: false
+	xy: 163, 264
+	size: 162, 129
+	orig: 214, 145
+	offset: 23, 8
+	index: -1
+attack/hudiedx_atk_yan_00026
+	rotate: true
+	xy: 326, 349
+	size: 162, 127
+	orig: 214, 145
+	offset: 17, 7
+	index: -1
+attack/hudiedx_atk_yan_00028
+	rotate: false
+	xy: 165, 0
+	size: 162, 133
+	orig: 214, 145
+	offset: 23, 8
+	index: -1
+
+asset/anim/hudiedxSEATTACK0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/hudiedx_atk_yan_00037
+	rotate: true
+	xy: 450, 152
+	size: 82, 61
+	orig: 214, 145
+	offset: 84, 11
+	index: -1
+attack/hudiedx_atk_pai_00038
+	rotate: false
+	xy: 187, 386
+	size: 227, 121
+	orig: 239, 179
+	offset: 12, 8
+	index: -1
+attack/hudiedx_atk_pai22_00019
+	rotate: true
+	xy: 415, 386
+	size: 78, 88
+	orig: 186, 122
+	offset: 0, 34
+	index: -1
+attack/hudiedx_atk_yan_00022
+	rotate: true
+	xy: 450, 235
+	size: 110, 49
+	orig: 214, 145
+	offset: 21, 4
+	index: -1
+attack/hudiedx_atk_pai22_00028
+	rotate: false
+	xy: 0, 392
+	size: 186, 120
+	orig: 186, 122
+	offset: 0, 0
+	index: -1
+attack/hudiedx_atk_pai_00025
+	rotate: false
+	xy: 240, 0
+	size: 239, 151
+	orig: 239, 179
+	offset: 0, 0
+	index: -1
+attack/hudiedx_atk_pai_00024
+	rotate: true
+	xy: 0, 152
+	size: 239, 149
+	orig: 239, 179
+	offset: 0, 2
+	index: -1
+attack/hudiedx_atk_pai_00023
+	rotate: false
+	xy: 0, 0
+	size: 239, 151
+	orig: 239, 179
+	offset: 0, 2
+	index: -1
+attack/hudiedx_atk_pai_00022
+	rotate: true
+	xy: 150, 152
+	size: 233, 151
+	orig: 239, 179
+	offset: 0, 2
+	index: -1
+attack/hudiedx_atk_pai_00021
+	rotate: true
+	xy: 302, 152
+	size: 233, 147
+	orig: 239, 179
+	offset: 0, 7
+	index: -1
+
+asset/anim/hudiedxSEATTACK1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/hudiedx_atk_yan_00038
+	rotate: true
+	xy: 440, 148
+	size: 78, 59
+	orig: 214, 145
+	offset: 89, 11
+	index: -1
+attack/hudiedx_atk_pai_00030
+	rotate: true
+	xy: 148, 148
+	size: 237, 145
+	orig: 239, 179
+	offset: 2, 1
+	index: -1
+attack/hudiedx_atk_pai_00032
+	rotate: true
+	xy: 294, 148
+	size: 233, 145
+	orig: 239, 179
+	offset: 6, 1
+	index: -1
+attack/hudiedx_atk_pai22_00020
+	rotate: true
+	xy: 374, 382
+	size: 118, 116
+	orig: 186, 122
+	offset: 0, 6
+	index: -1
+attack/hudiedx_atk_pai22_00023
+	rotate: false
+	xy: 187, 386
+	size: 186, 122
+	orig: 186, 122
+	offset: 0, 0
+	index: -1
+attack/hudiedx_atk_pai22_00022
+	rotate: false
+	xy: 0, 388
+	size: 186, 122
+	orig: 186, 122
+	offset: 0, 0
+	index: -1
+attack/hudiedx_atk_pai_00028
+	rotate: true
+	xy: 0, 148
+	size: 239, 147
+	orig: 239, 179
+	offset: 0, 1
+	index: -1
+attack/hudiedx_atk_pai_00027
+	rotate: false
+	xy: 240, 0
+	size: 239, 147
+	orig: 239, 179
+	offset: 0, 2
+	index: -1
+attack/hudiedx_atk_pai_00026
+	rotate: false
+	xy: 0, 0
+	size: 239, 147
+	orig: 239, 179
+	offset: 0, 2
+	index: -1
+
+asset/anim/hudiedxSEATTACK2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/hudiedx_atk_yan_00035
+	rotate: true
+	xy: 276, 276
+	size: 104, 131
+	orig: 214, 145
+	offset: 66, 12
+	index: -1
+attack/hudiedx_atk_yan_00030
+	rotate: true
+	xy: 142, 297
+	size: 174, 133
+	orig: 214, 145
+	offset: 25, 10
+	index: -1
+attack/hudiedx_atk_yan_00031
+	rotate: false
+	xy: 234, 142
+	size: 180, 133
+	orig: 214, 145
+	offset: 27, 10
+	index: -1
+attack/hudiedx_atk_pai_00034
+	rotate: false
+	xy: 0, 0
+	size: 233, 143
+	orig: 239, 179
+	offset: 6, 1
+	index: -1
+attack/hudiedx_atk_pai_00036
+	rotate: false
+	xy: 234, 0
+	size: 231, 141
+	orig: 239, 179
+	offset: 8, 2
+	index: -1
+attack/hudiedx_atk_yan_00023
+	rotate: true
+	xy: 415, 142
+	size: 154, 83
+	orig: 214, 145
+	offset: 3, 4
+	index: -1
+attack/hudiedx_atk_yan_00029
+	rotate: false
+	xy: 0, 144
+	size: 174, 133
+	orig: 214, 145
+	offset: 25, 10
+	index: -1
+attack/hudiedx_atk_pai_00020
+	rotate: true
+	xy: 0, 297
+	size: 179, 141
+	orig: 239, 179
+	offset: 0, 22
+	index: -1
+
+asset/anim/hudiedxSEATTACK3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/hudiedx_atk_yan_00036
+	rotate: false
+	xy: 374, 374
+	size: 102, 129
+	orig: 214, 145
+	offset: 69, 12
+	index: -1
+attack/hudiedx_atk_pai22_00032
+	rotate: false
+	xy: 0, 246
+	size: 186, 118
+	orig: 186, 122
+	offset: 0, 0
+	index: -1
+attack/hudiedx_atk_pai22_00033
+	rotate: false
+	xy: 187, 246
+	size: 184, 116
+	orig: 186, 122
+	offset: 2, 0
+	index: -1
+attack/hudiedx_atk_pai22_00030
+	rotate: false
+	xy: 0, 374
+	size: 186, 118
+	orig: 186, 122
+	offset: 0, 0
+	index: -1
+attack/hudiedx_atk_pai22_00031
+	rotate: false
+	xy: 187, 374
+	size: 186, 118
+	orig: 186, 122
+	offset: 0, 0
+	index: -1
+attack/hudiedx_atk_pai22_00021
+	rotate: false
+	xy: 187, 123
+	size: 184, 122
+	orig: 186, 122
+	offset: 0, 0
+	index: -1
+attack/hudiedx_atk_pai22_00025
+	rotate: false
+	xy: 187, 0
+	size: 186, 122
+	orig: 186, 122
+	offset: 0, 0
+	index: -1
+attack/hudiedx_atk_pai22_00024
+	rotate: false
+	xy: 0, 0
+	size: 186, 122
+	orig: 186, 122
+	offset: 0, 0
+	index: -1
+attack/hudiedx_atk_pai22_00027
+	rotate: false
+	xy: 0, 123
+	size: 186, 122
+	orig: 186, 122
+	offset: 0, 0
+	index: -1
+attack/hudiedx_atk_pai22_00026
+	rotate: true
+	xy: 374, 0
+	size: 186, 122
+	orig: 186, 122
+	offset: 0, 0
+	index: -1
+attack/hudiedx_atk_pai22_00029
+	rotate: true
+	xy: 372, 187
+	size: 186, 120
+	orig: 186, 122
+	offset: 0, 0
+	index: -1

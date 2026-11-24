@@ -1,0 +1,1786 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/maikesi2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+i_zuoxiaobi_shandianmaikesi
+	rotate: true
+	xy: 103, 47
+	size: 46, 25
+	orig: 46, 25
+	offset: 0, 0
+	index: -1
+d_zuojiao_shandianmaikesi
+	rotate: false
+	xy: 197, 197
+	size: 35, 37
+	orig: 35, 37
+	offset: 0, 0
+	index: -1
+m_youjiao_bu1_shandianmaikesi
+	rotate: true
+	xy: 178, 135
+	size: 38, 35
+	orig: 38, 35
+	offset: 0, 0
+	index: -1
+i_youxiaobi_shandianmaikesi
+	rotate: false
+	xy: 140, 311
+	size: 36, 37
+	orig: 36, 37
+	offset: 0, 0
+	index: -1
+c_youjiao_shandianmaikesi
+	rotate: false
+	xy: 27, 379
+	size: 28, 48
+	orig: 28, 48
+	offset: 0, 0
+	index: -1
+h_zuoshou_shandianmaikesi
+	rotate: true
+	xy: 139, 243
+	size: 42, 27
+	orig: 42, 27
+	offset: 0, 0
+	index: -1
+b_zuoxiaobi_shandianmaikesi
+	rotate: false
+	xy: 208, 276
+	size: 25, 29
+	orig: 25, 29
+	offset: 0, 0
+	index: -1
+i_zuojiao_shandianmaikesi
+	rotate: true
+	xy: 0, 478
+	size: 34, 48
+	orig: 34, 48
+	offset: 0, 0
+	index: -1
+r1_zuoxiaotui_shandianmaikesi
+	rotate: true
+	xy: 0, 55
+	size: 54, 43
+	orig: 54, 43
+	offset: 0, 0
+	index: -1
+r3_youshou_shandianmaikesi
+	rotate: false
+	xy: 287, 0
+	size: 26, 31
+	orig: 26, 31
+	offset: 0, 0
+	index: -1
+e_youxiaobi_shandianmaikesi
+	rotate: true
+	xy: 149, 92
+	size: 42, 41
+	orig: 42, 41
+	offset: 0, 0
+	index: -1
+y_youxiaotui_shandianmaikesi
+	rotate: true
+	xy: 30, 165
+	size: 51, 38
+	orig: 51, 38
+	offset: 0, 0
+	index: -1
+r1_kua_shandianmaikesi
+	rotate: true
+	xy: 105, 107
+	size: 45, 43
+	orig: 45, 43
+	offset: 0, 0
+	index: -1
+a_youxiaotui_shandianmaikesi
+	rotate: false
+	xy: 68, 425
+	size: 31, 47
+	orig: 31, 47
+	offset: 0, 0
+	index: -1
+f_zuoshou_shandianmaikesi
+	rotate: true
+	xy: 256, 0
+	size: 33, 30
+	orig: 33, 30
+	offset: 0, 0
+	index: -1
+m_youjiao_shandianmaikesi
+	rotate: true
+	xy: 182, 349
+	size: 31, 26
+	orig: 31, 26
+	offset: 0, 0
+	index: -1
+w3_youshou_shandianmaikesi
+	rotate: false
+	xy: 151, 387
+	size: 30, 36
+	orig: 30, 36
+	offset: 0, 0
+	index: -1
+f_zuodabi_shandianmaikesi
+	rotate: false
+	xy: 0, 220
+	size: 28, 54
+	orig: 28, 54
+	offset: 0, 0
+	index: -1
+e_zuoshou_shandianmaikesi
+	rotate: false
+	xy: 137, 463
+	size: 26, 36
+	orig: 26, 36
+	offset: 0, 0
+	index: -1
+w1_youshou_shandianmaikesi
+	rotate: false
+	xy: 38, 110
+	size: 34, 51
+	orig: 34, 51
+	offset: 0, 0
+	index: -1
+f_zuojiao_shandianmaikesi
+	rotate: false
+	xy: 191, 89
+	size: 32, 38
+	orig: 32, 38
+	offset: 0, 0
+	index: -1
+a_youyanbiaoqing_shandianmaikesi
+	rotate: false
+	xy: 103, 94
+	size: 17, 12
+	orig: 17, 12
+	offset: 0, 0
+	index: -1
+e_youjiao_shandianmaikesi
+	rotate: false
+	xy: 0, 379
+	size: 26, 49
+	orig: 26, 49
+	offset: 0, 0
+	index: -1
+i_kua_shandianmaikesi
+	rotate: true
+	xy: 108, 311
+	size: 44, 31
+	orig: 44, 31
+	offset: 0, 0
+	index: -1
+n_zuoxiaotui_shandianmaikesi
+	rotate: false
+	xy: 0, 165
+	size: 29, 54
+	orig: 29, 54
+	offset: 0, 0
+	index: -1
+j_youxiaobi_shandianmaikesi
+	rotate: true
+	xy: 191, 0
+	size: 42, 35
+	orig: 42, 35
+	offset: 0, 0
+	index: -1
+h_zuojiao_shandianmaikesi
+	rotate: true
+	xy: 194, 238
+	size: 37, 36
+	orig: 37, 36
+	offset: 0, 0
+	index: -1
+w3_youjiao_shandianmaikesi
+	rotate: false
+	xy: 206, 43
+	size: 32, 38
+	orig: 32, 38
+	offset: 0, 0
+	index: -1
+f_youshou_shandianmaikesi
+	rotate: false
+	xy: 214, 128
+	size: 30, 35
+	orig: 30, 35
+	offset: 0, 0
+	index: -1
+h_youdatui_shandianmaikesi
+	rotate: false
+	xy: 35, 329
+	size: 44, 47
+	orig: 44, 47
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui_shandianmaikesi
+	rotate: false
+	xy: 48, 273
+	size: 28, 47
+	orig: 28, 47
+	offset: 0, 0
+	index: -1
+w3_zuojiao_shandianmaikesi
+	rotate: true
+	xy: 143, 153
+	size: 43, 34
+	orig: 43, 34
+	offset: 0, 0
+	index: -1
+f_youjiao_shandianmaikesi
+	rotate: false
+	xy: 95, 357
+	size: 25, 45
+	orig: 25, 45
+	offset: 0, 0
+	index: -1
+j_zuoxiaotui_shandianmaikesi
+	rotate: false
+	xy: 132, 425
+	size: 28, 37
+	orig: 28, 37
+	offset: 0, 0
+	index: -1
+r2_kua_shandianmaikesi
+	rotate: true
+	xy: 121, 199
+	size: 43, 41
+	orig: 43, 41
+	offset: 0, 0
+	index: -1
+a_youjiao_shandianmaikesi
+	rotate: false
+	xy: 148, 349
+	size: 33, 37
+	orig: 33, 37
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi_shandianmaikesi
+	rotate: false
+	xy: 83, 0
+	size: 27, 46
+	orig: 27, 46
+	offset: 0, 0
+	index: -1
+b_zuoshou_shandianmaikesi
+	rotate: false
+	xy: 206, 311
+	size: 28, 29
+	orig: 28, 29
+	offset: 0, 0
+	index: -1
+f_youxiaobi_shandianmaikesi
+	rotate: false
+	xy: 49, 477
+	size: 44, 35
+	orig: 44, 35
+	offset: 0, 0
+	index: -1
+d_zuoxiaobi_shandianmaikesi
+	rotate: true
+	xy: 39, 428
+	size: 48, 28
+	orig: 48, 28
+	offset: 0, 0
+	index: -1
+n_youjiao_shandianmaikesi
+	rotate: false
+	xy: 170, 46
+	size: 35, 42
+	orig: 35, 42
+	offset: 0, 0
+	index: -1
+i_youshou_shandianmaikesi
+	rotate: false
+	xy: 177, 311
+	size: 28, 37
+	orig: 28, 37
+	offset: 0, 0
+	index: -1
+m_zuojiao_shandianmaikesi
+	rotate: true
+	xy: 109, 255
+	size: 44, 29
+	orig: 44, 29
+	offset: 0, 0
+	index: -1
+n_youxiaobi_shandianmaikesi
+	rotate: true
+	xy: 231, 235
+	size: 27, 23
+	orig: 27, 23
+	offset: 0, 0
+	index: -1
+i_youdatui_shandianmaikesi
+	rotate: true
+	xy: 100, 425
+	size: 44, 31
+	orig: 44, 31
+	offset: 0, 0
+	index: -1
+k_zuoxiaobi_shandianmaikesi
+	rotate: true
+	xy: 45, 0
+	size: 50, 37
+	orig: 50, 37
+	offset: 0, 0
+	index: -1
+i_youjiao_shandianmaikesi
+	rotate: true
+	xy: 80, 311
+	size: 45, 27
+	orig: 45, 27
+	offset: 0, 0
+	index: -1
+r1_zuojiao_shandianmaikesi
+	rotate: false
+	xy: 94, 473
+	size: 42, 38
+	orig: 42, 38
+	offset: 0, 0
+	index: -1
+l_youjiao_shandianmaikesi
+	rotate: false
+	xy: 113, 153
+	size: 29, 45
+	orig: 29, 45
+	offset: 0, 0
+	index: -1
+a_youdabi_shandianmaikesi
+	rotate: false
+	xy: 0, 110
+	size: 37, 54
+	orig: 37, 54
+	offset: 0, 0
+	index: -1
+e_zuojiao_shandianmaikesi
+	rotate: false
+	xy: 74, 51
+	size: 28, 46
+	orig: 28, 46
+	offset: 0, 0
+	index: -1
+r3_zuoshou_shandianmaikesi
+	rotate: false
+	xy: 233, 197
+	size: 25, 26
+	orig: 25, 26
+	offset: 0, 0
+	index: -1
+w1_zuoshou_shandianmaikesi
+	rotate: false
+	xy: 121, 395
+	size: 29, 29
+	orig: 29, 29
+	offset: 0, 0
+	index: -1
+w3_youxiaobi_shandianmaikesi
+	rotate: true
+	xy: 77, 265
+	size: 45, 31
+	orig: 45, 31
+	offset: 0, 0
+	index: -1
+w3_zuoxiaotui_shandianmaikesi
+	rotate: false
+	xy: 44, 55
+	size: 29, 51
+	orig: 29, 51
+	offset: 0, 0
+	index: -1
+m_zuoshou_shandianmaikesi
+	rotate: true
+	xy: 178, 174
+	size: 22, 28
+	orig: 22, 28
+	offset: 0, 0
+	index: -1
+c_zuoshou_shandianmaikesi
+	rotate: true
+	xy: 227, 0
+	size: 38, 28
+	orig: 38, 28
+	offset: 0, 0
+	index: -1
+r1_zuoxiaobi_shandianmaikesi
+	rotate: true
+	xy: 163, 197
+	size: 40, 33
+	orig: 40, 33
+	offset: 0, 0
+	index: -1
+s_Lxiaotui_shandianmaikesi
+	rotate: false
+	xy: 0, 429
+	size: 38, 48
+	orig: 38, 48
+	offset: 0, 0
+	index: -1
+k_youshou_shandianmaikesi
+	rotate: false
+	xy: 252, 74
+	size: 28, 32
+	orig: 28, 32
+	offset: 0, 0
+	index: -1
+f_zuoxiaobi_shandianmaikesi
+	rotate: true
+	xy: 121, 356
+	size: 38, 26
+	orig: 38, 26
+	offset: 0, 0
+	index: -1
+h_youjiao_shandianmaikesi
+	rotate: false
+	xy: 245, 118
+	size: 28, 33
+	orig: 28, 33
+	offset: 0, 0
+	index: -1
+y_zuojiao2_shandianmaikesi
+	rotate: false
+	xy: 69, 162
+	size: 43, 46
+	orig: 43, 46
+	offset: 0, 0
+	index: -1
+n_youshou_shandianmaikesi
+	rotate: false
+	xy: 95, 403
+	size: 25, 21
+	orig: 25, 21
+	offset: 0, 0
+	index: -1
+c_zuoxiaotui_shandianmaikesi
+	rotate: false
+	xy: 156, 0
+	size: 34, 45
+	orig: 34, 45
+	offset: 0, 0
+	index: -1
+l_zuoxiaotui_shandianmaikesi
+	rotate: true
+	xy: 111, 0
+	size: 45, 44
+	orig: 45, 44
+	offset: 0, 0
+	index: -1
+r1_youxiaobi_shandianmaikesi
+	rotate: false
+	xy: 73, 107
+	size: 31, 46
+	orig: 31, 46
+	offset: 0, 0
+	index: -1
+g_zuoshou_shandianmaikesi
+	rotate: false
+	xy: 139, 286
+	size: 32, 24
+	orig: 32, 24
+	offset: 0, 0
+	index: -1
+c_youshou_shandianmaikesi
+	rotate: true
+	xy: 274, 34
+	size: 32, 25
+	orig: 32, 25
+	offset: 0, 0
+	index: -1
+n_youxiaotui_shandianmaikesi
+	rotate: false
+	xy: 0, 0
+	size: 44, 54
+	orig: 44, 54
+	offset: 0, 0
+	index: -1
+n_zuojiao_shandianmaikesi
+	rotate: true
+	xy: 167, 238
+	size: 40, 26
+	orig: 40, 26
+	offset: 0, 0
+	index: -1
+r1_youshou_shandianmaikesi
+	rotate: true
+	xy: 214, 164
+	size: 32, 33
+	orig: 32, 33
+	offset: 0, 0
+	index: -1
+j_youxiaotui_shandianmaikesi
+	rotate: true
+	xy: 29, 220
+	size: 52, 34
+	orig: 52, 34
+	offset: 0, 0
+	index: -1
+k_zuoshou_shandianmaikesi
+	rotate: false
+	xy: 172, 279
+	size: 35, 31
+	orig: 35, 31
+	offset: 0, 0
+	index: -1
+w3_zuoshou_shandianmaikesi
+	rotate: false
+	xy: 182, 381
+	size: 23, 23
+	orig: 23, 23
+	offset: 0, 0
+	index: -1
+k_youxiaobi_shandianmaikesi
+	rotate: false
+	xy: 90, 209
+	size: 30, 45
+	orig: 30, 45
+	offset: 0, 0
+	index: -1
+f_youxiaotui_shandianmaikesi
+	rotate: false
+	xy: 239, 39
+	size: 34, 34
+	orig: 34, 34
+	offset: 0, 0
+	index: -1
+n-kua_shandianmaikesi
+	rotate: true
+	xy: 129, 46
+	size: 45, 40
+	orig: 45, 40
+	offset: 0, 0
+	index: -1
+d_youjiao_shandianmaikesi
+	rotate: false
+	xy: 56, 377
+	size: 38, 47
+	orig: 38, 47
+	offset: 0, 0
+	index: -1
+a_youshou_shandianmaikesi
+	rotate: false
+	xy: 161, 424
+	size: 35, 35
+	orig: 35, 35
+	offset: 0, 0
+	index: -1
+w3_zuoxiaobi_shandianmaikesi
+	rotate: false
+	xy: 224, 82
+	size: 27, 35
+	orig: 27, 35
+	offset: 0, 0
+	index: -1
+e_zuoxiaobi_shandianmaikesi
+	rotate: false
+	xy: 64, 217
+	size: 25, 47
+	orig: 25, 47
+	offset: 0, 0
+	index: -1
+r1_youjiao_shandianmaikesi
+	rotate: true
+	xy: 0, 329
+	size: 49, 34
+	orig: 49, 34
+	offset: 0, 0
+	index: -1
+d_zuoshou_shandianmaikesi
+	rotate: false
+	xy: 164, 460
+	size: 34, 35
+	orig: 34, 35
+	offset: 0, 0
+	index: -1
+k_youdabi_shandianmaikesi
+	rotate: true
+	xy: 0, 275
+	size: 53, 47
+	orig: 53, 47
+	offset: 0, 0
+	index: -1
+
+asset/anim/maikesi0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fanzhuangbiaoqing4_shandianmaikesi
+	rotate: false
+	xy: 349, 270
+	size: 54, 62
+	orig: 54, 62
+	offset: 0, 0
+	index: -1
+w3_kua_shandianmaikesi
+	rotate: true
+	xy: 306, 427
+	size: 58, 42
+	orig: 58, 42
+	offset: 0, 0
+	index: -1
+r1_youxiaotui_shandianmaikesi
+	rotate: true
+	xy: 417, 474
+	size: 38, 53
+	orig: 38, 53
+	offset: 0, 0
+	index: -1
+l_kua_shandianmaikesi
+	rotate: false
+	xy: 400, 433
+	size: 51, 40
+	orig: 51, 40
+	offset: 0, 0
+	index: -1
+a_shenti_baozou_shandianmaikesi
+	rotate: true
+	xy: 100, 119
+	size: 76, 96
+	orig: 76, 96
+	offset: 0, 0
+	index: -1
+n_zuodatui_shandianmaikesi
+	rotate: false
+	xy: 259, 386
+	size: 40, 62
+	orig: 40, 62
+	offset: 0, 0
+	index: -1
+h_tou1biaoqing_shandianmaikesi
+	rotate: false
+	xy: 178, 0
+	size: 75, 118
+	orig: 75, 118
+	offset: 0, 0
+	index: -1
+h_zuodabi_shandianmaikesi
+	rotate: true
+	xy: 402, 219
+	size: 40, 67
+	orig: 40, 67
+	offset: 0, 0
+	index: -1
+d_shenti_shandianmaikesi
+	rotate: true
+	xy: 170, 369
+	size: 79, 88
+	orig: 79, 88
+	offset: 0, 0
+	index: -1
+i_shenti_shandianmaikesi
+	rotate: false
+	xy: 100, 0
+	size: 77, 118
+	orig: 77, 118
+	offset: 0, 0
+	index: -1
+c_shenti_shandianmaikesi
+	rotate: false
+	xy: 0, 401
+	size: 77, 97
+	orig: 77, 97
+	offset: 0, 0
+	index: -1
+r1_zuodatui_shandianmaikesi
+	rotate: true
+	xy: 404, 316
+	size: 54, 59
+	orig: 54, 59
+	offset: 0, 0
+	index: -1
+r3_shenti_shandianmaikesi
+	rotate: true
+	xy: 197, 119
+	size: 83, 95
+	orig: 83, 95
+	offset: 0, 0
+	index: -1
+w1_shenti_shandianmaikesi
+	rotate: false
+	xy: 0, 148
+	size: 81, 133
+	orig: 81, 133
+	offset: 0, 0
+	index: -1
+gedangcanying_shandianmaikesi
+	rotate: false
+	xy: 0, 0
+	size: 99, 147
+	orig: 99, 147
+	offset: 0, 0
+	index: -1
+lianbushandianzhedang_shandianmaikesi
+	rotate: true
+	xy: 30, 499
+	size: 13, 27
+	orig: 13, 27
+	offset: 0, 0
+	index: -1
+r1_shenti_shandianmaikesi
+	rotate: true
+	xy: 177, 203
+	size: 83, 92
+	orig: 83, 92
+	offset: 0, 0
+	index: -1
+a_youyanzhubiaoqing_shandianmaikesi
+	rotate: false
+	xy: 177, 196
+	size: 6, 6
+	orig: 6, 6
+	offset: 0, 0
+	index: -1
+m_zuodatui_shandianmaikesi
+	rotate: true
+	xy: 338, 159
+	size: 45, 64
+	orig: 45, 64
+	offset: 0, 0
+	index: -1
+k_zuodabi_shandianmaikesi
+	rotate: true
+	xy: 300, 368
+	size: 58, 44
+	orig: 58, 44
+	offset: 0, 0
+	index: -1
+fanzhuangbiaoqing5_shandianmaikesi
+	rotate: false
+	xy: 78, 451
+	size: 54, 61
+	orig: 54, 61
+	offset: 0, 0
+	index: -1
+n_youdabi_shandianmaikesi
+	rotate: true
+	xy: 170, 449
+	size: 63, 48
+	orig: 63, 48
+	offset: 0, 0
+	index: -1
+f_shenti2_shandianmaikesi
+	rotate: false
+	xy: 78, 373
+	size: 91, 77
+	orig: 91, 77
+	offset: 0, 0
+	index: -1
+k_shenti_shandianmaikesi
+	rotate: true
+	xy: 406, 74
+	size: 67, 106
+	orig: 67, 106
+	offset: 0, 0
+	index: -1
+w1_zuodabi_shandianmaikesi
+	rotate: false
+	xy: 219, 449
+	size: 47, 63
+	orig: 47, 63
+	offset: 0, 0
+	index: -1
+a_zuomeibiaoqing_shandianmaikesi
+	rotate: false
+	xy: 82, 185
+	size: 14, 10
+	orig: 14, 10
+	offset: 0, 0
+	index: -1
+h_tou2biaoqing_shandianmaikesi
+	rotate: false
+	xy: 254, 0
+	size: 75, 118
+	orig: 75, 118
+	offset: 0, 0
+	index: -1
+h_zuodatui_shandianmaikesi
+	rotate: false
+	xy: 345, 371
+	size: 54, 50
+	orig: 54, 50
+	offset: 0, 0
+	index: -1
+y_bu2_shandianmaikesi
+	rotate: false
+	xy: 499, 434
+	size: 13, 24
+	orig: 13, 24
+	offset: 0, 0
+	index: -1
+i_tou_shandianmaikesi
+	rotate: true
+	xy: 82, 196
+	size: 85, 94
+	orig: 85, 94
+	offset: 0, 0
+	index: -1
+f_youdabi2_shandianmaikesi
+	rotate: false
+	xy: 349, 333
+	size: 54, 37
+	orig: 54, 37
+	offset: 0, 0
+	index: -1
+r1_youdabi_shandianmaikesi
+	rotate: false
+	xy: 406, 142
+	size: 71, 43
+	orig: 71, 43
+	offset: 0, 0
+	index: -1
+w3_zuodabi_shandianmaikesi
+	rotate: false
+	xy: 478, 142
+	size: 34, 64
+	orig: 34, 64
+	offset: 0, 0
+	index: -1
+w3_zuodatui_shandianmaikesi
+	rotate: true
+	xy: 338, 117
+	size: 41, 67
+	orig: 41, 67
+	offset: 0, 0
+	index: -1
+i_zuoxiaotui_shandianmaikesi
+	rotate: false
+	xy: 349, 422
+	size: 50, 51
+	orig: 50, 51
+	offset: 0, 0
+	index: -1
+d_youdatui_shandianmaikesi
+	rotate: false
+	xy: 293, 119
+	size: 44, 85
+	orig: 44, 85
+	offset: 0, 0
+	index: -1
+h_tou_shandianmaikesi
+	rotate: false
+	xy: 330, 0
+	size: 75, 116
+	orig: 75, 116
+	offset: 0, 0
+	index: -1
+lianbushandian_shandianmaikesi
+	rotate: true
+	xy: 0, 499
+	size: 13, 29
+	orig: 13, 29
+	offset: 0, 0
+	index: -1
+w3_shenti_shandianmaikesi
+	rotate: true
+	xy: 406, 0
+	size: 73, 106
+	orig: 73, 106
+	offset: 0, 0
+	index: -1
+a_zuoyanbiaoqing_shandianmaikesi
+	rotate: false
+	xy: 58, 499
+	size: 12, 9
+	orig: 12, 9
+	offset: 0, 0
+	index: -1
+r3_kua_shandianmaikesi
+	rotate: false
+	xy: 452, 434
+	size: 46, 39
+	orig: 46, 39
+	offset: 0, 0
+	index: -1
+e_shenti_shandianmaikesi
+	rotate: false
+	xy: 270, 205
+	size: 73, 84
+	orig: 73, 84
+	offset: 0, 0
+	index: -1
+n_youdatui_shandianmaikesi
+	rotate: false
+	xy: 400, 371
+	size: 63, 33
+	orig: 63, 33
+	offset: 0, 0
+	index: -1
+g_zuodabi_shandianmaikesi
+	rotate: true
+	xy: 464, 386
+	size: 47, 48
+	orig: 47, 48
+	offset: 0, 0
+	index: -1
+j_lian_shandianmaikesi
+	rotate: false
+	xy: 82, 148
+	size: 17, 23
+	orig: 17, 23
+	offset: 0, 0
+	index: -1
+w1_zuoxiaobi_shandianmaikesi
+	rotate: false
+	xy: 471, 474
+	size: 36, 38
+	orig: 36, 38
+	offset: 0, 0
+	index: -1
+h_zuoxiaobi_shandianmaikesi
+	rotate: false
+	xy: 306, 486
+	size: 52, 26
+	orig: 52, 26
+	offset: 0, 0
+	index: -1
+w1_youdabi_shandianmaikesi
+	rotate: false
+	xy: 474, 207
+	size: 38, 69
+	orig: 38, 69
+	offset: 0, 0
+	index: -1
+r3_zuodabi_shandianmaikesi
+	rotate: true
+	xy: 267, 449
+	size: 63, 38
+	orig: 63, 38
+	offset: 0, 0
+	index: -1
+a_zuodabi_shandianmaikesi
+	rotate: false
+	xy: 464, 334
+	size: 48, 51
+	orig: 48, 51
+	offset: 0, 0
+	index: -1
+m_zuoxiaotui_shandianmaikesi
+	rotate: false
+	xy: 133, 451
+	size: 28, 61
+	orig: 28, 61
+	offset: 0, 0
+	index: -1
+b_zuodabi_shandianmaikesi
+	rotate: false
+	xy: 465, 277
+	size: 47, 56
+	orig: 47, 56
+	offset: 0, 0
+	index: -1
+xiongbushandianbai2zhedang_shandianmaikesi
+	rotate: true
+	xy: 82, 172
+	size: 12, 17
+	orig: 12, 17
+	offset: 0, 0
+	index: -1
+e_zuodabi_shandianmaikesi
+	rotate: true
+	xy: 403, 186
+	size: 32, 70
+	orig: 32, 70
+	offset: 0, 0
+	index: -1
+h_shenti_shandianmaikesi
+	rotate: true
+	xy: 260, 290
+	size: 77, 88
+	orig: 77, 88
+	offset: 0, 0
+	index: -1
+i_youdabi_shandianmaikesi
+	rotate: false
+	xy: 359, 474
+	size: 57, 38
+	orig: 57, 38
+	offset: 0, 0
+	index: -1
+w1_zui_shandianmaikesi
+	rotate: true
+	xy: 162, 451
+	size: 13, 7
+	orig: 13, 7
+	offset: 0, 0
+	index: -1
+a_baozoubiaoqing_shandianmaikesi
+	rotate: false
+	xy: 0, 282
+	size: 76, 118
+	orig: 76, 118
+	offset: 0, 0
+	index: -1
+f_zuodatui_shandianmaikesi
+	rotate: true
+	xy: 344, 205
+	size: 64, 57
+	orig: 64, 57
+	offset: 0, 0
+	index: -1
+r2_shenti_shandianmaikesi
+	rotate: false
+	xy: 77, 282
+	size: 92, 90
+	orig: 92, 90
+	offset: 0, 0
+	index: -1
+n_shenti_shandianmaikesi
+	rotate: true
+	xy: 170, 287
+	size: 81, 89
+	orig: 81, 89
+	offset: 0, 0
+	index: -1
+l_youdabi_shandianmaikesi
+	rotate: false
+	xy: 404, 260
+	size: 60, 55
+	orig: 60, 55
+	offset: 0, 0
+	index: -1
+w1_youxiaobi_shandianmaikesi
+	rotate: true
+	xy: 400, 405
+	size: 27, 58
+	orig: 27, 58
+	offset: 0, 0
+	index: -1
+
+asset/anim/maikesi1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e_zuoxiaotui_shandianmaikesi
+	rotate: true
+	xy: 231, 169
+	size: 45, 58
+	orig: 45, 58
+	offset: 0, 0
+	index: -1
+j_shenti_shandianmaikesi
+	rotate: false
+	xy: 219, 0
+	size: 64, 102
+	orig: 64, 102
+	offset: 0, 0
+	index: -1
+a_beijibiaoqing_shandianmaikesi
+	rotate: false
+	xy: 0, 0
+	size: 76, 114
+	orig: 76, 114
+	offset: 0, 0
+	index: -1
+s_Lxiaobi_shandianmaikesi
+	rotate: true
+	xy: 394, 238
+	size: 56, 37
+	orig: 56, 37
+	offset: 0, 0
+	index: -1
+h_youshou_shandianmaikesi
+	rotate: false
+	xy: 433, 186
+	size: 32, 41
+	orig: 32, 41
+	offset: 0, 0
+	index: -1
+c_youxiaotui_shandianmaikesi
+	rotate: false
+	xy: 212, 418
+	size: 26, 59
+	orig: 26, 59
+	offset: 0, 0
+	index: -1
+m_tou_shandianmaikesi
+	rotate: false
+	xy: 376, 0
+	size: 89, 77
+	orig: 89, 77
+	offset: 0, 0
+	index: -1
+a_zuojiao_shandianmaikesi
+	rotate: true
+	xy: 433, 143
+	size: 42, 32
+	orig: 42, 32
+	offset: 0, 0
+	index: -1
+m_zuoxiaobi_shandianmaikesi
+	rotate: false
+	xy: 477, 444
+	size: 23, 48
+	orig: 23, 48
+	offset: 0, 0
+	index: -1
+m_shenti_shandianmaikesi
+	rotate: false
+	xy: 284, 0
+	size: 91, 75
+	orig: 91, 75
+	offset: 0, 0
+	index: -1
+e_youxiaotui_shandianmaikesi
+	rotate: false
+	xy: 433, 78
+	size: 32, 64
+	orig: 32, 64
+	offset: 0, 0
+	index: -1
+a_zuodatui_shandianmaikesi
+	rotate: false
+	xy: 323, 349
+	size: 51, 51
+	orig: 51, 51
+	offset: 0, 0
+	index: -1
+a_kua_shandianmaikesi
+	rotate: false
+	xy: 66, 418
+	size: 52, 39
+	orig: 52, 39
+	offset: 0, 0
+	index: -1
+a_youxiaobi_shandianmaikesi
+	rotate: true
+	xy: 190, 191
+	size: 49, 40
+	orig: 49, 40
+	offset: 0, 0
+	index: -1
+h_kua_shandianmaikesi
+	rotate: true
+	xy: 406, 454
+	size: 51, 42
+	orig: 51, 42
+	offset: 0, 0
+	index: -1
+c_zuodatui_shandianmaikesi
+	rotate: false
+	xy: 342, 250
+	size: 51, 52
+	orig: 51, 52
+	offset: 0, 0
+	index: -1
+r3_youdabi_shandianmaikesi
+	rotate: false
+	xy: 66, 358
+	size: 52, 59
+	orig: 52, 59
+	offset: 0, 0
+	index: -1
+d_zuodabi_shandianmaikesi
+	rotate: false
+	xy: 466, 115
+	size: 46, 53
+	orig: 46, 53
+	offset: 0, 0
+	index: -1
+a_zuoshou_shandianmaikesi
+	rotate: false
+	xy: 106, 480
+	size: 29, 32
+	orig: 29, 32
+	offset: 0, 0
+	index: -1
+e_kua_shandianmaikesi
+	rotate: false
+	xy: 239, 469
+	size: 53, 43
+	orig: 53, 43
+	offset: 0, 0
+	index: -1
+m_youxiaotui_shandianmaikesi
+	rotate: true
+	xy: 283, 410
+	size: 58, 42
+	orig: 58, 42
+	offset: 0, 0
+	index: -1
+yy_zuoxiaotui_shandianmaikesi
+	rotate: false
+	xy: 119, 358
+	size: 42, 63
+	orig: 42, 63
+	offset: 0, 0
+	index: -1
+j_youdatui_shandianmaikesi
+	rotate: true
+	xy: 347, 142
+	size: 65, 43
+	orig: 65, 43
+	offset: 0, 0
+	index: -1
+r3_zuoxiaobi_shandianmaikesi
+	rotate: true
+	xy: 455, 266
+	size: 27, 48
+	orig: 27, 48
+	offset: 0, 0
+	index: -1
+m_kua_shandianmaikesi
+	rotate: false
+	xy: 396, 295
+	size: 42, 56
+	orig: 42, 56
+	offset: 0, 0
+	index: -1
+a_tou_shandianmaikesi
+	rotate: false
+	xy: 0, 115
+	size: 76, 114
+	orig: 76, 114
+	offset: 0, 0
+	index: -1
+h_youdabi_shandianmaikesi
+	rotate: false
+	xy: 466, 0
+	size: 46, 59
+	orig: 46, 59
+	offset: 0, 0
+	index: -1
+j_youshou_shandianmaikesi
+	rotate: false
+	xy: 439, 323
+	size: 39, 21
+	orig: 39, 21
+	offset: 0, 0
+	index: -1
+a_shenti_shandianmaikesi
+	rotate: true
+	xy: 77, 119
+	size: 72, 112
+	orig: 72, 112
+	offset: 0, 0
+	index: -1
+w3_youdabi_shandianmaikesi
+	rotate: true
+	xy: 231, 215
+	size: 51, 58
+	orig: 51, 58
+	offset: 0, 0
+	index: -1
+m_zuodabi_shandianmaikesi
+	rotate: false
+	xy: 283, 350
+	size: 39, 59
+	orig: 39, 59
+	offset: 0, 0
+	index: -1
+fanzhuangbiaoqing3_shandianmaikesi
+	rotate: false
+	xy: 71, 297
+	size: 55, 60
+	orig: 55, 60
+	offset: 0, 0
+	index: -1
+h_zuoxiaotui_shandianmaikesi
+	rotate: true
+	xy: 466, 169
+	size: 51, 46
+	orig: 51, 46
+	offset: 0, 0
+	index: -1
+l_youxiaobi_shandianmaikesi
+	rotate: false
+	xy: 439, 294
+	size: 39, 28
+	orig: 39, 28
+	offset: 0, 0
+	index: -1
+j_youjiao_shandianmaikesi
+	rotate: true
+	xy: 326, 401
+	size: 56, 42
+	orig: 56, 42
+	offset: 0, 0
+	index: -1
+h_youxiaotui_shandianmaikesi
+	rotate: false
+	xy: 378, 458
+	size: 27, 53
+	orig: 27, 53
+	offset: 0, 0
+	index: -1
+r1_youdatui_shandianmaikesi
+	rotate: false
+	xy: 290, 141
+	size: 56, 58
+	orig: 56, 58
+	offset: 0, 0
+	index: -1
+a_youdatui_shandianmaikesi
+	rotate: true
+	xy: 290, 200
+	size: 44, 56
+	orig: 44, 56
+	offset: 0, 0
+	index: -1
+c_zuoxiaobi_shandianmaikesi
+	rotate: true
+	xy: 428, 352
+	size: 44, 42
+	orig: 44, 42
+	offset: 0, 0
+	index: -1
+k_kua_shandianmaikesi
+	rotate: false
+	xy: 291, 299
+	size: 50, 45
+	orig: 50, 45
+	offset: 0, 0
+	index: -1
+d_tou_shandianmaikesi
+	rotate: false
+	xy: 148, 0
+	size: 70, 118
+	orig: 70, 118
+	offset: 0, 0
+	index: -1
+e_zuodatui_shandianmaikesi
+	rotate: false
+	xy: 197, 290
+	size: 34, 63
+	orig: 34, 63
+	offset: 0, 0
+	index: -1
+c_zuojiao_shandianmaikesi
+	rotate: false
+	xy: 468, 397
+	size: 26, 46
+	orig: 26, 46
+	offset: 0, 0
+	index: -1
+lianbushandianfan2_shandianmaikesi
+	rotate: true
+	xy: 449, 496
+	size: 11, 22
+	orig: 11, 22
+	offset: 0, 0
+	index: -1
+d_zuodatui_shandianmaikesi
+	rotate: false
+	xy: 119, 422
+	size: 53, 57
+	orig: 53, 57
+	offset: 0, 0
+	index: -1
+f_zuoxiaotui_shandianmaikesi
+	rotate: false
+	xy: 375, 352
+	size: 52, 45
+	orig: 52, 45
+	offset: 0, 0
+	index: -1
+d_kua_shandianmaikesi
+	rotate: true
+	xy: 466, 221
+	size: 44, 46
+	orig: 44, 46
+	offset: 0, 0
+	index: -1
+w3_youdatui_shandianmaikesi
+	rotate: false
+	xy: 161, 291
+	size: 35, 64
+	orig: 35, 64
+	offset: 0, 0
+	index: -1
+c_youdatui_shandianmaikesi
+	rotate: false
+	xy: 127, 293
+	size: 33, 64
+	orig: 33, 64
+	offset: 0, 0
+	index: -1
+a_youdatui_baozou_shandianmaikesi
+	rotate: true
+	xy: 0, 458
+	size: 54, 55
+	orig: 54, 55
+	offset: 0, 0
+	index: -1
+i_zuodatui_shandianmaikesi
+	rotate: false
+	xy: 238, 350
+	size: 44, 59
+	orig: 44, 59
+	offset: 0, 0
+	index: -1
+j_youdabi_shandianmaikesi
+	rotate: true
+	xy: 232, 319
+	size: 30, 58
+	orig: 30, 58
+	offset: 0, 0
+	index: -1
+l_zuodatui_shandianmaikesi
+	rotate: true
+	xy: 201, 354
+	size: 63, 36
+	orig: 63, 36
+	offset: 0, 0
+	index: -1
+r2_youdabi_shandianmaikesi
+	rotate: false
+	xy: 190, 119
+	size: 40, 71
+	orig: 40, 71
+	offset: 0, 0
+	index: -1
+d_benghuaibiaoqing_shandianmaikesi
+	rotate: false
+	xy: 77, 0
+	size: 70, 118
+	orig: 70, 118
+	offset: 0, 0
+	index: -1
+j_zuojiao_shandianmaikesi
+	rotate: false
+	xy: 398, 398
+	size: 37, 55
+	orig: 37, 55
+	offset: 0, 0
+	index: -1
+c_kua_shandianmaikesi
+	rotate: false
+	xy: 342, 303
+	size: 53, 45
+	orig: 53, 45
+	offset: 0, 0
+	index: -1
+r1_zuodabi_shandianmaikesi
+	rotate: false
+	xy: 239, 410
+	size: 43, 58
+	orig: 43, 58
+	offset: 0, 0
+	index: -1
+m_youdabi_shandianmaikesi
+	rotate: true
+	xy: 231, 103
+	size: 65, 58
+	orig: 65, 58
+	offset: 0, 0
+	index: -1
+d_youxiaotui_shandianmaikesi
+	rotate: false
+	xy: 347, 76
+	size: 28, 65
+	orig: 28, 65
+	offset: 0, 0
+	index: -1
+e_youshou_shandianmaikesi
+	rotate: false
+	xy: 391, 210
+	size: 41, 27
+	orig: 41, 27
+	offset: 0, 0
+	index: -1
+d_siwangbiaoqing_shandianmaikesi
+	rotate: false
+	xy: 0, 230
+	size: 70, 118
+	orig: 70, 118
+	offset: 0, 0
+	index: -1
+r3_youxiaobi_shandianmaikesi
+	rotate: true
+	xy: 436, 397
+	size: 47, 31
+	orig: 47, 31
+	offset: 0, 0
+	index: -1
+g_zuoxiaobi_shandianmaikesi
+	rotate: false
+	xy: 156, 192
+	size: 30, 23
+	orig: 30, 23
+	offset: 0, 0
+	index: -1
+a_zuoyanpibiaoqing_shandianmaikesi
+	rotate: false
+	xy: 479, 334
+	size: 23, 18
+	orig: 23, 18
+	offset: 0, 0
+	index: -1
+l_youshou_shandianmaikesi
+	rotate: false
+	xy: 432, 265
+	size: 22, 25
+	orig: 22, 25
+	offset: 0, 0
+	index: -1
+e_youdabi_shandianmaikesi
+	rotate: true
+	xy: 151, 226
+	size: 64, 37
+	orig: 64, 37
+	offset: 0, 0
+	index: -1
+i_youxiaotui_shandianmaikesi
+	rotate: true
+	xy: 136, 483
+	size: 29, 55
+	orig: 29, 55
+	offset: 0, 0
+	index: -1
+e_lian_shandianmaikesi
+	rotate: false
+	xy: 347, 208
+	size: 43, 41
+	orig: 43, 41
+	offset: 0, 0
+	index: -1
+c_zuodabi_shandianmaikesi
+	rotate: false
+	xy: 71, 230
+	size: 39, 66
+	orig: 39, 66
+	offset: 0, 0
+	index: -1
+f_youdatui_shandianmaikesi
+	rotate: false
+	xy: 111, 226
+	size: 39, 66
+	orig: 39, 66
+	offset: 0, 0
+	index: -1
+y_bu1_shandianmaikesi
+	rotate: true
+	xy: 479, 294
+	size: 39, 18
+	orig: 39, 18
+	offset: 0, 0
+	index: -1
+xiongbushandianbai2_shandianmaikesi
+	rotate: true
+	xy: 493, 353
+	size: 10, 19
+	orig: 10, 19
+	offset: 0, 0
+	index: -1
+i_zuodabi_shandianmaikesi
+	rotate: false
+	xy: 290, 245
+	size: 51, 53
+	orig: 51, 53
+	offset: 0, 0
+	index: -1
+f_kua_shandianmaikesi
+	rotate: true
+	xy: 56, 458
+	size: 54, 49
+	orig: 54, 49
+	offset: 0, 0
+	index: -1
+j_shenti_bu1_shandianmaikesi
+	rotate: false
+	xy: 0, 349
+	size: 65, 108
+	orig: 65, 108
+	offset: 0, 0
+	index: -1
+r1_zuoshou_shandianmaikesi
+	rotate: false
+	xy: 192, 483
+	size: 29, 29
+	orig: 29, 29
+	offset: 0, 0
+	index: -1
+c_youxiaobi_shandianmaikesi
+	rotate: false
+	xy: 433, 228
+	size: 32, 36
+	orig: 32, 36
+	offset: 0, 0
+	index: -1
+d_zuoxiaotui_shandianmaikesi
+	rotate: false
+	xy: 173, 420
+	size: 38, 62
+	orig: 38, 62
+	offset: 0, 0
+	index: -1
+w3_youxiaotui_shandianmaikesi
+	rotate: false
+	xy: 369, 401
+	size: 28, 56
+	orig: 28, 56
+	offset: 0, 0
+	index: -1
+y_youdatui_shandianmaikesi
+	rotate: true
+	xy: 391, 139
+	size: 70, 41
+	orig: 70, 41
+	offset: 0, 0
+	index: -1
+a_youxiaotui_baozou_shandianmaikesi
+	rotate: false
+	xy: 293, 469
+	size: 39, 43
+	orig: 39, 43
+	offset: 0, 0
+	index: -1
+e_youdatui_shandianmaikesi
+	rotate: true
+	xy: 77, 192
+	size: 33, 78
+	orig: 33, 78
+	offset: 0, 0
+	index: -1
+c_youdabi_shandianmaikesi
+	rotate: true
+	xy: 162, 356
+	size: 63, 38
+	orig: 63, 38
+	offset: 0, 0
+	index: -1
+fanzhuangbiaoqing2_shandianmaikesi
+	rotate: false
+	xy: 290, 76
+	size: 56, 64
+	orig: 56, 64
+	offset: 0, 0
+	index: -1
+a_youmeibiaoqing_shandianmaikesi
+	rotate: false
+	xy: 471, 353
+	size: 21, 18
+	orig: 21, 18
+	offset: 0, 0
+	index: -1
+j_zuodatui_shandianmaikesi
+	rotate: true
+	xy: 466, 60
+	size: 54, 46
+	orig: 54, 46
+	offset: 0, 0
+	index: -1
+fanzhuangbiaoqing1_shandianmaikesi
+	rotate: false
+	xy: 376, 78
+	size: 56, 60
+	orig: 56, 60
+	offset: 0, 0
+	index: -1
+y_zuojiao_shandianmaikesi
+	rotate: true
+	xy: 189, 241
+	size: 48, 40
+	orig: 48, 40
+	offset: 0, 0
+	index: -1
+a_zuoyanzhubiaoqing_shandianmaikesi
+	rotate: false
+	xy: 284, 76
+	size: 5, 7
+	orig: 5, 7
+	offset: 0, 0
+	index: -1
+a_youyanpibiaoqing_shandianmaikesi
+	rotate: true
+	xy: 106, 458
+	size: 14, 12
+	orig: 14, 12
+	offset: 0, 0
+	index: -1
+j_kua_shandianmaikesi
+	rotate: true
+	xy: 333, 458
+	size: 52, 44
+	orig: 52, 44
+	offset: 0, 0
+	index: -1
+m_youdatui_shandianmaikesi
+	rotate: false
+	xy: 232, 267
+	size: 57, 51
+	orig: 57, 51
+	offset: 0, 0
+	index: -1
+h_youxiaobi_shandianmaikesi
+	rotate: false
+	xy: 449, 445
+	size: 27, 50
+	orig: 27, 50
+	offset: 0, 0
+	index: -1
+a_touzuibiaoqing_shandianmaikesi
+	rotate: false
+	xy: 156, 216
+	size: 12, 9
+	orig: 12, 9
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

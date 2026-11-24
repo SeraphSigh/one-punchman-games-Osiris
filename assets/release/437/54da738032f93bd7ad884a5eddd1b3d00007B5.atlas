@@ -1,0 +1,110 @@
+
+asset/anim/changsheerSE.png
+size: 1013,650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+changsheer_muzzle_smoke_sheet_000
+	rotate: true
+	xy: 839, 136
+	size: 81, 46
+	orig: 151, 114
+	offset: 31, 33
+	index: -1
+changsheer_muzzle_smoke_sheet_001
+	rotate: true
+	xy: 762, 543
+	size: 89, 54
+	orig: 151, 114
+	offset: 35, 31
+	index: -1
+changsheer_muzzle_smoke_sheet_002
+	rotate: true
+	xy: 705, 543
+	size: 93, 56
+	orig: 151, 114
+	offset: 36, 31
+	index: -1
+changsheer_muzzle_smoke_sheet_003
+	rotate: false
+	xy: 665, 166
+	size: 87, 58
+	orig: 151, 114
+	offset: 42, 30
+	index: -1
+changsheer_muzzle_smoke_sheet_004
+	rotate: false
+	xy: 753, 166
+	size: 85, 58
+	orig: 151, 114
+	offset: 46, 30
+	index: -1
+changsheer_muzzle_smoke_sheet_005
+	rotate: true
+	xy: 819, 294
+	size: 85, 58
+	orig: 151, 114
+	offset: 47, 30
+	index: -1
+changsheer_muzzle_smoke_sheet_006
+	rotate: true
+	xy: 817, 380
+	size: 83, 58
+	orig: 151, 114
+	offset: 48, 30
+	index: -1
+changsheer_muzzle_smoke_sheet_007
+	rotate: false
+	xy: 930, 456
+	size: 81, 58
+	orig: 151, 114
+	offset: 52, 31
+	index: -1
+changsheer_muzzle_smoke_sheet_008
+	rotate: true
+	xy: 887, 456
+	size: 69, 40
+	orig: 151, 114
+	offset: 63, 31
+	index: -1
+changsheer_muzzle_smoke_sheet_009
+	rotate: false
+	xy: 819, 255
+	size: 63, 38
+	orig: 151, 114
+	offset: 68, 33
+	index: -1
+changsheer_wuxianhaidaitx_54
+	rotate: true
+	xy: 127, 472
+	size: 177, 40
+	orig: 177, 40
+	offset: 0, 0
+	index: -1
+changsheer_muzzle_smoke_sheet_011
+	rotate: false
+	xy: 819, 225
+	size: 19, 16
+	orig: 151, 114
+	offset: 111, 54
+	index: -1
+changsheer_muzzle_smoke_sheet_010
+	rotate: true
+	xy: 780, 365
+	size: 55, 36
+	orig: 151, 114
+	offset: 75, 35
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

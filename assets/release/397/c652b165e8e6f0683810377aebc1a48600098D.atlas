@@ -1,0 +1,149 @@
+
+asset/anim/wugongxuezhangSE3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wgzlrc_suduxian_8
+	rotate: false
+	xy: 269, 776
+	size: 18, 128
+	orig: 42, 128
+	offset: 0, 0
+	index: -1
+wgzlrc_suduxian_6
+	rotate: false
+	xy: 227, 509
+	size: 28, 128
+	orig: 42, 128
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhangSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wgzlrc_suduxian_4
+	rotate: true
+	xy: 0, 992
+	size: 32, 128
+	orig: 42, 128
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhangSE6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wgzlrc_suduxian_5
+	rotate: false
+	xy: 618, 561
+	size: 22, 128
+	orig: 42, 128
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhangSE5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wgxzrc_jingtoudusuxian_2
+	rotate: false
+	xy: 225, 0
+	size: 224, 126
+	orig: 224, 126
+	offset: 0, 0
+	index: -1
+wgxzrc_jingtoudusuxian_3
+	rotate: false
+	xy: 450, 0
+	size: 224, 126
+	orig: 224, 126
+	offset: 0, 0
+	index: -1
+wgxzrc_jingtoudusuxian_1
+	rotate: false
+	xy: 0, 0
+	size: 224, 126
+	orig: 224, 126
+	offset: 0, 0
+	index: -1
+wgxzrc_jingtoudusuxian_6
+	rotate: true
+	xy: 0, 432
+	size: 224, 126
+	orig: 224, 126
+	offset: 0, 0
+	index: -1
+wgxzrc_jingtoudusuxian_7
+	rotate: true
+	xy: 0, 657
+	size: 224, 126
+	orig: 224, 126
+	offset: 0, 0
+	index: -1
+wgxzrc_jingtoudusuxian_4
+	rotate: false
+	xy: 675, 0
+	size: 224, 126
+	orig: 224, 126
+	offset: 0, 0
+	index: -1
+wgxzrc_jingtoudusuxian_5
+	rotate: true
+	xy: 0, 207
+	size: 224, 126
+	orig: 224, 126
+	offset: 0, 0
+	index: -1
+wgxzrc_jingtoudusuxian_8
+	rotate: false
+	xy: 183, 127
+	size: 224, 126
+	orig: 224, 126
+	offset: 0, 0
+	index: -1
+wgzlrc_suduxian_3
+	rotate: false
+	xy: 858, 127
+	size: 36, 128
+	orig: 42, 128
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhangSE4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wgzlrc_anbeijing1
+	rotate: false
+	xy: 468, 426
+	size: 227, 128
+	orig: 227, 128
+	offset: 0, 0
+	index: -1
+wgzlrc_suduxian_7
+	rotate: false
+	xy: 998, 154
+	size: 26, 128
+	orig: 42, 128
+	offset: 0, 0
+	index: -1
+wgzlrc_suduxian_1
+	rotate: false
+	xy: 987, 378
+	size: 36, 128
+	orig: 42, 128
+	offset: 0, 0
+	index: -1
+wgzlrc_suduxian_2
+	rotate: false
+	xy: 713, 338
+	size: 42, 128
+	orig: 42, 128
+	offset: 0, 0
+	index: -1

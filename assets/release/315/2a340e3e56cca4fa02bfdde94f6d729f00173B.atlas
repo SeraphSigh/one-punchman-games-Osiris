@@ -1,0 +1,363 @@
+
+asset/anim/dingchuitoukapai.png
+size: 1000,499
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youxiaobi_dingchuitoukapai
+	rotate: true
+	xy: 677, 0
+	size: 161, 116
+	orig: 161, 116
+	offset: 0, 0
+	index: -1
+yaxian1_dingchuitoukapai
+	rotate: true
+	xy: 149, 488
+	size: 10, 4
+	orig: 10, 4
+	offset: 0, 0
+	index: -1
+youdabi2_dingchuitoukapai
+	rotate: true
+	xy: 790, 321
+	size: 74, 115
+	orig: 74, 115
+	offset: 0, 0
+	index: -1
+zuozhang_dingchuitoukapai
+	rotate: true
+	xy: 677, 162
+	size: 81, 96
+	orig: 81, 96
+	offset: 0, 0
+	index: -1
+shenti_dingchuitoukapai
+	rotate: true
+	xy: 253, 284
+	size: 214, 166
+	orig: 214, 166
+	offset: 0, 0
+	index: -1
+bozi_yinying_dingchuitoukapai
+	rotate: false
+	xy: 946, 81
+	size: 53, 66
+	orig: 53, 66
+	offset: 0, 0
+	index: -1
+youyanmei_dingchuitoukapai
+	rotate: false
+	xy: 971, 440
+	size: 27, 31
+	orig: 27, 31
+	offset: 0, 0
+	index: -1
+bozi_dingchuitoukapai
+	rotate: true
+	xy: 728, 440
+	size: 56, 68
+	orig: 56, 68
+	offset: 0, 0
+	index: -1
+zuoxiaotui_dingchuitoukapai
+	rotate: false
+	xy: 0, 0
+	size: 152, 290
+	orig: 152, 290
+	offset: 0, 0
+	index: -1
+youdabi_dingchuitoukapai
+	rotate: false
+	xy: 794, 125
+	size: 125, 122
+	orig: 125, 122
+	offset: 0, 0
+	index: -1
+zuoyanqiu_dingchuitoukapai
+	rotate: false
+	xy: 174, 495
+	size: 4, 4
+	orig: 4, 4
+	offset: 0, 0
+	index: -1
+zuoxiaobi_dingchuitoukapai
+	rotate: true
+	xy: 794, 0
+	size: 124, 151
+	orig: 124, 151
+	offset: 0, 0
+	index: -1
+bizi_dingchuitoukapai
+	rotate: false
+	xy: 797, 440
+	size: 33, 55
+	orig: 33, 55
+	offset: 0, 0
+	index: -1
+youyandi_dingchuitoukapai
+	rotate: true
+	xy: 453, 476
+	size: 22, 17
+	orig: 22, 17
+	offset: 0, 0
+	index: -1
+qingjing2_dingchuitoukapai
+	rotate: true
+	xy: 132, 488
+	size: 10, 16
+	orig: 10, 16
+	offset: 0, 0
+	index: -1
+zuowumingzi_dingchuitoukapai
+	rotate: true
+	xy: 831, 434
+	size: 39, 66
+	orig: 39, 66
+	offset: 0, 0
+	index: -1
+youzhongzi_dingchuitoukapai
+	rotate: false
+	xy: 728, 385
+	size: 51, 51
+	orig: 51, 51
+	offset: 0, 0
+	index: -1
+kouqiang_dingchuitoukapai
+	rotate: false
+	xy: 831, 474
+	size: 36, 24
+	orig: 36, 24
+	offset: 0, 0
+	index: -1
+lian_dingchuitoukapai
+	rotate: true
+	xy: 790, 248
+	size: 72, 118
+	orig: 72, 118
+	offset: 0, 0
+	index: -1
+youzhang_dingchuitoukapai
+	rotate: false
+	xy: 946, 0
+	size: 53, 80
+	orig: 53, 80
+	offset: 0, 0
+	index: -1
+zuoxiaozi_dingchuitoukapai
+	rotate: true
+	xy: 728, 340
+	size: 44, 60
+	orig: 44, 60
+	offset: 0, 0
+	index: -1
+youdamuzi_dingchuitoukapai
+	rotate: false
+	xy: 437, 476
+	size: 15, 23
+	orig: 15, 23
+	offset: 0, 0
+	index: -1
+youyanqiu_dingchuitoukapai
+	rotate: false
+	xy: 179, 495
+	size: 3, 3
+	orig: 3, 3
+	offset: 0, 0
+	index: -1
+qingjing3_dingchuitoukapai
+	rotate: true
+	xy: 159, 488
+	size: 8, 14
+	orig: 8, 14
+	offset: 0, 0
+	index: -1
+zuidi_dingchuitoukapai
+	rotate: false
+	xy: 174, 488
+	size: 14, 6
+	orig: 14, 6
+	offset: 0, 0
+	index: -1
+neiku_dingchuitoukapai
+	rotate: true
+	xy: 0, 291
+	size: 208, 131
+	orig: 208, 131
+	offset: 0, 0
+	index: -1
+youdatui_dingchuitoukapai
+	rotate: false
+	xy: 342, 0
+	size: 189, 252
+	orig: 189, 252
+	offset: 0, 0
+	index: -1
+youwumingzi_dingchuitoukapai
+	rotate: true
+	xy: 898, 440
+	size: 49, 38
+	orig: 49, 38
+	offset: 0, 0
+	index: -1
+qingjing1_dingchuitoukapai
+	rotate: false
+	xy: 420, 476
+	size: 16, 23
+	orig: 16, 23
+	offset: 0, 0
+	index: -1
+zuodamuzi2_dingchuitoukapai
+	rotate: false
+	xy: 384, 253
+	size: 36, 30
+	orig: 36, 30
+	offset: 0, 0
+	index: -1
+zui_dingchuitoukapai
+	rotate: false
+	xy: 342, 253
+	size: 41, 30
+	orig: 41, 30
+	offset: 0, 0
+	index: -1
+xiong_dingchuitoukapai
+	rotate: true
+	xy: 153, 0
+	size: 283, 188
+	orig: 283, 188
+	offset: 0, 0
+	index: -1
+youjiao1_dingchuitoukapai
+	rotate: true
+	xy: 728, 244
+	size: 95, 61
+	orig: 95, 61
+	offset: 0, 0
+	index: -1
+zuodabi_dingchuitoukapai
+	rotate: true
+	xy: 909, 262
+	size: 106, 90
+	orig: 106, 90
+	offset: 0, 0
+	index: -1
+zuoyanmei_dingchuitoukapai
+	rotate: false
+	xy: 780, 396
+	size: 31, 40
+	orig: 31, 40
+	offset: 0, 0
+	index: -1
+zuojiao2_dingchuitoukapai
+	rotate: false
+	xy: 920, 206
+	size: 79, 55
+	orig: 79, 55
+	offset: 0, 0
+	index: -1
+zuobi2_dingchuitoukapai
+	rotate: false
+	xy: 906, 369
+	size: 94, 70
+	orig: 94, 70
+	offset: 0, 0
+	index: -1
+youxiaotui_dingchuitoukapai
+	rotate: false
+	xy: 532, 0
+	size: 144, 250
+	orig: 144, 250
+	offset: 0, 0
+	index: -1
+zuodamuzi1_dingchuitoukapai
+	rotate: true
+	xy: 421, 253
+	size: 29, 51
+	orig: 29, 51
+	offset: 0, 0
+	index: -1
+zuoshizi_dingchuitoukapai
+	rotate: false
+	xy: 937, 440
+	size: 33, 46
+	orig: 33, 46
+	offset: 0, 0
+	index: -1
+yaxian2_dingchuitoukapai
+	rotate: true
+	xy: 154, 488
+	size: 10, 4
+	orig: 10, 4
+	offset: 0, 0
+	index: -1
+youxiaozi_dingchuitoukapai
+	rotate: false
+	xy: 498, 253
+	size: 46, 28
+	orig: 46, 28
+	offset: 0, 0
+	index: -1
+ya2_dingchuitoukapai
+	rotate: false
+	xy: 471, 476
+	size: 37, 13
+	orig: 37, 13
+	offset: 0, 0
+	index: -1
+di1_dingchuitoukapai
+	rotate: true
+	xy: 920, 125
+	size: 80, 25
+	orig: 80, 25
+	offset: 0, 0
+	index: -1
+zuodatui_dingchuitoukapai
+	rotate: false
+	xy: 548, 251
+	size: 179, 248
+	orig: 179, 248
+	offset: 0, 0
+	index: -1
+zuozhongzi_dingchuitoukapai
+	rotate: true
+	xy: 831, 396
+	size: 37, 74
+	orig: 37, 74
+	offset: 0, 0
+	index: -1
+zuoyandi_dingchuitoukapai
+	rotate: true
+	xy: 473, 253
+	size: 29, 24
+	orig: 29, 24
+	offset: 0, 0
+	index: -1
+ya1_dingchuitoukapai
+	rotate: false
+	xy: 509, 476
+	size: 31, 12
+	orig: 31, 12
+	offset: 0, 0
+	index: -1
+youjiao_dingchuitoukapai
+	rotate: true
+	xy: 420, 284
+	size: 191, 127
+	orig: 191, 127
+	offset: 0, 0
+	index: -1
+zuojiao_dingchuitoukapai
+	rotate: true
+	xy: 132, 291
+	size: 196, 120
+	orig: 196, 120
+	offset: 0, 0
+	index: -1
+youshizi_dingchuitoukapai
+	rotate: true
+	xy: 946, 148
+	size: 39, 52
+	orig: 39, 52
+	offset: 0, 0
+	index: -1

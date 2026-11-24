@@ -1,0 +1,76 @@
+
+asset/anim/tianxinjiamianSESKILL0.png
+size: 1021,1002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/tianxinjiamian_jineng_xuli_29
+	rotate: false
+	xy: 0, 360
+	size: 278, 157
+	orig: 278, 157
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_xuli_28
+	rotate: false
+	xy: 279, 240
+	size: 278, 157
+	orig: 278, 157
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_xuli_30
+	rotate: false
+	xy: 558, 316
+	size: 278, 157
+	orig: 278, 157
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_xuli_31
+	rotate: false
+	xy: 279, 398
+	size: 278, 157
+	orig: 278, 157
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_xuli_32
+	rotate: false
+	xy: 802, 723
+	size: 219, 140
+	orig: 219, 140
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_xuli_33
+	rotate: false
+	xy: 558, 240
+	size: 31, 30
+	orig: 31, 30
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_xuli_27
+	rotate: false
+	xy: 595, 158
+	size: 278, 157
+	orig: 278, 157
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_xuli_26
+	rotate: false
+	xy: 595, 0
+	size: 278, 157
+	orig: 278, 157
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_xuli_25
+	rotate: false
+	xy: 0, 202
+	size: 278, 157
+	orig: 278, 157
+	offset: 0, 0
+	index: -1
+skill/tianxinjiamian_jineng_xuli_24
+	rotate: true
+	xy: 240, 752
+	size: 235, 153
+	orig: 235, 153
+	offset: 0, 0
+	index: -1

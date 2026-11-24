@@ -1,0 +1,33 @@
+
+asset/anim/jinshuqiubangSECOMMON0.png
+size: 969,680
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jinshubangqiu_heip_00048
+	rotate: false
+	xy: 823, 203
+	size: 64, 64
+	orig: 64, 64
+	offset: 0, 0
+	index: -1
+common/jinshubangqiu_bj
+	rotate: false
+	xy: 0, 0
+	size: 822, 300
+	orig: 832, 300
+	offset: 0, 0
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

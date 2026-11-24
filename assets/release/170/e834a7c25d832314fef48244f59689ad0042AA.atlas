@@ -1,0 +1,1059 @@
+
+asset/anim/zhuangjiaxingxing0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Lforearm1_zhuangjiaxing
+	rotate: false
+	xy: 421, 805
+	size: 61, 146
+	orig: 61, 146
+	offset: 0, 0
+	index: -1
+j_youdabi_zhuangjiaxing
+	rotate: false
+	xy: 435, 508
+	size: 99, 138
+	orig: 99, 138
+	offset: 0, 0
+	index: -1
+l_kua_zhuangjiaxing
+	rotate: false
+	xy: 700, 839
+	size: 81, 68
+	orig: 81, 70
+	offset: 0, 2
+	index: -1
+l_shenti_zhuangjiaxing
+	rotate: false
+	xy: 0, 511
+	size: 142, 162
+	orig: 142, 162
+	offset: 0, 0
+	index: -1
+p_zuobi_zhuangjiaxing
+	rotate: false
+	xy: 270, 160
+	size: 91, 143
+	orig: 91, 143
+	offset: 0, 0
+	index: -1
+a_Lforearm2_zhuangjiaxing
+	rotate: false
+	xy: 781, 112
+	size: 57, 103
+	orig: 57, 103
+	offset: 0, 0
+	index: -1
+a_Lshoulder_zhuangjiaxing
+	rotate: true
+	xy: 726, 980
+	size: 44, 75
+	orig: 44, 75
+	offset: 0, 0
+	index: -1
+l_youshou_zhuangjiaxing
+	rotate: false
+	xy: 527, 647
+	size: 89, 132
+	orig: 89, 132
+	offset: 0, 0
+	index: -1
+i_Rshoulder_zhuangjiaxing
+	rotate: false
+	xy: 890, 191
+	size: 99, 86
+	orig: 99, 86
+	offset: 0, 0
+	index: -1
+n_zuoxiaotui_zhuangjiaxing
+	rotate: false
+	xy: 958, 907
+	size: 66, 51
+	orig: 66, 51
+	offset: 0, 0
+	index: -1
+u_youshou_zhuangjiaxing
+	rotate: true
+	xy: 509, 264
+	size: 123, 79
+	orig: 123, 79
+	offset: 0, 0
+	index: -1
+g_Rshoulder_zhuangjiaxing
+	rotate: true
+	xy: 929, 777
+	size: 78, 88
+	orig: 78, 88
+	offset: 0, 0
+	index: -1
+a_Lhand_zhuangjiaxing
+	rotate: true
+	xy: 726, 908
+	size: 45, 54
+	orig: 45, 54
+	offset: 0, 0
+	index: -1
+f_head_zhuangjiaxing
+	rotate: true
+	xy: 951, 0
+	size: 71, 73
+	orig: 71, 73
+	offset: 0, 0
+	index: -1
+n_kua_zhuangjiaxing
+	rotate: true
+	xy: 509, 388
+	size: 51, 87
+	orig: 51, 87
+	offset: 0, 0
+	index: -1
+d_Rthigh_zhuangjiaxing
+	rotate: false
+	xy: 867, 431
+	size: 70, 80
+	orig: 70, 80
+	offset: 0, 0
+	index: -1
+n_kua2_zhuangjiaxing
+	rotate: true
+	xy: 218, 987
+	size: 36, 19
+	orig: 36, 19
+	offset: 0, 0
+	index: -1
+p_xiong_zhuangjiaxing
+	rotate: true
+	xy: 0, 674
+	size: 157, 151
+	orig: 157, 151
+	offset: 0, 0
+	index: -1
+p_zuojiao_zhuangjiaxing
+	rotate: true
+	xy: 863, 980
+	size: 44, 39
+	orig: 44, 39
+	offset: 0, 0
+	index: -1
+gedang_zhuangjiaxingxing
+	rotate: true
+	xy: 724, 508
+	size: 96, 85
+	orig: 106, 89
+	offset: 3, 4
+	index: -1
+e_Lforearm1_zhuangjiaxing
+	rotate: true
+	xy: 606, 0
+	size: 117, 112
+	orig: 117, 112
+	offset: 0, 0
+	index: -1
+a_Rforearm2_zhuangjiaxing
+	rotate: false
+	xy: 447, 140
+	size: 59, 132
+	orig: 59, 132
+	offset: 0, 0
+	index: -1
+w_xiong_zhuangjiaxing
+	rotate: true
+	xy: 255, 660
+	size: 150, 141
+	orig: 150, 141
+	offset: 0, 0
+	index: -1
+a_Larm_zhuangjiaxing
+	rotate: false
+	xy: 810, 508
+	size: 56, 93
+	orig: 56, 93
+	offset: 0, 0
+	index: -1
+e_Rshoulder_zhuangjiaxing
+	rotate: true
+	xy: 838, 829
+	size: 77, 88
+	orig: 77, 88
+	offset: 0, 0
+	index: -1
+u_xiong_zhuangjiaxing
+	rotate: false
+	xy: 370, 301
+	size: 138, 138
+	orig: 150, 138
+	offset: 0, 0
+	index: -1
+p_kuabu_zhuangjiaxing
+	rotate: false
+	xy: 862, 278
+	size: 76, 57
+	orig: 76, 57
+	offset: 0, 0
+	index: -1
+h_Rthigh_zhuangjiaxing
+	rotate: true
+	xy: 927, 856
+	size: 50, 81
+	orig: 50, 81
+	offset: 0, 0
+	index: -1
+i_Rarm_zhuangjiaxing
+	rotate: false
+	xy: 880, 0
+	size: 70, 102
+	orig: 70, 102
+	offset: 0, 0
+	index: -1
+v_zuoshou_zhuangjiaxing
+	rotate: true
+	xy: 803, 337
+	size: 93, 76
+	orig: 93, 76
+	offset: 0, 0
+	index: -1
+h_Rforearm1_zhuangjiaxing
+	rotate: true
+	xy: 594, 780
+	size: 127, 105
+	orig: 127, 105
+	offset: 0, 0
+	index: -1
+a_Rfoot_zhuangjiaxing
+	rotate: false
+	xy: 175, 987
+	size: 42, 37
+	orig: 42, 37
+	offset: 0, 0
+	index: -1
+c_Rarm_zhuangjiaxing
+	rotate: false
+	xy: 412, 440
+	size: 91, 67
+	orig: 91, 67
+	offset: 0, 0
+	index: -1
+h_Lshoulder_zhuangjiaxing
+	rotate: false
+	xy: 801, 440
+	size: 65, 67
+	orig: 65, 67
+	offset: 0, 0
+	index: -1
+g_Rthin_zhuangjiaxing
+	rotate: false
+	xy: 597, 386
+	size: 92, 53
+	orig: 92, 53
+	offset: 0, 0
+	index: -1
+e_Rfoot_zhuangjiaxing
+	rotate: true
+	xy: 123, 989
+	size: 33, 51
+	orig: 33, 51
+	offset: 0, 0
+	index: -1
+b_breast_zhuangjiaxing
+	rotate: true
+	xy: 81, 347
+	size: 160, 154
+	orig: 160, 154
+	offset: 0, 0
+	index: -1
+c_Lforearm1_zhuangjiaxing
+	rotate: false
+	xy: 221, 508
+	size: 81, 151
+	orig: 81, 151
+	offset: 0, 0
+	index: -1
+f_Lfoot_zhuangjiaxing
+	rotate: false
+	xy: 236, 478
+	size: 59, 29
+	orig: 59, 29
+	offset: 0, 0
+	index: -1
+j_shenti_zhuangjiaxing
+	rotate: false
+	xy: 0, 177
+	size: 124, 169
+	orig: 124, 169
+	offset: 0, 0
+	index: -1
+u_youdabi_zhuangjiaxing
+	rotate: true
+	xy: 939, 278
+	size: 88, 85
+	orig: 88, 85
+	offset: 0, 0
+	index: -1
+m_youdabi_zhuangjiaxing
+	rotate: true
+	xy: 507, 132
+	size: 131, 82
+	orig: 131, 82
+	offset: 0, 0
+	index: -1
+e_Rarm_zhuangjiaxing
+	rotate: true
+	xy: 822, 0
+	size: 103, 57
+	orig: 103, 57
+	offset: 0, 0
+	index: -1
+m_youdabi1_zhuangjiaxing
+	rotate: false
+	xy: 0, 0
+	size: 93, 176
+	orig: 93, 176
+	offset: 0, 0
+	index: -1
+e_Rthin_zhuangjiaxing
+	rotate: true
+	xy: 904, 907
+	size: 72, 48
+	orig: 72, 48
+	offset: 0, 0
+	index: -1
+f_Rfoot_zhuangjiaxing
+	rotate: true
+	xy: 238, 987
+	size: 31, 51
+	orig: 31, 51
+	offset: 0, 0
+	index: -1
+n_shenti_zhuangjiaxing
+	rotate: true
+	xy: 125, 168
+	size: 159, 144
+	orig: 159, 144
+	offset: 0, 0
+	index: -1
+a_Lthin_zhuangjiaxing
+	rotate: true
+	xy: 867, 578
+	size: 49, 70
+	orig: 49, 70
+	offset: 0, 0
+	index: -1
+d_Rhand_zhuangjiaxing
+	rotate: true
+	xy: 143, 508
+	size: 157, 77
+	orig: 157, 77
+	offset: 0, 0
+	index: -1
+v_xiong_zhuangjiaxing
+	rotate: false
+	xy: 397, 657
+	size: 129, 147
+	orig: 129, 147
+	offset: 0, 0
+	index: -1
+e_Rthigh_zhuangjiaxing
+	rotate: true
+	xy: 504, 440
+	size: 67, 77
+	orig: 67, 77
+	offset: 0, 0
+	index: -1
+f_Lthigh_zhuangjiaxing
+	rotate: false
+	xy: 880, 336
+	size: 57, 45
+	orig: 57, 45
+	offset: 0, 0
+	index: -1
+k_youxiaobi1_zhuangjiaxing
+	rotate: false
+	xy: 483, 805
+	size: 110, 145
+	orig: 110, 145
+	offset: 0, 0
+	index: -1
+j_youjiao_zhuangjiaxing
+	rotate: true
+	xy: 726, 779
+	size: 59, 41
+	orig: 59, 41
+	offset: 0, 0
+	index: -1
+h_Rarm_zhuangjiaxing
+	rotate: true
+	xy: 932, 699
+	size: 77, 90
+	orig: 77, 90
+	offset: 0, 0
+	index: -1
+f_Rthigh_zhuangjiaxing
+	rotate: false
+	xy: 890, 103
+	size: 60, 87
+	orig: 60, 87
+	offset: 0, 0
+	index: -1
+j_youxiaobi2_zhuangjiaxing
+	rotate: false
+	xy: 686, 118
+	size: 94, 114
+	orig: 94, 116
+	offset: 0, 0
+	index: -1
+k_zuoxiaobi1_zhuangjiaxing
+	rotate: false
+	xy: 719, 0
+	size: 102, 111
+	orig: 102, 111
+	offset: 0, 0
+	index: -1
+f_Lthin_zhuangjiaxing
+	rotate: false
+	xy: 958, 959
+	size: 50, 65
+	orig: 50, 65
+	offset: 0, 0
+	index: -1
+f_Rshoulder_zhuangjiaxing
+	rotate: true
+	xy: 620, 908
+	size: 115, 105
+	orig: 115, 105
+	offset: 0, 0
+	index: -1
+d_Rshoulder1_zhuangjiaxing
+	rotate: true
+	xy: 932, 636
+	size: 62, 91
+	orig: 62, 91
+	offset: 0, 0
+	index: -1
+f_breast_zhuangjiaxing
+	rotate: false
+	xy: 236, 328
+	size: 133, 149
+	orig: 133, 149
+	offset: 0, 0
+	index: -1
+k_youdabi_zhuangjiaxing
+	rotate: false
+	xy: 483, 0
+	size: 122, 131
+	orig: 122, 131
+	offset: 0, 0
+	index: -1
+e_Rhand_zhuangjiaxing
+	rotate: true
+	xy: 589, 264
+	size: 121, 84
+	orig: 121, 84
+	offset: 0, 0
+	index: -1
+a_Rthin_zhuangjiaxing
+	rotate: true
+	xy: 768, 772
+	size: 43, 69
+	orig: 43, 69
+	offset: 0, 0
+	index: -1
+b_Rfoot_zhuangjiaxing
+	rotate: true
+	xy: 64, 989
+	size: 33, 58
+	orig: 33, 58
+	offset: 0, 0
+	index: -1
+a_Rshoulder_zhuangjiaxing
+	rotate: false
+	xy: 683, 623
+	size: 83, 97
+	orig: 83, 97
+	offset: 0, 0
+	index: -1
+a_Lfoot_zhuangjiaxing
+	rotate: false
+	xy: 0, 989
+	size: 63, 35
+	orig: 63, 35
+	offset: 0, 0
+	index: -1
+p_zuoxiaotui_zhuangjiaxing
+	rotate: false
+	xy: 730, 440
+	size: 70, 67
+	orig: 70, 67
+	offset: 0, 0
+	index: -1
+l_zuodatui_zhuangjiaxing
+	rotate: true
+	xy: 867, 512
+	size: 65, 70
+	orig: 65, 70
+	offset: 0, 0
+	index: -1
+c_Lforearm2_zhuangjiaxing
+	rotate: false
+	xy: 767, 628
+	size: 71, 92
+	orig: 71, 92
+	offset: 0, 0
+	index: -1
+p_tou_zhuangjiaxing
+	rotate: true
+	xy: 951, 72
+	size: 65, 73
+	orig: 65, 73
+	offset: 0, 0
+	index: -1
+c_Rforearm1_zhuangjiaxing
+	rotate: true
+	xy: 152, 666
+	size: 153, 102
+	orig: 153, 102
+	offset: 0, 0
+	index: -1
+h_breast_zhuangjiaxing
+	rotate: false
+	xy: 277, 811
+	size: 143, 149
+	orig: 143, 149
+	offset: 0, 0
+	index: -1
+g_Rarm_zhuangjiaxing
+	rotate: true
+	xy: 938, 367
+	size: 83, 86
+	orig: 83, 86
+	offset: 0, 0
+	index: -1
+t_youshou_zhuangjiaxing
+	rotate: true
+	xy: 362, 160
+	size: 140, 84
+	orig: 140, 84
+	offset: 0, 0
+	index: -1
+a_Lthigh_zhuangjiaxing
+	rotate: false
+	xy: 938, 521
+	size: 86, 66
+	orig: 86, 66
+	offset: 0, 0
+	index: -1
+s_youdabi_zhuangjiaxing
+	rotate: false
+	xy: 590, 132
+	size: 95, 120
+	orig: 95, 120
+	offset: 0, 0
+	index: -1
+n_youdatui_zhuangjiaxing
+	rotate: false
+	xy: 839, 104
+	size: 50, 103
+	orig: 50, 103
+	offset: 0, 0
+	index: -1
+i_coxa_zhuangjiaxing
+	rotate: true
+	xy: 837, 907
+	size: 72, 66
+	orig: 72, 66
+	offset: 0, 0
+	index: -1
+a_head_zhuangjiaxing
+	rotate: true
+	xy: 839, 700
+	size: 68, 90
+	orig: 68, 90
+	offset: 0, 0
+	index: -1
+i_breast_zhuangjiaxing
+	rotate: false
+	xy: 234, 0
+	size: 135, 159
+	orig: 135, 159
+	offset: 0, 0
+	index: -1
+n_youxiaotui_zhuangjiaxing
+	rotate: false
+	xy: 938, 588
+	size: 86, 47
+	orig: 86, 47
+	offset: 0, 0
+	index: -1
+a_Rhand_zhuangjiaxing
+	rotate: true
+	xy: 371, 961
+	size: 63, 61
+	orig: 63, 61
+	offset: 0, 0
+	index: -1
+d_Rshoulder2_zhuangjiaxing
+	rotate: false
+	xy: 880, 382
+	size: 41, 47
+	orig: 41, 47
+	offset: 0, 0
+	index: -1
+a_Rthigh_zhuangjiaxing
+	rotate: false
+	xy: 433, 952
+	size: 87, 72
+	orig: 87, 72
+	offset: 0, 0
+	index: -1
+p_zuodatui_zhuangjiaxing
+	rotate: false
+	xy: 782, 816
+	size: 55, 80
+	orig: 55, 80
+	offset: 0, 0
+	index: -1
+d_head_zhuangjiaxing
+	rotate: true
+	xy: 582, 440
+	size: 67, 74
+	orig: 67, 74
+	offset: 0, 0
+	index: -1
+s_xiong_zhuangjiaxing
+	rotate: true
+	xy: 94, 0
+	size: 167, 139
+	orig: 167, 139
+	offset: 0, 0
+	index: -1
+a_Rarm_zhuangjiaxing
+	rotate: true
+	xy: 521, 951
+	size: 73, 98
+	orig: 73, 98
+	offset: 0, 0
+	index: -1
+b_Rthin_zhuangjiaxing
+	rotate: false
+	xy: 768, 721
+	size: 69, 50
+	orig: 69, 50
+	offset: 0, 0
+	index: -1
+g_Rfoot_zhuangjiaxing
+	rotate: true
+	xy: 903, 980
+	size: 43, 54
+	orig: 43, 54
+	offset: 0, 0
+	index: -1
+j_youxiaotui_zhuangjiaxing
+	rotate: false
+	xy: 951, 138
+	size: 73, 52
+	orig: 73, 52
+	offset: 0, 0
+	index: -1
+a_breast_zhuangjiaxing
+	rotate: false
+	xy: 0, 832
+	size: 138, 156
+	orig: 138, 156
+	offset: 0, 0
+	index: -1
+g_breast_zhuangjiaxing
+	rotate: false
+	xy: 303, 508
+	size: 131, 148
+	orig: 131, 148
+	offset: 0, 0
+	index: -1
+u_zuoshouqian_zhuangjiaxing
+	rotate: true
+	xy: 535, 508
+	size: 132, 88
+	orig: 132, 88
+	offset: 0, 0
+	index: -1
+f_coxa_zhuangjiaxing
+	rotate: true
+	xy: 782, 897
+	size: 82, 54
+	orig: 82, 54
+	offset: 0, 0
+	index: -1
+l_youdabi_zhuangjiaxing
+	rotate: true
+	xy: 769, 233
+	size: 103, 92
+	orig: 103, 92
+	offset: 0, 0
+	index: -1
+d_Rfoot_zhuangjiaxing
+	rotate: true
+	xy: 802, 980
+	size: 44, 60
+	orig: 44, 60
+	offset: 0, 0
+	index: -1
+d_Lforearm1_zhuangjiaxing
+	rotate: true
+	xy: 624, 508
+	size: 114, 99
+	orig: 114, 99
+	offset: 0, 0
+	index: -1
+g_Rforearm1_zhuangjiaxing
+	rotate: false
+	xy: 617, 641
+	size: 65, 124
+	orig: 65, 124
+	offset: 0, 0
+	index: -1
+s_tou_zhuangjiaxing
+	rotate: true
+	xy: 839, 628
+	size: 71, 92
+	orig: 71, 92
+	offset: 0, 0
+	index: -1
+f_Lshoulder_zhuangjiaxing
+	rotate: true
+	xy: 290, 961
+	size: 63, 80
+	orig: 63, 80
+	offset: 0, 0
+	index: -1
+g_Rforearm2_zhuangjiaxing
+	rotate: true
+	xy: 690, 371
+	size: 68, 112
+	orig: 68, 112
+	offset: 0, 0
+	index: -1
+j_youdatui_zhuangjiaxing
+	rotate: false
+	xy: 657, 440
+	size: 72, 67
+	orig: 72, 67
+	offset: 0, 0
+	index: -1
+s_youshou_zhuangjiaxing
+	rotate: true
+	xy: 674, 253
+	size: 117, 94
+	orig: 117, 94
+	offset: 0, 0
+	index: -1
+d_breast_zhuangjiaxing
+	rotate: false
+	xy: 139, 832
+	size: 137, 154
+	orig: 137, 154
+	offset: 0, 0
+	index: -1
+a_Rforearm1_zhuangjiaxing
+	rotate: false
+	xy: 0, 347
+	size: 80, 163
+	orig: 80, 163
+	offset: 0, 0
+	index: -1
+s_xionghou_zhuangjiaxing
+	rotate: false
+	xy: 270, 304
+	size: 86, 23
+	orig: 86, 23
+	offset: 0, 0
+	index: -1
+l_youdatui_zhuangjiaxing
+	rotate: true
+	xy: 838, 769
+	size: 59, 90
+	orig: 59, 90
+	offset: 0, 0
+	index: -1
+c_Larm_zhuangjiaxing
+	rotate: true
+	xy: 938, 451
+	size: 69, 86
+	orig: 69, 86
+	offset: 0, 0
+	index: -1
+q_zuojiao_zhuangjiaxing
+	rotate: true
+	xy: 447, 273
+	size: 27, 58
+	orig: 27, 58
+	offset: 0, 0
+	index: -1
+j_youxiaobi1_zhuangjiaxing
+	rotate: false
+	xy: 370, 0
+	size: 112, 139
+	orig: 112, 139
+	offset: 0, 0
+	index: -1
+d_coxa_zhuangjiaxing
+	rotate: false
+	xy: 683, 721
+	size: 84, 57
+	orig: 84, 57
+	offset: 0, 0
+	index: -1
+n_zuojiao_zhuangjiaxing
+	rotate: false
+	xy: 355, 478
+	size: 56, 29
+	orig: 56, 29
+	offset: 0, 0
+	index: -1
+g_Lfoot_zhuangjiaxing
+	rotate: false
+	xy: 296, 478
+	size: 58, 29
+	orig: 58, 29
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhuangjiaxingxing1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_Rthigh_zhuangjiaxing
+	rotate: false
+	xy: 0, 0
+	size: 88, 65
+	orig: 88, 65
+	offset: 0, 0
+	index: -1
+a_coxa_zhuangjiaxing
+	rotate: false
+	xy: 89, 0
+	size: 85, 60
+	orig: 85, 60
+	offset: 0, 0
+	index: -1
+d_Rthin_zhuangjiaxing
+	rotate: true
+	xy: 427, 0
+	size: 59, 79
+	orig: 59, 79
+	offset: 0, 0
+	index: -1
+d_Lshoulder_zhuangjiaxing
+	rotate: true
+	xy: 173, 85
+	size: 52, 77
+	orig: 52, 77
+	offset: 0, 0
+	index: -1
+c_Lhand_zhuangjiaxing
+	rotate: true
+	xy: 327, 139
+	size: 53, 63
+	orig: 53, 63
+	offset: 0, 0
+	index: -1
+u_zuodabi_zhuangjiaxing
+	rotate: true
+	xy: 237, 147
+	size: 53, 63
+	orig: 53, 63
+	offset: 0, 0
+	index: -1
+n_youjiao_zhuangjiaxing
+	rotate: true
+	xy: 444, 159
+	size: 40, 52
+	orig: 40, 52
+	offset: 0, 0
+	index: -1
+f_Lforearm_zhuangjiaxing
+	rotate: false
+	xy: 0, 66
+	size: 83, 59
+	orig: 83, 59
+	offset: 0, 0
+	index: -1
+g_coxa_zhuangjiaxing
+	rotate: false
+	xy: 0, 189
+	size: 74, 54
+	orig: 74, 54
+	offset: 0, 0
+	index: -1
+g_Lthin_zhuangjiaxing
+	rotate: true
+	xy: 420, 110
+	size: 48, 66
+	orig: 48, 66
+	offset: 0, 0
+	index: -1
+j_kua_zhuangjiaxing
+	rotate: false
+	xy: 260, 46
+	size: 80, 52
+	orig: 80, 52
+	offset: 0, 0
+	index: -1
+h_Rthin_zhuangjiaxing
+	rotate: false
+	xy: 427, 60
+	size: 79, 49
+	orig: 79, 49
+	offset: 0, 0
+	index: -1
+f_Rthin_zhuangjiaxing
+	rotate: false
+	xy: 260, 0
+	size: 83, 45
+	orig: 83, 47
+	offset: 0, 2
+	index: -1
+u_zuojian_zhuangjiaxing
+	rotate: true
+	xy: 77, 176
+	size: 64, 74
+	orig: 64, 74
+	offset: 0, 0
+	index: -1
+d_Larm_zhuangjiaxing
+	rotate: true
+	xy: 84, 124
+	size: 51, 77
+	orig: 51, 77
+	offset: 0, 0
+	index: -1
+d_Rarm_zhuangjiaxing
+	rotate: false
+	xy: 162, 138
+	size: 74, 71
+	orig: 74, 71
+	offset: 0, 0
+	index: -1
+c_Rshoulder_zhuangjiaxing
+	rotate: true
+	xy: 89, 61
+	size: 62, 83
+	orig: 62, 83
+	offset: 0, 0
+	index: -1
+h_Rfoot_zhuangjiaxing
+	rotate: true
+	xy: 391, 159
+	size: 40, 52
+	orig: 40, 52
+	offset: 0, 0
+	index: -1
+h_coxa_zhuangjiaxing
+	rotate: false
+	xy: 0, 126
+	size: 76, 62
+	orig: 76, 62
+	offset: 0, 0
+	index: -1
+c_Lshoulder_zhuangjiaxing
+	rotate: true
+	xy: 251, 99
+	size: 47, 75
+	orig: 49, 75
+	offset: 0, 0
+	index: -1
+g_Lthigh_zhuangjiaxing
+	rotate: false
+	xy: 301, 193
+	size: 52, 39
+	orig: 52, 39
+	offset: 0, 0
+	index: -1
+h_Rshoulder_zhuangjiaxing
+	rotate: false
+	xy: 175, 0
+	size: 84, 84
+	orig: 84, 84
+	offset: 0, 0
+	index: -1
+b_Rthigh_zhuangjiaxing
+	rotate: true
+	xy: 344, 0
+	size: 61, 82
+	orig: 61, 82
+	offset: 0, 0
+	index: -1
+i_head_zhuangjiaxing
+	rotate: true
+	xy: 341, 62
+	size: 76, 78
+	orig: 76, 78
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1

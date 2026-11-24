@@ -1,0 +1,156 @@
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_02
+	rotate: false
+	xy: 526, 860
+	size: 203, 163
+	orig: 255, 183
+	offset: 8, 11
+	index: -1
+global/a_global_quanbaodian_03
+	rotate: false
+	xy: 306, 860
+	size: 219, 163
+	orig: 255, 183
+	offset: 7, 10
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_04
+	rotate: false
+	xy: 617, 780
+	size: 195, 139
+	orig: 255, 183
+	offset: 38, 10
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_01
+	rotate: false
+	xy: 784, 534
+	size: 179, 147
+	orig: 255, 183
+	offset: 29, 12
+	index: -1
+global/a_global_quanbaodian_05
+	rotate: false
+	xy: 814, 0
+	size: 195, 129
+	orig: 255, 183
+	offset: 46, 16
+	index: -1
+global/a_global_quanbaodian_06
+	rotate: false
+	xy: 204, 73
+	size: 201, 137
+	orig: 255, 183
+	offset: 46, 16
+	index: -1
+
+asset/anim/beixinheidongSE.png
+size: 1002,934
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodianN_11
+	rotate: false
+	xy: 904, 537
+	size: 92, 86
+	orig: 92, 86
+	offset: 0, 0
+	index: -1
+baodianA_11
+	rotate: true
+	xy: 213, 566
+	size: 202, 194
+	orig: 212, 212
+	offset: 3, 5
+	index: -1
+baodianA_14
+	rotate: true
+	xy: 775, 817
+	size: 84, 100
+	orig: 84, 100
+	offset: 0, 0
+	index: -1
+baodianA_12
+	rotate: false
+	xy: 285, 178
+	size: 202, 194
+	orig: 212, 212
+	offset: 3, 5
+	index: -1
+baodianA_13
+	rotate: false
+	xy: 548, 781
+	size: 87, 117
+	orig: 87, 117
+	offset: 0, 0
+	index: -1
+baodianA_10
+	rotate: false
+	xy: 785, 0
+	size: 202, 194
+	orig: 212, 212
+	offset: 3, 5
+	index: -1
+baodianN_10
+	rotate: true
+	xy: 913, 445
+	size: 91, 88
+	orig: 91, 88
+	offset: 0, 0
+	index: -1
+baodianA_09
+	rotate: false
+	xy: 0, 566
+	size: 212, 218
+	orig: 216, 218
+	offset: 4, 0
+	index: -1
+baodianA_08
+	rotate: false
+	xy: 904, 624
+	size: 95, 82
+	orig: 95, 82
+	offset: 0, 0
+	index: -1
+baodianN_08
+	rotate: true
+	xy: 913, 354
+	size: 90, 89
+	orig: 90, 91
+	offset: 0, 2
+	index: -1
+baodianN_09
+	rotate: true
+	xy: 592, 376
+	size: 160, 164
+	orig: 164, 164
+	offset: 2, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_00
+	rotate: false
+	xy: 889, 457
+	size: 125, 99
+	orig: 255, 183
+	offset: 53, 31
+	index: -1

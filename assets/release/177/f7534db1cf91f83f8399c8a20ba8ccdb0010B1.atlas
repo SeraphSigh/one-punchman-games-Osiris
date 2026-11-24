@@ -1,0 +1,251 @@
+
+asset/anim/sangfudiaodaikukapai.png
+size: 502,609
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+toufayinying_sangfudiaodaikukapai
+	rotate: true
+	xy: 485, 467
+	size: 11, 17
+	orig: 11, 17
+	offset: 0, 0
+	index: -1
+youyanzhu_sangfudiaodaikukapai
+	rotate: true
+	xy: 495, 108
+	size: 8, 7
+	orig: 8, 7
+	offset: 0, 0
+	index: -1
+glass_sangfudiaodaikukapai
+	rotate: false
+	xy: 419, 436
+	size: 82, 30
+	orig: 82, 30
+	offset: 0, 0
+	index: -1
+youxiaobi_sangfudiaodaikukapai
+	rotate: true
+	xy: 0, 109
+	size: 82, 89
+	orig: 82, 89
+	offset: 0, 0
+	index: -1
+youshou_sangfudiaodaikukapai
+	rotate: true
+	xy: 171, 557
+	size: 50, 65
+	orig: 50, 65
+	offset: 0, 0
+	index: -1
+saoguang_sangfudiaodaikukapai
+	rotate: false
+	xy: 495, 99
+	size: 7, 8
+	orig: 7, 8
+	offset: 0, 0
+	index: -1
+youdatui_sangfudiaodaikukapai
+	rotate: true
+	xy: 286, 0
+	size: 77, 214
+	orig: 77, 214
+	offset: 0, 0
+	index: -1
+zuojiao_sangfudiaodaikukapai
+	rotate: false
+	xy: 429, 467
+	size: 55, 85
+	orig: 55, 85
+	offset: 0, 0
+	index: -1
+tou_sangfudiaodaikukapai
+	rotate: false
+	xy: 181, 351
+	size: 104, 140
+	orig: 104, 140
+	offset: 0, 0
+	index: -1
+zuoxiaobi_sangfudiaodaikukapai
+	rotate: false
+	xy: 171, 241
+	size: 109, 109
+	orig: 109, 109
+	offset: 0, 0
+	index: -1
+zuoyanbai_sangfudiaodaikukapai
+	rotate: true
+	xy: 485, 479
+	size: 21, 11
+	orig: 21, 11
+	offset: 0, 0
+	index: -1
+zuoshou_sangfudiaodaikukapai
+	rotate: true
+	xy: 0, 192
+	size: 44, 79
+	orig: 44, 79
+	offset: 0, 0
+	index: -1
+youxiayanpi_sangfudiaodaikukapai
+	rotate: true
+	xy: 485, 501
+	size: 18, 11
+	orig: 18, 11
+	offset: 0, 0
+	index: -1
+youshouqian_sangfudiaodaikukapai
+	rotate: true
+	xy: 237, 583
+	size: 26, 28
+	orig: 26, 28
+	offset: 0, 0
+	index: -1
+zuobeidai_sangfudiaodaikukapai
+	rotate: false
+	xy: 286, 361
+	size: 71, 241
+	orig: 71, 241
+	offset: 0, 0
+	index: -1
+youjiao_sangfudiaodaikukapai
+	rotate: false
+	xy: 171, 492
+	size: 105, 64
+	orig: 105, 64
+	offset: 0, 0
+	index: -1
+yinying_sangfudiaodaikukapai
+	rotate: false
+	xy: 171, 373
+	size: 8, 8
+	orig: 8, 8
+	offset: 0, 0
+	index: -1
+zuodabi_sangfudiaodaikukapai
+	rotate: true
+	xy: 358, 361
+	size: 74, 135
+	orig: 74, 135
+	offset: 0, 0
+	index: -1
+youbeidai_sangfudiaodaikukapai
+	rotate: false
+	xy: 0, 361
+	size: 96, 243
+	orig: 96, 243
+	offset: 0, 0
+	index: -1
+zuoxiaobihou_sangfudiaodaikukapai
+	rotate: false
+	xy: 429, 553
+	size: 20, 54
+	orig: 20, 54
+	offset: 0, 0
+	index: -1
+shenti_sangfudiaodaikukapai
+	rotate: false
+	xy: 286, 78
+	size: 208, 282
+	orig: 208, 282
+	offset: 0, 0
+	index: -1
+light_sangfudiaodaikukapai
+	rotate: false
+	xy: 370, 582
+	size: 58, 24
+	orig: 58, 24
+	offset: 0, 0
+	index: -1
+kua_sangfudiaodaikukapai
+	rotate: false
+	xy: 0, 241
+	size: 162, 113
+	orig: 162, 113
+	offset: 0, 0
+	index: -1
+youdabi_sangfudiaodaikukapai
+	rotate: false
+	xy: 358, 436
+	size: 60, 145
+	orig: 60, 145
+	offset: 0, 0
+	index: -1
+zuoshouxia_sangfudiaodaikukapai
+	rotate: false
+	xy: 358, 582
+	size: 11, 26
+	orig: 11, 26
+	offset: 0, 0
+	index: -1
+zuoxiayanpi_sangfudiaodaikukapai
+	rotate: true
+	xy: 495, 78
+	size: 20, 7
+	orig: 20, 7
+	offset: 0, 0
+	index: -1
+zuoyanzhu_sangfudiaodaikukapai
+	rotate: true
+	xy: 171, 361
+	size: 11, 9
+	orig: 11, 9
+	offset: 0, 0
+	index: -1
+zuoxiaotui_sangfudiaodaikukapai
+	rotate: true
+	xy: 0, 0
+	size: 108, 285
+	orig: 108, 285
+	offset: 0, 0
+	index: -1
+youxiaotui_sangfudiaodaikukapai
+	rotate: false
+	xy: 97, 361
+	size: 73, 242
+	orig: 73, 242
+	offset: 0, 0
+	index: -1
+zuodatui_sangfudiaodaikukapai
+	rotate: true
+	xy: 97, 109
+	size: 131, 185
+	orig: 131, 185
+	offset: 0, 0
+	index: -1
+youshangyanpi_sangfudiaodaikukapai
+	rotate: true
+	xy: 80, 217
+	size: 22, 13
+	orig: 22, 13
+	offset: 0, 0
+	index: -1
+youxiaobihou_sangfudiaodaikukapai
+	rotate: true
+	xy: 237, 557
+	size: 25, 38
+	orig: 25, 38
+	offset: 0, 0
+	index: -1
+youyanbai_sangfudiaodaikukapai
+	rotate: false
+	xy: 163, 351
+	size: 17, 9
+	orig: 17, 9
+	offset: 0, 0
+	index: -1
+toufa_sangfudiaodaikukapai
+	rotate: false
+	xy: 80, 192
+	size: 13, 24
+	orig: 13, 24
+	offset: 0, 0
+	index: -1
+zuoshangyanpi_sangfudiaodaikukapai
+	rotate: true
+	xy: 266, 583
+	size: 26, 17
+	orig: 26, 17
+	offset: 0, 0
+	index: -1

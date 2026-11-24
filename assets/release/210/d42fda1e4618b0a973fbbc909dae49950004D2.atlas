@@ -1,0 +1,67 @@
+
+asset/anim/geliuganxiupu2SEATTACK3.png
+size: 471,501
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/geliuganxiupu2_pg_xuli2_000
+	rotate: false
+	xy: 323, 209
+	size: 146, 92
+	orig: 170, 114
+	offset: 15, 21
+	index: -1
+attack/geliuganxiupu2_pg_xuli2_003
+	rotate: false
+	xy: 0, 407
+	size: 146, 94
+	orig: 170, 114
+	offset: 15, 20
+	index: -1
+attack/geliuganxiupu2_pg_xuli2_004
+	rotate: false
+	xy: 147, 407
+	size: 146, 94
+	orig: 170, 114
+	offset: 15, 20
+	index: -1
+
+asset/anim/geliuganxiupu2SEATTACK5.png
+size: 511,501
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/geliuganxiupu2_pg_xuli2_001
+	rotate: false
+	xy: 0, 398
+	size: 146, 94
+	orig: 170, 114
+	offset: 15, 20
+	index: -1
+attack/geliuganxiupu2_pg_xuli2_005
+	rotate: false
+	xy: 356, 406
+	size: 146, 94
+	orig: 170, 114
+	offset: 15, 20
+	index: -1
+attack/geliuganxiupu2_pg_xuli2_006
+	rotate: false
+	xy: 147, 407
+	size: 144, 94
+	orig: 170, 114
+	offset: 16, 20
+	index: -1
+
+asset/anim/geliuganxiupu2SEATTACK4.png
+size: 494,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/geliuganxiupu2_pg_xuli2_002
+	rotate: true
+	xy: 399, 252
+	size: 146, 94
+	orig: 170, 114
+	offset: 15, 20
+	index: -1

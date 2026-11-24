@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>battle22_002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{142,168}</string>
+                <key>spriteSize</key>
+                <string>{1402,634}</string>
+                <key>spriteSourceSize</key>
+                <string>{1686,1152}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{1402,634}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>battle22Res_1.png</string>
+            <key>size</key>
+            <string>{2048,2048}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:e8dae345feb384b3d752fad53e59c45c:c1112dfc5bd6b739883caab20c920cde:985e509e42ae54bbd98585a57e4653e7$</string>
+            <key>textureFileName</key>
+            <string>battle22Res_1.png</string>
+        </dict>
+    </dict>
+</plist>

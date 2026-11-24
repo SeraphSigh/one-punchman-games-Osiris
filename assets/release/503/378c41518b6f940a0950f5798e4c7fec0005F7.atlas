@@ -1,0 +1,87 @@
+
+asset/anim/boluosiBSECOMMON2.png
+size: 1023,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/boluosib_q_guangqiu_00064
+	rotate: true
+	xy: 676, 849
+	size: 166, 176
+	orig: 166, 176
+	offset: 0, 0
+	index: -1
+common/boluosib_q_guangqiu_00062
+	rotate: false
+	xy: 453, 495
+	size: 166, 176
+	orig: 166, 176
+	offset: 0, 0
+	index: -1
+common/boluosib_q_guangqiu_00063
+	rotate: false
+	xy: 453, 672
+	size: 166, 176
+	orig: 166, 176
+	offset: 0, 0
+	index: -1
+
+asset/anim/boluosiBSECOMMON4.png
+size: 500,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/boluosib_q_guangqiu_00067
+	rotate: false
+	xy: 0, 0
+	size: 166, 176
+	orig: 166, 176
+	offset: 0, 0
+	index: -1
+common/boluosib_q_guangqiu_00068
+	rotate: false
+	xy: 167, 0
+	size: 166, 176
+	orig: 166, 176
+	offset: 0, 0
+	index: -1
+common/boluosib_q_guangqiu_00069
+	rotate: false
+	xy: 334, 0
+	size: 166, 176
+	orig: 166, 176
+	offset: 0, 0
+	index: -1
+
+asset/anim/boluosiBSEMAX0.png
+size: 2044,1925
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/blsb_max_shanbai
+	rotate: false
+	xy: 1999, 0
+	size: 8, 8
+	orig: 8, 8
+	offset: 0, 0
+	index: -1
+
+asset/anim/boluosiBSECOMMON3.png
+size: 999,968
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/boluosib_q_guangqiu_00065
+	rotate: true
+	xy: 150, 800
+	size: 166, 176
+	orig: 166, 176
+	offset: 0, 0
+	index: -1
+common/boluosib_q_guangqiu_00066
+	rotate: true
+	xy: 327, 798
+	size: 166, 176
+	orig: 166, 176
+	offset: 0, 0
+	index: -1

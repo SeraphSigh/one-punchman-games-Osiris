@@ -1,0 +1,20 @@
+
+asset/anim/shizijianSE.png
+size: 996,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shunyi1_shizijian
+	rotate: true
+	xy: 885, 277
+	size: 164, 108
+	orig: 164, 108
+	offset: 0, 0
+	index: -1
+shunyi_shizijian
+	rotate: false
+	xy: 708, 277
+	size: 176, 108
+	orig: 180, 108
+	offset: 4, 0
+	index: -1

@@ -1,0 +1,268 @@
+
+asset/anim/spineGlobalPic/pc_global0.png
+size: 710,923
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_nengliangbaodian_003
+	rotate: false
+	xy: 0, 0
+	size: 239, 206
+	orig: 269, 238
+	offset: 12, 14
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/anwuzhichuanyuanSE.png
+size: 510,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anwuzhichuanyuan_texiao_17
+	rotate: false
+	xy: 271, 454
+	size: 69, 36
+	orig: 69, 36
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_19
+	rotate: false
+	xy: 406, 454
+	size: 53, 30
+	orig: 53, 30
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_18
+	rotate: false
+	xy: 341, 454
+	size: 64, 36
+	orig: 64, 36
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao
+	rotate: false
+	xy: 426, 221
+	size: 59, 52
+	orig: 61, 52
+	offset: 2, 0
+	index: -1
+anwuzhichuanyuan_texiao_16
+	rotate: false
+	xy: 0, 483
+	size: 82, 5
+	orig: 82, 5
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_15
+	rotate: true
+	xy: 449, 0
+	size: 92, 29
+	orig: 92, 29
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_14
+	rotate: true
+	xy: 479, 0
+	size: 90, 29
+	orig: 90, 29
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_13
+	rotate: false
+	xy: 380, 334
+	size: 105, 119
+	orig: 105, 119
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_12
+	rotate: false
+	xy: 271, 334
+	size: 108, 119
+	orig: 108, 119
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_11
+	rotate: true
+	xy: 296, 130
+	size: 108, 129
+	orig: 108, 129
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_10
+	rotate: false
+	xy: 296, 0
+	size: 152, 129
+	orig: 152, 129
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_26
+	rotate: true
+	xy: 486, 369
+	size: 37, 21
+	orig: 37, 21
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_24
+	rotate: true
+	xy: 449, 93
+	size: 36, 21
+	orig: 36, 21
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_25
+	rotate: true
+	xy: 471, 93
+	size: 36, 21
+	orig: 36, 21
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_22
+	rotate: true
+	xy: 486, 221
+	size: 46, 24
+	orig: 46, 24
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_23
+	rotate: true
+	xy: 486, 329
+	size: 39, 21
+	orig: 39, 21
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_20
+	rotate: true
+	xy: 453, 274
+	size: 54, 27
+	orig: 54, 27
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_21
+	rotate: true
+	xy: 481, 274
+	size: 54, 27
+	orig: 54, 27
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_08
+	rotate: false
+	xy: 148, 0
+	size: 147, 160
+	orig: 147, 160
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_09
+	rotate: true
+	xy: 142, 322
+	size: 150, 128
+	orig: 152, 128
+	offset: 2, 0
+	index: -1
+anwuzhichuanyuan_texiao_02
+	rotate: true
+	xy: 426, 130
+	size: 90, 84
+	orig: 90, 84
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_03
+	rotate: true
+	xy: 286, 239
+	size: 94, 124
+	orig: 94, 124
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_04
+	rotate: false
+	xy: 0, 0
+	size: 147, 160
+	orig: 147, 160
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_05
+	rotate: false
+	xy: 0, 161
+	size: 147, 160
+	orig: 147, 160
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_06
+	rotate: false
+	xy: 0, 322
+	size: 141, 160
+	orig: 141, 160
+	offset: 0, 0
+	index: -1
+anwuzhichuanyuan_texiao_07
+	rotate: false
+	xy: 148, 161
+	size: 137, 160
+	orig: 137, 160
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_nengliangbaodian_000
+	rotate: false
+	xy: 111, 170
+	size: 72, 73
+	orig: 188, 167
+	offset: 60, 52
+	index: -1
+global/a_global_nengliangbaodian_005
+	rotate: false
+	xy: 115, 0
+	size: 114, 117
+	orig: 188, 167
+	offset: 45, 28
+	index: -1
+global/a_global_nengliangbaodian_006
+	rotate: false
+	xy: 230, 0
+	size: 112, 113
+	orig: 188, 167
+	offset: 45, 30
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_nengliangbaodian_001
+	rotate: false
+	xy: 264, 387
+	size: 128, 129
+	orig: 188, 167
+	offset: 31, 25
+	index: -1
+global/a_global_nengliangbaodian_002
+	rotate: false
+	xy: 0, 418
+	size: 136, 143
+	orig: 188, 167
+	offset: 26, 11
+	index: -1
+global/a_global_nengliangbaodian_004
+	rotate: true
+	xy: 0, 562
+	size: 142, 135
+	orig: 188, 167
+	offset: 27, 16
+	index: -1

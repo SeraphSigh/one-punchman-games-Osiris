@@ -1,0 +1,363 @@
+
+asset/anim/huangjinqiukapai.png
+size: 626,880
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zui_huangjinqiukapai
+	rotate: true
+	xy: 613, 413
+	size: 26, 13
+	orig: 26, 13
+	offset: 0, 0
+	index: -1
+tou_huangjinqiukapai
+	rotate: false
+	xy: 522, 413
+	size: 90, 114
+	orig: 90, 114
+	offset: 0, 0
+	index: -1
+bizi_huangjinqiukapai
+	rotate: true
+	xy: 403, 859
+	size: 21, 26
+	orig: 21, 26
+	offset: 0, 0
+	index: -1
+shizhi_huangjinqiukapai
+	rotate: true
+	xy: 164, 402
+	size: 20, 50
+	orig: 20, 50
+	offset: 0, 0
+	index: -1
+kua_huangjinqiukapai
+	rotate: false
+	xy: 164, 423
+	size: 200, 144
+	orig: 200, 144
+	offset: 0, 0
+	index: -1
+zhongzhi_huangjinqiukapai
+	rotate: false
+	xy: 595, 589
+	size: 29, 48
+	orig: 29, 48
+	offset: 0, 0
+	index: -1
+shengzi4_huangjinqiukapai
+	rotate: false
+	xy: 499, 589
+	size: 95, 51
+	orig: 95, 51
+	offset: 0, 0
+	index: -1
+youxiaobi_huangjinqiukapai
+	rotate: true
+	xy: 373, 401
+	size: 106, 148
+	orig: 106, 148
+	offset: 0, 0
+	index: -1
+zuoshangyanpi_huangjinqiukapai
+	rotate: true
+	xy: 338, 710
+	size: 22, 15
+	orig: 22, 15
+	offset: 0, 0
+	index: -1
+shengzi1_huangjinqiukapai
+	rotate: false
+	xy: 499, 715
+	size: 71, 81
+	orig: 71, 81
+	offset: 0, 0
+	index: -1
+dangong3_huangjinqiukapai
+	rotate: false
+	xy: 338, 859
+	size: 64, 21
+	orig: 64, 21
+	offset: 0, 0
+	index: -1
+shengzi3_huangjinqiukapai
+	rotate: false
+	xy: 551, 157
+	size: 70, 35
+	orig: 70, 35
+	offset: 0, 0
+	index: -1
+youdatui_huangjinqiukapai
+	rotate: false
+	xy: 164, 568
+	size: 189, 141
+	orig: 189, 141
+	offset: 0, 0
+	index: -1
+zuomeimao_huangjinqiukapai
+	rotate: false
+	xy: 164, 710
+	size: 28, 22
+	orig: 28, 22
+	offset: 0, 0
+	index: -1
+butu_1_huangjinqiu
+	rotate: true
+	xy: 430, 744
+	size: 121, 68
+	orig: 121, 68
+	offset: 0, 0
+	index: -1
+shengzier_huangjinqiukapai
+	rotate: false
+	xy: 499, 797
+	size: 57, 60
+	orig: 57, 60
+	offset: 0, 0
+	index: -1
+dangong1_huangjinqiukapai
+	rotate: false
+	xy: 499, 528
+	size: 113, 60
+	orig: 113, 60
+	offset: 0, 0
+	index: -1
+youxiaotui_huangjinqiukapai
+	rotate: false
+	xy: 215, 245
+	size: 157, 177
+	orig: 157, 177
+	offset: 0, 0
+	index: -1
+zuoshou_huangjinqiukapai
+	rotate: false
+	xy: 483, 641
+	size: 87, 73
+	orig: 87, 73
+	offset: 0, 0
+	index: -1
+maozi_huangjinqiukapai
+	rotate: true
+	xy: 571, 641
+	size: 62, 55
+	orig: 62, 55
+	offset: 0, 0
+	index: -1
+qiu4_huangjinqiukapai
+	rotate: false
+	xy: 605, 822
+	size: 18, 18
+	orig: 18, 18
+	offset: 0, 0
+	index: -1
+dangong2_huangjinqiukapai
+	rotate: false
+	xy: 369, 0
+	size: 181, 196
+	orig: 181, 196
+	offset: 0, 0
+	index: -1
+zuodatui_huangjinqiukapai
+	rotate: false
+	xy: 373, 197
+	size: 159, 203
+	orig: 159, 203
+	offset: 0, 0
+	index: -1
+xiaozhi_huangjinqiukapai
+	rotate: false
+	xy: 499, 858
+	size: 30, 18
+	orig: 30, 18
+	offset: 0, 0
+	index: -1
+youodabi_huangjinqiukapai
+	rotate: false
+	xy: 551, 0
+	size: 73, 156
+	orig: 73, 156
+	offset: 0, 0
+	index: -1
+zuoxiaobi_huangjinqiukapai
+	rotate: false
+	xy: 0, 738
+	size: 192, 142
+	orig: 192, 142
+	offset: 0, 0
+	index: -1
+wumingzhi_huangjinqiukapai
+	rotate: false
+	xy: 557, 844
+	size: 40, 24
+	orig: 40, 24
+	offset: 0, 0
+	index: -1
+guangqiu_huangjinqiukapai
+	rotate: false
+	xy: 354, 615
+	size: 128, 128
+	orig: 128, 128
+	offset: 0, 0
+	index: -1
+youxie_huangjinqiukapai
+	rotate: false
+	xy: 557, 798
+	size: 52, 23
+	orig: 52, 23
+	offset: 0, 0
+	index: -1
+youyanbai_huangjinqiukapai
+	rotate: false
+	xy: 483, 715
+	size: 12, 9
+	orig: 12, 9
+	offset: 0, 0
+	index: -1
+qiu2_huangjinqiukapai
+	rotate: false
+	xy: 530, 858
+	size: 19, 19
+	orig: 19, 19
+	offset: 0, 0
+	index: -1
+youjiao_huangjinqiukapai
+	rotate: true
+	xy: 365, 508
+	size: 106, 133
+	orig: 106, 133
+	offset: 0, 0
+	index: -1
+youshangyanpi_huangjinqiukapai
+	rotate: true
+	xy: 457, 866
+	size: 14, 9
+	orig: 14, 9
+	offset: 0, 0
+	index: -1
+shangshen_huangjinqiukapai
+	rotate: false
+	xy: 0, 0
+	size: 214, 401
+	orig: 214, 401
+	offset: 0, 0
+	index: -1
+dmuzhi_huangjinqiukapai
+	rotate: true
+	xy: 557, 822
+	size: 21, 47
+	orig: 21, 47
+	offset: 0, 0
+	index: -1
+pidian_huangjinqiukapai
+	rotate: true
+	xy: 571, 752
+	size: 45, 48
+	orig: 45, 48
+	offset: 0, 0
+	index: -1
+youmeimao_huangjinqiukapai
+	rotate: true
+	xy: 354, 568
+	size: 18, 8
+	orig: 18, 8
+	offset: 0, 0
+	index: -1
+zuoyanzhu_huangjinqiukapai
+	rotate: true
+	xy: 483, 635
+	size: 5, 6
+	orig: 5, 6
+	offset: 0, 0
+	index: -1
+qiu3_huangjinqiukapai
+	rotate: false
+	xy: 598, 844
+	size: 19, 19
+	orig: 19, 19
+	offset: 0, 0
+	index: -1
+youyanzhu_huangjinqiukapai
+	rotate: true
+	xy: 164, 733
+	size: 4, 5
+	orig: 4, 5
+	offset: 0, 0
+	index: -1
+qiu1_huangjinqiukapai
+	rotate: false
+	xy: 499, 508
+	size: 19, 19
+	orig: 19, 19
+	offset: 0, 0
+	index: -1
+youyanpi_huangjinqiukapai
+	rotate: true
+	xy: 365, 423
+	size: 12, 7
+	orig: 12, 7
+	offset: 0, 0
+	index: -1
+youshou_huangjinqiukapai
+	rotate: true
+	xy: 571, 704
+	size: 47, 55
+	orig: 47, 55
+	offset: 0, 0
+	index: -1
+zuoyanpi_huangjinqiukapai
+	rotate: true
+	xy: 483, 615
+	size: 19, 15
+	orig: 19, 15
+	offset: 0, 0
+	index: -1
+yijin1_huangjinqiukapai
+	rotate: false
+	xy: 0, 402
+	size: 163, 335
+	orig: 163, 335
+	offset: 0, 0
+	index: -1
+gun_huangjinqiukapai
+	rotate: false
+	xy: 430, 866
+	size: 26, 14
+	orig: 26, 14
+	offset: 0, 0
+	index: -1
+zuoyanbai_huangjinqiukapai
+	rotate: true
+	xy: 613, 440
+	size: 17, 13
+	orig: 17, 13
+	offset: 0, 0
+	index: -1
+zuodabi_huangjinqiukapai
+	rotate: true
+	xy: 193, 710
+	size: 170, 144
+	orig: 170, 144
+	offset: 0, 0
+	index: -1
+zuojiao_huangjinqiukapai
+	rotate: false
+	xy: 338, 744
+	size: 91, 114
+	orig: 91, 114
+	offset: 0, 0
+	index: -1
+zuoxiaotui_huangjinqiukapai
+	rotate: false
+	xy: 215, 0
+	size: 153, 244
+	orig: 153, 244
+	offset: 0, 0
+	index: -1
+yijin2_huangjinqiukapai
+	rotate: false
+	xy: 533, 197
+	size: 82, 215
+	orig: 82, 215
+	offset: 0, 0
+	index: -1

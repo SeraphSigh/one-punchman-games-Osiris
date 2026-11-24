@@ -1,0 +1,115 @@
+
+asset/anim/suonike2SECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/snk2_common_yanhouceng_00025
+	rotate: true
+	xy: 396, 812
+	size: 107, 30
+	orig: 203, 128
+	offset: 18, 42
+	index: -1
+common/snk2_common_yanhouceng_00018
+	rotate: false
+	xy: 674, 938
+	size: 193, 58
+	orig: 203, 128
+	offset: 5, 28
+	index: -1
+
+asset/anim/suonike2SECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/snk2_common_yanhouceng_00016
+	rotate: false
+	xy: 501, 662
+	size: 193, 78
+	orig: 203, 128
+	offset: 4, 21
+	index: -1
+common/snk2_common_yanhouceng_00013
+	rotate: true
+	xy: 466, 548
+	size: 123, 34
+	orig: 203, 128
+	offset: 3, 33
+	index: -1
+common/snk2_common_yanhouceng_00021
+	rotate: true
+	xy: 409, 548
+	size: 195, 56
+	orig: 203, 128
+	offset: 5, 27
+	index: -1
+common/snk2_common_yanhouceng_00022
+	rotate: false
+	xy: 695, 683
+	size: 195, 56
+	orig: 203, 128
+	offset: 5, 27
+	index: -1
+common/snk2_common_yanhouceng_00020
+	rotate: true
+	xy: 352, 548
+	size: 195, 56
+	orig: 203, 128
+	offset: 5, 27
+	index: -1
+
+asset/anim/suonike2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/snk2_common_yanhouceng_00024
+	rotate: false
+	xy: 0, 982
+	size: 183, 42
+	orig: 203, 128
+	offset: 18, 42
+	index: -1
+common/snk2_common_yanhouceng_00023
+	rotate: false
+	xy: 364, 964
+	size: 183, 44
+	orig: 203, 128
+	offset: 18, 41
+	index: -1
+
+asset/anim/suonike2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/snk2_common_yanhouceng_00015
+	rotate: true
+	xy: 971, 383
+	size: 169, 52
+	orig: 203, 128
+	offset: 4, 27
+	index: -1
+common/snk2_common_yanhouceng_00014
+	rotate: false
+	xy: 388, 758
+	size: 171, 46
+	orig: 203, 128
+	offset: 3, 29
+	index: -1
+common/snk2_common_yanhouceng_00017
+	rotate: false
+	xy: 392, 316
+	size: 191, 66
+	orig: 203, 128
+	offset: 6, 27
+	index: -1
+common/snk2_common_yanhouceng_00019
+	rotate: true
+	xy: 968, 553
+	size: 193, 56
+	orig: 203, 128
+	offset: 6, 28
+	index: -1

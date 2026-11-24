@@ -1,0 +1,1289 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/guairenqiaoze1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k_body_guairenqiaoze
+	rotate: false
+	xy: 128, 100
+	size: 98, 99
+	orig: 98, 99
+	offset: 0, 0
+	index: -1
+b_Larm_guairenqiaoze
+	rotate: true
+	xy: 373, 447
+	size: 63, 69
+	orig: 63, 69
+	offset: 0, 0
+	index: -1
+i_body_guairenqiaoze
+	rotate: false
+	xy: 226, 213
+	size: 86, 79
+	orig: 86, 79
+	offset: 0, 0
+	index: -1
+g_Rarm_guairenqiaoze
+	rotate: false
+	xy: 275, 366
+	size: 72, 80
+	orig: 72, 80
+	offset: 0, 0
+	index: -1
+c_Larm_guairenqiaoze
+	rotate: false
+	xy: 443, 444
+	size: 63, 68
+	orig: 63, 68
+	offset: 0, 0
+	index: -1
+b_body_guairenqiaoze
+	rotate: false
+	xy: 0, 209
+	size: 98, 74
+	orig: 98, 74
+	offset: 0, 0
+	index: -1
+q_Rhand_guairenqiaoze
+	rotate: true
+	xy: 170, 362
+	size: 22, 28
+	orig: 22, 28
+	offset: 0, 0
+	index: -1
+h_Lforearm_guairenqiaoze
+	rotate: true
+	xy: 242, 448
+	size: 64, 39
+	orig: 64, 39
+	offset: 0, 0
+	index: -1
+b_head_guairenqiaoze
+	rotate: false
+	xy: 0, 0
+	size: 152, 83
+	orig: 152, 83
+	offset: 0, 0
+	index: -1
+k_coxa_guairenqiaoze
+	rotate: true
+	xy: 0, 472
+	size: 40, 58
+	orig: 40, 58
+	offset: 0, 0
+	index: -1
+a_body_guairenqiaoze
+	rotate: false
+	xy: 227, 100
+	size: 84, 112
+	orig: 84, 112
+	offset: 0, 0
+	index: -1
+i_Lthigh_guairenqiaoze
+	rotate: false
+	xy: 162, 470
+	size: 79, 42
+	orig: 79, 42
+	offset: 0, 0
+	index: -1
+a_Lfoot_guairenqiaoze
+	rotate: false
+	xy: 92, 360
+	size: 40, 24
+	orig: 40, 24
+	offset: 0, 0
+	index: -1
+q_Larm_guairenqiaoze
+	rotate: false
+	xy: 310, 293
+	size: 70, 72
+	orig: 70, 72
+	offset: 0, 0
+	index: -1
+j_Rarm_guairenqiaoze
+	rotate: false
+	xy: 452, 366
+	size: 55, 69
+	orig: 55, 69
+	offset: 0, 0
+	index: -1
+n_head_guairenqiaoze
+	rotate: true
+	xy: 298, 0
+	size: 95, 144
+	orig: 95, 144
+	offset: 0, 0
+	index: -1
+h_Lfoot_guairenqiaoze
+	rotate: false
+	xy: 465, 259
+	size: 36, 32
+	orig: 36, 32
+	offset: 0, 0
+	index: -1
+h_Lthigh_guairenqiaoze
+	rotate: false
+	xy: 335, 447
+	size: 37, 65
+	orig: 37, 65
+	offset: 0, 0
+	index: -1
+o_body_guairenqiaoze
+	rotate: false
+	xy: 0, 385
+	size: 75, 86
+	orig: 75, 86
+	offset: 0, 0
+	index: -1
+q_Lshin_guairenqiaoze
+	rotate: true
+	xy: 59, 472
+	size: 40, 53
+	orig: 40, 53
+	offset: 0, 0
+	index: -1
+b_Rfoot_guairenqiaoze
+	rotate: true
+	xy: 491, 143
+	size: 36, 21
+	orig: 36, 21
+	offset: 0, 0
+	index: -1
+r_Rarm_guairenqiaoze
+	rotate: false
+	xy: 401, 196
+	size: 73, 62
+	orig: 73, 62
+	offset: 0, 0
+	index: -1
+f_Lthigh_guairenqiaoze
+	rotate: true
+	xy: 398, 259
+	size: 32, 66
+	orig: 32, 66
+	offset: 0, 0
+	index: -1
+f_Rshin_guairenqiaoze
+	rotate: true
+	xy: 475, 196
+	size: 62, 35
+	orig: 62, 35
+	offset: 0, 0
+	index: -1
+q_Rfoot_guairenqiaoze
+	rotate: true
+	xy: 491, 98
+	size: 44, 21
+	orig: 44, 21
+	offset: 0, 0
+	index: -1
+u_body_guairenqiaoze
+	rotate: true
+	xy: 128, 200
+	size: 88, 97
+	orig: 88, 97
+	offset: 0, 0
+	index: -1
+d_Rarm_guairenqiaoze
+	rotate: false
+	xy: 0, 333
+	size: 91, 51
+	orig: 91, 51
+	offset: 0, 0
+	index: -1
+l_Lfoot_guairenqiaoze
+	rotate: true
+	xy: 133, 360
+	size: 24, 36
+	orig: 24, 36
+	offset: 0, 0
+	index: -1
+x_body_guairenqiaoze
+	rotate: false
+	xy: 312, 96
+	size: 88, 102
+	orig: 88, 102
+	offset: 0, 0
+	index: -1
+o_coxa_guairenqiaoze
+	rotate: false
+	xy: 113, 472
+	size: 48, 40
+	orig: 48, 40
+	offset: 0, 0
+	index: -1
+j_Lshin_guairenqiaoze
+	rotate: false
+	xy: 99, 209
+	size: 28, 63
+	orig: 28, 63
+	offset: 0, 0
+	index: -1
+b_Rshin_guairenqiaoze
+	rotate: true
+	xy: 282, 447
+	size: 65, 52
+	orig: 65, 52
+	offset: 0, 0
+	index: -1
+i_Larm_guairenqiaoze
+	rotate: true
+	xy: 348, 366
+	size: 80, 66
+	orig: 80, 66
+	offset: 0, 0
+	index: -1
+f_Rthigh_guairenqiaoze
+	rotate: true
+	xy: 180, 289
+	size: 72, 44
+	orig: 72, 44
+	offset: 0, 0
+	index: -1
+u_Rfoot_guairenqiaoze
+	rotate: false
+	xy: 199, 448
+	size: 41, 21
+	orig: 41, 21
+	offset: 0, 0
+	index: -1
+n_body_guairenqiaoze
+	rotate: false
+	xy: 313, 199
+	size: 84, 92
+	orig: 84, 92
+	offset: 0, 0
+	index: -1
+p_head_guairenqiaoze
+	rotate: true
+	xy: 0, 84
+	size: 124, 127
+	orig: 124, 127
+	offset: 0, 0
+	index: -1
+t_body_guairenqiaoze
+	rotate: false
+	xy: 401, 98
+	size: 89, 97
+	orig: 89, 97
+	offset: 0, 0
+	index: -1
+d_body_guairenqiaoze
+	rotate: false
+	xy: 443, 0
+	size: 62, 97
+	orig: 62, 97
+	offset: 0, 0
+	index: -1
+q_Rthigh_guairenqiaoze
+	rotate: true
+	xy: 415, 366
+	size: 77, 36
+	orig: 77, 36
+	offset: 0, 0
+	index: -1
+f_head_guairenqiaoze
+	rotate: true
+	xy: 153, 0
+	size: 99, 144
+	orig: 99, 144
+	offset: 0, 0
+	index: -1
+g_Larm_guairenqiaoze
+	rotate: true
+	xy: 381, 292
+	size: 73, 70
+	orig: 73, 70
+	offset: 0, 0
+	index: -1
+
+asset/anim/guairenqiaoze0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+v_body_guairenqiaoze
+	rotate: false
+	xy: 184, 369
+	size: 83, 86
+	orig: 83, 86
+	offset: 0, 0
+	index: -1
+u_coxa_guairenqiaoze
+	rotate: false
+	xy: 332, 467
+	size: 52, 45
+	orig: 52, 45
+	offset: 0, 0
+	index: -1
+a_Larm_guairenqiaoze
+	rotate: false
+	xy: 459, 175
+	size: 53, 79
+	orig: 53, 79
+	offset: 0, 0
+	index: -1
+x_Rshin_guairenqiaoze
+	rotate: false
+	xy: 184, 456
+	size: 44, 56
+	orig: 44, 56
+	offset: 0, 0
+	index: -1
+p_body_guairenqiaoze
+	rotate: true
+	xy: 298, 177
+	size: 76, 93
+	orig: 76, 93
+	offset: 0, 0
+	index: -1
+u_head_guairenqiaoze
+	rotate: false
+	xy: 97, 179
+	size: 87, 161
+	orig: 87, 161
+	offset: 0, 0
+	index: -1
+o_Larm_guairenqiaoze
+	rotate: false
+	xy: 459, 92
+	size: 53, 82
+	orig: 53, 82
+	offset: 0, 0
+	index: -1
+a_siwang_guairenqiaoze
+	rotate: false
+	xy: 105, 0
+	size: 96, 157
+	orig: 96, 157
+	offset: 0, 0
+	index: -1
+q_body_guairenqiaoze
+	rotate: false
+	xy: 185, 232
+	size: 91, 84
+	orig: 91, 84
+	offset: 0, 0
+	index: -1
+a_dou_guairenqiaoze
+	rotate: true
+	xy: 146, 158
+	size: 19, 33
+	orig: 19, 33
+	offset: 0, 0
+	index: -1
+u_Rthigh_guairenqiaoze
+	rotate: false
+	xy: 459, 255
+	size: 53, 59
+	orig: 53, 59
+	offset: 0, 0
+	index: -1
+w_body_guairenqiaoze
+	rotate: true
+	xy: 268, 373
+	size: 79, 87
+	orig: 79, 87
+	offset: 0, 0
+	index: -1
+l_Lthigh_guairenqiaoze
+	rotate: true
+	xy: 265, 474
+	size: 38, 66
+	orig: 38, 66
+	offset: 0, 0
+	index: -1
+h_Lshin_guairenqiaoze
+	rotate: true
+	xy: 455, 362
+	size: 45, 57
+	orig: 45, 57
+	offset: 0, 0
+	index: -1
+t_head_guairenqiaoze
+	rotate: true
+	xy: 301, 96
+	size: 80, 157
+	orig: 80, 157
+	offset: 0, 0
+	index: -1
+a_head_guairenqiaoze
+	rotate: false
+	xy: 0, 337
+	size: 95, 156
+	orig: 95, 156
+	offset: 0, 0
+	index: -1
+a_Rshin_guairenqiaoze
+	rotate: false
+	xy: 229, 456
+	size: 35, 56
+	orig: 35, 56
+	offset: 0, 0
+	index: -1
+f_body_guairenqiaoze
+	rotate: true
+	xy: 369, 259
+	size: 73, 88
+	orig: 73, 88
+	offset: 0, 0
+	index: -1
+a_shouji_guairenqiaoze
+	rotate: true
+	xy: 301, 0
+	size: 95, 156
+	orig: 95, 156
+	offset: 0, 0
+	index: -1
+a_Rarm_guairenqiaoze
+	rotate: true
+	xy: 276, 321
+	size: 51, 90
+	orig: 51, 90
+	offset: 0, 0
+	index: -1
+h_Larm_guairenqiaoze
+	rotate: true
+	xy: 392, 177
+	size: 81, 66
+	orig: 81, 66
+	offset: 0, 0
+	index: -1
+r_body_guairenqiaoze
+	rotate: true
+	xy: 202, 156
+	size: 75, 95
+	orig: 75, 95
+	offset: 0, 0
+	index: -1
+x_head_guairenqiaoze
+	rotate: false
+	xy: 202, 0
+	size: 98, 155
+	orig: 98, 155
+	offset: 0, 0
+	index: -1
+gd_guairenqiaoze
+	rotate: false
+	xy: 0, 0
+	size: 104, 178
+	orig: 104, 178
+	offset: 0, 0
+	index: -1
+x_coxa_guairenqiaoze
+	rotate: false
+	xy: 438, 474
+	size: 59, 38
+	orig: 59, 38
+	offset: 0, 0
+	index: -1
+a_benghuai_guairenqiaoze
+	rotate: false
+	xy: 0, 179
+	size: 96, 157
+	orig: 96, 157
+	offset: 0, 0
+	index: -1
+i_Lfoot_guairenqiaoze
+	rotate: false
+	xy: 105, 158
+	size: 40, 20
+	orig: 40, 20
+	offset: 0, 0
+	index: -1
+n_coxa_guairenqiaoze
+	rotate: false
+	xy: 458, 315
+	size: 54, 46
+	orig: 54, 46
+	offset: 0, 0
+	index: -1
+q_Rarm_guairenqiaoze
+	rotate: false
+	xy: 367, 333
+	size: 87, 63
+	orig: 87, 63
+	offset: 0, 0
+	index: -1
+o_head_guairenqiaoze
+	rotate: false
+	xy: 96, 341
+	size: 87, 150
+	orig: 87, 150
+	offset: 0, 0
+	index: -1
+n_Larm_guairenqiaoze
+	rotate: true
+	xy: 443, 408
+	size: 65, 69
+	orig: 65, 69
+	offset: 0, 0
+	index: -1
+m_body_guairenqiaoze
+	rotate: true
+	xy: 277, 254
+	size: 66, 91
+	orig: 66, 91
+	offset: 0, 0
+	index: -1
+
+asset/anim/guairenqiaoze2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j_Rhand_guairenqiaoze
+	rotate: false
+	xy: 157, 295
+	size: 43, 43
+	orig: 43, 43
+	offset: 0, 0
+	index: -1
+g_Rthigh_guairenqiaoze
+	rotate: false
+	xy: 467, 315
+	size: 45, 33
+	orig: 45, 33
+	offset: 0, 0
+	index: -1
+a_Lthigh_guairenqiaoze
+	rotate: true
+	xy: 0, 152
+	size: 43, 59
+	orig: 43, 59
+	offset: 0, 0
+	index: -1
+x_Lthigh_guairenqiaoze
+	rotate: true
+	xy: 349, 64
+	size: 49, 58
+	orig: 49, 58
+	offset: 0, 0
+	index: -1
+u_Lfoot_guairenqiaoze
+	rotate: true
+	xy: 75, 452
+	size: 39, 28
+	orig: 39, 28
+	offset: 0, 0
+	index: -1
+x_Rthigh_guairenqiaoze
+	rotate: true
+	xy: 417, 40
+	size: 51, 58
+	orig: 51, 58
+	offset: 0, 0
+	index: -1
+b_Rforearm_guairenqiaoze
+	rotate: false
+	xy: 330, 198
+	size: 51, 42
+	orig: 51, 42
+	offset: 0, 0
+	index: -1
+a_Rforearm_guairenqiaoze
+	rotate: false
+	xy: 62, 117
+	size: 59, 47
+	orig: 59, 47
+	offset: 0, 0
+	index: -1
+g_Rforearm_guairenqiaoze
+	rotate: false
+	xy: 329, 285
+	size: 34, 33
+	orig: 34, 33
+	offset: 0, 0
+	index: -1
+e_Rfoot_guairenqiaoze
+	rotate: true
+	xy: 154, 491
+	size: 21, 34
+	orig: 21, 34
+	offset: 0, 0
+	index: -1
+x_Lhand_guairenqiaoze
+	rotate: true
+	xy: 45, 302
+	size: 38, 43
+	orig: 38, 43
+	offset: 0, 0
+	index: -1
+d_Rthigh_guairenqiaoze
+	rotate: true
+	xy: 179, 161
+	size: 52, 53
+	orig: 52, 53
+	offset: 0, 0
+	index: -1
+k_Lforearm_guairenqiaoze
+	rotate: false
+	xy: 224, 452
+	size: 32, 34
+	orig: 32, 34
+	offset: 0, 0
+	index: -1
+q_Lthigh_guairenqiaoze
+	rotate: true
+	xy: 477, 0
+	size: 54, 35
+	orig: 54, 35
+	offset: 0, 0
+	index: -1
+k_Lhand_guairenqiaoze
+	rotate: true
+	xy: 430, 286
+	size: 41, 36
+	orig: 41, 36
+	offset: 0, 0
+	index: -1
+h_Lhand_guairenqiaoze
+	rotate: true
+	xy: 235, 308
+	size: 35, 32
+	orig: 35, 32
+	offset: 0, 0
+	index: -1
+g_Rshin_guairenqiaoze
+	rotate: false
+	xy: 0, 355
+	size: 43, 27
+	orig: 43, 27
+	offset: 0, 0
+	index: -1
+u_Lhand_guairenqiaoze
+	rotate: true
+	xy: 168, 378
+	size: 37, 29
+	orig: 37, 29
+	offset: 0, 0
+	index: -1
+g_Lhand_guairenqiaoze
+	rotate: true
+	xy: 250, 280
+	size: 27, 23
+	orig: 27, 23
+	offset: 0, 0
+	index: -1
+p_Rarm_guairenqiaoze
+	rotate: false
+	xy: 73, 0
+	size: 70, 66
+	orig: 70, 66
+	offset: 0, 0
+	index: -1
+c_Lhand_guairenqiaoze
+	rotate: false
+	xy: 157, 339
+	size: 36, 38
+	orig: 36, 38
+	offset: 0, 0
+	index: -1
+q_Rforearm_guairenqiaoze
+	rotate: false
+	xy: 154, 452
+	size: 33, 38
+	orig: 33, 38
+	offset: 0, 0
+	index: -1
+e_Rshin_guairenqiaoze
+	rotate: false
+	xy: 144, 47
+	size: 63, 44
+	orig: 63, 44
+	offset: 0, 0
+	index: -1
+u_Rhand_guairenqiaoze
+	rotate: false
+	xy: 82, 417
+	size: 37, 34
+	orig: 37, 34
+	offset: 0, 0
+	index: -1
+s_Rhand_guairenqiaoze
+	rotate: false
+	xy: 0, 383
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+e_Rthigh_guairenqiaoze
+	rotate: false
+	xy: 0, 245
+	size: 53, 32
+	orig: 53, 32
+	offset: 0, 0
+	index: -1
+k_Lshin_guairenqiaoze
+	rotate: false
+	xy: 0, 196
+	size: 55, 48
+	orig: 55, 48
+	offset: 0, 0
+	index: -1
+a_Rthigh_guairenqiaoze
+	rotate: true
+	xy: 408, 92
+	size: 41, 58
+	orig: 41, 58
+	offset: 0, 0
+	index: -1
+p_coxa_guairenqiaoze
+	rotate: false
+	xy: 277, 168
+	size: 52, 37
+	orig: 52, 37
+	offset: 0, 0
+	index: -1
+o_Lfoot_guairenqiaoze
+	rotate: false
+	xy: 131, 452
+	size: 22, 39
+	orig: 22, 39
+	offset: 0, 0
+	index: -1
+d_Lfoot_guairenqiaoze
+	rotate: false
+	xy: 226, 415
+	size: 31, 34
+	orig: 31, 34
+	offset: 0, 0
+	index: -1
+q_Rshin_guairenqiaoze
+	rotate: false
+	xy: 0, 115
+	size: 61, 36
+	orig: 61, 36
+	offset: 0, 0
+	index: -1
+q_Lforearm_guairenqiaoze
+	rotate: true
+	xy: 170, 214
+	size: 37, 49
+	orig: 37, 49
+	offset: 0, 0
+	index: -1
+g_Rhand_guairenqiaoze
+	rotate: false
+	xy: 257, 450
+	size: 30, 33
+	orig: 30, 33
+	offset: 0, 0
+	index: -1
+x_Rforearm_guairenqiaoze
+	rotate: false
+	xy: 467, 153
+	size: 45, 43
+	orig: 45, 43
+	offset: 0, 0
+	index: -1
+o_Lhand_guairenqiaoze
+	rotate: false
+	xy: 201, 308
+	size: 33, 35
+	orig: 33, 35
+	offset: 0, 0
+	index: -1
+g_Lforearm_guairenqiaoze
+	rotate: true
+	xy: 302, 280
+	size: 29, 26
+	orig: 29, 26
+	offset: 0, 0
+	index: -1
+d_Rshin_guairenqiaoze
+	rotate: false
+	xy: 116, 170
+	size: 53, 50
+	orig: 53, 50
+	offset: 0, 0
+	index: -1
+j_Lthigh_guairenqiaoze
+	rotate: true
+	xy: 220, 234
+	size: 34, 49
+	orig: 34, 49
+	offset: 0, 0
+	index: -1
+a_Lhand_guairenqiaoze
+	rotate: true
+	xy: 438, 189
+	size: 45, 28
+	orig: 45, 28
+	offset: 0, 0
+	index: -1
+o_Lshin_guairenqiaoze
+	rotate: true
+	xy: 329, 241
+	size: 43, 50
+	orig: 43, 50
+	offset: 0, 0
+	index: -1
+a_Rfoot_guairenqiaoze
+	rotate: false
+	xy: 232, 349
+	size: 26, 28
+	orig: 26, 28
+	offset: 0, 0
+	index: -1
+a_Lshin_guairenqiaoze
+	rotate: true
+	xy: 277, 69
+	size: 28, 58
+	orig: 28, 58
+	offset: 0, 0
+	index: -1
+u_Rshin_guairenqiaoze
+	rotate: true
+	xy: 144, 0
+	size: 46, 68
+	orig: 46, 68
+	offset: 0, 0
+	index: -1
+u_Rforearm_guairenqiaoze
+	rotate: true
+	xy: 333, 114
+	size: 41, 54
+	orig: 41, 54
+	offset: 0, 0
+	index: -1
+r_Rhand_guairenqiaoze
+	rotate: false
+	xy: 0, 422
+	size: 39, 37
+	orig: 39, 37
+	offset: 0, 0
+	index: -1
+j_coxa_guairenqiaoze
+	rotate: true
+	xy: 110, 253
+	size: 42, 46
+	orig: 42, 46
+	offset: 0, 0
+	index: -1
+o_Lthigh_guairenqiaoze
+	rotate: false
+	xy: 122, 135
+	size: 56, 34
+	orig: 56, 34
+	offset: 0, 0
+	index: -1
+q_coxa_guairenqiaoze
+	rotate: false
+	xy: 382, 214
+	size: 50, 49
+	orig: 50, 49
+	offset: 0, 0
+	index: -1
+j_Rthigh_guairenqiaoze
+	rotate: true
+	xy: 213, 0
+	size: 34, 68
+	orig: 34, 68
+	offset: 0, 0
+	index: -1
+t_Rforearm_guairenqiaoze
+	rotate: true
+	xy: 433, 235
+	size: 50, 33
+	orig: 50, 33
+	offset: 0, 0
+	index: -1
+b_Lforearm_guairenqiaoze
+	rotate: false
+	xy: 467, 279
+	size: 45, 35
+	orig: 45, 35
+	offset: 0, 0
+	index: -1
+x_Rhand_guairenqiaoze
+	rotate: true
+	xy: 100, 296
+	size: 41, 43
+	orig: 41, 43
+	offset: 0, 0
+	index: -1
+b_coxa_guairenqiaoze
+	rotate: false
+	xy: 380, 264
+	size: 49, 43
+	orig: 49, 43
+	offset: 0, 0
+	index: -1
+i_Lshin_guairenqiaoze
+	rotate: false
+	xy: 132, 92
+	size: 60, 42
+	orig: 60, 42
+	offset: 0, 0
+	index: -1
+k_Rhand_guairenqiaoze
+	rotate: true
+	xy: 44, 377
+	size: 35, 42
+	orig: 35, 42
+	offset: 0, 0
+	index: -1
+n_Lforearm_guairenqiaoze
+	rotate: false
+	xy: 332, 156
+	size: 52, 41
+	orig: 52, 41
+	offset: 0, 0
+	index: -1
+i_Lforearm_guairenqiaoze
+	rotate: false
+	xy: 225, 378
+	size: 36, 36
+	orig: 36, 36
+	offset: 0, 0
+	index: -1
+f_coxa_guairenqiaoze
+	rotate: true
+	xy: 60, 165
+	size: 53, 55
+	orig: 53, 55
+	offset: 0, 0
+	index: -1
+l_Lshin_guairenqiaoze
+	rotate: true
+	xy: 56, 219
+	size: 50, 53
+	orig: 50, 53
+	offset: 0, 0
+	index: -1
+q_Lhand_guairenqiaoze
+	rotate: false
+	xy: 104, 452
+	size: 26, 39
+	orig: 26, 39
+	offset: 0, 0
+	index: -1
+j_Lfoot_guairenqiaoze
+	rotate: true
+	xy: 133, 338
+	size: 39, 23
+	orig: 39, 23
+	offset: 0, 0
+	index: -1
+s_Rforearm_guairenqiaoze
+	rotate: false
+	xy: 189, 416
+	size: 36, 35
+	orig: 36, 35
+	offset: 0, 0
+	index: -1
+k_Larm_guairenqiaoze
+	rotate: false
+	xy: 350, 0
+	size: 66, 63
+	orig: 66, 63
+	offset: 0, 0
+	index: -1
+f_Lfoot_guairenqiaoze
+	rotate: true
+	xy: 441, 164
+	size: 24, 25
+	orig: 24, 25
+	offset: 0, 0
+	index: -1
+r_Rforearm_guairenqiaoze
+	rotate: true
+	xy: 193, 96
+	size: 34, 57
+	orig: 34, 57
+	offset: 0, 0
+	index: -1
+d_Rhand_guairenqiaoze
+	rotate: true
+	xy: 268, 308
+	size: 34, 33
+	orig: 34, 33
+	offset: 0, 0
+	index: -1
+o_Lforearm_guairenqiaoze
+	rotate: true
+	xy: 476, 55
+	size: 53, 36
+	orig: 53, 36
+	offset: 0, 0
+	index: -1
+m_Rforearm_guairenqiaoze
+	rotate: false
+	xy: 467, 109
+	size: 45, 43
+	orig: 45, 43
+	offset: 0, 0
+	index: -1
+u_Lshin_guairenqiaoze
+	rotate: false
+	xy: 277, 98
+	size: 55, 39
+	orig: 55, 39
+	offset: 0, 0
+	index: -1
+f_Rfoot_guairenqiaoze
+	rotate: true
+	xy: 251, 96
+	size: 44, 25
+	orig: 44, 25
+	offset: 0, 0
+	index: -1
+a_coxa_guairenqiaoze
+	rotate: false
+	xy: 417, 0
+	size: 59, 39
+	orig: 59, 39
+	offset: 0, 0
+	index: -1
+t_Rhand_guairenqiaoze
+	rotate: true
+	xy: 205, 269
+	size: 34, 44
+	orig: 34, 44
+	offset: 0, 0
+	index: -1
+m_coxa_guairenqiaoze
+	rotate: false
+	xy: 270, 242
+	size: 47, 37
+	orig: 47, 37
+	offset: 0, 0
+	index: -1
+g_Rfoot_guairenqiaoze
+	rotate: false
+	xy: 189, 490
+	size: 30, 21
+	orig: 30, 21
+	offset: 0, 0
+	index: -1
+d_Rforearm_guairenqiaoze
+	rotate: true
+	xy: 44, 341
+	size: 35, 43
+	orig: 35, 43
+	offset: 0, 0
+	index: -1
+j_Rshin_guairenqiaoze
+	rotate: true
+	xy: 277, 138
+	size: 29, 54
+	orig: 29, 54
+	offset: 0, 0
+	index: -1
+d_coxa_guairenqiaoze
+	rotate: false
+	xy: 158, 252
+	size: 46, 42
+	orig: 46, 42
+	offset: 0, 0
+	index: -1
+k_Lthigh_guairenqiaoze
+	rotate: false
+	xy: 213, 35
+	size: 63, 60
+	orig: 63, 60
+	offset: 0, 0
+	index: -1
+p_Rhand_guairenqiaoze
+	rotate: false
+	xy: 155, 417
+	size: 33, 34
+	orig: 33, 34
+	offset: 0, 0
+	index: -1
+r_coxa_guairenqiaoze
+	rotate: true
+	xy: 467, 197
+	size: 43, 45
+	orig: 43, 45
+	offset: 0, 0
+	index: -1
+b_Rthigh_guairenqiaoze
+	rotate: true
+	xy: 282, 27
+	size: 41, 66
+	orig: 41, 66
+	offset: 0, 0
+	index: -1
+u_Lthigh_guairenqiaoze
+	rotate: true
+	xy: 0, 63
+	size: 51, 68
+	orig: 51, 68
+	offset: 0, 0
+	index: -1
+c_Lforearm_guairenqiaoze
+	rotate: true
+	xy: 233, 182
+	size: 51, 43
+	orig: 51, 43
+	offset: 0, 0
+	index: -1
+p_Rforearm_guairenqiaoze
+	rotate: false
+	xy: 277, 206
+	size: 51, 35
+	orig: 51, 35
+	offset: 0, 0
+	index: -1
+t_coxa_guairenqiaoze
+	rotate: false
+	xy: 385, 181
+	size: 52, 32
+	orig: 52, 32
+	offset: 0, 0
+	index: -1
+k_Lfoot_guairenqiaoze
+	rotate: false
+	xy: 194, 349
+	size: 37, 28
+	orig: 37, 28
+	offset: 0, 0
+	index: -1
+f_Lshin_guairenqiaoze
+	rotate: true
+	xy: 282, 0
+	size: 26, 67
+	orig: 26, 67
+	offset: 0, 0
+	index: -1
+j_Rfoot_guairenqiaoze
+	rotate: true
+	xy: 198, 378
+	size: 37, 26
+	orig: 37, 26
+	offset: 0, 0
+	index: -1
+i_coxa_guairenqiaoze
+	rotate: false
+	xy: 467, 241
+	size: 45, 37
+	orig: 45, 37
+	offset: 0, 0
+	index: -1
+j_Rforearm_guairenqiaoze
+	rotate: true
+	xy: 0, 278
+	size: 38, 44
+	orig: 38, 44
+	offset: 0, 0
+	index: -1
+i_Lhand_guairenqiaoze
+	rotate: false
+	xy: 88, 376
+	size: 42, 40
+	orig: 42, 40
+	offset: 0, 0
+	index: -1
+x_Lshin_guairenqiaoze
+	rotate: true
+	xy: 193, 131
+	size: 29, 57
+	orig: 29, 57
+	offset: 0, 0
+	index: -1
+n_Lhand_guairenqiaoze
+	rotate: false
+	xy: 120, 417
+	size: 34, 34
+	orig: 34, 34
+	offset: 0, 0
+	index: -1
+a_Lforearm_guairenqiaoze
+	rotate: false
+	xy: 0, 317
+	size: 43, 37
+	orig: 43, 37
+	offset: 0, 0
+	index: -1
+q_Lfoot_guairenqiaoze
+	rotate: true
+	xy: 441, 134
+	size: 29, 25
+	orig: 29, 25
+	offset: 0, 0
+	index: -1
+b_Lhand_guairenqiaoze
+	rotate: false
+	xy: 188, 452
+	size: 35, 37
+	orig: 35, 37
+	offset: 0, 0
+	index: -1
+b_Rhand_guairenqiaoze
+	rotate: false
+	xy: 131, 378
+	size: 36, 38
+	orig: 36, 38
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

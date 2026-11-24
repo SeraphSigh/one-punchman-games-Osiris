@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>dazui_kingjia.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{454,802}</string>
+                <key>spriteSourceSize</key>
+                <string>{454,802}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{454,802}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>dazui_kingjia0.png</string>
+            <key>size</key>
+            <string>{454,802}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:2dddca00b7df5589fab7ae6be2e3af9e:8afe478f7be1ced327e59b1f6820539e:4f7878ffd6ee58fabbd2a50dd416c39d$</string>
+            <key>textureFileName</key>
+            <string>dazui_kingjia0.png</string>
+        </dict>
+    </dict>
+</plist>

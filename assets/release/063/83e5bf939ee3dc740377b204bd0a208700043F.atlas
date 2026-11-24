@@ -1,0 +1,75 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+
+asset/anim/wenziB0.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duzi_wenziB
+	rotate: true
+	xy: 0, 61
+	size: 51, 22
+	orig: 51, 22
+	offset: 0, 0
+	index: -1
+tui2wenziB
+	rotate: true
+	xy: 83, 31
+	size: 6, 37
+	orig: 6, 37
+	offset: 0, 0
+	index: -1
+tui4wenziB
+	rotate: true
+	xy: 83, 16
+	size: 14, 41
+	orig: 14, 41
+	offset: 0, 0
+	index: -1
+tui3_wenziB
+	rotate: true
+	xy: 83, 0
+	size: 15, 42
+	orig: 15, 42
+	offset: 0, 0
+	index: -1
+tui1_wenziB
+	rotate: true
+	xy: 82, 38
+	size: 10, 33
+	orig: 10, 33
+	offset: 0, 0
+	index: -1
+banshen_wenziB
+	rotate: false
+	xy: 0, 0
+	size: 82, 31
+	orig: 82, 31
+	offset: 0, 0
+	index: -1
+youchi_wenziB
+	rotate: true
+	xy: 0, 32
+	size: 28, 53
+	orig: 28, 53
+	offset: 0, 0
+	index: -1
+zuochi_wenziB
+	rotate: false
+	xy: 23, 61
+	size: 48, 50
+	orig: 48, 50
+	offset: 0, 0
+	index: -1

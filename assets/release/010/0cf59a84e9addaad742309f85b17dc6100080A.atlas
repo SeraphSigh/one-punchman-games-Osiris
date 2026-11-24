@@ -1,0 +1,122 @@
+
+asset/anim/wenzhangbeidongji2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenzhangbeidongji_xia_5
+	rotate: true
+	xy: 0, 690
+	size: 326, 302
+	orig: 326, 302
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_xia_6
+	rotate: false
+	xy: 303, 706
+	size: 326, 302
+	orig: 326, 302
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_xia_7
+	rotate: false
+	xy: 630, 706
+	size: 326, 302
+	orig: 326, 302
+	offset: 0, 0
+	index: -1
+
+asset/anim/wenzhangbeidongji3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenzhangbeidongji_xia_9
+	rotate: true
+	xy: 412, 672
+	size: 326, 302
+	orig: 326, 302
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_xia_8
+	rotate: false
+	xy: 412, 369
+	size: 326, 302
+	orig: 326, 302
+	offset: 0, 0
+	index: -1
+
+asset/anim/wenzhangbeidongji0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenzhangbeidongji_di1
+	rotate: false
+	xy: 844, 0
+	size: 130, 92
+	orig: 154, 98
+	offset: 15, 6
+	index: -1
+wenzhangbeidongji_heidi
+	rotate: true
+	xy: 975, 0
+	size: 33, 34
+	orig: 33, 34
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_xia_4
+	rotate: false
+	xy: 0, 791
+	size: 326, 232
+	orig: 326, 302
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_xia_1
+	rotate: true
+	xy: 738, 369
+	size: 326, 188
+	orig: 326, 302
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_xia_2
+	rotate: false
+	xy: 654, 791
+	size: 326, 226
+	orig: 326, 302
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_xia_3
+	rotate: false
+	xy: 327, 791
+	size: 326, 230
+	orig: 326, 302
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_kejitiao_6
+	rotate: true
+	xy: 975, 34
+	size: 128, 31
+	orig: 146, 51
+	offset: 11, 14
+	index: -1
+
+asset/anim/wenzhangbeidongji1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenzhangbeidongji_xia_10
+	rotate: true
+	xy: 718, 369
+	size: 326, 302
+	orig: 326, 302
+	offset: 0, 0
+	index: -1
+wenzhangbeidongji_xia_11
+	rotate: true
+	xy: 718, 696
+	size: 326, 302
+	orig: 326, 302
+	offset: 0, 0
+	index: -1

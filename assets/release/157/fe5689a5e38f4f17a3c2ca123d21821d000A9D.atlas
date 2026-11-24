@@ -1,0 +1,163 @@
+
+asset/anim/wugongxuezhangSE3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wgzlrc_changjingyan_18
+	rotate: false
+	xy: 529, 301
+	size: 261, 181
+	orig: 293, 213
+	offset: 2, 5
+	index: -1
+wgzlrc_changjingyan_5
+	rotate: false
+	xy: 265, 207
+	size: 263, 183
+	orig: 293, 213
+	offset: 18, 0
+	index: -1
+wgzlrc_changjingyan_3
+	rotate: false
+	xy: 271, 61
+	size: 267, 145
+	orig: 293, 213
+	offset: 12, 0
+	index: -1
+
+asset/anim/wugongxuezhangSE2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wgzlrc_changjingyan_16
+	rotate: false
+	xy: 580, 212
+	size: 287, 207
+	orig: 293, 213
+	offset: 0, 0
+	index: -1
+wgzlrc_changjingyan_15
+	rotate: false
+	xy: 0, 178
+	size: 287, 203
+	orig: 293, 213
+	offset: 0, 7
+	index: -1
+wgzlrc_changjingyan_14
+	rotate: false
+	xy: 292, 105
+	size: 287, 207
+	orig: 293, 213
+	offset: 0, 3
+	index: -1
+wgzlrc_changjingyan_13
+	rotate: false
+	xy: 583, 0
+	size: 287, 211
+	orig: 293, 213
+	offset: 0, 1
+	index: -1
+wgzlrc_changjingyan_10
+	rotate: false
+	xy: 287, 435
+	size: 281, 195
+	orig: 293, 213
+	offset: 0, 3
+	index: -1
+wgzlrc_changjingyan_6
+	rotate: false
+	xy: 0, 441
+	size: 281, 189
+	orig: 293, 213
+	offset: 9, 0
+	index: -1
+wgzlrc_changjingyan_4
+	rotate: false
+	xy: 0, 0
+	size: 291, 177
+	orig: 293, 213
+	offset: 0, 2
+	index: -1
+wgzlrc_changjingyan_2
+	rotate: false
+	xy: 871, 0
+	size: 153, 127
+	orig: 293, 213
+	offset: 39, 1
+	index: -1
+wgzlrc_changjingyan_9
+	rotate: true
+	xy: 0, 704
+	size: 279, 195
+	orig: 293, 213
+	offset: 3, 1
+	index: -1
+
+asset/anim/wugongxuezhangSE1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wgzlrc_changjingyan_17
+	rotate: false
+	xy: 0, 634
+	size: 253, 199
+	orig: 293, 213
+	offset: 6, 5
+	index: -1
+wgzlrc_changjingyan_12
+	rotate: false
+	xy: 617, 537
+	size: 291, 209
+	orig: 293, 213
+	offset: 0, 0
+	index: -1
+wgzlrc_changjingyan_11
+	rotate: false
+	xy: 617, 747
+	size: 291, 205
+	orig: 293, 213
+	offset: 0, 0
+	index: -1
+wgzlrc_changjingyan_7
+	rotate: false
+	xy: 617, 193
+	size: 293, 191
+	orig: 293, 213
+	offset: 0, 0
+	index: -1
+wgzlrc_yuanchulou_00062
+	rotate: false
+	xy: 0, 0
+	size: 616, 184
+	orig: 656, 202
+	offset: 20, 8
+	index: -1
+
+asset/anim/wugongxuezhangSE8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wgzlrc_changjingyan_1
+	rotate: true
+	xy: 914, 667
+	size: 81, 107
+	orig: 293, 213
+	offset: 56, 0
+	index: -1
+
+asset/anim/wugongxuezhangSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wgzlrc_changjingyan_8
+	rotate: false
+	xy: 748, 772
+	size: 275, 195
+	orig: 293, 213
+	offset: 4, 0
+	index: -1

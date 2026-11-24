@@ -1,0 +1,404 @@
+
+asset/anim/anwuzhichuanyuanCSE0.png
+size: 1022,1019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anwuzhiC_guang_0016
+	rotate: true
+	xy: 183, 0
+	size: 219, 205
+	orig: 219, 209
+	offset: 0, 0
+	index: -1
+anwuzhiC_guang_0010
+	rotate: false
+	xy: 593, 0
+	size: 219, 201
+	orig: 219, 209
+	offset: 0, 0
+	index: -1
+anwuzhiC_guang_0013
+	rotate: true
+	xy: 199, 220
+	size: 219, 203
+	orig: 219, 209
+	offset: 0, 0
+	index: -1
+anwuzhiC_guang_0012
+	rotate: true
+	xy: 0, 450
+	size: 219, 203
+	orig: 219, 209
+	offset: 0, 0
+	index: -1
+anwuzhiC_guang_0019
+	rotate: true
+	xy: 0, 670
+	size: 219, 203
+	orig: 219, 209
+	offset: 0, 0
+	index: -1
+anwuzhiC_guang_0018
+	rotate: false
+	xy: 589, 404
+	size: 219, 201
+	orig: 219, 209
+	offset: 0, 0
+	index: -1
+anwuzhiC_guang_0015
+	rotate: true
+	xy: 813, 220
+	size: 219, 201
+	orig: 219, 209
+	offset: 0, 0
+	index: -1
+anwuzhiC_guang_0011
+	rotate: true
+	xy: 813, 0
+	size: 219, 201
+	orig: 219, 209
+	offset: 0, 0
+	index: -1
+anwuzhiC_baoguang_0017
+	rotate: true
+	xy: 204, 813
+	size: 48, 40
+	orig: 232, 222
+	offset: 108, 47
+	index: -1
+anwuzhiC_baoza_0012
+	rotate: false
+	xy: 808, 634
+	size: 214, 190
+	orig: 220, 204
+	offset: 3, 7
+	index: -1
+anwuzhiC_baoza_0010
+	rotate: true
+	xy: 397, 604
+	size: 214, 190
+	orig: 220, 204
+	offset: 2, 7
+	index: -1
+anwuzhiC_baoza_0011
+	rotate: true
+	xy: 204, 440
+	size: 214, 192
+	orig: 220, 204
+	offset: 3, 6
+	index: -1
+anwuzhiC_dian_0003
+	rotate: false
+	xy: 136, 890
+	size: 157, 127
+	orig: 183, 181
+	offset: 12, 27
+	index: -1
+anwuzhiC_qiuqiu
+	rotate: false
+	xy: 403, 434
+	size: 170, 169
+	orig: 170, 169
+	offset: 0, 0
+	index: -1
+anwuzhiC_baoguang_0007
+	rotate: true
+	xy: 0, 0
+	size: 226, 182
+	orig: 232, 222
+	offset: 2, 12
+	index: -1
+anwuzhiC_guang_0009
+	rotate: false
+	xy: 588, 606
+	size: 219, 199
+	orig: 219, 209
+	offset: 0, 0
+	index: -1
+anwuzhiC_dian_0002
+	rotate: true
+	xy: 0, 890
+	size: 129, 135
+	orig: 183, 181
+	offset: 17, 22
+	index: -1
+anwuzhiC_baoguang_0005
+	rotate: false
+	xy: 294, 819
+	size: 216, 200
+	orig: 232, 222
+	offset: 7, 10
+	index: -1
+anwuzhiC_dian_0006
+	rotate: true
+	xy: 874, 825
+	size: 151, 123
+	orig: 183, 181
+	offset: 22, 35
+	index: -1
+anwuzhiC_dian_0004
+	rotate: true
+	xy: 204, 655
+	size: 157, 119
+	orig: 183, 181
+	offset: 13, 29
+	index: -1
+anwuzhiC_baoza_0003
+	rotate: true
+	xy: 729, 825
+	size: 164, 144
+	orig: 220, 204
+	offset: 18, 31
+	index: -1
+anwuzhiC_guang_0006
+	rotate: true
+	xy: 403, 220
+	size: 213, 185
+	orig: 219, 209
+	offset: 0, 4
+	index: -1
+anwuzhiC_guang_0007
+	rotate: false
+	xy: 809, 440
+	size: 213, 193
+	orig: 219, 209
+	offset: 0, 3
+	index: -1
+anwuzhiC_guang_0014
+	rotate: false
+	xy: 593, 202
+	size: 219, 201
+	orig: 219, 209
+	offset: 0, 0
+	index: -1
+anwuzhiC_guang_0008
+	rotate: false
+	xy: 511, 819
+	size: 217, 199
+	orig: 219, 209
+	offset: 0, 0
+	index: -1
+anwuzhiC_baoguang_0006
+	rotate: true
+	xy: 0, 227
+	size: 222, 198
+	orig: 232, 222
+	offset: 4, 11
+	index: -1
+anwuzhiC_guang_0017
+	rotate: true
+	xy: 389, 0
+	size: 219, 203
+	orig: 219, 209
+	offset: 0, 0
+	index: -1
+
+asset/anim/anwuzhichuanyuanCSE1.png
+size: 1022,1013
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anwuzhiC_dian_0001
+	rotate: true
+	xy: 787, 787
+	size: 125, 139
+	orig: 183, 181
+	offset: 25, 23
+	index: -1
+anwuzhiC_baoguang_0016
+	rotate: false
+	xy: 558, 739
+	size: 76, 156
+	orig: 232, 222
+	offset: 81, 39
+	index: -1
+anwuzhiC_baoza_0004
+	rotate: false
+	xy: 412, 369
+	size: 200, 180
+	orig: 220, 204
+	offset: 5, 11
+	index: -1
+anwuzhiC_baoguang_0012
+	rotate: false
+	xy: 790, 370
+	size: 174, 176
+	orig: 232, 222
+	offset: 25, 19
+	index: -1
+anwuzhiC_baoguang_0013
+	rotate: false
+	xy: 815, 547
+	size: 174, 174
+	orig: 232, 222
+	offset: 25, 19
+	index: -1
+anwuzhiC_baoguang_0010
+	rotate: false
+	xy: 613, 369
+	size: 176, 180
+	orig: 232, 222
+	offset: 22, 21
+	index: -1
+anwuzhiC_baoguang_0011
+	rotate: false
+	xy: 848, 189
+	size: 174, 180
+	orig: 232, 222
+	offset: 25, 20
+	index: -1
+anwuzhiC_baoguang_0014
+	rotate: true
+	xy: 683, 180
+	size: 172, 164
+	orig: 232, 222
+	offset: 28, 29
+	index: -1
+anwuzhiC_baoguang_0015
+	rotate: false
+	xy: 449, 739
+	size: 108, 158
+	orig: 232, 222
+	offset: 76, 37
+	index: -1
+anwuzhiC_baoza_0014
+	rotate: true
+	xy: 660, 550
+	size: 184, 154
+	orig: 220, 204
+	offset: 2, 37
+	index: -1
+anwuzhiC_baoza_0015
+	rotate: false
+	xy: 712, 735
+	size: 74, 150
+	orig: 220, 204
+	offset: 106, 40
+	index: -1
+anwuzhiC_baoza_0013
+	rotate: true
+	xy: 854, 0
+	size: 188, 158
+	orig: 220, 204
+	offset: 3, 36
+	index: -1
+anwuzhiC_baoza_0005
+	rotate: false
+	xy: 419, 182
+	size: 202, 186
+	orig: 220, 204
+	offset: 2, 9
+	index: -1
+anwuzhiC_baoguang_0004
+	rotate: false
+	xy: 0, 382
+	size: 200, 198
+	orig: 232, 222
+	offset: 20, 11
+	index: -1
+anwuzhiC_baoza_0006
+	rotate: true
+	xy: 0, 788
+	size: 204, 188
+	orig: 220, 204
+	offset: 2, 8
+	index: -1
+anwuzhiC_baoza_0007
+	rotate: true
+	xy: 0, 581
+	size: 206, 190
+	orig: 220, 204
+	offset: 3, 7
+	index: -1
+anwuzhiC_guang_0005
+	rotate: false
+	xy: 436, 0
+	size: 209, 181
+	orig: 219, 209
+	offset: 0, 7
+	index: -1
+anwuzhiC_baoguang_0009
+	rotate: false
+	xy: 189, 788
+	size: 182, 180
+	orig: 232, 222
+	offset: 16, 21
+	index: -1
+anwuzhiC_baoguang_0008
+	rotate: false
+	xy: 213, 0
+	size: 222, 176
+	orig: 232, 222
+	offset: 4, 22
+	index: -1
+anwuzhiC_baoguang_0001
+	rotate: false
+	xy: 396, 550
+	size: 190, 188
+	orig: 232, 222
+	offset: 14, 9
+	index: -1
+anwuzhiC_baoguang_0003
+	rotate: false
+	xy: 211, 353
+	size: 200, 194
+	orig: 232, 222
+	offset: 17, 11
+	index: -1
+anwuzhiC_baoguang_0002
+	rotate: false
+	xy: 201, 548
+	size: 194, 192
+	orig: 232, 222
+	offset: 12, 7
+	index: -1
+anwuzhiC_dian_0005
+	rotate: false
+	xy: 449, 898
+	size: 149, 115
+	orig: 183, 181
+	offset: 21, 30
+	index: -1
+anwuzhiC_baoza_0001
+	rotate: false
+	xy: 783, 913
+	size: 74, 68
+	orig: 220, 204
+	offset: 70, 67
+	index: -1
+anwuzhiC_guang_0003
+	rotate: false
+	xy: 213, 177
+	size: 205, 175
+	orig: 219, 209
+	offset: 0, 11
+	index: -1
+anwuzhiC_baoza_0002
+	rotate: false
+	xy: 599, 906
+	size: 118, 106
+	orig: 220, 204
+	offset: 45, 51
+	index: -1
+anwuzhiC_guang_0004
+	rotate: false
+	xy: 646, 0
+	size: 207, 179
+	orig: 219, 209
+	offset: 0, 9
+	index: -1
+anwuzhiC_baoza_0009
+	rotate: false
+	xy: 0, 0
+	size: 212, 190
+	orig: 220, 204
+	offset: 2, 7
+	index: -1
+anwuzhiC_baoza_0008
+	rotate: false
+	xy: 0, 191
+	size: 210, 190
+	orig: 220, 204
+	offset: 3, 7
+	index: -1

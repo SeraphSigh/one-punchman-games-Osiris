@@ -1,0 +1,82 @@
+
+asset/anim/tianxinjiamianSEMAX1.png
+size: 953,1019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/tianxinjiamian_juexing_xuli_24_00000
+	rotate: false
+	xy: 331, 648
+	size: 323, 210
+	orig: 323, 210
+	offset: 0, 0
+	index: -1
+max/tianxinjiamian_juexing_xuli_29_00000
+	rotate: false
+	xy: 379, 0
+	size: 381, 215
+	orig: 381, 215
+	offset: 0, 0
+	index: -1
+max/tianxinjiamian_juexing_xuli_30_00000
+	rotate: false
+	xy: 379, 216
+	size: 381, 215
+	orig: 381, 215
+	offset: 0, 0
+	index: -1
+max/tianxinjiamian_juexing_xuli_31_00000
+	rotate: false
+	xy: 331, 432
+	size: 381, 215
+	orig: 381, 215
+	offset: 0, 0
+	index: -1
+max/tianxinjiamian_juexing_xuli_32_00000
+	rotate: true
+	xy: 761, 0
+	size: 300, 192
+	orig: 300, 192
+	offset: 0, 0
+	index: -1
+
+asset/anim/tianxinjiamianSEMAX0.png
+size: 1019,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/tianxinjiamian_juexing_xuli_33_00000
+	rotate: true
+	xy: 764, 329
+	size: 42, 41
+	orig: 42, 41
+	offset: 0, 0
+	index: -1
+max/tianxinjiamian_juexing_xuli_28_00000
+	rotate: false
+	xy: 382, 545
+	size: 381, 215
+	orig: 381, 215
+	offset: 0, 0
+	index: -1
+max/tianxinjiamian_juexing_xuli_27_00000
+	rotate: false
+	xy: 0, 493
+	size: 381, 215
+	orig: 381, 215
+	offset: 0, 0
+	index: -1
+max/tianxinjiamian_juexing_xuli_25_00000
+	rotate: false
+	xy: 0, 277
+	size: 381, 215
+	orig: 381, 215
+	offset: 0, 0
+	index: -1
+max/tianxinjiamian_juexing_xuli_26_00000
+	rotate: false
+	xy: 382, 329
+	size: 381, 215
+	orig: 381, 215
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,20 @@
+
+asset/anim/lingjiangtai0.png
+size: 63,405
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lingjiangtaipiaodai04
+	rotate: false
+	xy: 29, 213
+	size: 18, 192
+	orig: 18, 192
+	offset: 0, 0
+	index: -1
+lingjiangtaipiaodai01
+	rotate: false
+	xy: 48, 213
+	size: 15, 162
+	orig: 15, 162
+	offset: 0, 0
+	index: -1

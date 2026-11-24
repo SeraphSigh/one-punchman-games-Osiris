@@ -1,0 +1,75 @@
+
+asset/anim/duihuakuang0.png
+size: 471,993
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiyang2_da_duihuakuang
+	rotate: true
+	xy: 431, 0
+	size: 17, 39
+	orig: 17, 39
+	offset: 0, 0
+	index: -1
+jiyang3_da_duihuakuang
+	rotate: true
+	xy: 181, 907
+	size: 86, 185
+	orig: 86, 185
+	offset: 0, 0
+	index: -1
+changtai_da_duihuakuang
+	rotate: true
+	xy: 324, 52
+	size: 854, 147
+	orig: 854, 147
+	offset: 0, 0
+	index: -1
+jiyang1_da_duihuakuang
+	rotate: false
+	xy: 431, 18
+	size: 20, 32
+	orig: 20, 32
+	offset: 0, 0
+	index: -1
+jiyang5_da_duihuakuang
+	rotate: true
+	xy: 0, 0
+	size: 898, 160
+	orig: 898, 160
+	offset: 0, 0
+	index: -1
+huiyi_da_duihuakuang
+	rotate: true
+	xy: 161, 52
+	size: 846, 162
+	orig: 846, 162
+	offset: 0, 0
+	index: -1
+jiyang4_da_duihuakuang
+	rotate: true
+	xy: 0, 899
+	size: 90, 180
+	orig: 90, 180
+	offset: 0, 0
+	index: -1
+
+asset/anim/duihuakuang20.png
+size: 854,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_jq_jiantou
+	rotate: false
+	xy: 0, 0
+	size: 29, 20
+	orig: 29, 20
+	offset: 0, 0
+	index: -1
+tongyong_duihuakuang
+	rotate: false
+	xy: 109, 0
+	size: 249, 51
+	orig: 249, 51
+	offset: 0, 0
+	index: -1

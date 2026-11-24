@@ -1,0 +1,337 @@
+
+asset/anim/wennvSEATTACK.png
+size: 489,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/wennv_shunyitu1
+	rotate: false
+	xy: 286, 0
+	size: 184, 140
+	orig: 184, 140
+	offset: 0, 0
+	index: -1
+attack/wennv_shunyitu2
+	rotate: false
+	xy: 0, 0
+	size: 285, 145
+	orig: 285, 145
+	offset: 0, 0
+	index: -1
+attack/pugongjineng_wennv_68
+	rotate: false
+	xy: 247, 279
+	size: 241, 114
+	orig: 241, 114
+	offset: 0, 0
+	index: -1
+attack/pugongjineng_wennv_64
+	rotate: false
+	xy: 249, 146
+	size: 229, 132
+	orig: 229, 132
+	offset: 0, 0
+	index: -1
+attack/pugongjineng_wennv_65
+	rotate: false
+	xy: 0, 146
+	size: 248, 129
+	orig: 248, 129
+	offset: 0, 0
+	index: -1
+attack/pugongjineng_wennv_66
+	rotate: false
+	xy: 0, 276
+	size: 246, 124
+	orig: 246, 124
+	offset: 0, 0
+	index: -1
+attack/pugongjineng_wennv_67
+	rotate: false
+	xy: 247, 394
+	size: 242, 113
+	orig: 242, 113
+	offset: 0, 0
+	index: -1
+
+asset/anim/wennvSECOMMON.png
+size: 917,1018
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/pugongjineng_wennv_11
+	rotate: true
+	xy: 590, 792
+	size: 120, 61
+	orig: 120, 61
+	offset: 0, 0
+	index: -1
+common/pugongjinengbu_wennv_06
+	rotate: false
+	xy: 261, 369
+	size: 205, 78
+	orig: 205, 78
+	offset: 0, 0
+	index: -1
+common/pugongjinengbu_wennv_04
+	rotate: false
+	xy: 0, 677
+	size: 189, 75
+	orig: 189, 75
+	offset: 0, 0
+	index: -1
+common/pugongjinengbu_wennv_02
+	rotate: false
+	xy: 0, 753
+	size: 174, 72
+	orig: 174, 72
+	offset: 0, 0
+	index: -1
+common/pugongjineng_wennv_14
+	rotate: false
+	xy: 747, 515
+	size: 152, 73
+	orig: 152, 73
+	offset: 0, 0
+	index: -1
+common/pugongjinengb1u_wennv_07
+	rotate: true
+	xy: 250, 448
+	size: 160, 199
+	orig: 160, 199
+	offset: 0, 0
+	index: -1
+common/pugongjinengbu_wennv_08
+	rotate: false
+	xy: 538, 317
+	size: 219, 81
+	orig: 219, 81
+	offset: 0, 0
+	index: -1
+common/pugongjineng_wennv_70
+	rotate: false
+	xy: 277, 0
+	size: 266, 132
+	orig: 266, 132
+	offset: 0, 0
+	index: -1
+common/pugongjinengb1u_wennv_09
+	rotate: false
+	xy: 779, 121
+	size: 136, 171
+	orig: 136, 171
+	offset: 0, 0
+	index: -1
+common/pugongjineng_wennv_72
+	rotate: false
+	xy: 190, 708
+	size: 58, 59
+	orig: 58, 59
+	offset: 0, 0
+	index: -1
+common/pugongjineng_wennv_12
+	rotate: false
+	xy: 249, 711
+	size: 177, 84
+	orig: 177, 84
+	offset: 0, 0
+	index: -1
+common/pugongjineng_wennv_13
+	rotate: false
+	xy: 748, 434
+	size: 167, 80
+	orig: 167, 80
+	offset: 0, 0
+	index: -1
+common/pugongjineng_wennv_10
+	rotate: true
+	xy: 497, 199
+	size: 74, 42
+	orig: 74, 42
+	offset: 0, 0
+	index: -1
+common/pugongjinengb1u_wennv_03
+	rotate: true
+	xy: 530, 511
+	size: 139, 181
+	orig: 139, 181
+	offset: 0, 0
+	index: -1
+common/pugongjinengb1u_wennv_04
+	rotate: true
+	xy: 0, 265
+	size: 140, 212
+	orig: 140, 212
+	offset: 0, 0
+	index: -1
+common/pugongjinengb1u_wennv_06
+	rotate: true
+	xy: 0, 406
+	size: 165, 210
+	orig: 165, 210
+	offset: 0, 0
+	index: -1
+common/pugongjineng_wennv_15
+	rotate: true
+	xy: 194, 601
+	size: 106, 54
+	orig: 106, 54
+	offset: 0, 0
+	index: -1
+common/pugongjineng_wennv_55
+	rotate: false
+	xy: 268, 796
+	size: 126, 126
+	orig: 126, 126
+	offset: 0, 0
+	index: -1
+common/pugongjineng_wennv_71
+	rotate: false
+	xy: 0, 132
+	size: 262, 132
+	orig: 262, 132
+	offset: 0, 0
+	index: -1
+common/pugongjinengbu_wennv_10
+	rotate: false
+	xy: 540, 233
+	size: 228, 83
+	orig: 228, 83
+	offset: 0, 0
+	index: -1
+common/pugongjinengb1u_wennv_11
+	rotate: true
+	xy: 779, 0
+	size: 120, 138
+	orig: 120, 138
+	offset: 0, 0
+	index: -1
+common/pugongjineng_wennv_69
+	rotate: false
+	xy: 0, 0
+	size: 276, 131
+	orig: 276, 131
+	offset: 0, 0
+	index: -1
+common/pugongjinengb1u_wennv_02
+	rotate: true
+	xy: 769, 293
+	size: 140, 146
+	orig: 140, 146
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_zhanjibaodian_002
+	rotate: true
+	xy: 948, 407
+	size: 254, 76
+	orig: 276, 80
+	offset: 10, 4
+	index: -1
+global/a_global_zhanjibaodian_000
+	rotate: true
+	xy: 235, 860
+	size: 164, 70
+	orig: 276, 80
+	offset: 38, 8
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_zhanjibaodian_003
+	rotate: true
+	xy: 0, 529
+	size: 276, 80
+	orig: 276, 80
+	offset: 0, 0
+	index: -1
+global/a_global_zhanjibaodian_004
+	rotate: true
+	xy: 81, 529
+	size: 276, 80
+	orig: 276, 80
+	offset: 0, 0
+	index: -1
+global/a_global_zhanjibaodian_005
+	rotate: true
+	xy: 145, 251
+	size: 276, 70
+	orig: 276, 80
+	offset: 0, 10
+	index: -1
+global/a_global_pugongjineng_wennv_04
+	rotate: true
+	xy: 813, 467
+	size: 213, 211
+	orig: 245, 245
+	offset: 15, 17
+	index: -1
+global/a_global_pugongjineng_wennv_02
+	rotate: false
+	xy: 813, 681
+	size: 209, 209
+	orig: 245, 245
+	offset: 17, 19
+	index: -1
+global/a_global_pugongjineng_wennv_03
+	rotate: true
+	xy: 813, 251
+	size: 215, 211
+	orig: 245, 245
+	offset: 15, 18
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_zhanjibaodian_001
+	rotate: false
+	xy: 700, 950
+	size: 192, 74
+	orig: 276, 80
+	offset: 21, 6
+	index: -1
+global/a_global_pugongjineng_wennv_05
+	rotate: true
+	xy: 584, 216
+	size: 209, 205
+	orig: 245, 245
+	offset: 17, 19
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_zhanjibaodian_006
+	rotate: false
+	xy: 0, 789
+	size: 176, 66
+	orig: 276, 80
+	offset: 34, 14
+	index: -1
+global/a_global_pugongjineng_wennv_06
+	rotate: true
+	xy: 784, 348
+	size: 185, 187
+	orig: 245, 245
+	offset: 39, 25
+	index: -1
+global/a_global_pugongjineng_wennv
+	rotate: false
+	xy: 614, 0
+	size: 199, 199
+	orig: 245, 245
+	offset: 23, 24
+	index: -1

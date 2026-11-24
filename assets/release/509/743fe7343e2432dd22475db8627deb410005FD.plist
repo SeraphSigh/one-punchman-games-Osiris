@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>duigou_wulongtujianyilingquimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{30,26}</string>
+                <key>spriteSourceSize</key>
+                <string>{30,26}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{30,26}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>wulongtujianyilingquimage0.png</string>
+            <key>size</key>
+            <string>{30,26}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:f4f154290d323408f5d5dcba332358bd:07fffe30caf60f1bd5bd2a7bcb6effa1:2c0036c96323c4cb918089c45f6171fb$</string>
+            <key>textureFileName</key>
+            <string>wulongtujianyilingquimage0.png</string>
+        </dict>
+    </dict>
+</plist>

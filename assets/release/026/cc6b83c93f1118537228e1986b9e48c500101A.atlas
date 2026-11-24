@@ -1,0 +1,222 @@
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_xulixingguang_05
+	rotate: false
+	xy: 583, 0
+	size: 141, 136
+	orig: 141, 136
+	offset: 0, 0
+	index: -1
+global/a_global_dujiaoxian_xulixingguang_04
+	rotate: false
+	xy: 441, 0
+	size: 141, 136
+	orig: 141, 136
+	offset: 0, 0
+	index: -1
+global/a_global_dujiaoxian_xulixingguang_06
+	rotate: false
+	xy: 725, 0
+	size: 141, 136
+	orig: 141, 136
+	offset: 0, 0
+	index: -1
+global/a_global_dujiaoxian_xulixingguang_01
+	rotate: false
+	xy: 889, 334
+	size: 125, 122
+	orig: 141, 136
+	offset: 10, 3
+	index: -1
+global/a_global_dujiaoxian_xulixingguang_03
+	rotate: false
+	xy: 299, 0
+	size: 141, 136
+	orig: 141, 136
+	offset: 0, 0
+	index: -1
+global/a_global_dujiaoxian_xulixingguang_02
+	rotate: false
+	xy: 157, 0
+	size: 141, 136
+	orig: 141, 136
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_dujiaoxian_xulixingguang_00
+	rotate: false
+	xy: 568, 209
+	size: 89, 88
+	orig: 141, 136
+	offset: 28, 21
+	index: -1
+
+asset/anim/yinseliaoya2SEMAX4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/banggu2_juexing_xulixu_00063
+	rotate: false
+	xy: 173, 537
+	size: 219, 227
+	orig: 249, 247
+	offset: 13, 8
+	index: -1
+max/banggu2_juexing_xulixu_00071
+	rotate: false
+	xy: 779, 811
+	size: 187, 207
+	orig: 249, 247
+	offset: 42, 16
+	index: -1
+
+asset/anim/yinseliaoya2SEMAX5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/banggu2_juexing_xuli2quan_00088
+	rotate: false
+	xy: 449, 135
+	size: 410, 120
+	orig: 440, 172
+	offset: 14, 34
+	index: -1
+max/banggu2_juexing_xuli2quan_00086
+	rotate: false
+	xy: 449, 0
+	size: 420, 134
+	orig: 440, 172
+	offset: 1, 33
+	index: -1
+max/banggu2_juexing_xulixu_00059
+	rotate: false
+	xy: 0, 451
+	size: 229, 247
+	orig: 249, 247
+	offset: 17, 0
+	index: -1
+max/banggu2_juexing_xuli2quan_00081
+	rotate: false
+	xy: 0, 302
+	size: 402, 148
+	orig: 440, 172
+	offset: 0, 8
+	index: -1
+max/banggu2_juexing_xuli2quan_00083
+	rotate: false
+	xy: 0, 155
+	size: 404, 146
+	orig: 440, 172
+	offset: 0, 17
+	index: -1
+max/banggu2_juexing_xulixu_00069
+	rotate: true
+	xy: 460, 429
+	size: 235, 229
+	orig: 249, 247
+	offset: 13, 5
+	index: -1
+max/banggu2_juexing_xulixu_00061
+	rotate: false
+	xy: 230, 451
+	size: 229, 247
+	orig: 249, 247
+	offset: 12, 0
+	index: -1
+
+asset/anim/yinseliaoya2SEMAX6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/banggu2_juexing_xuli2quan_00080
+	rotate: false
+	xy: 0, 0
+	size: 384, 108
+	orig: 440, 172
+	offset: 0, 4
+	index: -1
+
+asset/anim/yinseliaoya2SEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/banggu2_juexing_xulixu_00065
+	rotate: true
+	xy: 537, 774
+	size: 249, 247
+	orig: 249, 247
+	offset: 0, 0
+	index: -1
+
+asset/anim/yinseliaoya2SEMAX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/banggu2_juexing_xuli2quan_00094
+	rotate: true
+	xy: 519, 800
+	size: 220, 52
+	orig: 440, 172
+	offset: 171, 52
+	index: -1
+
+asset/anim/yinseliaoya2SEMAX2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/banggu2_juexing_xuli2quan_00091
+	rotate: true
+	xy: 0, 666
+	size: 336, 102
+	orig: 440, 172
+	offset: 94, 36
+	index: -1
+
+asset/anim/yinseliaoya2SEMAX3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/banggu2_juexing_xuli2quan_00089
+	rotate: true
+	xy: 493, 615
+	size: 408, 114
+	orig: 440, 172
+	offset: 20, 34
+	index: -1
+max/banggu2_juexing_xuli2quan_00084
+	rotate: true
+	xy: 608, 615
+	size: 406, 144
+	orig: 440, 172
+	offset: 0, 28
+	index: -1
+max/banggu2_juexing_xuli2quan_00092
+	rotate: false
+	xy: 753, 713
+	size: 270, 78
+	orig: 440, 172
+	offset: 158, 47
+	index: -1
+max/banggu2_juexing_xulixu_00067
+	rotate: false
+	xy: 753, 792
+	size: 229, 231
+	orig: 249, 247
+	offset: 20, 16
+	index: -1

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>jiantou_toudingjiantouimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{44,35}</string>
+                <key>spriteSourceSize</key>
+                <string>{44,35}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{44,35}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>toudingjiantouimage0.png</string>
+            <key>size</key>
+            <string>{44,35}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:7e270fa59bf8528bbe30393bad1ff07b:1446cffc1382f5e55931a160ebd02bf4:35058f83cb5125551f05bbcf3b25000c$</string>
+            <key>textureFileName</key>
+            <string>toudingjiantouimage0.png</string>
+        </dict>
+    </dict>
+</plist>

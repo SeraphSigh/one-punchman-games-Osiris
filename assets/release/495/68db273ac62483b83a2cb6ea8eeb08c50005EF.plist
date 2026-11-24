@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>dsd4_yehuopailianimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-14}</string>
+                <key>spriteSize</key>
+                <string>{864,536}</string>
+                <key>spriteSourceSize</key>
+                <string>{864,564}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{864,536}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>yehuopailianimage11.png</string>
+            <key>size</key>
+            <string>{864,536}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:5f30602c00356d27e87995f8f4dde844:f5e1f7b11ac53beb48f345059263c16c:fdeb7934bed6d04eebf97b784884bcb9$</string>
+            <key>textureFileName</key>
+            <string>yehuopailianimage11.png</string>
+        </dict>
+    </dict>
+</plist>

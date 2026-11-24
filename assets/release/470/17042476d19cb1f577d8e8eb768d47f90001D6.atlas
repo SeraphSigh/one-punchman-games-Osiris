@@ -1,0 +1,26 @@
+
+asset/anim/fenghuangnan2SEMAX1.png
+size: 2023,1935
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/fhn2_jx_fengjuanbg_00027
+	rotate: false
+	xy: 1904, 1581
+	size: 23, 116
+	orig: 23, 116
+	offset: 0, 0
+	index: -1
+
+asset/anim/fenghuangnan2SECOMMON0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/fenghuangnan2_hongtian01
+	rotate: false
+	xy: 665, 153
+	size: 461, 306
+	orig: 461, 306
+	offset: 0, 0
+	index: -1

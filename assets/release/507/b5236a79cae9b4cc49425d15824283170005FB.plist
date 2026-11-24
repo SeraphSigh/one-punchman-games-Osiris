@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>ranfangyanhuazi_ranfangyanhuaziimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{109,48}</string>
+                <key>spriteSourceSize</key>
+                <string>{109,48}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{109,48}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>ranfangyanhuaziimage0.png</string>
+            <key>size</key>
+            <string>{109,48}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:7ce75fe637711a94f678f2ea31080c7f:04665c13f221878b6789a92d84973259:75d01b524f690b2206854e0921d0d148$</string>
+            <key>textureFileName</key>
+            <string>ranfangyanhuaziimage0.png</string>
+        </dict>
+    </dict>
+</plist>

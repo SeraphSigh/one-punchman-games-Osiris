@@ -1,0 +1,346 @@
+
+asset/anim/huoqiu1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/huoqiu_fenghuangnan_jnhuoqiu_00014
+	rotate: false
+	xy: 552, 552
+	size: 71, 310
+	orig: 81, 334
+	offset: 7, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnhuoqiu_00012
+	rotate: true
+	xy: 624, 620
+	size: 75, 304
+	orig: 81, 334
+	offset: 6, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnhuoqiu_00011
+	rotate: true
+	xy: 699, 775
+	size: 71, 304
+	orig: 81, 334
+	offset: 6, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00121
+	rotate: true
+	xy: 0, 552
+	size: 315, 276
+	orig: 355, 292
+	offset: 17, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00123
+	rotate: false
+	xy: 0, 267
+	size: 319, 236
+	orig: 355, 292
+	offset: 16, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00122
+	rotate: true
+	xy: 277, 552
+	size: 315, 274
+	orig: 355, 292
+	offset: 16, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00125
+	rotate: false
+	xy: 640, 253
+	size: 319, 246
+	orig: 355, 292
+	offset: 16, 5
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00124
+	rotate: false
+	xy: 320, 257
+	size: 319, 242
+	orig: 355, 292
+	offset: 16, 2
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00127
+	rotate: false
+	xy: 320, 0
+	size: 319, 256
+	orig: 355, 292
+	offset: 16, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00126
+	rotate: false
+	xy: 640, 0
+	size: 319, 252
+	orig: 355, 292
+	offset: 16, 4
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00128
+	rotate: false
+	xy: 0, 0
+	size: 319, 266
+	orig: 355, 292
+	offset: 16, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnhuoqiu_00013
+	rotate: true
+	xy: 624, 542
+	size: 77, 308
+	orig: 81, 334
+	offset: 4, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnhuoqiu_00009
+	rotate: true
+	xy: 699, 847
+	size: 73, 300
+	orig: 81, 334
+	offset: 4, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00136
+	rotate: true
+	xy: 219, 868
+	size: 139, 138
+	orig: 355, 292
+	offset: 102, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00137
+	rotate: true
+	xy: 358, 868
+	size: 135, 132
+	orig: 355, 292
+	offset: 102, 1
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00135
+	rotate: true
+	xy: 80, 868
+	size: 149, 138
+	orig: 355, 292
+	offset: 97, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00138
+	rotate: false
+	xy: 491, 868
+	size: 87, 118
+	orig: 355, 292
+	offset: 104, 5
+	index: -1
+
+asset/anim/huoqiu0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/huoqiu_fenghuangnan_jnxian_00000
+	rotate: false
+	xy: 441, 0
+	size: 416, 98
+	orig: 440, 110
+	offset: 9, 9
+	index: -1
+common/huoqiu_fenghuangnan_jnhuoqiu_00016
+	rotate: false
+	xy: 842, 704
+	size: 77, 318
+	orig: 81, 334
+	offset: 3, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnhuoqiu_00015
+	rotate: false
+	xy: 920, 704
+	size: 75, 310
+	orig: 81, 334
+	offset: 5, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00114
+	rotate: false
+	xy: 517, 485
+	size: 233, 156
+	orig: 355, 292
+	offset: 53, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnhuoqiu_00010
+	rotate: true
+	xy: 453, 413
+	size: 71, 302
+	orig: 81, 334
+	offset: 6, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00129
+	rotate: true
+	xy: 571, 704
+	size: 319, 270
+	orig: 355, 292
+	offset: 16, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00115
+	rotate: false
+	xy: 756, 453
+	size: 267, 250
+	orig: 355, 292
+	offset: 47, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnhuoqiu_00000
+	rotate: true
+	xy: 0, 435
+	size: 79, 320
+	orig: 81, 334
+	offset: 1, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnhuoqiu_00001
+	rotate: true
+	xy: 429, 253
+	size: 79, 326
+	orig: 81, 334
+	offset: 1, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnhuoqiu_00002
+	rotate: true
+	xy: 441, 99
+	size: 79, 334
+	orig: 81, 334
+	offset: 1, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00140
+	rotate: true
+	xy: 756, 383
+	size: 69, 92
+	orig: 355, 292
+	offset: 113, 33
+	index: -1
+common/huoqiu_fenghuangnan_jnhuoqiu_00004
+	rotate: true
+	xy: 0, 359
+	size: 75, 330
+	orig: 81, 334
+	offset: 5, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnhuoqiu_00005
+	rotate: true
+	xy: 0, 211
+	size: 73, 332
+	orig: 81, 334
+	offset: 6, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnhuoqiu_00006
+	rotate: true
+	xy: 429, 179
+	size: 73, 328
+	orig: 81, 334
+	offset: 6, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnhuoqiu_00007
+	rotate: true
+	xy: 0, 285
+	size: 73, 332
+	orig: 81, 334
+	offset: 6, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnhuoqiu_00008
+	rotate: true
+	xy: 0, 135
+	size: 75, 334
+	orig: 81, 334
+	offset: 4, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00132
+	rotate: false
+	xy: 857, 139
+	size: 167, 136
+	orig: 355, 292
+	offset: 89, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00133
+	rotate: false
+	xy: 858, 0
+	size: 163, 138
+	orig: 355, 292
+	offset: 90, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00130
+	rotate: false
+	xy: 0, 515
+	size: 319, 276
+	orig: 355, 292
+	offset: 16, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00131
+	rotate: true
+	xy: 176, 792
+	size: 229, 276
+	orig: 355, 292
+	offset: 72, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00134
+	rotate: false
+	xy: 857, 276
+	size: 157, 138
+	orig: 355, 292
+	offset: 93, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnhuoqiu_00003
+	rotate: true
+	xy: 429, 333
+	size: 79, 326
+	orig: 81, 334
+	offset: 1, 0
+	index: -1
+
+asset/anim/huoqiu2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/huoqiu_fenghuangnan_jnbaozha_00118
+	rotate: false
+	xy: 608, 85
+	size: 287, 266
+	orig: 355, 292
+	offset: 27, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00119
+	rotate: false
+	xy: 308, 0
+	size: 299, 270
+	orig: 355, 292
+	offset: 20, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00120
+	rotate: false
+	xy: 0, 0
+	size: 307, 276
+	orig: 355, 292
+	offset: 18, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00116
+	rotate: false
+	xy: 0, 437
+	size: 275, 256
+	orig: 355, 292
+	offset: 41, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00117
+	rotate: false
+	xy: 308, 271
+	size: 283, 256
+	orig: 355, 292
+	offset: 33, 0
+	index: -1
+common/huoqiu_fenghuangnan_jnbaozha_00139
+	rotate: true
+	xy: 896, 109
+	size: 79, 106
+	orig: 355, 292
+	offset: 107, 19
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

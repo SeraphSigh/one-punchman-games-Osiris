@@ -1,0 +1,47 @@
+
+asset/anim/jienuosi2SESKILL3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/jns2_huoyanpenshe_00022
+	rotate: false
+	xy: 372, 965
+	size: 161, 59
+	orig: 193, 83
+	offset: 24, 9
+	index: -1
+skill/jns2_huoyanpenshe_00028
+	rotate: false
+	xy: 864, 961
+	size: 159, 59
+	orig: 193, 83
+	offset: 26, 9
+	index: -1
+
+asset/anim/jienuosi2SESKILL2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/jns2_huoyanpenshe_00020
+	rotate: true
+	xy: 944, 880
+	size: 139, 61
+	orig: 193, 83
+	offset: 46, 6
+	index: -1
+skill/jns2_huoyanpenshe_00026
+	rotate: false
+	xy: 816, 537
+	size: 161, 57
+	orig: 193, 83
+	offset: 24, 11
+	index: -1
+skill/jns2_huoyanpenshe_00024
+	rotate: false
+	xy: 784, 969
+	size: 159, 55
+	orig: 193, 83
+	offset: 26, 12
+	index: -1

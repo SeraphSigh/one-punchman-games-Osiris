@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>king_xiuxianrenhuo_00062.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1,-74}</string>
+                <key>spriteSize</key>
+                <string>{152,150}</string>
+                <key>spriteSourceSize</key>
+                <string>{178,310}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{152,150}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>KING_xiuxianfuSECOMMON1.png</string>
+            <key>size</key>
+            <string>{256,256}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:2878194f71adebdc8fa356f3dececbdb:6fcd2546934cd5525f08c1b93cedc756:3b48e02aa8027d358a97a327b689daf7$</string>
+            <key>textureFileName</key>
+            <string>KING_xiuxianfuSECOMMON1.png</string>
+        </dict>
+    </dict>
+</plist>

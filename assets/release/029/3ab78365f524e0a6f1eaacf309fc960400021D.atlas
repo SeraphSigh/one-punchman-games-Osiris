@@ -1,0 +1,34 @@
+
+asset/anim/shiguanghuiyi0.png
+size: 341,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+snajiao3_shiguangliushi
+	rotate: true
+	xy: 0, 0
+	size: 73, 91
+	orig: 73, 91
+	offset: 0, 0
+	index: -1
+snajiao4_shiguangliushi
+	rotate: true
+	xy: 92, 0
+	size: 73, 91
+	orig: 73, 91
+	offset: 0, 0
+	index: -1
+snajiao1_shiguangliushi
+	rotate: false
+	xy: 184, 0
+	size: 78, 70
+	orig: 78, 70
+	offset: 0, 0
+	index: -1
+snajiao2_shiguangliushi
+	rotate: false
+	xy: 263, 0
+	size: 78, 70
+	orig: 78, 70
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,69 @@
+
+asset/anim/chuiliuhuchangjing0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yu1
+	rotate: true
+	xy: 0, 279
+	size: 38, 32
+	orig: 38, 32
+	offset: 0, 0
+	index: -1
+yu3
+	rotate: false
+	xy: 0, 237
+	size: 19, 41
+	orig: 19, 41
+	offset: 0, 0
+	index: -1
+yu2
+	rotate: false
+	xy: 20, 237
+	size: 20, 27
+	orig: 20, 27
+	offset: 0, 0
+	index: -1
+liushu4
+	rotate: true
+	xy: 1381, 0
+	size: 395, 428
+	orig: 395, 428
+	offset: 0, 0
+	index: -1
+liushu3
+	rotate: true
+	xy: 0, 396
+	size: 284, 318
+	orig: 284, 318
+	offset: 0, 0
+	index: -1
+liushu2
+	rotate: true
+	xy: 0, 1658
+	size: 259, 236
+	orig: 259, 236
+	offset: 0, 0
+	index: -1
+liushu1
+	rotate: false
+	xy: 0, 1382
+	size: 230, 275
+	orig: 230, 275
+	offset: 0, 0
+	index: -1
+jingjing1
+	rotate: true
+	xy: 1810, 0
+	size: 690, 236
+	orig: 690, 236
+	offset: 0, 0
+	index: -1
+jingjing2
+	rotate: true
+	xy: 0, 691
+	size: 690, 170
+	orig: 690, 236
+	offset: 0, 0
+	index: -1

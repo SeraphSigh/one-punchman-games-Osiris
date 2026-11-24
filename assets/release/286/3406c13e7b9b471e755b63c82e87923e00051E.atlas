@@ -1,0 +1,68 @@
+
+asset/anim/fenghuangnan2SESKILL1.png
+size: 2048,1970
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/fenghuangnan2_skill_baoguang_00033
+	rotate: true
+	xy: 1064, 1867
+	size: 72, 218
+	orig: 184, 280
+	offset: 57, 32
+	index: -1
+skill/fenghuangnan2_skill_baoguang1_00033
+	rotate: false
+	xy: 464, 1605
+	size: 256, 240
+	orig: 256, 240
+	offset: 0, 0
+	index: -1
+
+asset/anim/fenghuangnan2SESKILL0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/fenghuangnan2_skill_baoguang2_00033
+	rotate: true
+	xy: 0, 1461
+	size: 252, 256
+	orig: 252, 256
+	offset: 0, 0
+	index: -1
+skill/fenghuangnan2_skill_baoguang_00037
+	rotate: true
+	xy: 1893, 872
+	size: 182, 154
+	orig: 184, 280
+	offset: 1, 58
+	index: -1
+skill/fenghuangnan2_skill_baoguang_00036
+	rotate: false
+	xy: 1693, 1861
+	size: 178, 182
+	orig: 184, 280
+	offset: 2, 42
+	index: -1
+skill/fenghuangnan2_skill_baoguang_00035
+	rotate: true
+	xy: 1841, 1265
+	size: 170, 194
+	orig: 184, 280
+	offset: 2, 37
+	index: -1
+skill/fenghuangnan2_skill_baoguang_00034
+	rotate: true
+	xy: 1469, 1607
+	size: 106, 252
+	orig: 184, 280
+	offset: 42, 11
+	index: -1
+skill/fenghuangnan2_skill_baoguang_00038
+	rotate: false
+	xy: 1885, 1055
+	size: 162, 80
+	orig: 184, 280
+	offset: 0, 99
+	index: -1

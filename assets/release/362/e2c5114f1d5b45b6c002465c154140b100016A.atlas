@@ -1,0 +1,20 @@
+
+asset/anim/tianxinjiamian2COMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tianxinjiamian2_yahei1_00015
+	rotate: false
+	xy: 511, 975
+	size: 77, 40
+	orig: 77, 46
+	offset: 0, 2
+	index: -1
+common/tianxinjiamian2_yahe2_00015
+	rotate: false
+	xy: 972, 194
+	size: 50, 50
+	orig: 50, 50
+	offset: 0, 0
+	index: -1

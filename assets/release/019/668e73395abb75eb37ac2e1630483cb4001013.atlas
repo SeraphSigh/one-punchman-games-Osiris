@@ -1,0 +1,232 @@
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_yanquan14
+	rotate: true
+	xy: 327, 110
+	size: 121, 31
+	orig: 215, 53
+	offset: 52, 15
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_yanquan20
+	rotate: false
+	xy: 601, 515
+	size: 211, 51
+	orig: 215, 53
+	offset: 2, 1
+	index: -1
+global/a_global_pangxieguai_yanquan18
+	rotate: false
+	xy: 601, 567
+	size: 211, 49
+	orig: 215, 53
+	offset: 2, 3
+	index: -1
+global/a_global_pangxieguai_yanquan19
+	rotate: false
+	xy: 601, 221
+	size: 211, 51
+	orig: 215, 53
+	offset: 2, 1
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_yanquan24
+	rotate: true
+	xy: 540, 216
+	size: 215, 43
+	orig: 215, 53
+	offset: 0, 0
+	index: -1
+global/a_global_pangxieguai_yanquan21
+	rotate: true
+	xy: 484, 519
+	size: 213, 53
+	orig: 215, 53
+	offset: 0, 0
+	index: -1
+global/a_global_pangxieguai_yanquan23
+	rotate: true
+	xy: 538, 519
+	size: 213, 45
+	orig: 215, 53
+	offset: 0, 0
+	index: -1
+global/a_global_pangxieguai_yanquan22
+	rotate: true
+	xy: 518, 733
+	size: 213, 53
+	orig: 215, 53
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_yanquan16
+	rotate: false
+	xy: 0, 557
+	size: 183, 43
+	orig: 215, 53
+	offset: 19, 8
+	index: -1
+global/a_global_pangxieguai_yanquan17
+	rotate: false
+	xy: 400, 259
+	size: 193, 45
+	orig: 215, 53
+	offset: 13, 6
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_yanquan15
+	rotate: true
+	xy: 664, 225
+	size: 155, 37
+	orig: 215, 53
+	offset: 35, 11
+	index: -1
+
+asset/anim/meiluzhagaluduoSE.png
+size: 1008,1006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meiluzhagaluduoS_yanwu_035
+	rotate: true
+	xy: 577, 839
+	size: 167, 86
+	orig: 167, 86
+	offset: 0, 0
+	index: -1
+suduxian_1_meiluzhagaluduo
+	rotate: false
+	xy: 728, 830
+	size: 109, 86
+	orig: 111, 86
+	offset: 2, 0
+	index: -1
+meiluzhagaluduoS_yanwu_037
+	rotate: true
+	xy: 402, 0
+	size: 170, 73
+	orig: 170, 73
+	offset: 0, 0
+	index: -1
+meiluzhagaluduoS_yanwu_031
+	rotate: true
+	xy: 0, 857
+	size: 147, 82
+	orig: 147, 82
+	offset: 0, 0
+	index: -1
+meiluzhagaluduoS_yanwu_033
+	rotate: true
+	xy: 490, 331
+	size: 164, 94
+	orig: 164, 94
+	offset: 0, 0
+	index: -1
+suduxian_2_meiluzhagaluduo
+	rotate: false
+	xy: 664, 917
+	size: 102, 86
+	orig: 102, 86
+	offset: 0, 0
+	index: -1
+meiluzhaguluduo_obj_547_scl_000
+	rotate: true
+	xy: 0, 331
+	size: 293, 102
+	orig: 367, 110
+	offset: 42, 8
+	index: -1
+meiluzhagaluduoS_yanwu_039
+	rotate: true
+	xy: 318, 625
+	size: 181, 68
+	orig: 181, 68
+	offset: 0, 0
+	index: -1
+meiluzhagaluduoS_yanwu_029
+	rotate: false
+	xy: 858, 272
+	size: 146, 84
+	orig: 146, 84
+	offset: 0, 0
+	index: -1
+meiluzhagaluduoS_xiadilie_024
+	rotate: true
+	xy: 338, 0
+	size: 174, 63
+	orig: 174, 63
+	offset: 0, 0
+	index: -1
+meiluzhagaluduoS_yanwu_028
+	rotate: true
+	xy: 646, 689
+	size: 144, 81
+	orig: 144, 81
+	offset: 0, 0
+	index: -1
+meiluzhagaluduoS_yanwu_044
+	rotate: true
+	xy: 823, 164
+	size: 143, 34
+	orig: 143, 34
+	offset: 0, 0
+	index: -1
+meiluzhagaluduoS_yanwu_024
+	rotate: false
+	xy: 259, 283
+	size: 71, 34
+	orig: 71, 34
+	offset: 0, 0
+	index: -1
+meiluzhagaluduoS_yanwu_041
+	rotate: true
+	xy: 809, 0
+	size: 163, 62
+	orig: 163, 62
+	offset: 0, 0
+	index: -1
+meiluzhagaluduoS_yanwu_026
+	rotate: false
+	xy: 168, 555
+	size: 91, 69
+	orig: 91, 69
+	offset: 0, 0
+	index: -1
+meiluzhagaluduoS_yanwu_043
+	rotate: false
+	xy: 846, 775
+	size: 144, 55
+	orig: 144, 55
+	offset: 0, 0
+	index: -1
+meiluzhagaluduoS_ciguang024
+	rotate: true
+	xy: 509, 229
+	size: 100, 109
+	orig: 100, 109
+	offset: 0, 0
+	index: -1

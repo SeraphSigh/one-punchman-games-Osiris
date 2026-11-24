@@ -1,0 +1,55 @@
+
+asset/anim/xinnianchangjingwuxue0.png
+size: 431,474
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongbao4
+	rotate: false
+	xy: 352, 243
+	size: 7, 21
+	orig: 7, 21
+	offset: 0, 0
+	index: -1
+hongbao5
+	rotate: true
+	xy: 329, 0
+	size: 9, 22
+	orig: 9, 22
+	offset: 0, 0
+	index: -1
+hongbao1
+	rotate: false
+	xy: 304, 53
+	size: 11, 20
+	orig: 11, 20
+	offset: 0, 0
+	index: -1
+hongbao2
+	rotate: false
+	xy: 321, 0
+	size: 7, 24
+	orig: 7, 24
+	offset: 0, 0
+	index: -1
+hongbao3
+	rotate: true
+	xy: 209, 462
+	size: 7, 20
+	orig: 7, 20
+	offset: 0, 0
+	index: -1
+guofuzhuchangjingshupengwuxue2
+	rotate: false
+	xy: 0, 261
+	size: 211, 146
+	orig: 211, 146
+	offset: 0, 0
+	index: -1
+guofuzhuchangjingshuwuxue1
+	rotate: false
+	xy: 0, 118
+	size: 218, 142
+	orig: 218, 142
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,62 @@
+
+asset/anim/chunjiedonghuazhongjing0.png
+size: 294,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chunjiehongbao5
+	rotate: true
+	xy: 192, 117
+	size: 9, 22
+	orig: 9, 22
+	offset: 0, 0
+	index: -1
+chunjiehongbao4
+	rotate: true
+	xy: 215, 117
+	size: 7, 21
+	orig: 7, 21
+	offset: 0, 0
+	index: -1
+chunjiehongbao3
+	rotate: true
+	xy: 237, 117
+	size: 7, 20
+	orig: 7, 20
+	offset: 0, 0
+	index: -1
+chunjiehongbao2
+	rotate: true
+	xy: 267, 71
+	size: 7, 24
+	orig: 7, 24
+	offset: 0, 0
+	index: -1
+chunjiehongbao1
+	rotate: true
+	xy: 267, 79
+	size: 11, 20
+	orig: 11, 20
+	offset: 0, 0
+	index: -1
+zsxdl4
+	rotate: false
+	xy: 267, 0
+	size: 27, 70
+	orig: 27, 70
+	offset: 0, 0
+	index: -1
+zsddl
+	rotate: false
+	xy: 192, 0
+	size: 74, 116
+	orig: 74, 116
+	offset: 0, 0
+	index: -1
+shutuotuo
+	rotate: false
+	xy: 0, 0
+	size: 191, 127
+	orig: 191, 127
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>jinzhi_jinzhijinruimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{56,56}</string>
+                <key>spriteSourceSize</key>
+                <string>{58,58}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{56,56}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>jinzhijinruimage0.png</string>
+            <key>size</key>
+            <string>{56,56}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:c54368b8a13f39cac5b6328cddae278c:181ce55c1f4a8188c3f66ebf6b4906c1:9031dce096401bbdebba83c7fb8fe65f$</string>
+            <key>textureFileName</key>
+            <string>jinzhijinruimage0.png</string>
+        </dict>
+    </dict>
+</plist>

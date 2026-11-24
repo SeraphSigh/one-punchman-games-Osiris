@@ -1,0 +1,13 @@
+
+asset/anim/fenghuangnan2SECOMMON0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/fenghuangnan2_baiping
+	rotate: false
+	xy: 1792, 263
+	size: 10, 10
+	orig: 10, 10
+	offset: 0, 0
+	index: -1

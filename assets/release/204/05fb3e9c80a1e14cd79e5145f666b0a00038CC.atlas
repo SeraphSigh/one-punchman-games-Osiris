@@ -1,0 +1,962 @@
+
+asset/anim/kuchong0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_coxafm_kuchong
+	rotate: true
+	xy: 515, 0
+	size: 88, 45
+	orig: 88, 45
+	offset: 0, 0
+	index: -1
+e_coxafm_kuchong
+	rotate: true
+	xy: 232, 595
+	size: 32, 40
+	orig: 32, 40
+	offset: 0, 0
+	index: -1
+l_Rfoot_kuchong
+	rotate: true
+	xy: 566, 696
+	size: 58, 47
+	orig: 58, 47
+	offset: 0, 0
+	index: -1
+a_Lhand_kuchong
+	rotate: false
+	xy: 627, 942
+	size: 41, 44
+	orig: 41, 44
+	offset: 0, 0
+	index: -1
+e_coax2_kuchong
+	rotate: false
+	xy: 614, 668
+	size: 38, 39
+	orig: 38, 39
+	offset: 0, 0
+	index: -1
+d_Lshin_kuchong
+	rotate: true
+	xy: 278, 430
+	size: 44, 71
+	orig: 44, 71
+	offset: 0, 0
+	index: -1
+a_bodyfm_kuchong
+	rotate: true
+	xy: 476, 397
+	size: 75, 85
+	orig: 75, 85
+	offset: 0, 0
+	index: -1
+a_eye02_kuchong
+	rotate: true
+	xy: 161, 962
+	size: 34, 16
+	orig: 34, 16
+	offset: 0, 0
+	index: -1
+l_coxafm_kuchong
+	rotate: true
+	xy: 380, 156
+	size: 100, 48
+	orig: 100, 48
+	offset: 0, 0
+	index: -1
+c_Rarm_kuchong
+	rotate: false
+	xy: 578, 306
+	size: 67, 72
+	orig: 67, 72
+	offset: 0, 0
+	index: -1
+c_Rhand_kuchong
+	rotate: true
+	xy: 611, 627
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+j_Rarm_kuchong
+	rotate: false
+	xy: 446, 840
+	size: 70, 75
+	orig: 70, 75
+	offset: 0, 0
+	index: -1
+i_coxafm_kuchong
+	rotate: true
+	xy: 312, 840
+	size: 83, 52
+	orig: 83, 52
+	offset: 0, 0
+	index: -1
+h_Larm_kuchong
+	rotate: false
+	xy: 527, 473
+	size: 70, 73
+	orig: 70, 73
+	offset: 0, 0
+	index: -1
+j_Lshin_kuchong
+	rotate: true
+	xy: 630, 242
+	size: 63, 71
+	orig: 63, 71
+	offset: 0, 0
+	index: -1
+a_coxa_kuchong
+	rotate: true
+	xy: 183, 309
+	size: 127, 63
+	orig: 127, 63
+	offset: 0, 0
+	index: -1
+b_Rfoot_kuchong
+	rotate: false
+	xy: 547, 958
+	size: 41, 56
+	orig: 41, 56
+	offset: 0, 0
+	index: -1
+a_eye03_kuchong
+	rotate: true
+	xy: 245, 742
+	size: 29, 12
+	orig: 29, 12
+	offset: 0, 0
+	index: -1
+j_Rthigh_kuchong
+	rotate: false
+	xy: 397, 475
+	size: 88, 91
+	orig: 88, 91
+	offset: 0, 0
+	index: -1
+n_coxa_kuchong
+	rotate: true
+	xy: 247, 309
+	size: 120, 55
+	orig: 120, 55
+	offset: 0, 0
+	index: -1
+f_Lfoot_kuchong
+	rotate: true
+	xy: 220, 437
+	size: 37, 57
+	orig: 37, 57
+	offset: 0, 0
+	index: -1
+c_coxa_kuchong
+	rotate: true
+	xy: 245, 628
+	size: 113, 67
+	orig: 113, 67
+	offset: 0, 0
+	index: -1
+biyan_bu1_kuchong
+	rotate: false
+	xy: 161, 997
+	size: 15, 13
+	orig: 15, 13
+	offset: 0, 0
+	index: -1
+h_Lhand_kuchong
+	rotate: true
+	xy: 595, 808
+	size: 52, 36
+	orig: 52, 36
+	offset: 0, 0
+	index: -1
+h_Lthigh_kuchong
+	rotate: false
+	xy: 365, 840
+	size: 80, 80
+	orig: 80, 80
+	offset: 0, 0
+	index: -1
+j_Rforearm_kuchong
+	rotate: false
+	xy: 477, 567
+	size: 68, 58
+	orig: 68, 58
+	offset: 0, 0
+	index: -1
+h_coxafm_kuchong
+	rotate: false
+	xy: 316, 102
+	size: 82, 53
+	orig: 82, 53
+	offset: 0, 0
+	index: -1
+l_coxa_kuchong
+	rotate: true
+	xy: 126, 309
+	size: 129, 56
+	orig: 129, 56
+	offset: 0, 0
+	index: -1
+b_coxafm_kuchong
+	rotate: true
+	xy: 448, 796
+	size: 43, 42
+	orig: 43, 42
+	offset: 0, 0
+	index: -1
+j_Larm_kuchong
+	rotate: false
+	xy: 339, 475
+	size: 57, 92
+	orig: 57, 92
+	offset: 0, 0
+	index: -1
+b_Rforearm_kuchong
+	rotate: false
+	xy: 565, 246
+	size: 64, 59
+	orig: 64, 59
+	offset: 0, 0
+	index: -1
+l_bodyfm_kuchong
+	rotate: false
+	xy: 399, 717
+	size: 72, 78
+	orig: 72, 78
+	offset: 0, 0
+	index: -1
+d_Lthigh_kuchong
+	rotate: true
+	xy: 399, 100
+	size: 55, 87
+	orig: 55, 87
+	offset: 0, 0
+	index: -1
+g_coxa_kuchong
+	rotate: true
+	xy: 0, 929
+	size: 94, 51
+	orig: 94, 51
+	offset: 0, 0
+	index: -1
+f_coxa_kuchong
+	rotate: false
+	xy: 304, 156
+	size: 75, 100
+	orig: 75, 100
+	offset: 0, 0
+	index: -1
+i_coxa_kuchong
+	rotate: true
+	xy: 232, 475
+	size: 119, 58
+	orig: 119, 58
+	offset: 0, 0
+	index: -1
+i_body_kuchong
+	rotate: false
+	xy: 0, 628
+	size: 106, 150
+	orig: 106, 150
+	offset: 0, 0
+	index: -1
+a_Larm_kuchong
+	rotate: true
+	xy: 760, 0
+	size: 70, 62
+	orig: 70, 62
+	offset: 0, 0
+	index: -1
+a_Rshin_kuchong
+	rotate: true
+	xy: 344, 257
+	size: 49, 59
+	orig: 49, 59
+	offset: 0, 0
+	index: -1
+l_Rhand_kuchong
+	rotate: false
+	xy: 505, 978
+	size: 41, 45
+	orig: 41, 45
+	offset: 0, 0
+	index: -1
+b_Lhand_kuchong
+	rotate: false
+	xy: 126, 439
+	size: 47, 35
+	orig: 47, 35
+	offset: 0, 0
+	index: -1
+h_body_kuchong
+	rotate: false
+	xy: 0, 321
+	size: 125, 153
+	orig: 125, 153
+	offset: 0, 0
+	index: -1
+a_Lthigh_kuchong
+	rotate: true
+	xy: 246, 772
+	size: 104, 65
+	orig: 104, 65
+	offset: 0, 0
+	index: -1
+k_coxa_kuchong
+	rotate: true
+	xy: 131, 772
+	size: 135, 55
+	orig: 135, 55
+	offset: 0, 0
+	index: -1
+h_Rarm_kuchong
+	rotate: false
+	xy: 404, 567
+	size: 72, 58
+	orig: 72, 58
+	offset: 0, 0
+	index: -1
+l_Lfoot_kuchong
+	rotate: true
+	xy: 545, 772
+	size: 58, 47
+	orig: 58, 47
+	offset: 0, 0
+	index: -1
+b_head_kuchong
+	rotate: false
+	xy: 307, 0
+	size: 66, 101
+	orig: 66, 101
+	offset: 0, 0
+	index: -1
+j_Lforearm_kuchong
+	rotate: true
+	xy: 534, 626
+	size: 69, 38
+	orig: 69, 38
+	offset: 0, 0
+	index: -1
+g_coxafm_kuchong
+	rotate: true
+	xy: 161, 929
+	size: 32, 18
+	orig: 32, 18
+	offset: 0, 0
+	index: -1
+b_Rthigh_kuchong
+	rotate: false
+	xy: 312, 924
+	size: 61, 81
+	orig: 61, 81
+	offset: 0, 0
+	index: -1
+i_bodyfm_kuchong
+	rotate: false
+	xy: 528, 900
+	size: 55, 57
+	orig: 55, 57
+	offset: 0, 0
+	index: -1
+l_head_kuchong
+	rotate: false
+	xy: 504, 156
+	size: 74, 89
+	orig: 74, 89
+	offset: 0, 0
+	index: -1
+g_coxa3_kuchong
+	rotate: true
+	xy: 118, 929
+	size: 93, 42
+	orig: 93, 42
+	offset: 0, 0
+	index: -1
+d_Rshin_kuchong
+	rotate: false
+	xy: 413, 398
+	size: 62, 76
+	orig: 62, 76
+	offset: 0, 0
+	index: -1
+c_body_kuchong
+	rotate: false
+	xy: 115, 475
+	size: 116, 142
+	orig: 116, 142
+	offset: 0, 0
+	index: -1
+a_Rthigh_kuchong
+	rotate: true
+	xy: 52, 929
+	size: 93, 65
+	orig: 93, 65
+	offset: 0, 0
+	index: -1
+h_Rhand_kuchong
+	rotate: false
+	xy: 589, 988
+	size: 45, 36
+	orig: 45, 36
+	offset: 0, 0
+	index: -1
+d_coxa_kuchong
+	rotate: false
+	xy: 561, 0
+	size: 85, 85
+	orig: 85, 85
+	offset: 0, 0
+	index: -1
+c_head_kuchong
+	rotate: false
+	xy: 367, 307
+	size: 67, 90
+	orig: 67, 90
+	offset: 0, 0
+	index: -1
+f_Rforearm_kuchong
+	rotate: false
+	xy: 491, 773
+	size: 53, 66
+	orig: 53, 66
+	offset: 0, 0
+	index: -1
+h_bodyfm_kuchong
+	rotate: false
+	xy: 641, 156
+	size: 54, 72
+	orig: 54, 72
+	offset: 0, 0
+	index: -1
+l_Lshin_kuchong
+	rotate: false
+	xy: 598, 468
+	size: 63, 64
+	orig: 63, 64
+	offset: 0, 0
+	index: -1
+h_Rforearm_kuchong
+	rotate: false
+	xy: 442, 246
+	size: 47, 60
+	orig: 47, 60
+	offset: 0, 0
+	index: -1
+b_Rarm_kuchong
+	rotate: false
+	xy: 374, 921
+	size: 79, 80
+	orig: 79, 80
+	offset: 0, 0
+	index: -1
+gedang_kuchong
+	rotate: true
+	xy: 180, 908
+	size: 115, 131
+	orig: 115, 131
+	offset: 0, 0
+	index: -1
+l_Larm_kuchong
+	rotate: false
+	xy: 647, 0
+	size: 54, 85
+	orig: 54, 85
+	offset: 0, 0
+	index: -1
+b_body_kuchong
+	rotate: false
+	xy: 0, 0
+	size: 112, 162
+	orig: 112, 162
+	offset: 0, 0
+	index: -1
+g_bodyfm_kuchong
+	rotate: false
+	xy: 486, 473
+	size: 40, 74
+	orig: 40, 74
+	offset: 0, 0
+	index: -1
+c_Rforearm_kuchong
+	rotate: true
+	xy: 646, 306
+	size: 64, 59
+	orig: 64, 59
+	offset: 0, 0
+	index: -1
+a_Lforearm_kuchong
+	rotate: true
+	xy: 584, 888
+	size: 53, 51
+	orig: 53, 51
+	offset: 0, 0
+	index: -1
+g_Rthigh_kuchong
+	rotate: false
+	xy: 696, 156
+	size: 67, 70
+	orig: 67, 70
+	offset: 0, 0
+	index: -1
+j_Rhand_kuchong
+	rotate: true
+	xy: 517, 840
+	size: 59, 36
+	orig: 59, 36
+	offset: 0, 0
+	index: -1
+b_Rhand_kuchong
+	rotate: false
+	xy: 174, 439
+	size: 45, 35
+	orig: 45, 35
+	offset: 0, 0
+	index: -1
+l_Lhand_kuchong
+	rotate: false
+	xy: 611, 582
+	size: 41, 44
+	orig: 41, 44
+	offset: 0, 0
+	index: -1
+c_Rshin_kuchong
+	rotate: true
+	xy: 640, 86
+	size: 69, 65
+	orig: 69, 65
+	offset: 0, 0
+	index: -1
+e_body_kuchong
+	rotate: false
+	xy: 120, 156
+	size: 120, 152
+	orig: 120, 152
+	offset: 0, 0
+	index: -1
+h_Rshin_kuchong
+	rotate: false
+	xy: 702, 227
+	size: 48, 62
+	orig: 48, 62
+	offset: 0, 0
+	index: -1
+a_Rfoot_kuchong
+	rotate: false
+	xy: 454, 978
+	size: 50, 46
+	orig: 50, 46
+	offset: 0, 0
+	index: -1
+b_Rshin_kuchong
+	rotate: true
+	xy: 546, 547
+	size: 67, 62
+	orig: 67, 62
+	offset: 0, 0
+	index: -1
+f_Rhand_kuchong
+	rotate: true
+	xy: 649, 533
+	size: 40, 39
+	orig: 40, 39
+	offset: 0, 0
+	index: -1
+l_Rthigh_kuchong
+	rotate: false
+	xy: 435, 307
+	size: 80, 89
+	orig: 80, 89
+	offset: 0, 0
+	index: -1
+b_bodyfm_kuchong
+	rotate: false
+	xy: 429, 156
+	size: 74, 89
+	orig: 74, 89
+	offset: 0, 0
+	index: -1
+a_head_kuchong
+	rotate: false
+	xy: 374, 0
+	size: 70, 99
+	orig: 70, 99
+	offset: 0, 0
+	index: -1
+a_eye01_kuchong
+	rotate: false
+	xy: 258, 742
+	size: 40, 22
+	orig: 40, 22
+	offset: 0, 0
+	index: -1
+f_bodyfm_kuchong
+	rotate: true
+	xy: 131, 908
+	size: 20, 48
+	orig: 20, 48
+	offset: 0, 0
+	index: -1
+k_Rthigh_kuchong
+	rotate: true
+	xy: 241, 156
+	size: 123, 62
+	orig: 123, 62
+	offset: 0, 0
+	index: -1
+l_Rforearm_kuchong
+	rotate: false
+	xy: 579, 156
+	size: 61, 85
+	orig: 61, 85
+	offset: 0, 0
+	index: -1
+d_Rfoot_kuchong
+	rotate: true
+	xy: 273, 595
+	size: 30, 60
+	orig: 30, 60
+	offset: 0, 0
+	index: -1
+d_Lfoot_kuchong
+	rotate: false
+	xy: 246, 877
+	size: 49, 30
+	orig: 49, 30
+	offset: 0, 0
+	index: -1
+a_Lfoot_kuchong
+	rotate: true
+	xy: 454, 916
+	size: 61, 36
+	orig: 61, 36
+	offset: 0, 0
+	index: -1
+b_coxa_kuchong
+	rotate: true
+	xy: 303, 307
+	size: 118, 63
+	orig: 118, 63
+	offset: 0, 0
+	index: -1
+k_body_kuchong
+	rotate: false
+	xy: 107, 628
+	size: 137, 143
+	orig: 137, 143
+	offset: 0, 0
+	index: -1
+h_Rthigh_kuchong
+	rotate: true
+	xy: 242, 0
+	size: 104, 64
+	orig: 104, 64
+	offset: 0, 0
+	index: -1
+h_Lshin_kuchong
+	rotate: true
+	xy: 469, 626
+	size: 75, 64
+	orig: 75, 64
+	offset: 0, 0
+	index: -1
+g_body_kuchong
+	rotate: false
+	xy: 0, 475
+	size: 114, 152
+	orig: 114, 152
+	offset: 0, 0
+	index: -1
+f_Rthigh_kuchong
+	rotate: true
+	xy: 312, 742
+	size: 97, 86
+	orig: 97, 86
+	offset: 0, 0
+	index: -1
+h_Lfoot_kuchong
+	rotate: true
+	xy: 589, 942
+	size: 45, 37
+	orig: 45, 37
+	offset: 0, 0
+	index: -1
+g_coax2_kuchong
+	rotate: false
+	xy: 301, 280
+	size: 42, 26
+	orig: 42, 26
+	offset: 0, 0
+	index: -1
+l_coxa2_kuchong
+	rotate: true
+	xy: 404, 257
+	size: 49, 37
+	orig: 49, 37
+	offset: 0, 0
+	index: -1
+l_body_kuchong
+	rotate: false
+	xy: 113, 0
+	size: 128, 155
+	orig: 128, 155
+	offset: 0, 0
+	index: -1
+a_Rforearm_kuchong
+	rotate: true
+	xy: 472, 702
+	size: 70, 46
+	orig: 70, 46
+	offset: 0, 0
+	index: -1
+k_Lshin_kuchong
+	rotate: false
+	xy: 490, 246
+	size: 74, 59
+	orig: 74, 59
+	offset: 0, 0
+	index: -1
+j_Rshin_kuchong
+	rotate: false
+	xy: 706, 84
+	size: 63, 70
+	orig: 63, 70
+	offset: 0, 0
+	index: -1
+c_Rfoot_kuchong
+	rotate: true
+	xy: 241, 280
+	size: 28, 59
+	orig: 28, 59
+	offset: 0, 0
+	index: -1
+k_Rforearm_kuchong
+	rotate: true
+	xy: 516, 306
+	size: 88, 61
+	orig: 88, 61
+	offset: 0, 0
+	index: -1
+h_Lforearm_kuchong
+	rotate: true
+	xy: 519, 702
+	size: 69, 46
+	orig: 69, 46
+	offset: 0, 0
+	index: -1
+e_bodyfm_kuchong
+	rotate: true
+	xy: 399, 796
+	size: 43, 48
+	orig: 43, 48
+	offset: 0, 0
+	index: -1
+a_Lshin_kuchong
+	rotate: true
+	xy: 350, 426
+	size: 48, 62
+	orig: 48, 62
+	offset: 0, 0
+	index: -1
+l_Rshin_kuchong
+	rotate: false
+	xy: 633, 379
+	size: 62, 64
+	orig: 62, 64
+	offset: 0, 0
+	index: -1
+a_coax2_kuchong
+	rotate: true
+	xy: 609, 533
+	size: 48, 39
+	orig: 48, 39
+	offset: 0, 0
+	index: -1
+h_Rfoot_kuchong
+	rotate: true
+	xy: 491, 916
+	size: 61, 36
+	orig: 61, 36
+	offset: 0, 0
+	index: -1
+j_Lthigh_kuchong
+	rotate: false
+	xy: 313, 626
+	size: 69, 92
+	orig: 69, 92
+	offset: 0, 0
+	index: -1
+e_coxa_kuchong
+	rotate: true
+	xy: 291, 475
+	size: 106, 47
+	orig: 106, 47
+	offset: 0, 0
+	index: -1
+h_coxa_kuchong
+	rotate: true
+	xy: 187, 772
+	size: 130, 58
+	orig: 130, 58
+	offset: 0, 0
+	index: -1
+a_hit_kuchong
+	rotate: false
+	xy: 554, 831
+	size: 40, 56
+	orig: 40, 56
+	offset: 0, 0
+	index: -1
+f_Lshin_kuchong
+	rotate: false
+	xy: 573, 86
+	size: 66, 69
+	orig: 66, 69
+	offset: 0, 0
+	index: -1
+f_body_kuchong
+	rotate: false
+	xy: 0, 163
+	size: 119, 157
+	orig: 119, 157
+	offset: 0, 0
+	index: -1
+i_head_kuchong
+	rotate: false
+	xy: 445, 0
+	size: 69, 99
+	orig: 69, 99
+	offset: 0, 0
+	index: -1
+k_Rhand_kuchong
+	rotate: false
+	xy: 334, 582
+	size: 69, 43
+	orig: 69, 43
+	offset: 0, 0
+	index: -1
+a_body_kuchong
+	rotate: false
+	xy: 0, 779
+	size: 130, 149
+	orig: 130, 149
+	offset: 0, 0
+	index: -1
+i_Rforearm_kuchong
+	rotate: false
+	xy: 242, 105
+	size: 73, 50
+	orig: 73, 50
+	offset: 0, 0
+	index: -1
+i_Rhand_kuchong
+	rotate: true
+	xy: 573, 615
+	size: 50, 37
+	orig: 50, 37
+	offset: 0, 0
+	index: -1
+a_Rhand_kuchong
+	rotate: true
+	xy: 593, 755
+	size: 52, 36
+	orig: 52, 36
+	offset: 0, 0
+	index: -1
+l_Lforearm_kuchong
+	rotate: false
+	xy: 702, 0
+	size: 57, 83
+	orig: 57, 83
+	offset: 0, 0
+	index: -1
+l_Lthigh_kuchong
+	rotate: false
+	xy: 383, 626
+	size: 85, 90
+	orig: 85, 90
+	offset: 0, 0
+	index: -1
+a_Rarm_kuchong
+	rotate: false
+	xy: 562, 395
+	size: 70, 72
+	orig: 70, 72
+	offset: 0, 0
+	index: -1
+l_Rarm_kuchong
+	rotate: true
+	xy: 487, 100
+	size: 55, 85
+	orig: 55, 85
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,34 @@
+
+asset/anim/tanglangnanSE.png
+size: 994,988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tlntx2_tanglangnan
+	rotate: false
+	xy: 818, 648
+	size: 110, 116
+	orig: 114, 136
+	offset: 4, 7
+	index: -1
+tlntx5_tanglangnan
+	rotate: false
+	xy: 630, 785
+	size: 114, 94
+	orig: 114, 98
+	offset: 0, 2
+	index: -1
+tlntx6_tanglangnan
+	rotate: false
+	xy: 540, 785
+	size: 84, 48
+	orig: 88, 64
+	offset: 4, 5
+	index: -1
+tlntx3_tanglangnan
+	rotate: true
+	xy: 929, 648
+	size: 78, 59
+	orig: 78, 77
+	offset: 0, 12
+	index: -1

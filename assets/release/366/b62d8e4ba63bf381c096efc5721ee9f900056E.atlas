@@ -1,0 +1,74 @@
+
+asset/anim/shanguangfulaishi2SEMAX3.png
+size: 1024,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shanguangfulaishi2_c_suduci_000
+	rotate: true
+	xy: 568, 270
+	size: 83, 356
+	orig: 83, 356
+	offset: 0, 0
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/shanguangfulaishi2SECOMMON1.png
+size: 2001,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/shanguangfulaishi2_suduxian1_004
+	rotate: false
+	xy: 846, 292
+	size: 351, 151
+	orig: 353, 151
+	offset: 0, 0
+	index: -1
+common/shanguangfulaishi2_suduxian1_005
+	rotate: false
+	xy: 1198, 307
+	size: 351, 151
+	orig: 353, 151
+	offset: 0, 0
+	index: -1
+common/shanguangfulaishi2_suduxian1_000
+	rotate: true
+	xy: 360, 709
+	size: 351, 151
+	orig: 353, 151
+	offset: 0, 0
+	index: -1
+common/shanguangfulaishi2_suduxian1_001
+	rotate: true
+	xy: 770, 708
+	size: 351, 151
+	orig: 353, 151
+	offset: 0, 0
+	index: -1
+common/shanguangfulaishi2_suduxian1_002
+	rotate: true
+	xy: 179, 1208
+	size: 351, 151
+	orig: 353, 151
+	offset: 0, 0
+	index: -1
+common/shanguangfulaishi2_suduxian1_003
+	rotate: true
+	xy: 191, 1560
+	size: 351, 151
+	orig: 353, 151
+	offset: 0, 0
+	index: -1

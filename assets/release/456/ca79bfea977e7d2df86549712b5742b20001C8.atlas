@@ -1,0 +1,26 @@
+
+asset/anim/beixinzunzhe2SESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/bx2_skill_kenghou2_00066
+	rotate: false
+	xy: 0, 0
+	size: 420, 143
+	orig: 420, 143
+	offset: 0, 0
+	index: -1
+
+asset/anim/beixinzunzhe2SEMAX1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/bx2_max_bo2_00026
+	rotate: false
+	xy: 592, 1491
+	size: 262, 77
+	orig: 262, 77
+	offset: 0, 0
+	index: -1

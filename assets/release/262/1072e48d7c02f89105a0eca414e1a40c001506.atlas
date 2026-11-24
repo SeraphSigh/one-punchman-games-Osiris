@@ -1,0 +1,320 @@
+
+asset/anim/xingganqiutu2kapai0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+damuzhi_01xingganqiutu2kapai
+	rotate: false
+	xy: 982, 347
+	size: 33, 21
+	orig: 33, 21
+	offset: 0, 0
+	index: -1
+shouzi_04xingganqiutu2kapai
+	rotate: true
+	xy: 982, 315
+	size: 31, 33
+	orig: 31, 33
+	offset: 0, 0
+	index: -1
+jiao_02xingganqiutu2kapai
+	rotate: true
+	xy: 651, 777
+	size: 140, 141
+	orig: 140, 141
+	offset: 0, 0
+	index: -1
+shangbi_02xingganqiutu2kapai
+	rotate: true
+	xy: 853, 786
+	size: 165, 168
+	orig: 165, 168
+	offset: 0, 0
+	index: -1
+zuixingganqiutu2kapai
+	rotate: true
+	xy: 512, 977
+	size: 30, 27
+	orig: 30, 27
+	offset: 0, 0
+	index: -1
+datui_02xingganqiutu2kapai
+	rotate: true
+	xy: 0, 789
+	size: 230, 270
+	orig: 230, 270
+	offset: 0, 0
+	index: -1
+shouzi_13xingganqiutu2kapai
+	rotate: false
+	xy: 982, 242
+	size: 37, 35
+	orig: 37, 35
+	offset: 0, 0
+	index: -1
+bixingganqiutu2kapai
+	rotate: true
+	xy: 982, 411
+	size: 20, 25
+	orig: 20, 25
+	offset: 0, 0
+	index: -1
+yan_02xingganqiutu2kapai
+	rotate: false
+	xy: 302, 1006
+	size: 28, 17
+	orig: 28, 17
+	offset: 0, 0
+	index: -1
+mei_02xingganqiutu2kapai
+	rotate: true
+	xy: 651, 918
+	size: 87, 134
+	orig: 87, 134
+	offset: 0, 0
+	index: -1
+shouzi_14xingganqiutu2kapai
+	rotate: true
+	xy: 982, 178
+	size: 26, 42
+	orig: 26, 42
+	offset: 0, 0
+	index: -1
+xiaobi_01xingganqiutu2kapai
+	rotate: false
+	xy: 796, 617
+	size: 190, 91
+	orig: 190, 91
+	offset: 0, 0
+	index: -1
+tieqiuxingganqiutu2kapai
+	rotate: true
+	xy: 796, 433
+	size: 183, 190
+	orig: 183, 190
+	offset: 0, 0
+	index: -1
+xiaotui_02xingganqiutu2kapai
+	rotate: true
+	xy: 714, 332
+	size: 100, 267
+	orig: 100, 267
+	offset: 0, 0
+	index: -1
+fa_01xingganqiutu2kapai
+	rotate: false
+	xy: 355, 1006
+	size: 21, 17
+	orig: 21, 17
+	offset: 0, 0
+	index: -1
+yan_01xingganqiutu2kapai
+	rotate: false
+	xy: 331, 1006
+	size: 23, 17
+	orig: 23, 17
+	offset: 0, 0
+	index: -1
+fa_02xingganqiutu2kapai
+	rotate: false
+	xy: 377, 1006
+	size: 19, 14
+	orig: 19, 14
+	offset: 0, 0
+	index: -1
+shouzi_02xingganqiutu2kapai
+	rotate: false
+	xy: 982, 205
+	size: 39, 36
+	orig: 39, 36
+	offset: 0, 0
+	index: -1
+xgqt2_kapai_xinguang_00037
+	rotate: true
+	xy: 0, 446
+	size: 342, 330
+	orig: 342, 330
+	offset: 0, 0
+	index: -1
+shen_01xingganqiutu2kapai
+	rotate: false
+	xy: 0, 0
+	size: 270, 445
+	orig: 270, 445
+	offset: 0, 0
+	index: -1
+xgqt2_kapai_loukongxin_00045
+	rotate: true
+	xy: 589, 0
+	size: 331, 315
+	orig: 349, 319
+	offset: 9, 4
+	index: -1
+xgqt2_kapai_loukongxin_00044
+	rotate: true
+	xy: 271, 0
+	size: 337, 317
+	orig: 349, 319
+	offset: 6, 2
+	index: -1
+xgqt2_kapai_loukongxin_00043
+	rotate: true
+	xy: 480, 443
+	size: 333, 315
+	orig: 349, 319
+	offset: 8, 4
+	index: -1
+shouzi_03xingganqiutu2kapai
+	rotate: true
+	xy: 476, 977
+	size: 42, 35
+	orig: 42, 35
+	offset: 0, 0
+	index: -1
+lian_01xingganqiutu2kapai
+	rotate: true
+	xy: 405, 780
+	size: 196, 134
+	orig: 196, 134
+	offset: 0, 0
+	index: -1
+shouzhang_01xingganqiutu2kapai
+	rotate: true
+	xy: 905, 242
+	size: 88, 66
+	orig: 88, 66
+	offset: 0, 0
+	index: -1
+shouzhang_02xingganqiutu2kapai
+	rotate: true
+	xy: 786, 918
+	size: 78, 66
+	orig: 78, 66
+	offset: 0, 0
+	index: -1
+damuzhi_02xingganqiutu2kapai
+	rotate: false
+	xy: 982, 369
+	size: 32, 21
+	orig: 32, 21
+	offset: 0, 0
+	index: -1
+datui_01xingganqiutu2kapai
+	rotate: false
+	xy: 331, 443
+	size: 148, 336
+	orig: 148, 336
+	offset: 0, 0
+	index: -1
+shouzi_11xingganqiutu2kapai
+	rotate: true
+	xy: 440, 977
+	size: 43, 35
+	orig: 43, 35
+	offset: 0, 0
+	index: -1
+biyan1xingganqiutu2kapai
+	rotate: false
+	xy: 982, 391
+	size: 26, 19
+	orig: 30, 21
+	offset: 2, 1
+	index: -1
+xiaobi_02xingganqiutu2kapai
+	rotate: false
+	xy: 481, 338
+	size: 153, 101
+	orig: 153, 101
+	offset: 0, 0
+	index: -1
+jiao_01xingganqiutu2kapai
+	rotate: false
+	xy: 796, 709
+	size: 171, 76
+	orig: 171, 76
+	offset: 0, 0
+	index: -1
+shouzi_01xingganqiutu2kapai
+	rotate: true
+	xy: 405, 977
+	size: 46, 34
+	orig: 46, 34
+	offset: 0, 0
+	index: -1
+youxiaotuixingganqiutu2kapai
+	rotate: true
+	xy: 271, 338
+	size: 104, 209
+	orig: 104, 209
+	offset: 0, 0
+	index: -1
+fa_04xingganqiutu2kapai
+	rotate: true
+	xy: 635, 332
+	size: 108, 78
+	orig: 108, 78
+	offset: 0, 0
+	index: -1
+shangbi_01xingganqiutu2kapai
+	rotate: false
+	xy: 905, 0
+	size: 119, 177
+	orig: 119, 177
+	offset: 0, 0
+	index: -1
+kuaxingganqiutu2kapai
+	rotate: true
+	xy: 271, 789
+	size: 216, 133
+	orig: 216, 133
+	offset: 0, 0
+	index: -1
+shouzi_12xingganqiutu2kapai
+	rotate: false
+	xy: 982, 278
+	size: 36, 36
+	orig: 36, 36
+	offset: 0, 0
+	index: -1
+biyan2xingganqiutu2kapai
+	rotate: false
+	xy: 271, 1006
+	size: 30, 18
+	orig: 32, 20
+	offset: 1, 1
+	index: -1
+
+asset/anim/xingganqiutu2kapai1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xgqt2_kapai_loukongxin_00039
+	rotate: false
+	xy: 650, 304
+	size: 307, 291
+	orig: 349, 319
+	offset: 21, 17
+	index: -1
+xgqt2_kapai_loukongxin_00041
+	rotate: false
+	xy: 328, 0
+	size: 321, 305
+	orig: 349, 319
+	offset: 14, 10
+	index: -1
+xgqt2_kapai_loukongxin_00040
+	rotate: false
+	xy: 650, 0
+	size: 319, 303
+	orig: 349, 319
+	offset: 15, 12
+	index: -1
+xgqt2_kapai_loukongxin_00042
+	rotate: false
+	xy: 0, 0
+	size: 327, 311
+	orig: 349, 319
+	offset: 11, 8
+	index: -1

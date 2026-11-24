@@ -1,0 +1,1437 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/sinaike1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z_youxiaobi_sinaike
+	rotate: false
+	xy: 204, 253
+	size: 34, 25
+	orig: 34, 25
+	offset: 0, 0
+	index: -1
+e_zuoyanjian_sinaike
+	rotate: false
+	xy: 371, 280
+	size: 22, 17
+	orig: 22, 17
+	offset: 0, 0
+	index: -1
+e_youdabi_sinaike
+	rotate: true
+	xy: 45, 187
+	size: 41, 43
+	orig: 41, 43
+	offset: 0, 0
+	index: -1
+y_youshou_sinaike
+	rotate: true
+	xy: 304, 193
+	size: 29, 36
+	orig: 29, 36
+	offset: 0, 0
+	index: -1
+e_zuoshou_sinaike
+	rotate: true
+	xy: 169, 247
+	size: 26, 34
+	orig: 26, 34
+	offset: 0, 0
+	index: -1
+zc_zuoshou_sinaike
+	rotate: false
+	xy: 434, 61
+	size: 48, 28
+	orig: 48, 28
+	offset: 0, 0
+	index: -1
+zc_youxiaobi_sinaike
+	rotate: true
+	xy: 273, 179
+	size: 36, 30
+	orig: 36, 30
+	offset: 0, 0
+	index: -1
+shoubu2_sinaike
+	rotate: true
+	xy: 378, 137
+	size: 38, 42
+	orig: 38, 42
+	offset: 0, 0
+	index: -1
+s_zuoxiaotui_sinaike
+	rotate: true
+	xy: 435, 0
+	size: 32, 51
+	orig: 32, 51
+	offset: 0, 0
+	index: -1
+s_zuoxiaobi_sinaike
+	rotate: true
+	xy: 383, 0
+	size: 37, 51
+	orig: 37, 51
+	offset: 0, 0
+	index: -1
+s_zuoshou_sinaike
+	rotate: false
+	xy: 318, 146
+	size: 43, 25
+	orig: 43, 25
+	offset: 0, 0
+	index: -1
+a_youshou_sinaike
+	rotate: true
+	xy: 377, 253
+	size: 26, 30
+	orig: 26, 30
+	offset: 0, 0
+	index: -1
+b_zuojiao_sinaike
+	rotate: false
+	xy: 304, 277
+	size: 29, 27
+	orig: 29, 27
+	offset: 0, 0
+	index: -1
+e_youshou_sinaike
+	rotate: false
+	xy: 420, 181
+	size: 40, 23
+	orig: 40, 23
+	offset: 0, 0
+	index: -1
+zui_bu3_sinaike
+	rotate: false
+	xy: 408, 263
+	size: 22, 21
+	orig: 22, 21
+	offset: 0, 0
+	index: -1
+e_toufa2_sinaike
+	rotate: true
+	xy: 341, 232
+	size: 31, 35
+	orig: 31, 35
+	offset: 0, 0
+	index: -1
+e_youxiaobi_sinaike
+	rotate: false
+	xy: 113, 39
+	size: 53, 26
+	orig: 53, 26
+	offset: 0, 0
+	index: -1
+h_bozi_sinaike
+	rotate: true
+	xy: 472, 90
+	size: 31, 40
+	orig: 31, 40
+	offset: 0, 0
+	index: -1
+g_youxiaobi_sinaike
+	rotate: false
+	xy: 0, 254
+	size: 37, 25
+	orig: 37, 25
+	offset: 0, 0
+	index: -1
+b_youdabi_sinaike
+	rotate: true
+	xy: 147, 144
+	size: 36, 44
+	orig: 36, 44
+	offset: 0, 0
+	index: -1
+s_toufa3_sinaike
+	rotate: true
+	xy: 138, 181
+	size: 36, 41
+	orig: 36, 41
+	offset: 0, 0
+	index: -1
+l_shou_sinaike
+	rotate: false
+	xy: 418, 205
+	size: 39, 27
+	orig: 39, 27
+	offset: 0, 0
+	index: -1
+k_yuoxiaobihou_sinaike
+	rotate: false
+	xy: 364, 132
+	size: 13, 18
+	orig: 13, 18
+	offset: 0, 0
+	index: -1
+h_zuoshangyanjian_sinaike
+	rotate: true
+	xy: 334, 286
+	size: 19, 21
+	orig: 19, 21
+	offset: 0, 0
+	index: -1
+d_youshou_sinaike
+	rotate: false
+	xy: 317, 172
+	size: 41, 20
+	orig: 41, 20
+	offset: 0, 0
+	index: -1
+e_toufa3_sinaike
+	rotate: true
+	xy: 464, 158
+	size: 26, 42
+	orig: 26, 42
+	offset: 0, 0
+	index: -1
+k_zuoshou_sinaike
+	rotate: false
+	xy: 423, 121
+	size: 43, 23
+	orig: 43, 23
+	offset: 0, 0
+	index: -1
+p_toufa1_sinaike
+	rotate: true
+	xy: 340, 264
+	size: 21, 30
+	orig: 21, 30
+	offset: 0, 0
+	index: -1
+s_youdabi_sinaike
+	rotate: true
+	xy: 110, 66
+	size: 25, 53
+	orig: 25, 53
+	offset: 0, 0
+	index: -1
+h_kua_sinaike
+	rotate: false
+	xy: 331, 39
+	size: 50, 35
+	orig: 50, 35
+	offset: 0, 0
+	index: -1
+k_zuodabi_sinaike
+	rotate: true
+	xy: 331, 0
+	size: 38, 51
+	orig: 38, 51
+	offset: 0, 0
+	index: -1
+k_zuoxiaobi_sinaike
+	rotate: false
+	xy: 304, 223
+	size: 36, 25
+	orig: 36, 25
+	offset: 0, 0
+	index: -1
+p_bozi_sinaike
+	rotate: true
+	xy: 180, 211
+	size: 35, 37
+	orig: 35, 37
+	offset: 0, 0
+	index: -1
+z_zuoxiaobi_sinaike
+	rotate: false
+	xy: 225, 0
+	size: 53, 50
+	orig: 53, 50
+	offset: 0, 0
+	index: -1
+b_zuoxiaotui_sinaike
+	rotate: false
+	xy: 223, 51
+	size: 47, 46
+	orig: 47, 46
+	offset: 0, 0
+	index: -1
+s_youxiaobi_sinaike
+	rotate: false
+	xy: 156, 108
+	size: 46, 35
+	orig: 46, 35
+	offset: 0, 0
+	index: -1
+p_toufa3_sinaike
+	rotate: true
+	xy: 0, 218
+	size: 35, 43
+	orig: 35, 43
+	offset: 0, 0
+	index: -1
+q_zuoshou_sinaike
+	rotate: true
+	xy: 239, 265
+	size: 28, 32
+	orig: 28, 32
+	offset: 0, 0
+	index: -1
+s_toufa1_sinaike
+	rotate: true
+	xy: 442, 242
+	size: 20, 29
+	orig: 20, 29
+	offset: 0, 0
+	index: -1
+p_shangyanjian_sinaike
+	rotate: true
+	xy: 452, 263
+	size: 18, 19
+	orig: 18, 19
+	offset: 0, 0
+	index: -1
+s_zuodatui_sinaike
+	rotate: false
+	xy: 57, 0
+	size: 55, 46
+	orig: 55, 46
+	offset: 0, 0
+	index: -1
+shoubu1_sinaike
+	rotate: false
+	xy: 109, 92
+	size: 46, 43
+	orig: 46, 43
+	offset: 0, 0
+	index: -1
+p_yanjing_sinaike
+	rotate: false
+	xy: 304, 120
+	size: 14, 15
+	orig: 14, 15
+	offset: 0, 0
+	index: -1
+p_zuojiao_sinaike
+	rotate: false
+	xy: 435, 33
+	size: 51, 27
+	orig: 51, 27
+	offset: 0, 0
+	index: -1
+a_zuodabi_sinaike
+	rotate: false
+	xy: 0, 0
+	size: 56, 30
+	orig: 56, 30
+	offset: 0, 0
+	index: -1
+h_zuoxiayanjian_sinaike
+	rotate: false
+	xy: 472, 270
+	size: 19, 17
+	orig: 19, 17
+	offset: 0, 0
+	index: -1
+l_xiaobi_sinaike
+	rotate: false
+	xy: 467, 122
+	size: 42, 35
+	orig: 42, 35
+	offset: 0, 0
+	index: -1
+b_youxiaobi_sinaike
+	rotate: false
+	xy: 379, 109
+	size: 43, 27
+	orig: 43, 27
+	offset: 0, 0
+	index: -1
+l_dabi_sinaike
+	rotate: true
+	xy: 0, 107
+	size: 39, 46
+	orig: 39, 46
+	offset: 0, 0
+	index: -1
+d_youxiaobi_sinaike
+	rotate: false
+	xy: 93, 163
+	size: 44, 26
+	orig: 44, 26
+	offset: 0, 0
+	index: -1
+a_youxiaobi_sinaike
+	rotate: false
+	xy: 458, 215
+	size: 39, 26
+	orig: 39, 26
+	offset: 0, 0
+	index: -1
+l_xiaobihou_sinaike
+	rotate: false
+	xy: 304, 136
+	size: 13, 19
+	orig: 13, 19
+	offset: 0, 0
+	index: -1
+s_zuoxiayanjian_sinaike
+	rotate: true
+	xy: 254, 244
+	size: 20, 18
+	orig: 20, 18
+	offset: 0, 0
+	index: -1
+o_shou_sinaike
+	rotate: false
+	xy: 379, 85
+	size: 48, 23
+	orig: 48, 23
+	offset: 0, 0
+	index: -1
+c_shou_sinaike
+	rotate: false
+	xy: 218, 223
+	size: 35, 29
+	orig: 35, 29
+	offset: 0, 0
+	index: -1
+k_youxiaobi_sinaike
+	rotate: true
+	xy: 279, 0
+	size: 43, 51
+	orig: 43, 51
+	offset: 0, 0
+	index: -1
+p_youxiaobi_sinaike
+	rotate: false
+	xy: 89, 190
+	size: 41, 32
+	orig: 41, 32
+	offset: 0, 0
+	index: -1
+k_zouxiaobihou_sinaike
+	rotate: true
+	xy: 452, 282
+	size: 16, 17
+	orig: 16, 17
+	offset: 0, 0
+	index: -1
+q_zuoxiaobi_sinaike
+	rotate: true
+	xy: 192, 171
+	size: 39, 41
+	orig: 39, 41
+	offset: 0, 0
+	index: -1
+a_zuojiao_sinaike
+	rotate: true
+	xy: 44, 229
+	size: 26, 37
+	orig: 26, 37
+	offset: 0, 0
+	index: -1
+g_youdabi_sinaike
+	rotate: false
+	xy: 203, 134
+	size: 44, 36
+	orig: 44, 36
+	offset: 0, 0
+	index: -1
+zc_youshou_sinaike
+	rotate: true
+	xy: 131, 218
+	size: 32, 37
+	orig: 32, 37
+	offset: 0, 0
+	index: -1
+g_zuoshou_sinaike
+	rotate: false
+	xy: 461, 185
+	size: 39, 29
+	orig: 39, 29
+	offset: 0, 0
+	index: -1
+s_yanjing1
+	rotate: true
+	xy: 487, 45
+	size: 44, 25
+	orig: 44, 25
+	offset: 0, 0
+	index: -1
+h_youdabi_sinaike
+	rotate: true
+	xy: 259, 120
+	size: 38, 44
+	orig: 38, 44
+	offset: 0, 0
+	index: -1
+j_zuoxiaobi_sinaike
+	rotate: false
+	xy: 271, 76
+	size: 47, 43
+	orig: 47, 43
+	offset: 0, 0
+	index: -1
+h_toufa1_sinaike
+	rotate: true
+	xy: 377, 233
+	size: 19, 32
+	orig: 19, 32
+	offset: 0, 0
+	index: -1
+s_youdatui_sinaike
+	rotate: false
+	xy: 169, 0
+	size: 55, 37
+	orig: 55, 37
+	offset: 0, 0
+	index: -1
+i_zuodabi_sinaike
+	rotate: false
+	xy: 113, 0
+	size: 55, 38
+	orig: 55, 38
+	offset: 0, 0
+	index: -1
+a_youjiao_sinaike
+	rotate: true
+	xy: 487, 0
+	size: 44, 25
+	orig: 44, 25
+	offset: 0, 0
+	index: -1
+y_zuodabi_sinaike
+	rotate: true
+	xy: 378, 196
+	size: 36, 39
+	orig: 36, 39
+	offset: 0, 0
+	index: -1
+e_zuoxiaobi_sinaike
+	rotate: true
+	xy: 0, 147
+	size: 28, 45
+	orig: 28, 45
+	offset: 0, 0
+	index: -1
+zc_zuodabi_sinaike
+	rotate: false
+	xy: 0, 31
+	size: 55, 44
+	orig: 55, 44
+	offset: 0, 0
+	index: -1
+b_youshou_sinaike
+	rotate: false
+	xy: 234, 202
+	size: 38, 20
+	orig: 38, 20
+	offset: 0, 0
+	index: -1
+p_youjiao_sinaike
+	rotate: false
+	xy: 47, 146
+	size: 45, 40
+	orig: 45, 40
+	offset: 0, 0
+	index: -1
+e_zuoyanjing_sinaike
+	rotate: true
+	xy: 364, 107
+	size: 24, 14
+	orig: 24, 14
+	offset: 0, 0
+	index: -1
+a_zuoshou_sinaike
+	rotate: false
+	xy: 100, 136
+	size: 46, 26
+	orig: 46, 26
+	offset: 0, 0
+	index: -1
+n_xiaobi_sinaike
+	rotate: false
+	xy: 56, 73
+	size: 52, 31
+	orig: 52, 31
+	offset: 0, 0
+	index: -1
+p_youshou_sinaike
+	rotate: false
+	xy: 273, 246
+	size: 30, 27
+	orig: 30, 27
+	offset: 0, 0
+	index: -1
+h_zuoyanjing_sinaike
+	rotate: true
+	xy: 254, 223
+	size: 20, 18
+	orig: 20, 18
+	offset: 0, 0
+	index: -1
+o_xiaobi_sinaike
+	rotate: false
+	xy: 330, 75
+	size: 48, 31
+	orig: 48, 31
+	offset: 0, 0
+	index: -1
+b_zuoxiaobi_sinaike
+	rotate: false
+	xy: 169, 38
+	size: 53, 29
+	orig: 53, 29
+	offset: 0, 0
+	index: -1
+h_youshou_sinaike
+	rotate: false
+	xy: 304, 249
+	size: 35, 27
+	orig: 35, 27
+	offset: 0, 0
+	index: -1
+d_zuoshou_sinaike
+	rotate: false
+	xy: 341, 205
+	size: 36, 26
+	orig: 36, 26
+	offset: 0, 0
+	index: -1
+b_zuodabi_sinaike
+	rotate: false
+	xy: 164, 68
+	size: 47, 39
+	orig: 47, 39
+	offset: 0, 0
+	index: -1
+s_bozi_sinaike
+	rotate: true
+	xy: 472, 242
+	size: 27, 28
+	orig: 27, 28
+	offset: 0, 0
+	index: -1
+s_youshou_sinaike
+	rotate: true
+	xy: 89, 223
+	size: 27, 37
+	orig: 27, 37
+	offset: 0, 0
+	index: -1
+a_youdabi_sinaike
+	rotate: true
+	xy: 279, 44
+	size: 31, 50
+	orig: 31, 50
+	offset: 0, 0
+	index: -1
+e_youyanjian_sinaike
+	rotate: false
+	xy: 362, 151
+	size: 15, 12
+	orig: 15, 12
+	offset: 0, 0
+	index: -1
+p_xiayanjian_sinaike
+	rotate: false
+	xy: 431, 263
+	size: 20, 19
+	orig: 20, 19
+	offset: 0, 0
+	index: -1
+e_zuodabi_sinaike
+	rotate: false
+	xy: 0, 176
+	size: 44, 41
+	orig: 44, 41
+	offset: 0, 0
+	index: -1
+h_zuojiao_sinaike
+	rotate: true
+	xy: 410, 233
+	size: 29, 31
+	orig: 29, 31
+	offset: 0, 0
+	index: -1
+j_youxiaobi_sinaike
+	rotate: true
+	xy: 428, 90
+	size: 30, 43
+	orig: 30, 43
+	offset: 0, 0
+	index: -1
+h_zuoxiaobi_sinaike
+	rotate: false
+	xy: 212, 98
+	size: 46, 35
+	orig: 46, 35
+	offset: 0, 0
+	index: -1
+h_zuodabi_sinaike
+	rotate: false
+	xy: 319, 107
+	size: 44, 38
+	orig: 44, 38
+	offset: 0, 0
+	index: -1
+e_zuoshangyanjian_sinaike
+	rotate: false
+	xy: 304, 305
+	size: 21, 16
+	orig: 21, 16
+	offset: 0, 0
+	index: -1
+y_zuoshou_sinaike
+	rotate: false
+	xy: 234, 179
+	size: 38, 22
+	orig: 38, 22
+	offset: 0, 0
+	index: -1
+zc_youdatui_sinaike
+	rotate: false
+	xy: 53, 105
+	size: 46, 40
+	orig: 46, 40
+	offset: 0, 0
+	index: -1
+j_youdabi_sinaike
+	rotate: true
+	xy: 0, 76
+	size: 30, 52
+	orig: 30, 52
+	offset: 0, 0
+	index: -1
+m_shou_sinaike
+	rotate: true
+	xy: 273, 216
+	size: 29, 30
+	orig: 29, 30
+	offset: 0, 0
+	index: -1
+a_youxiaotui_sinaike
+	rotate: false
+	xy: 383, 38
+	size: 50, 46
+	orig: 50, 46
+	offset: 0, 0
+	index: -1
+h_zuodatui_sinaike
+	rotate: true
+	xy: 421, 145
+	size: 35, 42
+	orig: 35, 42
+	offset: 0, 0
+	index: -1
+y_youdabi_sinaike
+	rotate: false
+	xy: 203, 134
+	size: 44, 36
+	orig: 44, 36
+	offset: 0, 0
+	index: -1
+
+asset/anim/sinaike0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_youxiaobi_sinaike
+	rotate: false
+	xy: 273, 235
+	size: 58, 29
+	orig: 58, 29
+	offset: 0, 0
+	index: -1
+k_youdabi_sinaike
+	rotate: true
+	xy: 324, 332
+	size: 50, 56
+	orig: 50, 56
+	offset: 0, 0
+	index: -1
+s_youjianjing_sinaike
+	rotate: true
+	xy: 503, 41
+	size: 13, 8
+	orig: 13, 8
+	offset: 0, 0
+	index: -1
+z_kua_sinaike
+	rotate: false
+	xy: 331, 293
+	size: 57, 38
+	orig: 57, 38
+	offset: 0, 0
+	index: -1
+h_youxiaotui_sinaike
+	rotate: false
+	xy: 238, 358
+	size: 51, 51
+	orig: 51, 51
+	offset: 0, 0
+	index: -1
+h_youxiaobi_sinaike
+	rotate: true
+	xy: 238, 313
+	size: 44, 31
+	orig: 44, 31
+	offset: 0, 0
+	index: -1
+a_zuodatui_sinaike
+	rotate: false
+	xy: 431, 317
+	size: 56, 56
+	orig: 56, 56
+	offset: 0, 0
+	index: -1
+f_youshou_sinaike
+	rotate: true
+	xy: 494, 128
+	size: 48, 18
+	orig: 48, 18
+	offset: 0, 0
+	index: -1
+s_youshangyanjian_sinaike
+	rotate: true
+	xy: 137, 198
+	size: 11, 12
+	orig: 11, 12
+	offset: 0, 0
+	index: -1
+g_shenti_sinaike
+	rotate: false
+	xy: 98, 310
+	size: 65, 99
+	orig: 65, 99
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi_sinaike
+	rotate: false
+	xy: 431, 374
+	size: 56, 45
+	orig: 56, 45
+	offset: 0, 0
+	index: -1
+z_zuodabi_sinaike
+	rotate: false
+	xy: 332, 482
+	size: 48, 30
+	orig: 48, 30
+	offset: 0, 0
+	index: -1
+s_toufa2_sinaike
+	rotate: false
+	xy: 490, 282
+	size: 22, 47
+	orig: 22, 47
+	offset: 0, 0
+	index: -1
+o_dabi_sinaike
+	rotate: false
+	xy: 381, 403
+	size: 49, 30
+	orig: 49, 30
+	offset: 0, 0
+	index: -1
+s_shenti_sinaike
+	rotate: false
+	xy: 0, 415
+	size: 70, 96
+	orig: 70, 96
+	offset: 0, 0
+	index: -1
+s_youxiaotui_sinaike
+	rotate: false
+	xy: 389, 301
+	size: 41, 56
+	orig: 41, 56
+	offset: 0, 0
+	index: -1
+h_shenti_sinaike
+	rotate: false
+	xy: 164, 310
+	size: 73, 95
+	orig: 73, 95
+	offset: 0, 0
+	index: -1
+n_dabi_sinaike
+	rotate: true
+	xy: 381, 458
+	size: 54, 38
+	orig: 54, 38
+	offset: 0, 0
+	index: -1
+g_youshou_sinaike
+	rotate: true
+	xy: 488, 379
+	size: 35, 24
+	orig: 35, 24
+	offset: 0, 0
+	index: -1
+h_toufa2_sinaike
+	rotate: false
+	xy: 238, 243
+	size: 17, 32
+	orig: 17, 32
+	offset: 0, 0
+	index: -1
+z_zuoshou_sinaike
+	rotate: true
+	xy: 420, 478
+	size: 34, 30
+	orig: 34, 30
+	offset: 0, 0
+	index: -1
+h_youyanjing_sinaike
+	rotate: true
+	xy: 186, 198
+	size: 9, 7
+	orig: 9, 7
+	offset: 0, 0
+	index: -1
+h_tou_sinaike
+	rotate: true
+	xy: 340, 92
+	size: 88, 90
+	orig: 88, 90
+	offset: 0, 0
+	index: -1
+h_zuoyanzhu_sinaike
+	rotate: true
+	xy: 78, 102
+	size: 4, 5
+	orig: 4, 5
+	offset: 0, 0
+	index: -1
+i_zuoxiaobi_sinaike
+	rotate: false
+	xy: 333, 230
+	size: 59, 32
+	orig: 59, 32
+	offset: 0, 0
+	index: -1
+zc_tou_sinaike
+	rotate: true
+	xy: 0, 314
+	size: 100, 97
+	orig: 100, 97
+	offset: 0, 0
+	index: -1
+zui_bu1_sinaike
+	rotate: true
+	xy: 488, 478
+	size: 25, 24
+	orig: 25, 24
+	offset: 0, 0
+	index: -1
+zc_youjiao_sinaike
+	rotate: true
+	xy: 488, 415
+	size: 32, 24
+	orig: 32, 24
+	offset: 0, 0
+	index: -1
+s_youyanjing_sinaike
+	rotate: true
+	xy: 93, 102
+	size: 4, 3
+	orig: 4, 3
+	offset: 0, 0
+	index: -1
+p_shenti_sinaike
+	rotate: false
+	xy: 204, 95
+	size: 68, 93
+	orig: 68, 93
+	offset: 0, 0
+	index: -1
+a_kua_sinaike
+	rotate: false
+	xy: 433, 41
+	size: 69, 41
+	orig: 69, 41
+	offset: 0, 0
+	index: -1
+f_youdabi_sinaike
+	rotate: false
+	xy: 381, 358
+	size: 49, 44
+	orig: 49, 44
+	offset: 0, 0
+	index: -1
+p_youdatui_sinaike
+	rotate: true
+	xy: 273, 310
+	size: 47, 50
+	orig: 47, 50
+	offset: 0, 0
+	index: -1
+e_zuoyanzhu_sinaike
+	rotate: false
+	xy: 72, 102
+	size: 5, 4
+	orig: 5, 4
+	offset: 0, 0
+	index: -1
+e_shenti_sinaike
+	rotate: false
+	xy: 0, 107
+	size: 70, 103
+	orig: 70, 103
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui_sinaike
+	rotate: false
+	xy: 332, 429
+	size: 48, 52
+	orig: 48, 52
+	offset: 0, 0
+	index: -1
+p_youxiaotui_sinaike
+	rotate: true
+	xy: 290, 458
+	size: 54, 41
+	orig: 54, 41
+	offset: 0, 0
+	index: -1
+h_zuoshou_sinaike
+	rotate: false
+	xy: 290, 398
+	size: 33, 30
+	orig: 33, 30
+	offset: 0, 0
+	index: -1
+p_toufa2_sinaike
+	rotate: false
+	xy: 494, 177
+	size: 18, 38
+	orig: 18, 38
+	offset: 0, 0
+	index: -1
+s_zuojiao_sinaike
+	rotate: false
+	xy: 290, 429
+	size: 41, 26
+	orig: 41, 26
+	offset: 0, 0
+	index: -1
+a_shenti_sinaike
+	rotate: false
+	xy: 0, 211
+	size: 93, 102
+	orig: 93, 102
+	offset: 0, 0
+	index: -1
+p_zuodatui_sinaike
+	rotate: true
+	xy: 273, 146
+	size: 52, 62
+	orig: 52, 62
+	offset: 0, 0
+	index: -1
+s_youjiao_sinaike
+	rotate: false
+	xy: 381, 434
+	size: 49, 23
+	orig: 49, 23
+	offset: 0, 0
+	index: -1
+p_tou_sinaike
+	rotate: false
+	xy: 247, 0
+	size: 92, 92
+	orig: 92, 92
+	offset: 0, 0
+	index: -1
+f_kua_sinaike
+	rotate: false
+	xy: 431, 202
+	size: 59, 42
+	orig: 59, 42
+	offset: 0, 0
+	index: -1
+p_zuoxiaotui_sinaike
+	rotate: true
+	xy: 431, 420
+	size: 37, 56
+	orig: 37, 56
+	offset: 0, 0
+	index: -1
+g_zuoxiaobi_sinaike
+	rotate: true
+	xy: 397, 181
+	size: 60, 33
+	orig: 60, 33
+	offset: 0, 0
+	index: -1
+h_youshangyanjian_sinaike
+	rotate: false
+	xy: 176, 198
+	size: 9, 9
+	orig: 9, 9
+	offset: 0, 0
+	index: -1
+h_youyanzhu_sinaike
+	rotate: false
+	xy: 101, 102
+	size: 3, 3
+	orig: 3, 3
+	offset: 0, 0
+	index: -1
+h_youxiayanjian_sinaike
+	rotate: true
+	xy: 162, 506
+	size: 5, 9
+	orig: 5, 9
+	offset: 0, 0
+	index: -1
+s_zuoyanjing1_sinaike
+	rotate: true
+	xy: 256, 247
+	size: 23, 16
+	orig: 23, 16
+	offset: 0, 0
+	index: -1
+s_youxiayanjian_sinaike
+	rotate: false
+	xy: 163, 198
+	size: 12, 10
+	orig: 12, 10
+	offset: 0, 0
+	index: -1
+zc_zuodatui_sinaike
+	rotate: false
+	xy: 431, 171
+	size: 62, 30
+	orig: 62, 30
+	offset: 0, 0
+	index: -1
+s_kua_sinaike
+	rotate: false
+	xy: 433, 0
+	size: 73, 40
+	orig: 73, 40
+	offset: 0, 0
+	index: -1
+f_shenti_sinaike
+	rotate: true
+	xy: 340, 0
+	size: 91, 92
+	orig: 91, 92
+	offset: 0, 0
+	index: -1
+z_shentibaozou_sinaike
+	rotate: false
+	xy: 0, 0
+	size: 71, 106
+	orig: 71, 106
+	offset: 0, 0
+	index: -1
+zc_zuojiao_sinaike
+	rotate: true
+	xy: 488, 330
+	size: 48, 24
+	orig: 48, 24
+	offset: 0, 0
+	index: -1
+zc_zuoxiaobi_sinaike
+	rotate: true
+	xy: 431, 245
+	size: 29, 59
+	orig: 29, 59
+	offset: 0, 0
+	index: -1
+s_tou_sinaike
+	rotate: true
+	xy: 72, 0
+	size: 101, 98
+	orig: 101, 98
+	offset: 0, 0
+	index: -1
+zc_youxiaotui_sinaike
+	rotate: true
+	xy: 431, 275
+	size: 41, 58
+	orig: 41, 58
+	offset: 0, 0
+	index: -1
+s_yanqiu1
+	rotate: false
+	xy: 105, 102
+	size: 3, 3
+	orig: 3, 3
+	offset: 0, 0
+	index: -1
+e_tou_sinaike
+	rotate: false
+	xy: 71, 415
+	size: 90, 95
+	orig: 90, 95
+	offset: 0, 0
+	index: -1
+e_youshangyanjian_sinaike
+	rotate: false
+	xy: 150, 198
+	size: 12, 10
+	orig: 12, 10
+	offset: 0, 0
+	index: -1
+y_youxiaobi_sinaike
+	rotate: false
+	xy: 238, 276
+	size: 34, 36
+	orig: 34, 36
+	offset: 0, 0
+	index: -1
+d_zuoxiaobi_sinaike
+	rotate: true
+	xy: 249, 463
+	size: 46, 40
+	orig: 46, 40
+	offset: 0, 0
+	index: -1
+e_youyanjing_sinaike
+	rotate: false
+	xy: 194, 198
+	size: 16, 8
+	orig: 16, 8
+	offset: 0, 0
+	index: -1
+q_zuodabi_sinaike
+	rotate: true
+	xy: 324, 383
+	size: 45, 56
+	orig: 45, 56
+	offset: 0, 0
+	index: -1
+p_zuoyanjing_sinaike
+	rotate: false
+	xy: 84, 102
+	size: 4, 4
+	orig: 4, 4
+	offset: 0, 0
+	index: -1
+a_youdatui_sinaike
+	rotate: true
+	xy: 249, 410
+	size: 52, 40
+	orig: 52, 40
+	offset: 0, 0
+	index: -1
+b_zuoshou_sinaike
+	rotate: false
+	xy: 211, 189
+	size: 44, 19
+	orig: 44, 19
+	offset: 0, 0
+	index: -1
+r_shenti_sinaike
+	rotate: false
+	xy: 171, 0
+	size: 75, 94
+	orig: 75, 94
+	offset: 0, 0
+	index: -1
+b_zuodatui_sinaike
+	rotate: false
+	xy: 273, 93
+	size: 65, 52
+	orig: 65, 52
+	offset: 0, 0
+	index: -1
+zc_youdabi_sinaike
+	rotate: true
+	xy: 332, 263
+	size: 29, 58
+	orig: 29, 58
+	offset: 0, 0
+	index: -1
+j_zuodabi_sinaike
+	rotate: true
+	xy: 273, 265
+	size: 44, 57
+	orig: 44, 57
+	offset: 0, 0
+	index: -1
+h_toufa_sinaike
+	rotate: false
+	xy: 290, 358
+	size: 33, 39
+	orig: 33, 39
+	offset: 0, 0
+	index: -1
+canying_sinaike
+	rotate: false
+	xy: 162, 410
+	size: 86, 95
+	orig: 86, 95
+	offset: 0, 0
+	index: -1
+s_zuoshangyanjian_sinaike
+	rotate: true
+	xy: 256, 223
+	size: 23, 16
+	orig: 23, 16
+	offset: 0, 0
+	index: -1
+p_kua_sinaike
+	rotate: true
+	xy: 451, 458
+	size: 48, 36
+	orig: 48, 36
+	offset: 0, 0
+	index: -1
+z_shenti_sinaike
+	rotate: false
+	xy: 71, 107
+	size: 65, 102
+	orig: 65, 102
+	offset: 0, 0
+	index: -1
+s_zuoyanjing_sinaike
+	rotate: true
+	xy: 97, 102
+	size: 4, 3
+	orig: 4, 3
+	offset: 0, 0
+	index: -1
+s_zuodabi_sinaike
+	rotate: false
+	xy: 433, 83
+	size: 67, 44
+	orig: 67, 44
+	offset: 0, 0
+	index: -1
+z_youshou_sinaike
+	rotate: false
+	xy: 488, 448
+	size: 24, 29
+	orig: 24, 29
+	offset: 0, 0
+	index: -1
+j_shenti_sinaike
+	rotate: false
+	xy: 173, 209
+	size: 64, 95
+	orig: 64, 95
+	offset: 0, 0
+	index: -1
+e_youyanzhu_sinaike
+	rotate: true
+	xy: 89, 102
+	size: 4, 3
+	orig: 4, 3
+	offset: 0, 0
+	index: -1
+g_zuodabi_sinaike
+	rotate: true
+	xy: 336, 181
+	size: 48, 60
+	orig: 48, 60
+	offset: 0, 0
+	index: -1
+zc_zuoxiaotui_sinaike
+	rotate: false
+	xy: 393, 242
+	size: 37, 58
+	orig: 37, 58
+	offset: 0, 0
+	index: -1
+e_toufa1_sinaike
+	rotate: false
+	xy: 256, 189
+	size: 16, 33
+	orig: 16, 33
+	offset: 0, 0
+	index: -1
+q_shenti_sinaike
+	rotate: false
+	xy: 137, 102
+	size: 66, 95
+	orig: 66, 95
+	offset: 0, 0
+	index: -1
+p_youdabi_sinaike
+	rotate: true
+	xy: 431, 128
+	size: 42, 62
+	orig: 42, 62
+	offset: 0, 0
+	index: -1
+zc_yao_sinaike
+	rotate: false
+	xy: 273, 199
+	size: 59, 35
+	orig: 59, 35
+	offset: 0, 0
+	index: -1
+i_shenti_sinaike
+	rotate: false
+	xy: 94, 210
+	size: 78, 99
+	orig: 78, 99
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

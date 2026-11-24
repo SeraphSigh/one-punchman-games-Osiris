@@ -1,0 +1,236 @@
+
+asset/anim/anwuzhichuanyuanDSE1.png
+size: 980,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xindu_00050
+	rotate: true
+	xy: 952, 640
+	size: 65, 25
+	orig: 205, 59
+	offset: 109, 14
+	index: -1
+xindu_00052
+	rotate: true
+	xy: 952, 706
+	size: 59, 17
+	orig: 205, 59
+	offset: 134, 21
+	index: -1
+xindu_00033
+	rotate: false
+	xy: 257, 531
+	size: 203, 55
+	orig: 205, 59
+	offset: 1, 0
+	index: -1
+xindu_00031
+	rotate: true
+	xy: 201, 374
+	size: 203, 55
+	orig: 205, 59
+	offset: 0, 0
+	index: -1
+xindu_00030
+	rotate: true
+	xy: 201, 170
+	size: 203, 55
+	orig: 205, 59
+	offset: 0, 0
+	index: -1
+xindu_00037
+	rotate: true
+	xy: 658, 527
+	size: 203, 55
+	orig: 205, 59
+	offset: 2, 0
+	index: -1
+xindu_00036
+	rotate: true
+	xy: 871, 323
+	size: 203, 55
+	orig: 205, 59
+	offset: 2, 0
+	index: -1
+xindu_00035
+	rotate: true
+	xy: 757, 362
+	size: 203, 55
+	orig: 205, 59
+	offset: 2, 0
+	index: -1
+xindu_00039
+	rotate: false
+	xy: 494, 931
+	size: 203, 55
+	orig: 205, 59
+	offset: 2, 0
+	index: -1
+xindu_00038
+	rotate: false
+	xy: 290, 914
+	size: 203, 55
+	orig: 205, 59
+	offset: 2, 0
+	index: -1
+xindu_00046
+	rotate: true
+	xy: 864, 782
+	size: 153, 55
+	orig: 205, 59
+	offset: 17, 4
+	index: -1
+xindu_00047
+	rotate: true
+	xy: 714, 527
+	size: 151, 35
+	orig: 205, 59
+	offset: 20, 9
+	index: -1
+xindu_00044
+	rotate: true
+	xy: 823, 527
+	size: 189, 57
+	orig: 205, 59
+	offset: 8, 2
+	index: -1
+xindu_00045
+	rotate: false
+	xy: 527, 873
+	size: 179, 57
+	orig: 205, 59
+	offset: 17, 2
+	index: -1
+xindu_00042
+	rotate: true
+	xy: 806, 717
+	size: 201, 57
+	orig: 205, 59
+	offset: 4, 1
+	index: -1
+xindu_00043
+	rotate: false
+	xy: 461, 529
+	size: 195, 57
+	orig: 205, 59
+	offset: 9, 2
+	index: -1
+xindu_00040
+	rotate: true
+	xy: 813, 323
+	size: 203, 57
+	orig: 205, 59
+	offset: 2, 0
+	index: -1
+xindu_00041
+	rotate: true
+	xy: 748, 712
+	size: 201, 57
+	orig: 205, 59
+	offset: 4, 1
+	index: -1
+xindu_00048
+	rotate: false
+	xy: 462, 987
+	size: 83, 29
+	orig: 205, 59
+	offset: 89, 14
+	index: -1
+xindu_00049
+	rotate: false
+	xy: 546, 987
+	size: 83, 29
+	orig: 205, 59
+	offset: 89, 14
+	index: -1
+xindu_00021
+	rotate: true
+	xy: 941, 261
+	size: 53, 37
+	orig: 205, 59
+	offset: 0, 4
+	index: -1
+xindu_00023
+	rotate: false
+	xy: 813, 170
+	size: 167, 43
+	orig: 205, 59
+	offset: 0, 2
+	index: -1
+xindu_00024
+	rotate: true
+	xy: 927, 323
+	size: 169, 43
+	orig: 205, 59
+	offset: 0, 2
+	index: -1
+xindu_00025
+	rotate: false
+	xy: 290, 970
+	size: 171, 45
+	orig: 205, 59
+	offset: 0, 2
+	index: -1
+
+asset/anim/anwuzhichuanyuanDSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xindu_00051
+	rotate: true
+	xy: 808, 415
+	size: 59, 23
+	orig: 205, 59
+	offset: 115, 14
+	index: -1
+xindu_00032
+	rotate: false
+	xy: 0, 953
+	size: 205, 55
+	orig: 205, 59
+	offset: 0, 0
+	index: -1
+xindu_00034
+	rotate: true
+	xy: 615, 566
+	size: 205, 55
+	orig: 205, 59
+	offset: 0, 0
+	index: -1
+xindu_00022
+	rotate: false
+	xy: 671, 348
+	size: 167, 39
+	orig: 205, 59
+	offset: 0, 4
+	index: -1
+xindu_00026
+	rotate: false
+	xy: 411, 976
+	size: 201, 47
+	orig: 205, 59
+	offset: 0, 2
+	index: -1
+xindu_00027
+	rotate: true
+	xy: 621, 188
+	size: 201, 49
+	orig: 205, 59
+	offset: 0, 2
+	index: -1
+xindu_00028
+	rotate: false
+	xy: 412, 922
+	size: 203, 53
+	orig: 205, 59
+	offset: 0, 1
+	index: -1
+xindu_00029
+	rotate: false
+	xy: 207, 948
+	size: 203, 55
+	orig: 205, 59
+	offset: 0, 0
+	index: -1

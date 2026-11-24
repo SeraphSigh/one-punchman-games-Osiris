@@ -1,0 +1,104 @@
+
+asset/anim/jurengeSE.png
+size: 854,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pugongseshouji0001
+	rotate: true
+	xy: 135, 910
+	size: 107, 112
+	orig: 121, 154
+	offset: 14, 15
+	index: -1
+pugongseshouji0007
+	rotate: true
+	xy: 283, 838
+	size: 121, 154
+	orig: 121, 154
+	offset: 0, 0
+	index: -1
+pugongseshouji0002
+	rotate: false
+	xy: 741, 559
+	size: 111, 116
+	orig: 121, 154
+	offset: 10, 12
+	index: -1
+pugongseshouji0003
+	rotate: false
+	xy: 589, 836
+	size: 113, 146
+	orig: 121, 154
+	offset: 8, 5
+	index: -1
+pugongseshouji0008
+	rotate: false
+	xy: 569, 273
+	size: 121, 152
+	orig: 121, 154
+	offset: 0, 0
+	index: -1
+pugongseshouji0009
+	rotate: false
+	xy: 569, 426
+	size: 119, 152
+	orig: 121, 154
+	offset: 2, 0
+	index: -1
+pugongseshouji0006
+	rotate: false
+	xy: 647, 0
+	size: 121, 154
+	orig: 121, 154
+	offset: 0, 0
+	index: -1
+pugongseshouji0014
+	rotate: true
+	xy: 569, 730
+	size: 105, 114
+	orig: 121, 154
+	offset: 15, 34
+	index: -1
+pugongseshouji0004
+	rotate: true
+	xy: 647, 155
+	size: 117, 148
+	orig: 121, 154
+	offset: 4, 5
+	index: -1
+pugongseshouji0005
+	rotate: true
+	xy: 438, 838
+	size: 121, 150
+	orig: 121, 154
+	offset: 0, 3
+	index: -1
+pugongseshouji0011
+	rotate: false
+	xy: 691, 273
+	size: 115, 150
+	orig: 121, 154
+	offset: 6, 0
+	index: -1
+pugongseshouji0010
+	rotate: false
+	xy: 569, 579
+	size: 121, 150
+	orig: 121, 154
+	offset: 0, 0
+	index: -1
+pugongseshouji0013
+	rotate: true
+	xy: 0, 910
+	size: 107, 134
+	orig: 121, 154
+	offset: 14, 16
+	index: -1
+pugongseshouji0012
+	rotate: false
+	xy: 713, 424
+	size: 109, 134
+	orig: 121, 154
+	offset: 12, 16
+	index: -1

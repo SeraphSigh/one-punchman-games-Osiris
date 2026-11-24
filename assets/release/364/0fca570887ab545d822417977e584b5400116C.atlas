@@ -1,0 +1,248 @@
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_yanwushang0005
+	rotate: false
+	xy: 922, 764
+	size: 102, 90
+	orig: 116, 92
+	offset: 11, 0
+	index: -1
+global/a_global_yanwushang0004
+	rotate: false
+	xy: 922, 673
+	size: 102, 90
+	orig: 116, 92
+	offset: 10, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_yanwushang0013
+	rotate: true
+	xy: 580, 804
+	size: 54, 92
+	orig: 116, 92
+	offset: 62, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_yanwushang0009
+	rotate: true
+	xy: 741, 926
+	size: 98, 92
+	orig: 116, 92
+	offset: 18, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_yanwushang0006
+	rotate: false
+	xy: 779, 665
+	size: 100, 90
+	orig: 116, 92
+	offset: 14, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_yanwushang0001
+	rotate: false
+	xy: 797, 89
+	size: 110, 84
+	orig: 116, 92
+	offset: 0, 1
+	index: -1
+global/a_global_yanwushang0003
+	rotate: true
+	xy: 0, 590
+	size: 112, 88
+	orig: 116, 92
+	offset: 0, 0
+	index: -1
+global/a_global_yanwushang0008
+	rotate: true
+	xy: 213, 684
+	size: 100, 92
+	orig: 116, 92
+	offset: 16, 0
+	index: -1
+global/a_global_yanwushang0002
+	rotate: false
+	xy: 798, 0
+	size: 112, 88
+	orig: 116, 92
+	offset: 0, 0
+	index: -1
+global/a_global_yanwushang0007
+	rotate: true
+	xy: 212, 434
+	size: 100, 92
+	orig: 116, 92
+	offset: 15, 0
+	index: -1
+global/a_global_yanwushang0012
+	rotate: false
+	xy: 543, 497
+	size: 58, 92
+	orig: 116, 92
+	offset: 58, 0
+	index: -1
+global/a_global_yanwushang0010
+	rotate: true
+	xy: 306, 610
+	size: 96, 92
+	orig: 116, 92
+	offset: 20, 0
+	index: -1
+global/a_global_yanwushang0011
+	rotate: true
+	xy: 390, 113
+	size: 96, 92
+	orig: 116, 92
+	offset: 20, 0
+	index: -1
+
+asset/anim/wugongzhanglaoSE5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ty_wugongxuezhang_ci_00018
+	rotate: false
+	xy: 884, 0
+	size: 216, 106
+	orig: 300, 128
+	offset: 74, 13
+	index: -1
+ty_wugongxuezhang_shitoubaoqiliang001
+	rotate: false
+	xy: 1304, 81
+	size: 196, 72
+	orig: 350, 128
+	offset: 75, 32
+	index: -1
+ty_wugongxuezhang_shitoubaoqiliang002
+	rotate: false
+	xy: 1696, 169
+	size: 194, 72
+	orig: 350, 128
+	offset: 74, 31
+	index: -1
+
+asset/anim/wugongzhanglaoSE4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ty_wugongxuezhang_ci_00022
+	rotate: true
+	xy: 273, 810
+	size: 178, 40
+	orig: 300, 128
+	offset: 9, 12
+	index: -1
+
+asset/anim/wugongzhanglaoSE1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ty_wugongxuezhang_shitoubaoqiliang005
+	rotate: false
+	xy: 1514, 1393
+	size: 320, 118
+	orig: 350, 128
+	offset: 5, 8
+	index: -1
+ty_wugongxuezhang_ci_00021
+	rotate: false
+	xy: 1836, 1000
+	size: 212, 60
+	orig: 300, 128
+	offset: 10, 7
+	index: -1
+
+asset/anim/wugongzhanglaoSE0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ty_wugongxuezhang_shitoubaoqiliang004
+	rotate: true
+	xy: 1262, 1271
+	size: 334, 120
+	orig: 350, 128
+	offset: 5, 7
+	index: -1
+
+asset/anim/wugongzhanglaoSE3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ty_wugongxuezhang_shitoubaoqiliang006
+	rotate: true
+	xy: 1604, 316
+	size: 330, 114
+	orig: 350, 128
+	offset: 6, 7
+	index: -1
+ty_wugongxuezhang_ci_00019
+	rotate: false
+	xy: 1796, 445
+	size: 252, 110
+	orig: 300, 128
+	offset: 29, 2
+	index: -1
+
+asset/anim/wugongzhanglaoSE2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ty_wugongxuezhang_shitoubaoqiliang003
+	rotate: true
+	xy: 1111, 1320
+	size: 290, 104
+	orig: 350, 128
+	offset: 27, 15
+	index: -1
+ty_wugongxuezhang_ci_00024
+	rotate: true
+	xy: 2011, 1194
+	size: 118, 32
+	orig: 300, 128
+	offset: 9, 17
+	index: -1
+ty_wugongxuezhang_ci_00023
+	rotate: false
+	xy: 616, 2012
+	size: 150, 34
+	orig: 300, 128
+	offset: 8, 15
+	index: -1
+ty_wugongxuezhang_ci_00020
+	rotate: true
+	xy: 1851, 1615
+	size: 250, 92
+	orig: 300, 128
+	offset: 8, 1
+	index: -1

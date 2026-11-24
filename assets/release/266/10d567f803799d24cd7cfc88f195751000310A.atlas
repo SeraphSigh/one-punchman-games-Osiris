@@ -1,0 +1,829 @@
+
+asset/anim/jurenge0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Rthigh_jurenge
+	rotate: true
+	xy: 292, 294
+	size: 39, 52
+	orig: 39, 52
+	offset: 0, 0
+	index: -1
+k_Lhand2_jerenge
+	rotate: false
+	xy: 95, 161
+	size: 16, 14
+	orig: 16, 14
+	offset: 0, 0
+	index: -1
+e_Lforearm_jerenge
+	rotate: true
+	xy: 195, 742
+	size: 32, 27
+	orig: 32, 27
+	offset: 0, 0
+	index: -1
+a_Lthin_jurengebaozou
+	rotate: false
+	xy: 301, 0
+	size: 31, 57
+	orig: 31, 57
+	offset: 0, 0
+	index: -1
+a_head_jurengebaozou
+	rotate: false
+	xy: 157, 421
+	size: 61, 71
+	orig: 61, 71
+	offset: 0, 0
+	index: -1
+f_Rforearm_jerenge
+	rotate: true
+	xy: 240, 145
+	size: 30, 32
+	orig: 30, 32
+	offset: 0, 0
+	index: -1
+k_Rhand_jerenge
+	rotate: true
+	xy: 237, 969
+	size: 29, 25
+	orig: 29, 25
+	offset: 0, 0
+	index: -1
+d_Larm_jerenge
+	rotate: false
+	xy: 62, 712
+	size: 36, 30
+	orig: 36, 30
+	offset: 0, 0
+	index: -1
+a_Lhand2_jurenge
+	rotate: true
+	xy: 223, 939
+	size: 29, 27
+	orig: 29, 27
+	offset: 0, 0
+	index: -1
+a_Lhand1_jurenge
+	rotate: false
+	xy: 136, 161
+	size: 20, 10
+	orig: 20, 10
+	offset: 0, 0
+	index: -1
+a_Rfoot_jurenge
+	rotate: false
+	xy: 226, 844
+	size: 23, 27
+	orig: 23, 27
+	offset: 0, 0
+	index: -1
+d_Rhand_jerenge
+	rotate: true
+	xy: 304, 145
+	size: 30, 29
+	orig: 30, 29
+	offset: 0, 0
+	index: -1
+b_Larm_jurenge
+	rotate: false
+	xy: 417, 55
+	size: 34, 53
+	orig: 34, 53
+	offset: 0, 0
+	index: -1
+h2_hair3_jurenge
+	rotate: true
+	xy: 205, 312
+	size: 21, 40
+	orig: 21, 40
+	offset: 0, 0
+	index: -1
+d_coxa_jerenge
+	rotate: true
+	xy: 134, 574
+	size: 54, 49
+	orig: 54, 49
+	offset: 0, 0
+	index: -1
+a_body1_jurenge
+	rotate: false
+	xy: 0, 342
+	size: 86, 159
+	orig: 86, 159
+	offset: 0, 0
+	index: -1
+g_Rthigh_jerenge
+	rotate: false
+	xy: 49, 880
+	size: 41, 50
+	orig: 41, 50
+	offset: 0, 0
+	index: -1
+k_testtube_jerenge
+	rotate: false
+	xy: 141, 828
+	size: 34, 40
+	orig: 34, 40
+	offset: 0, 0
+	index: -1
+b_hair3_jurenge
+	rotate: true
+	xy: 91, 609
+	size: 17, 42
+	orig: 17, 42
+	offset: 0, 0
+	index: -1
+k_Lhand1_jerenge
+	rotate: false
+	xy: 237, 999
+	size: 28, 23
+	orig: 28, 23
+	offset: 0, 0
+	index: -1
+h2_hair1_jurenge
+	rotate: false
+	xy: 372, 57
+	size: 44, 54
+	orig: 44, 54
+	offset: 0, 0
+	index: -1
+h_Rthin_jerenge
+	rotate: false
+	xy: 303, 176
+	size: 28, 58
+	orig: 28, 58
+	offset: 0, 0
+	index: -1
+baozou_jurenge
+	rotate: false
+	xy: 114, 501
+	size: 61, 72
+	orig: 61, 72
+	offset: 0, 0
+	index: -1
+h_Lthigh_jerenge
+	rotate: true
+	xy: 348, 115
+	size: 29, 51
+	orig: 29, 51
+	offset: 0, 0
+	index: -1
+a_hair2_jurenge
+	rotate: true
+	xy: 87, 421
+	size: 79, 69
+	orig: 79, 69
+	offset: 0, 0
+	index: -1
+b_Rforearm_jurenge
+	rotate: false
+	xy: 51, 984
+	size: 46, 40
+	orig: 46, 40
+	offset: 0, 0
+	index: -1
+b_Rarm_jurenge
+	rotate: false
+	xy: 360, 145
+	size: 48, 29
+	orig: 48, 29
+	offset: 0, 0
+	index: -1
+g_Lhand_jerenge
+	rotate: true
+	xy: 169, 742
+	size: 36, 25
+	orig: 36, 25
+	offset: 0, 0
+	index: -1
+h_Lthin_jerenge
+	rotate: false
+	xy: 333, 0
+	size: 35, 56
+	orig: 35, 56
+	offset: 0, 0
+	index: -1
+a_Rarm_jurengebaozou
+	rotate: false
+	xy: 0, 881
+	size: 48, 51
+	orig: 48, 51
+	offset: 0, 0
+	index: -1
+a_Rthigh_jurengebaozou
+	rotate: false
+	xy: 64, 828
+	size: 42, 49
+	orig: 42, 49
+	offset: 0, 0
+	index: -1
+c_Lforearm_jerenge
+	rotate: true
+	xy: 118, 926
+	size: 44, 27
+	orig: 44, 27
+	offset: 0, 0
+	index: -1
+b_Lhand2_jurenge
+	rotate: true
+	xy: 213, 909
+	size: 29, 28
+	orig: 29, 28
+	offset: 0, 0
+	index: -1
+a_Rfoot_jurengebaozou
+	rotate: false
+	xy: 196, 883
+	size: 29, 25
+	orig: 29, 25
+	offset: 0, 0
+	index: -1
+b_hair1_jurenge
+	rotate: true
+	xy: 326, 58
+	size: 56, 45
+	orig: 56, 45
+	offset: 0, 0
+	index: -1
+a_Lthigh_jurenge
+	rotate: true
+	xy: 400, 112
+	size: 32, 49
+	orig: 32, 49
+	offset: 0, 0
+	index: -1
+h_Lhand2_jerenge
+	rotate: false
+	xy: 273, 145
+	size: 30, 30
+	orig: 30, 30
+	offset: 0, 0
+	index: -1
+c_body_jurenge
+	rotate: true
+	xy: 182, 0
+	size: 144, 118
+	orig: 144, 118
+	offset: 0, 0
+	index: -1
+a_Lforearm_jurenge
+	rotate: true
+	xy: 139, 669
+	size: 38, 36
+	orig: 38, 36
+	offset: 0, 0
+	index: -1
+gd_jurenge
+	rotate: false
+	xy: 0, 502
+	size: 57, 126
+	orig: 57, 126
+	offset: 0, 0
+	index: -1
+b_Rthigh_jurenge
+	rotate: true
+	xy: 76, 931
+	size: 47, 41
+	orig: 47, 41
+	offset: 0, 0
+	index: -1
+f_Rhand_jerenge
+	rotate: true
+	xy: 176, 817
+	size: 33, 24
+	orig: 33, 24
+	offset: 0, 0
+	index: -1
+a_Rforearm1_jurenge
+	rotate: false
+	xy: 139, 629
+	size: 23, 39
+	orig: 23, 39
+	offset: 0, 0
+	index: -1
+h_Lhand1_jerenge
+	rotate: false
+	xy: 334, 145
+	size: 25, 30
+	orig: 25, 30
+	offset: 0, 0
+	index: -1
+g_Rfoot_jerenge
+	rotate: true
+	xy: 154, 780
+	size: 36, 32
+	orig: 36, 32
+	offset: 0, 0
+	index: -1
+h_Lfoot_jerenge
+	rotate: true
+	xy: 176, 667
+	size: 36, 22
+	orig: 36, 22
+	offset: 0, 0
+	index: -1
+e_Lhand_jerenge
+	rotate: false
+	xy: 219, 775
+	size: 29, 29
+	orig: 29, 29
+	offset: 0, 0
+	index: -1
+j_body2_jerenge
+	rotate: false
+	xy: 0, 629
+	size: 61, 113
+	orig: 61, 113
+	offset: 0, 0
+	index: -1
+d_Rarm_jerenge
+	rotate: false
+	xy: 257, 176
+	size: 45, 58
+	orig: 45, 58
+	offset: 0, 0
+	index: -1
+c_Rhand_jerenge
+	rotate: true
+	xy: 201, 812
+	size: 31, 28
+	orig: 31, 28
+	offset: 0, 0
+	index: -1
+k_coxa_jerenge
+	rotate: false
+	xy: 99, 712
+	size: 40, 29
+	orig: 40, 29
+	offset: 0, 0
+	index: -1
+b_Lforearm_jurenge
+	rotate: true
+	xy: 82, 743
+	size: 43, 34
+	orig: 43, 34
+	offset: 0, 0
+	index: -1
+b_Rthin_jurenge
+	rotate: false
+	xy: 205, 247
+	size: 44, 64
+	orig: 44, 64
+	offset: 0, 0
+	index: -1
+a_Rarm_jurenge
+	rotate: false
+	xy: 91, 878
+	size: 37, 47
+	orig: 37, 47
+	offset: 0, 0
+	index: -1
+a_Rforearm2_jurenge
+	rotate: false
+	xy: 112, 161
+	size: 23, 12
+	orig: 23, 12
+	offset: 0, 0
+	index: -1
+b_body1_jurenge
+	rotate: true
+	xy: 83, 176
+	size: 157, 121
+	orig: 157, 121
+	offset: 0, 0
+	index: -1
+e_Rforearm_jerenge
+	rotate: false
+	xy: 187, 779
+	size: 31, 32
+	orig: 31, 32
+	offset: 0, 0
+	index: -1
+k_Rthin_jerenge
+	rotate: false
+	xy: 275, 235
+	size: 37, 58
+	orig: 37, 58
+	offset: 0, 0
+	index: -1
+d_Rforearm_jerenge
+	rotate: false
+	xy: 160, 955
+	size: 37, 39
+	orig: 37, 39
+	offset: 0, 0
+	index: -1
+d_Lforearm_jerenge
+	rotate: true
+	xy: 198, 949
+	size: 39, 24
+	orig: 39, 24
+	offset: 0, 0
+	index: -1
+b_Rfoot_jurenge
+	rotate: true
+	xy: 133, 971
+	size: 44, 26
+	orig: 44, 26
+	offset: 0, 0
+	index: -1
+a_head2_jurenge
+	rotate: false
+	xy: 219, 405
+	size: 59, 70
+	orig: 59, 70
+	offset: 0, 0
+	index: -1
+g_Rhand_jerenge
+	rotate: true
+	xy: 143, 742
+	size: 37, 25
+	orig: 37, 25
+	offset: 0, 0
+	index: -1
+a_Rhand_jurengebaozou
+	rotate: true
+	xy: 82, 787
+	size: 40, 37
+	orig: 40, 37
+	offset: 0, 0
+	index: -1
+a_hair1_jurenge
+	rotate: true
+	xy: 205, 176
+	size: 70, 51
+	orig: 70, 51
+	offset: 0, 0
+	index: -1
+a_red_jurenge
+	rotate: true
+	xy: 77, 161
+	size: 14, 17
+	orig: 14, 17
+	offset: 0, 0
+	index: -1
+k_Lforearm_jerenge
+	rotate: true
+	xy: 178, 909
+	size: 39, 34
+	orig: 39, 34
+	offset: 0, 0
+	index: -1
+d_body_jurenge
+	rotate: true
+	xy: 77, 0
+	size: 160, 104
+	orig: 160, 104
+	offset: 0, 0
+	index: -1
+a_head_jurenge
+	rotate: false
+	xy: 168, 334
+	size: 60, 70
+	orig: 60, 70
+	offset: 0, 0
+	index: -1
+a_coxa_jurenge
+	rotate: true
+	xy: 332, 176
+	size: 55, 42
+	orig: 55, 42
+	offset: 0, 0
+	index: -1
+b_Lthin_jurenge
+	rotate: true
+	xy: 28, 828
+	size: 51, 35
+	orig: 51, 35
+	offset: 0, 0
+	index: -1
+g_Larm_jerenge
+	rotate: false
+	xy: 156, 869
+	size: 39, 39
+	orig: 39, 39
+	offset: 0, 0
+	index: -1
+g_Rthin_jerenge
+	rotate: true
+	xy: 182, 145
+	size: 30, 57
+	orig: 30, 57
+	offset: 0, 0
+	index: -1
+b_Lhand1_jurenge
+	rotate: true
+	xy: 58, 609
+	size: 19, 32
+	orig: 19, 32
+	offset: 0, 0
+	index: -1
+k_Rthigh_jerenge
+	rotate: false
+	xy: 443, 0
+	size: 40, 52
+	orig: 40, 52
+	offset: 0, 0
+	index: -1
+a_Lthin_jurenge
+	rotate: false
+	xy: 301, 58
+	size: 24, 57
+	orig: 24, 57
+	offset: 0, 0
+	index: -1
+b_Lthigh_jurenge
+	rotate: true
+	xy: 0, 985
+	size: 39, 50
+	orig: 39, 50
+	offset: 0, 0
+	index: -1
+b_coxa_jurenge
+	rotate: true
+	xy: 146, 914
+	size: 40, 31
+	orig: 40, 31
+	offset: 0, 0
+	index: -1
+benghuai_jurenge
+	rotate: false
+	xy: 176, 493
+	size: 61, 70
+	orig: 61, 70
+	offset: 0, 0
+	index: -1
+b_testtube_jurenge
+	rotate: true
+	xy: 219, 476
+	size: 16, 45
+	orig: 16, 45
+	offset: 0, 0
+	index: -1
+a_Rthin_jurengebaozou
+	rotate: false
+	xy: 313, 235
+	size: 44, 57
+	orig: 44, 57
+	offset: 0, 0
+	index: -1
+a_Rhand_jurenge
+	rotate: false
+	xy: 0, 933
+	size: 31, 51
+	orig: 31, 51
+	offset: 0, 0
+	index: -1
+b_Lfoot_jurenge
+	rotate: false
+	xy: 107, 828
+	size: 33, 42
+	orig: 33, 42
+	offset: 0, 0
+	index: -1
+k_Lfoot_jerenge
+	rotate: true
+	xy: 198, 989
+	size: 35, 38
+	orig: 35, 38
+	offset: 0, 0
+	index: -1
+a_Larm_jurenge
+	rotate: false
+	xy: 250, 247
+	size: 24, 63
+	orig: 24, 63
+	offset: 0, 0
+	index: -1
+a_coxa_jurengebaozou
+	rotate: true
+	xy: 259, 334
+	size: 59, 37
+	orig: 59, 37
+	offset: 0, 0
+	index: -1
+b_head_jurenge
+	rotate: false
+	xy: 87, 334
+	size: 80, 86
+	orig: 80, 86
+	offset: 0, 0
+	index: -1
+c_Rforearm_jerenge
+	rotate: false
+	xy: 173, 708
+	size: 29, 33
+	orig: 29, 33
+	offset: 0, 0
+	index: -1
+h_body1_jerenge
+	rotate: false
+	xy: 0, 177
+	size: 82, 164
+	orig: 82, 164
+	offset: 0, 0
+	index: -1
+g_Lforearm_jerenge
+	rotate: true
+	xy: 163, 629
+	size: 37, 31
+	orig: 37, 31
+	offset: 0, 0
+	index: -1
+k_Larm_jerenge
+	rotate: true
+	xy: 229, 334
+	size: 64, 29
+	orig: 64, 29
+	offset: 0, 0
+	index: -1
+b_body2_jurenge
+	rotate: true
+	xy: 58, 502
+	size: 106, 55
+	orig: 106, 55
+	offset: 0, 0
+	index: -1
+a_Rthin_jurenge
+	rotate: false
+	xy: 369, 0
+	size: 32, 56
+	orig: 32, 56
+	offset: 0, 0
+	index: -1
+a_Lfoot_jurenge
+	rotate: false
+	xy: 160, 995
+	size: 37, 29
+	orig: 37, 29
+	offset: 0, 0
+	index: -1
+j_body1_jerenge
+	rotate: false
+	xy: 0, 0
+	size: 76, 176
+	orig: 76, 176
+	offset: 0, 0
+	index: -1
+b_Rhand_jurenge
+	rotate: false
+	xy: 140, 708
+	size: 32, 33
+	orig: 32, 33
+	offset: 0, 0
+	index: -1
+a_body2_jurenge
+	rotate: true
+	xy: 62, 629
+	size: 82, 76
+	orig: 82, 76
+	offset: 0, 0
+	index: -1
+d_Lhand_jerenge
+	rotate: true
+	xy: 98, 979
+	size: 45, 34
+	orig: 45, 34
+	offset: 0, 0
+	index: -1
+h_Rarm_jerenge
+	rotate: true
+	xy: 0, 828
+	size: 52, 27
+	orig: 52, 27
+	offset: 0, 0
+	index: -1
+e_Rhand_jerenge
+	rotate: true
+	xy: 196, 851
+	size: 31, 29
+	orig: 31, 29
+	offset: 0, 0
+	index: -1
+g_coxa_jerenge
+	rotate: true
+	xy: 402, 0
+	size: 54, 40
+	orig: 54, 40
+	offset: 0, 0
+	index: -1
+a_Lthigh_jurengebaozou
+	rotate: true
+	xy: 32, 933
+	size: 50, 43
+	orig: 50, 43
+	offset: 0, 0
+	index: -1
+c_Lhand_jerenge
+	rotate: false
+	xy: 301, 116
+	size: 46, 28
+	orig: 46, 28
+	offset: 0, 0
+	index: -1
+j_Lforearm_jerenge
+	rotate: false
+	xy: 120, 786
+	size: 33, 41
+	orig: 33, 41
+	offset: 0, 0
+	index: -1
+h_Rhand_jerenge
+	rotate: true
+	xy: 129, 871
+	size: 42, 26
+	orig: 42, 26
+	offset: 0, 0
+	index: -1
+a_Lfoot_jurengebaozou
+	rotate: true
+	xy: 117, 742
+	size: 43, 25
+	orig: 43, 25
+	offset: 0, 0
+	index: -1
+h_Rfoot_jerenge
+	rotate: false
+	xy: 250, 311
+	size: 41, 22
+	orig: 41, 22
+	offset: 0, 0
+	index: -1
+h2_head_jurenge
+	rotate: true
+	xy: 0, 743
+	size: 84, 81
+	orig: 84, 81
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1

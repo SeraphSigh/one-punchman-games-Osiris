@@ -1,0 +1,1704 @@
+
+asset/anim/tianxinjiamian20.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m-fa3_tianxinjiamian2ext
+	rotate: false
+	xy: 501, 495
+	size: 11, 15
+	orig: 11, 15
+	offset: 0, 0
+	index: -1
+shen-f_tianxin2extfm
+	rotate: false
+	xy: 228, 0
+	size: 81, 123
+	orig: 81, 125
+	offset: 0, 2
+	index: -1
+e-fa2_tianxinjiamian2ext
+	rotate: true
+	xy: 355, 453
+	size: 59, 43
+	orig: 59, 43
+	offset: 0, 0
+	index: -1
+e-shen-f_tianxin2extfm
+	rotate: false
+	xy: 0, 333
+	size: 88, 128
+	orig: 88, 128
+	offset: 0, 0
+	index: -1
+a-jia_tianxinjiamian2ext
+	rotate: false
+	xy: 0, 0
+	size: 67, 193
+	orig: 67, 193
+	offset: 0, 0
+	index: -1
+f-shen-f_tianxin2extfm
+	rotate: true
+	xy: 340, 371
+	size: 81, 107
+	orig: 83, 107
+	offset: 0, 0
+	index: -1
+e-fa4_tianxinjiamian2ext
+	rotate: true
+	xy: 95, 320
+	size: 12, 31
+	orig: 12, 31
+	offset: 0, 0
+	index: -1
+e-youyan_tianxinjiamian2ext
+	rotate: true
+	xy: 448, 400
+	size: 21, 14
+	orig: 21, 14
+	offset: 0, 0
+	index: -1
+j-zuoshou_tianxinjiamian2ext
+	rotate: true
+	xy: 448, 371
+	size: 28, 14
+	orig: 28, 14
+	offset: 0, 0
+	index: -1
+h-zuoshou_tianxinjiamian2ext
+	rotate: false
+	xy: 325, 170
+	size: 42, 18
+	orig: 42, 18
+	offset: 0, 0
+	index: -1
+m-zui_tianxinjiamian2ext
+	rotate: true
+	xy: 278, 303
+	size: 11, 7
+	orig: 11, 7
+	offset: 0, 0
+	index: -1
+e-zuoyan_tianxinjiamian2ext
+	rotate: false
+	xy: 150, 320
+	size: 21, 12
+	orig: 21, 12
+	offset: 0, 0
+	index: -1
+biyan2_tianxin2ext
+	rotate: true
+	xy: 268, 303
+	size: 12, 9
+	orig: 12, 9
+	offset: 0, 0
+	index: -1
+e-youmei_tianxinjiamian2ext
+	rotate: false
+	xy: 373, 113
+	size: 22, 7
+	orig: 22, 7
+	offset: 0, 0
+	index: -1
+wa_fa7_tianxinjiamian2ext
+	rotate: true
+	xy: 172, 316
+	size: 16, 40
+	orig: 16, 40
+	offset: 0, 0
+	index: -1
+wa_zui_tianxinjiamian2ext
+	rotate: true
+	xy: 213, 316
+	size: 16, 10
+	orig: 16, 10
+	offset: 0, 0
+	index: -1
+biyan_tianxin2ext
+	rotate: false
+	xy: 310, 113
+	size: 20, 10
+	orig: 20, 10
+	offset: 0, 0
+	index: -1
+wa_youyan_tianxinjiamian2ext
+	rotate: false
+	xy: 331, 113
+	size: 15, 9
+	orig: 15, 9
+	offset: 0, 0
+	index: -1
+e-zui_tianxinjiamian2ext
+	rotate: false
+	xy: 463, 495
+	size: 18, 15
+	orig: 18, 15
+	offset: 0, 0
+	index: -1
+e-zuomei_tianxinjiamian2ext
+	rotate: false
+	xy: 347, 113
+	size: 25, 7
+	orig: 25, 7
+	offset: 0, 0
+	index: -1
+wa_fa6_tianxinjiamian2ext
+	rotate: true
+	xy: 127, 320
+	size: 12, 22
+	orig: 12, 22
+	offset: 0, 0
+	index: -1
+n-shen-f_tianxin2extfm
+	rotate: true
+	xy: 332, 244
+	size: 87, 108
+	orig: 87, 108
+	offset: 0, 0
+	index: -1
+wa_shouji_tianxinjiamian2ext
+	rotate: true
+	xy: 399, 332
+	size: 38, 37
+	orig: 38, 37
+	offset: 0, 0
+	index: -1
+n-fa3_tianxinjiamian2ext
+	rotate: false
+	xy: 463, 453
+	size: 49, 41
+	orig: 49, 43
+	offset: 0, 0
+	index: -1
+e-fa3_tianxinjiamian2ext
+	rotate: true
+	xy: 258, 316
+	size: 15, 27
+	orig: 15, 27
+	offset: 0, 0
+	index: -1
+q-shen-f_tianxin2extfm
+	rotate: true
+	xy: 400, 0
+	size: 82, 112
+	orig: 82, 112
+	offset: 0, 0
+	index: -1
+a-shen-f_tianxin2extfm
+	rotate: false
+	xy: 95, 194
+	size: 75, 125
+	orig: 75, 125
+	offset: 0, 0
+	index: -1
+m-shen-f_tianxin2extfm
+	rotate: false
+	xy: 259, 332
+	size: 80, 120
+	orig: 80, 120
+	offset: 0, 0
+	index: -1
+n-fa5_tianxinjiamian2ext
+	rotate: true
+	xy: 441, 244
+	size: 83, 69
+	orig: 83, 69
+	offset: 0, 0
+	index: -1
+n-lian_tianxinjiamian2ext
+	rotate: false
+	xy: 144, 126
+	size: 57, 65
+	orig: 57, 65
+	offset: 0, 0
+	index: -1
+b-mai_tianxinjiamian2ext
+	rotate: true
+	xy: 286, 303
+	size: 28, 45
+	orig: 28, 45
+	offset: 0, 0
+	index: -1
+
+asset/anim/tianxinjiamian22.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-zuoshou_tianxinjiamian2ext
+	rotate: true
+	xy: 309, 0
+	size: 33, 45
+	orig: 33, 47
+	offset: 0, 1
+	index: -1
+c-youshou2_tianxinjiamian2ext
+	rotate: false
+	xy: 434, 71
+	size: 34, 27
+	orig: 36, 31
+	offset: 2, 0
+	index: -1
+e-zuoshou_tianxinjiamian2ext
+	rotate: false
+	xy: 401, 0
+	size: 44, 28
+	orig: 44, 28
+	offset: 0, 0
+	index: -1
+p-youshou_tianxinjiamian2ext
+	rotate: false
+	xy: 426, 149
+	size: 26, 26
+	orig: 26, 26
+	offset: 0, 0
+	index: -1
+m-youshou1_tianxinjiamian2ext
+	rotate: true
+	xy: 46, 135
+	size: 27, 37
+	orig: 29, 37
+	offset: 0, 0
+	index: -1
+f-youshou_tianxinjiamian2ext
+	rotate: false
+	xy: 84, 157
+	size: 28, 27
+	orig: 28, 27
+	offset: 0, 0
+	index: -1
+q-youshou_tianxinjiamian2ext
+	rotate: true
+	xy: 399, 64
+	size: 28, 34
+	orig: 28, 34
+	offset: 0, 0
+	index: -1
+wa_fa5_tianxinjiamian2ext
+	rotate: true
+	xy: 257, 48
+	size: 31, 41
+	orig: 31, 41
+	offset: 0, 0
+	index: -1
+m-yan_tianxinjiamian2ext
+	rotate: false
+	xy: 309, 34
+	size: 43, 22
+	orig: 43, 22
+	offset: 0, 0
+	index: -1
+f-zuoshou_tianxinjiamian2ext
+	rotate: false
+	xy: 98, 102
+	size: 39, 24
+	orig: 39, 24
+	offset: 0, 0
+	index: -1
+wa_fa3_tianxinjiamian2ext
+	rotate: false
+	xy: 374, 87
+	size: 24, 33
+	orig: 24, 33
+	offset: 0, 0
+	index: -1
+c-youshou1_tianxinjiamian2ext
+	rotate: true
+	xy: 317, 112
+	size: 25, 27
+	orig: 25, 27
+	offset: 0, 0
+	index: -1
+b-zuoshou_tianxinjiamian2ext
+	rotate: false
+	xy: 46, 104
+	size: 38, 30
+	orig: 38, 30
+	offset: 0, 0
+	index: -1
+d-youshou2_tianxinjiamian2ext
+	rotate: false
+	xy: 466, 119
+	size: 31, 31
+	orig: 31, 33
+	offset: 0, 0
+	index: -1
+n-zuoshou_tianxinjiamian2ext
+	rotate: true
+	xy: 345, 112
+	size: 25, 27
+	orig: 25, 27
+	offset: 0, 0
+	index: -1
+n-youshou_tianxinjiamian2ext
+	rotate: false
+	xy: 291, 113
+	size: 24, 26
+	orig: 24, 26
+	offset: 0, 0
+	index: -1
+h-youshou_tianxinjiamian2ext
+	rotate: true
+	xy: 375, 59
+	size: 27, 23
+	orig: 27, 23
+	offset: 0, 0
+	index: -1
+e-youshou1_tianxinjiamian2ext
+	rotate: false
+	xy: 209, 136
+	size: 26, 23
+	orig: 26, 23
+	offset: 0, 0
+	index: -1
+g-zuoshou_tianxinjiamian2ext
+	rotate: true
+	xy: 138, 111
+	size: 26, 38
+	orig: 30, 38
+	offset: 0, 0
+	index: -1
+i-youshou_tianxinjiamian2ext
+	rotate: false
+	xy: 399, 125
+	size: 26, 26
+	orig: 26, 26
+	offset: 0, 0
+	index: -1
+d-youshou1_tianxinjiamian2ext
+	rotate: false
+	xy: 177, 121
+	size: 31, 24
+	orig: 31, 24
+	offset: 0, 0
+	index: -1
+q-zuoshou_tianxinjiamian2ext
+	rotate: true
+	xy: 433, 99
+	size: 22, 32
+	orig: 22, 32
+	offset: 0, 0
+	index: -1
+m-fa4_tianxinjiamian2ext
+	rotate: false
+	xy: 54, 0
+	size: 51, 34
+	orig: 51, 34
+	offset: 0, 0
+	index: -1
+i-zuoshou_tianxinjiamian2ext
+	rotate: true
+	xy: 264, 113
+	size: 24, 26
+	orig: 24, 26
+	offset: 0, 0
+	index: -1
+e-mai_tianxinjiamian2ext
+	rotate: false
+	xy: 209, 0
+	size: 50, 23
+	orig: 50, 23
+	offset: 0, 0
+	index: -1
+p-zuoshou_tianxinjiamian2ext
+	rotate: true
+	xy: 123, 138
+	size: 24, 31
+	orig: 24, 31
+	offset: 0, 0
+	index: -1
+j-youshou_tianxinjiamian2ext
+	rotate: false
+	xy: 469, 93
+	size: 32, 25
+	orig: 32, 25
+	offset: 0, 0
+	index: -1
+b-youshou_tianxinjiamian2ext
+	rotate: false
+	xy: 205, 59
+	size: 40, 33
+	orig: 40, 33
+	offset: 0, 0
+	index: -1
+n-fa4_tianxinjiamian2ext
+	rotate: true
+	xy: 54, 35
+	size: 40, 50
+	orig: 48, 52
+	offset: 0, 0
+	index: -1
+n-fa1_tianxinjiamian2ext
+	rotate: false
+	xy: 338, 85
+	size: 35, 26
+	orig: 35, 26
+	offset: 0, 0
+	index: -1
+e-youshou2_tianxinjiamian2ext
+	rotate: false
+	xy: 373, 121
+	size: 25, 25
+	orig: 25, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+
+asset/anim/tianxinjiamian2_shengdan0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m-fa5_tianxinjiamian2ext
+	rotate: true
+	xy: 522, 0
+	size: 80, 74
+	orig: 80, 74
+	offset: 0, 0
+	index: -1
+wa_baozou_tianxinjiamian2ext
+	rotate: true
+	xy: 496, 985
+	size: 39, 37
+	orig: 39, 37
+	offset: 0, 0
+	index: -1
+shengdanh-youxiaobi_tianxinjiamian2ext
+	rotate: true
+	xy: 694, 730
+	size: 31, 29
+	orig: 31, 29
+	offset: 0, 0
+	index: -1
+wa_pifeng5_tianxin2shengdan
+	rotate: true
+	xy: 483, 0
+	size: 82, 38
+	orig: 82, 38
+	offset: 0, 0
+	index: -1
+shengdana-youxiaotui_tianxinjiamian2ext
+	rotate: false
+	xy: 693, 0
+	size: 32, 57
+	orig: 32, 57
+	offset: 0, 0
+	index: -1
+shengdanp-zuodabi_tianxinjiamian2ext
+	rotate: true
+	xy: 565, 502
+	size: 47, 27
+	orig: 47, 27
+	offset: 0, 0
+	index: -1
+Lyi_tianxinjiamian2
+	rotate: false
+	xy: 66, 386
+	size: 62, 151
+	orig: 62, 151
+	offset: 0, 0
+	index: -1
+shengdanwa_zuoxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 592, 815
+	size: 23, 42
+	orig: 23, 42
+	offset: 0, 0
+	index: -1
+shengdane-youdatui_tianxinjiamian2ext
+	rotate: false
+	xy: 469, 445
+	size: 32, 57
+	orig: 32, 57
+	offset: 0, 0
+	index: -1
+shengdanf-zuoxiaobi_tianxinjiamian2ext
+	rotate: true
+	xy: 639, 380
+	size: 46, 27
+	orig: 46, 27
+	offset: 0, 0
+	index: -1
+shengdane-zuoxaiotui_tianxinjiamian2ext
+	rotate: false
+	xy: 496, 836
+	size: 26, 56
+	orig: 26, 56
+	offset: 0, 0
+	index: -1
+a-mai_tianxinjiamian2ext
+	rotate: true
+	xy: 188, 534
+	size: 25, 46
+	orig: 25, 46
+	offset: 0, 0
+	index: -1
+shengdang-zuoxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 648, 927
+	size: 25, 38
+	orig: 25, 38
+	offset: 0, 0
+	index: -1
+a-fa3_tianxinjiamian2ext
+	rotate: true
+	xy: 675, 188
+	size: 48, 41
+	orig: 48, 41
+	offset: 0, 0
+	index: -1
+shengdanq-kua_tianxinjiamian2ext
+	rotate: true
+	xy: 469, 503
+	size: 55, 39
+	orig: 55, 39
+	offset: 0, 0
+	index: -1
+shengdana-zuoxiaotui_tianxinjiamian2ext
+	rotate: false
+	xy: 502, 671
+	size: 23, 55
+	orig: 23, 55
+	offset: 0, 0
+	index: -1
+shengdang-youxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 672, 240
+	size: 48, 36
+	orig: 48, 36
+	offset: 0, 0
+	index: -1
+m-youshou2_tianxinjiamian2ext
+	rotate: false
+	xy: 605, 712
+	size: 31, 41
+	orig: 41, 43
+	offset: 0, 0
+	index: -1
+shengdann-youxiaobi_tianxinjiamian2ext
+	rotate: true
+	xy: 712, 158
+	size: 29, 47
+	orig: 29, 47
+	offset: 0, 0
+	index: -1
+shengdanq-zuodabi_tianxinjiamian2ext
+	rotate: false
+	xy: 790, 0
+	size: 41, 46
+	orig: 41, 46
+	offset: 0, 0
+	index: -1
+shengdanq-zuoxiaotui_tianxinjiamian2ext
+	rotate: false
+	xy: 522, 385
+	size: 31, 56
+	orig: 31, 56
+	offset: 0, 0
+	index: -1
+shengdanq-youjiaonn_tianxinjiamian2ext
+	rotate: false
+	xy: 706, 805
+	size: 25, 31
+	orig: 25, 31
+	offset: 0, 0
+	index: -1
+shengdanc-youxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 311, 673
+	size: 37, 53
+	orig: 37, 53
+	offset: 0, 0
+	index: -1
+shengdanm-kua_tianxinjiamian2ext
+	rotate: false
+	xy: 511, 336
+	size: 50, 48
+	orig: 50, 48
+	offset: 0, 0
+	index: -1
+shengdanb-zuoxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 677, 895
+	size: 33, 31
+	orig: 33, 31
+	offset: 0, 0
+	index: -1
+shengdane-shen_tianxinjiamian2ext
+	rotate: false
+	xy: 0, 856
+	size: 87, 127
+	orig: 87, 127
+	offset: 0, 0
+	index: -1
+shengdanh-youdabi_tianxinjiamian2ext
+	rotate: false
+	xy: 591, 385
+	size: 47, 50
+	orig: 47, 50
+	offset: 0, 0
+	index: -1
+shengdanc-youdabi_tianxinjiamian2ext
+	rotate: false
+	xy: 628, 0
+	size: 30, 59
+	orig: 30, 59
+	offset: 0, 0
+	index: -1
+n-fa2_tianxinjiamian2ext
+	rotate: true
+	xy: 489, 277
+	size: 58, 43
+	orig: 58, 43
+	offset: 0, 0
+	index: -1
+shengdand-youdabi_tianxinjiamian2ext
+	rotate: true
+	xy: 695, 58
+	size: 47, 50
+	orig: 47, 50
+	offset: 0, 0
+	index: -1
+shengdann-youdatui_tianxinjiamian2ext
+	rotate: false
+	xy: 412, 494
+	size: 56, 64
+	orig: 56, 64
+	offset: 0, 0
+	index: -1
+c-zuoshou_tianxinjiamian2ext
+	rotate: true
+	xy: 580, 928
+	size: 44, 37
+	orig: 44, 37
+	offset: 0, 0
+	index: -1
+e-lian_tianxinjiamian2ext
+	rotate: false
+	xy: 478, 190
+	size: 80, 86
+	orig: 80, 86
+	offset: 0, 0
+	index: -1
+shengdanf-zuodatui_tianxinjiamian2ext
+	rotate: true
+	xy: 291, 499
+	size: 60, 46
+	orig: 60, 46
+	offset: 0, 0
+	index: -1
+shengdanwa_youdabi_tianxinjiamian2ext
+	rotate: false
+	xy: 314, 962
+	size: 27, 62
+	orig: 27, 62
+	offset: 0, 0
+	index: -1
+shengdang-youjiao_tianxinjiamian2ext
+	rotate: true
+	xy: 555, 928
+	size: 45, 24
+	orig: 45, 24
+	offset: 0, 0
+	index: -1
+wa_pifeng6_tianxin2shengdan
+	rotate: false
+	xy: 0, 560
+	size: 150, 166
+	orig: 150, 166
+	offset: 0, 0
+	index: -1
+shengdann-shen_tianxinjiamian2ext
+	rotate: false
+	xy: 407, 839
+	size: 88, 108
+	orig: 88, 108
+	offset: 0, 0
+	index: -1
+shengdano-shen_tianxinjiamian2ext
+	rotate: false
+	xy: 309, 386
+	size: 77, 112
+	orig: 77, 112
+	offset: 0, 0
+	index: -1
+wa_fahou_tianxinjiamian2ext
+	rotate: true
+	xy: 359, 107
+	size: 82, 79
+	orig: 82, 79
+	offset: 0, 0
+	index: -1
+shengdane-youjiao_tianxinjiamian2ext
+	rotate: false
+	xy: 613, 897
+	size: 25, 30
+	orig: 25, 30
+	offset: 0, 0
+	index: -1
+shengdanp-youxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 66, 538
+	size: 51, 21
+	orig: 51, 21
+	offset: 0, 0
+	index: -1
+shengdanq-youdabi_tianxinjiamian2ext
+	rotate: true
+	xy: 562, 336
+	size: 48, 47
+	orig: 48, 47
+	offset: 0, 0
+	index: -1
+shengdanf-youxiaobi_tianxinjiamian2ext
+	rotate: true
+	xy: 647, 858
+	size: 36, 34
+	orig: 36, 34
+	offset: 0, 0
+	index: -1
+shengdanj-youdabi_tianxinjiamian2ext
+	rotate: true
+	xy: 375, 298
+	size: 37, 66
+	orig: 37, 66
+	offset: 0, 0
+	index: -1
+shengdang-kua_tianxinjiamian2ext
+	rotate: true
+	xy: 637, 188
+	size: 51, 37
+	orig: 51, 37
+	offset: 0, 0
+	index: -1
+shengdanwa_shen_tianxinjiamian2ext
+	rotate: false
+	xy: 151, 560
+	size: 84, 124
+	orig: 84, 124
+	offset: 0, 0
+	index: -1
+wa_youshou_tianxinjiamian2ext
+	rotate: false
+	xy: 646, 538
+	size: 25, 39
+	orig: 27, 39
+	offset: 1, 0
+	index: -1
+e-youbiyan_tianxin2extyan
+	rotate: true
+	xy: 588, 168
+	size: 18, 14
+	orig: 18, 14
+	offset: 0, 0
+	index: -1
+wa_pifeng7_tianxin2shengdan
+	rotate: true
+	xy: 349, 672
+	size: 54, 93
+	orig: 54, 93
+	offset: 0, 0
+	index: -1
+g_pifeng3_tianxin2shengdan
+	rotate: false
+	xy: 68, 0
+	size: 155, 189
+	orig: 155, 189
+	offset: 0, 0
+	index: -1
+shengdanq-shen_tianxinjiamian2ext
+	rotate: false
+	xy: 236, 560
+	size: 82, 112
+	orig: 82, 112
+	offset: 0, 0
+	index: -1
+shengdancanying1_tianxinjiamian2ext
+	rotate: true
+	xy: 224, 0
+	size: 135, 105
+	orig: 135, 105
+	offset: 0, 0
+	index: -1
+k-youshou_tianxinjiamian2ext
+	rotate: true
+	xy: 690, 655
+	size: 34, 25
+	orig: 34, 25
+	offset: 0, 0
+	index: -1
+shengdanj-zuodabi_tianxinjiamian2ext
+	rotate: true
+	xy: 639, 897
+	size: 29, 37
+	orig: 29, 37
+	offset: 0, 0
+	index: -1
+shengdani-youdabi_tianxinjiamian2ext
+	rotate: false
+	xy: 572, 974
+	size: 38, 44
+	orig: 38, 44
+	offset: 0, 0
+	index: -1
+e_pifeng4_tianxin2shengdan
+	rotate: true
+	xy: 0, 194
+	size: 191, 179
+	orig: 191, 179
+	offset: 0, 0
+	index: -1
+shengdana-youdatui_tianxinjiamian2ext
+	rotate: true
+	xy: 64, 984
+	size: 40, 56
+	orig: 40, 56
+	offset: 0, 0
+	index: -1
+shengdann-zuodatui_tianxinjiamian2ext
+	rotate: false
+	xy: 521, 616
+	size: 40, 54
+	orig: 40, 54
+	offset: 0, 0
+	index: -1
+shengdanh-zuoxiaobi_tianxinjiamian2ext
+	rotate: true
+	xy: 613, 436
+	size: 46, 31
+	orig: 46, 31
+	offset: 0, 0
+	index: -1
+shengdanf-kua_tianxinjiamian2ext
+	rotate: false
+	xy: 307, 298
+	size: 67, 37
+	orig: 67, 37
+	offset: 0, 0
+	index: -1
+wa_zuoyan_tianxinjiamian2ext
+	rotate: false
+	xy: 405, 93
+	size: 13, 13
+	orig: 13, 13
+	offset: 0, 0
+	index: -1
+shengdann-youdabi_tianxinjiamian2ext
+	rotate: true
+	xy: 262, 673
+	size: 53, 48
+	orig: 53, 48
+	offset: 0, 0
+	index: -1
+shengdanq-zuojiao_tianxinjiamian2ext
+	rotate: true
+	xy: 661, 655
+	size: 39, 28
+	orig: 39, 28
+	offset: 0, 0
+	index: -1
+shengdanb-youdabi_tianxinjiamian2ext
+	rotate: false
+	xy: 659, 0
+	size: 33, 57
+	orig: 33, 57
+	offset: 0, 0
+	index: -1
+h-shen_tianxinjiamian2ext
+	rotate: false
+	xy: 319, 560
+	size: 80, 111
+	orig: 80, 111
+	offset: 0, 0
+	index: -1
+shengdani-shen_tianxinjiamian2ext
+	rotate: false
+	xy: 258, 848
+	size: 58, 113
+	orig: 58, 113
+	offset: 0, 0
+	index: -1
+e-zuobiyan_tianxin2extyan
+	rotate: false
+	xy: 236, 673
+	size: 21, 11
+	orig: 21, 11
+	offset: 0, 0
+	index: -1
+shengdanc-zuoxiaobi_tianxinjiamian2ext
+	rotate: true
+	xy: 613, 858
+	size: 38, 33
+	orig: 38, 33
+	offset: 0, 0
+	index: -1
+a-fa2_tianxinjiamian2ext
+	rotate: true
+	xy: 637, 697
+	size: 40, 35
+	orig: 40, 35
+	offset: 0, 0
+	index: -1
+shengdang-shen_tianxinjiamian2ext
+	rotate: false
+	xy: 330, 0
+	size: 74, 106
+	orig: 74, 106
+	offset: 0, 0
+	index: -1
+shengdane-zuodatui_tianxinjiamian2ext
+	rotate: false
+	xy: 597, 0
+	size: 30, 61
+	orig: 30, 61
+	offset: 0, 0
+	index: -1
+wa_zuoshou_tianxinjiamian2ext
+	rotate: true
+	xy: 613, 483
+	size: 14, 25
+	orig: 14, 25
+	offset: 0, 0
+	index: -1
+wa_lian_tianxinjiamian2ext
+	rotate: true
+	xy: 469, 386
+	size: 58, 52
+	orig: 58, 52
+	offset: 0, 0
+	index: -1
+shengdanm-zuoxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 731, 964
+	size: 25, 36
+	orig: 25, 36
+	offset: 0, 0
+	index: -1
+shengdanf-zuodabi_tianxinjiamian2ext
+	rotate: false
+	xy: 755, 100
+	size: 26, 47
+	orig: 26, 47
+	offset: 0, 0
+	index: -1
+shengdand-zuodabi_tianxinjiamian2ext
+	rotate: true
+	xy: 321, 136
+	size: 53, 37
+	orig: 53, 37
+	offset: 0, 0
+	index: -1
+shengdanwa_kua_tianxinjiamian2ext
+	rotate: true
+	xy: 562, 614
+	size: 54, 37
+	orig: 54, 37
+	offset: 0, 0
+	index: -1
+shengdanwa_youxiaotui_tianxinjiamian2ext
+	rotate: false
+	xy: 648, 106
+	size: 34, 57
+	orig: 34, 57
+	offset: 0, 0
+	index: -1
+shengdana-zuojiao_tianxinjiamian2ext
+	rotate: true
+	xy: 540, 882
+	size: 45, 24
+	orig: 45, 24
+	offset: 0, 0
+	index: -1
+wa_pifeng4_tianxin2shengdan
+	rotate: true
+	xy: 224, 136
+	size: 53, 96
+	orig: 53, 96
+	offset: 0, 0
+	index: -1
+wa_zuomei_tianxinjiamian2ext
+	rotate: false
+	xy: 562, 490
+	size: 15, 11
+	orig: 15, 11
+	offset: 0, 0
+	index: -1
+shengdane-zuodabi_tianxinjiamian2ext
+	rotate: false
+	xy: 151, 685
+	size: 60, 41
+	orig: 60, 41
+	offset: 0, 0
+	index: -1
+shengdanf-zuoxiaotui_tianxinjiamian2ext
+	rotate: false
+	xy: 559, 188
+	size: 50, 57
+	orig: 50, 57
+	offset: 0, 0
+	index: -1
+shengdane-youdabi_tianxinjiamian2ext
+	rotate: true
+	xy: 600, 277
+	size: 51, 44
+	orig: 51, 44
+	offset: 0, 0
+	index: -1
+shengdanm-youxiaobi_tianxinjiamian2ext
+	rotate: true
+	xy: 593, 502
+	size: 46, 34
+	orig: 46, 34
+	offset: 0, 0
+	index: -1
+a-fa4_tianxinjiamian2ext
+	rotate: false
+	xy: 610, 329
+	size: 46, 50
+	orig: 46, 50
+	offset: 0, 0
+	index: -1
+m-fa2_tianxinjiamian2ext
+	rotate: true
+	xy: 534, 559
+	size: 54, 37
+	orig: 54, 37
+	offset: 0, 0
+	index: -1
+shengdanwa_youdatui_tianxinjiamian2ext
+	rotate: true
+	xy: 121, 982
+	size: 42, 68
+	orig: 42, 68
+	offset: 0, 0
+	index: -1
+shengdanh-shen-f_tianxin2extfm
+	rotate: false
+	xy: 328, 727
+	size: 80, 111
+	orig: 80, 111
+	offset: 0, 0
+	index: -1
+shengdanj-youxiaobi_tianxinjiamian2ext
+	rotate: true
+	xy: 761, 0
+	size: 47, 28
+	orig: 47, 28
+	offset: 0, 0
+	index: -1
+shengdank-youdabi_tianxinjiamian2ext
+	rotate: false
+	xy: 781, 48
+	size: 26, 47
+	orig: 26, 47
+	offset: 0, 0
+	index: -1
+shengdane-zuoxiaobi_tianxinjiamian2ext
+	rotate: true
+	xy: 506, 559
+	size: 56, 27
+	orig: 56, 27
+	offset: 0, 0
+	index: -1
+shengdanq-youdatui_tianxinjiamian2ext
+	rotate: false
+	xy: 292, 336
+	size: 50, 49
+	orig: 50, 49
+	offset: 0, 0
+	index: -1
+a-fa1_tianxinjiamian2ext
+	rotate: true
+	xy: 718, 106
+	size: 47, 36
+	orig: 47, 36
+	offset: 0, 0
+	index: -1
+shengdang-zuodabi_tianxinjiamian2ext
+	rotate: false
+	xy: 226, 499
+	size: 64, 34
+	orig: 64, 34
+	offset: 0, 0
+	index: -1
+shengdanj-zuoxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 509, 172
+	size: 23, 17
+	orig: 23, 17
+	offset: 0, 0
+	index: -1
+shengdanwa_youjiao_tianxinjiamian2ext
+	rotate: true
+	xy: 695, 964
+	size: 36, 35
+	orig: 36, 35
+	offset: 0, 0
+	index: -1
+wa_youmei_tianxinjiamian2ext
+	rotate: false
+	xy: 569, 815
+	size: 21, 12
+	orig: 21, 12
+	offset: 0, 0
+	index: -1
+shengdang-youdatui_tianxinjiamian2ext
+	rotate: true
+	xy: 533, 277
+	size: 58, 38
+	orig: 58, 38
+	offset: 0, 0
+	index: -1
+shengdane-zuojiao_tianxinjiamian2ext
+	rotate: true
+	xy: 566, 829
+	size: 43, 25
+	orig: 43, 25
+	offset: 0, 0
+	index: -1
+m-fa1_tianxinjiamian2ext
+	rotate: true
+	xy: 717, 188
+	size: 47, 36
+	orig: 49, 36
+	offset: 0, 0
+	index: -1
+shengdann-youxiaotui_tianxinjiamian2ext
+	rotate: true
+	xy: 0, 984
+	size: 40, 63
+	orig: 40, 63
+	offset: 0, 0
+	index: -1
+shengdanwa_zuojiao_tianxinjiamian2ext
+	rotate: true
+	xy: 565, 882
+	size: 45, 24
+	orig: 45, 24
+	offset: 0, 0
+	index: -1
+shengdanq-zuodatui_tianxinjiamian2ext
+	rotate: false
+	xy: 562, 439
+	size: 50, 50
+	orig: 50, 50
+	offset: 0, 0
+	index: -1
+shengdang-youdabi_tianxinjiamian2ext
+	rotate: false
+	xy: 437, 336
+	size: 45, 49
+	orig: 45, 49
+	offset: 0, 0
+	index: -1
+a-lian_tianxinjiamian2ext
+	rotate: false
+	xy: 391, 190
+	size: 86, 90
+	orig: 86, 90
+	offset: 0, 0
+	index: -1
+shengdang-zuodatui_tianxinjiamian2ext
+	rotate: false
+	xy: 497, 783
+	size: 28, 52
+	orig: 28, 52
+	offset: 0, 0
+	index: -1
+shengdane-youxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 610, 188
+	size: 26, 52
+	orig: 26, 52
+	offset: 0, 0
+	index: -1
+w_fa1_tianxinjiamian2ext
+	rotate: false
+	xy: 549, 81
+	size: 55, 24
+	orig: 55, 24
+	offset: 0, 0
+	index: -1
+shengdana-youxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 523, 836
+	size: 42, 45
+	orig: 42, 45
+	offset: 0, 0
+	index: -1
+shengdanh-youxiaotui_tianxinjiamian2ext
+	rotate: false
+	xy: 253, 972
+	size: 60, 52
+	orig: 60, 52
+	offset: 0, 0
+	index: -1
+shengdanwa_zuoxiaotui_tianxinjiamian2ext
+	rotate: true
+	xy: 603, 164
+	size: 23, 57
+	orig: 23, 57
+	offset: 0, 0
+	index: -1
+shengdanm-shen_tianxinjiamian2ext
+	rotate: false
+	xy: 169, 851
+	size: 88, 120
+	orig: 88, 120
+	offset: 0, 0
+	index: -1
+shengdand-youxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 497, 727
+	size: 38, 55
+	orig: 38, 55
+	offset: 0, 0
+	index: -1
+shengdann-kua_tianxinjiamian2ext
+	rotate: true
+	xy: 572, 550
+	size: 46, 39
+	orig: 46, 39
+	offset: 0, 0
+	index: -1
+shengdanl-youxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 570, 715
+	size: 34, 42
+	orig: 34, 42
+	offset: 0, 0
+	index: -1
+shengdanm-zuodatui_tianxinjiamian2ext
+	rotate: false
+	xy: 572, 277
+	size: 27, 52
+	orig: 27, 52
+	offset: 0, 0
+	index: -1
+shengdann-zuodabi_tianxinjiamian2ext
+	rotate: true
+	xy: 624, 241
+	size: 35, 47
+	orig: 35, 47
+	offset: 0, 0
+	index: -1
+shengdanwa_youxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 657, 328
+	size: 23, 46
+	orig: 23, 46
+	offset: 0, 0
+	index: -1
+shengdancanying2_tianxinjiamian2ext
+	rotate: true
+	xy: 129, 386
+	size: 147, 96
+	orig: 147, 96
+	offset: 0, 0
+	index: -1
+shengdane-kua_tianxinjiamian2ext
+	rotate: true
+	xy: 478, 616
+	size: 54, 42
+	orig: 54, 42
+	offset: 0, 0
+	index: -1
+o-shen-f_tianxin2extfm
+	rotate: false
+	xy: 400, 559
+	size: 77, 111
+	orig: 77, 111
+	offset: 0, 0
+	index: -1
+m-lian_tianxinjiamian2ext
+	rotate: true
+	xy: 443, 671
+	size: 55, 58
+	orig: 55, 58
+	offset: 0, 0
+	index: -1
+shengdanm-zuodabi_tianxinjiamian2ext
+	rotate: false
+	xy: 478, 559
+	size: 27, 56
+	orig: 27, 56
+	offset: 0, 0
+	index: -1
+shengdanf-shen_tianxinjiamian2ext
+	rotate: false
+	xy: 307, 190
+	size: 83, 107
+	orig: 83, 107
+	offset: 0, 0
+	index: -1
+l-youshou_tianxinjiamian2ext
+	rotate: false
+	xy: 628, 498
+	size: 35, 39
+	orig: 35, 39
+	offset: 0, 0
+	index: -1
+shengdanm-youdabi_tianxinjiamian2ext
+	rotate: true
+	xy: 238, 336
+	size: 49, 53
+	orig: 49, 53
+	offset: 0, 0
+	index: -1
+shengdanf-youxiaotui_tianxinjiamian2ext
+	rotate: false
+	xy: 537, 442
+	size: 24, 54
+	orig: 24, 54
+	offset: 0, 0
+	index: -1
+wa_fa4_tianxinjiamian2ext
+	rotate: false
+	xy: 640, 60
+	size: 54, 45
+	orig: 54, 45
+	offset: 0, 0
+	index: -1
+shengdanp-shen_tianxinjiamian2ext
+	rotate: false
+	xy: 317, 848
+	size: 89, 112
+	orig: 89, 112
+	offset: 0, 0
+	index: -1
+wa_fa2_tianxinjiamian2ext
+	rotate: true
+	xy: 534, 985
+	size: 39, 37
+	orig: 39, 37
+	offset: 0, 0
+	index: -1
+shengdann-zuojiaohe2_tianxinjiamian2ext
+	rotate: false
+	xy: 596, 669
+	size: 32, 42
+	orig: 32, 42
+	offset: 0, 0
+	index: -1
+shengdana-zuodatui_tianxinjiamian2ext
+	rotate: false
+	xy: 483, 336
+	size: 27, 49
+	orig: 27, 49
+	offset: 0, 0
+	index: -1
+shengdangedang_tianxin2ext
+	rotate: false
+	xy: 180, 190
+	size: 126, 145
+	orig: 126, 145
+	offset: 0, 0
+	index: -1
+shengdang-youxiaotui_tianxinjiamian2ext
+	rotate: false
+	xy: 502, 445
+	size: 34, 56
+	orig: 34, 56
+	offset: 0, 0
+	index: -1
+shengdanf-youjiao_tianxinjiamian2ext
+	rotate: true
+	xy: 618, 928
+	size: 38, 29
+	orig: 38, 29
+	offset: 0, 0
+	index: -1
+shengdanq-youxiaotui_tianxinjiamian2ext
+	rotate: false
+	xy: 442, 281
+	size: 46, 54
+	orig: 46, 54
+	offset: 0, 0
+	index: -1
+shengdane-youxiaotui_tianxinjiamian2ext
+	rotate: false
+	xy: 342, 961
+	size: 28, 63
+	orig: 28, 63
+	offset: 0, 0
+	index: -1
+shengdana-kua_tianxinjiamian2ext
+	rotate: true
+	xy: 496, 893
+	size: 45, 43
+	orig: 45, 43
+	offset: 0, 0
+	index: -1
+e-fa1_tianxinjiamian2ext
+	rotate: true
+	xy: 567, 106
+	size: 61, 34
+	orig: 61, 34
+	offset: 0, 0
+	index: -1
+shengdanf-zuojiao_tianxinjiamian2ext
+	rotate: true
+	xy: 632, 590
+	size: 39, 28
+	orig: 39, 28
+	offset: 0, 0
+	index: -1
+shengdanp-zuoxiaobi_tianxinjiamian2ext
+	rotate: true
+	xy: 235, 534
+	size: 25, 44
+	orig: 25, 44
+	offset: 0, 0
+	index: -1
+shengdanf-youdabi_tianxinjiamian2ext
+	rotate: false
+	xy: 683, 106
+	size: 34, 51
+	orig: 34, 51
+	offset: 0, 0
+	index: -1
+shengdann-zuojiaohe_tianxinjiamian2ext
+	rotate: true
+	xy: 496, 939
+	size: 45, 29
+	orig: 45, 29
+	offset: 0, 0
+	index: -1
+shengdana-youdabi_tianxinjiamian2ext
+	rotate: false
+	xy: 509, 502
+	size: 26, 56
+	orig: 26, 56
+	offset: 0, 0
+	index: -1
+wa_pifeng3_tianxin2shengdan
+	rotate: false
+	xy: 0, 386
+	size: 65, 173
+	orig: 65, 173
+	offset: 0, 0
+	index: -1
+shengdang-zuojiao_tianxinjiamian2ext
+	rotate: false
+	xy: 701, 690
+	size: 25, 31
+	orig: 25, 31
+	offset: 0, 0
+	index: -1
+shengdanq-zuoxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 600, 612
+	size: 31, 42
+	orig: 31, 42
+	offset: 0, 0
+	index: -1
+shengdana-youjiao_tianxinjiamian2ext
+	rotate: false
+	xy: 598, 246
+	size: 25, 30
+	orig: 25, 30
+	offset: 0, 0
+	index: -1
+shengdann-zuoxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 672, 617
+	size: 37, 37
+	orig: 37, 37
+	offset: 0, 0
+	index: -1
+shengdanq-youxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 566, 669
+	size: 29, 45
+	orig: 29, 45
+	offset: 0, 0
+	index: -1
+shengdana-shen_tianxinjiamian2ext
+	rotate: false
+	xy: 88, 856
+	size: 80, 125
+	orig: 80, 125
+	offset: 0, 0
+	index: -1
+shengdanc-zuodabi_tianxinjiamian2ext
+	rotate: false
+	xy: 746, 52
+	size: 34, 47
+	orig: 34, 47
+	offset: 0, 0
+	index: -1
+shengdanp-youdabi_tianxinjiamian2ext
+	rotate: false
+	xy: 554, 385
+	size: 36, 53
+	orig: 36, 53
+	offset: 0, 0
+	index: -1
+shengdanf-youdatui_tianxinjiamian2ext
+	rotate: false
+	xy: 390, 336
+	size: 46, 49
+	orig: 46, 49
+	offset: 0, 0
+	index: -1
+shengdanwa_zuodatui_tianxinjiamian2ext
+	rotate: false
+	xy: 536, 502
+	size: 28, 54
+	orig: 28, 54
+	offset: 0, 0
+	index: -1
+shengdanh-zuodabi_tianxinjiamian2ext
+	rotate: true
+	xy: 371, 961
+	size: 61, 36
+	orig: 61, 36
+	offset: 0, 0
+	index: -1
+shengdanwa_zuodabi_tianxinjiamian2ext
+	rotate: true
+	xy: 496, 83
+	size: 22, 52
+	orig: 22, 52
+	offset: 0, 0
+	index: -1
+shengdann-zuoxiaotui_tianxinjiamian2ext
+	rotate: true
+	xy: 569, 772
+	size: 42, 36
+	orig: 42, 36
+	offset: 0, 0
+	index: -1
+shengdani-zuoxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 708, 837
+	size: 25, 27
+	orig: 25, 27
+	offset: 0, 0
+	index: -1
+g_pifeng1_tianxin2shengdan
+	rotate: true
+	xy: 405, 0
+	size: 92, 77
+	orig: 92, 77
+	offset: 0, 0
+	index: -1
+a-youshou_tianxinjiamian2ext
+	rotate: true
+	xy: 606, 754
+	size: 41, 31
+	orig: 41, 31
+	offset: 0, 0
+	index: -1
+shengdani-youxiaobi_tianxinjiamian2ext
+	rotate: true
+	xy: 651, 774
+	size: 34, 32
+	orig: 34, 32
+	offset: 0, 0
+	index: -1
+shengdani-zuodabi_tianxinjiamian2ext
+	rotate: true
+	xy: 674, 927
+	size: 36, 35
+	orig: 36, 35
+	offset: 0, 0
+	index: -1
+shengdanb-youxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 343, 336
+	size: 46, 49
+	orig: 46, 49
+	offset: 0, 0
+	index: -1
+shengdang-zuoxiaotui_tianxinjiamian2ext
+	rotate: true
+	xy: 602, 106
+	size: 57, 45
+	orig: 57, 45
+	offset: 0, 0
+	index: -1
+shengdanh-kua_tianxinjiamian2ext
+	rotate: true
+	xy: 526, 671
+	size: 54, 39
+	orig: 54, 39
+	offset: 0, 0
+	index: -1
+wa_pifeng2_tianxin2shengdan
+	rotate: true
+	xy: 180, 336
+	size: 49, 57
+	orig: 49, 57
+	offset: 0, 0
+	index: -1
+g_pifeng4_tianxin2shengdan
+	rotate: true
+	xy: 408, 948
+	size: 76, 87
+	orig: 76, 87
+	offset: 0, 0
+	index: -1
+shengdanl-youdabi_tianxinjiamian2ext
+	rotate: true
+	xy: 710, 927
+	size: 36, 33
+	orig: 36, 33
+	offset: 0, 0
+	index: -1
+shengdanh-youdatui_tianxinjiamian2ext
+	rotate: true
+	xy: 190, 972
+	size: 52, 62
+	orig: 52, 62
+	offset: 0, 0
+	index: -1
+shengdand-zuoxiaobi_tianxinjiamian2ext
+	rotate: true
+	xy: 133, 534
+	size: 25, 54
+	orig: 25, 54
+	offset: 0, 0
+	index: -1
+shengdanb-zuodabi_tianxinjiamian2ext
+	rotate: false
+	xy: 338, 499
+	size: 29, 60
+	orig: 29, 60
+	offset: 0, 0
+	index: -1
+shengdanh-youjiao_tianxinjiamian2ext
+	rotate: false
+	xy: 682, 842
+	size: 25, 31
+	orig: 25, 31
+	offset: 0, 0
+	index: -1
+shengdank-youxiaobi_tianxinjiamian2ext
+	rotate: false
+	xy: 616, 796
+	size: 34, 36
+	orig: 34, 36
+	offset: 0, 0
+	index: -1
+wa_pifeng1_tianxin2shengdan
+	rotate: false
+	xy: 526, 783
+	size: 42, 45
+	orig: 42, 45
+	offset: 0, 0
+	index: -1

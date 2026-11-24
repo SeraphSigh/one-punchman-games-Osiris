@@ -1,0 +1,201 @@
+
+asset/anim/qiaozekp0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti_qiaozekp
+	rotate: false
+	xy: 0, 0
+	size: 215, 398
+	orig: 215, 398
+	offset: 0, 0
+	index: -1
+youyanpi_qiaozekp
+	rotate: true
+	xy: 106, 495
+	size: 16, 15
+	orig: 16, 15
+	offset: 0, 0
+	index: -1
+youwuming_qiaozekp
+	rotate: true
+	xy: 452, 409
+	size: 20, 60
+	orig: 20, 60
+	offset: 0, 0
+	index: -1
+zuowuming_qiaozekp
+	rotate: false
+	xy: 460, 290
+	size: 49, 55
+	orig: 49, 55
+	offset: 0, 0
+	index: -1
+youzhong_qiaozekp
+	rotate: false
+	xy: 396, 445
+	size: 24, 62
+	orig: 24, 62
+	offset: 0, 0
+	index: -1
+zuoxiaozhi_qiaozekp
+	rotate: false
+	xy: 421, 445
+	size: 23, 41
+	orig: 23, 41
+	offset: 0, 0
+	index: -1
+tou_qiaozekp
+	rotate: false
+	xy: 279, 385
+	size: 83, 123
+	orig: 83, 123
+	offset: 0, 0
+	index: -1
+zuoxiaobi_qiaozekp
+	rotate: true
+	xy: 363, 383
+	size: 61, 88
+	orig: 61, 88
+	offset: 0, 0
+	index: -1
+zuodatui_qiaozekp
+	rotate: true
+	xy: 216, 97
+	size: 155, 281
+	orig: 155, 281
+	offset: 0, 0
+	index: -1
+youdamu_qiaozekp
+	rotate: true
+	xy: 452, 430
+	size: 28, 58
+	orig: 28, 58
+	offset: 0, 0
+	index: -1
+youdabi_qiaozekp
+	rotate: true
+	xy: 106, 399
+	size: 95, 172
+	orig: 95, 172
+	offset: 0, 0
+	index: -1
+youxiaozhi_qiaozekp
+	rotate: true
+	xy: 421, 487
+	size: 20, 57
+	orig: 20, 57
+	offset: 0, 0
+	index: -1
+youxiaotui_qiaozekp
+	rotate: true
+	xy: 216, 0
+	size: 96, 282
+	orig: 96, 282
+	offset: 0, 0
+	index: -1
+youshi_qiaozekp
+	rotate: false
+	xy: 363, 445
+	size: 32, 63
+	orig: 32, 63
+	offset: 0, 0
+	index: -1
+youxiaobi_qiaozekp
+	rotate: false
+	xy: 0, 399
+	size: 105, 109
+	orig: 105, 109
+	offset: 0, 0
+	index: -1
+zuozhong_qiaozekp
+	rotate: false
+	xy: 460, 346
+	size: 44, 62
+	orig: 44, 62
+	offset: 0, 0
+	index: -1
+zuoshi_qiaozekp
+	rotate: true
+	xy: 460, 253
+	size: 36, 50
+	orig: 36, 50
+	offset: 0, 0
+	index: -1
+kua_qiaozekp
+	rotate: false
+	xy: 294, 253
+	size: 165, 129
+	orig: 165, 129
+	offset: 0, 0
+	index: -1
+youjiao_qiaozekp
+	rotate: true
+	xy: 216, 253
+	size: 131, 77
+	orig: 131, 77
+	offset: 0, 0
+	index: -1
+zuoyanpi_qiaozekp
+	rotate: true
+	xy: 122, 495
+	size: 16, 15
+	orig: 16, 15
+	offset: 0, 0
+	index: -1
+
+asset/anim/qiaozekp1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuoxiaotui_qiaozekp
+	rotate: false
+	xy: 0, 0
+	size: 129, 305
+	orig: 129, 305
+	offset: 0, 0
+	index: -1
+zuodabi_qiaozekp
+	rotate: false
+	xy: 0, 306
+	size: 89, 166
+	orig: 89, 166
+	offset: 0, 0
+	index: -1
+zuodamu_qiaozekp
+	rotate: true
+	xy: 0, 473
+	size: 35, 43
+	orig: 35, 43
+	offset: 0, 0
+	index: -1
+youdatui_qiaozekp
+	rotate: true
+	xy: 90, 306
+	size: 94, 269
+	orig: 94, 269
+	offset: 0, 0
+	index: -1
+zuozhang_qiaozekp
+	rotate: true
+	xy: 163, 401
+	size: 72, 69
+	orig: 72, 69
+	offset: 0, 0
+	index: -1
+youzhang_qiaozekp
+	rotate: true
+	xy: 233, 401
+	size: 62, 61
+	orig: 62, 61
+	offset: 0, 0
+	index: -1
+zuojiao_qiaozekp
+	rotate: false
+	xy: 90, 401
+	size: 72, 81
+	orig: 72, 81
+	offset: 0, 0
+	index: -1

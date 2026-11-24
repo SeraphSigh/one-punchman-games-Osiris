@@ -1,0 +1,667 @@
+
+asset/anim/tianxinjiamian2MAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/tianxinjiamian2_yanhua_009
+	rotate: true
+	xy: 0, 857
+	size: 166, 282
+	orig: 246, 298
+	offset: 26, 15
+	index: -1
+max/tianxinjiamian2_yanhua_008
+	rotate: false
+	xy: 0, 0
+	size: 196, 286
+	orig: 246, 298
+	offset: 38, 10
+	index: -1
+max/tianxinjiamian2_yanhua_002
+	rotate: false
+	xy: 708, 781
+	size: 102, 238
+	orig: 246, 298
+	offset: 68, 6
+	index: -1
+max/tianxinjiamian2_yanhua_012
+	rotate: true
+	xy: 674, 221
+	size: 88, 258
+	orig: 246, 298
+	offset: 84, 37
+	index: -1
+max/tianxinjiamian2_yanhua_000
+	rotate: true
+	xy: 811, 951
+	size: 62, 132
+	orig: 246, 298
+	offset: 91, 31
+	index: -1
+max/tianxinjiamian2_yanhua_010
+	rotate: false
+	xy: 416, 538
+	size: 134, 266
+	orig: 246, 298
+	offset: 69, 29
+	index: -1
+max/tianxinjiamian2_yanhua_011
+	rotate: true
+	xy: 674, 80
+	size: 140, 260
+	orig: 246, 298
+	offset: 76, 33
+	index: -1
+max/tianxinjiamian2_yanhua_005
+	rotate: false
+	xy: 0, 572
+	size: 176, 284
+	orig: 246, 298
+	offset: 29, 3
+	index: -1
+max/tianxinjiamian2_yanhua_004
+	rotate: false
+	xy: 177, 572
+	size: 158, 282
+	orig: 246, 298
+	offset: 37, 4
+	index: -1
+max/tianxinjiamian2_yanhua_014
+	rotate: false
+	xy: 283, 855
+	size: 70, 150
+	orig: 246, 298
+	offset: 89, 128
+	index: -1
+max/tianxinjiamian2_yanhua_006
+	rotate: false
+	xy: 0, 287
+	size: 200, 284
+	orig: 246, 298
+	offset: 12, 4
+	index: -1
+max/tianxinjiamian2_yanhua_001
+	rotate: true
+	xy: 811, 781
+	size: 80, 196
+	orig: 246, 298
+	offset: 82, 12
+	index: -1
+max/tianxinjiamian2_yanhua_007
+	rotate: false
+	xy: 197, 0
+	size: 182, 284
+	orig: 246, 298
+	offset: 38, 9
+	index: -1
+max/tianxinjiamian2_yanhua_013
+	rotate: false
+	xy: 941, 0
+	size: 80, 248
+	orig: 246, 298
+	offset: 88, 34
+	index: -1
+max/tianxinjiamian2_yanhua_003
+	rotate: false
+	xy: 485, 269
+	size: 132, 266
+	orig: 246, 298
+	offset: 51, 4
+	index: -1
+
+asset/anim/tianxinjiamian2COMMON2.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tianxinjiamian2_yinfu1_013
+	rotate: false
+	xy: 0, 0
+	size: 114, 98
+	orig: 234, 218
+	offset: 65, 36
+	index: -1
+
+asset/anim/tianxinjiamian2COMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tianxinjiamian2_guangban_00030
+	rotate: false
+	xy: 589, 975
+	size: 46, 46
+	orig: 50, 50
+	offset: 2, 1
+	index: -1
+common/tianxinjiamian2_kusanbo_000
+	rotate: false
+	xy: 681, 956
+	size: 172, 62
+	orig: 172, 78
+	offset: 0, 9
+	index: -1
+common/tianxinjiamian2_yinfu1_021
+	rotate: true
+	xy: 224, 0
+	size: 212, 172
+	orig: 234, 218
+	offset: 10, 13
+	index: -1
+common/tianxinjiamian2_sanbai_00015
+	rotate: false
+	xy: 972, 143
+	size: 50, 50
+	orig: 50, 50
+	offset: 0, 0
+	index: -1
+common/tianxinjiamian2_pengqi_025
+	rotate: true
+	xy: 117, 441
+	size: 136, 180
+	orig: 156, 234
+	offset: 0, 30
+	index: -1
+common/tianxinjiamian2_yinfu1_018
+	rotate: true
+	xy: 795, 550
+	size: 186, 140
+	orig: 234, 218
+	offset: 23, 25
+	index: -1
+common/tianxinjiamian2_yinfu1_019
+	rotate: false
+	xy: 505, 417
+	size: 196, 152
+	orig: 234, 218
+	offset: 18, 19
+	index: -1
+common/tianxinjiamian2_pengqi_021
+	rotate: true
+	xy: 298, 420
+	size: 156, 206
+	orig: 156, 234
+	offset: 0, 25
+	index: -1
+common/tianxinjiamian2_pengqi_001
+	rotate: true
+	xy: 520, 155
+	size: 44, 86
+	orig: 156, 234
+	offset: 40, 41
+	index: -1
+common/tianxinjiamian2_pengqi_000
+	rotate: true
+	xy: 399, 987
+	size: 22, 56
+	orig: 156, 234
+	offset: 53, 42
+	index: -1
+common/tianxinjiamian2_pengqi_003
+	rotate: false
+	xy: 901, 397
+	size: 98, 142
+	orig: 156, 234
+	offset: 13, 39
+	index: -1
+common/tianxinjiamian2_pengqi_002
+	rotate: true
+	xy: 397, 155
+	size: 52, 122
+	orig: 156, 234
+	offset: 36, 41
+	index: -1
+common/tianxinjiamian2_yinfu1_023
+	rotate: true
+	xy: 181, 796
+	size: 216, 178
+	orig: 234, 218
+	offset: 16, 17
+	index: -1
+common/tianxinjiamian2_pengqi_020
+	rotate: false
+	xy: 183, 578
+	size: 156, 206
+	orig: 156, 234
+	offset: 0, 27
+	index: -1
+common/tianxinjiamian2_pengqi_023
+	rotate: true
+	xy: 702, 405
+	size: 144, 198
+	orig: 156, 234
+	offset: 0, 30
+	index: -1
+common/tianxinjiamian2_yinfu1_020
+	rotate: true
+	xy: 294, 213
+	size: 206, 166
+	orig: 234, 218
+	offset: 11, 12
+	index: -1
+common/tianxinjiamian2_pengqi_024
+	rotate: false
+	xy: 648, 570
+	size: 146, 200
+	orig: 156, 234
+	offset: 0, 28
+	index: -1
+common/tianxinjiamian2_yinfu1_022
+	rotate: true
+	xy: 117, 224
+	size: 216, 176
+	orig: 234, 218
+	offset: 11, 14
+	index: -1
+common/tianxinjiamian2_dengguang_00043
+	rotate: false
+	xy: 0, 224
+	size: 116, 354
+	orig: 156, 388
+	offset: 17, 30
+	index: -1
+common/tianxinjiamian2_yinfu1_025
+	rotate: true
+	xy: 0, 579
+	size: 216, 182
+	orig: 234, 218
+	offset: 18, 24
+	index: -1
+common/tianxinjiamian2_pengqi_022
+	rotate: false
+	xy: 360, 780
+	size: 150, 206
+	orig: 156, 234
+	offset: 0, 24
+	index: -1
+common/tianxinjiamian2_yinfu1_024
+	rotate: true
+	xy: 0, 796
+	size: 218, 180
+	orig: 234, 218
+	offset: 16, 21
+	index: -1
+common/tianxinjiamian2_yinfu1_005
+	rotate: false
+	xy: 668, 151
+	size: 70, 56
+	orig: 234, 218
+	offset: 61, 36
+	index: -1
+common/tianxinjiamian2_yinfu1_004
+	rotate: false
+	xy: 739, 151
+	size: 66, 54
+	orig: 234, 218
+	offset: 58, 33
+	index: -1
+common/tianxinjiamian2_yinfu1_003
+	rotate: false
+	xy: 607, 155
+	size: 60, 52
+	orig: 234, 218
+	offset: 56, 29
+	index: -1
+common/tianxinjiamian2_yinfu1_002
+	rotate: false
+	xy: 806, 151
+	size: 56, 50
+	orig: 234, 218
+	offset: 53, 26
+	index: -1
+common/tianxinjiamian2_yinfu1_001
+	rotate: true
+	xy: 636, 975
+	size: 46, 44
+	orig: 234, 218
+	offset: 53, 26
+	index: -1
+common/tianxinjiamian2_yinfu1_000
+	rotate: false
+	xy: 360, 987
+	size: 38, 34
+	orig: 234, 218
+	offset: 53, 29
+	index: -1
+common/tianxinjiamian2_ks_00075
+	rotate: true
+	xy: 918, 245
+	size: 131, 106
+	orig: 131, 110
+	offset: 0, 4
+	index: -1
+common/tianxinjiamian2_pengqi_018
+	rotate: false
+	xy: 495, 577
+	size: 152, 200
+	orig: 156, 234
+	offset: 0, 34
+	index: -1
+common/tianxinjiamian2_pengqi_019
+	rotate: false
+	xy: 461, 208
+	size: 154, 208
+	orig: 156, 234
+	offset: 0, 26
+	index: -1
+common/tianxinjiamian2_pengqi_012
+	rotate: false
+	xy: 616, 208
+	size: 150, 196
+	orig: 156, 234
+	offset: 0, 34
+	index: -1
+common/tianxinjiamian2_pengqi_013
+	rotate: false
+	xy: 340, 577
+	size: 154, 202
+	orig: 156, 234
+	offset: 0, 32
+	index: -1
+common/tianxinjiamian2_pengqi_010
+	rotate: false
+	xy: 662, 771
+	size: 146, 184
+	orig: 156, 234
+	offset: 0, 46
+	index: -1
+common/tianxinjiamian2_pengqi_011
+	rotate: true
+	xy: 825, 0
+	size: 142, 198
+	orig: 156, 234
+	offset: 0, 31
+	index: -1
+common/tianxinjiamian2_pengqi_016
+	rotate: false
+	xy: 767, 206
+	size: 150, 190
+	orig: 156, 234
+	offset: 0, 44
+	index: -1
+common/tianxinjiamian2_pengqi_017
+	rotate: false
+	xy: 511, 778
+	size: 150, 196
+	orig: 156, 234
+	offset: 0, 38
+	index: -1
+common/tianxinjiamian2_pengqi_014
+	rotate: true
+	xy: 616, 0
+	size: 150, 208
+	orig: 156, 234
+	offset: 0, 26
+	index: -1
+common/tianxinjiamian2_pengqi_015
+	rotate: true
+	xy: 397, 0
+	size: 154, 218
+	orig: 156, 234
+	offset: 0, 16
+	index: -1
+
+asset/anim/tianxinjiamian2COMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/tianxinjiamian2_lizidian_025
+	rotate: false
+	xy: 839, 258
+	size: 156, 156
+	orig: 216, 210
+	offset: 15, 34
+	index: -1
+common/tianxinjiamian2_lizidian_019
+	rotate: true
+	xy: 0, 677
+	size: 168, 144
+	orig: 216, 210
+	offset: 13, 22
+	index: -1
+common/tianxinjiamian2_lizidian_031
+	rotate: false
+	xy: 576, 798
+	size: 126, 140
+	orig: 216, 210
+	offset: 17, 68
+	index: -1
+common/tianxinjiamian2_lizidian_027
+	rotate: false
+	xy: 0, 0
+	size: 156, 158
+	orig: 216, 210
+	offset: 15, 42
+	index: -1
+common/tianxinjiamian2_yinfu1_010
+	rotate: false
+	xy: 544, 939
+	size: 100, 78
+	orig: 234, 218
+	offset: 61, 37
+	index: -1
+common/tianxinjiamian2_yinfu1_011
+	rotate: true
+	xy: 912, 653
+	size: 104, 88
+	orig: 234, 218
+	offset: 62, 32
+	index: -1
+common/tianxinjiamian2_yinfu1_012
+	rotate: false
+	xy: 703, 929
+	size: 110, 94
+	orig: 234, 218
+	offset: 63, 33
+	index: -1
+common/tianxinjiamian2_yinfu1_014
+	rotate: true
+	xy: 824, 820
+	size: 116, 102
+	orig: 234, 218
+	offset: 69, 38
+	index: -1
+common/tianxinjiamian2_yinfu1_015
+	rotate: false
+	xy: 703, 820
+	size: 120, 108
+	orig: 234, 218
+	offset: 72, 38
+	index: -1
+common/tianxinjiamian2_yinfu1_016
+	rotate: false
+	xy: 419, 886
+	size: 124, 112
+	orig: 234, 218
+	offset: 74, 41
+	index: -1
+common/tianxinjiamian2_yinfu1_017
+	rotate: true
+	xy: 878, 512
+	size: 140, 128
+	orig: 234, 218
+	offset: 64, 31
+	index: -1
+common/tianxinjiamian2_pengqi_009
+	rotate: true
+	xy: 253, 345
+	size: 138, 176
+	orig: 156, 234
+	offset: 0, 52
+	index: -1
+common/tianxinjiamian2_pengqi_008
+	rotate: false
+	xy: 151, 504
+	size: 150, 172
+	orig: 156, 234
+	offset: 0, 56
+	index: -1
+common/tianxinjiamian2_lizidian_001
+	rotate: false
+	xy: 594, 713
+	size: 166, 84
+	orig: 216, 210
+	offset: 13, 24
+	index: -1
+common/tianxinjiamian2_lizidian_013
+	rotate: true
+	xy: 302, 655
+	size: 168, 116
+	orig: 216, 210
+	offset: 13, 25
+	index: -1
+common/tianxinjiamian2_lizidian_007
+	rotate: false
+	xy: 513, 445
+	size: 168, 100
+	orig: 216, 210
+	offset: 13, 23
+	index: -1
+common/tianxinjiamian2_lizidian_005
+	rotate: false
+	xy: 682, 415
+	size: 168, 96
+	orig: 216, 210
+	offset: 13, 23
+	index: -1
+common/tianxinjiamian2_pengqi_005
+	rotate: true
+	xy: 421, 592
+	size: 136, 172
+	orig: 156, 234
+	offset: 0, 38
+	index: -1
+common/tianxinjiamian2_pengqi_004
+	rotate: false
+	xy: 302, 484
+	size: 118, 170
+	orig: 156, 234
+	offset: 3, 39
+	index: -1
+common/tianxinjiamian2_pengqi_007
+	rotate: false
+	xy: 0, 504
+	size: 150, 172
+	orig: 156, 234
+	offset: 0, 53
+	index: -1
+common/tianxinjiamian2_pengqi_006
+	rotate: true
+	xy: 844, 0
+	size: 138, 162
+	orig: 156, 234
+	offset: 0, 51
+	index: -1
+common/tianxinjiamian2_lizidian_023
+	rotate: false
+	xy: 682, 258
+	size: 156, 156
+	orig: 216, 210
+	offset: 15, 27
+	index: -1
+common/tianxinjiamian2_lizidian_021
+	rotate: false
+	xy: 677, 0
+	size: 166, 150
+	orig: 216, 210
+	offset: 15, 22
+	index: -1
+common/tianxinjiamian2_lizidian_035
+	rotate: false
+	xy: 851, 415
+	size: 142, 96
+	orig: 216, 210
+	offset: 13, 87
+	index: -1
+common/tianxinjiamian2_lizidian_033
+	rotate: true
+	xy: 157, 846
+	size: 144, 92
+	orig: 216, 210
+	offset: 12, 82
+	index: -1
+common/tianxinjiamian2_lizidian_003
+	rotate: false
+	xy: 846, 139
+	size: 168, 84
+	orig: 216, 210
+	offset: 12, 29
+	index: -1
+common/tianxinjiamian2_lizidian_009
+	rotate: false
+	xy: 677, 151
+	size: 168, 106
+	orig: 216, 210
+	offset: 12, 23
+	index: -1
+common/tianxinjiamian2_yinfu1_007
+	rotate: false
+	xy: 157, 85
+	size: 84, 70
+	orig: 234, 218
+	offset: 60, 33
+	index: -1
+common/tianxinjiamian2_yinfu1_006
+	rotate: true
+	xy: 345, 85
+	size: 76, 60
+	orig: 234, 218
+	offset: 62, 37
+	index: -1
+common/tianxinjiamian2_lizidian_029
+	rotate: false
+	xy: 274, 824
+	size: 144, 154
+	orig: 216, 210
+	offset: 19, 56
+	index: -1
+common/tianxinjiamian2_yinfu1_009
+	rotate: false
+	xy: 814, 937
+	size: 94, 76
+	orig: 234, 218
+	offset: 61, 36
+	index: -1
+common/tianxinjiamian2_yinfu1_008
+	rotate: false
+	xy: 909, 937
+	size: 88, 74
+	orig: 234, 218
+	offset: 61, 34
+	index: -1
+common/tianxinjiamian2_lizidian_011
+	rotate: false
+	xy: 513, 332
+	size: 168, 112
+	orig: 216, 210
+	offset: 13, 22
+	index: -1
+common/tianxinjiamian2_lizidian_015
+	rotate: true
+	xy: 594, 546
+	size: 166, 126
+	orig: 216, 210
+	offset: 12, 23
+	index: -1
+common/tianxinjiamian2_lizidian_017
+	rotate: true
+	xy: 145, 677
+	size: 168, 128
+	orig: 216, 210
+	offset: 13, 27
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

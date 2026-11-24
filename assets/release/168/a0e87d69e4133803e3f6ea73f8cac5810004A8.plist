@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>tianxinjiamian2_yinfu1_013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			</array>
+			<key>spriteOffset</key>
+			<string>{5,-24}</string>
+			<key>spriteSize</key>
+			<string>{114,98}</string>
+			<key>spriteSourceSize</key>
+			<string>{234,218}</string>
+			<key>textureRect</key>
+			<string>{{0,0},{114,98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>pixelFormat</key>
+		<string>RGBA8888</string>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>tianxinjiamian2COMMON2.png</string>
+		<key>scale</key>
+		<real>0.78</real>
+		<key>size</key>
+		<string>{128,128}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:e03fa1cd13a60d842f74577a7d902746:c9d848773d677ea68f7c8eee562c548e:51fb9b0eee710849d55b968b52ffe8fd$</string>
+		<key>textureFileName</key>
+		<string>tianxinjiamian2COMMON2.png</string>
+	</dict>
+</dict>
+</plist>

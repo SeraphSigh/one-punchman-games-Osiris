@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>tuggdf_qingpingxiaoshiimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{204,204}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,256}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{204,204}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>qingpingxiaoshiimage0.png</string>
+            <key>size</key>
+            <string>{204,204}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:b6ffc46ff9b1313225a10beb7e4a5288:2a20f8bf7a3c1a9de70e64dcf49619e7:7be58ba37cb29f3fecf1601d2cb70654$</string>
+            <key>textureFileName</key>
+            <string>qingpingxiaoshiimage0.png</string>
+        </dict>
+    </dict>
+</plist>

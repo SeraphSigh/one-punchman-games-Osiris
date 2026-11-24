@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>003_wujinzhanquxuanze.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-167}</string>
+                <key>spriteSize</key>
+                <string>{1020,363}</string>
+                <key>spriteSourceSize</key>
+                <string>{1020,697}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{1020,363}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>wujinzhanquxuanze0.png</string>
+            <key>size</key>
+            <string>{1020,363}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:ba8e2eccfca5ace8f933e13159b9614f:152f520f0a8a04d27f0b98d1cf014dbe:4aafd734ee3e621355e0b6fac306b7d8$</string>
+            <key>textureFileName</key>
+            <string>wujinzhanquxuanze0.png</string>
+        </dict>
+    </dict>
+</plist>

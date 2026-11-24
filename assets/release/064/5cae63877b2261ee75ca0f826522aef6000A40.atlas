@@ -1,0 +1,173 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+
+asset/anim/kingjuqing0.png
+size: 249,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuodatui_kingjuqing
+	rotate: true
+	xy: 189, 51
+	size: 35, 57
+	orig: 35, 57
+	offset: 0, 0
+	index: -1
+zuodabi_kingjuqing
+	rotate: true
+	xy: 103, 157
+	size: 48, 55
+	orig: 48, 55
+	offset: 0, 0
+	index: -1
+shen_kingjuqing
+	rotate: false
+	xy: 103, 0
+	size: 85, 102
+	orig: 85, 102
+	offset: 0, 0
+	index: -1
+zuojiao_kingjuqing
+	rotate: false
+	xy: 195, 144
+	size: 29, 37
+	orig: 29, 37
+	offset: 0, 0
+	index: -1
+youshou_kingjuqing
+	rotate: true
+	xy: 207, 221
+	size: 25, 37
+	orig: 25, 37
+	offset: 0, 0
+	index: -1
+zuoxiaobi_kingjuqing
+	rotate: false
+	xy: 190, 87
+	size: 32, 56
+	orig: 32, 56
+	offset: 0, 0
+	index: -1
+kua_kingjuqing
+	rotate: false
+	xy: 103, 206
+	size: 61, 40
+	orig: 61, 40
+	offset: 0, 0
+	index: -1
+han_kingjuqing
+	rotate: false
+	xy: 195, 190
+	size: 5, 7
+	orig: 5, 7
+	offset: 0, 0
+	index: -1
+peng
+	rotate: false
+	xy: 189, 0
+	size: 56, 50
+	orig: 56, 50
+	offset: 0, 0
+	index: -1
+zuoxiaotui_kingjuqing
+	rotate: false
+	xy: 159, 103
+	size: 30, 61
+	orig: 30, 61
+	offset: 0, 0
+	index: -1
+fa_kingjuqing
+	rotate: true
+	xy: 165, 206
+	size: 37, 41
+	orig: 37, 41
+	offset: 0, 0
+	index: -1
+youxiaobi_kingjuqing
+	rotate: true
+	xy: 51, 212
+	size: 34, 47
+	orig: 34, 47
+	offset: 0, 0
+	index: -1
+youdatui_kingjuqing
+	rotate: false
+	xy: 103, 103
+	size: 55, 53
+	orig: 55, 53
+	offset: 0, 0
+	index: -1
+han2_kingjuqing
+	rotate: false
+	xy: 99, 212
+	size: 3, 7
+	orig: 3, 7
+	offset: 0, 0
+	index: -1
+youxiaotui_kingjuqing
+	rotate: true
+	xy: 0, 212
+	size: 34, 50
+	orig: 34, 50
+	offset: 0, 0
+	index: -1
+han1_kingjuqing
+	rotate: false
+	xy: 190, 144
+	size: 4, 15
+	orig: 4, 15
+	offset: 0, 0
+	index: -1
+youdabi_kingjuqing
+	rotate: false
+	xy: 223, 87
+	size: 26, 53
+	orig: 26, 53
+	offset: 0, 0
+	index: -1
+han3_kingjuqing
+	rotate: false
+	xy: 195, 182
+	size: 11, 7
+	orig: 11, 7
+	offset: 0, 0
+	index: -1
+tou_kingjuqing
+	rotate: false
+	xy: 0, 106
+	size: 102, 105
+	orig: 102, 105
+	offset: 0, 0
+	index: -1
+zuoshou_kingjuqing
+	rotate: false
+	xy: 207, 182
+	size: 25, 38
+	orig: 25, 38
+	offset: 0, 0
+	index: -1
+youjiao_kingjuqing
+	rotate: false
+	xy: 159, 165
+	size: 35, 40
+	orig: 35, 40
+	offset: 0, 0
+	index: -1
+tou2_kingjuqing
+	rotate: false
+	xy: 0, 0
+	size: 102, 105
+	orig: 102, 105
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,357 @@
+
+asset/anim/hongwennvSESKILL0.png
+size: 1015,997
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/hongwennv_skill_boli_057
+	rotate: false
+	xy: 570, 0
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/hongwennv_skill_boli_056
+	rotate: false
+	xy: 285, 161
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/hongwennv_skill_boli_055
+	rotate: false
+	xy: 0, 322
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/hongwennv_skill_boli_054
+	rotate: false
+	xy: 285, 0
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/hongwennv_skill_boli_053
+	rotate: false
+	xy: 0, 161
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/hongwennv_skill_boli_052
+	rotate: false
+	xy: 0, 0
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/hongwennv_skill_boli_063
+	rotate: false
+	xy: 667, 959
+	size: 26, 38
+	orig: 284, 160
+	offset: 251, 0
+	index: -1
+skill/hongwennv_skill_pingmubao_054
+	rotate: false
+	xy: 285, 322
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/hongwennv_skill_pingmubao_055
+	rotate: false
+	xy: 570, 322
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/hongwennv_skill_pingmubao_056
+	rotate: false
+	xy: 0, 644
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/hongwennv_skill_pingmubao_057
+	rotate: false
+	xy: 285, 483
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/hongwennv_skill_pingmubao_050
+	rotate: true
+	xy: 936, 930
+	size: 66, 72
+	orig: 284, 160
+	offset: 141, 45
+	index: -1
+skill/hongwennv_skill_pingmubao_051
+	rotate: true
+	xy: 681, 644
+	size: 184, 138
+	orig: 284, 160
+	offset: 75, 11
+	index: -1
+skill/hongwennv_skill_pingmubao_052
+	rotate: false
+	xy: 0, 483
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/hongwennv_skill_boli_058
+	rotate: true
+	xy: 855, 0
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/hongwennv_skill_pingmubao_060
+	rotate: true
+	xy: 855, 570
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/hongwennv_skill_boli_059
+	rotate: false
+	xy: 570, 161
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/hongwennv_skill_boli_060
+	rotate: false
+	xy: 0, 805
+	size: 272, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/hongwennv_skill_pingmubao_058
+	rotate: false
+	xy: 570, 483
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+skill/hongwennv_skill_boli_062
+	rotate: true
+	xy: 667, 914
+	size: 44, 160
+	orig: 284, 160
+	offset: 240, 0
+	index: -1
+skill/hongwennv_skill_boli_061
+	rotate: true
+	xy: 855, 285
+	size: 284, 160
+	orig: 284, 160
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_suishipiao0003
+	rotate: true
+	xy: 948, 310
+	size: 76, 38
+	orig: 108, 76
+	offset: 28, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_suishipiao0001
+	rotate: false
+	xy: 352, 486
+	size: 78, 32
+	orig: 108, 76
+	offset: 30, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_suishipiao0006
+	rotate: true
+	xy: 735, 726
+	size: 70, 48
+	orig: 108, 76
+	offset: 24, 2
+	index: -1
+global/a_global_suishipiao0016
+	rotate: false
+	xy: 536, 784
+	size: 42, 44
+	orig: 108, 76
+	offset: 0, 29
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_suishipiao0005
+	rotate: false
+	xy: 617, 973
+	size: 70, 46
+	orig: 108, 76
+	offset: 26, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_suishipiao0002
+	rotate: false
+	xy: 659, 840
+	size: 76, 36
+	orig: 108, 76
+	offset: 30, 0
+	index: -1
+global/a_global_suishipiao0007
+	rotate: true
+	xy: 399, 610
+	size: 74, 54
+	orig: 108, 76
+	offset: 19, 5
+	index: -1
+global/a_global_suishipiao0018
+	rotate: false
+	xy: 918, 633
+	size: 38, 40
+	orig: 108, 76
+	offset: 0, 36
+	index: -1
+global/a_global_suishipiao0008
+	rotate: true
+	xy: 771, 381
+	size: 76, 58
+	orig: 108, 76
+	offset: 16, 7
+	index: -1
+global/a_global_suishipiao0009
+	rotate: false
+	xy: 785, 542
+	size: 78, 44
+	orig: 108, 76
+	offset: 13, 11
+	index: -1
+global/a_global_suishipiao0004
+	rotate: false
+	xy: 864, 553
+	size: 74, 40
+	orig: 108, 76
+	offset: 27, 0
+	index: -1
+global/a_global_suishipiao0011
+	rotate: false
+	xy: 830, 785
+	size: 70, 36
+	orig: 108, 76
+	offset: 17, 15
+	index: -1
+global/a_global_suishipiao0010
+	rotate: false
+	xy: 736, 840
+	size: 76, 36
+	orig: 108, 76
+	offset: 14, 13
+	index: -1
+global/a_global_suishipiao0013
+	rotate: false
+	xy: 436, 734
+	size: 68, 50
+	orig: 108, 76
+	offset: 11, 18
+	index: -1
+global/a_global_suishipiao0012
+	rotate: false
+	xy: 777, 739
+	size: 70, 38
+	orig: 108, 76
+	offset: 14, 16
+	index: -1
+global/a_global_suishipiao0015
+	rotate: false
+	xy: 905, 816
+	size: 38, 42
+	orig: 108, 76
+	offset: 5, 24
+	index: -1
+global/a_global_suishipiao0014
+	rotate: false
+	xy: 718, 559
+	size: 66, 54
+	orig: 108, 76
+	offset: 8, 18
+	index: -1
+global/a_global_suishipiao0017
+	rotate: false
+	xy: 901, 773
+	size: 40, 42
+	orig: 108, 76
+	offset: 0, 33
+	index: -1
+
+asset/anim/hongwennvSECOMMON0.png
+size: 1018,981
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/hongwennv_skill_zhuanyan_002
+	rotate: false
+	xy: 859, 265
+	size: 150, 76
+	orig: 194, 100
+	offset: 19, 2
+	index: -1
+common/hongwennv_skill_zhuanyan_006
+	rotate: true
+	xy: 555, 415
+	size: 162, 76
+	orig: 194, 100
+	offset: 2, 2
+	index: -1
+common/hongwennv_skill_zhuanyan_004
+	rotate: true
+	xy: 866, 383
+	size: 146, 74
+	orig: 194, 100
+	offset: 8, 2
+	index: -1
+common/hongwennv_skill_zhuanyan_008
+	rotate: true
+	xy: 632, 415
+	size: 160, 60
+	orig: 194, 100
+	offset: 15, 10
+	index: -1
+common/hongwennv_bai_001
+	rotate: true
+	xy: 758, 120
+	size: 24, 22
+	orig: 24, 22
+	offset: 0, 0
+	index: -1
+common/1_suduxian
+	rotate: true
+	xy: 324, 0
+	size: 77, 258
+	orig: 77, 258
+	offset: 0, 0
+	index: -1

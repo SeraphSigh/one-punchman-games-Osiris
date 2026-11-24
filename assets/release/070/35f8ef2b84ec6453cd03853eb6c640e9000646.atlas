@@ -1,0 +1,88 @@
+
+asset/anim/qudongqishi2SEMAX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/qudongqishi2_quanpingfenwei2_2
+	rotate: false
+	xy: 904, 695
+	size: 105, 293
+	orig: 115, 363
+	offset: 4, 39
+	index: -1
+max/qudongqishi2_quanpingfenwei2_10
+	rotate: false
+	xy: 522, 716
+	size: 105, 293
+	orig: 115, 363
+	offset: 4, 39
+	index: -1
+
+asset/anim/qudongqishi2SEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/qudongqishi2_quanpingfenwei2_1
+	rotate: true
+	xy: 695, 905
+	size: 105, 293
+	orig: 115, 363
+	offset: 4, 39
+	index: -1
+
+asset/anim/qudongqishi2SEMAX2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/qudongqishi2_quanpingfenwei2_3
+	rotate: false
+	xy: 578, 0
+	size: 105, 293
+	orig: 115, 363
+	offset: 4, 39
+	index: -1
+max/qudongqishi2_quanpingfenwei2_6
+	rotate: false
+	xy: 790, 0
+	size: 105, 293
+	orig: 115, 363
+	offset: 4, 39
+	index: -1
+max/qudongqishi2_quanpingfenwei2_7
+	rotate: false
+	xy: 896, 0
+	size: 105, 293
+	orig: 115, 363
+	offset: 4, 39
+	index: -1
+max/qudongqishi2_quanpingfenwei2_4
+	rotate: false
+	xy: 684, 0
+	size: 105, 293
+	orig: 115, 363
+	offset: 4, 39
+	index: -1
+max/qudongqishi2_quanpingfenwei2_5
+	rotate: true
+	xy: 694, 294
+	size: 105, 293
+	orig: 115, 363
+	offset: 4, 39
+	index: -1
+max/qudongqishi2_quanpingfenwei2_8
+	rotate: true
+	xy: 694, 400
+	size: 105, 293
+	orig: 115, 363
+	offset: 4, 39
+	index: -1
+max/qudongqishi2_quanpingfenwei2_9
+	rotate: true
+	xy: 694, 506
+	size: 105, 293
+	orig: 115, 363
+	offset: 4, 39
+	index: -1

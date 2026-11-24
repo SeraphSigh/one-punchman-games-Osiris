@@ -1,0 +1,1787 @@
+
+asset/anim/G4jishen0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q_Lfoot_G4jishen
+	rotate: false
+	xy: 779, 457
+	size: 74, 39
+	orig: 74, 39
+	offset: 0, 0
+	index: -1
+m_Rfoot_G4jishen
+	rotate: false
+	xy: 688, 610
+	size: 75, 43
+	orig: 75, 43
+	offset: 0, 0
+	index: -1
+e_body2_G4jishen
+	rotate: false
+	xy: 493, 868
+	size: 119, 140
+	orig: 119, 140
+	offset: 0, 0
+	index: -1
+m_coxa1_G4jishen
+	rotate: false
+	xy: 935, 908
+	size: 89, 103
+	orig: 89, 103
+	offset: 0, 0
+	index: -1
+a_head1_G4jishen
+	rotate: true
+	xy: 584, 399
+	size: 80, 93
+	orig: 80, 93
+	offset: 0, 0
+	index: -1
+l_body2_G4jishen
+	rotate: false
+	xy: 653, 480
+	size: 125, 129
+	orig: 125, 129
+	offset: 0, 0
+	index: -1
+m_head2_G4jishen
+	rotate: true
+	xy: 235, 615
+	size: 41, 34
+	orig: 41, 34
+	offset: 0, 0
+	index: -1
+c_jian1_G4jishen
+	rotate: true
+	xy: 764, 610
+	size: 224, 84
+	orig: 224, 84
+	offset: 0, 0
+	index: -1
+a_zhui1_G4jishen
+	rotate: false
+	xy: 270, 331
+	size: 12, 30
+	orig: 12, 30
+	offset: 0, 0
+	index: -1
+r_Lhand1_G4jishen
+	rotate: true
+	xy: 398, 611
+	size: 45, 41
+	orig: 45, 41
+	offset: 0, 0
+	index: -1
+j_Lhand_G4jishen
+	rotate: true
+	xy: 347, 611
+	size: 45, 50
+	orig: 45, 50
+	offset: 0, 0
+	index: -1
+f_Lfoot_G4jishen
+	rotate: true
+	xy: 640, 100
+	size: 65, 37
+	orig: 65, 37
+	offset: 0, 0
+	index: -1
+l_jian1_G4jishen
+	rotate: false
+	xy: 347, 0
+	size: 330, 99
+	orig: 330, 99
+	offset: 0, 0
+	index: -1
+b_Rhand2_G4jishen
+	rotate: true
+	xy: 235, 573
+	size: 41, 34
+	orig: 41, 34
+	offset: 0, 0
+	index: -1
+q_Rthigh1_G4jishen
+	rotate: false
+	xy: 971, 370
+	size: 53, 73
+	orig: 53, 73
+	offset: 0, 0
+	index: -1
+c_Rarm_G4jishen
+	rotate: false
+	xy: 849, 899
+	size: 56, 62
+	orig: 56, 62
+	offset: 0, 0
+	index: -1
+f_Rthingh_G4jishen
+	rotate: false
+	xy: 270, 364
+	size: 76, 69
+	orig: 76, 69
+	offset: 0, 0
+	index: -1
+g_Rhand1_G4jishen
+	rotate: true
+	xy: 904, 457
+	size: 39, 43
+	orig: 39, 43
+	offset: 0, 0
+	index: -1
+d_Cape2_G4jishen
+	rotate: false
+	xy: 641, 841
+	size: 167, 169
+	orig: 167, 169
+	offset: 0, 0
+	index: -1
+q_cape_G4jishen
+	rotate: false
+	xy: 347, 100
+	size: 292, 284
+	orig: 292, 284
+	offset: 0, 0
+	index: -1
+n_Lhand_G4jishen
+	rotate: false
+	xy: 440, 611
+	size: 35, 45
+	orig: 35, 45
+	offset: 0, 0
+	index: -1
+f_cape_G4jishen
+	rotate: false
+	xy: 0, 0
+	size: 346, 241
+	orig: 346, 241
+	offset: 0, 0
+	index: -1
+d_Rhand2_G4jishen
+	rotate: true
+	xy: 640, 282
+	size: 40, 36
+	orig: 40, 36
+	offset: 0, 0
+	index: -1
+g_body1_G4jishen
+	rotate: true
+	xy: 779, 497
+	size: 112, 126
+	orig: 112, 126
+	offset: 0, 0
+	index: -1
+s_head2_G4jishen
+	rotate: true
+	xy: 235, 470
+	size: 57, 34
+	orig: 57, 34
+	offset: 0, 0
+	index: -1
+b_Lhand_G4jishen
+	rotate: true
+	xy: 809, 877
+	size: 41, 39
+	orig: 41, 39
+	offset: 0, 0
+	index: -1
+r_Larm_G4jishen
+	rotate: true
+	xy: 551, 611
+	size: 44, 60
+	orig: 44, 60
+	offset: 0, 0
+	index: -1
+f_jian1_G4jishen
+	rotate: false
+	xy: 0, 470
+	size: 234, 181
+	orig: 234, 181
+	offset: 0, 0
+	index: -1
+i_Lhand_G4jishen
+	rotate: false
+	xy: 714, 791
+	size: 49, 41
+	orig: 49, 41
+	offset: 0, 0
+	index: -1
+l_Lfoot_G4jishen
+	rotate: true
+	xy: 809, 960
+	size: 64, 38
+	orig: 64, 38
+	offset: 0, 0
+	index: -1
+m_Lhand_G4jishen
+	rotate: true
+	xy: 714, 726
+	size: 64, 49
+	orig: 64, 49
+	offset: 0, 0
+	index: -1
+j_Larm_G4jishen
+	rotate: false
+	xy: 971, 444
+	size: 53, 52
+	orig: 53, 52
+	offset: 0, 0
+	index: -1
+d_jian1_G4jishen
+	rotate: false
+	xy: 347, 385
+	size: 236, 33
+	orig: 236, 33
+	offset: 0, 0
+	index: -1
+i_Rthigh1_G4jishen
+	rotate: true
+	xy: 270, 501
+	size: 57, 76
+	orig: 57, 76
+	offset: 0, 0
+	index: -1
+a_Lfoot_G4jishen
+	rotate: false
+	xy: 612, 611
+	size: 75, 43
+	orig: 75, 43
+	offset: 0, 0
+	index: -1
+b_Lforearm_G4jishen
+	rotate: false
+	xy: 270, 434
+	size: 76, 66
+	orig: 76, 66
+	offset: 0, 0
+	index: -1
+a_Rforarm_G4jishen
+	rotate: true
+	xy: 848, 962
+	size: 62, 86
+	orig: 62, 86
+	offset: 0, 0
+	index: -1
+a_Lforarm_G4jishen
+	rotate: false
+	xy: 849, 683
+	size: 56, 71
+	orig: 56, 71
+	offset: 0, 0
+	index: -1
+i_Rhand_G4jishen
+	rotate: true
+	xy: 293, 242
+	size: 45, 53
+	orig: 45, 53
+	offset: 0, 0
+	index: -1
+f_Rfoot_G4jishen
+	rotate: false
+	xy: 270, 616
+	size: 75, 40
+	orig: 75, 40
+	offset: 0, 0
+	index: -1
+e_Cape_G4jishen
+	rotate: false
+	xy: 678, 194
+	size: 292, 262
+	orig: 292, 262
+	offset: 0, 0
+	index: -1
+d_Lhand_G4jishen
+	rotate: false
+	xy: 581, 841
+	size: 59, 26
+	orig: 59, 26
+	offset: 0, 0
+	index: -1
+s_Rhand2_G4jishen
+	rotate: false
+	xy: 235, 528
+	size: 34, 44
+	orig: 34, 44
+	offset: 0, 0
+	index: -1
+c_Rfoot_G4jishen
+	rotate: true
+	xy: 978, 0
+	size: 79, 46
+	orig: 79, 46
+	offset: 0, 0
+	index: -1
+p_Rthigh2_G4jishen
+	rotate: false
+	xy: 640, 362
+	size: 36, 36
+	orig: 36, 36
+	offset: 0, 0
+	index: -1
+p_Lshin2_G4jishen
+	rotate: false
+	xy: 584, 385
+	size: 14, 13
+	orig: 14, 13
+	offset: 0, 0
+	index: -1
+m_jian_G4jishen
+	rotate: false
+	xy: 0, 331
+	size: 269, 138
+	orig: 269, 138
+	offset: 0, 0
+	index: -1
+i_Rforarm_G4jishen
+	rotate: false
+	xy: 849, 755
+	size: 56, 71
+	orig: 56, 71
+	offset: 0, 0
+	index: -1
+f_Larm_G4jishen
+	rotate: true
+	xy: 476, 611
+	size: 44, 74
+	orig: 44, 74
+	offset: 0, 0
+	index: -1
+b_jian_G4jishen
+	rotate: false
+	xy: 0, 242
+	size: 292, 88
+	orig: 292, 88
+	offset: 0, 0
+	index: -1
+b_Cape2_G4jishen
+	rotate: false
+	xy: 678, 0
+	size: 299, 193
+	orig: 299, 193
+	offset: 0, 0
+	index: -1
+d_Rfoot_G4jishen
+	rotate: false
+	xy: 849, 610
+	size: 56, 72
+	orig: 56, 72
+	offset: 0, 0
+	index: -1
+h_Rhand_G4jishen
+	rotate: false
+	xy: 854, 457
+	size: 49, 39
+	orig: 49, 39
+	offset: 0, 0
+	index: -1
+e_Lshoulder1_G4jishen
+	rotate: false
+	xy: 971, 195
+	size: 53, 98
+	orig: 53, 98
+	offset: 0, 0
+	index: -1
+d_jian2_G4jishen
+	rotate: true
+	xy: 613, 899
+	size: 98, 23
+	orig: 98, 23
+	offset: 0, 0
+	index: -1
+a_Rhand_G4jishen
+	rotate: true
+	xy: 978, 151
+	size: 43, 46
+	orig: 43, 46
+	offset: 0, 0
+	index: -1
+b_Cape1_G4jishen
+	rotate: false
+	xy: 225, 657
+	size: 130, 212
+	orig: 130, 212
+	offset: 0, 0
+	index: -1
+a_jian1_G4jishen
+	rotate: false
+	xy: 0, 875
+	size: 154, 145
+	orig: 154, 145
+	offset: 0, 0
+	index: -1
+n_Rhand2_G4jishen
+	rotate: true
+	xy: 640, 166
+	size: 41, 37
+	orig: 41, 37
+	offset: 0, 0
+	index: -1
+p_Lthigh1_G4jishen
+	rotate: false
+	xy: 714, 654
+	size: 49, 71
+	orig: 49, 71
+	offset: 0, 0
+	index: -1
+r_Lhand2_G4jishen
+	rotate: false
+	xy: 613, 868
+	size: 24, 30
+	orig: 24, 30
+	offset: 0, 0
+	index: -1
+a_zhui2_G4jishen
+	rotate: true
+	xy: 599, 385
+	size: 11, 28
+	orig: 11, 28
+	offset: 0, 0
+	index: -1
+a_Lshin2_G4jishen
+	rotate: true
+	xy: 583, 480
+	size: 15, 19
+	orig: 15, 19
+	offset: 0, 0
+	index: -1
+s_body2_G4jishen
+	rotate: false
+	xy: 906, 619
+	size: 117, 119
+	orig: 117, 119
+	offset: 0, 0
+	index: -1
+p_jian1_G4jishen
+	rotate: true
+	xy: 581, 656
+	size: 184, 132
+	orig: 184, 132
+	offset: 0, 0
+	index: -1
+m_Rhand1_G4jishen
+	rotate: false
+	xy: 640, 248
+	size: 37, 33
+	orig: 37, 33
+	offset: 0, 0
+	index: -1
+o_Rarm_G4jishen
+	rotate: false
+	xy: 849, 827
+	size: 56, 71
+	orig: 56, 71
+	offset: 0, 0
+	index: -1
+s_jian1_G4jishen
+	rotate: true
+	xy: 906, 739
+	size: 168, 115
+	orig: 168, 115
+	offset: 0, 0
+	index: -1
+h_body2_G4jishen
+	rotate: true
+	xy: 906, 497
+	size: 121, 117
+	orig: 121, 117
+	offset: 0, 0
+	index: -1
+e_Larm_G4jishen
+	rotate: false
+	xy: 978, 80
+	size: 46, 70
+	orig: 46, 70
+	offset: 0, 0
+	index: -1
+b_Lshoulder_G4jishen
+	rotate: false
+	xy: 583, 497
+	size: 69, 113
+	orig: 69, 113
+	offset: 0, 0
+	index: -1
+q_Rhand2_G4jishen
+	rotate: true
+	xy: 640, 208
+	size: 39, 37
+	orig: 39, 37
+	offset: 0, 0
+	index: -1
+n_jian1_G4jishen
+	rotate: true
+	xy: 327, 870
+	size: 143, 165
+	orig: 143, 165
+	offset: 0, 0
+	index: -1
+g_jian1_G4jishen
+	rotate: true
+	xy: 155, 875
+	size: 144, 171
+	orig: 144, 171
+	offset: 0, 0
+	index: -1
+n_Rhand1_G4jishen
+	rotate: true
+	xy: 809, 919
+	size: 40, 39
+	orig: 40, 39
+	offset: 0, 0
+	index: -1
+b_Rhand1_G4jishen
+	rotate: false
+	xy: 809, 835
+	size: 39, 41
+	orig: 39, 41
+	offset: 0, 0
+	index: -1
+g_Rhand2_G4jishen
+	rotate: true
+	xy: 640, 323
+	size: 38, 36
+	orig: 38, 36
+	offset: 0, 0
+	index: -1
+d_Rthigh_G4jishen
+	rotate: false
+	xy: 293, 288
+	size: 52, 75
+	orig: 52, 75
+	offset: 0, 0
+	index: -1
+p_Rfoot_G4jishen
+	rotate: true
+	xy: 270, 559
+	size: 56, 76
+	orig: 56, 76
+	offset: 0, 0
+	index: -1
+gd_G4jishen
+	rotate: true
+	xy: 356, 657
+	size: 210, 224
+	orig: 222, 224
+	offset: 0, 0
+	index: -1
+s_Rthigh1_G4jishen
+	rotate: false
+	xy: 971, 294
+	size: 53, 75
+	orig: 53, 75
+	offset: 0, 0
+	index: -1
+d_Cape1_G4jishen
+	rotate: true
+	xy: 347, 419
+	size: 191, 235
+	orig: 191, 235
+	offset: 0, 0
+	index: -1
+a_cape1_G4jishen
+	rotate: true
+	xy: 0, 652
+	size: 222, 224
+	orig: 222, 224
+	offset: 0, 0
+	index: -1
+
+asset/anim/G4jishen1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Lshin1_G4jishen
+	rotate: false
+	xy: 567, 220
+	size: 63, 84
+	orig: 63, 84
+	offset: 0, 0
+	index: -1
+p_Rshin1_G4jishen
+	rotate: true
+	xy: 819, 210
+	size: 65, 66
+	orig: 65, 66
+	offset: 0, 0
+	index: -1
+q_coxa2_G4jishen
+	rotate: false
+	xy: 552, 631
+	size: 79, 80
+	orig: 79, 80
+	offset: 0, 0
+	index: -1
+b_Lshin1_G4jishen
+	rotate: false
+	xy: 720, 378
+	size: 73, 77
+	orig: 73, 77
+	offset: 0, 0
+	index: -1
+s_head1_G4jishen
+	rotate: false
+	xy: 494, 872
+	size: 79, 91
+	orig: 79, 91
+	offset: 0, 0
+	index: -1
+f_coxa1_G4jishen
+	rotate: true
+	xy: 451, 488
+	size: 84, 70
+	orig: 84, 70
+	offset: 0, 0
+	index: -1
+j_Rhand_G4jishen
+	rotate: false
+	xy: 895, 58
+	size: 48, 67
+	orig: 48, 67
+	offset: 0, 0
+	index: -1
+p_jian2_G4jishen
+	rotate: false
+	xy: 315, 338
+	size: 90, 63
+	orig: 90, 63
+	offset: 0, 0
+	index: -1
+m_body1_G4jishen
+	rotate: true
+	xy: 354, 873
+	size: 93, 79
+	orig: 93, 79
+	offset: 0, 0
+	index: -1
+r_Lforarm1_G4jishen
+	rotate: false
+	xy: 945, 0
+	size: 71, 47
+	orig: 71, 47
+	offset: 0, 0
+	index: -1
+q_Lforarm1_G4jishen
+	rotate: true
+	xy: 450, 402
+	size: 85, 62
+	orig: 85, 62
+	offset: 0, 0
+	index: -1
+c_Lthigh_G4jishen
+	rotate: false
+	xy: 847, 453
+	size: 62, 62
+	orig: 62, 62
+	offset: 0, 0
+	index: -1
+m_Lthigh1_G4jishen
+	rotate: true
+	xy: 945, 111
+	size: 58, 70
+	orig: 58, 70
+	offset: 0, 0
+	index: -1
+c_Rhand_G4jishen
+	rotate: true
+	xy: 847, 106
+	size: 51, 38
+	orig: 51, 38
+	offset: 0, 0
+	index: -1
+d_Rarm_G4jishen
+	rotate: false
+	xy: 598, 712
+	size: 72, 65
+	orig: 72, 65
+	offset: 0, 0
+	index: -1
+i_body2_G4jishen
+	rotate: false
+	xy: 115, 402
+	size: 122, 123
+	orig: 122, 123
+	offset: 0, 0
+	index: -1
+n_Rshoulder_G4jishen
+	rotate: false
+	xy: 308, 0
+	size: 78, 90
+	orig: 78, 90
+	offset: 0, 0
+	index: -1
+a_head2_G4jishen
+	rotate: false
+	xy: 330, 603
+	size: 41, 32
+	orig: 41, 32
+	offset: 0, 0
+	index: -1
+c_Lshin_G4jishen
+	rotate: false
+	xy: 691, 215
+	size: 67, 82
+	orig: 67, 82
+	offset: 0, 0
+	index: -1
+k_Rhand_G4jishen
+	rotate: false
+	xy: 606, 88
+	size: 48, 41
+	orig: 48, 41
+	offset: 0, 0
+	index: -1
+k_Rshoulder_G4jishen
+	rotate: true
+	xy: 574, 870
+	size: 78, 73
+	orig: 78, 73
+	offset: 0, 0
+	index: -1
+o_Rforearm_G4jishen
+	rotate: false
+	xy: 775, 853
+	size: 71, 73
+	orig: 71, 73
+	offset: 0, 0
+	index: -1
+r_Rarm_G4jishen
+	rotate: true
+	xy: 451, 726
+	size: 51, 64
+	orig: 51, 64
+	offset: 0, 0
+	index: -1
+e_Rforearm_G4jishen
+	rotate: false
+	xy: 759, 620
+	size: 70, 74
+	orig: 70, 74
+	offset: 0, 0
+	index: -1
+i_Lshoulder_G4jishen
+	rotate: true
+	xy: 399, 631
+	size: 94, 77
+	orig: 94, 77
+	offset: 0, 0
+	index: -1
+l_coxa1_G4jishen
+	rotate: true
+	xy: 456, 0
+	size: 89, 68
+	orig: 89, 68
+	offset: 0, 0
+	index: -1
+o_Rshoulder_G4jishen
+	rotate: false
+	xy: 496, 778
+	size: 78, 91
+	orig: 78, 91
+	offset: 0, 0
+	index: -1
+n_Rarm_G4jishen
+	rotate: true
+	xy: 547, 89
+	size: 41, 58
+	orig: 41, 58
+	offset: 0, 0
+	index: -1
+d_coxa1_G4jishen
+	rotate: false
+	xy: 413, 225
+	size: 79, 89
+	orig: 79, 89
+	offset: 0, 0
+	index: -1
+i_Rshin_G4jishen
+	rotate: false
+	xy: 494, 308
+	size: 71, 84
+	orig: 71, 84
+	offset: 0, 0
+	index: -1
+a_Rthigh1_G4jishen
+	rotate: false
+	xy: 814, 695
+	size: 55, 73
+	orig: 55, 73
+	offset: 0, 0
+	index: -1
+a_Lthigh_G4jishen
+	rotate: true
+	xy: 478, 90
+	size: 41, 68
+	orig: 41, 68
+	offset: 0, 0
+	index: -1
+f_Rshin1_G4jishen
+	rotate: false
+	xy: 740, 709
+	size: 73, 68
+	orig: 73, 68
+	offset: 0, 0
+	index: -1
+h_body1_G4jishen
+	rotate: true
+	xy: 127, 134
+	size: 103, 80
+	orig: 103, 80
+	offset: 0, 0
+	index: -1
+g_jian2_G4jishen
+	rotate: false
+	xy: 513, 393
+	size: 69, 84
+	orig: 69, 84
+	offset: 0, 0
+	index: -1
+b_Lthigh_G4jishen
+	rotate: false
+	xy: 730, 456
+	size: 61, 75
+	orig: 61, 75
+	offset: 0, 0
+	index: -1
+a_coxa1_G4jishen
+	rotate: false
+	xy: 239, 636
+	size: 77, 105
+	orig: 77, 105
+	offset: 0, 0
+	index: -1
+n_Rforearm_G4jishen
+	rotate: true
+	xy: 639, 130
+	size: 84, 59
+	orig: 84, 59
+	offset: 0, 0
+	index: -1
+h_coxa1_G4jishen
+	rotate: false
+	xy: 0, 916
+	size: 91, 106
+	orig: 91, 106
+	offset: 0, 0
+	index: -1
+r_Lforarm2_G4jishen
+	rotate: true
+	xy: 586, 561
+	size: 69, 48
+	orig: 69, 48
+	offset: 0, 0
+	index: -1
+m_Lshin_G4jishen
+	rotate: true
+	xy: 406, 316
+	size: 85, 87
+	orig: 85, 87
+	offset: 0, 0
+	index: -1
+f_Lforearm_G4jishen
+	rotate: false
+	xy: 696, 631
+	size: 62, 77
+	orig: 62, 77
+	offset: 0, 0
+	index: -1
+s_coxa1_G4jishen
+	rotate: false
+	xy: 92, 916
+	size: 91, 106
+	orig: 91, 106
+	offset: 0, 0
+	index: -1
+m_Lforarm1_G4jishen
+	rotate: true
+	xy: 576, 131
+	size: 84, 62
+	orig: 84, 62
+	offset: 0, 0
+	index: -1
+a_Lshoulder1_G4jishen
+	rotate: true
+	xy: 221, 341
+	size: 60, 93
+	orig: 60, 93
+	offset: 0, 0
+	index: -1
+a_body2_G4jishen
+	rotate: false
+	xy: 126, 660
+	size: 112, 119
+	orig: 112, 119
+	offset: 0, 0
+	index: -1
+c_head1_G4jishen
+	rotate: false
+	xy: 317, 636
+	size: 81, 97
+	orig: 81, 97
+	offset: 0, 0
+	index: -1
+k_Rarm_G4jishen
+	rotate: true
+	xy: 445, 966
+	size: 58, 72
+	orig: 58, 72
+	offset: 0, 0
+	index: -1
+b_Rshin1_G4jishen
+	rotate: false
+	xy: 416, 132
+	size: 75, 88
+	orig: 75, 88
+	offset: 0, 0
+	index: -1
+f_body2_G4jishen
+	rotate: false
+	xy: 108, 792
+	size: 114, 120
+	orig: 114, 120
+	offset: 0, 0
+	index: -1
+h_Rforearm_G4jishen
+	rotate: true
+	xy: 574, 949
+	size: 75, 73
+	orig: 75, 73
+	offset: 0, 0
+	index: -1
+p_Rarm_G4jishen
+	rotate: true
+	xy: 886, 126
+	size: 65, 58
+	orig: 65, 58
+	offset: 0, 0
+	index: -1
+m_Larm_G4jishen
+	rotate: false
+	xy: 832, 276
+	size: 52, 54
+	orig: 52, 54
+	offset: 0, 0
+	index: -1
+s_Lthigh_G4jishen
+	rotate: true
+	xy: 655, 88
+	size: 40, 68
+	orig: 40, 68
+	offset: 0, 0
+	index: -1
+h_Rshoulder_G4jishen
+	rotate: true
+	xy: 238, 402
+	size: 100, 69
+	orig: 100, 69
+	offset: 0, 0
+	index: -1
+s_Rarm2_G4jishen
+	rotate: false
+	xy: 740, 0
+	size: 59, 82
+	orig: 59, 82
+	offset: 0, 0
+	index: -1
+p_coxa1_G4jishen
+	rotate: true
+	xy: 634, 301
+	size: 82, 70
+	orig: 82, 70
+	offset: 0, 0
+	index: -1
+b_Rarm_G4jishen
+	rotate: false
+	xy: 288, 884
+	size: 65, 104
+	orig: 65, 104
+	offset: 0, 0
+	index: -1
+m_Lshoulder_G4jishen
+	rotate: false
+	xy: 338, 778
+	size: 78, 94
+	orig: 78, 94
+	offset: 0, 0
+	index: -1
+b_Rforearm2_G4jishen
+	rotate: true
+	xy: 575, 778
+	size: 78, 66
+	orig: 78, 66
+	offset: 0, 0
+	index: -1
+g_Rforearm_G4jishen
+	rotate: true
+	xy: 658, 384
+	size: 80, 61
+	orig: 80, 61
+	offset: 0, 0
+	index: -1
+h_Lhand_G4jishen
+	rotate: false
+	xy: 224, 91
+	size: 54, 42
+	orig: 54, 42
+	offset: 0, 0
+	index: -1
+b_coxa1_G4jishen
+	rotate: false
+	xy: 224, 0
+	size: 83, 90
+	orig: 83, 90
+	offset: 0, 0
+	index: -1
+g_Rarm_G4jishen
+	rotate: false
+	xy: 856, 387
+	size: 55, 56
+	orig: 55, 56
+	offset: 0, 0
+	index: -1
+a_Rshoulder_G4jishen
+	rotate: false
+	xy: 308, 402
+	size: 71, 99
+	orig: 71, 99
+	offset: 0, 0
+	index: -1
+a_Larm_G4jishen
+	rotate: true
+	xy: 332, 734
+	size: 43, 59
+	orig: 43, 59
+	offset: 0, 0
+	index: -1
+a_Rhand1_G4jishen
+	rotate: true
+	xy: 281, 603
+	size: 32, 48
+	orig: 32, 48
+	offset: 0, 0
+	index: -1
+a_Rshin_G4jishen
+	rotate: false
+	xy: 493, 220
+	size: 73, 87
+	orig: 73, 87
+	offset: 0, 0
+	index: -1
+d_Rhand1_G4jishen
+	rotate: false
+	xy: 323, 989
+	size: 40, 33
+	orig: 40, 33
+	offset: 0, 0
+	index: -1
+d_Rshoulder_G4jishen
+	rotate: true
+	xy: 265, 778
+	size: 105, 72
+	orig: 105, 72
+	offset: 0, 0
+	index: -1
+a_Lshoulder2_G4jishen
+	rotate: false
+	xy: 631, 216
+	size: 59, 84
+	orig: 59, 84
+	offset: 0, 0
+	index: -1
+s_Lhand_G4jishen
+	rotate: true
+	xy: 239, 742
+	size: 35, 52
+	orig: 35, 52
+	offset: 0, 0
+	index: -1
+a_Lhand1_G4jishen
+	rotate: true
+	xy: 279, 91
+	size: 42, 46
+	orig: 42, 46
+	offset: 0, 0
+	index: -1
+e_Lshoulder2_G4jishen
+	rotate: false
+	xy: 365, 134
+	size: 50, 90
+	orig: 50, 90
+	offset: 0, 0
+	index: -1
+a_coxa2_G4jishen
+	rotate: false
+	xy: 832, 331
+	size: 48, 55
+	orig: 48, 55
+	offset: 0, 0
+	index: -1
+e_head_G4jishen
+	rotate: true
+	xy: 870, 680
+	size: 71, 65
+	orig: 71, 65
+	offset: 0, 0
+	index: -1
+n_Lforearm_G4jishen
+	rotate: true
+	xy: 945, 170
+	size: 62, 68
+	orig: 62, 68
+	offset: 0, 0
+	index: -1
+e_Rarm_G4jishen
+	rotate: false
+	xy: 842, 531
+	size: 52, 72
+	orig: 52, 72
+	offset: 0, 0
+	index: -1
+a_Rfur_G4jishen
+	rotate: false
+	xy: 782, 532
+	size: 59, 74
+	orig: 59, 74
+	offset: 0, 0
+	index: -1
+f_Lthingh1_G4jishen
+	rotate: false
+	xy: 772, 298
+	size: 59, 68
+	orig: 59, 68
+	offset: 0, 0
+	index: -1
+s_body1_G4jishen
+	rotate: true
+	xy: 208, 134
+	size: 102, 81
+	orig: 102, 81
+	offset: 0, 0
+	index: -1
+m_Rshin1_G4jishen
+	rotate: false
+	xy: 387, 0
+	size: 68, 89
+	orig: 68, 89
+	offset: 0, 0
+	index: -1
+k_Lforearm_G4jishen
+	rotate: false
+	xy: 364, 967
+	size: 80, 57
+	orig: 80, 57
+	offset: 0, 0
+	index: -1
+q_Rforarm_G4jishen
+	rotate: true
+	xy: 945, 48
+	size: 62, 70
+	orig: 62, 70
+	offset: 0, 0
+	index: -1
+p_body2_G4jishen
+	rotate: false
+	xy: 0, 402
+	size: 114, 132
+	orig: 114, 132
+	offset: 0, 0
+	index: -1
+c_Rshoulder_G4jishen
+	rotate: false
+	xy: 208, 526
+	size: 72, 109
+	orig: 72, 109
+	offset: 0, 0
+	index: -1
+b_Lfoot_G4jishen
+	rotate: false
+	xy: 845, 769
+	size: 62, 72
+	orig: 62, 72
+	offset: 0, 0
+	index: -1
+j_Rforearm_G4jishen
+	rotate: false
+	xy: 525, 0
+	size: 64, 88
+	orig: 64, 88
+	offset: 0, 0
+	index: -1
+g_Rshoulder1_G4jishen
+	rotate: false
+	xy: 434, 872
+	size: 59, 93
+	orig: 59, 93
+	offset: 0, 0
+	index: -1
+i_body1_G4jishen
+	rotate: true
+	xy: 278, 237
+	size: 100, 78
+	orig: 100, 78
+	offset: 0, 0
+	index: -1
+f_Lhand2_G4jishen
+	rotate: false
+	xy: 370, 91
+	size: 38, 42
+	orig: 38, 42
+	offset: 0, 0
+	index: -1
+s_Rhand1_G4jishen
+	rotate: false
+	xy: 800, 0
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+b_head1_G4jishen
+	rotate: false
+	xy: 281, 503
+	size: 80, 99
+	orig: 80, 99
+	offset: 0, 0
+	index: -1
+m_Rshoulder_G4jishen
+	rotate: false
+	xy: 380, 402
+	size: 69, 95
+	orig: 69, 95
+	offset: 0, 0
+	index: -1
+q_Rhand1_G4jishen
+	rotate: true
+	xy: 292, 742
+	size: 35, 39
+	orig: 35, 39
+	offset: 0, 0
+	index: -1
+c_Lforearm_G4jishen
+	rotate: false
+	xy: 785, 778
+	size: 59, 73
+	orig: 59, 73
+	offset: 0, 0
+	index: -1
+b_Rfoot_G4jishen
+	rotate: true
+	xy: 713, 544
+	size: 75, 68
+	orig: 75, 68
+	offset: 0, 0
+	index: -1
+c_jian2_G4jishen
+	rotate: true
+	xy: 223, 780
+	size: 110, 41
+	orig: 110, 41
+	offset: 0, 0
+	index: -1
+a_Rhand2_G4jishen
+	rotate: true
+	xy: 372, 598
+	size: 32, 40
+	orig: 32, 40
+	offset: 0, 0
+	index: -1
+j_Lforarm_G4jishen
+	rotate: false
+	xy: 830, 607
+	size: 55, 72
+	orig: 55, 72
+	offset: 0, 0
+	index: -1
+a_Rarm2_G4jishen
+	rotate: false
+	xy: 699, 129
+	size: 59, 82
+	orig: 59, 82
+	offset: 0, 0
+	index: -1
+c_Lhand_G4jishen
+	rotate: false
+	xy: 326, 91
+	size: 43, 42
+	orig: 43, 42
+	offset: 0, 0
+	index: -1
+e_Rshoulder_G4jishen
+	rotate: true
+	xy: 492, 132
+	size: 87, 83
+	orig: 87, 83
+	offset: 0, 0
+	index: -1
+n_jian2_G4jishen
+	rotate: true
+	xy: 945, 233
+	size: 54, 67
+	orig: 54, 67
+	offset: 0, 0
+	index: -1
+a_body1_G4jishen
+	rotate: true
+	xy: 417, 778
+	size: 93, 78
+	orig: 93, 78
+	offset: 0, 0
+	index: -1
+i_Rarm_G4jishen
+	rotate: true
+	xy: 392, 734
+	size: 43, 58
+	orig: 43, 58
+	offset: 0, 0
+	index: -1
+c_head2_G4jishen
+	rotate: false
+	xy: 288, 989
+	size: 34, 35
+	orig: 34, 35
+	offset: 0, 0
+	index: -1
+q_Rshin_G4jishen
+	rotate: true
+	xy: 590, 0
+	size: 87, 78
+	orig: 87, 78
+	offset: 0, 0
+	index: -1
+h_Rarm_G4jishen
+	rotate: true
+	xy: 518, 964
+	size: 60, 55
+	orig: 60, 55
+	offset: 0, 0
+	index: -1
+i_Rfoot_G4jishen
+	rotate: false
+	xy: 451, 573
+	size: 71, 57
+	orig: 71, 57
+	offset: 0, 0
+	index: -1
+i_Lforearm_G4jishen
+	rotate: false
+	xy: 669, 0
+	size: 70, 83
+	orig: 70, 83
+	offset: 0, 0
+	index: -1
+q_body2_G4jishen
+	rotate: false
+	xy: 0, 792
+	size: 107, 123
+	orig: 107, 123
+	offset: 0, 0
+	index: -1
+f_Rshoulder1_G4jishen
+	rotate: true
+	xy: 127, 342
+	size: 59, 93
+	orig: 59, 93
+	offset: 0, 0
+	index: -1
+f_Lthingh_G4jishen
+	rotate: false
+	xy: 648, 932
+	size: 73, 74
+	orig: 73, 74
+	offset: 0, 0
+	index: -1
+q_Larm_G4jishen
+	rotate: true
+	xy: 895, 0
+	size: 57, 49
+	orig: 57, 49
+	offset: 0, 0
+	index: -1
+j_Rarm_G4jishen
+	rotate: true
+	xy: 847, 55
+	size: 50, 47
+	orig: 50, 47
+	offset: 0, 0
+	index: -1
+f_body1_G4jishen
+	rotate: false
+	xy: 123, 0
+	size: 100, 133
+	orig: 100, 133
+	offset: 0, 0
+	index: -1
+a_jian2_G4jishen
+	rotate: true
+	xy: 759, 233
+	size: 64, 59
+	orig: 64, 59
+	offset: 0, 0
+	index: -1
+p_Rthigh1_G4jishen
+	rotate: true
+	xy: 713, 778
+	size: 74, 71
+	orig: 74, 71
+	offset: 0, 0
+	index: -1
+p_Lshin1_G4jishen
+	rotate: false
+	xy: 635, 557
+	size: 77, 73
+	orig: 77, 73
+	offset: 0, 0
+	index: -1
+a_Rforearm1_G4jishen
+	rotate: false
+	xy: 705, 298
+	size: 66, 79
+	orig: 66, 79
+	offset: 0, 0
+	index: -1
+d_Rforearm_G4jishen
+	rotate: false
+	xy: 722, 931
+	size: 72, 73
+	orig: 72, 73
+	offset: 0, 0
+	index: -1
+s_Rfoot_G4jishen
+	rotate: true
+	xy: 886, 604
+	size: 71, 58
+	orig: 71, 58
+	offset: 0, 0
+	index: -1
+q_Lthingh_G4jishen
+	rotate: false
+	xy: 667, 465
+	size: 62, 78
+	orig: 62, 78
+	offset: 0, 0
+	index: -1
+c_Rthigh_G4jishen
+	rotate: false
+	xy: 945, 288
+	size: 66, 59
+	orig: 66, 59
+	offset: 0, 0
+	index: -1
+b_body1_G4jishen
+	rotate: false
+	xy: 0, 135
+	size: 126, 133
+	orig: 126, 133
+	offset: 0, 0
+	index: -1
+m_body2_G4jishen
+	rotate: false
+	xy: 0, 664
+	size: 125, 127
+	orig: 125, 127
+	offset: 0, 0
+	index: -1
+q_Lhand_G4jishen
+	rotate: true
+	xy: 847, 158
+	size: 51, 38
+	orig: 51, 38
+	offset: 0, 0
+	index: -1
+m_Rthigh_G4jishen
+	rotate: true
+	xy: 794, 83
+	size: 65, 52
+	orig: 65, 52
+	offset: 0, 0
+	index: -1
+s_jian2_G4jishen
+	rotate: true
+	xy: 357, 225
+	size: 90, 55
+	orig: 90, 55
+	offset: 0, 0
+	index: -1
+q_body1_G4jishen
+	rotate: false
+	xy: 0, 269
+	size: 126, 132
+	orig: 126, 132
+	offset: 0, 0
+	index: -1
+d_body2_G4jishen
+	rotate: false
+	xy: 101, 535
+	size: 106, 124
+	orig: 106, 124
+	offset: 0, 0
+	index: -1
+c_Larm_G4jishen
+	rotate: false
+	xy: 847, 0
+	size: 47, 54
+	orig: 47, 54
+	offset: 0, 0
+	index: -1
+p_Lfoot_G4jishen
+	rotate: true
+	xy: 648, 856
+	size: 75, 52
+	orig: 75, 52
+	offset: 0, 0
+	index: -1
+a_Rfoot_G4jishen
+	rotate: true
+	xy: 886, 255
+	size: 59, 58
+	orig: 59, 58
+	offset: 0, 0
+	index: -1
+a_Rarm_G4jishen
+	rotate: false
+	xy: 523, 561
+	size: 62, 69
+	orig: 62, 69
+	offset: 0, 0
+	index: -1
+h_Lforearm_G4jishen
+	rotate: true
+	xy: 583, 393
+	size: 82, 74
+	orig: 82, 74
+	offset: 0, 0
+	index: -1
+s_Rforarm_G4jishen
+	rotate: false
+	xy: 632, 631
+	size: 63, 78
+	orig: 63, 78
+	offset: 0, 0
+	index: -1
+q_Rfoot_G4jishen
+	rotate: false
+	xy: 794, 387
+	size: 61, 65
+	orig: 61, 65
+	offset: 0, 0
+	index: -1
+s_Rshoulder1_G4jishen
+	rotate: false
+	xy: 477, 631
+	size: 74, 81
+	orig: 74, 81
+	offset: 0, 0
+	index: -1
+d_Rshin_G4jishen
+	rotate: true
+	xy: 127, 238
+	size: 103, 66
+	orig: 103, 66
+	offset: 0, 0
+	index: -1
+p_body1_G4jishen
+	rotate: false
+	xy: 0, 535
+	size: 100, 128
+	orig: 100, 128
+	offset: 0, 0
+	index: -1
+m_Rhand2_G4jishen
+	rotate: false
+	xy: 413, 598
+	size: 30, 31
+	orig: 30, 31
+	offset: 0, 0
+	index: -1
+b_Rthigh_G4jishen
+	rotate: false
+	xy: 522, 478
+	size: 80, 82
+	orig: 80, 82
+	offset: 0, 0
+	index: -1
+s_Rshin_G4jishen
+	rotate: false
+	xy: 290, 134
+	size: 74, 90
+	orig: 74, 90
+	offset: 0, 0
+	index: -1
+p_Rshin2_G4jishen
+	rotate: false
+	xy: 794, 149
+	size: 52, 60
+	orig: 52, 60
+	offset: 0, 0
+	index: -1
+f_Lshoulder_G4jishen
+	rotate: false
+	xy: 194, 238
+	size: 83, 102
+	orig: 83, 102
+	offset: 0, 0
+	index: -1
+l_body1_G4jishen
+	rotate: false
+	xy: 184, 913
+	size: 103, 110
+	orig: 103, 110
+	offset: 0, 0
+	index: -1
+r_Rforarm_G4jishen
+	rotate: false
+	xy: 792, 456
+	size: 54, 74
+	orig: 54, 74
+	offset: 0, 0
+	index: -1
+k_Rforarm_G4jishen
+	rotate: true
+	xy: 603, 476
+	size: 80, 63
+	orig: 80, 63
+	offset: 0, 0
+	index: -1
+d_body1_G4jishen
+	rotate: false
+	xy: 0, 0
+	size: 122, 134
+	orig: 122, 134
+	offset: 0, 0
+	index: -1
+q_Lshin1_G4jishen
+	rotate: true
+	xy: 701, 856
+	size: 74, 73
+	orig: 74, 73
+	offset: 0, 0
+	index: -1
+b_Larm_G4jishen
+	rotate: true
+	xy: 671, 710
+	size: 67, 68
+	orig: 67, 68
+	offset: 0, 0
+	index: -1
+m_Lfoot_G4jishen
+	rotate: true
+	xy: 886, 192
+	size: 62, 58
+	orig: 62, 58
+	offset: 0, 0
+	index: -1
+l_Lshin1_G4jishen
+	rotate: true
+	xy: 642, 778
+	size: 77, 70
+	orig: 77, 70
+	offset: 0, 0
+	index: -1
+c_Rshin_G4jishen
+	rotate: false
+	xy: 362, 502
+	size: 88, 95
+	orig: 88, 95
+	offset: 0, 0
+	index: -1
+k_Lhand_G4jishen
+	rotate: true
+	xy: 724, 84
+	size: 40, 47
+	orig: 40, 47
+	offset: 0, 0
+	index: -1
+b_Rforearm1_G4jishen
+	rotate: false
+	xy: 885, 315
+	size: 59, 51
+	orig: 59, 51
+	offset: 0, 0
+	index: -1
+m_Rforarm_G4jishen
+	rotate: true
+	xy: 516, 713
+	size: 64, 81
+	orig: 64, 81
+	offset: 0, 0
+	index: -1
+c_Rforearm_G4jishen
+	rotate: true
+	xy: 566, 308
+	size: 84, 67
+	orig: 84, 67
+	offset: 0, 0
+	index: -1
+a_Lfur_G4jishen
+	rotate: true
+	xy: 409, 90
+	size: 41, 68
+	orig: 41, 68
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1

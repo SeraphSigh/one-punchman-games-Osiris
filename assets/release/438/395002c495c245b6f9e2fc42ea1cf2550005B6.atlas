@@ -1,0 +1,81 @@
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/geliuganxiupuSEATTACK0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/geliuganxiupu_huo_down_022
+	rotate: true
+	xy: 259, 322
+	size: 106, 68
+	orig: 122, 82
+	offset: 10, 14
+	index: -1
+attack/geliuganxiupu_huo_down_034
+	rotate: false
+	xy: 407, 431
+	size: 104, 68
+	orig: 122, 82
+	offset: 11, 14
+	index: -1
+attack/geliuganxiupu_juqi_001
+	rotate: true
+	xy: 170, 0
+	size: 144, 160
+	orig: 144, 160
+	offset: 0, 0
+	index: -1
+
+asset/anim/geliuganxiupuSEATTACK1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/geliuganxiupu_huo_down_025
+	rotate: false
+	xy: 369, 115
+	size: 106, 68
+	orig: 122, 82
+	offset: 10, 14
+	index: -1
+attack/geliuganxiupu_huo_down_031
+	rotate: false
+	xy: 108, 186
+	size: 106, 68
+	orig: 122, 82
+	offset: 10, 14
+	index: -1
+attack/geliuganxiupu_huo_down_037
+	rotate: false
+	xy: 0, 202
+	size: 104, 68
+	orig: 122, 82
+	offset: 11, 14
+	index: -1
+attack/geliuganxiupu_huo_down_028
+	rotate: false
+	xy: 233, 146
+	size: 106, 68
+	orig: 122, 82
+	offset: 10, 14
+	index: -1
+attack/geliuganxiupu_huo_down_019
+	rotate: false
+	xy: 340, 184
+	size: 104, 66
+	orig: 122, 82
+	offset: 12, 15
+	index: -1

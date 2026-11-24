@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>xuanququan2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			</array>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{126,46}</string>
+			<key>spriteSourceSize</key>
+			<string>{126,46}</string>
+			<key>textureRect</key>
+			<string>{{0,0},{126,46}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>pixelFormat</key>
+		<string>RGBA8888</string>
+		<key>premultiplyAlpha</key>
+		<false/>
+		<key>realTextureFileName</key>
+		<string>gongjiguanghuan.png</string>
+		<key>scale</key>
+		<real>0.93</real>
+		<key>size</key>
+		<string>{126,46}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:96d6b7323280f630c62a96c6758e0c1b:3c00a999ff2effe871138edff880dd14:02ba9ecc2cba7c7c0898142f44e6b899$</string>
+		<key>textureFileName</key>
+		<string>gongjiguanghuan.png</string>
+	</dict>
+</dict>
+</plist>

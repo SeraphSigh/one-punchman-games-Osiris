@@ -1,0 +1,570 @@
+
+asset/anim/lazhuxiaoguailan2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+i_shenti_lazhuxiaoguailan
+	rotate: false
+	xy: 435, 113
+	size: 56, 52
+	orig: 56, 52
+	offset: 0, 0
+	index: -1
+d_shenti_lazhuxiaoguailan
+	rotate: true
+	xy: 374, 60
+	size: 57, 58
+	orig: 57, 58
+	offset: 0, 0
+	index: -1
+i_zuoshou_lazhuxiaoguailan
+	rotate: true
+	xy: 200, 384
+	size: 48, 57
+	orig: 48, 57
+	offset: 0, 0
+	index: -1
+d_tou_lazhuxiaoguailan
+	rotate: false
+	xy: 202, 0
+	size: 75, 96
+	orig: 75, 96
+	offset: 0, 0
+	index: -1
+a_tou3_lazhuxiaoguailan
+	rotate: false
+	xy: 278, 0
+	size: 63, 96
+	orig: 63, 96
+	offset: 0, 0
+	index: -1
+z_shenti_lazhuxiaoguailan
+	rotate: true
+	xy: 202, 97
+	size: 46, 61
+	orig: 46, 61
+	offset: 0, 0
+	index: -1
+y_shenti_lazhuxiaoguailan
+	rotate: false
+	xy: 286, 429
+	size: 59, 62
+	orig: 59, 62
+	offset: 0, 0
+	index: -1
+l_shenti_lazhuxiaoguailan
+	rotate: true
+	xy: 95, 438
+	size: 64, 57
+	orig: 64, 57
+	offset: 0, 0
+	index: -1
+a_tou5_lazhuxiaoguailan
+	rotate: false
+	xy: 264, 287
+	size: 63, 96
+	orig: 63, 96
+	offset: 0, 0
+	index: -1
+m_shenti_lazhuxiaoguailan
+	rotate: true
+	xy: 264, 97
+	size: 46, 53
+	orig: 46, 53
+	offset: 0, 0
+	index: -1
+g_youshou_lazhuxiaoguailan
+	rotate: true
+	xy: 251, 433
+	size: 64, 34
+	orig: 64, 34
+	offset: 0, 0
+	index: -1
+o_tou_lazhuxiaoguailan
+	rotate: false
+	xy: 0, 438
+	size: 94, 73
+	orig: 94, 73
+	offset: 0, 0
+	index: -1
+lazhuguai_lanyan1_1
+	rotate: false
+	xy: 97, 145
+	size: 95, 144
+	orig: 125, 168
+	offset: 11, 2
+	index: -1
+l_tou_lazhuxiaoguailan
+	rotate: true
+	xy: 153, 433
+	size: 76, 97
+	orig: 76, 97
+	offset: 0, 0
+	index: -1
+g_shenti_lazhuxiaoguailan
+	rotate: false
+	xy: 318, 97
+	size: 54, 52
+	orig: 54, 52
+	offset: 0, 0
+	index: -1
+lazhuguai_lanyan1_10
+	rotate: false
+	xy: 100, 290
+	size: 99, 142
+	orig: 125, 168
+	offset: 10, 3
+	index: -1
+lazhuguai_lanyan1_13
+	rotate: false
+	xy: 0, 293
+	size: 99, 144
+	orig: 125, 168
+	offset: 7, 0
+	index: -1
+c_tou_lazhuxiaoguailan
+	rotate: false
+	xy: 346, 420
+	size: 88, 91
+	orig: 88, 91
+	offset: 0, 0
+	index: -1
+lazhuguai_lanyan1_15
+	rotate: false
+	xy: 0, 0
+	size: 95, 146
+	orig: 125, 168
+	offset: 6, 1
+	index: -1
+i_jiao_lazhuxiaoguailan
+	rotate: false
+	xy: 435, 53
+	size: 59, 59
+	orig: 59, 59
+	offset: 0, 0
+	index: -1
+n_shenti_lazhuxiaoguailan
+	rotate: true
+	xy: 374, 118
+	size: 51, 54
+	orig: 51, 54
+	offset: 0, 0
+	index: -1
+l_jiao_lazhuxiaoguailan
+	rotate: true
+	xy: 374, 0
+	size: 59, 60
+	orig: 59, 60
+	offset: 0, 0
+	index: -1
+lazhuguai_lanyan1_8
+	rotate: false
+	xy: 96, 0
+	size: 105, 144
+	orig: 125, 168
+	offset: 5, 4
+	index: -1
+c_youshou_lazhuxiaoguailan
+	rotate: true
+	xy: 322, 384
+	size: 35, 51
+	orig: 35, 51
+	offset: 0, 0
+	index: -1
+j_shenti_lazhuxiaoguailan
+	rotate: false
+	xy: 435, 0
+	size: 62, 52
+	orig: 62, 52
+	offset: 0, 0
+	index: -1
+w_shenti_lazhuxiaoguailan
+	rotate: false
+	xy: 258, 384
+	size: 63, 44
+	orig: 63, 44
+	offset: 0, 0
+	index: -1
+a_tou4_lazhuxiaoguailan
+	rotate: false
+	xy: 200, 287
+	size: 63, 96
+	orig: 63, 96
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+
+asset/anim/lazhuxiaoguailan0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z_kua_lazhuxiaoguailan
+	rotate: false
+	xy: 439, 475
+	size: 40, 25
+	orig: 40, 25
+	offset: 0, 0
+	index: -1
+e_youshou_lazhuxiaoguailan
+	rotate: true
+	xy: 0, 473
+	size: 34, 67
+	orig: 34, 67
+	offset: 0, 0
+	index: -1
+lazhuguai_lanyan1_7
+	rotate: false
+	xy: 107, 0
+	size: 107, 152
+	orig: 125, 168
+	offset: 5, 3
+	index: -1
+q_kua_lazhuxiaoguailan
+	rotate: false
+	xy: 404, 482
+	size: 34, 24
+	orig: 34, 24
+	offset: 0, 0
+	index: -1
+a_zuoshou_lazhuxiaoguailan
+	rotate: true
+	xy: 134, 473
+	size: 36, 58
+	orig: 36, 58
+	offset: 0, 0
+	index: -1
+k_zuobi_lazhuxiaoguailan
+	rotate: true
+	xy: 439, 501
+	size: 11, 19
+	orig: 11, 19
+	offset: 0, 0
+	index: -1
+m_jiao_lazhuxiaoguailan
+	rotate: true
+	xy: 483, 46
+	size: 37, 29
+	orig: 37, 29
+	offset: 0, 0
+	index: -1
+lazhuguai_lanyan1_5
+	rotate: true
+	xy: 322, 0
+	size: 97, 160
+	orig: 125, 168
+	offset: 12, 1
+	index: -1
+lazhuguai_lanyan1_4
+	rotate: false
+	xy: 200, 153
+	size: 93, 160
+	orig: 125, 168
+	offset: 15, 1
+	index: -1
+lazhuguai_lanyan1_6
+	rotate: false
+	xy: 0, 156
+	size: 105, 156
+	orig: 125, 168
+	offset: 7, 2
+	index: -1
+lazhuguai_lanyan1_3
+	rotate: false
+	xy: 106, 156
+	size: 93, 156
+	orig: 125, 168
+	offset: 16, 2
+	index: -1
+lazhuguai_lanyan1_2
+	rotate: true
+	xy: 285, 386
+	size: 95, 152
+	orig: 125, 168
+	offset: 15, 1
+	index: -1
+z_tou_lazhuxiaoguailan
+	rotate: false
+	xy: 438, 280
+	size: 61, 97
+	orig: 61, 97
+	offset: 0, 0
+	index: -1
+k_zuoshou_lazhuxiaoguailan
+	rotate: false
+	xy: 483, 0
+	size: 29, 45
+	orig: 29, 45
+	offset: 0, 0
+	index: -1
+e_zuoshou_lazhuxiaoguailan
+	rotate: true
+	xy: 230, 470
+	size: 40, 53
+	orig: 40, 53
+	offset: 0, 0
+	index: -1
+q_tou_lazhuxiaoguailan
+	rotate: true
+	xy: 438, 182
+	size: 97, 60
+	orig: 97, 60
+	offset: 0, 0
+	index: -1
+f_youshou_lazhuxiaoguailan
+	rotate: false
+	xy: 193, 470
+	size: 36, 42
+	orig: 36, 42
+	offset: 0, 0
+	index: -1
+gd_lazhuxiaoguaihuang
+	rotate: true
+	xy: 322, 98
+	size: 83, 170
+	orig: 109, 188
+	offset: 9, 0
+	index: -1
+a_youshou_lazhuxiaoguailan
+	rotate: true
+	xy: 68, 473
+	size: 35, 65
+	orig: 35, 65
+	offset: 0, 0
+	index: -1
+a_kua_lazhuxiaoguailan
+	rotate: false
+	xy: 362, 482
+	size: 41, 24
+	orig: 41, 24
+	offset: 0, 0
+	index: -1
+a_tou1_lazhuxiaoguailan
+	rotate: false
+	xy: 438, 378
+	size: 63, 96
+	orig: 63, 96
+	offset: 0, 0
+	index: -1
+l_youshou_lazhuxiaoguailan
+	rotate: true
+	xy: 284, 482
+	size: 30, 46
+	orig: 30, 46
+	offset: 0, 0
+	index: -1
+w_kua_lazhuxiaoguailan
+	rotate: false
+	xy: 331, 482
+	size: 30, 30
+	orig: 30, 30
+	offset: 0, 0
+	index: -1
+h_youbi_lazhuxiaoguailan
+	rotate: false
+	xy: 493, 84
+	size: 19, 21
+	orig: 19, 21
+	offset: 0, 0
+	index: -1
+
+asset/anim/lazhuxiaoguailan1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_tou2_lazhuxiaoguailan
+	rotate: false
+	xy: 444, 97
+	size: 64, 96
+	orig: 64, 96
+	offset: 0, 0
+	index: -1
+a_shenti_lazhuxiaoguailan
+	rotate: false
+	xy: 0, 456
+	size: 62, 56
+	orig: 62, 56
+	offset: 0, 0
+	index: -1
+g_kua_lazhuxiaoguailan
+	rotate: false
+	xy: 163, 485
+	size: 37, 27
+	orig: 37, 27
+	offset: 0, 0
+	index: -1
+g_tou_lazhuxiaoguailan
+	rotate: true
+	xy: 235, 399
+	size: 83, 86
+	orig: 83, 86
+	offset: 0, 0
+	index: -1
+m_tou_lazhuxiaoguailan
+	rotate: false
+	xy: 428, 199
+	size: 75, 102
+	orig: 75, 102
+	offset: 0, 0
+	index: -1
+e_tou_lazhuxiaoguailan
+	rotate: true
+	xy: 0, 393
+	size: 62, 95
+	orig: 62, 95
+	offset: 0, 0
+	index: -1
+y_tou2_lazhuxiaoguailan
+	rotate: false
+	xy: 445, 0
+	size: 67, 96
+	orig: 67, 96
+	offset: 0, 0
+	index: -1
+e_jiao_lazhuxiaoguailan
+	rotate: false
+	xy: 322, 399
+	size: 61, 62
+	orig: 61, 62
+	offset: 0, 0
+	index: -1
+lazhuguai_lanyan1_12
+	rotate: true
+	xy: 299, 97
+	size: 101, 144
+	orig: 125, 168
+	offset: 9, 0
+	index: -1
+lazhuguai_lanyan1_9
+	rotate: true
+	xy: 143, 197
+	size: 103, 142
+	orig: 125, 168
+	offset: 5, 4
+	index: -1
+a_jiao_lazhuxiaoguailan
+	rotate: false
+	xy: 443, 397
+	size: 60, 61
+	orig: 60, 61
+	offset: 0, 0
+	index: -1
+n_tou_lazhuxiaoguailan
+	rotate: false
+	xy: 141, 399
+	size: 93, 85
+	orig: 93, 85
+	offset: 0, 0
+	index: -1
+c_shenti_lazhuxiaoguailan
+	rotate: true
+	xy: 380, 463
+	size: 49, 58
+	orig: 49, 58
+	offset: 0, 0
+	index: -1
+e_kua_lazhuxiaoguailan
+	rotate: false
+	xy: 268, 483
+	size: 41, 24
+	orig: 41, 24
+	offset: 0, 0
+	index: -1
+lazhuguai_lanyan1_16
+	rotate: true
+	xy: 0, 196
+	size: 97, 142
+	orig: 125, 168
+	offset: 7, 1
+	index: -1
+a_youbi_lazhuxiaoguailan
+	rotate: false
+	xy: 201, 485
+	size: 31, 24
+	orig: 31, 24
+	offset: 0, 0
+	index: -1
+a_zuobi_lazhuxiaoguailan
+	rotate: false
+	xy: 235, 483
+	size: 32, 29
+	orig: 32, 29
+	offset: 0, 0
+	index: -1
+k_shenti_lazhuxiaoguailan
+	rotate: true
+	xy: 322, 462
+	size: 50, 57
+	orig: 50, 57
+	offset: 0, 0
+	index: -1
+p_tou_lazhuxiaoguailan
+	rotate: false
+	xy: 423, 302
+	size: 82, 94
+	orig: 82, 94
+	offset: 0, 0
+	index: -1
+g_jiao_lazhuxiaoguailan
+	rotate: false
+	xy: 63, 456
+	size: 58, 56
+	orig: 58, 56
+	offset: 0, 0
+	index: -1
+lazhuguai_lanyan1_11
+	rotate: true
+	xy: 142, 301
+	size: 97, 140
+	orig: 125, 168
+	offset: 12, 2
+	index: -1
+lazhuguai_lanyan1_14
+	rotate: true
+	xy: 152, 0
+	size: 97, 146
+	orig: 125, 168
+	offset: 6, 0
+	index: -1
+e_shenti_lazhuxiaoguailan
+	rotate: true
+	xy: 384, 399
+	size: 63, 58
+	orig: 63, 58
+	offset: 0, 0
+	index: -1
+q_shenti_lazhuxiaoguailan
+	rotate: true
+	xy: 96, 393
+	size: 59, 44
+	orig: 59, 44
+	offset: 0, 0
+	index: -1
+d_kua_lazhuxiaoguailan
+	rotate: false
+	xy: 122, 485
+	size: 40, 27
+	orig: 40, 27
+	offset: 0, 0
+	index: -1
+o_shenti_lazhuxiaoguailan
+	rotate: true
+	xy: 439, 463
+	size: 49, 58
+	orig: 49, 58
+	offset: 0, 0
+	index: -1

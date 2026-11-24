@@ -1,0 +1,1055 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+
+asset/anim/mosumiaoshou0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+o_Rshin_mosumiaoshou
+	rotate: false
+	xy: 0, 433
+	size: 51, 46
+	orig: 51, 46
+	offset: 0, 0
+	index: -1
+m_hatfm_moshumioashou
+	rotate: true
+	xy: 443, 430
+	size: 28, 30
+	orig: 28, 30
+	offset: 0, 0
+	index: -1
+n_eye_mosumiaoshou
+	rotate: false
+	xy: 967, 0
+	size: 57, 64
+	orig: 57, 64
+	offset: 0, 0
+	index: -1
+o_Lhand_mosumiaoshou
+	rotate: true
+	xy: 505, 463
+	size: 25, 27
+	orig: 25, 27
+	offset: 0, 0
+	index: -1
+h_Larm_mosumiaoshou
+	rotate: false
+	xy: 52, 434
+	size: 50, 24
+	orig: 50, 24
+	offset: 0, 0
+	index: -1
+m_eye_mosumiaoshou
+	rotate: false
+	xy: 830, 543
+	size: 68, 59
+	orig: 68, 59
+	offset: 0, 0
+	index: -1
+i_Rhand1_mosumiaoshou
+	rotate: false
+	xy: 125, 386
+	size: 38, 36
+	orig: 38, 36
+	offset: 0, 0
+	index: -1
+b_cloak1_bu_moshumiaoshou
+	rotate: false
+	xy: 929, 463
+	size: 28, 50
+	orig: 28, 50
+	offset: 0, 0
+	index: -1
+f_hat_mosumiaoshou
+	rotate: false
+	xy: 515, 283
+	size: 80, 104
+	orig: 80, 104
+	offset: 0, 0
+	index: -1
+e_Lforearm_mosumiaoshou
+	rotate: true
+	xy: 344, 405
+	size: 44, 37
+	orig: 44, 37
+	offset: 0, 0
+	index: -1
+j_Lhand_mosumiaoshou
+	rotate: false
+	xy: 533, 463
+	size: 26, 23
+	orig: 26, 23
+	offset: 0, 0
+	index: -1
+e_bodyfm_moshumioashou
+	rotate: true
+	xy: 164, 412
+	size: 22, 39
+	orig: 22, 39
+	offset: 0, 0
+	index: -1
+i_body2_mosumiaoshou
+	rotate: false
+	xy: 288, 472
+	size: 30, 19
+	orig: 30, 19
+	offset: 0, 0
+	index: -1
+e_hat_mosumiaoshou
+	rotate: true
+	xy: 409, 278
+	size: 95, 105
+	orig: 95, 105
+	offset: 0, 0
+	index: -1
+m_Rarm_mosumiaoshoubu
+	rotate: false
+	xy: 708, 136
+	size: 35, 56
+	orig: 35, 56
+	offset: 0, 0
+	index: -1
+a_Lshin_mosumiaoshou
+	rotate: true
+	xy: 108, 423
+	size: 49, 50
+	orig: 49, 50
+	offset: 0, 0
+	index: -1
+h_cloak1_mosumiaoshou
+	rotate: true
+	xy: 0, 538
+	size: 28, 37
+	orig: 28, 37
+	offset: 0, 0
+	index: -1
+k_Lfoot_mosumiaoshou
+	rotate: true
+	xy: 899, 594
+	size: 49, 26
+	orig: 49, 26
+	offset: 0, 0
+	index: -1
+p_hatfm_moshumioashou
+	rotate: false
+	xy: 471, 479
+	size: 27, 24
+	orig: 27, 24
+	offset: 0, 0
+	index: -1
+a_body_mosumiaoshou
+	rotate: true
+	xy: 295, 299
+	size: 76, 89
+	orig: 76, 89
+	offset: 0, 0
+	index: -1
+o_Rhand_mosumiaoshou
+	rotate: false
+	xy: 474, 453
+	size: 30, 25
+	orig: 30, 25
+	offset: 0, 0
+	index: -1
+d_Lforearm_mosumiaoshou
+	rotate: true
+	xy: 926, 616
+	size: 25, 31
+	orig: 25, 31
+	offset: 0, 0
+	index: -1
+d_hat_mosumiaoshou
+	rotate: true
+	xy: 409, 180
+	size: 97, 105
+	orig: 97, 105
+	offset: 0, 0
+	index: -1
+a_Rhand2_mosumiaoshou
+	rotate: true
+	xy: 560, 463
+	size: 23, 26
+	orig: 23, 26
+	offset: 0, 0
+	index: -1
+e_body_mosumiaoshou
+	rotate: true
+	xy: 204, 299
+	size: 68, 90
+	orig: 68, 90
+	offset: 0, 0
+	index: -1
+j_bodyfm_moshumioashou
+	rotate: false
+	xy: 387, 141
+	size: 21, 39
+	orig: 21, 39
+	offset: 0, 0
+	index: -1
+a_hat_mosumiaoshou
+	rotate: false
+	xy: 600, 136
+	size: 107, 88
+	orig: 107, 88
+	offset: 0, 0
+	index: -1
+k_Rfoot_mosumiaoshou
+	rotate: false
+	xy: 0, 508
+	size: 37, 29
+	orig: 37, 29
+	offset: 0, 0
+	index: -1
+a_eye_mosumiaoshou
+	rotate: true
+	xy: 945, 303
+	size: 23, 12
+	orig: 23, 12
+	offset: 0, 0
+	index: -1
+p_Rhand_mosumiaoshou
+	rotate: false
+	xy: 372, 470
+	size: 30, 22
+	orig: 30, 22
+	offset: 0, 0
+	index: -1
+e_cloak3_mosumiaoshou
+	rotate: false
+	xy: 958, 546
+	size: 64, 45
+	orig: 64, 45
+	offset: 0, 0
+	index: -1
+j_body_mosumiaoshou
+	rotate: true
+	xy: 744, 420
+	size: 71, 90
+	orig: 71, 90
+	offset: 0, 0
+	index: -1
+b_cloak4_mosumiaoshou
+	rotate: false
+	xy: 409, 0
+	size: 190, 179
+	orig: 190, 179
+	offset: 0, 0
+	index: -1
+m_Rthig_mosumiaoshoubu
+	rotate: true
+	xy: 409, 374
+	size: 34, 76
+	orig: 34, 76
+	offset: 0, 0
+	index: -1
+m_Rhand_mosumiaoshoubu
+	rotate: false
+	xy: 341, 450
+	size: 30, 23
+	orig: 30, 23
+	offset: 0, 0
+	index: -1
+o_body_mosumiaoshou
+	rotate: true
+	xy: 744, 109
+	size: 59, 108
+	orig: 59, 108
+	offset: 0, 0
+	index: -1
+e_cloak2_mosumiaoshou
+	rotate: false
+	xy: 708, 193
+	size: 35, 52
+	orig: 35, 52
+	offset: 0, 0
+	index: -1
+a_bodyfm_moshumioashou
+	rotate: true
+	xy: 245, 459
+	size: 23, 42
+	orig: 23, 42
+	offset: 0, 0
+	index: -1
+c_Rhand2_mosumiaoshou
+	rotate: false
+	xy: 499, 489
+	size: 24, 20
+	orig: 24, 20
+	offset: 0, 0
+	index: -1
+o_cloak4_mosumiaoshou
+	rotate: false
+	xy: 744, 0
+	size: 112, 108
+	orig: 112, 108
+	offset: 0, 0
+	index: -1
+a_cloak3_mosumiaoshou
+	rotate: false
+	xy: 743, 525
+	size: 69, 49
+	orig: 69, 49
+	offset: 0, 0
+	index: -1
+l_Rhand1_mosumiaoshou
+	rotate: false
+	xy: 340, 474
+	size: 29, 23
+	orig: 29, 23
+	offset: 0, 0
+	index: -1
+m_Larm_mosumiaoshoubu
+	rotate: true
+	xy: 700, 508
+	size: 47, 42
+	orig: 47, 42
+	offset: 0, 0
+	index: -1
+c_Rshin_mosumiaoshou
+	rotate: false
+	xy: 929, 410
+	size: 28, 52
+	orig: 28, 52
+	offset: 0, 0
+	index: -1
+l_Rshoulder_mosumiaoshou
+	rotate: true
+	xy: 663, 460
+	size: 55, 36
+	orig: 55, 36
+	offset: 0, 0
+	index: -1
+k_Rhand1_mosumiaoshou
+	rotate: false
+	xy: 440, 459
+	size: 30, 24
+	orig: 30, 24
+	offset: 0, 0
+	index: -1
+h_bodyfm_moshumioashou
+	rotate: false
+	xy: 180, 477
+	size: 20, 35
+	orig: 20, 35
+	offset: 0, 0
+	index: -1
+m_coxa_mosumiaoshoubu
+	rotate: true
+	xy: 126, 336
+	size: 49, 37
+	orig: 49, 37
+	offset: 0, 0
+	index: -1
+o_Rfoot_mosumiaoshou
+	rotate: false
+	xy: 0, 480
+	size: 49, 27
+	orig: 49, 27
+	offset: 0, 0
+	index: -1
+a_Rshoulder_mosumiaoshou
+	rotate: true
+	xy: 666, 392
+	size: 67, 33
+	orig: 67, 33
+	offset: 0, 0
+	index: -1
+c_bodyfm_moshumioashou
+	rotate: false
+	xy: 940, 347
+	size: 17, 46
+	orig: 17, 46
+	offset: 0, 0
+	index: -1
+a_Rthigh_mosumiaoshou
+	rotate: false
+	xy: 0, 382
+	size: 54, 50
+	orig: 54, 50
+	offset: 0, 0
+	index: -1
+c_body_mosumiaoshou
+	rotate: true
+	xy: 837, 402
+	size: 68, 91
+	orig: 68, 91
+	offset: 0, 0
+	index: -1
+l_Rforearm_mosumiaoshou
+	rotate: false
+	xy: 295, 418
+	size: 47, 28
+	orig: 47, 28
+	offset: 0, 0
+	index: -1
+o_bodyfm_moshumioashou
+	rotate: true
+	xy: 443, 409
+	size: 20, 32
+	orig: 20, 32
+	offset: 0, 0
+	index: -1
+c_hat_mosumiaoshou
+	rotate: false
+	xy: 744, 169
+	size: 106, 97
+	orig: 106, 97
+	offset: 0, 0
+	index: -1
+b_Lforearm_mosumiaoshou
+	rotate: true
+	xy: 164, 267
+	size: 32, 39
+	orig: 32, 39
+	offset: 0, 0
+	index: -1
+b_body2_mosumiaoshou
+	rotate: true
+	xy: 387, 218
+	size: 31, 21
+	orig: 31, 21
+	offset: 0, 0
+	index: -1
+a_head_mosumiaoshou
+	rotate: false
+	xy: 958, 474
+	size: 64, 71
+	orig: 64, 71
+	offset: 0, 0
+	index: -1
+i_bodyfm_moshumioashou
+	rotate: true
+	xy: 295, 447
+	size: 24, 45
+	orig: 24, 45
+	offset: 0, 0
+	index: -1
+b_Lhand_mosumiaoshou
+	rotate: true
+	xy: 164, 300
+	size: 29, 39
+	orig: 29, 39
+	offset: 0, 0
+	index: -1
+h_Lhand2_mosumiaoshou
+	rotate: true
+	xy: 491, 510
+	size: 19, 20
+	orig: 19, 20
+	offset: 0, 0
+	index: -1
+l_body_mosumiaoshou
+	rotate: true
+	xy: 845, 347
+	size: 54, 94
+	orig: 54, 94
+	offset: 0, 0
+	index: -1
+k_Rforearm_mosumiaoshou
+	rotate: true
+	xy: 385, 356
+	size: 50, 23
+	orig: 50, 23
+	offset: 0, 0
+	index: -1
+p_hat_mosumiaoshou
+	rotate: false
+	xy: 857, 0
+	size: 109, 82
+	orig: 109, 82
+	offset: 0, 0
+	index: -1
+m_Rfoot_mosumiaoshoubu
+	rotate: false
+	xy: 382, 444
+	size: 26, 25
+	orig: 26, 25
+	offset: 0, 0
+	index: -1
+h_Lsoulder_mosumiaoshou
+	rotate: false
+	xy: 958, 206
+	size: 66, 24
+	orig: 66, 24
+	offset: 0, 0
+	index: -1
+a_Larm_mosumiaoshou
+	rotate: true
+	xy: 164, 181
+	size: 49, 39
+	orig: 49, 39
+	offset: 0, 0
+	index: -1
+a_body2_mosumiaoshou
+	rotate: false
+	xy: 387, 281
+	size: 21, 22
+	orig: 21, 22
+	offset: 0, 0
+	index: -1
+h_Lfoot_mosumiaoshou
+	rotate: false
+	xy: 476, 424
+	size: 30, 28
+	orig: 30, 28
+	offset: 0, 0
+	index: -1
+j_Rforearm_mosumiaoshou
+	rotate: false
+	xy: 202, 447
+	size: 42, 35
+	orig: 42, 35
+	offset: 0, 0
+	index: -1
+a_Rshin_mosumiaoshou
+	rotate: true
+	xy: 55, 401
+	size: 32, 52
+	orig: 32, 52
+	offset: 0, 0
+	index: -1
+a_Rhand1_mosumiaoshou
+	rotate: true
+	xy: 533, 487
+	size: 19, 26
+	orig: 19, 26
+	offset: 0, 0
+	index: -1
+m_hat_mosumiaoshou
+	rotate: true
+	xy: 857, 83
+	size: 97, 108
+	orig: 97, 108
+	offset: 0, 0
+	index: -1
+o_Rthigh_mosumiaoshou
+	rotate: true
+	xy: 744, 492
+	size: 32, 71
+	orig: 32, 71
+	offset: 0, 0
+	index: -1
+m_Lforearm_mosumiaoshoubu
+	rotate: true
+	xy: 700, 457
+	size: 26, 43
+	orig: 26, 43
+	offset: 0, 0
+	index: -1
+h_body_mosumiaoshou
+	rotate: true
+	xy: 845, 275
+	size: 71, 99
+	orig: 71, 99
+	offset: 0, 0
+	index: -1
+a_Rfoot_mosumiaoshou
+	rotate: true
+	xy: 926, 642
+	size: 44, 30
+	orig: 44, 30
+	offset: 0, 0
+	index: -1
+c_Lhand_mosumiaoshou
+	rotate: true
+	xy: 164, 231
+	size: 35, 39
+	orig: 35, 39
+	offset: 0, 0
+	index: -1
+c_Rhand1_mosumiaoshou
+	rotate: true
+	xy: 319, 472
+	size: 24, 20
+	orig: 24, 20
+	offset: 0, 0
+	index: -1
+k_Rarm_mosumiaoshou
+	rotate: false
+	xy: 958, 630
+	size: 59, 27
+	orig: 59, 27
+	offset: 0, 0
+	index: -1
+b_cloak2_bu2_moshumiaoshou
+	rotate: true
+	xy: 702, 246
+	size: 80, 41
+	orig: 80, 41
+	offset: 0, 0
+	index: -1
+h_Lthigh_mosumiaoshou
+	rotate: true
+	xy: 515, 421
+	size: 41, 73
+	orig: 41, 73
+	offset: 0, 0
+	index: -1
+m_Lshin_mosumiaoshoubu
+	rotate: false
+	xy: 926, 514
+	size: 31, 63
+	orig: 31, 63
+	offset: 0, 0
+	index: -1
+l_cloak1_mosumiaoshou
+	rotate: false
+	xy: 68, 336
+	size: 57, 34
+	orig: 57, 34
+	offset: 0, 0
+	index: -1
+e_body2_mosumiaoshou
+	rotate: false
+	xy: 524, 507
+	size: 22, 19
+	orig: 22, 19
+	offset: 0, 0
+	index: -1
+h_Lhand1_mosumiaoshou
+	rotate: true
+	xy: 813, 545
+	size: 19, 13
+	orig: 19, 13
+	offset: 0, 0
+	index: -1
+p_bodyfm_moshumioashou
+	rotate: true
+	xy: 204, 421
+	size: 25, 44
+	orig: 25, 44
+	offset: 0, 0
+	index: -1
+m_Rshin_mosumiaoshoubu
+	rotate: true
+	xy: 958, 415
+	size: 30, 65
+	orig: 30, 65
+	offset: 0, 0
+	index: -1
+l_bodyfm_moshumioashou
+	rotate: false
+	xy: 387, 181
+	size: 21, 36
+	orig: 21, 36
+	offset: 0, 0
+	index: -1
+a_hit_mosumiaoshou
+	rotate: true
+	xy: 409, 442
+	size: 26, 30
+	orig: 26, 30
+	offset: 0, 0
+	index: -1
+j_body2_mosumiaoshou
+	rotate: true
+	xy: 387, 250
+	size: 30, 21
+	orig: 30, 21
+	offset: 0, 0
+	index: -1
+p_head_mosumiaoshou
+	rotate: true
+	xy: 700, 327
+	size: 61, 43
+	orig: 61, 43
+	offset: 0, 0
+	index: -1
+h_coxa_mosumiaoshou
+	rotate: true
+	xy: 486, 374
+	size: 49, 28
+	orig: 49, 28
+	offset: 0, 0
+	index: -1
+h_Rshoulder_mosumiaoshou
+	rotate: false
+	xy: 295, 376
+	size: 48, 41
+	orig: 48, 41
+	offset: 0, 0
+	index: -1
+a_coxa_mosumiaoshou
+	rotate: false
+	xy: 958, 378
+	size: 65, 36
+	orig: 65, 36
+	offset: 0, 0
+	index: -1
+m_Lhand_mosumiaoshoubu
+	rotate: true
+	xy: 92, 509
+	size: 25, 34
+	orig: 25, 34
+	offset: 0, 0
+	index: -1
+a_cloak4_mosumiaoshou
+	rotate: false
+	xy: 205, 0
+	size: 203, 140
+	orig: 203, 140
+	offset: 0, 0
+	index: -1
+b_hat_mosumiaoshou
+	rotate: false
+	xy: 851, 181
+	size: 106, 93
+	orig: 106, 93
+	offset: 0, 0
+	index: -1
+a_Rarm_mosumiaoshou
+	rotate: false
+	xy: 52, 459
+	size: 49, 44
+	orig: 49, 44
+	offset: 0, 0
+	index: -1
+b_hatfm_moshumioashou
+	rotate: false
+	xy: 409, 469
+	size: 30, 23
+	orig: 30, 23
+	offset: 0, 0
+	index: -1
+b_body_mosumiaoshou
+	rotate: true
+	xy: 596, 316
+	size: 75, 103
+	orig: 75, 103
+	offset: 0, 0
+	index: -1
+h_Lforearm_mosumiaoshou
+	rotate: true
+	xy: 385, 304
+	size: 51, 23
+	orig: 51, 23
+	offset: 0, 0
+	index: -1
+m_Lthigh_mosumiaoshoubu
+	rotate: true
+	xy: 589, 460
+	size: 36, 73
+	orig: 36, 73
+	offset: 0, 0
+	index: -1
+a_Lhand_mosumiaoshou
+	rotate: false
+	xy: 164, 358
+	size: 39, 26
+	orig: 39, 26
+	offset: 0, 0
+	index: -1
+p_body_mosumiaoshou
+	rotate: true
+	xy: 744, 267
+	size: 80, 100
+	orig: 80, 100
+	offset: 0, 0
+	index: -1
+c_hatfm_moshumioashou
+	rotate: true
+	xy: 945, 275
+	size: 27, 12
+	orig: 27, 12
+	offset: 0, 0
+	index: -1
+a_Lfoot_mosumiaoshou
+	rotate: false
+	xy: 164, 330
+	size: 39, 27
+	orig: 39, 27
+	offset: 0, 0
+	index: -1
+h_cloak2_mosumiaoshou
+	rotate: false
+	xy: 159, 435
+	size: 42, 41
+	orig: 42, 41
+	offset: 0, 0
+	index: -1
+a_Lforearm_mosumiaoshou
+	rotate: false
+	xy: 382, 407
+	size: 26, 36
+	orig: 26, 36
+	offset: 0, 0
+	index: -1
+o_body2_mosumiaoshou
+	rotate: false
+	xy: 940, 394
+	size: 15, 15
+	orig: 15, 15
+	offset: 0, 0
+	index: -1
+k_Lshin_mosumiaoshou
+	rotate: true
+	xy: 68, 371
+	size: 29, 56
+	orig: 29, 56
+	offset: 0, 0
+	index: -1
+k_body_mosumiaoshou
+	rotate: true
+	xy: 835, 471
+	size: 71, 90
+	orig: 71, 90
+	offset: 0, 0
+	index: -1
+e_cloak1_bu1_moshumiaoshou
+	rotate: false
+	xy: 258, 368
+	size: 36, 45
+	orig: 36, 45
+	offset: 0, 0
+	index: -1
+e_eye_mosumiaoshou
+	rotate: false
+	xy: 958, 231
+	size: 65, 75
+	orig: 65, 75
+	offset: 0, 0
+	index: -1
+c_Larm_mosumiaoshou
+	rotate: true
+	xy: 926, 578
+	size: 37, 31
+	orig: 37, 31
+	offset: 0, 0
+	index: -1
+l_cloak4_moshumiaoshou12
+	rotate: true
+	xy: 600, 0
+	size: 135, 143
+	orig: 135, 143
+	offset: 0, 0
+	index: -1
+g_hat_mosumiaoshou
+	rotate: true
+	xy: 597, 225
+	size: 90, 104
+	orig: 90, 104
+	offset: 0, 0
+	index: -1
+k_Rshin_mosumiaoshou
+	rotate: true
+	xy: 204, 368
+	size: 52, 53
+	orig: 52, 53
+	offset: 0, 0
+	index: -1
+a_hatfm_moshumioashou
+	rotate: true
+	xy: 409, 409
+	size: 32, 33
+	orig: 32, 33
+	offset: 0, 0
+	index: -1
+a_cloak2_mosumiaoshou
+	rotate: false
+	xy: 127, 511
+	size: 34, 23
+	orig: 34, 23
+	offset: 0, 0
+	index: -1
+c_Lforearm_mosumiaoshou
+	rotate: true
+	xy: 700, 389
+	size: 34, 43
+	orig: 34, 43
+	offset: 0, 0
+	index: -1
+c_Lsoulder_mosumiaoshou
+	rotate: true
+	xy: 966, 128
+	size: 77, 58
+	orig: 77, 58
+	offset: 0, 0
+	index: -1
+a_ribbon_mosumiaoshou
+	rotate: false
+	xy: 440, 484
+	size: 26, 23
+	orig: 26, 23
+	offset: 0, 0
+	index: -1
+dg_moshumiaoshou
+	rotate: true
+	xy: 205, 141
+	size: 157, 181
+	orig: 185, 181
+	offset: 0, 0
+	index: -1
+j_Lforearm_mosumiaoshou
+	rotate: false
+	xy: 144, 477
+	size: 35, 33
+	orig: 35, 33
+	offset: 0, 0
+	index: -1
+i_body_mosumiaoshou
+	rotate: true
+	xy: 744, 348
+	size: 71, 92
+	orig: 71, 92
+	offset: 0, 0
+	index: -1
+a_Lthigh_mosumiaoshou
+	rotate: false
+	xy: 957, 658
+	size: 67, 48
+	orig: 67, 48
+	offset: 0, 0
+	index: -1
+a_cloak1_mosumiaoshou
+	rotate: true
+	xy: 700, 424
+	size: 32, 43
+	orig: 32, 43
+	offset: 0, 0
+	index: -1
+k_cloak4_mosumiaoshou
+	rotate: false
+	xy: 0, 0
+	size: 204, 180
+	orig: 204, 180
+	offset: 0, 0
+	index: -1
+h_eye_mosumiaoshou
+	rotate: true
+	xy: 591, 392
+	size: 67, 74
+	orig: 67, 74
+	offset: 0, 0
+	index: -1
+e_Larm_mosumiaoshou
+	rotate: false
+	xy: 899, 543
+	size: 26, 50
+	orig: 26, 50
+	offset: 0, 0
+	index: -1
+a_Lsoulder_mosumiaoshou
+	rotate: false
+	xy: 700, 484
+	size: 43, 23
+	orig: 43, 23
+	offset: 0, 0
+	index: -1
+b_bodyfm_moshumioashou
+	rotate: true
+	xy: 164, 385
+	size: 26, 39
+	orig: 26, 39
+	offset: 0, 0
+	index: -1
+h_body2_mosumiaoshou
+	rotate: true
+	xy: 816, 492
+	size: 28, 18
+	orig: 28, 18
+	offset: 0, 0
+	index: -1
+h_Rthigh_mosumiaoshou
+	rotate: true
+	xy: 515, 388
+	size: 32, 75
+	orig: 32, 75
+	offset: 0, 0
+	index: -1
+h_Lshin_mosumiaoshou
+	rotate: true
+	xy: 958, 592
+	size: 37, 64
+	orig: 37, 64
+	offset: 0, 0
+	index: -1
+m_Rforearm_mosumiaoshoubu
+	rotate: false
+	xy: 102, 473
+	size: 41, 35
+	orig: 41, 35
+	offset: 0, 0
+	index: -1
+h_Rfoot_mosumiaoshou
+	rotate: false
+	xy: 467, 504
+	size: 23, 23
+	orig: 23, 23
+	offset: 0, 0
+	index: -1
+biyan_bu_mosumioashou
+	rotate: false
+	xy: 945, 327
+	size: 12, 13
+	orig: 12, 13
+	offset: 0, 0
+	index: -1
+a_Rforearm_mosumiaoshou
+	rotate: true
+	xy: 50, 504
+	size: 35, 41
+	orig: 35, 41
+	offset: 0, 0
+	index: -1
+e_Lsoulder_mosumiaoshou
+	rotate: true
+	xy: 958, 307
+	size: 70, 65
+	orig: 70, 65
+	offset: 0, 0
+	index: -1
+a_stick1_mosumiaoshou
+	rotate: true
+	xy: 515, 180
+	size: 102, 81
+	orig: 102, 81
+	offset: 0, 0
+	index: -1
+h_Rshin_mosumiaoshou
+	rotate: true
+	xy: 958, 446
+	size: 27, 65
+	orig: 27, 65
+	offset: 0, 0
+	index: -1
+o_Rshoulder_mosumiaoshou
+	rotate: true
+	xy: 0, 181
+	size: 154, 163
+	orig: 154, 163
+	offset: 0, 0
+	index: -1
+m_Lfoot_mosumiaoshoubu
+	rotate: false
+	xy: 344, 376
+	size: 38, 28
+	orig: 38, 28
+	offset: 0, 0
+	index: -1
+o_eye_mosumiaoshou
+	rotate: false
+	xy: 967, 65
+	size: 57, 62
+	orig: 57, 62
+	offset: 0, 0
+	index: -1
+o_cloak1_mosumiaoshou
+	rotate: false
+	xy: 0, 336
+	size: 67, 45
+	orig: 67, 45
+	offset: 0, 0
+	index: -1

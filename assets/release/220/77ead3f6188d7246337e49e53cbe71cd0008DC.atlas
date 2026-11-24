@@ -1,0 +1,144 @@
+
+asset/anim/zhushijuehaibao32.png
+size: 1019,930
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuobi1_kinghaibao3
+	rotate: true
+	xy: 967, 615
+	size: 47, 48
+	orig: 47, 48
+	offset: 0, 0
+	index: -1
+youbi2_kinghaibao3
+	rotate: false
+	xy: 547, 871
+	size: 44, 59
+	orig: 44, 59
+	offset: 0, 0
+	index: -1
+maoling_kinghaibao3
+	rotate: false
+	xy: 896, 661
+	size: 59, 43
+	orig: 59, 43
+	offset: 0, 0
+	index: -1
+zuohsou_kinghaibao3
+	rotate: false
+	xy: 834, 619
+	size: 61, 86
+	orig: 61, 86
+	offset: 0, 0
+	index: -1
+youtui_kinghaibao3
+	rotate: true
+	xy: 431, 656
+	size: 87, 171
+	orig: 87, 171
+	offset: 0, 0
+	index: -1
+gu_kinghaibao3
+	rotate: false
+	xy: 598, 106
+	size: 255, 159
+	orig: 255, 159
+	offset: 0, 0
+	index: -1
+youshou_kinghaibao3
+	rotate: false
+	xy: 798, 872
+	size: 75, 58
+	orig: 75, 58
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushijuehaibao30.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youbi_kinghaibao3
+	rotate: true
+	xy: 129, 596
+	size: 23, 50
+	orig: 23, 50
+	offset: 0, 0
+	index: -1
+yifu_kinghaibao3
+	rotate: false
+	xy: 742, 364
+	size: 32, 119
+	orig: 32, 119
+	offset: 0, 0
+	index: -1
+tou_kinghaibao3
+	rotate: false
+	xy: 277, 606
+	size: 28, 42
+	orig: 28, 42
+	offset: 0, 0
+	index: -1
+yifu2_kinghaibao3
+	rotate: true
+	xy: 323, 606
+	size: 41, 121
+	orig: 41, 121
+	offset: 0, 0
+	index: -1
+youshousui_kinghaibao3
+	rotate: true
+	xy: 740, 677
+	size: 44, 34
+	orig: 44, 34
+	offset: 0, 0
+	index: -1
+zuoshousui_kinghaibao3
+	rotate: true
+	xy: 970, 979
+	size: 17, 54
+	orig: 17, 54
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushijuehaibao31.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuzi_kinghaibao3
+	rotate: true
+	xy: 944, 968
+	size: 55, 47
+	orig: 55, 47
+	offset: 0, 0
+	index: -1
+zuobi_kinghaibao3
+	rotate: true
+	xy: 383, 989
+	size: 29, 43
+	orig: 29, 43
+	offset: 0, 0
+	index: -1
+zuotui_kinghaibao3
+	rotate: false
+	xy: 803, 713
+	size: 105, 148
+	orig: 105, 148
+	offset: 0, 0
+	index: -1
+toufa_kinghaibao3
+	rotate: true
+	xy: 585, 986
+	size: 38, 19
+	orig: 38, 19
+	offset: 0, 0
+	index: -1
+neiyi_kinghaibao3
+	rotate: true
+	xy: 917, 223
+	size: 73, 107
+	orig: 73, 107
+	offset: 0, 0
+	index: -1

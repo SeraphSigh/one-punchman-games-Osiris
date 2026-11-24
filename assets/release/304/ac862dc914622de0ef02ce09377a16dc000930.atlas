@@ -1,0 +1,145 @@
+
+asset/anim/hudiedxkapai1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Rdatui_hudieDXkapai
+	rotate: false
+	xy: 0, 0
+	size: 159, 582
+	orig: 159, 582
+	offset: 0, 0
+	index: -1
+
+asset/anim/hudiedxkapai0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Rchujiao_hudieDXkapai
+	rotate: true
+	xy: 765, 524
+	size: 51, 149
+	orig: 51, 149
+	offset: 0, 0
+	index: -1
+a_Lshou_hudieDXkapai
+	rotate: true
+	xy: 932, 348
+	size: 78, 69
+	orig: 78, 69
+	offset: 0, 0
+	index: -1
+a_Lxiaobi_hudieDXkapai
+	rotate: true
+	xy: 164, 881
+	size: 60, 153
+	orig: 60, 153
+	offset: 0, 0
+	index: -1
+a_Rshou_hudieDXkapai
+	rotate: false
+	xy: 954, 427
+	size: 66, 78
+	orig: 66, 78
+	offset: 0, 0
+	index: -1
+a_Ldatui_hudieDXkapai
+	rotate: true
+	xy: 0, 602
+	size: 278, 614
+	orig: 278, 614
+	offset: 0, 0
+	index: -1
+a_Rchibang2_hudieDXkapai
+	rotate: false
+	xy: 909, 576
+	size: 100, 263
+	orig: 100, 263
+	offset: 0, 0
+	index: -1
+a_kua_hudieDXkapai
+	rotate: true
+	xy: 909, 840
+	size: 174, 104
+	orig: 174, 104
+	offset: 0, 0
+	index: -1
+a_Rxiaobi_hudieDXkapai
+	rotate: false
+	xy: 457, 881
+	size: 127, 104
+	orig: 127, 104
+	offset: 0, 0
+	index: -1
+a_Ldabi_hudieDXkapai
+	rotate: true
+	xy: 765, 348
+	size: 121, 166
+	orig: 121, 166
+	offset: 0, 0
+	index: -1
+a_Rdabi_hudieDXkapai
+	rotate: true
+	xy: 765, 470
+	size: 53, 188
+	orig: 53, 188
+	offset: 0, 0
+	index: -1
+a_shenti_hudieDXkapai
+	rotate: false
+	xy: 765, 0
+	size: 225, 347
+	orig: 225, 347
+	offset: 0, 0
+	index: -1
+a_Lchibang2_hudieDXkapai
+	rotate: false
+	xy: 615, 580
+	size: 293, 336
+	orig: 293, 336
+	offset: 0, 0
+	index: -1
+a_Lyanpi_hudieDXkapai
+	rotate: false
+	xy: 497, 580
+	size: 28, 16
+	orig: 30, 18
+	offset: 1, 1
+	index: -1
+a_Lchibang1_hudieDXkapai
+	rotate: false
+	xy: 0, 0
+	size: 496, 601
+	orig: 496, 601
+	offset: 0, 0
+	index: -1
+a_Lchujiao_hudieDXkapai
+	rotate: true
+	xy: 318, 881
+	size: 72, 138
+	orig: 72, 138
+	offset: 0, 0
+	index: -1
+a_Rchibang1_hudieDXkapai
+	rotate: false
+	xy: 497, 0
+	size: 267, 579
+	orig: 267, 579
+	offset: 0, 0
+	index: -1
+a_tou_hudieDXkapai
+	rotate: true
+	xy: 0, 881
+	size: 108, 163
+	orig: 108, 163
+	offset: 0, 0
+	index: -1
+a_Ryanpi_hudieDXkapai
+	rotate: false
+	xy: 526, 580
+	size: 28, 15
+	orig: 28, 15
+	offset: 0, 0
+	index: -1

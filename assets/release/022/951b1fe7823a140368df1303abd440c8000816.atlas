@@ -1,0 +1,124 @@
+
+asset/anim/zhushijuehaibao61.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niao2_zhushijuehaibao6
+	rotate: false
+	xy: 1324, 65
+	size: 84, 69
+	orig: 84, 69
+	offset: 0, 0
+	index: -1
+houjing_zhushijuehaibao6
+	rotate: false
+	xy: 0, 0
+	size: 1323, 638
+	orig: 1323, 638
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushijuehaibao60.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niao5_zhushijuehaibao6
+	rotate: true
+	xy: 898, 1711
+	size: 98, 45
+	orig: 98, 45
+	offset: 0, 0
+	index: -1
+niao6_zhushijuehaibao6
+	rotate: true
+	xy: 2008, 1601
+	size: 100, 39
+	orig: 100, 39
+	offset: 0, 0
+	index: -1
+niao8_zhushijuehaibao6
+	rotate: true
+	xy: 2008, 1702
+	size: 94, 39
+	orig: 94, 39
+	offset: 0, 0
+	index: -1
+dianxiangan_zhushijuehaibao6
+	rotate: false
+	xy: 1439, 862
+	size: 298, 641
+	orig: 298, 641
+	offset: 0, 0
+	index: -1
+caidai_zhushijuehaibao6
+	rotate: false
+	xy: 1738, 862
+	size: 196, 355
+	orig: 196, 355
+	offset: 0, 0
+	index: -1
+qiqiu1_zhushijuehaibao6
+	rotate: false
+	xy: 1966, 0
+	size: 71, 164
+	orig: 71, 164
+	offset: 0, 0
+	index: -1
+guangqiu_zhushijuehaibao66
+	rotate: false
+	xy: 1109, 1749
+	size: 128, 128
+	orig: 128, 128
+	offset: 0, 0
+	index: -1
+qiqiu2_zhushijuehaibao6
+	rotate: true
+	xy: 1738, 1439
+	size: 48, 172
+	orig: 48, 172
+	offset: 0, 0
+	index: -1
+niao1_zhushijuehaibao6
+	rotate: false
+	xy: 1630, 1949
+	size: 84, 86
+	orig: 84, 86
+	offset: 0, 0
+	index: -1
+niao7_zhushijuehaibao6
+	rotate: false
+	xy: 1935, 1178
+	size: 107, 31
+	orig: 107, 31
+	offset: 0, 0
+	index: -1
+qiqiu3_zhushijuehaibao6
+	rotate: false
+	xy: 1991, 1218
+	size: 48, 170
+	orig: 48, 170
+	offset: 0, 0
+	index: -1
+qianjing_zhushijuehaibao6
+	rotate: false
+	xy: 0, 0
+	size: 1438, 921
+	orig: 1438, 921
+	offset: 0, 0
+	index: -1
+niao3_zhushijuehaibao6
+	rotate: false
+	xy: 1085, 1991
+	size: 86, 46
+	orig: 86, 46
+	offset: 0, 0
+	index: -1
+niao4_zhushijuehaibao6
+	rotate: true
+	xy: 2008, 1496
+	size: 104, 38
+	orig: 104, 38
+	offset: 0, 0
+	index: -1

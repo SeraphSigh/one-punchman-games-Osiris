@@ -1,0 +1,33 @@
+
+asset/anim/jujiao0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jujiao_yinying_jurengege
+	rotate: true
+	xy: 0, 540
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+jujiao_dilie_jurengegetx
+	rotate: false
+	xy: 0, 0
+	size: 646, 271
+	orig: 646, 273
+	offset: 0, 0
+	index: -1
+
+asset/anim/huoqiu0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_longjuan_dilie
+	rotate: false
+	xy: 0, 0
+	size: 440, 134
+	orig: 440, 134
+	offset: 0, 0
+	index: -1

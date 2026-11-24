@@ -1,0 +1,215 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+
+asset/anim/piguxiaohai0.png
+size: 126,310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Lforearm_piguxiaohai
+	rotate: false
+	xy: 46, 174
+	size: 25, 47
+	orig: 25, 47
+	offset: 0, 0
+	index: -1
+piguxiaohaidaodizuixing
+	rotate: false
+	xy: 76, 275
+	size: 24, 16
+	orig: 24, 16
+	offset: 0, 0
+	index: -1
+a_Rearm_piguxiaohai
+	rotate: true
+	xy: 66, 138
+	size: 27, 48
+	orig: 27, 48
+	offset: 0, 0
+	index: -1
+a_Lfoot_piguxiaohai
+	rotate: false
+	xy: 45, 265
+	size: 30, 23
+	orig: 30, 23
+	offset: 0, 0
+	index: -1
+a_Rthigh_piguxiaohai
+	rotate: false
+	xy: 0, 220
+	size: 29, 44
+	orig: 29, 44
+	offset: 0, 0
+	index: -1
+a_ball_piguxiaohai
+	rotate: false
+	xy: 0, 174
+	size: 45, 45
+	orig: 45, 45
+	offset: 0, 0
+	index: -1
+a_Lhand3_piguxiaohai
+	rotate: true
+	xy: 109, 208
+	size: 24, 17
+	orig: 24, 17
+	offset: 0, 0
+	index: -1
+a_body_piguxiaohai
+	rotate: false
+	xy: 0, 0
+	size: 52, 94
+	orig: 52, 94
+	offset: 0, 0
+	index: -1
+a_Rthin_piguxiaohai
+	rotate: true
+	xy: 72, 208
+	size: 16, 36
+	orig: 16, 36
+	offset: 0, 0
+	index: -1
+a_Lhand2_piguxiaohai
+	rotate: true
+	xy: 106, 258
+	size: 18, 20
+	orig: 18, 20
+	offset: 0, 0
+	index: -1
+a_Learm_piguxiaohai
+	rotate: true
+	xy: 72, 292
+	size: 18, 17
+	orig: 18, 17
+	offset: 0, 0
+	index: -1
+a_hair3_piguxiaohai
+	rotate: false
+	xy: 53, 58
+	size: 66, 36
+	orig: 66, 36
+	offset: 0, 0
+	index: -1
+a_hair1_piguxiaohai
+	rotate: false
+	xy: 66, 95
+	size: 60, 42
+	orig: 60, 42
+	offset: 0, 0
+	index: -1
+a_head_piguxiaohai
+	rotate: false
+	xy: 0, 95
+	size: 65, 78
+	orig: 65, 78
+	offset: 0, 0
+	index: -1
+a_head2_piguxiaohai
+	rotate: true
+	xy: 82, 245
+	size: 29, 23
+	orig: 29, 23
+	offset: 0, 0
+	index: -1
+a_Rfoot_piguxiaohai
+	rotate: true
+	xy: 45, 222
+	size: 22, 26
+	orig: 22, 26
+	offset: 0, 0
+	index: -1
+a_Lthin_piguxiaohai
+	rotate: true
+	xy: 72, 191
+	size: 16, 40
+	orig: 16, 40
+	offset: 0, 0
+	index: -1
+a_coxa_piguxiaohai
+	rotate: false
+	xy: 72, 166
+	size: 41, 24
+	orig: 41, 24
+	offset: 0, 0
+	index: -1
+a_Rhand_piguxiaohai
+	rotate: false
+	xy: 45, 289
+	size: 26, 19
+	orig: 26, 19
+	offset: 0, 0
+	index: -1
+a_Lthigh_piguxiaohai
+	rotate: false
+	xy: 0, 265
+	size: 24, 41
+	orig: 24, 41
+	offset: 0, 0
+	index: -1
+a_eye_piguxiaohai
+	rotate: false
+	xy: 46, 245
+	size: 35, 19
+	orig: 35, 19
+	offset: 0, 0
+	index: -1
+a_ear_piguxiaohai
+	rotate: false
+	xy: 108, 233
+	size: 18, 24
+	orig: 18, 24
+	offset: 0, 0
+	index: -1
+a_Lhand1_piguxiaohai
+	rotate: true
+	xy: 30, 248
+	size: 16, 15
+	orig: 16, 15
+	offset: 0, 0
+	index: -1
+a_eye1_piguxiaohai
+	rotate: false
+	xy: 72, 225
+	size: 35, 19
+	orig: 35, 19
+	offset: 0, 0
+	index: -1
+a_hair2_piguxiaohai
+	rotate: false
+	xy: 53, 0
+	size: 73, 57
+	orig: 73, 57
+	offset: 0, 0
+	index: -1
+a_head3_piguxiaohai
+	rotate: false
+	xy: 101, 277
+	size: 22, 30
+	orig: 22, 30
+	offset: 0, 0
+	index: -1
+a_eye2_piguxiaohai
+	rotate: true
+	xy: 25, 265
+	size: 35, 19
+	orig: 35, 19
+	offset: 0, 0
+	index: -1
+a_Rforearm_piguxiaohai
+	rotate: true
+	xy: 30, 220
+	size: 27, 14
+	orig: 27, 14
+	offset: 0, 0
+	index: -1

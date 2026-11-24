@@ -1,0 +1,27 @@
+
+asset/anim/gouwukuanghuanZCJ0.png
+size: 256,749
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiqiu4_gouwukuanghuanZCJ
+	rotate: false
+	xy: 0, 0
+	size: 251, 126
+	orig: 251, 126
+	offset: 0, 0
+	index: -1
+qiqiu3_gouwukuanghuanZCJ
+	rotate: false
+	xy: 119, 413
+	size: 33, 118
+	orig: 33, 118
+	offset: 0, 0
+	index: -1
+qiqiu2_gouwukuanghuanZCJ
+	rotate: true
+	xy: 0, 127
+	size: 42, 162
+	orig: 42, 162
+	offset: 0, 0
+	index: -1

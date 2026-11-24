@@ -1,0 +1,62 @@
+
+asset/anim/gouwukuanghuanZCJ0.png
+size: 256,749
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoshan_gouwukuanghuanZCJ
+	rotate: true
+	xy: 153, 528
+	size: 112, 103
+	orig: 112, 103
+	offset: 0, 0
+	index: -1
+dianziping3_gouwukuanghuanZCJ
+	rotate: false
+	xy: 0, 639
+	size: 116, 108
+	orig: 166, 144
+	offset: 30, 23
+	index: -1
+baoshan2_gouwukuanghuanZCJ
+	rotate: true
+	xy: 153, 415
+	size: 112, 103
+	orig: 112, 103
+	offset: 0, 0
+	index: -1
+dianziping2_gouwukuanghuanZCJ
+	rotate: false
+	xy: 0, 207
+	size: 118, 108
+	orig: 166, 144
+	offset: 29, 23
+	index: -1
+dianziping5_gouwukuanghuanZCJ
+	rotate: false
+	xy: 0, 316
+	size: 118, 108
+	orig: 166, 144
+	offset: 29, 23
+	index: -1
+dianziping6_gouwukuanghuanZCJ
+	rotate: false
+	xy: 117, 641
+	size: 116, 108
+	orig: 166, 144
+	offset: 30, 23
+	index: -1
+dianziping1_gouwukuanghuanZCJ
+	rotate: false
+	xy: 0, 425
+	size: 118, 106
+	orig: 166, 144
+	offset: 29, 23
+	index: -1
+dianziping4_gouwukuanghuanZCJ
+	rotate: false
+	xy: 0, 532
+	size: 118, 106
+	orig: 166, 144
+	offset: 29, 23
+	index: -1

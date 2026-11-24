@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>kezhanling_kezhanlingimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{84,44}</string>
+                <key>spriteSourceSize</key>
+                <string>{84,44}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{84,44}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>kezhanlingimage0.png</string>
+            <key>size</key>
+            <string>{84,44}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:d9a928b37b812b726da986de233cea0f:3d305c0a2348d24400e74fe2d1db1b23:ea8687c075d0c6994bd403c83e989d2c$</string>
+            <key>textureFileName</key>
+            <string>kezhanlingimage0.png</string>
+        </dict>
+    </dict>
+</plist>

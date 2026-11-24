@@ -1,0 +1,163 @@
+
+asset/anim/geluolibasi2COMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/gllbs2_skill_shuai_00035
+	rotate: true
+	xy: 476, 470
+	size: 197, 107
+	orig: 243, 145
+	offset: 36, 35
+	index: -1
+common/gllbs2_skill_shuai_00039
+	rotate: false
+	xy: 583, 737
+	size: 229, 119
+	orig: 243, 145
+	offset: 7, 15
+	index: -1
+common/gllbs2_skill_shuai_00036
+	rotate: false
+	xy: 816, 590
+	size: 207, 113
+	orig: 243, 145
+	offset: 29, 27
+	index: -1
+common/gllbs2_skill_shuai_00041
+	rotate: false
+	xy: 585, 369
+	size: 231, 121
+	orig: 243, 145
+	offset: 3, 8
+	index: -1
+common/gllbs2_skill_shuai_00040
+	rotate: false
+	xy: 584, 491
+	size: 231, 119
+	orig: 243, 145
+	offset: 5, 12
+	index: -1
+common/gllbs2_skill_shuai_00042
+	rotate: false
+	xy: 584, 611
+	size: 229, 125
+	orig: 243, 145
+	offset: 3, 5
+	index: -1
+
+asset/anim/geluolibasi2COMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/gllbs2_skill_shuai_00038
+	rotate: false
+	xy: 684, 0
+	size: 227, 117
+	orig: 243, 145
+	offset: 9, 17
+	index: -1
+common/gllbs2_skill_shuai_00037
+	rotate: false
+	xy: 0, 198
+	size: 217, 115
+	orig: 243, 145
+	offset: 19, 22
+	index: -1
+common/gllbs2_skill_shuai_00047
+	rotate: false
+	xy: 662, 434
+	size: 211, 133
+	orig: 243, 145
+	offset: 4, 0
+	index: -1
+common/gllbs2_skill_shuai_00045
+	rotate: false
+	xy: 228, 139
+	size: 221, 131
+	orig: 243, 145
+	offset: 2, 0
+	index: -1
+common/gllbs2_skill_shuai_00044
+	rotate: false
+	xy: 456, 128
+	size: 223, 131
+	orig: 243, 145
+	offset: 3, 1
+	index: -1
+common/gllbs2_skill_shuai_00043
+	rotate: false
+	xy: 456, 0
+	size: 227, 127
+	orig: 243, 145
+	offset: 3, 4
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_qiyu_xunhuanyan_057
+	rotate: false
+	xy: 551, 595
+	size: 180, 51
+	orig: 184, 53
+	offset: 0, 0
+	index: -1
+global/a_global_qiyu_xunhuanyan_059
+	rotate: false
+	xy: 0, 601
+	size: 180, 37
+	orig: 184, 53
+	offset: 1, 0
+	index: -1
+global/a_global_qiyu_xunhuanyan_058
+	rotate: false
+	xy: 184, 595
+	size: 180, 45
+	orig: 184, 53
+	offset: 1, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_qiyu_xunhuanyan_055
+	rotate: false
+	xy: 173, 162
+	size: 170, 45
+	orig: 184, 53
+	offset: 0, 0
+	index: -1
+global/a_global_qiyu_xunhuanyan_056
+	rotate: false
+	xy: 173, 64
+	size: 172, 49
+	orig: 184, 53
+	offset: 0, 0
+	index: -1
+
+asset/anim/geluolibasi2COMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/gllbs2_skill_shuai_00046
+	rotate: false
+	xy: 406, 556
+	size: 215, 131
+	orig: 243, 145
+	offset: 3, 0
+	index: -1
+common/gllbs2_skill_shuai_00048
+	rotate: true
+	xy: 518, 878
+	size: 145, 129
+	orig: 243, 145
+	offset: 6, 2
+	index: -1

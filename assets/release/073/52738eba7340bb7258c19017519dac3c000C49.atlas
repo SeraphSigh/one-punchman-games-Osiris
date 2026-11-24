@@ -1,0 +1,195 @@
+
+asset/anim/elangxiaofukapai.png
+size: 1001,699
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Rarm2_elangxiaofukp
+	rotate: true
+	xy: 902, 0
+	size: 131, 91
+	orig: 131, 91
+	offset: 0, 0
+	index: -1
+a_Larm_elangxiaofukp
+	rotate: true
+	xy: 589, 420
+	size: 71, 354
+	orig: 71, 354
+	offset: 0, 0
+	index: -1
+a_Lling_elangxiaofukp
+	rotate: false
+	xy: 201, 538
+	size: 39, 141
+	orig: 39, 141
+	offset: 0, 0
+	index: -1
+a_Ryanpi_elangxiaofukp
+	rotate: false
+	xy: 554, 302
+	size: 32, 14
+	orig: 32, 14
+	offset: 0, 0
+	index: -1
+a_body_elangxiaofukp
+	rotate: false
+	xy: 380, 0
+	size: 173, 332
+	orig: 173, 332
+	offset: 0, 0
+	index: -1
+a_bao_elangxiaofukp
+	rotate: true
+	xy: 249, 535
+	size: 164, 253
+	orig: 164, 253
+	offset: 0, 0
+	index: -1
+a_Lhand2_elangxiaofukp
+	rotate: true
+	xy: 811, 657
+	size: 34, 46
+	orig: 34, 46
+	offset: 0, 0
+	index: -1
+a_Lyifu_elangxiaofukp
+	rotate: true
+	xy: 589, 302
+	size: 117, 322
+	orig: 117, 322
+	offset: 0, 0
+	index: -1
+a_Rlingdai_elangxiaofukp
+	rotate: true
+	xy: 788, 492
+	size: 48, 155
+	orig: 48, 155
+	offset: 0, 0
+	index: -1
+a_Ryifu_elangxiaofukp
+	rotate: true
+	xy: 554, 0
+	size: 154, 347
+	orig: 154, 347
+	offset: 0, 0
+	index: -1
+a_Rfoot_elangxiaofukp
+	rotate: false
+	xy: 912, 283
+	size: 86, 108
+	orig: 86, 108
+	offset: 0, 0
+	index: -1
+a_Lhand1_elangxiaofukp
+	rotate: false
+	xy: 944, 467
+	size: 32, 72
+	orig: 32, 72
+	offset: 0, 0
+	index: -1
+a_Lleg_elangxiaofukp
+	rotate: false
+	xy: 249, 0
+	size: 130, 534
+	orig: 130, 534
+	offset: 0, 0
+	index: -1
+a_Rhand_elangxiaofukp
+	rotate: true
+	xy: 939, 541
+	size: 116, 59
+	orig: 116, 59
+	offset: 0, 0
+	index: -1
+a_book_elangxiaofukp
+	rotate: false
+	xy: 811, 541
+	size: 127, 115
+	orig: 127, 115
+	offset: 0, 0
+	index: -1
+a_Rleg_elangxiaofukp
+	rotate: false
+	xy: 0, 0
+	size: 248, 537
+	orig: 248, 537
+	offset: 0, 0
+	index: -1
+a_baodai2_elangxiaofukp
+	rotate: false
+	xy: 503, 511
+	size: 78, 156
+	orig: 78, 156
+	offset: 0, 0
+	index: -1
+a_Lhand_elangxiaofukp
+	rotate: false
+	xy: 944, 392
+	size: 51, 74
+	orig: 51, 74
+	offset: 0, 0
+	index: -1
+a_baodai1_elangxiaofukp
+	rotate: true
+	xy: 589, 492
+	size: 53, 198
+	orig: 53, 198
+	offset: 0, 0
+	index: -1
+a_yifu_elangxiaofukp
+	rotate: false
+	xy: 554, 155
+	size: 295, 146
+	orig: 295, 146
+	offset: 0, 0
+	index: -1
+a_Llingdai_elangxiaofukp
+	rotate: true
+	xy: 582, 546
+	size: 116, 137
+	orig: 116, 137
+	offset: 0, 0
+	index: -1
+a_Rling_elangxiaofukp
+	rotate: true
+	xy: 503, 671
+	size: 28, 55
+	orig: 28, 55
+	offset: 0, 0
+	index: -1
+a_Lfoot_elangxiaofukp
+	rotate: true
+	xy: 720, 546
+	size: 124, 90
+	orig: 124, 90
+	offset: 0, 0
+	index: -1
+a_Lyanpi_elangxiaofukp
+	rotate: false
+	xy: 902, 132
+	size: 25, 17
+	orig: 25, 17
+	offset: 0, 0
+	index: -1
+a_head_elangxiaofukp
+	rotate: true
+	xy: 380, 333
+	size: 177, 208
+	orig: 177, 208
+	offset: 0, 0
+	index: -1
+a_kua_elangxiaofukp
+	rotate: false
+	xy: 0, 538
+	size: 200, 153
+	orig: 200, 153
+	offset: 0, 0
+	index: -1
+a_Rarm1_elangxiaofukp
+	rotate: false
+	xy: 850, 155
+	size: 151, 127
+	orig: 151, 127
+	offset: 0, 0
+	index: -1

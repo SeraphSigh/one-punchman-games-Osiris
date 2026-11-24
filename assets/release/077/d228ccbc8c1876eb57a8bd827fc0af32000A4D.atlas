@@ -1,0 +1,142 @@
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_hongwennv_suishi_026
+	rotate: false
+	xy: 840, 99
+	size: 183, 151
+	orig: 209, 179
+	offset: 22, 4
+	index: -1
+global/a_global_hongwennv_suishi_025
+	rotate: false
+	xy: 0, 147
+	size: 179, 103
+	orig: 209, 179
+	offset: 26, 3
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_hongwennv_suishi_030
+	rotate: false
+	xy: 846, 138
+	size: 177, 169
+	orig: 209, 179
+	offset: 25, 3
+	index: -1
+global/a_global_hongwennv_suishi_029
+	rotate: false
+	xy: 846, 308
+	size: 177, 165
+	orig: 209, 179
+	offset: 25, 3
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_hongwennv_suishi_034
+	rotate: true
+	xy: 960, 782
+	size: 175, 63
+	orig: 209, 179
+	offset: 24, 3
+	index: -1
+global/a_global_hongwennv_suishi_032
+	rotate: false
+	xy: 784, 682
+	size: 175, 137
+	orig: 209, 179
+	offset: 25, 3
+	index: -1
+global/a_global_hongwennv_suishi_024
+	rotate: false
+	xy: 180, 641
+	size: 179, 53
+	orig: 209, 179
+	offset: 26, 3
+	index: -1
+global/a_global_hongwennv_suishi_031
+	rotate: false
+	xy: 266, 833
+	size: 175, 175
+	orig: 209, 179
+	offset: 25, 3
+	index: -1
+global/a_global_hongwennv_suishi_033
+	rotate: false
+	xy: 784, 820
+	size: 175, 117
+	orig: 209, 179
+	offset: 24, 3
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_hongwennv_suishi_038
+	rotate: false
+	xy: 352, 0
+	size: 175, 63
+	orig: 209, 179
+	offset: 24, 3
+	index: -1
+global/a_global_hongwennv_suishi_027
+	rotate: false
+	xy: 346, 64
+	size: 171, 155
+	orig: 209, 179
+	offset: 31, 3
+	index: -1
+global/a_global_hongwennv_suishi_036
+	rotate: false
+	xy: 176, 0
+	size: 175, 63
+	orig: 209, 179
+	offset: 24, 3
+	index: -1
+global/a_global_hongwennv_suishi_037
+	rotate: false
+	xy: 352, 0
+	size: 175, 63
+	orig: 209, 179
+	offset: 24, 3
+	index: -1
+global/a_global_hongwennv_suishi_035
+	rotate: false
+	xy: 0, 0
+	size: 175, 63
+	orig: 209, 179
+	offset: 24, 3
+	index: -1
+global/a_global_hongwennv_suishi_028
+	rotate: false
+	xy: 528, 63
+	size: 173, 161
+	orig: 209, 179
+	offset: 29, 3
+	index: -1
+
+asset/anim/huoqiu0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_longjuan_dilie
+	rotate: false
+	xy: 0, 0
+	size: 440, 134
+	orig: 440, 134
+	offset: 0, 0
+	index: -1

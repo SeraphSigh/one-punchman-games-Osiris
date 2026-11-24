@@ -1,0 +1,1806 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/boluosiB3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Lfoot_boluosiB
+	rotate: true
+	xy: 480, 92
+	size: 51, 31
+	orig: 51, 31
+	offset: 0, 0
+	index: -1
+k_Rfoot_boluosiB
+	rotate: false
+	xy: 483, 0
+	size: 29, 51
+	orig: 29, 51
+	offset: 0, 0
+	index: -1
+g_body3_boluosiB
+	rotate: true
+	xy: 236, 418
+	size: 26, 25
+	orig: 26, 25
+	offset: 0, 0
+	index: -1
+bz_Lfoot_boluosiB
+	rotate: false
+	xy: 423, 37
+	size: 59, 27
+	orig: 59, 27
+	offset: 0, 0
+	index: -1
+a_body2_boluosiB
+	rotate: false
+	xy: 262, 351
+	size: 27, 35
+	orig: 27, 35
+	offset: 0, 0
+	index: -1
+p_Rshoulder_boluosiB
+	rotate: false
+	xy: 60, 90
+	size: 56, 53
+	orig: 56, 53
+	offset: 0, 0
+	index: -1
+c_body2_boluosiB
+	rotate: false
+	xy: 303, 0
+	size: 59, 46
+	orig: 59, 46
+	offset: 0, 0
+	index: -1
+a_Larm_boluosiB
+	rotate: true
+	xy: 122, 0
+	size: 30, 60
+	orig: 30, 60
+	offset: 0, 0
+	index: -1
+a_Lhand_boluosiB
+	rotate: false
+	xy: 150, 461
+	size: 38, 40
+	orig: 38, 40
+	offset: 0, 0
+	index: -1
+a_Rforearm_boluosiB
+	rotate: true
+	xy: 344, 194
+	size: 37, 50
+	orig: 37, 50
+	offset: 0, 0
+	index: -1
+h_Rfoot_boluosiB
+	rotate: true
+	xy: 40, 425
+	size: 44, 39
+	orig: 44, 39
+	offset: 0, 0
+	index: -1
+s_hair_boluosiB
+	rotate: true
+	xy: 182, 59
+	size: 48, 57
+	orig: 48, 57
+	offset: 0, 0
+	index: -1
+o_Rforearm_boluosiB
+	rotate: false
+	xy: 358, 93
+	size: 54, 48
+	orig: 54, 48
+	offset: 0, 0
+	index: -1
+c_Lforearm_boluosiB
+	rotate: false
+	xy: 61, 39
+	size: 59, 50
+	orig: 59, 50
+	offset: 0, 0
+	index: -1
+g_Rshoulder_boluosiB
+	rotate: false
+	xy: 122, 31
+	size: 59, 52
+	orig: 59, 52
+	offset: 0, 0
+	index: -1
+bz_Rarm_boluosiB
+	rotate: true
+	xy: 191, 389
+	size: 28, 38
+	orig: 28, 38
+	offset: 0, 0
+	index: -1
+q_Rarm_boluosiB
+	rotate: true
+	xy: 243, 50
+	size: 55, 57
+	orig: 55, 57
+	offset: 0, 0
+	index: -1
+l_Rhand_boluosiB
+	rotate: true
+	xy: 41, 470
+	size: 42, 39
+	orig: 42, 39
+	offset: 0, 0
+	index: -1
+a_Rhand_boluosiB
+	rotate: true
+	xy: 426, 309
+	size: 41, 44
+	orig: 41, 44
+	offset: 0, 0
+	index: -1
+n_Rfoot_boluosiB
+	rotate: false
+	xy: 53, 290
+	size: 51, 38
+	orig: 51, 38
+	offset: 0, 0
+	index: -1
+h_Lhand_boluosiB
+	rotate: false
+	xy: 270, 282
+	size: 48, 33
+	orig: 48, 33
+	offset: 0, 0
+	index: -1
+bz_Rforearm_boluosiB
+	rotate: false
+	xy: 107, 251
+	size: 51, 41
+	orig: 51, 41
+	offset: 0, 0
+	index: -1
+i_Rfoot_boluosiB
+	rotate: true
+	xy: 394, 255
+	size: 41, 48
+	orig: 41, 48
+	offset: 0, 0
+	index: -1
+j_Lforearm_boluosiB
+	rotate: false
+	xy: 443, 277
+	size: 45, 31
+	orig: 45, 31
+	offset: 0, 0
+	index: -1
+a_Rarm_boluosiB
+	rotate: true
+	xy: 363, 0
+	size: 45, 59
+	orig: 45, 59
+	offset: 0, 0
+	index: -1
+d_neck_boluosiB
+	rotate: true
+	xy: 0, 160
+	size: 47, 55
+	orig: 47, 55
+	offset: 0, 0
+	index: -1
+j_Lshoulder_boluosiB
+	rotate: false
+	xy: 297, 140
+	size: 54, 47
+	orig: 54, 47
+	offset: 0, 0
+	index: -1
+c_Rfoot_boluosiB
+	rotate: true
+	xy: 257, 316
+	size: 34, 28
+	orig: 34, 28
+	offset: 0, 0
+	index: -1
+bz_Lforearm_boluosiB
+	rotate: false
+	xy: 422, 65
+	size: 57, 53
+	orig: 57, 53
+	offset: 0, 0
+	index: -1
+n_Rforearm_boluosiB
+	rotate: true
+	xy: 100, 342
+	size: 39, 46
+	orig: 39, 46
+	offset: 0, 0
+	index: -1
+a_Lforearm_boluosiB
+	rotate: false
+	xy: 115, 464
+	size: 34, 42
+	orig: 34, 42
+	offset: 0, 0
+	index: -1
+a_Rshoulder_boluosiB
+	rotate: false
+	xy: 0, 0
+	size: 60, 55
+	orig: 60, 55
+	offset: 0, 0
+	index: -1
+o_Rhand_boluosiB
+	rotate: true
+	xy: 80, 420
+	size: 43, 39
+	orig: 43, 39
+	offset: 0, 0
+	index: -1
+k_Larm_boluosiB
+	rotate: false
+	xy: 352, 142
+	size: 52, 51
+	orig: 52, 51
+	offset: 0, 0
+	index: -1
+k_Rhand_boluosiB
+	rotate: true
+	xy: 161, 420
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+m_Lshoulder_boluosiB
+	rotate: true
+	xy: 227, 351
+	size: 36, 34
+	orig: 36, 34
+	offset: 0, 0
+	index: -1
+e_Lhand_boluosiB
+	rotate: false
+	xy: 381, 297
+	size: 44, 44
+	orig: 44, 44
+	offset: 0, 0
+	index: -1
+e_Rshoulder_boluosiB
+	rotate: false
+	xy: 243, 0
+	size: 59, 49
+	orig: 59, 49
+	offset: 0, 0
+	index: -1
+n_Lfoot_boluosiB
+	rotate: true
+	xy: 332, 276
+	size: 39, 48
+	orig: 39, 48
+	offset: 0, 0
+	index: -1
+c_Rhand_boluosiB
+	rotate: false
+	xy: 0, 425
+	size: 39, 44
+	orig: 39, 44
+	offset: 0, 0
+	index: -1
+o_Lforearm_boluosiB
+	rotate: false
+	xy: 49, 377
+	size: 45, 42
+	orig: 45, 42
+	offset: 0, 0
+	index: -1
+a_Lshoulder_boluosiB
+	rotate: true
+	xy: 229, 204
+	size: 49, 52
+	orig: 49, 52
+	offset: 0, 0
+	index: -1
+i_Lhand_boluosiB
+	rotate: false
+	xy: 471, 350
+	size: 41, 38
+	orig: 41, 38
+	offset: 0, 0
+	index: -1
+p_Rhand_boluosiB
+	rotate: true
+	xy: 282, 240
+	size: 41, 49
+	orig: 41, 49
+	offset: 0, 0
+	index: -1
+h_Rarm_boluosiB
+	rotate: true
+	xy: 95, 382
+	size: 37, 41
+	orig: 37, 41
+	offset: 0, 0
+	index: -1
+n_Lhand_boluosiB
+	rotate: true
+	xy: 0, 208
+	size: 46, 53
+	orig: 46, 53
+	offset: 0, 0
+	index: -1
+g_Rhand_boluosiB
+	rotate: true
+	xy: 0, 470
+	size: 42, 40
+	orig: 42, 40
+	offset: 0, 0
+	index: -1
+p_Lforearm_boluosiB
+	rotate: false
+	xy: 164, 388
+	size: 26, 31
+	orig: 26, 31
+	offset: 0, 0
+	index: -1
+h_Rforearm_boluosiB
+	rotate: false
+	xy: 303, 47
+	size: 58, 39
+	orig: 58, 39
+	offset: 0, 0
+	index: -1
+p_hair_boluosiB
+	rotate: true
+	xy: 117, 129
+	size: 46, 56
+	orig: 46, 56
+	offset: 0, 0
+	index: -1
+bz_Lhand_boluosiB
+	rotate: false
+	xy: 483, 52
+	size: 29, 39
+	orig: 29, 39
+	offset: 0, 0
+	index: -1
+a_eye3_boluosiB
+	rotate: false
+	xy: 208, 303
+	size: 48, 31
+	orig: 48, 31
+	offset: 0, 0
+	index: -1
+j_Rforearm_boluosiB
+	rotate: false
+	xy: 240, 106
+	size: 56, 50
+	orig: 56, 50
+	offset: 0, 0
+	index: -1
+k_Lshoulder_boluosiB
+	rotate: true
+	xy: 179, 108
+	size: 49, 56
+	orig: 49, 56
+	offset: 0, 0
+	index: -1
+t_coxa1_boluosiB
+	rotate: false
+	xy: 395, 206
+	size: 49, 48
+	orig: 49, 48
+	offset: 0, 0
+	index: -1
+s_Rarm_boluosiB
+	rotate: false
+	xy: 0, 295
+	size: 50, 50
+	orig: 50, 50
+	offset: 0, 0
+	index: -1
+a_neck_boluosiB
+	rotate: true
+	xy: 174, 158
+	size: 46, 54
+	orig: 46, 54
+	offset: 0, 0
+	index: -1
+a_Rfoot_boluosiB
+	rotate: false
+	xy: 230, 389
+	size: 35, 28
+	orig: 35, 28
+	offset: 0, 0
+	index: -1
+e-Rforearm_boluosiB
+	rotate: false
+	xy: 110, 207
+	size: 52, 43
+	orig: 52, 43
+	offset: 0, 0
+	index: -1
+s_coxa_boluosiB
+	rotate: false
+	xy: 51, 329
+	size: 48, 47
+	orig: 48, 47
+	offset: 0, 0
+	index: -1
+j_Larm_boluosiB
+	rotate: false
+	xy: 363, 46
+	size: 58, 46
+	orig: 58, 46
+	offset: 0, 0
+	index: -1
+m_Lhand_boluosiB
+	rotate: true
+	xy: 147, 351
+	size: 36, 40
+	orig: 36, 40
+	offset: 0, 0
+	index: -1
+k_Rarm_boluosiB
+	rotate: true
+	xy: 0, 56
+	size: 50, 59
+	orig: 50, 59
+	offset: 0, 0
+	index: -1
+p_Larm_boluosiB
+	rotate: true
+	xy: 423, 0
+	size: 36, 59
+	orig: 36, 59
+	offset: 0, 0
+	index: -1
+c_Lhand_boluosiB
+	rotate: true
+	xy: 154, 304
+	size: 41, 46
+	orig: 41, 46
+	offset: 0, 0
+	index: -1
+k_Rforearm_boluosiB
+	rotate: true
+	xy: 61, 0
+	size: 38, 60
+	orig: 38, 60
+	offset: 0, 0
+	index: -1
+m_Lforearm_boluosiB
+	rotate: false
+	xy: 0, 346
+	size: 48, 41
+	orig: 48, 41
+	offset: 0, 0
+	index: -1
+j_Lfoot_boluosiB
+	rotate: false
+	xy: 159, 255
+	size: 48, 48
+	orig: 48, 48
+	offset: 0, 0
+	index: -1
+n_Lshoulder_boluosiB
+	rotate: false
+	xy: 183, 0
+	size: 59, 58
+	orig: 59, 58
+	offset: 0, 0
+	index: -1
+n_Larm_boluosiB
+	rotate: true
+	xy: 344, 232
+	size: 43, 49
+	orig: 43, 49
+	offset: 0, 0
+	index: -1
+e_Lshoulder_boluosiB
+	rotate: false
+	xy: 236, 157
+	size: 54, 46
+	orig: 54, 46
+	offset: 0, 0
+	index: -1
+bz_Rfoot_boluosiB
+	rotate: false
+	xy: 120, 420
+	size: 40, 40
+	orig: 40, 40
+	offset: 0, 0
+	index: -1
+q_Lhand_boluosiB
+	rotate: false
+	xy: 200, 418
+	size: 35, 35
+	orig: 35, 35
+	offset: 0, 0
+	index: -1
+bz_Lshoulder_boluosiB
+	rotate: false
+	xy: 221, 254
+	size: 48, 48
+	orig: 48, 48
+	offset: 0, 0
+	index: -1
+q_Rhand_boluosiB
+	rotate: false
+	xy: 81, 464
+	size: 33, 43
+	orig: 33, 43
+	offset: 0, 0
+	index: -1
+d_body2_boluosiB
+	rotate: true
+	xy: 445, 235
+	size: 41, 48
+	orig: 41, 48
+	offset: 0, 0
+	index: -1
+bz_Rhand_boluosiB
+	rotate: false
+	xy: 188, 351
+	size: 38, 36
+	orig: 38, 36
+	offset: 0, 0
+	index: -1
+b_Lhand_boluosiB
+	rotate: false
+	xy: 189, 461
+	size: 38, 38
+	orig: 38, 38
+	offset: 0, 0
+	index: -1
+k_Lshin_boluosiB
+	rotate: true
+	xy: 0, 388
+	size: 36, 45
+	orig: 36, 45
+	offset: 0, 0
+	index: -1
+r_coxa1_boluosiB
+	rotate: false
+	xy: 105, 293
+	size: 48, 48
+	orig: 48, 48
+	offset: 0, 0
+	index: -1
+s_Rhand_boluosiB
+	rotate: true
+	xy: 471, 309
+	size: 40, 41
+	orig: 40, 41
+	offset: 0, 0
+	index: -1
+bz_Rshin_boluosiB
+	rotate: true
+	xy: 467, 144
+	size: 46, 45
+	orig: 46, 45
+	offset: 0, 0
+	index: -1
+n_Lshin_boluosiB
+	rotate: false
+	xy: 57, 144
+	size: 55, 50
+	orig: 55, 50
+	offset: 0, 0
+	index: -1
+d_Rhand_boluosiB
+	rotate: true
+	xy: 456, 191
+	size: 43, 50
+	orig: 43, 50
+	offset: 0, 0
+	index: -1
+k_Lfoot_boluosiB
+	rotate: false
+	xy: 113, 176
+	size: 54, 30
+	orig: 54, 30
+	offset: 0, 0
+	index: -1
+n_hair_boluosiB
+	rotate: true
+	xy: 291, 188
+	size: 51, 52
+	orig: 51, 52
+	offset: 0, 0
+	index: -1
+n_Rshouder_boluosiB
+	rotate: false
+	xy: 405, 156
+	size: 50, 49
+	orig: 50, 49
+	offset: 0, 0
+	index: -1
+t_coxa2_boluosiB
+	rotate: false
+	xy: 228, 454
+	size: 25, 33
+	orig: 25, 33
+	offset: 0, 0
+	index: -1
+k_Lforearm_boluosiB
+	rotate: false
+	xy: 0, 255
+	size: 52, 39
+	orig: 52, 39
+	offset: 0, 0
+	index: -1
+m_Rarm_boluosiB
+	rotate: false
+	xy: 56, 195
+	size: 53, 52
+	orig: 53, 52
+	offset: 0, 0
+	index: -1
+c_Rshin_boluosiB
+	rotate: false
+	xy: 0, 107
+	size: 56, 52
+	orig: 56, 52
+	offset: 0, 0
+	index: -1
+k_Rshoulder_boluosiB
+	rotate: true
+	xy: 121, 84
+	size: 44, 57
+	orig: 44, 57
+	offset: 0, 0
+	index: -1
+e_Rhand_boluosiB
+	rotate: true
+	xy: 413, 119
+	size: 36, 53
+	orig: 36, 53
+	offset: 0, 0
+	index: -1
+g_Lshoulder_boluosiB
+	rotate: true
+	xy: 168, 205
+	size: 49, 52
+	orig: 49, 52
+	offset: 0, 0
+	index: -1
+g_Lforearm_boluosiB
+	rotate: false
+	xy: 137, 389
+	size: 26, 30
+	orig: 26, 30
+	offset: 0, 0
+	index: -1
+p_Lfoot_boluosiB
+	rotate: true
+	xy: 286, 316
+	size: 34, 28
+	orig: 34, 28
+	offset: 0, 0
+	index: -1
+l_Rshoulder_boluosiB
+	rotate: false
+	xy: 301, 87
+	size: 56, 52
+	orig: 56, 52
+	offset: 0, 0
+	index: -1
+j_Rhand_boluosiB
+	rotate: true
+	xy: 54, 248
+	size: 41, 52
+	orig: 41, 52
+	offset: 0, 0
+	index: -1
+
+asset/anim/boluosiB2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_Rhand_boluosiB
+	rotate: true
+	xy: 415, 470
+	size: 42, 46
+	orig: 42, 46
+	offset: 0, 0
+	index: -1
+j_coxa1_boluosiB
+	rotate: false
+	xy: 135, 259
+	size: 65, 46
+	orig: 65, 46
+	offset: 0, 0
+	index: -1
+m_Rshoulder_boluosiB
+	rotate: false
+	xy: 383, 96
+	size: 70, 64
+	orig: 70, 64
+	offset: 0, 0
+	index: -1
+k_coxa_boluosiB
+	rotate: false
+	xy: 129, 394
+	size: 62, 40
+	orig: 62, 40
+	offset: 0, 0
+	index: -1
+e_Larm_boluosiB
+	rotate: false
+	xy: 195, 436
+	size: 60, 57
+	orig: 60, 57
+	offset: 0, 0
+	index: -1
+g_Rarm_boluosiB
+	rotate: false
+	xy: 446, 256
+	size: 66, 48
+	orig: 66, 48
+	offset: 0, 0
+	index: -1
+s_Rshin_boluosiB
+	rotate: false
+	xy: 237, 49
+	size: 73, 49
+	orig: 73, 49
+	offset: 0, 0
+	index: -1
+d_body3_boluosiB
+	rotate: true
+	xy: 349, 318
+	size: 34, 26
+	orig: 34, 26
+	offset: 0, 0
+	index: -1
+a_Lthigh_boluosiB
+	rotate: true
+	xy: 311, 73
+	size: 43, 71
+	orig: 43, 71
+	offset: 0, 0
+	index: -1
+h_Lshoulder_boluosiB
+	rotate: true
+	xy: 376, 372
+	size: 56, 60
+	orig: 56, 60
+	offset: 0, 0
+	index: -1
+d_Rshoulder_boluosiB
+	rotate: true
+	xy: 196, 331
+	size: 58, 63
+	orig: 58, 63
+	offset: 0, 0
+	index: -1
+a_hair1_boluosiB
+	rotate: true
+	xy: 314, 0
+	size: 72, 74
+	orig: 72, 74
+	offset: 0, 0
+	index: -1
+h_Rthigh_boluosiB
+	rotate: true
+	xy: 461, 70
+	size: 66, 51
+	orig: 66, 51
+	offset: 0, 0
+	index: -1
+k_Rshin_boluosiB
+	rotate: true
+	xy: 461, 0
+	size: 69, 51
+	orig: 69, 51
+	offset: 0, 0
+	index: -1
+n_Lthigh_boluosiB
+	rotate: false
+	xy: 234, 99
+	size: 70, 69
+	orig: 70, 69
+	offset: 0, 0
+	index: -1
+d_Lhand_boluosiB
+	rotate: false
+	xy: 366, 470
+	size: 48, 42
+	orig: 48, 42
+	offset: 0, 0
+	index: -1
+d_Larm_boluosiB
+	rotate: true
+	xy: 0, 450
+	size: 61, 42
+	orig: 61, 42
+	offset: 0, 0
+	index: -1
+h_coxa1_boluosiB
+	rotate: false
+	xy: 141, 218
+	size: 66, 40
+	orig: 66, 40
+	offset: 0, 0
+	index: -1
+j_head_boluosiB
+	rotate: true
+	xy: 389, 49
+	size: 46, 71
+	orig: 46, 71
+	offset: 0, 0
+	index: -1
+c_head_boluosiB
+	rotate: false
+	xy: 201, 278
+	size: 64, 52
+	orig: 64, 52
+	offset: 0, 0
+	index: -1
+d_Lforearm_boluosiB
+	rotate: false
+	xy: 260, 339
+	size: 62, 54
+	orig: 62, 54
+	offset: 0, 0
+	index: -1
+boluosiBtxbb_dian02_002
+	rotate: true
+	xy: 72, 103
+	size: 63, 71
+	orig: 131, 127
+	offset: 6, 56
+	index: -1
+boluosiBtxbb_dian02_001
+	rotate: true
+	xy: 80, 0
+	size: 67, 79
+	orig: 131, 127
+	offset: 0, 48
+	index: -1
+s_Rshoulder_boluosiB
+	rotate: true
+	xy: 376, 204
+	size: 65, 69
+	orig: 65, 69
+	offset: 0, 0
+	index: -1
+k_Lthigh_boluosiB
+	rotate: false
+	xy: 85, 447
+	size: 57, 60
+	orig: 57, 60
+	offset: 0, 0
+	index: -1
+c_Rthigh_boluosiB
+	rotate: true
+	xy: 160, 0
+	size: 62, 76
+	orig: 62, 76
+	offset: 0, 0
+	index: -1
+h_Lforearm_boluosiB
+	rotate: false
+	xy: 446, 205
+	size: 66, 50
+	orig: 66, 50
+	offset: 0, 0
+	index: -1
+e_Rarm_boluosiB
+	rotate: false
+	xy: 65, 403
+	size: 61, 43
+	orig: 61, 43
+	offset: 0, 0
+	index: -1
+s_Lfoot_boluosiB
+	rotate: false
+	xy: 256, 437
+	size: 54, 31
+	orig: 54, 31
+	offset: 0, 0
+	index: -1
+k_Rthigh_boluosiB
+	rotate: true
+	xy: 0, 134
+	size: 62, 71
+	orig: 62, 71
+	offset: 0, 0
+	index: -1
+c_hair_boluosiB
+	rotate: true
+	xy: 0, 69
+	size: 64, 71
+	orig: 64, 71
+	offset: 0, 0
+	index: -1
+d_Rarm_boluosiB
+	rotate: false
+	xy: 195, 390
+	size: 62, 45
+	orig: 62, 45
+	offset: 0, 0
+	index: -1
+q_Rshoulder_boluosiB
+	rotate: true
+	xy: 281, 277
+	size: 61, 67
+	orig: 61, 67
+	offset: 0, 0
+	index: -1
+s_head_boluosiB
+	rotate: false
+	xy: 213, 210
+	size: 67, 67
+	orig: 67, 67
+	offset: 0, 0
+	index: -1
+a_Lshin_boluosiB
+	rotate: false
+	xy: 43, 450
+	size: 41, 61
+	orig: 41, 61
+	offset: 0, 0
+	index: -1
+a_head_boluosiB
+	rotate: false
+	xy: 0, 0
+	size: 79, 68
+	orig: 79, 68
+	offset: 0, 0
+	index: -1
+bz_Rshoulder_boluosiB
+	rotate: true
+	xy: 0, 349
+	size: 56, 64
+	orig: 56, 64
+	offset: 0, 0
+	index: -1
+s_benghuai_boluosiB
+	rotate: false
+	xy: 282, 209
+	size: 67, 67
+	orig: 67, 67
+	offset: 0, 0
+	index: -1
+d_coxa1_boluosiB
+	rotate: false
+	xy: 305, 168
+	size: 70, 40
+	orig: 70, 40
+	offset: 0, 0
+	index: -1
+h_Larm_boluosiB
+	rotate: true
+	xy: 454, 137
+	size: 67, 58
+	orig: 67, 58
+	offset: 0, 0
+	index: -1
+s_Rfoot_boluosiB
+	rotate: false
+	xy: 427, 429
+	size: 50, 40
+	orig: 50, 40
+	offset: 0, 0
+	index: -1
+n_coxa1_boluosiB
+	rotate: false
+	xy: 0, 300
+	size: 65, 48
+	orig: 65, 48
+	offset: 0, 0
+	index: -1
+p_coxa1_boluosiB
+	rotate: false
+	xy: 213, 169
+	size: 68, 40
+	orig: 68, 40
+	offset: 0, 0
+	index: -1
+j_Rshoulder_boluosiB
+	rotate: true
+	xy: 66, 301
+	size: 61, 64
+	orig: 61, 64
+	offset: 0, 0
+	index: -1
+a_eye1_boluosiB
+	rotate: false
+	xy: 376, 429
+	size: 50, 40
+	orig: 50, 40
+	offset: 0, 0
+	index: -1
+bz_Rthigh_boluosiB
+	rotate: false
+	xy: 144, 150
+	size: 68, 67
+	orig: 68, 67
+	offset: 0, 0
+	index: -1
+j_hair_boluosiB
+	rotate: true
+	xy: 80, 68
+	size: 34, 72
+	orig: 34, 72
+	offset: 0, 0
+	index: -1
+n_Rhand_boluosiB
+	rotate: false
+	xy: 481, 388
+	size: 31, 36
+	orig: 31, 36
+	offset: 0, 0
+	index: -1
+l_Rarm_boluosiB
+	rotate: false
+	xy: 305, 117
+	size: 70, 50
+	orig: 70, 50
+	offset: 0, 0
+	index: -1
+r_coxa2_boluosiB
+	rotate: false
+	xy: 350, 249
+	size: 25, 33
+	orig: 25, 33
+	offset: 0, 0
+	index: -1
+s_Rforearm_boluosiB
+	rotate: false
+	xy: 321, 414
+	size: 54, 55
+	orig: 54, 55
+	offset: 0, 0
+	index: -1
+p_Lhand_boluosiB
+	rotate: false
+	xy: 478, 429
+	size: 34, 37
+	orig: 34, 37
+	offset: 0, 0
+	index: -1
+a_eye2_boluosiB
+	rotate: true
+	xy: 350, 209
+	size: 39, 25
+	orig: 39, 25
+	offset: 0, 0
+	index: -1
+boluosiBtxbb_dian01_006
+	rotate: true
+	xy: 131, 347
+	size: 46, 63
+	orig: 100, 107
+	offset: 0, 37
+	index: -1
+boluosiBtxbb_dian01_000
+	rotate: false
+	xy: 462, 470
+	size: 50, 41
+	orig: 100, 107
+	offset: 26, 0
+	index: -1
+c_Larm_boluosiB
+	rotate: true
+	xy: 160, 63
+	size: 45, 73
+	orig: 45, 73
+	offset: 0, 0
+	index: -1
+bz_Lthigh_boluosiB
+	rotate: false
+	xy: 237, 0
+	size: 76, 48
+	orig: 76, 48
+	offset: 0, 0
+	index: -1
+p_Rarm_boluosiB
+	rotate: true
+	xy: 65, 363
+	size: 39, 63
+	orig: 39, 63
+	offset: 0, 0
+	index: -1
+n_Rshin_boluosiB
+	rotate: true
+	xy: 443, 345
+	size: 42, 66
+	orig: 42, 66
+	offset: 0, 0
+	index: -1
+h_Rshoulder_boluosiB
+	rotate: true
+	xy: 143, 435
+	size: 56, 51
+	orig: 56, 51
+	offset: 0, 0
+	index: -1
+g_coxa1_boluosiB
+	rotate: false
+	xy: 0, 197
+	size: 68, 41
+	orig: 68, 41
+	offset: 0, 0
+	index: -1
+s_coxa2_boluosiB
+	rotate: false
+	xy: 349, 283
+	size: 26, 34
+	orig: 26, 34
+	offset: 0, 0
+	index: -1
+s_Lthigh_boluosiB
+	rotate: false
+	xy: 0, 239
+	size: 65, 60
+	orig: 65, 60
+	offset: 0, 0
+	index: -1
+n_Lforearm_boluosiB
+	rotate: true
+	xy: 256, 470
+	size: 42, 55
+	orig: 42, 55
+	offset: 0, 0
+	index: -1
+d_Rforearm_boluosiB
+	rotate: true
+	xy: 323, 353
+	size: 60, 52
+	orig: 60, 52
+	offset: 0, 0
+	index: -1
+n_Rthigh_boluosiB
+	rotate: false
+	xy: 376, 328
+	size: 66, 43
+	orig: 66, 43
+	offset: 0, 0
+	index: -1
+h_Rshin_boluosiB
+	rotate: true
+	xy: 376, 161
+	size: 42, 70
+	orig: 42, 70
+	offset: 0, 0
+	index: -1
+o_Rarm_boluosiB
+	rotate: true
+	xy: 444, 305
+	size: 39, 67
+	orig: 39, 67
+	offset: 0, 0
+	index: -1
+c_Rarm_boluosiB
+	rotate: false
+	xy: 69, 235
+	size: 65, 65
+	orig: 65, 65
+	offset: 0, 0
+	index: -1
+s_baozou_boluosiB
+	rotate: true
+	xy: 72, 167
+	size: 67, 68
+	orig: 67, 68
+	offset: 0, 0
+	index: -1
+h_Rhand_boluosiB
+	rotate: false
+	xy: 437, 388
+	size: 43, 40
+	orig: 43, 40
+	offset: 0, 0
+	index: -1
+e_Lforearm_boluosiB
+	rotate: false
+	xy: 131, 306
+	size: 64, 40
+	orig: 64, 40
+	offset: 0, 0
+	index: -1
+a_coxa1_boluosiB
+	rotate: false
+	xy: 144, 109
+	size: 69, 40
+	orig: 69, 40
+	offset: 0, 0
+	index: -1
+j_Rarm_boluosiB
+	rotate: true
+	xy: 389, 0
+	size: 48, 71
+	orig: 48, 71
+	offset: 0, 0
+	index: -1
+n_head_boluosiB
+	rotate: true
+	xy: 376, 270
+	size: 57, 67
+	orig: 57, 67
+	offset: 0, 0
+	index: -1
+o_Lhand_boluosiB
+	rotate: false
+	xy: 312, 470
+	size: 53, 42
+	orig: 53, 42
+	offset: 0, 0
+	index: -1
+g_Rforearm_boluosiB
+	rotate: false
+	xy: 258, 394
+	size: 62, 42
+	orig: 62, 42
+	offset: 0, 0
+	index: -1
+l_Rforearm_boluosiB
+	rotate: true
+	xy: 0, 406
+	size: 43, 61
+	orig: 43, 61
+	offset: 0, 0
+	index: -1
+
+asset/anim/boluosiB1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_body_boluosiB
+	rotate: true
+	xy: 375, 204
+	size: 104, 112
+	orig: 104, 112
+	offset: 0, 0
+	index: -1
+p_head_boluosiB
+	rotate: true
+	xy: 448, 309
+	size: 79, 64
+	orig: 79, 64
+	offset: 0, 0
+	index: -1
+r_body_boluosiB
+	rotate: true
+	xy: 0, 264
+	size: 105, 114
+	orig: 105, 114
+	offset: 0, 0
+	index: -1
+m_body_boluosiB
+	rotate: true
+	xy: 0, 105
+	size: 81, 124
+	orig: 81, 124
+	offset: 0, 0
+	index: -1
+e_Rfoot_boluosiB
+	rotate: false
+	xy: 223, 369
+	size: 31, 60
+	orig: 31, 60
+	offset: 0, 0
+	index: -1
+a_Rthigh_boluosiB
+	rotate: true
+	xy: 0, 370
+	size: 59, 77
+	orig: 59, 77
+	offset: 0, 0
+	index: -1
+boluosiBtxbb_dian02_015
+	rotate: true
+	xy: 144, 370
+	size: 59, 61
+	orig: 131, 127
+	offset: 3, 3
+	index: -1
+boluosiBtxbb_dian02_014
+	rotate: false
+	xy: 256, 122
+	size: 119, 67
+	orig: 131, 127
+	offset: 1, 1
+	index: -1
+boluosiBtxbb_dian02_012
+	rotate: true
+	xy: 0, 430
+	size: 81, 101
+	orig: 131, 127
+	offset: 49, 26
+	index: -1
+j_body_boluosiB
+	rotate: true
+	xy: 131, 86
+	size: 108, 124
+	orig: 108, 124
+	offset: 0, 0
+	index: -1
+k_body_boluosiB
+	rotate: true
+	xy: 392, 110
+	size: 93, 120
+	orig: 93, 120
+	offset: 0, 0
+	index: -1
+p_body2_boluosiB
+	rotate: true
+	xy: 488, 241
+	size: 25, 23
+	orig: 25, 23
+	offset: 0, 0
+	index: -1
+o_Rshoulder_boluosiB
+	rotate: true
+	xy: 78, 370
+	size: 59, 65
+	orig: 59, 65
+	offset: 0, 0
+	index: -1
+boluosiBtxbb_dian02_000
+	rotate: true
+	xy: 102, 430
+	size: 81, 97
+	orig: 131, 127
+	offset: 0, 30
+	index: -1
+c_Rshoulder_boluosiB
+	rotate: false
+	xy: 448, 389
+	size: 64, 71
+	orig: 64, 71
+	offset: 0, 0
+	index: -1
+n_body_boluosiB
+	rotate: true
+	xy: 0, 187
+	size: 76, 121
+	orig: 76, 121
+	offset: 0, 0
+	index: -1
+boluosiBtxbb_dian02_006
+	rotate: false
+	xy: 361, 309
+	size: 79, 73
+	orig: 131, 127
+	offset: 17, 10
+	index: -1
+boluosiBtxbb_dian02_007
+	rotate: false
+	xy: 262, 0
+	size: 129, 121
+	orig: 131, 127
+	offset: 1, 0
+	index: -1
+boluosiBtxbb_dian02_005
+	rotate: false
+	xy: 122, 195
+	size: 117, 83
+	orig: 131, 127
+	offset: 4, 0
+	index: -1
+a_body3_boluosiB
+	rotate: true
+	xy: 488, 204
+	size: 36, 23
+	orig: 36, 23
+	offset: 0, 0
+	index: -1
+g_Lhand_boluosiB
+	rotate: true
+	xy: 223, 340
+	size: 28, 32
+	orig: 28, 32
+	offset: 0, 0
+	index: -1
+p_body_boluosiB
+	rotate: true
+	xy: 131, 0
+	size: 85, 130
+	orig: 85, 130
+	offset: 0, 0
+	index: -1
+t_body_boluosiB
+	rotate: true
+	xy: 392, 0
+	size: 109, 120
+	orig: 109, 120
+	offset: 0, 0
+	index: -1
+q_Rforearm_boluosiB
+	rotate: false
+	xy: 448, 461
+	size: 64, 44
+	orig: 64, 44
+	offset: 0, 0
+	index: -1
+n_hair2_boluosiB
+	rotate: true
+	xy: 256, 308
+	size: 97, 104
+	orig: 97, 104
+	offset: 0, 0
+	index: -1
+a_body_boluosiB
+	rotate: false
+	xy: 359, 406
+	size: 88, 90
+	orig: 88, 90
+	offset: 0, 0
+	index: -1
+boluosiBtxbb_dian01_004
+	rotate: true
+	xy: 115, 279
+	size: 90, 107
+	orig: 100, 107
+	offset: 7, 0
+	index: -1
+boluosiBtxbb_dian01_003
+	rotate: false
+	xy: 286, 406
+	size: 72, 91
+	orig: 100, 107
+	offset: 2, 0
+	index: -1
+g_body2_boluosiB
+	rotate: false
+	xy: 223, 310
+	size: 32, 29
+	orig: 32, 29
+	offset: 0, 0
+	index: -1
+s_body_boluosiB
+	rotate: false
+	xy: 256, 190
+	size: 118, 117
+	orig: 118, 117
+	offset: 0, 0
+	index: -1
+boluosiBtxbb_dian01_001
+	rotate: true
+	xy: 200, 430
+	size: 80, 85
+	orig: 100, 107
+	offset: 7, 0
+	index: -1
+p_coxa2_boluosiB
+	rotate: false
+	xy: 376, 122
+	size: 12, 17
+	orig: 12, 17
+	offset: 0, 0
+	index: -1
+bz_Larm_boluosiB
+	rotate: false
+	xy: 223, 279
+	size: 32, 30
+	orig: 32, 30
+	offset: 0, 0
+	index: -1
+s_hair2_boluosiB
+	rotate: false
+	xy: 0, 0
+	size: 130, 104
+	orig: 130, 104
+	offset: 0, 0
+	index: -1
+
+asset/anim/boluosiB0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_coxa1_boluosiB
+	rotate: true
+	xy: 332, 137
+	size: 66, 52
+	orig: 66, 52
+	offset: 0, 0
+	index: -1
+a_coxa2_boluosiB
+	rotate: true
+	xy: 290, 264
+	size: 12, 18
+	orig: 12, 18
+	offset: 0, 0
+	index: -1
+n_Rarm_boluosiB
+	rotate: true
+	xy: 475, 458
+	size: 54, 35
+	orig: 54, 35
+	offset: 0, 0
+	index: -1
+a_Rshin_boluosiB
+	rotate: false
+	xy: 342, 351
+	size: 42, 59
+	orig: 42, 59
+	offset: 0, 0
+	index: -1
+s_Rthigh_boluosiB
+	rotate: false
+	xy: 332, 204
+	size: 45, 74
+	orig: 45, 74
+	offset: 0, 0
+	index: -1
+boluosiBtxbb_dian02_011
+	rotate: true
+	xy: 220, 132
+	size: 131, 111
+	orig: 131, 127
+	offset: 0, 16
+	index: -1
+boluosiBtxbb_dian02_010
+	rotate: false
+	xy: 385, 258
+	size: 127, 127
+	orig: 131, 127
+	offset: 3, 0
+	index: -1
+e_Lshoulder2_boluosiB
+	rotate: true
+	xy: 220, 264
+	size: 16, 18
+	orig: 16, 18
+	offset: 0, 0
+	index: -1
+boluosiBtxbb_dian02_003
+	rotate: false
+	xy: 385, 130
+	size: 127, 127
+	orig: 131, 127
+	offset: 3, 0
+	index: -1
+a_hair2_boluosiB
+	rotate: true
+	xy: 0, 143
+	size: 137, 131
+	orig: 137, 131
+	offset: 0, 0
+	index: -1
+boluosiBtxbb_dian02_004
+	rotate: true
+	xy: 385, 0
+	size: 129, 127
+	orig: 131, 127
+	offset: 1, 0
+	index: -1
+boluosiBtxbb_dian02_008
+	rotate: true
+	xy: 285, 411
+	size: 101, 99
+	orig: 131, 127
+	offset: 3, 0
+	index: -1
+boluosiBtxbb_dian02_009
+	rotate: false
+	xy: 107, 417
+	size: 79, 95
+	orig: 131, 127
+	offset: 7, 0
+	index: -1
+c_hair2_boluosiB
+	rotate: true
+	xy: 98, 0
+	size: 137, 113
+	orig: 137, 113
+	offset: 0, 0
+	index: -1
+s_Lshin_boluosiB
+	rotate: false
+	xy: 340, 69
+	size: 44, 67
+	orig: 44, 67
+	offset: 0, 0
+	index: -1
+p_hair2_boluosiB
+	rotate: true
+	xy: 130, 281
+	size: 134, 119
+	orig: 134, 119
+	offset: 0, 0
+	index: -1
+g_body_boluosiB
+	rotate: false
+	xy: 250, 279
+	size: 91, 131
+	orig: 91, 131
+	offset: 0, 0
+	index: -1
+shoujiguadian_boluosiB
+	rotate: false
+	xy: 98, 138
+	size: 3, 3
+	orig: 50, 50
+	offset: 0, 46
+	index: -1
+gd_boluosiB
+	rotate: false
+	xy: 0, 0
+	size: 97, 142
+	orig: 97, 142
+	offset: 0, 0
+	index: -1
+c_Rshoulder2_boluosiB
+	rotate: true
+	xy: 239, 264
+	size: 14, 19
+	orig: 14, 19
+	offset: 0, 0
+	index: -1
+h_body_boluosiB
+	rotate: false
+	xy: 132, 138
+	size: 87, 132
+	orig: 87, 132
+	offset: 0, 0
+	index: -1
+d_coxa2_boluosiB
+	rotate: true
+	xy: 309, 264
+	size: 12, 17
+	orig: 12, 17
+	offset: 0, 0
+	index: -1
+a_Raccessories_boluosiB
+	rotate: true
+	xy: 144, 271
+	size: 8, 27
+	orig: 8, 27
+	offset: 0, 0
+	index: -1
+q_Rshoulder2_boluosiB
+	rotate: true
+	xy: 132, 271
+	size: 9, 11
+	orig: 9, 11
+	offset: 0, 0
+	index: -1
+bz_coxa1_boluosiB
+	rotate: false
+	xy: 385, 386
+	size: 89, 125
+	orig: 89, 125
+	offset: 0, 0
+	index: -1
+d_body_boluosiB
+	rotate: true
+	xy: 0, 417
+	size: 95, 106
+	orig: 95, 106
+	offset: 0, 0
+	index: -1
+bz_Lshin_boluosiB
+	rotate: false
+	xy: 475, 386
+	size: 37, 71
+	orig: 37, 71
+	offset: 0, 0
+	index: -1
+p_Rforearm_boluosiB
+	rotate: false
+	xy: 340, 0
+	size: 44, 68
+	orig: 44, 68
+	offset: 0, 0
+	index: -1
+m_Rforearm_boluosiB
+	rotate: true
+	xy: 342, 279
+	size: 71, 42
+	orig: 71, 42
+	offset: 0, 0
+	index: -1
+boluosiBtxbb_dian01_005
+	rotate: true
+	xy: 187, 416
+	size: 96, 97
+	orig: 100, 107
+	offset: 0, 8
+	index: -1
+j_hair2_boluosiB
+	rotate: false
+	xy: 0, 281
+	size: 129, 135
+	orig: 129, 135
+	offset: 0, 0
+	index: -1
+a_Rshoulder2_boluosiB
+	rotate: true
+	xy: 259, 264
+	size: 14, 17
+	orig: 14, 17
+	offset: 0, 0
+	index: -1
+boluosiBtxbb_dian02_013
+	rotate: true
+	xy: 212, 0
+	size: 131, 127
+	orig: 131, 127
+	offset: 0, 0
+	index: -1
+a_Laccessories_boluosiB
+	rotate: true
+	xy: 172, 271
+	size: 7, 23
+	orig: 7, 23
+	offset: 0, 0
+	index: -1
+l_Rshoulder2_boluosiB
+	rotate: false
+	xy: 277, 264
+	size: 12, 14
+	orig: 12, 14
+	offset: 0, 0
+	index: -1

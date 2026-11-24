@@ -1,0 +1,906 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+
+asset/anim/hongwennv1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e_Rfoot_hongwennv
+	rotate: true
+	xy: 258, 311
+	size: 38, 70
+	orig: 38, 70
+	offset: 0, 0
+	index: -1
+a_Rforearm_hongwennv
+	rotate: false
+	xy: 328, 396
+	size: 49, 60
+	orig: 49, 60
+	offset: 0, 0
+	index: -1
+d_Lforearm_hongwennv
+	rotate: false
+	xy: 456, 122
+	size: 56, 48
+	orig: 56, 48
+	offset: 0, 0
+	index: -1
+f_Rthigh_hongwennv
+	rotate: false
+	xy: 94, 201
+	size: 33, 71
+	orig: 33, 71
+	offset: 0, 0
+	index: -1
+canying2_hongwennv
+	rotate: false
+	xy: 0, 0
+	size: 132, 57
+	orig: 132, 57
+	offset: 0, 0
+	index: -1
+j_coxa_hongwennv
+	rotate: false
+	xy: 0, 374
+	size: 53, 48
+	orig: 53, 48
+	offset: 0, 0
+	index: -1
+f_Rfoot_hongwennv
+	rotate: true
+	xy: 378, 423
+	size: 40, 68
+	orig: 40, 68
+	offset: 0, 0
+	index: -1
+i_coxa_hongwennv
+	rotate: false
+	xy: 432, 468
+	size: 60, 37
+	orig: 60, 37
+	offset: 0, 0
+	index: -1
+b_Rshin1_hongwennv
+	rotate: false
+	xy: 448, 319
+	size: 64, 54
+	orig: 64, 54
+	offset: 0, 0
+	index: -1
+a_Lfoot_hongwennv
+	rotate: true
+	xy: 448, 374
+	size: 38, 63
+	orig: 38, 63
+	offset: 0, 0
+	index: -1
+i_Lfoot_hongwennv
+	rotate: false
+	xy: 259, 272
+	size: 70, 38
+	orig: 70, 38
+	offset: 0, 0
+	index: -1
+a_Lshin2_hongwennv
+	rotate: true
+	xy: 211, 423
+	size: 26, 50
+	orig: 26, 50
+	offset: 0, 0
+	index: -1
+f_body_hongwennv
+	rotate: true
+	xy: 128, 219
+	size: 54, 72
+	orig: 54, 72
+	offset: 0, 0
+	index: -1
+i_tail_hongwennv
+	rotate: false
+	xy: 133, 0
+	size: 128, 64
+	orig: 128, 64
+	offset: 0, 0
+	index: -1
+i_Rshoulder_hongwennv
+	rotate: false
+	xy: 128, 274
+	size: 71, 49
+	orig: 71, 49
+	offset: 0, 0
+	index: -1
+d_Lhand_hongwennv
+	rotate: true
+	xy: 129, 145
+	size: 73, 95
+	orig: 73, 95
+	offset: 0, 0
+	index: -1
+f_Lthigh_hongwennv
+	rotate: true
+	xy: 378, 122
+	size: 36, 77
+	orig: 36, 77
+	offset: 0, 0
+	index: -1
+a_eye4_hongwennv
+	rotate: true
+	xy: 115, 111
+	size: 37, 13
+	orig: 37, 13
+	offset: 0, 0
+	index: -1
+a_head_hongwennv
+	rotate: true
+	xy: 201, 227
+	size: 53, 57
+	orig: 53, 57
+	offset: 0, 0
+	index: -1
+f_Lfoot_hongwennv
+	rotate: true
+	xy: 60, 468
+	size: 43, 65
+	orig: 43, 65
+	offset: 0, 0
+	index: -1
+zhuazi2_hongwennv
+	rotate: true
+	xy: 0, 201
+	size: 63, 93
+	orig: 63, 93
+	offset: 0, 0
+	index: -1
+a_tail_hongwennv
+	rotate: false
+	xy: 262, 0
+	size: 120, 56
+	orig: 120, 56
+	offset: 0, 0
+	index: -1
+d_Rforearm_hongwennv
+	rotate: false
+	xy: 225, 168
+	size: 33, 58
+	orig: 33, 58
+	offset: 0, 0
+	index: -1
+gedangguang_hongwennv
+	rotate: true
+	xy: 262, 57
+	size: 92, 115
+	orig: 92, 115
+	offset: 0, 0
+	index: -1
+f_Lshin1_hongwennv
+	rotate: false
+	xy: 448, 413
+	size: 62, 54
+	orig: 62, 54
+	offset: 0, 0
+	index: -1
+a_body_hongwennv
+	rotate: true
+	xy: 262, 423
+	size: 53, 65
+	orig: 53, 65
+	offset: 0, 0
+	index: -1
+a_hair2_hongwennv
+	rotate: false
+	xy: 383, 0
+	size: 120, 53
+	orig: 120, 53
+	offset: 0, 0
+	index: -1
+f_Rshin1_hongwennv
+	rotate: true
+	xy: 0, 423
+	size: 44, 59
+	orig: 44, 59
+	offset: 0, 0
+	index: -1
+f_Rarm_hongwennv
+	rotate: false
+	xy: 60, 423
+	size: 46, 33
+	orig: 46, 33
+	offset: 0, 0
+	index: -1
+a_Rshoulder_hongwennv
+	rotate: true
+	xy: 378, 201
+	size: 38, 75
+	orig: 38, 75
+	offset: 0, 0
+	index: -1
+a_Lhat_hongwennv
+	rotate: false
+	xy: 215, 457
+	size: 46, 55
+	orig: 46, 55
+	offset: 0, 0
+	index: -1
+a_Rshin1_hongwennv
+	rotate: true
+	xy: 333, 214
+	size: 68, 44
+	orig: 68, 44
+	offset: 0, 0
+	index: -1
+b_Lfoot_hongwennv
+	rotate: false
+	xy: 378, 384
+	size: 69, 38
+	orig: 69, 38
+	offset: 0, 0
+	index: -1
+j_Rforearm_hongwennv
+	rotate: false
+	xy: 258, 387
+	size: 69, 35
+	orig: 69, 35
+	offset: 0, 0
+	index: -1
+k_Rforearm_hongwennv
+	rotate: true
+	xy: 179, 468
+	size: 43, 35
+	orig: 43, 35
+	offset: 0, 0
+	index: -1
+f_coxa_hongwennv
+	rotate: false
+	xy: 126, 468
+	size: 52, 43
+	orig: 52, 43
+	offset: 0, 0
+	index: -1
+f_Rforearm_hongwennv
+	rotate: false
+	xy: 0, 468
+	size: 59, 44
+	orig: 59, 44
+	offset: 0, 0
+	index: -1
+i_Lshin1_hongwennv
+	rotate: true
+	xy: 338, 150
+	size: 63, 39
+	orig: 63, 39
+	offset: 0, 0
+	index: -1
+a_eye3_hongwennv
+	rotate: true
+	xy: 245, 128
+	size: 39, 14
+	orig: 39, 14
+	offset: 0, 0
+	index: -1
+a_Lthigh_hongwennv
+	rotate: true
+	xy: 107, 396
+	size: 60, 51
+	orig: 60, 51
+	offset: 0, 0
+	index: -1
+i_Rshin1_hongwennv
+	rotate: false
+	xy: 60, 322
+	size: 67, 43
+	orig: 67, 43
+	offset: 0, 0
+	index: -1
+e_Rhand_hongwennv
+	rotate: false
+	xy: 383, 54
+	size: 118, 67
+	orig: 118, 67
+	offset: 0, 0
+	index: -1
+e_Rshoulder_hongwennv
+	rotate: false
+	xy: 378, 159
+	size: 75, 41
+	orig: 75, 41
+	offset: 0, 0
+	index: -1
+e_Lthigh_hongwennv
+	rotate: false
+	xy: 215, 329
+	size: 42, 66
+	orig: 42, 66
+	offset: 0, 0
+	index: -1
+a_Rhand_hongwennv
+	rotate: true
+	xy: 129, 65
+	size: 79, 115
+	orig: 79, 115
+	offset: 0, 0
+	index: -1
+e_Lshin1_hongwennv
+	rotate: false
+	xy: 454, 225
+	size: 58, 47
+	orig: 58, 47
+	offset: 0, 0
+	index: -1
+b_Lshin2_hongwennv
+	rotate: false
+	xy: 245, 65
+	size: 14, 62
+	orig: 14, 62
+	offset: 0, 0
+	index: -1
+e_Rthigh_hongwennv
+	rotate: false
+	xy: 378, 301
+	size: 69, 41
+	orig: 69, 41
+	offset: 0, 0
+	index: -1
+a_Lshin1_hongwennv
+	rotate: false
+	xy: 200, 281
+	size: 57, 47
+	orig: 57, 47
+	offset: 0, 0
+	index: -1
+a_Lforearm_hongwennv
+	rotate: true
+	xy: 328, 457
+	size: 53, 40
+	orig: 53, 40
+	offset: 0, 0
+	index: -1
+a_Rfoot_hongwennv
+	rotate: true
+	xy: 378, 343
+	size: 40, 69
+	orig: 40, 69
+	offset: 0, 0
+	index: -1
+b_Lforearm_hongwennv
+	rotate: false
+	xy: 258, 350
+	size: 69, 36
+	orig: 69, 36
+	offset: 0, 0
+	index: -1
+i_Lthigh_hongwennv
+	rotate: false
+	xy: 454, 171
+	size: 58, 53
+	orig: 58, 53
+	offset: 0, 0
+	index: -1
+a_Rthigh_hongwennv
+	rotate: false
+	xy: 128, 329
+	size: 51, 65
+	orig: 51, 65
+	offset: 0, 0
+	index: -1
+f_Lhand_hongwennv
+	rotate: true
+	xy: 0, 265
+	size: 48, 93
+	orig: 48, 93
+	offset: 0, 0
+	index: -1
+f_Rhand_hongwennv
+	rotate: true
+	xy: 0, 58
+	size: 52, 128
+	orig: 52, 128
+	offset: 0, 0
+	index: -1
+e_Rarm_hongwennv
+	rotate: true
+	xy: 94, 273
+	size: 48, 33
+	orig: 48, 33
+	offset: 0, 0
+	index: -1
+i_Lshoulder_hongwennv
+	rotate: false
+	xy: 180, 329
+	size: 31, 57
+	orig: 31, 57
+	offset: 0, 0
+	index: -1
+b_Rshin2_hongwennv
+	rotate: false
+	xy: 262, 477
+	size: 57, 35
+	orig: 57, 35
+	offset: 0, 0
+	index: -1
+j_body_hongwennv
+	rotate: true
+	xy: 259, 182
+	size: 50, 73
+	orig: 50, 73
+	offset: 0, 0
+	index: -1
+g_Rforearm_hongwennv
+	rotate: true
+	xy: 369, 464
+	size: 46, 62
+	orig: 46, 62
+	offset: 0, 0
+	index: -1
+e_Rshin1_hongwennv
+	rotate: false
+	xy: 0, 314
+	size: 59, 59
+	orig: 59, 59
+	offset: 0, 0
+	index: -1
+e_tail_hongwennv
+	rotate: true
+	xy: 0, 111
+	size: 89, 114
+	orig: 89, 114
+	offset: 0, 0
+	index: -1
+a_coxa_hongwennv
+	rotate: false
+	xy: 54, 374
+	size: 52, 48
+	orig: 52, 48
+	offset: 0, 0
+	index: -1
+i_Rthigh_hongwennv
+	rotate: false
+	xy: 260, 150
+	size: 77, 31
+	orig: 77, 31
+	offset: 0, 0
+	index: -1
+b_Lthigh_hongwennv
+	rotate: true
+	xy: 451, 273
+	size: 45, 61
+	orig: 45, 61
+	offset: 0, 0
+	index: -1
+b_Lshin1_hongwennv
+	rotate: true
+	xy: 159, 396
+	size: 60, 51
+	orig: 60, 51
+	offset: 0, 0
+	index: -1
+f_Lforearm_hongwennv
+	rotate: false
+	xy: 330, 283
+	size: 47, 57
+	orig: 47, 57
+	offset: 0, 0
+	index: -1
+e_coxa_hongwennv
+	rotate: false
+	xy: 329, 341
+	size: 48, 54
+	orig: 48, 54
+	offset: 0, 0
+	index: -1
+b_Rfoot_hongwennv
+	rotate: false
+	xy: 259, 233
+	size: 71, 38
+	orig: 71, 38
+	offset: 0, 0
+	index: -1
+e_body_hongwennv
+	rotate: true
+	xy: 378, 240
+	size: 60, 72
+	orig: 60, 72
+	offset: 0, 0
+	index: -1
+
+asset/anim/hongwennv0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k_tail_hongwennv
+	rotate: true
+	xy: 253, 0
+	size: 83, 117
+	orig: 83, 117
+	offset: 0, 0
+	index: -1
+b_Rarm_hongwennv
+	rotate: false
+	xy: 364, 462
+	size: 44, 20
+	orig: 44, 20
+	offset: 0, 0
+	index: -1
+d_Rhand_hongwennv
+	rotate: false
+	xy: 325, 342
+	size: 45, 119
+	orig: 45, 119
+	offset: 0, 0
+	index: -1
+a_Rshin2_hongwennv
+	rotate: false
+	xy: 352, 276
+	size: 13, 63
+	orig: 13, 63
+	offset: 0, 0
+	index: -1
+i_Rforearm_hongwennv
+	rotate: true
+	xy: 223, 0
+	size: 72, 27
+	orig: 72, 27
+	offset: 0, 0
+	index: -1
+i_Lforearm_hongwennv
+	rotate: false
+	xy: 312, 487
+	size: 58, 24
+	orig: 58, 24
+	offset: 0, 0
+	index: -1
+a_Lwing_hongwennv
+	rotate: false
+	xy: 0, 0
+	size: 48, 183
+	orig: 48, 183
+	offset: 0, 0
+	index: -1
+b_coxa_hongwennv
+	rotate: true
+	xy: 465, 417
+	size: 58, 47
+	orig: 58, 47
+	offset: 0, 0
+	index: -1
+zhuazi3_hongwennv
+	rotate: false
+	xy: 292, 300
+	size: 14, 20
+	orig: 14, 20
+	offset: 0, 0
+	index: -1
+baoozu_1_hongwennv
+	rotate: false
+	xy: 371, 0
+	size: 138, 126
+	orig: 138, 126
+	offset: 0, 0
+	index: -1
+g_Lhand_hongwennv
+	rotate: false
+	xy: 307, 236
+	size: 44, 105
+	orig: 44, 105
+	offset: 0, 0
+	index: -1
+i_Lshin2_hongwennv
+	rotate: false
+	xy: 150, 164
+	size: 53, 16
+	orig: 53, 16
+	offset: 0, 0
+	index: -1
+a_hit_hongwennv
+	rotate: false
+	xy: 496, 476
+	size: 13, 12
+	orig: 13, 12
+	offset: 0, 0
+	index: -1
+f_Lshoulder_hongwennv
+	rotate: false
+	xy: 409, 417
+	size: 55, 65
+	orig: 55, 65
+	offset: 0, 0
+	index: -1
+a_Rtentacle_hongwennv
+	rotate: false
+	xy: 87, 184
+	size: 68, 163
+	orig: 68, 163
+	offset: 0, 0
+	index: -1
+a_hair4_hongwennv
+	rotate: false
+	xy: 122, 348
+	size: 81, 143
+	orig: 81, 143
+	offset: 0, 0
+	index: -1
+j_Rarm_hongwennv
+	rotate: false
+	xy: 465, 476
+	size: 30, 36
+	orig: 30, 36
+	offset: 0, 0
+	index: -1
+canying3_hongwennv
+	rotate: true
+	xy: 49, 0
+	size: 163, 121
+	orig: 163, 121
+	offset: 0, 0
+	index: -1
+e_Lshoulder_hongwennv
+	rotate: false
+	xy: 371, 483
+	size: 58, 26
+	orig: 58, 26
+	offset: 0, 0
+	index: -1
+a_Rarm_hongwennv
+	rotate: false
+	xy: 223, 73
+	size: 27, 46
+	orig: 27, 46
+	offset: 0, 0
+	index: -1
+d_Rarm_hongwennv
+	rotate: false
+	xy: 371, 417
+	size: 37, 41
+	orig: 37, 41
+	offset: 0, 0
+	index: -1
+i_head_hongwennv
+	rotate: false
+	xy: 371, 127
+	size: 137, 122
+	orig: 137, 122
+	offset: 0, 0
+	index: -1
+e_Rshin2_hongwennv
+	rotate: false
+	xy: 292, 236
+	size: 14, 63
+	orig: 14, 63
+	offset: 0, 0
+	index: -1
+e_head_hongwennv
+	rotate: true
+	xy: 0, 358
+	size: 153, 76
+	orig: 153, 76
+	offset: 0, 0
+	index: -1
+a_Ltentacle_hongwennv
+	rotate: false
+	xy: 171, 0
+	size: 51, 156
+	orig: 51, 156
+	offset: 0, 0
+	index: -1
+a_eye2_hongwennv
+	rotate: true
+	xy: 352, 236
+	size: 39, 15
+	orig: 39, 15
+	offset: 0, 0
+	index: -1
+zhuazi1_hongwennv
+	rotate: true
+	xy: 216, 487
+	size: 24, 95
+	orig: 24, 95
+	offset: 0, 0
+	index: -1
+e_Lshin2_hongwennv
+	rotate: true
+	xy: 430, 390
+	size: 26, 51
+	orig: 26, 51
+	offset: 0, 0
+	index: -1
+f_Rshin2_hongwennv
+	rotate: true
+	xy: 156, 324
+	size: 21, 52
+	orig: 21, 52
+	offset: 0, 0
+	index: -1
+a_hair1_hongwennv
+	rotate: false
+	xy: 430, 349
+	size: 82, 40
+	orig: 82, 40
+	offset: 0, 0
+	index: -1
+i_Rshin2_hongwennv
+	rotate: false
+	xy: 49, 164
+	size: 62, 19
+	orig: 62, 19
+	offset: 0, 0
+	index: -1
+cangying1_hongwennv
+	rotate: true
+	xy: 0, 184
+	size: 173, 86
+	orig: 173, 86
+	offset: 0, 0
+	index: -1
+a_hair6_hongwennv
+	rotate: false
+	xy: 77, 358
+	size: 44, 146
+	orig: 44, 146
+	offset: 0, 0
+	index: -1
+a_Larm_hongwennv
+	rotate: true
+	xy: 170, 492
+	size: 20, 45
+	orig: 20, 45
+	offset: 0, 0
+	index: -1
+k_Rarm_hongwennv
+	rotate: true
+	xy: 258, 324
+	size: 21, 48
+	orig: 21, 48
+	offset: 0, 0
+	index: -1
+a_eye1_hongwennv
+	rotate: false
+	xy: 112, 164
+	size: 37, 19
+	orig: 37, 19
+	offset: 0, 0
+	index: -1
+a_hair5_hongwennv
+	rotate: false
+	xy: 204, 346
+	size: 120, 140
+	orig: 120, 140
+	offset: 0, 0
+	index: -1
+a_Rhat_hongwennv
+	rotate: false
+	xy: 371, 250
+	size: 135, 98
+	orig: 135, 98
+	offset: 0, 0
+	index: -1
+f_Larm_hongwennv
+	rotate: false
+	xy: 209, 324
+	size: 48, 21
+	orig: 48, 21
+	offset: 0, 0
+	index: -1
+i_Larm_hongwennv
+	rotate: false
+	xy: 325, 462
+	size: 38, 21
+	orig: 38, 21
+	offset: 0, 0
+	index: -1
+d_Larm_hongwennv
+	rotate: true
+	xy: 204, 157
+	size: 23, 48
+	orig: 23, 48
+	offset: 0, 0
+	index: -1
+a_hair3_hongwennv
+	rotate: false
+	xy: 253, 84
+	size: 117, 34
+	orig: 117, 34
+	offset: 0, 0
+	index: -1
+f_head_hongwennv
+	rotate: true
+	xy: 156, 181
+	size: 142, 135
+	orig: 142, 135
+	offset: 0, 0
+	index: -1
+e_Lfoot_hongwennv
+	rotate: false
+	xy: 253, 119
+	size: 48, 61
+	orig: 48, 61
+	offset: 0, 0
+	index: -1
+i_body_hongwennv
+	rotate: true
+	xy: 371, 349
+	size: 67, 58
+	orig: 67, 58
+	offset: 0, 0
+	index: -1
+a_Lhand_hongwennv
+	rotate: false
+	xy: 302, 119
+	size: 68, 116
+	orig: 68, 116
+	offset: 0, 0
+	index: -1
+i_Rarm_hongwennv
+	rotate: false
+	xy: 122, 492
+	size: 47, 20
+	orig: 47, 20
+	offset: 0, 0
+	index: -1
+
+asset/anim/hongwennv2.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f_Lshin2_hongwennv
+	rotate: false
+	xy: 38, 69
+	size: 36, 56
+	orig: 36, 56
+	offset: 0, 0
+	index: -1
+e_Rforearm_hongwennv
+	rotate: false
+	xy: 0, 0
+	size: 61, 36
+	orig: 61, 36
+	offset: 0, 0
+	index: -1
+f_Rshoulder_hongwennv
+	rotate: false
+	xy: 0, 69
+	size: 37, 56
+	orig: 37, 56
+	offset: 0, 0
+	index: -1
+a_Lshoulder_hongwennv
+	rotate: true
+	xy: 62, 31
+	size: 37, 56
+	orig: 37, 56
+	offset: 0, 0
+	index: -1
+g_Lforearm_hongwennv
+	rotate: false
+	xy: 75, 69
+	size: 36, 56
+	orig: 36, 56
+	offset: 0, 0
+	index: -1
+b_Rforearm_hongwennv
+	rotate: true
+	xy: 62, 0
+	size: 30, 60
+	orig: 30, 60
+	offset: 0, 0
+	index: -1
+b_Larm_hongwennv
+	rotate: true
+	xy: 0, 37
+	size: 30, 37
+	orig: 30, 37
+	offset: 0, 0
+	index: -1

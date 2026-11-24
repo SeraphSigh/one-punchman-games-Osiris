@@ -1,0 +1,286 @@
+
+asset/anim/cxyzkapai.png
+size: 477,898
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_hair6_cxyzkapai
+	rotate: false
+	xy: 176, 324
+	size: 184, 128
+	orig: 184, 128
+	offset: 0, 0
+	index: -1
+a_hair4_cxyzkapai
+	rotate: false
+	xy: 432, 474
+	size: 44, 95
+	orig: 44, 95
+	offset: 0, 0
+	index: -1
+a_Rhand1_cxyzkapai
+	rotate: true
+	xy: 326, 829
+	size: 27, 66
+	orig: 27, 66
+	offset: 0, 0
+	index: -1
+a_Rarm2_cxyzkapai
+	rotate: false
+	xy: 85, 651
+	size: 64, 151
+	orig: 64, 151
+	offset: 0, 0
+	index: -1
+a_Rerhuan_cxyzkapai
+	rotate: false
+	xy: 418, 407
+	size: 10, 31
+	orig: 10, 31
+	offset: 0, 0
+	index: -1
+a_Lyanpi_cxyzkapai
+	rotate: false
+	xy: 206, 750
+	size: 27, 20
+	orig: 27, 20
+	offset: 0, 0
+	index: -1
+a_Lfoot_cxyzkapai
+	rotate: false
+	xy: 418, 304
+	size: 59, 102
+	orig: 59, 102
+	offset: 0, 0
+	index: -1
+a_hair1_cxyzkapai
+	rotate: true
+	xy: 413, 837
+	size: 35, 49
+	orig: 35, 49
+	offset: 0, 0
+	index: -1
+a_qun_cxyzkapai
+	rotate: false
+	xy: 172, 100
+	size: 239, 223
+	orig: 239, 223
+	offset: 0, 0
+	index: -1
+a_zhu_cxyzkapai
+	rotate: false
+	xy: 250, 598
+	size: 30, 21
+	orig: 30, 21
+	offset: 0, 0
+	index: -1
+a_Lleg2_cxyzkapai
+	rotate: false
+	xy: 0, 651
+	size: 84, 247
+	orig: 84, 247
+	offset: 0, 0
+	index: -1
+a_Ldai_cxyzkapai
+	rotate: true
+	xy: 283, 709
+	size: 55, 80
+	orig: 55, 80
+	offset: 0, 0
+	index: -1
+a_hair5_cxyzkapai
+	rotate: true
+	xy: 317, 857
+	size: 27, 60
+	orig: 27, 60
+	offset: 0, 0
+	index: -1
+a_Larm2_cxyzkapai
+	rotate: false
+	xy: 176, 453
+	size: 73, 170
+	orig: 73, 170
+	offset: 0, 0
+	index: -1
+a_Rleg1_cxyzkapai
+	rotate: false
+	xy: 0, 373
+	size: 96, 268
+	orig: 96, 268
+	offset: 0, 0
+	index: -1
+a_Rfoot_cxyzkapai
+	rotate: false
+	xy: 150, 651
+	size: 55, 131
+	orig: 55, 131
+	offset: 0, 0
+	index: -1
+a_Lxiong_cxyzkapai
+	rotate: true
+	xy: 85, 803
+	size: 95, 93
+	orig: 95, 93
+	offset: 0, 0
+	index: -1
+a_hair0_cxyzkapai
+	rotate: true
+	xy: 179, 783
+	size: 101, 54
+	orig: 101, 54
+	offset: 0, 0
+	index: -1
+a_Rdai_cxyzkapai
+	rotate: true
+	xy: 283, 598
+	size: 110, 76
+	orig: 110, 76
+	offset: 0, 0
+	index: -1
+a_Rleg2_cxyzkapai
+	rotate: false
+	xy: 97, 373
+	size: 78, 277
+	orig: 78, 277
+	offset: 0, 0
+	index: -1
+a_Lleg1_cxyzkapai
+	rotate: true
+	xy: 172, 0
+	size: 99, 305
+	orig: 99, 305
+	offset: 0, 0
+	index: -1
+a_face_cxyzkapai
+	rotate: false
+	xy: 333, 458
+	size: 98, 117
+	orig: 98, 117
+	offset: 0, 0
+	index: -1
+a_Lhand_cxyzkapai
+	rotate: true
+	xy: 361, 772
+	size: 55, 57
+	orig: 55, 57
+	offset: 0, 0
+	index: -1
+a_body_cxyzkapai
+	rotate: false
+	xy: 0, 0
+	size: 171, 372
+	orig: 171, 372
+	offset: 0, 0
+	index: -1
+a_Rqun_cxyzkapai
+	rotate: false
+	xy: 360, 576
+	size: 74, 99
+	orig: 74, 99
+	offset: 0, 0
+	index: -1
+a_Rdaiying_cxyzkapai
+	rotate: true
+	xy: 364, 676
+	size: 95, 71
+	orig: 95, 71
+	offset: 0, 0
+	index: -1
+a_hair_cxyzkapai
+	rotate: true
+	xy: 206, 624
+	size: 125, 76
+	orig: 125, 76
+	offset: 0, 0
+	index: -1
+a_yan_cxyzkapai
+	rotate: true
+	xy: 436, 657
+	size: 67, 39
+	orig: 67, 39
+	offset: 0, 0
+	index: -1
+a_Lerhuan_cxyzkapai
+	rotate: true
+	xy: 234, 750
+	size: 14, 21
+	orig: 14, 21
+	offset: 0, 0
+	index: -1
+a_Ldaiying_cxyzkapai
+	rotate: false
+	xy: 435, 407
+	size: 42, 66
+	orig: 42, 66
+	offset: 0, 0
+	index: -1
+a_hua_cxyzkapai
+	rotate: true
+	xy: 419, 793
+	size: 43, 54
+	orig: 43, 54
+	offset: 0, 0
+	index: -1
+a_hair3_cxyzkapai
+	rotate: false
+	xy: 435, 570
+	size: 40, 86
+	orig: 40, 86
+	offset: 0, 0
+	index: -1
+a_Larm1_cxyzkapai
+	rotate: false
+	xy: 361, 324
+	size: 56, 133
+	orig: 56, 133
+	offset: 0, 0
+	index: -1
+a_mei_cxyzkapai
+	rotate: true
+	xy: 326, 765
+	size: 63, 34
+	orig: 63, 34
+	offset: 0, 0
+	index: -1
+a_Rhand2_cxyzkapai
+	rotate: true
+	xy: 234, 851
+	size: 47, 82
+	orig: 47, 82
+	offset: 0, 0
+	index: -1
+a_Rarm1_cxyzkapai
+	rotate: false
+	xy: 412, 100
+	size: 62, 203
+	orig: 62, 203
+	offset: 0, 0
+	index: -1
+a_hair2_cxyzkapai
+	rotate: false
+	xy: 436, 725
+	size: 38, 67
+	orig: 38, 67
+	offset: 0, 0
+	index: -1
+a_Lqun_cxyzkapai
+	rotate: false
+	xy: 250, 453
+	size: 82, 144
+	orig: 82, 144
+	offset: 0, 0
+	index: -1
+a_Ryanpi_cxyzkapai
+	rotate: true
+	xy: 393, 828
+	size: 31, 19
+	orig: 31, 19
+	offset: 0, 0
+	index: -1
+a_Rxiong_cxyzkapai
+	rotate: false
+	xy: 234, 765
+	size: 91, 85
+	orig: 91, 85
+	offset: 0, 0
+	index: -1

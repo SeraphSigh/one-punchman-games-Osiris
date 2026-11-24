@@ -1,0 +1,26 @@
+
+asset/anim/yimiaorenSEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/dilie__00008
+	rotate: true
+	xy: 888, 0
+	size: 255, 85
+	orig: 255, 95
+	offset: 0, 8
+	index: -1
+
+asset/anim/yimiaorenSEMAX2.png
+size: 1013,1008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/shunyi_juexing
+	rotate: false
+	xy: 852, 412
+	size: 132, 169
+	orig: 180, 191
+	offset: 19, 0
+	index: -1

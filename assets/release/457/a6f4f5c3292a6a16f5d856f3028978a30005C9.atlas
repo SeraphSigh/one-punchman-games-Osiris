@@ -1,0 +1,82 @@
+
+asset/anim/elang2MAX0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/elang2_max_baiping
+	rotate: false
+	xy: 2017, 243
+	size: 10, 10
+	orig: 10, 10
+	offset: 0, 0
+	index: -1
+max/elang2_max_pingmujb_00000
+	rotate: false
+	xy: 2017, 0
+	size: 30, 149
+	orig: 30, 149
+	offset: 0, 0
+	index: -1
+
+asset/anim/elang2SKILL0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/elang2_jn_chongjibo_DOWN_00076
+	rotate: true
+	xy: 870, 1024
+	size: 456, 415
+	orig: 512, 431
+	offset: 56, 0
+	index: -1
+skill/elang2_jn_chongjibo_DOWN_00095
+	rotate: false
+	xy: 0, 1661
+	size: 460, 377
+	orig: 512, 431
+	offset: 52, 5
+	index: -1
+skill/elang2_jn_chongjibo_DOWN_00094
+	rotate: true
+	xy: 512, 565
+	size: 458, 391
+	orig: 512, 431
+	offset: 54, 0
+	index: -1
+skill/elang2_jn_chongjibo_DOWN_00097
+	rotate: true
+	xy: 520, 0
+	size: 458, 399
+	orig: 512, 431
+	offset: 54, 0
+	index: -1
+skill/elang2_jn_chongjibo_DOWN_00096
+	rotate: true
+	xy: 715, 1561
+	size: 456, 423
+	orig: 512, 431
+	offset: 56, 0
+	index: -1
+skill/elang2_jn_chongjibo_DOWN_00093
+	rotate: true
+	xy: 518, 1102
+	size: 458, 351
+	orig: 512, 431
+	offset: 54, 23
+	index: -1
+skill/elang2_jn_chongjibo_DOWN_00098
+	rotate: true
+	xy: 904, 459
+	size: 456, 377
+	orig: 512, 431
+	offset: 56, 5
+	index: -1
+skill/elang2_jn_chongjibo_DOWN_00075
+	rotate: false
+	xy: 278, 483
+	size: 456, 81
+	orig: 512, 431
+	offset: 56, 150
+	index: -1

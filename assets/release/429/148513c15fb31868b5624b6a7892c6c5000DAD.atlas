@@ -1,0 +1,222 @@
+
+asset/anim/yindaomeizi.png
+size: 327,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_zuoxiayanpi_yindaomeizi
+	rotate: false
+	xy: 239, 118
+	size: 12, 7
+	orig: 12, 7
+	offset: 0, 0
+	index: -1
+a_youshangyanpi_yindaomeizi
+	rotate: false
+	xy: 69, 111
+	size: 18, 15
+	orig: 18, 15
+	offset: 0, 0
+	index: -1
+a_youshou1_yindaomeizi
+	rotate: true
+	xy: 88, 111
+	size: 15, 17
+	orig: 15, 17
+	offset: 0, 0
+	index: -1
+a_youjiao_yindaomeizi
+	rotate: false
+	xy: 188, 97
+	size: 38, 29
+	orig: 38, 29
+	offset: 0, 0
+	index: -1
+a_youxiaotui_yindaomeizi
+	rotate: true
+	xy: 73, 86
+	size: 24, 59
+	orig: 24, 59
+	offset: 0, 0
+	index: -1
+a_zuojiao_yindaomeizi
+	rotate: false
+	xy: 164, 92
+	size: 23, 34
+	orig: 23, 34
+	offset: 0, 0
+	index: -1
+a_tou_yindaomeizi
+	rotate: false
+	xy: 73, 0
+	size: 77, 85
+	orig: 77, 85
+	offset: 0, 0
+	index: -1
+a_qunzi_yindaomeizi
+	rotate: false
+	xy: 151, 0
+	size: 55, 67
+	orig: 55, 67
+	offset: 0, 0
+	index: -1
+a_zuodabi_yindaomeizi
+	rotate: true
+	xy: 236, 29
+	size: 24, 58
+	orig: 24, 58
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi_yindaomeizi
+	rotate: true
+	xy: 287, 60
+	size: 41, 23
+	orig: 41, 23
+	offset: 0, 0
+	index: -1
+a_zuoshou_yindaomeizi
+	rotate: false
+	xy: 207, 60
+	size: 28, 20
+	orig: 28, 20
+	offset: 0, 0
+	index: -1
+a_shenti_yindaomeizi
+	rotate: false
+	xy: 0, 0
+	size: 72, 100
+	orig: 72, 100
+	offset: 0, 0
+	index: -1
+a_youdatui_yindaomeizi
+	rotate: true
+	xy: 273, 102
+	size: 21, 41
+	orig: 21, 41
+	offset: 0, 0
+	index: -1
+a_youxiayanpi_yindaomeizi
+	rotate: false
+	xy: 227, 118
+	size: 11, 8
+	orig: 11, 8
+	offset: 0, 0
+	index: -1
+a_youxiaobi_yindaomeizi
+	rotate: false
+	xy: 295, 32
+	size: 30, 27
+	orig: 30, 27
+	offset: 0, 0
+	index: -1
+a_toufa2_yindaomeizi
+	rotate: true
+	xy: 133, 92
+	size: 34, 30
+	orig: 34, 30
+	offset: 0, 0
+	index: -1
+a_zuoyanzhu_yindaomeizi
+	rotate: true
+	xy: 315, 101
+	size: 10, 12
+	orig: 10, 12
+	offset: 0, 0
+	index: -1
+a_youshou_yindaomeizi
+	rotate: true
+	xy: 311, 81
+	size: 19, 16
+	orig: 19, 16
+	offset: 0, 0
+	index: -1
+a_youdabi_yindaomeizi
+	rotate: true
+	xy: 151, 68
+	size: 23, 52
+	orig: 23, 52
+	offset: 0, 0
+	index: -1
+a_faqia_yindaomeizi
+	rotate: false
+	xy: 236, 54
+	size: 50, 24
+	orig: 50, 24
+	offset: 0, 0
+	index: -1
+a_toufa1_yindaomeizi
+	rotate: false
+	xy: 295, 0
+	size: 32, 31
+	orig: 32, 31
+	offset: 0, 0
+	index: -1
+a_youyanzhu_yindaomeizi
+	rotate: true
+	xy: 315, 112
+	size: 9, 12
+	orig: 9, 12
+	offset: 0, 0
+	index: -1
+a_zuoyanjing_yindaomeizi
+	rotate: true
+	xy: 311, 60
+	size: 20, 16
+	orig: 20, 16
+	offset: 0, 0
+	index: -1
+a_toufa4_yindaomeizi
+	rotate: true
+	xy: 227, 97
+	size: 20, 45
+	orig: 20, 45
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui_yindaomeizi
+	rotate: true
+	xy: 0, 101
+	size: 24, 68
+	orig: 24, 68
+	offset: 0, 0
+	index: -1
+a_zuoshangyanpi_yindaomeizi
+	rotate: false
+	xy: 106, 111
+	size: 21, 14
+	orig: 21, 14
+	offset: 0, 0
+	index: -1
+a_toufa3_yindaomeizi
+	rotate: true
+	xy: 236, 79
+	size: 17, 48
+	orig: 17, 48
+	offset: 0, 0
+	index: -1
+a_zuodatui_yindaomeizi
+	rotate: false
+	xy: 207, 0
+	size: 28, 59
+	orig: 28, 59
+	offset: 0, 0
+	index: -1
+a_diannao_yindaomeizi
+	rotate: false
+	xy: 236, 0
+	size: 58, 28
+	orig: 58, 28
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,116 @@
+
+asset/anim/jiangshinan2SECOMMON1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jiangshinan2_zhutidaoguang1_8
+	rotate: false
+	xy: 1202, 546
+	size: 491, 116
+	orig: 565, 246
+	offset: 11, 20
+	index: -1
+common/jiangshinan2_zhutidaoguang1_4
+	rotate: false
+	xy: 0, 342
+	size: 539, 212
+	orig: 565, 246
+	offset: 9, 19
+	index: -1
+common/jiangshinan2_zhutidaoguang1_11
+	rotate: true
+	xy: 1694, 546
+	size: 389, 108
+	orig: 565, 246
+	offset: 13, 23
+	index: -1
+common/jiangshinan2_zhutidaoguang1_12
+	rotate: true
+	xy: 888, 1706
+	size: 341, 102
+	orig: 565, 246
+	offset: 17, 26
+	index: -1
+common/jiangshinan2_zhutidaoguang1_14
+	rotate: false
+	xy: 1803, 855
+	size: 245, 98
+	orig: 565, 246
+	offset: 19, 28
+	index: -1
+
+asset/anim/jiangshinan2SECOMMON0.png
+size: 2048,2046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jiangshinan2_zhutidaoguang1_9
+	rotate: true
+	xy: 0, 1584
+	size: 461, 114
+	orig: 565, 246
+	offset: 13, 21
+	index: -1
+common/jiangshinan2_zhutidaoguang1_5
+	rotate: true
+	xy: 1542, 635
+	size: 527, 194
+	orig: 565, 246
+	offset: 9, 18
+	index: -1
+common/jiangshinan2_zhutidaoguang1_7
+	rotate: true
+	xy: 1122, 535
+	size: 509, 124
+	orig: 565, 246
+	offset: 10, 20
+	index: -1
+common/jiangshinan2_zhutidaoguang1_6
+	rotate: false
+	xy: 604, 570
+	size: 517, 190
+	orig: 565, 246
+	offset: 11, 19
+	index: -1
+common/jiangshinan2_zhutidaoguang1_10
+	rotate: true
+	xy: 1300, 1572
+	size: 429, 110
+	orig: 565, 246
+	offset: 12, 22
+	index: -1
+common/jiangshinan2_zhutidaoguang1_3
+	rotate: true
+	xy: 602, 1574
+	size: 469, 214
+	orig: 565, 246
+	offset: 79, 18
+	index: -1
+common/jiangshinan2_zhutidaoguang1_2
+	rotate: false
+	xy: 1728, 178
+	size: 315, 208
+	orig: 565, 246
+	offset: 234, 26
+	index: -1
+
+asset/anim/jiangshinan2SECOMMON2.png
+size: 1010,2028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/jiangshinan2_zhutidaoguang1_1
+	rotate: false
+	xy: 556, 0
+	size: 257, 202
+	orig: 565, 246
+	offset: 292, 32
+	index: -1
+common/jiangshinan2_zhutidaoguang1_13
+	rotate: false
+	xy: 445, 932
+	size: 293, 100
+	orig: 565, 246
+	offset: 18, 27
+	index: -1

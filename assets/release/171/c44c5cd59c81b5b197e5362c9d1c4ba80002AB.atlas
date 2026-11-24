@@ -1,0 +1,48 @@
+
+asset/anim/xinchunxiaopu0.png
+size: 255,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaopuyuanbao
+	rotate: false
+	xy: 0, 39
+	size: 139, 46
+	orig: 149, 58
+	offset: 6, 5
+	index: -1
+xiaopudengqiu
+	rotate: false
+	xy: 13, 86
+	size: 21, 21
+	orig: 21, 21
+	offset: 0, 0
+	index: -1
+gubi
+	rotate: true
+	xy: 140, 39
+	size: 41, 81
+	orig: 41, 81
+	offset: 0, 0
+	index: -1
+xiaopuweiba
+	rotate: false
+	xy: 0, 86
+	size: 12, 26
+	orig: 12, 28
+	offset: 0, 1
+	index: -1
+sddl
+	rotate: true
+	xy: 140, 81
+	size: 31, 77
+	orig: 31, 77
+	offset: 0, 0
+	index: -1
+cailian
+	rotate: false
+	xy: 0, 0
+	size: 255, 38
+	orig: 261, 38
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,20 @@
+
+asset/anim/bingxuejiyishuzi0.png
+size: 123,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piaodai1_bignxueji
+	rotate: false
+	xy: 0, 0
+	size: 84, 67
+	orig: 84, 67
+	offset: 0, 0
+	index: -1
+piaodai2_bignxueji
+	rotate: true
+	xy: 85, 0
+	size: 44, 38
+	orig: 44, 38
+	offset: 0, 0
+	index: -1

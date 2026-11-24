@@ -1,0 +1,20 @@
+
+asset/anim/beixinmenghuSE.png
+size: 703,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shunyi1_beixinmenghu
+	rotate: false
+	xy: 161, 0
+	size: 154, 114
+	orig: 154, 114
+	offset: 0, 0
+	index: -1
+shunyi_beixinmenghu
+	rotate: false
+	xy: 0, 0
+	size: 160, 114
+	orig: 160, 114
+	offset: 0, 0
+	index: -1

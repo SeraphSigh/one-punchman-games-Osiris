@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>z5_quyutexingbeilvimage.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{74,22}</string>
+                <key>spriteSourceSize</key>
+                <string>{74,22}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{74,22}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>quyutexingbeilvimage0.png</string>
+            <key>size</key>
+            <string>{74,22}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:c37c1f227a317b6b1024642e4b080875:06c5665fc7786c803a39be9e743ff286:a79d38afd3ef032f03ce8000178c9b2a$</string>
+            <key>textureFileName</key>
+            <string>quyutexingbeilvimage0.png</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,862 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+global/yanchen3_gongyong
+	rotate: false
+	xy: 283, 0
+	size: 92, 55
+	orig: 92, 55
+	offset: 0, 0
+	index: -1
+global/yanchen4_gongyong
+	rotate: false
+	xy: 169, 98
+	size: 80, 55
+	orig: 80, 55
+	offset: 0, 0
+	index: -1
+global/yanchen2_gongyong
+	rotate: false
+	xy: 370, 78
+	size: 85, 52
+	orig: 85, 52
+	offset: 0, 0
+	index: -1
+global/yanchen5_gongyong
+	rotate: false
+	xy: 282, 106
+	size: 70, 43
+	orig: 70, 43
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen1_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 25
+	orig: 42, 25
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhongmujurenA2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_Rarm_zhongmujuren
+	rotate: true
+	xy: 104, 388
+	size: 69, 39
+	orig: 69, 39
+	offset: 0, 0
+	index: -1
+l_Rarm_zhongmujuren
+	rotate: true
+	xy: 106, 318
+	size: 60, 56
+	orig: 60, 56
+	offset: 0, 0
+	index: -1
+i_Lhand_zhongmujuren
+	rotate: true
+	xy: 82, 287
+	size: 30, 47
+	orig: 30, 47
+	offset: 0, 0
+	index: -1
+m_Larm_zhongmujuren
+	rotate: true
+	xy: 116, 157
+	size: 62, 36
+	orig: 62, 36
+	offset: 0, 0
+	index: -1
+j_coxa_zhongmujuren
+	rotate: true
+	xy: 103, 0
+	size: 75, 50
+	orig: 75, 50
+	offset: 0, 0
+	index: -1
+j_Rarm_zhongmujuren
+	rotate: true
+	xy: 0, 242
+	size: 75, 39
+	orig: 75, 39
+	offset: 0, 0
+	index: -1
+i_Lforearm_zhongmujuren
+	rotate: false
+	xy: 0, 164
+	size: 75, 77
+	orig: 75, 77
+	offset: 0, 0
+	index: -1
+a_Rshin_zhongmujuren
+	rotate: false
+	xy: 76, 157
+	size: 39, 65
+	orig: 39, 65
+	offset: 0, 0
+	index: -1
+a_Larm_zhongmujuren
+	rotate: true
+	xy: 71, 458
+	size: 50, 38
+	orig: 50, 38
+	offset: 0, 0
+	index: -1
+m_Lthigh_zhongmujuren
+	rotate: false
+	xy: 0, 0
+	size: 60, 82
+	orig: 60, 82
+	offset: 0, 0
+	index: -1
+k_Larm_zhongmujuren
+	rotate: false
+	xy: 163, 318
+	size: 39, 59
+	orig: 39, 59
+	offset: 0, 0
+	index: -1
+h_Lforearm_zhongmujuren
+	rotate: false
+	xy: 0, 83
+	size: 68, 80
+	orig: 68, 80
+	offset: 0, 0
+	index: -1
+j_Rshin_zhongmujuren
+	rotate: false
+	xy: 0, 462
+	size: 70, 50
+	orig: 70, 50
+	offset: 0, 0
+	index: -1
+k_Rforearm_zhongmujuren
+	rotate: false
+	xy: 36, 318
+	size: 69, 69
+	orig: 69, 69
+	offset: 0, 0
+	index: -1
+a_Lforearm_zhongmujuren
+	rotate: false
+	xy: 69, 79
+	size: 67, 77
+	orig: 67, 77
+	offset: 0, 0
+	index: -1
+i_Larm_zhongmujuren
+	rotate: true
+	xy: 40, 242
+	size: 65, 41
+	orig: 65, 41
+	offset: 0, 0
+	index: -1
+m_Rarm_zhongmujuren
+	rotate: false
+	xy: 0, 318
+	size: 35, 72
+	orig: 35, 72
+	offset: 0, 0
+	index: -1
+m_Lshin_zhongmujuren
+	rotate: true
+	xy: 144, 379
+	size: 60, 39
+	orig: 60, 39
+	offset: 0, 0
+	index: -1
+n_coxa_zhongmujuren
+	rotate: false
+	xy: 110, 458
+	size: 67, 47
+	orig: 67, 47
+	offset: 0, 0
+	index: -1
+j_Lshin_zhongmujuren
+	rotate: false
+	xy: 82, 223
+	size: 41, 63
+	orig: 41, 63
+	offset: 0, 0
+	index: -1
+g_Larm_zhongmujuren
+	rotate: true
+	xy: 124, 220
+	size: 61, 38
+	orig: 61, 38
+	offset: 0, 0
+	index: -1
+k_Lhand_zhongmujuren
+	rotate: true
+	xy: 184, 378
+	size: 47, 41
+	orig: 47, 41
+	offset: 0, 0
+	index: -1
+f_Rarm_zhongmujuren
+	rotate: false
+	xy: 130, 282
+	size: 58, 35
+	orig: 58, 35
+	offset: 0, 0
+	index: -1
+l_coxa_zhongmujuren
+	rotate: true
+	xy: 0, 391
+	size: 70, 56
+	orig: 70, 56
+	offset: 0, 0
+	index: -1
+a_Rarm_zhongmujuren
+	rotate: false
+	xy: 57, 388
+	size: 46, 69
+	orig: 46, 69
+	offset: 0, 0
+	index: -1
+d_Rarm_zhongmujuren
+	rotate: true
+	xy: 61, 0
+	size: 78, 41
+	orig: 78, 41
+	offset: 0, 0
+	index: -1
+m_Lhand_zhongmujuren
+	rotate: false
+	xy: 154, 0
+	size: 39, 39
+	orig: 39, 39
+	offset: 0, 0
+	index: -1
+h_Larm_zhongmujuren
+	rotate: false
+	xy: 137, 76
+	size: 45, 46
+	orig: 45, 46
+	offset: 0, 0
+	index: -1
+a_Lshin_zhongmujuren
+	rotate: false
+	xy: 178, 440
+	size: 34, 58
+	orig: 34, 58
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhongmujurenA0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d_body_zhongmujuren
+	rotate: true
+	xy: 272, 307
+	size: 125, 115
+	orig: 125, 115
+	offset: 0, 0
+	index: -1
+l_body_zhongmujuren
+	rotate: false
+	xy: 0, 119
+	size: 122, 123
+	orig: 122, 123
+	offset: 0, 0
+	index: -1
+a_dead_zhongmujuren
+	rotate: true
+	xy: 0, 433
+	size: 79, 94
+	orig: 79, 94
+	offset: 0, 0
+	index: -1
+gd_zhongmujuren
+	rotate: true
+	xy: 289, 113
+	size: 129, 134
+	orig: 129, 136
+	offset: 0, 0
+	index: -1
+m_Lforearm_zhongmujuren
+	rotate: true
+	xy: 100, 243
+	size: 54, 73
+	orig: 54, 73
+	offset: 0, 0
+	index: -1
+m_body_zhongmujuren
+	rotate: false
+	xy: 0, 0
+	size: 145, 118
+	orig: 145, 118
+	offset: 0, 0
+	index: -1
+g_coxa_zhongmujuren
+	rotate: false
+	xy: 117, 394
+	size: 77, 38
+	orig: 77, 38
+	offset: 0, 0
+	index: -1
+c_Rarm_zhongmujuren
+	rotate: true
+	xy: 195, 394
+	size: 38, 69
+	orig: 38, 69
+	offset: 0, 0
+	index: -1
+g_Rarm_zhongmujuren
+	rotate: false
+	xy: 369, 243
+	size: 54, 55
+	orig: 54, 55
+	offset: 0, 0
+	index: -1
+j_head_zhongmujuren
+	rotate: false
+	xy: 429, 96
+	size: 82, 95
+	orig: 82, 95
+	offset: 0, 0
+	index: -1
+a_baozou_zhongmujuren
+	rotate: true
+	xy: 190, 433
+	size: 78, 94
+	orig: 78, 94
+	offset: 0, 0
+	index: -1
+n_body_zhongmujuren
+	rotate: false
+	xy: 146, 0
+	size: 142, 118
+	orig: 142, 118
+	offset: 0, 0
+	index: -1
+k_Lforearm_zhongmujuren
+	rotate: false
+	xy: 0, 243
+	size: 99, 54
+	orig: 99, 54
+	offset: 0, 0
+	index: -1
+a_yanpidown1_zhongmujuren
+	rotate: false
+	xy: 248, 215
+	size: 39, 21
+	orig: 39, 21
+	offset: 0, 0
+	index: -1
+a_Rforearm_zhongmujuren
+	rotate: false
+	xy: 190, 242
+	size: 97, 64
+	orig: 97, 64
+	offset: 0, 0
+	index: -1
+c_Rforearm_zhongmujuren
+	rotate: true
+	xy: 380, 459
+	size: 52, 86
+	orig: 52, 86
+	offset: 0, 0
+	index: -1
+g_body_zhongmujuren
+	rotate: false
+	xy: 0, 298
+	size: 116, 134
+	orig: 116, 134
+	offset: 0, 0
+	index: -1
+b_Rfoot_zhongmujuren
+	rotate: false
+	xy: 248, 176
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+d_Lforearm_zhongmujuren
+	rotate: false
+	xy: 288, 243
+	size: 80, 63
+	orig: 80, 63
+	offset: 0, 0
+	index: -1
+g_head_zhongmujuren
+	rotate: false
+	xy: 429, 0
+	size: 83, 95
+	orig: 83, 95
+	offset: 0, 0
+	index: -1
+i_head_zhongmujuren
+	rotate: false
+	xy: 117, 298
+	size: 72, 95
+	orig: 72, 95
+	offset: 0, 0
+	index: -1
+o_body_zhongmujuren
+	rotate: false
+	xy: 289, 0
+	size: 139, 112
+	orig: 139, 112
+	offset: 0, 0
+	index: -1
+a_head_zhongmujuren
+	rotate: true
+	xy: 95, 433
+	size: 79, 94
+	orig: 79, 94
+	offset: 0, 0
+	index: -1
+j_Rhand_zhongmujuren
+	rotate: false
+	xy: 388, 424
+	size: 124, 34
+	orig: 124, 34
+	offset: 0, 0
+	index: -1
+a_benghuai_zhongmujuren
+	rotate: true
+	xy: 285, 433
+	size: 78, 94
+	orig: 78, 94
+	offset: 0, 0
+	index: -1
+i_body_zhongmujuren
+	rotate: false
+	xy: 388, 299
+	size: 124, 124
+	orig: 124, 124
+	offset: 0, 0
+	index: -1
+g_Rhand_zhongmujuren
+	rotate: false
+	xy: 424, 192
+	size: 88, 105
+	orig: 88, 105
+	offset: 0, 0
+	index: -1
+g_Lforearm_zhongmujuren
+	rotate: false
+	xy: 190, 307
+	size: 81, 86
+	orig: 81, 86
+	offset: 0, 0
+	index: -1
+a_Lfoot_zhongmujuren
+	rotate: true
+	xy: 248, 119
+	size: 56, 40
+	orig: 56, 40
+	offset: 0, 0
+	index: -1
+j_body_zhongmujuren
+	rotate: false
+	xy: 123, 119
+	size: 124, 122
+	orig: 124, 122
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhongmujurenA1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e_Rforearm_zhongmujuren
+	rotate: false
+	xy: 256, 452
+	size: 91, 60
+	orig: 91, 60
+	offset: 0, 0
+	index: -1
+j_Rthigh_zhongmujuren
+	rotate: true
+	xy: 277, 357
+	size: 87, 65
+	orig: 87, 65
+	offset: 0, 0
+	index: -1
+j_Lthigh_zhongmujuren
+	rotate: true
+	xy: 343, 357
+	size: 84, 61
+	orig: 84, 61
+	offset: 0, 0
+	index: -1
+h_Rhand_zhongmujuren
+	rotate: false
+	xy: 157, 101
+	size: 97, 24
+	orig: 97, 24
+	offset: 0, 0
+	index: -1
+m_Rforearm_zhongmujuren
+	rotate: true
+	xy: 155, 360
+	size: 96, 58
+	orig: 96, 58
+	offset: 0, 0
+	index: -1
+f_Rforearm_zhongmujuren
+	rotate: false
+	xy: 157, 0
+	size: 50, 100
+	orig: 50, 100
+	offset: 0, 0
+	index: -1
+k_Rarm_zhongmujuren
+	rotate: false
+	xy: 470, 284
+	size: 42, 38
+	orig: 42, 38
+	offset: 0, 0
+	index: -1
+o_Rforearm_zhongmujuren
+	rotate: true
+	xy: 307, 221
+	size: 85, 59
+	orig: 85, 59
+	offset: 0, 0
+	index: -1
+d-Lhand_zhongmujuren
+	rotate: false
+	xy: 180, 334
+	size: 34, 22
+	orig: 34, 22
+	offset: 0, 0
+	index: -1
+m_coxa_zhongmujuren
+	rotate: false
+	xy: 189, 457
+	size: 66, 54
+	orig: 66, 54
+	offset: 0, 0
+	index: -1
+e_Rarm_zhongmujuren
+	rotate: false
+	xy: 250, 313
+	size: 67, 43
+	orig: 67, 43
+	offset: 0, 0
+	index: -1
+d_Rforearm_zhongmujuren
+	rotate: false
+	xy: 359, 100
+	size: 78, 82
+	orig: 78, 82
+	offset: 0, 0
+	index: -1
+h_Lhand_zhongmujuren
+	rotate: true
+	xy: 420, 284
+	size: 37, 33
+	orig: 37, 33
+	offset: 0, 0
+	index: -1
+d_Larm_zhongmujuren
+	rotate: false
+	xy: 302, 0
+	size: 35, 51
+	orig: 35, 51
+	offset: 0, 0
+	index: -1
+k_Rhand_zhongmujuren
+	rotate: true
+	xy: 106, 0
+	size: 112, 50
+	orig: 112, 50
+	offset: 0, 0
+	index: -1
+b_Rforearm_zhongmujuren
+	rotate: false
+	xy: 92, 457
+	size: 96, 55
+	orig: 96, 55
+	offset: 0, 0
+	index: -1
+l_Rforearm_zhongmujuren
+	rotate: false
+	xy: 180, 238
+	size: 69, 95
+	orig: 69, 95
+	offset: 0, 0
+	index: -1
+h_Rforearm_zhongmujuren
+	rotate: true
+	xy: 240, 126
+	size: 94, 57
+	orig: 94, 57
+	offset: 0, 0
+	index: -1
+d_Rhand_zhongmujuren
+	rotate: true
+	xy: 0, 258
+	size: 122, 85
+	orig: 122, 85
+	offset: 0, 0
+	index: -1
+b_Rarm_zhongmujuren
+	rotate: false
+	xy: 425, 52
+	size: 72, 47
+	orig: 72, 47
+	offset: 0, 0
+	index: -1
+j_Rfoot_zhongmujuren
+	rotate: false
+	xy: 376, 0
+	size: 49, 48
+	orig: 49, 48
+	offset: 0, 0
+	index: -1
+d_coxa_zhongmujuren
+	rotate: false
+	xy: 302, 52
+	size: 73, 47
+	orig: 73, 47
+	offset: 0, 0
+	index: -1
+b_Larm_zhongmujuren
+	rotate: false
+	xy: 470, 394
+	size: 41, 43
+	orig: 41, 43
+	offset: 0, 0
+	index: -1
+b_Rshin_zhongmujuren
+	rotate: false
+	xy: 426, 439
+	size: 60, 72
+	orig: 60, 72
+	offset: 0, 0
+	index: -1
+b_Lhand_zhongmujuren
+	rotate: false
+	xy: 376, 49
+	size: 48, 39
+	orig: 48, 39
+	offset: 0, 0
+	index: -1
+b_Rthigh_zhongmujuren
+	rotate: true
+	xy: 348, 442
+	size: 70, 77
+	orig: 70, 77
+	offset: 0, 0
+	index: -1
+m_Rshin_zhongmujuren
+	rotate: false
+	xy: 367, 282
+	size: 52, 73
+	orig: 52, 73
+	offset: 0, 0
+	index: -1
+m_Lfoot_zhongmujuren
+	rotate: true
+	xy: 338, 0
+	size: 51, 34
+	orig: 51, 34
+	offset: 0, 0
+	index: -1
+n_Rforearm_zhongmujuren
+	rotate: true
+	xy: 92, 360
+	size: 96, 62
+	orig: 96, 62
+	offset: 0, 0
+	index: -1
+a_Lhand_zhongmujuren
+	rotate: false
+	xy: 363, 183
+	size: 50, 37
+	orig: 50, 37
+	offset: 0, 0
+	index: -1
+m_Rhand_zhongmujuren
+	rotate: false
+	xy: 208, 0
+	size: 93, 99
+	orig: 93, 99
+	offset: 0, 0
+	index: -1
+a_eyes_zhongmujuren
+	rotate: true
+	xy: 470, 356
+	size: 37, 42
+	orig: 37, 42
+	offset: 0, 0
+	index: -1
+m_Rfoot_zhongmujuren
+	rotate: false
+	xy: 298, 187
+	size: 64, 33
+	orig: 64, 33
+	offset: 0, 0
+	index: -1
+b_Rhand_zhongmujuren
+	rotate: true
+	xy: 0, 131
+	size: 126, 45
+	orig: 126, 45
+	offset: 0, 0
+	index: -1
+f_Rhand_zhongmujuren
+	rotate: true
+	xy: 46, 131
+	size: 119, 89
+	orig: 119, 89
+	offset: 0, 0
+	index: -1
+a_Rhand_zhongmujuren
+	rotate: false
+	xy: 0, 381
+	size: 91, 111
+	orig: 91, 111
+	offset: 0, 0
+	index: -1
+a_yanpiup1_zhongmujuren
+	rotate: false
+	xy: 106, 113
+	size: 30, 16
+	orig: 30, 16
+	offset: 0, 0
+	index: -1
+a_yanpiup2_zhongmujuren
+	rotate: false
+	xy: 215, 334
+	size: 30, 21
+	orig: 30, 21
+	offset: 0, 0
+	index: -1
+a_coxa_zhongmujuren
+	rotate: false
+	xy: 426, 0
+	size: 84, 51
+	orig: 84, 51
+	offset: 0, 0
+	index: -1
+i_coxa_zhongmujuren
+	rotate: false
+	xy: 438, 231
+	size: 73, 52
+	orig: 73, 52
+	offset: 0, 0
+	index: -1
+a_Rthigh_zhongmujuren
+	rotate: false
+	xy: 438, 170
+	size: 74, 60
+	orig: 74, 60
+	offset: 0, 0
+	index: -1
+c_Rhand_zhongmujuren
+	rotate: false
+	xy: 136, 130
+	size: 103, 107
+	orig: 103, 107
+	offset: 0, 0
+	index: -1
+j_Rforearm_zhongmujuren
+	rotate: true
+	xy: 250, 221
+	size: 91, 56
+	orig: 91, 56
+	offset: 0, 0
+	index: -1
+e_Rhand_zhongmujuren
+	rotate: true
+	xy: 86, 251
+	size: 108, 93
+	orig: 108, 93
+	offset: 0, 0
+	index: -1
+a_Rfoot_zhongmujuren
+	rotate: false
+	xy: 318, 307
+	size: 48, 49
+	orig: 48, 49
+	offset: 0, 0
+	index: -1
+l_Rhand_zhongmujuren
+	rotate: false
+	xy: 214, 357
+	size: 62, 94
+	orig: 62, 94
+	offset: 0, 0
+	index: -1
+a_yanpidown2_zhongmujuren
+	rotate: false
+	xy: 0, 493
+	size: 37, 18
+	orig: 37, 18
+	offset: 0, 0
+	index: -1
+a_body_zhongmujuren
+	rotate: false
+	xy: 0, 0
+	size: 105, 130
+	orig: 105, 130
+	offset: 0, 0
+	index: -1
+m_Rthigh_zhongmujuren
+	rotate: true
+	xy: 438, 100
+	size: 69, 74
+	orig: 69, 74
+	offset: 0, 0
+	index: -1
+a_Lthigh_zhongmujuren
+	rotate: false
+	xy: 367, 221
+	size: 70, 60
+	orig: 70, 60
+	offset: 0, 0
+	index: -1
+g_Rforearm_zhongmujuren
+	rotate: false
+	xy: 298, 100
+	size: 60, 86
+	orig: 60, 86
+	offset: 0, 0
+	index: -1
+j_Lfoot_zhongmujuren
+	rotate: false
+	xy: 420, 323
+	size: 60, 32
+	orig: 60, 32
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yanchen0_gongyong
+	rotate: true
+	xy: 0, 963
+	size: 42, 22
+	orig: 42, 22
+	offset: 0, 0
+	index: -1

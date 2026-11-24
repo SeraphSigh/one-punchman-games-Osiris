@@ -1,0 +1,663 @@
+
+asset/anim/tongdi2kapai1.png
+size: 1013,642
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuodatui_tongdi2kapai
+	rotate: false
+	xy: 577, 0
+	size: 120, 140
+	orig: 120, 140
+	offset: 0, 0
+	index: -1
+toufa3_tongdi2kapai
+	rotate: true
+	xy: 918, 83
+	size: 55, 95
+	orig: 55, 95
+	offset: 0, 0
+	index: -1
+toufa1_tongdi2kapai
+	rotate: false
+	xy: 591, 141
+	size: 43, 97
+	orig: 43, 97
+	offset: 0, 0
+	index: -1
+toufa2_tongdi2kapai
+	rotate: true
+	xy: 760, 596
+	size: 44, 91
+	orig: 44, 91
+	offset: 0, 0
+	index: -1
+fuzi4_tongdi2kapai
+	rotate: false
+	xy: 418, 396
+	size: 132, 52
+	orig: 132, 52
+	offset: 0, 0
+	index: -1
+daodao3_tongdi2kapai
+	rotate: true
+	xy: 914, 248
+	size: 108, 92
+	orig: 108, 92
+	offset: 0, 0
+	index: -1
+beibanD_3_tongdi2kapai
+	rotate: true
+	xy: 216, 465
+	size: 18, 55
+	orig: 18, 55
+	offset: 0, 0
+	index: -1
+liandao5_tongdi2kapai
+	rotate: true
+	xy: 844, 261
+	size: 122, 66
+	orig: 122, 66
+	offset: 0, 0
+	index: -1
+jiazi3_tongdi2kapai
+	rotate: false
+	xy: 53, 488
+	size: 221, 153
+	orig: 221, 153
+	offset: 0, 0
+	index: -1
+jiguang1_tongdi2kapai
+	rotate: false
+	xy: 910, 480
+	size: 57, 26
+	orig: 57, 26
+	offset: 0, 0
+	index: -1
+beibanD_4_tongdi2kapai
+	rotate: true
+	xy: 454, 147
+	size: 59, 44
+	orig: 59, 44
+	offset: 0, 0
+	index: -1
+qianzi5_tongdi2kapai
+	rotate: true
+	xy: 0, 246
+	size: 241, 215
+	orig: 241, 215
+	offset: 0, 0
+	index: -1
+youdatui_tongdi2kapai
+	rotate: false
+	xy: 635, 141
+	size: 106, 96
+	orig: 106, 96
+	offset: 0, 0
+	index: -1
+tou_tongdi2kapai
+	rotate: false
+	xy: 418, 242
+	size: 135, 153
+	orig: 135, 153
+	offset: 0, 0
+	index: -1
+jiazi2_tongdi2kapai
+	rotate: true
+	xy: 845, 127
+	size: 91, 72
+	orig: 91, 72
+	offset: 0, 0
+	index: -1
+liandao_tongdi2kapai
+	rotate: false
+	xy: 325, 211
+	size: 40, 32
+	orig: 40, 32
+	offset: 0, 0
+	index: -1
+diannao2_tongdi2kapai
+	rotate: false
+	xy: 0, 488
+	size: 52, 154
+	orig: 52, 154
+	offset: 0, 0
+	index: -1
+zuojiao_tongdi2kapai
+	rotate: true
+	xy: 764, 235
+	size: 66, 79
+	orig: 66, 79
+	offset: 0, 0
+	index: -1
+dianju6_tongdi2kapai
+	rotate: true
+	xy: 764, 333
+	size: 28, 25
+	orig: 28, 25
+	offset: 0, 0
+	index: -1
+beibanB_1_tongdi2kapai
+	rotate: true
+	xy: 918, 139
+	size: 108, 94
+	orig: 108, 94
+	offset: 0, 0
+	index: -1
+jiazi6_tongdi2kapai
+	rotate: true
+	xy: 844, 466
+	size: 45, 65
+	orig: 45, 65
+	offset: 0, 0
+	index: -1
+beibanC_4_tongdi2kapai
+	rotate: true
+	xy: 407, 618
+	size: 23, 95
+	orig: 23, 95
+	offset: 0, 0
+	index: -1
+youxiaotui_tongdi2kapai
+	rotate: false
+	xy: 928, 536
+	size: 74, 105
+	orig: 74, 105
+	offset: 0, 0
+	index: -1
+liandao4_tongdi2kapai
+	rotate: false
+	xy: 275, 465
+	size: 131, 175
+	orig: 131, 175
+	offset: 0, 0
+	index: -1
+zuoshou_tongdi2kapai
+	rotate: false
+	xy: 742, 139
+	size: 102, 95
+	orig: 102, 95
+	offset: 0, 0
+	index: -1
+kua_tongdi2kapai
+	rotate: true
+	xy: 830, 0
+	size: 126, 87
+	orig: 126, 87
+	offset: 0, 0
+	index: -1
+jiazi8_tongdi2kapai
+	rotate: true
+	xy: 701, 449
+	size: 55, 58
+	orig: 55, 58
+	offset: 0, 0
+	index: -1
+jiguang2_tongdi2kapai
+	rotate: true
+	xy: 230, 0
+	size: 210, 140
+	orig: 210, 140
+	offset: 0, 0
+	index: -1
+dianju8_tongdi2kapai
+	rotate: false
+	xy: 698, 0
+	size: 131, 138
+	orig: 131, 138
+	offset: 0, 0
+	index: -1
+zuantou2_tongdi2kapai
+	rotate: false
+	xy: 508, 449
+	size: 91, 153
+	orig: 91, 153
+	offset: 0, 0
+	index: -1
+beibanC_5_tongdi2kapai
+	rotate: true
+	xy: 611, 383
+	size: 65, 127
+	orig: 65, 127
+	offset: 0, 0
+	index: -1
+fuzi2_tongdi2kapai
+	rotate: false
+	xy: 466, 0
+	size: 110, 141
+	orig: 110, 141
+	offset: 0, 0
+	index: -1
+beibanC_3_tongdi2kapai
+	rotate: true
+	xy: 659, 596
+	size: 45, 100
+	orig: 45, 100
+	offset: 0, 0
+	index: -1
+zuantou4_tongdi2kapai
+	rotate: false
+	xy: 701, 505
+	size: 120, 90
+	orig: 120, 90
+	offset: 0, 0
+	index: -1
+qianzi8_tongdi2kapai
+	rotate: false
+	xy: 366, 211
+	size: 145, 30
+	orig: 145, 30
+	offset: 0, 0
+	index: -1
+dianju5_tongdi2kapai
+	rotate: true
+	xy: 968, 480
+	size: 55, 44
+	orig: 55, 44
+	offset: 0, 0
+	index: -1
+beibanB_2_tongdi2kapai
+	rotate: false
+	xy: 764, 302
+	size: 77, 30
+	orig: 77, 30
+	offset: 0, 0
+	index: -1
+beibanC_1_tongdi2kapai
+	rotate: true
+	xy: 554, 242
+	size: 140, 93
+	orig: 140, 93
+	offset: 0, 0
+	index: -1
+beibanD_1_tongdi2kapai
+	rotate: false
+	xy: 600, 449
+	size: 100, 146
+	orig: 100, 146
+	offset: 0, 0
+	index: -1
+diannao1_tongdi2kapai
+	rotate: true
+	xy: 760, 367
+	size: 124, 83
+	orig: 124, 83
+	offset: 0, 0
+	index: -1
+beibanE_3_tongdi2kapai
+	rotate: false
+	xy: 508, 603
+	size: 73, 39
+	orig: 73, 39
+	offset: 0, 0
+	index: -1
+beibao_tongdi2kapai
+	rotate: false
+	xy: 911, 357
+	size: 101, 122
+	orig: 101, 122
+	offset: 0, 0
+	index: -1
+dianju1_tongdi2kapai
+	rotate: false
+	xy: 512, 142
+	size: 78, 99
+	orig: 78, 99
+	offset: 0, 0
+	index: -1
+liandao3_tongdi2kapai
+	rotate: true
+	xy: 371, 0
+	size: 146, 94
+	orig: 146, 94
+	offset: 0, 0
+	index: -1
+youshou222_tongdi2kapai
+	rotate: false
+	xy: 844, 384
+	size: 66, 81
+	orig: 66, 81
+	offset: 0, 0
+	index: -1
+qianzi6_tongdi2kapai
+	rotate: true
+	xy: 371, 147
+	size: 60, 82
+	orig: 60, 82
+	offset: 0, 0
+	index: -1
+zuodabi_tongdi2kapai
+	rotate: true
+	xy: 551, 396
+	size: 52, 59
+	orig: 52, 59
+	offset: 0, 0
+	index: -1
+jiazi4_tongdi2kapai
+	rotate: true
+	xy: 0, 0
+	size: 245, 229
+	orig: 245, 229
+	offset: 0, 0
+	index: -1
+qianzi7_tongdi2kapai
+	rotate: false
+	xy: 822, 512
+	size: 105, 76
+	orig: 105, 76
+	offset: 0, 0
+	index: -1
+youshou_tongdi2kapai
+	rotate: false
+	xy: 852, 589
+	size: 56, 41
+	orig: 56, 41
+	offset: 0, 0
+	index: -1
+youxiaobi_tongdi2kapai
+	rotate: true
+	xy: 582, 603
+	size: 35, 76
+	orig: 35, 76
+	offset: 0, 0
+	index: -1
+zuantou1_tongdi2kapai
+	rotate: false
+	xy: 303, 245
+	size: 114, 205
+	orig: 114, 205
+	offset: 0, 0
+	index: -1
+zuoxiaobi_tongdi2kapai
+	rotate: false
+	xy: 845, 219
+	size: 68, 41
+	orig: 68, 41
+	offset: 0, 0
+	index: -1
+beibanC_2_tongdi2kapai
+	rotate: true
+	xy: 230, 211
+	size: 33, 94
+	orig: 33, 94
+	offset: 0, 0
+	index: -1
+beibanE_1_tongdi2kapai
+	rotate: true
+	xy: 918, 0
+	size: 82, 95
+	orig: 82, 95
+	offset: 0, 0
+	index: -1
+jiazi5_tongdi2kapai
+	rotate: true
+	xy: 216, 246
+	size: 218, 86
+	orig: 218, 86
+	offset: 0, 0
+	index: -1
+dianju9_tongdi2kapai
+	rotate: false
+	xy: 648, 238
+	size: 115, 128
+	orig: 115, 128
+	offset: 0, 0
+	index: -1
+dianju4_tongdi2kapai
+	rotate: true
+	xy: 407, 451
+	size: 166, 100
+	orig: 166, 100
+	offset: 0, 0
+	index: -1
+
+asset/anim/tongdi2kapai0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianju2_tongdi2kapai
+	rotate: false
+	xy: 431, 734
+	size: 271, 241
+	orig: 271, 241
+	offset: 0, 0
+	index: -1
+youyanjing_tongdi2kapai
+	rotate: true
+	xy: 1002, 338
+	size: 23, 16
+	orig: 23, 16
+	offset: 0, 0
+	index: -1
+qianzi2_tongdi2kapai
+	rotate: false
+	xy: 445, 554
+	size: 377, 179
+	orig: 377, 179
+	offset: 0, 0
+	index: -1
+diannao3_tongdi2kapai
+	rotate: false
+	xy: 397, 976
+	size: 156, 48
+	orig: 156, 48
+	offset: 0, 0
+	index: -1
+zuantou5_tongdi2kapai
+	rotate: false
+	xy: 808, 755
+	size: 162, 179
+	orig: 162, 179
+	offset: 0, 0
+	index: -1
+dao_tongdi2kapai
+	rotate: false
+	xy: 445, 362
+	size: 406, 191
+	orig: 406, 191
+	offset: 0, 0
+	index: -1
+beibanA_2_tongdi2kapai
+	rotate: false
+	xy: 927, 151
+	size: 35, 50
+	orig: 35, 50
+	offset: 0, 0
+	index: -1
+qianzi3_tongdi2kapai
+	rotate: true
+	xy: 971, 755
+	size: 147, 53
+	orig: 147, 53
+	offset: 0, 0
+	index: -1
+fuzi3_tongdi2kapai
+	rotate: false
+	xy: 703, 734
+	size: 104, 218
+	orig: 104, 218
+	offset: 0, 0
+	index: -1
+youmeimao_tongdi2kapai
+	rotate: false
+	xy: 445, 350
+	size: 25, 11
+	orig: 25, 11
+	offset: 0, 0
+	index: -1
+beibanE_2_tongdi2kapai
+	rotate: false
+	xy: 621, 976
+	size: 72, 45
+	orig: 72, 45
+	offset: 0, 0
+	index: -1
+beibanA_1_tongdi2kapai
+	rotate: true
+	xy: 814, 935
+	size: 87, 137
+	orig: 87, 137
+	offset: 0, 0
+	index: -1
+dianju3_tongdi2kapai
+	rotate: false
+	xy: 927, 0
+	size: 97, 150
+	orig: 97, 150
+	offset: 0, 0
+	index: -1
+beibanB_3_tongdi2kapai
+	rotate: false
+	xy: 952, 977
+	size: 47, 47
+	orig: 47, 47
+	offset: 0, 0
+	index: -1
+dianju7_tongdi2kapai
+	rotate: true
+	xy: 267, 958
+	size: 66, 129
+	orig: 66, 129
+	offset: 0, 0
+	index: -1
+youdabi_tongdi2kapai
+	rotate: true
+	xy: 967, 151
+	size: 98, 57
+	orig: 98, 57
+	offset: 0, 0
+	index: -1
+qianzi1_tongdi2kapai
+	rotate: false
+	xy: 518, 0
+	size: 408, 218
+	orig: 408, 218
+	offset: 0, 0
+	index: -1
+beibanD_2_tongdi2kapai
+	rotate: true
+	xy: 971, 903
+	size: 27, 44
+	orig: 27, 44
+	offset: 0, 0
+	index: -1
+yanjing_tongdi2kapai
+	rotate: true
+	xy: 1000, 977
+	size: 29, 24
+	orig: 29, 24
+	offset: 0, 0
+	index: -1
+jiazi7_tongdi2kapai
+	rotate: true
+	xy: 967, 250
+	size: 111, 34
+	orig: 111, 34
+	offset: 0, 0
+	index: -1
+jiazi_tongdi2kapai
+	rotate: true
+	xy: 267, 721
+	size: 236, 163
+	orig: 236, 163
+	offset: 0, 0
+	index: -1
+shenti_tongdi2kapai
+	rotate: true
+	xy: 823, 630
+	size: 124, 189
+	orig: 124, 189
+	offset: 0, 0
+	index: -1
+dao2_tongdi2kapai
+	rotate: false
+	xy: 0, 0
+	size: 517, 349
+	orig: 517, 349
+	offset: 0, 0
+	index: -1
+erji_tongdi2kapai
+	rotate: false
+	xy: 823, 554
+	size: 28, 41
+	orig: 28, 41
+	offset: 0, 0
+	index: -1
+biyan_tongdi2kapai
+	rotate: true
+	xy: 1002, 250
+	size: 59, 20
+	orig: 59, 20
+	offset: 0, 0
+	index: -1
+fuzi_tongdi2kapai
+	rotate: false
+	xy: 0, 721
+	size: 266, 303
+	orig: 266, 303
+	offset: 0, 0
+	index: -1
+zuantou3_tongdi2kapai
+	rotate: false
+	xy: 852, 362
+	size: 172, 267
+	orig: 172, 267
+	offset: 0, 0
+	index: -1
+zuoyanjing_tongdi2kapai
+	rotate: true
+	xy: 1002, 310
+	size: 27, 19
+	orig: 27, 19
+	offset: 0, 0
+	index: -1
+beibanA_3_tongdi2kapai
+	rotate: false
+	xy: 952, 935
+	size: 72, 41
+	orig: 72, 41
+	offset: 0, 0
+	index: -1
+dianju10_tongdi2kapai
+	rotate: false
+	xy: 823, 596
+	size: 28, 25
+	orig: 28, 25
+	offset: 0, 0
+	index: -1
+zuomeimao_tongdi2kapai
+	rotate: false
+	xy: 927, 202
+	size: 32, 16
+	orig: 32, 16
+	offset: 0, 0
+	index: -1
+zuoxiaotui_tongdi2kapai
+	rotate: true
+	xy: 703, 953
+	size: 71, 110
+	orig: 71, 110
+	offset: 0, 0
+	index: -1
+qianzi4_tongdi2kapai
+	rotate: false
+	xy: 554, 976
+	size: 66, 48
+	orig: 66, 48
+	offset: 0, 0
+	index: -1
+daodao2_tongdi2kapai
+	rotate: true
+	xy: 518, 219
+	size: 142, 448
+	orig: 142, 448
+	offset: 0, 0
+	index: -1
+liandao2_tongdi2kapai
+	rotate: false
+	xy: 0, 350
+	size: 444, 370
+	orig: 444, 370
+	offset: 0, 0
+	index: -1

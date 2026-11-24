@@ -1,0 +1,260 @@
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_009
+	rotate: false
+	xy: 146, 815
+	size: 141, 44
+	orig: 223, 90
+	offset: 55, 18
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_010
+	rotate: false
+	xy: 334, 980
+	size: 151, 44
+	orig: 223, 90
+	offset: 48, 15
+	index: -1
+global/a_global_geliuganxiupu_suishi_005
+	rotate: false
+	xy: 584, 668
+	size: 115, 52
+	orig: 223, 90
+	offset: 74, 16
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_004
+	rotate: true
+	xy: 972, 459
+	size: 105, 52
+	orig: 223, 90
+	offset: 82, 15
+	index: -1
+global/a_global_geliuganxiupu_suishi_002
+	rotate: false
+	xy: 450, 784
+	size: 85, 48
+	orig: 223, 90
+	offset: 97, 15
+	index: -1
+global/a_global_geliuganxiupu_suishi_008
+	rotate: true
+	xy: 735, 522
+	size: 131, 48
+	orig: 223, 90
+	offset: 62, 17
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_011
+	rotate: false
+	xy: 482, 396
+	size: 159, 36
+	orig: 223, 90
+	offset: 43, 17
+	index: -1
+global/a_global_geliuganxiupu_suishi_006
+	rotate: false
+	xy: 512, 974
+	size: 123, 50
+	orig: 223, 90
+	offset: 68, 16
+	index: -1
+global/a_global_geliuganxiupu_suishi_007
+	rotate: false
+	xy: 512, 974
+	size: 123, 50
+	orig: 223, 90
+	offset: 68, 16
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se6.png
+size: 959,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_geliuganxiupu_suishi_003
+	rotate: true
+	xy: 391, 414
+	size: 95, 50
+	orig: 223, 90
+	offset: 90, 15
+	index: -1
+global/a_global_geliuganxiupu_suishi_001
+	rotate: false
+	xy: 785, 587
+	size: 73, 44
+	orig: 223, 90
+	offset: 105, 15
+	index: -1
+
+asset/anim/tiankongzuASE.png
+size: 719,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tiankongzujizhongA_16
+	rotate: true
+	xy: 166, 300
+	size: 117, 108
+	orig: 117, 108
+	offset: 0, 0
+	index: -1
+tiankongzufeixingA_14
+	rotate: false
+	xy: 525, 0
+	size: 184, 49
+	orig: 184, 49
+	offset: 0, 0
+	index: -1
+tiankongzufeixingA_15
+	rotate: false
+	xy: 622, 379
+	size: 92, 37
+	orig: 92, 37
+	offset: 0, 0
+	index: -1
+tiankongzufeixingA_12
+	rotate: true
+	xy: 123, 327
+	size: 134, 42
+	orig: 136, 42
+	offset: 2, 0
+	index: -1
+tiankongzufeixingA_13
+	rotate: false
+	xy: 166, 418
+	size: 119, 44
+	orig: 131, 46
+	offset: 12, 0
+	index: -1
+tiankongzujizhongA_xuanfeng_000
+	rotate: false
+	xy: 645, 50
+	size: 74, 125
+	orig: 144, 129
+	offset: 0, 0
+	index: -1
+tiankongzujizhongA_17
+	rotate: false
+	xy: 525, 50
+	size: 119, 104
+	orig: 119, 104
+	offset: 0, 0
+	index: -1
+tiankongzujizhongA_20
+	rotate: false
+	xy: 546, 408
+	size: 75, 60
+	orig: 75, 60
+	offset: 0, 0
+	index: -1
+tiankongzujizhongA_xuanfeng_002
+	rotate: true
+	xy: 145, 152
+	size: 74, 129
+	orig: 144, 129
+	offset: 0, 0
+	index: -1
+tiankongzujizhongA_xuanfeng_009
+	rotate: true
+	xy: 416, 408
+	size: 70, 129
+	orig: 144, 129
+	offset: 4, 0
+	index: -1
+tiankongzujizhongA_xuanfeng_008
+	rotate: true
+	xy: 475, 337
+	size: 70, 129
+	orig: 144, 129
+	offset: 4, 0
+	index: -1
+tiankongzujizhongA_19
+	rotate: false
+	xy: 632, 302
+	size: 81, 76
+	orig: 81, 76
+	offset: 0, 0
+	index: -1
+tiankongzujizhongA_18
+	rotate: false
+	xy: 380, 313
+	size: 94, 94
+	orig: 94, 94
+	offset: 0, 0
+	index: -1
+tiankongzujizhongA_xuanfeng_005
+	rotate: false
+	xy: 632, 176
+	size: 74, 125
+	orig: 144, 129
+	offset: 0, 0
+	index: -1
+tiankongzujizhongA_xuanfeng_004
+	rotate: true
+	xy: 280, 147
+	size: 70, 129
+	orig: 144, 129
+	offset: 4, 0
+	index: -1
+tiankongzujizhongA_xuanfeng_007
+	rotate: true
+	xy: 286, 408
+	size: 72, 129
+	orig: 144, 129
+	offset: 0, 0
+	index: -1
+tiankongzujizhongA_xuanfeng_006
+	rotate: true
+	xy: 508, 262
+	size: 74, 123
+	orig: 144, 129
+	offset: 0, 0
+	index: -1
+tiankongzujizhongA_xuanfeng_001
+	rotate: true
+	xy: 286, 218
+	size: 72, 123
+	orig: 144, 129
+	offset: 0, 0
+	index: -1
+tiankongzujizhongA_15
+	rotate: false
+	xy: 522, 155
+	size: 109, 106
+	orig: 109, 106
+	offset: 0, 0
+	index: -1
+tiankongzujizhongA_xuanfeng_003
+	rotate: true
+	xy: 139, 227
+	size: 72, 129
+	orig: 144, 129
+	offset: 2, 0
+	index: -1
+tiankongzujizhongA_14
+	rotate: false
+	xy: 622, 417
+	size: 59, 59
+	orig: 59, 59
+	offset: 0, 0
+	index: -1

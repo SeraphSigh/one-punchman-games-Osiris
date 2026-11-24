@@ -1,0 +1,559 @@
+
+asset/anim/dajiongyan2SESKILL3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/dajiongyan2_skill_shifa_down_00037
+	rotate: true
+	xy: 1905, 0
+	size: 163, 127
+	orig: 171, 147
+	offset: 3, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00043
+	rotate: true
+	xy: 1905, 328
+	size: 163, 127
+	orig: 171, 147
+	offset: 2, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00023
+	rotate: false
+	xy: 458, 1919
+	size: 159, 127
+	orig: 171, 147
+	offset: 5, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00029
+	rotate: true
+	xy: 1710, 1793
+	size: 163, 125
+	orig: 171, 147
+	offset: 2, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00038
+	rotate: true
+	xy: 1905, 164
+	size: 163, 127
+	orig: 171, 147
+	offset: 3, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00079
+	rotate: false
+	xy: 458, 1791
+	size: 161, 127
+	orig: 171, 147
+	offset: 3, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00075
+	rotate: true
+	xy: 1905, 492
+	size: 163, 127
+	orig: 171, 147
+	offset: 2, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00076
+	rotate: true
+	xy: 1891, 656
+	size: 163, 127
+	orig: 171, 147
+	offset: 2, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00072
+	rotate: true
+	xy: 1891, 1152
+	size: 161, 127
+	orig: 171, 147
+	offset: 3, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00053
+	rotate: true
+	xy: 1891, 986
+	size: 165, 125
+	orig: 171, 147
+	offset: 2, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00050
+	rotate: true
+	xy: 1891, 820
+	size: 165, 125
+	orig: 171, 147
+	offset: 3, 0
+	index: -1
+
+asset/anim/dajiongyan2SESKILL2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/dajiongyan2_skill_shifa_down_00047
+	rotate: false
+	xy: 1869, 1846
+	size: 165, 127
+	orig: 171, 147
+	offset: 2, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00032
+	rotate: true
+	xy: 1881, 818
+	size: 169, 129
+	orig: 171, 147
+	offset: 0, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00080
+	rotate: true
+	xy: 1903, 514
+	size: 169, 131
+	orig: 171, 147
+	offset: 0, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00081
+	rotate: false
+	xy: 1869, 1588
+	size: 167, 129
+	orig: 171, 147
+	offset: 0, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00062
+	rotate: false
+	xy: 1869, 1328
+	size: 167, 129
+	orig: 171, 147
+	offset: 1, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00060
+	rotate: false
+	xy: 332, 1893
+	size: 165, 127
+	orig: 171, 147
+	offset: 3, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00061
+	rotate: true
+	xy: 1903, 0
+	size: 171, 131
+	orig: 171, 147
+	offset: 0, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00048
+	rotate: true
+	xy: 1098, 1767
+	size: 165, 127
+	orig: 171, 147
+	offset: 2, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00041
+	rotate: false
+	xy: 1869, 1718
+	size: 165, 127
+	orig: 171, 147
+	offset: 1, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00028
+	rotate: true
+	xy: 1601, 1865
+	size: 163, 127
+	orig: 171, 147
+	offset: 2, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00066
+	rotate: true
+	xy: 1473, 1865
+	size: 165, 127
+	orig: 171, 147
+	offset: 1, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00071
+	rotate: true
+	xy: 1903, 172
+	size: 171, 131
+	orig: 171, 147
+	offset: 0, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00070
+	rotate: false
+	xy: 1869, 1458
+	size: 167, 129
+	orig: 171, 147
+	offset: 0, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00031
+	rotate: true
+	xy: 1729, 1865
+	size: 163, 127
+	orig: 171, 147
+	offset: 2, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00033
+	rotate: true
+	xy: 1881, 988
+	size: 169, 129
+	orig: 171, 147
+	offset: 0, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00052
+	rotate: true
+	xy: 1903, 344
+	size: 169, 131
+	orig: 171, 147
+	offset: 0, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00051
+	rotate: true
+	xy: 1881, 1158
+	size: 169, 129
+	orig: 171, 147
+	offset: 0, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00057
+	rotate: false
+	xy: 166, 1893
+	size: 165, 127
+	orig: 171, 147
+	offset: 3, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00056
+	rotate: false
+	xy: 0, 1893
+	size: 165, 127
+	orig: 171, 147
+	offset: 3, 0
+	index: -1
+
+asset/anim/dajiongyan2SESKILL1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/dajiongyan2_skill_shifa_down_00049
+	rotate: false
+	xy: 1720, 1925
+	size: 165, 121
+	orig: 171, 147
+	offset: 3, 2
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00040
+	rotate: false
+	xy: 1556, 1925
+	size: 163, 123
+	orig: 171, 147
+	offset: 2, 1
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00042
+	rotate: true
+	xy: 1886, 1811
+	size: 171, 131
+	orig: 171, 147
+	offset: 0, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00039
+	rotate: false
+	xy: 1392, 1925
+	size: 163, 123
+	orig: 171, 147
+	offset: 3, 1
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00034
+	rotate: false
+	xy: 1228, 1925
+	size: 163, 123
+	orig: 171, 147
+	offset: 2, 1
+	index: -1
+
+asset/anim/dajiongyan2SESKILL0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/dajiongyan2_skill_shifa_down_00088
+	rotate: false
+	xy: 1817, 1931
+	size: 141, 113
+	orig: 171, 147
+	offset: 13, 6
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00089
+	rotate: false
+	xy: 103, 2017
+	size: 39, 31
+	orig: 171, 147
+	offset: 62, 64
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00083
+	rotate: true
+	xy: 699, 1891
+	size: 153, 113
+	orig: 171, 147
+	offset: 2, 6
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00035
+	rotate: true
+	xy: 699, 1727
+	size: 163, 115
+	orig: 171, 147
+	offset: 2, 5
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00064
+	rotate: true
+	xy: 699, 1563
+	size: 163, 117
+	orig: 171, 147
+	offset: 5, 4
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00054
+	rotate: true
+	xy: 699, 1397
+	size: 165, 117
+	orig: 171, 147
+	offset: 3, 5
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00018
+	rotate: false
+	xy: 1677, 1931
+	size: 139, 117
+	orig: 171, 147
+	offset: 18, 9
+	index: -1
+
+asset/anim/dajiongyan2SESKILL6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/dajiongyan2_skill_shifa_down_00087
+	rotate: true
+	xy: 1925, 120
+	size: 147, 119
+	orig: 171, 147
+	offset: 10, 3
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00022
+	rotate: false
+	xy: 1777, 0
+	size: 155, 119
+	orig: 171, 147
+	offset: 9, 3
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00020
+	rotate: false
+	xy: 1777, 120
+	size: 147, 125
+	orig: 171, 147
+	offset: 12, 7
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00019
+	rotate: false
+	xy: 1777, 246
+	size: 145, 127
+	orig: 171, 147
+	offset: 13, 7
+	index: -1
+
+asset/anim/dajiongyan2SESKILL5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/dajiongyan2_skill_shifa_down_00082
+	rotate: true
+	xy: 1190, 1786
+	size: 159, 123
+	orig: 171, 147
+	offset: 2, 1
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00084
+	rotate: false
+	xy: 1804, 1786
+	size: 155, 121
+	orig: 171, 147
+	offset: 4, 2
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00086
+	rotate: true
+	xy: 1678, 1769
+	size: 155, 125
+	orig: 171, 147
+	offset: 6, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00036
+	rotate: false
+	xy: 1835, 120
+	size: 163, 121
+	orig: 171, 147
+	offset: 3, 2
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00063
+	rotate: false
+	xy: 1835, 242
+	size: 163, 121
+	orig: 171, 147
+	offset: 5, 2
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00065
+	rotate: false
+	xy: 1835, 484
+	size: 161, 123
+	orig: 171, 147
+	offset: 6, 1
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00044
+	rotate: true
+	xy: 704, 1786
+	size: 161, 119
+	orig: 171, 147
+	offset: 3, 3
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00045
+	rotate: false
+	xy: 1835, 364
+	size: 163, 119
+	orig: 171, 147
+	offset: 2, 4
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00069
+	rotate: true
+	xy: 1064, 1786
+	size: 159, 125
+	orig: 171, 147
+	offset: 5, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00026
+	rotate: true
+	xy: 1434, 1786
+	size: 159, 119
+	orig: 171, 147
+	offset: 3, 3
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00024
+	rotate: false
+	xy: 1678, 1925
+	size: 157, 121
+	orig: 171, 147
+	offset: 5, 2
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00025
+	rotate: true
+	xy: 1314, 1786
+	size: 159, 119
+	orig: 171, 147
+	offset: 3, 4
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00021
+	rotate: false
+	xy: 1836, 1908
+	size: 157, 119
+	orig: 171, 147
+	offset: 7, 5
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00055
+	rotate: false
+	xy: 1835, 0
+	size: 165, 119
+	orig: 171, 147
+	offset: 3, 3
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00078
+	rotate: true
+	xy: 582, 1786
+	size: 161, 121
+	orig: 171, 147
+	offset: 2, 2
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00074
+	rotate: true
+	xy: 944, 1786
+	size: 161, 119
+	orig: 171, 147
+	offset: 2, 3
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00073
+	rotate: true
+	xy: 824, 1786
+	size: 161, 119
+	orig: 171, 147
+	offset: 2, 4
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00030
+	rotate: true
+	xy: 460, 1786
+	size: 161, 121
+	orig: 171, 147
+	offset: 3, 2
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00068
+	rotate: true
+	xy: 1554, 1786
+	size: 157, 123
+	orig: 171, 147
+	offset: 6, 1
+	index: -1
+
+asset/anim/dajiongyan2SESKILL4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/dajiongyan2_skill_shifa_down_00085
+	rotate: false
+	xy: 1000, 1851
+	size: 157, 127
+	orig: 171, 147
+	offset: 6, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00058
+	rotate: true
+	xy: 1644, 1801
+	size: 163, 125
+	orig: 171, 147
+	offset: 5, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00046
+	rotate: false
+	xy: 1835, 1107
+	size: 163, 125
+	orig: 171, 147
+	offset: 2, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00027
+	rotate: true
+	xy: 626, 1851
+	size: 161, 125
+	orig: 171, 147
+	offset: 3, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00067
+	rotate: true
+	xy: 498, 1851
+	size: 159, 127
+	orig: 171, 147
+	offset: 5, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00077
+	rotate: true
+	xy: 752, 1851
+	size: 161, 125
+	orig: 171, 147
+	offset: 3, 0
+	index: -1
+skill/dajiongyan2_skill_shifa_down_00059
+	rotate: true
+	xy: 878, 1851
+	size: 165, 121
+	orig: 171, 147
+	offset: 3, 2
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

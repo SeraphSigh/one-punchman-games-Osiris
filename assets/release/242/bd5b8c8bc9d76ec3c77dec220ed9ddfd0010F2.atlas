@@ -1,0 +1,279 @@
+
+asset/anim/suonikeqipan0.png
+size: 195,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_lian_suonikeqipan
+	rotate: false
+	xy: 73, 0
+	size: 50, 48
+	orig: 50, 48
+	offset: 0, 0
+	index: -1
+a_zuoxiaotui_suonikeqipan
+	rotate: false
+	xy: 185, 19
+	size: 9, 18
+	orig: 9, 18
+	offset: 0, 0
+	index: -1
+a_youyan2_suonikeqipan
+	rotate: true
+	xy: 115, 107
+	size: 19, 12
+	orig: 19, 12
+	offset: 0, 0
+	index: -1
+c_liuhai2_suonikeqipan
+	rotate: false
+	xy: 59, 71
+	size: 19, 47
+	orig: 19, 47
+	offset: 0, 0
+	index: -1
+b_zui_suonikeqipan
+	rotate: false
+	xy: 175, 114
+	size: 10, 6
+	orig: 10, 6
+	offset: 0, 0
+	index: -1
+c_dou2_suonikeqipan
+	rotate: false
+	xy: 128, 107
+	size: 11, 19
+	orig: 11, 19
+	offset: 0, 0
+	index: -1
+a_zuomei_suonikeqipan
+	rotate: true
+	xy: 138, 66
+	size: 22, 11
+	orig: 22, 11
+	offset: 0, 0
+	index: -1
+b_youyan1_suonikeqipan
+	rotate: false
+	xy: 177, 73
+	size: 18, 12
+	orig: 18, 12
+	offset: 0, 0
+	index: -1
+a_youdabi_suonikeqipan
+	rotate: true
+	xy: 59, 119
+	size: 7, 12
+	orig: 7, 12
+	offset: 0, 0
+	index: -1
+a_zuoshou_suonikeqipan
+	rotate: false
+	xy: 174, 95
+	size: 6, 5
+	orig: 6, 5
+	offset: 0, 0
+	index: -1
+a_youyan1_suonikeqipan
+	rotate: true
+	xy: 138, 89
+	size: 17, 12
+	orig: 17, 12
+	offset: 0, 0
+	index: -1
+c_han2_suonikeqipan
+	rotate: false
+	xy: 115, 94
+	size: 22, 12
+	orig: 22, 12
+	offset: 0, 0
+	index: -1
+a_tou_suonikeqipan
+	rotate: false
+	xy: 124, 0
+	size: 60, 37
+	orig: 60, 37
+	offset: 0, 0
+	index: -1
+c_han3_suonikeqipan
+	rotate: true
+	xy: 179, 38
+	size: 17, 16
+	orig: 17, 16
+	offset: 0, 0
+	index: -1
+c_liuhai1_suonikeqipan
+	rotate: false
+	xy: 0, 71
+	size: 27, 55
+	orig: 27, 55
+	offset: 0, 0
+	index: -1
+c_dou3_suonikeqipan
+	rotate: false
+	xy: 152, 107
+	size: 9, 17
+	orig: 9, 17
+	offset: 0, 0
+	index: -1
+a_youxiaobi_suonikeqipan
+	rotate: true
+	xy: 184, 94
+	size: 6, 11
+	orig: 6, 11
+	offset: 0, 0
+	index: -1
+c_liuhai3_suonikeqipan
+	rotate: false
+	xy: 28, 71
+	size: 30, 53
+	orig: 30, 53
+	offset: 0, 0
+	index: -1
+a_zuoweijin_suonikeqipan
+	rotate: false
+	xy: 126, 38
+	size: 26, 27
+	orig: 26, 27
+	offset: 0, 0
+	index: -1
+b_zuomei_suonikeqipan
+	rotate: false
+	xy: 163, 86
+	size: 20, 8
+	orig: 20, 8
+	offset: 0, 0
+	index: -1
+a_youshou_suonikeqipan
+	rotate: false
+	xy: 72, 119
+	size: 6, 5
+	orig: 6, 5
+	offset: 0, 0
+	index: -1
+a_zuoyan1_suonikeqipan
+	rotate: false
+	xy: 175, 101
+	size: 16, 12
+	orig: 16, 12
+	offset: 0, 0
+	index: -1
+b_youmei_suonikeqipan
+	rotate: true
+	xy: 151, 88
+	size: 18, 9
+	orig: 18, 9
+	offset: 0, 0
+	index: -1
+a_youweijiin_suonikeqipan
+	rotate: false
+	xy: 153, 38
+	size: 25, 26
+	orig: 25, 26
+	offset: 0, 0
+	index: -1
+a_fa_suonikeqipan
+	rotate: false
+	xy: 79, 69
+	size: 37, 24
+	orig: 37, 24
+	offset: 0, 0
+	index: -1
+a_zui_suonikeqipan
+	rotate: false
+	xy: 162, 122
+	size: 10, 4
+	orig: 10, 4
+	offset: 0, 0
+	index: -1
+b_zuoyan1_suonikeqipan
+	rotate: true
+	xy: 162, 104
+	size: 17, 12
+	orig: 17, 12
+	offset: 0, 0
+	index: -1
+yingzi_suonikeqipan
+	rotate: false
+	xy: 73, 49
+	size: 52, 19
+	orig: 52, 19
+	offset: 0, 0
+	index: -1
+a_weijin_suonikeqipan
+	rotate: true
+	xy: 117, 69
+	size: 24, 20
+	orig: 24, 20
+	offset: 0, 0
+	index: -1
+a_zuoyan2_suonikeqipan
+	rotate: true
+	xy: 163, 65
+	size: 20, 13
+	orig: 20, 13
+	offset: 0, 0
+	index: -1
+c_dou_suonikeqipan
+	rotate: false
+	xy: 97, 94
+	size: 17, 31
+	orig: 17, 31
+	offset: 0, 0
+	index: -1
+jiaodi_suonikeqipan
+	rotate: true
+	xy: 192, 101
+	size: 6, 3
+	orig: 6, 3
+	offset: 0, 0
+	index: -1
+a_zuoxiaobi_suonikeqipan
+	rotate: true
+	xy: 184, 86
+	size: 7, 11
+	orig: 7, 11
+	offset: 0, 0
+	index: -1
+a_youmei_suonikeqipan
+	rotate: true
+	xy: 150, 66
+	size: 21, 12
+	orig: 21, 12
+	offset: 0, 0
+	index: -1
+a_kua_suonikeqipan
+	rotate: true
+	xy: 140, 107
+	size: 19, 11
+	orig: 19, 11
+	offset: 0, 0
+	index: -1
+a_zuodabi_suonikeqipan
+	rotate: true
+	xy: 161, 95
+	size: 8, 12
+	orig: 8, 12
+	offset: 0, 0
+	index: -1
+c_han_suonikeqipan
+	rotate: false
+	xy: 179, 56
+	size: 16, 16
+	orig: 16, 16
+	offset: 0, 0
+	index: -1
+c_dou4_suonikeqipan
+	rotate: false
+	xy: 79, 94
+	size: 17, 32
+	orig: 17, 32
+	offset: 0, 0
+	index: -1
+a_youxiaotui_suonikeqipan
+	rotate: false
+	xy: 185, 0
+	size: 10, 18
+	orig: 10, 18
+	offset: 0, 0
+	index: -1

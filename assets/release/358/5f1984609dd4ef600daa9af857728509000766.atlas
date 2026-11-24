@@ -1,0 +1,117 @@
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1
+
+asset/anim/jurendidijuqing0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Rleg2_jurendidijuqing
+	rotate: false
+	xy: 165, 292
+	size: 71, 193
+	orig: 71, 193
+	offset: 0, 0
+	index: -1
+a_Lleg_jurendidijuqing
+	rotate: true
+	xy: 0, 292
+	size: 113, 164
+	orig: 113, 164
+	offset: 0, 0
+	index: -1
+a_yan_jurendidijuqing
+	rotate: false
+	xy: 0, 0
+	size: 448, 147
+	orig: 448, 147
+	offset: 0, 0
+	index: -1
+a_Rhand_jurendidijuqing
+	rotate: true
+	xy: 449, 97
+	size: 47, 48
+	orig: 47, 48
+	offset: 0, 0
+	index: -1
+a_head_jurendidijuqing
+	rotate: false
+	xy: 377, 148
+	size: 74, 96
+	orig: 74, 96
+	offset: 0, 0
+	index: -1
+a_a_Rarm2_jurendidijuqing
+	rotate: false
+	xy: 452, 201
+	size: 39, 38
+	orig: 39, 38
+	offset: 0, 0
+	index: -1
+a_Rfoot_jurendidijuqing
+	rotate: true
+	xy: 449, 0
+	size: 96, 47
+	orig: 96, 47
+	offset: 0, 0
+	index: -1
+a_Larm_jurendidijuqing
+	rotate: true
+	xy: 237, 357
+	size: 105, 126
+	orig: 105, 126
+	offset: 0, 0
+	index: -1
+a_Rleg_jurendidijuqing
+	rotate: true
+	xy: 0, 406
+	size: 95, 154
+	orig: 95, 154
+	offset: 0, 0
+	index: -1
+a_Lhand_jurendidijuqing
+	rotate: true
+	xy: 452, 145
+	size: 55, 53
+	orig: 55, 53
+	offset: 0, 0
+	index: -1
+a_Larm2_jurendidijuqing
+	rotate: true
+	xy: 364, 357
+	size: 105, 87
+	orig: 105, 87
+	offset: 0, 0
+	index: -1
+a_body_jurendidijuqing
+	rotate: true
+	xy: 0, 148
+	size: 143, 269
+	orig: 143, 269
+	offset: 0, 0
+	index: -1
+a_Lfoot_jurendidijuqing
+	rotate: false
+	xy: 377, 245
+	size: 92, 58
+	orig: 92, 58
+	offset: 0, 0
+	index: -1
+a_Lleg2_jurendidijuqing
+	rotate: false
+	xy: 270, 148
+	size: 106, 208
+	orig: 106, 208
+	offset: 0, 0
+	index: -1

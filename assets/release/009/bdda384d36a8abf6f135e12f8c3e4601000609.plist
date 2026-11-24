@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>spring_snow_zhuchangjing_tansuo_0401.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{13,-1}</string>
+                <key>spriteSize</key>
+                <string>{620,792}</string>
+                <key>spriteSourceSize</key>
+                <string>{646,832}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{620,792}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>scenebg_gardenspringsnow3.png</string>
+            <key>size</key>
+            <string>{620,792}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:85aa132d8cf7aa1308eee824725d09ce:75aa94d565b48f9cc276bcfdf3592717:10f61595d3fb20a2314d22f0a1437ced$</string>
+            <key>textureFileName</key>
+            <string>scenebg_gardenspringsnow3.png</string>
+        </dict>
+    </dict>
+</plist>

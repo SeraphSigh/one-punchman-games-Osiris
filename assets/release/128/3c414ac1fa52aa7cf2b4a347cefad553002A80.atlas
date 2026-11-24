@@ -1,0 +1,608 @@
+
+asset/anim/mengzhongdidiwangSEMAX2.png
+size: 996,1003
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/ddwur_tuowei2__00034
+	rotate: false
+	xy: 101, 943
+	size: 66, 54
+	orig: 502, 98
+	offset: 99, 20
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0001
+	rotate: true
+	xy: 639, 329
+	size: 98, 27
+	orig: 280, 73
+	offset: 89, 18
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0010
+	rotate: false
+	xy: 836, 891
+	size: 188, 63
+	orig: 280, 73
+	offset: 43, 7
+	index: -1
+global/a_global_texiao34_shenhaiwang_0009
+	rotate: false
+	xy: 840, 0
+	size: 184, 63
+	orig: 280, 73
+	offset: 46, 7
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0005
+	rotate: false
+	xy: 846, 78
+	size: 178, 59
+	orig: 280, 73
+	offset: 49, 9
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0011
+	rotate: false
+	xy: 799, 224
+	size: 190, 65
+	orig: 280, 73
+	offset: 42, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0012
+	rotate: false
+	xy: 400, 305
+	size: 192, 65
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0013
+	rotate: false
+	xy: 799, 290
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 6
+	index: -1
+global/a_global_texiao34_shenhaiwang_0014
+	rotate: false
+	xy: 593, 319
+	size: 190, 57
+	orig: 280, 73
+	offset: 39, 5
+	index: -1
+global/a_global_texiao34_shenhaiwang_0007
+	rotate: false
+	xy: 370, 519
+	size: 182, 61
+	orig: 280, 73
+	offset: 47, 8
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_texiao34_shenhaiwang_0003
+	rotate: false
+	xy: 276, 251
+	size: 156, 53
+	orig: 280, 73
+	offset: 59, 11
+	index: -1
+global/a_global_texiao34_shenhaiwang_0002
+	rotate: false
+	xy: 889, 238
+	size: 126, 47
+	orig: 280, 73
+	offset: 71, 12
+	index: -1
+global/a_global_didiwang_Light_Decal
+	rotate: false
+	xy: 139, 687
+	size: 125, 127
+	orig: 125, 127
+	offset: 0, 0
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON8.png
+size: 955,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwur_diciyan_0001
+	rotate: true
+	xy: 687, 396
+	size: 162, 180
+	orig: 196, 196
+	offset: 17, 0
+	index: -1
+common/ddwur_diciyan_0002
+	rotate: false
+	xy: 512, 650
+	size: 162, 188
+	orig: 196, 196
+	offset: 17, 0
+	index: -1
+common/ddwur_fnagsheguang_00092
+	rotate: false
+	xy: 0, 251
+	size: 246, 248
+	orig: 280, 280
+	offset: 34, 1
+	index: -1
+common/ddwur_guangzhao_00094
+	rotate: false
+	xy: 486, 496
+	size: 196, 153
+	orig: 196, 157
+	offset: 0, 0
+	index: -1
+common/ddwur_fnagsheguang_00082
+	rotate: true
+	xy: 249, 0
+	size: 212, 252
+	orig: 280, 280
+	offset: 32, 1
+	index: -1
+common/ddwur_fnagsheguang_00088
+	rotate: false
+	xy: 0, 0
+	size: 248, 250
+	orig: 280, 280
+	offset: 32, 6
+	index: -1
+common/ddwur_shan2_00076
+	rotate: false
+	xy: 510, 181
+	size: 210, 164
+	orig: 280, 196
+	offset: 40, 22
+	index: -1
+common/ddwur_fnagsheguang_00094
+	rotate: false
+	xy: 0, 709
+	size: 204, 228
+	orig: 280, 280
+	offset: 70, 6
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwur_fnagsheguang_00090
+	rotate: true
+	xy: 603, 566
+	size: 250, 246
+	orig: 280, 280
+	offset: 30, 4
+	index: -1
+common/ddwur_diciyan_0004
+	rotate: false
+	xy: 850, 928
+	size: 150, 96
+	orig: 196, 196
+	offset: 24, 0
+	index: -1
+common/ddwur_tuowei2__00048
+	rotate: false
+	xy: 431, 934
+	size: 418, 90
+	orig: 502, 98
+	offset: 73, 5
+	index: -1
+common/ddwur_shan2_00075
+	rotate: true
+	xy: 850, 731
+	size: 196, 174
+	orig: 280, 196
+	offset: 44, 14
+	index: -1
+common/ddwur_tuowei2__00050
+	rotate: false
+	xy: 0, 934
+	size: 430, 90
+	orig: 502, 98
+	offset: 61, 5
+	index: -1
+common/ddwur_tuowei2__00056
+	rotate: false
+	xy: 516, 477
+	size: 326, 88
+	orig: 502, 98
+	offset: 158, 5
+	index: -1
+common/ddwur_tuowei2__00058
+	rotate: true
+	xy: 516, 566
+	size: 356, 86
+	orig: 502, 98
+	offset: 134, 7
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON1.png
+size: 1024,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwur_diciyan_0006
+	rotate: true
+	xy: 445, 760
+	size: 144, 64
+	orig: 196, 196
+	offset: 27, 6
+	index: -1
+common/ddwur_diciyan_0007
+	rotate: false
+	xy: 300, 944
+	size: 144, 56
+	orig: 196, 196
+	offset: 27, 14
+	index: -1
+common/ddwur_diciyan_0009
+	rotate: false
+	xy: 300, 885
+	size: 144, 58
+	orig: 196, 196
+	offset: 27, 14
+	index: -1
+common/ddwur_jian1
+	rotate: true
+	xy: 445, 585
+	size: 174, 65
+	orig: 174, 65
+	offset: 0, 0
+	index: -1
+common/ddwur_shitoushangjianshe_00072
+	rotate: false
+	xy: 445, 905
+	size: 376, 117
+	orig: 424, 147
+	offset: 0, 12
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON2.png
+size: 1023,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwur_jian3
+	rotate: false
+	xy: 185, 958
+	size: 154, 59
+	orig: 154, 59
+	offset: 0, 0
+	index: -1
+common/ddwur_jian4
+	rotate: false
+	xy: 0, 958
+	size: 184, 62
+	orig: 194, 70
+	offset: 7, 8
+	index: -1
+common/ddwur_shitoushangjianshe_00073
+	rotate: true
+	xy: 898, 0
+	size: 410, 125
+	orig: 424, 147
+	offset: 0, 10
+	index: -1
+common/ddwur_tuowei2__00038
+	rotate: true
+	xy: 898, 618
+	size: 404, 92
+	orig: 502, 98
+	offset: 87, 2
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwur_diciyan_0008
+	rotate: false
+	xy: 614, 0
+	size: 144, 54
+	orig: 196, 196
+	offset: 27, 14
+	index: -1
+common/ddwur_shitoushangjianshe_00074
+	rotate: true
+	xy: 614, 55
+	size: 418, 129
+	orig: 424, 147
+	offset: 6, 8
+	index: -1
+common/ddwur_fnagsheguang_00086
+	rotate: false
+	xy: 759, 0
+	size: 264, 266
+	orig: 280, 280
+	offset: 15, 3
+	index: -1
+common/ddwur_shandian_00085
+	rotate: true
+	xy: 698, 474
+	size: 472, 81
+	orig: 502, 125
+	offset: 10, 16
+	index: -1
+common/ddwur_shandian_00089
+	rotate: true
+	xy: 610, 475
+	size: 472, 87
+	orig: 502, 125
+	offset: 11, 9
+	index: -1
+common/ddwur_shandian_00088
+	rotate: true
+	xy: 526, 0
+	size: 474, 87
+	orig: 502, 125
+	offset: 10, 21
+	index: -1
+common/ddwur_fnagsheguang_00072
+	rotate: true
+	xy: 780, 375
+	size: 238, 244
+	orig: 280, 280
+	offset: 42, 4
+	index: -1
+common/ddwur_shandian_00087
+	rotate: true
+	xy: 436, 0
+	size: 474, 89
+	orig: 502, 125
+	offset: 10, 18
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwur_diciyan_0005
+	rotate: true
+	xy: 944, 0
+	size: 146, 78
+	orig: 196, 196
+	offset: 27, 2
+	index: -1
+common/ddwur_shandian_00084
+	rotate: false
+	xy: 467, 110
+	size: 458, 89
+	orig: 502, 125
+	offset: 10, 13
+	index: -1
+common/ddwur_shandian_00086
+	rotate: false
+	xy: 0, 0
+	size: 472, 75
+	orig: 502, 125
+	offset: 11, 21
+	index: -1
+common/ddwur_shitoushangjianshe_00075
+	rotate: false
+	xy: 611, 750
+	size: 412, 131
+	orig: 424, 147
+	offset: 12, 7
+	index: -1
+common/ddwur_fnagsheguang_00084
+	rotate: false
+	xy: 360, 757
+	size: 250, 266
+	orig: 280, 280
+	offset: 30, 1
+	index: -1
+common/ddwur_ci_00037
+	rotate: false
+	xy: 473, 0
+	size: 470, 109
+	orig: 502, 125
+	offset: 11, 11
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwur_tuowei2__00044
+	rotate: true
+	xy: 0, 435
+	size: 432, 92
+	orig: 502, 98
+	offset: 59, 4
+	index: -1
+common/ddwur_tuowei2__00046
+	rotate: true
+	xy: 182, 435
+	size: 430, 94
+	orig: 502, 98
+	offset: 61, 4
+	index: -1
+common/ddwUR_luojianbaoshitoukuaizi_00075_00075
+	rotate: false
+	xy: 798, 251
+	size: 225, 272
+	orig: 225, 272
+	offset: 0, 0
+	index: -1
+common/ddwur_shan2_00077
+	rotate: true
+	xy: 703, 435
+	size: 90, 94
+	orig: 280, 196
+	offset: 104, 55
+	index: -1
+common/ddwur_tuowei2__00052
+	rotate: true
+	xy: 93, 435
+	size: 432, 88
+	orig: 502, 98
+	offset: 58, 5
+	index: -1
+common/ddwur_fnagsheguang_00078
+	rotate: false
+	xy: 434, 0
+	size: 252, 250
+	orig: 280, 280
+	offset: 21, 5
+	index: -1
+common/ddwur_fnagsheguang_00074
+	rotate: false
+	xy: 766, 0
+	size: 258, 250
+	orig: 280, 280
+	offset: 22, 1
+	index: -1
+common/ddwur_tuowei2__00036
+	rotate: true
+	xy: 703, 526
+	size: 336, 86
+	orig: 502, 98
+	offset: 120, 6
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwur_diciyan_0003
+	rotate: false
+	xy: 692, 506
+	size: 154, 154
+	orig: 196, 196
+	offset: 22, 0
+	index: -1
+common/ddwur_shan2_00074
+	rotate: true
+	xy: 692, 858
+	size: 166, 196
+	orig: 280, 196
+	offset: 58, 0
+	index: -1
+common/ddwur_guangzhao_00092
+	rotate: true
+	xy: 692, 661
+	size: 196, 153
+	orig: 196, 157
+	offset: 0, 0
+	index: -1
+common/ddwur_tuowei2__00040
+	rotate: false
+	xy: 0, 93
+	size: 404, 90
+	orig: 502, 98
+	offset: 87, 4
+	index: -1
+common/ddwur_tuowei2__00042
+	rotate: false
+	xy: 0, 0
+	size: 424, 92
+	orig: 502, 98
+	offset: 66, 4
+	index: -1
+common/ddwur_shitoushangjianshe_00071
+	rotate: false
+	xy: 506, 394
+	size: 338, 111
+	orig: 424, 147
+	offset: 0, 12
+	index: -1
+
+asset/anim/mengzhongdidiwangSECOMMON7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/ddwur_qiubao_00109
+	rotate: true
+	xy: 234, 715
+	size: 266, 182
+	orig: 280, 196
+	offset: 7, 14
+	index: -1
+common/ddwur_shitoushangjianshe_00078
+	rotate: false
+	xy: 0, 130
+	size: 370, 131
+	orig: 424, 147
+	offset: 54, 7
+	index: -1
+common/ddwur_shitoushangjianshe_00077
+	rotate: false
+	xy: 393, 0
+	size: 392, 129
+	orig: 424, 147
+	offset: 32, 8
+	index: -1
+common/ddwur_shitoushangjianshe_00076
+	rotate: false
+	xy: 0, 0
+	size: 392, 129
+	orig: 424, 147
+	offset: 32, 8
+	index: -1
+common/ddwur_fnagsheguang_00080
+	rotate: true
+	xy: 786, 0
+	size: 210, 238
+	orig: 280, 280
+	offset: 41, 4
+	index: -1
+common/ddwur_shan2_00073
+	rotate: true
+	xy: 596, 448
+	size: 84, 104
+	orig: 280, 196
+	offset: 116, 46
+	index: -1
+common/ddwur_tuowei2__00054
+	rotate: false
+	xy: 371, 130
+	size: 344, 88
+	orig: 502, 98
+	offset: 139, 5
+	index: -1
+common/ddwur_fnagsheguang_00076
+	rotate: false
+	xy: 701, 513
+	size: 264, 254
+	orig: 280, 280
+	offset: 16, 2
+	index: -1
+common/ddwur_dilie_00073
+	rotate: true
+	xy: 0, 715
+	size: 272, 131
+	orig: 280, 147
+	offset: 2, 6
+	index: -1

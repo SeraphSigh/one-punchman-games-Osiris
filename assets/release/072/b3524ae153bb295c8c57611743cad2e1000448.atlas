@@ -1,0 +1,66 @@
+
+asset/anim/axiuluoSEMAX7.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/axiuluo_shouji0004
+	rotate: false
+	xy: 110, 347
+	size: 103, 103
+	orig: 133, 133
+	offset: 14, 11
+	index: -1
+
+asset/anim/axiuluoSE.png
+size: 481,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiangdilie2_dujiaoxian
+	rotate: false
+	xy: 431, 168
+	size: 50, 117
+	orig: 50, 117
+	offset: 0, 0
+	index: -1
+
+asset/anim/axiuluoSEMAX3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/axiuluo_shouji0005
+	rotate: true
+	xy: 393, 350
+	size: 89, 109
+	orig: 133, 133
+	offset: 17, 7
+	index: -1
+max/axiuluo_shouji0003
+	rotate: true
+	xy: 393, 258
+	size: 91, 119
+	orig: 133, 133
+	offset: 20, 4
+	index: -1
+
+asset/anim/axiuluoSEMAX6.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/axiuluo_shouji0002
+	rotate: false
+	xy: 420, 118
+	size: 91, 117
+	orig: 133, 133
+	offset: 19, 5
+	index: -1
+max/axiuluo_shouji0001
+	rotate: false
+	xy: 420, 0
+	size: 91, 117
+	orig: 133, 133
+	offset: 19, 5
+	index: -1

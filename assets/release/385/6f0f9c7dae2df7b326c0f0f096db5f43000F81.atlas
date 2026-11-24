@@ -1,0 +1,231 @@
+
+asset/anim/sanjiegunSE.png
+size: 1017,1011
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lili_pgdg_0008
+	rotate: false
+	xy: 656, 0
+	size: 235, 101
+	orig: 235, 101
+	offset: 0, 0
+	index: -1
+lili_pgdg_0009
+	rotate: true
+	xy: 258, 580
+	size: 138, 101
+	orig: 138, 101
+	offset: 0, 0
+	index: -1
+lili_pgdg_0001
+	rotate: true
+	xy: 784, 715
+	size: 138, 63
+	orig: 138, 63
+	offset: 0, 0
+	index: -1
+lili_pgdg_0002
+	rotate: true
+	xy: 176, 446
+	size: 167, 79
+	orig: 167, 79
+	offset: 0, 0
+	index: -1
+lili_pgdg_0003
+	rotate: true
+	xy: 180, 614
+	size: 144, 77
+	orig: 144, 77
+	offset: 0, 0
+	index: -1
+lili_pgdg_0004
+	rotate: true
+	xy: 180, 759
+	size: 124, 79
+	orig: 124, 79
+	offset: 0, 0
+	index: -1
+lili_pgdg_0005
+	rotate: false
+	xy: 434, 117
+	size: 204, 89
+	orig: 204, 89
+	offset: 0, 0
+	index: -1
+lili_pgdg_0006
+	rotate: false
+	xy: 434, 0
+	size: 221, 116
+	orig: 221, 116
+	offset: 0, 0
+	index: -1
+lili_pgdg_0007
+	rotate: false
+	xy: 182, 140
+	size: 213, 110
+	orig: 213, 110
+	offset: 0, 0
+	index: -1
+lili_pgbd_0004
+	rotate: false
+	xy: 503, 670
+	size: 140, 134
+	orig: 140, 134
+	offset: 0, 0
+	index: -1
+lili_pgbd_0003
+	rotate: false
+	xy: 644, 715
+	size: 139, 134
+	orig: 139, 134
+	offset: 0, 0
+	index: -1
+lili_pgbd_0002
+	rotate: false
+	xy: 848, 762
+	size: 137, 134
+	orig: 137, 134
+	offset: 0, 0
+	index: -1
+lili_pgbd_0001
+	rotate: true
+	xy: 861, 465
+	size: 149, 156
+	orig: 149, 156
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_02
+	rotate: false
+	xy: 526, 860
+	size: 203, 163
+	orig: 255, 183
+	offset: 8, 11
+	index: -1
+global/a_global_quanbaodian_03
+	rotate: false
+	xy: 306, 860
+	size: 219, 163
+	orig: 255, 183
+	offset: 7, 10
+	index: -1
+global/a_global_baodian_001_wuzhengqishipng
+	rotate: true
+	xy: 359, 627
+	size: 232, 224
+	orig: 232, 224
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_04
+	rotate: false
+	xy: 617, 780
+	size: 195, 139
+	orig: 255, 183
+	offset: 38, 10
+	index: -1
+global/a_global_pangxieguai_yanquan20
+	rotate: false
+	xy: 601, 515
+	size: 211, 51
+	orig: 215, 53
+	offset: 2, 1
+	index: -1
+global/a_global_pangxieguai_yanquan18
+	rotate: false
+	xy: 601, 567
+	size: 211, 49
+	orig: 215, 53
+	offset: 2, 3
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_yanquan24
+	rotate: true
+	xy: 540, 216
+	size: 215, 43
+	orig: 215, 53
+	offset: 0, 0
+	index: -1
+global/a_global_pangxieguai_yanquan21
+	rotate: true
+	xy: 484, 519
+	size: 213, 53
+	orig: 215, 53
+	offset: 0, 0
+	index: -1
+global/a_global_pangxieguai_yanquan23
+	rotate: true
+	xy: 538, 519
+	size: 213, 45
+	orig: 215, 53
+	offset: 0, 0
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_01
+	rotate: false
+	xy: 784, 534
+	size: 179, 147
+	orig: 255, 183
+	offset: 29, 12
+	index: -1
+global/a_global_quanbaodian_05
+	rotate: false
+	xy: 814, 0
+	size: 195, 129
+	orig: 255, 183
+	offset: 46, 16
+	index: -1
+global/a_global_quanbaodian_06
+	rotate: false
+	xy: 204, 73
+	size: 201, 137
+	orig: 255, 183
+	offset: 46, 16
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_quanbaodian_00
+	rotate: false
+	xy: 889, 457
+	size: 125, 99
+	orig: 255, 183
+	offset: 53, 31
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

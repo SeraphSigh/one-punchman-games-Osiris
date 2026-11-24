@@ -1,0 +1,215 @@
+
+asset/anim/jiangshinan_yongzhuangSEATTACK0.png
+size: 1022,988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/jiangshinanyz_pugongqiangkou_8
+	rotate: true
+	xy: 212, 144
+	size: 211, 137
+	orig: 223, 147
+	offset: 0, 1
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_9
+	rotate: false
+	xy: 0, 142
+	size: 211, 141
+	orig: 223, 147
+	offset: 0, 1
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_1
+	rotate: true
+	xy: 387, 499
+	size: 87, 89
+	orig: 223, 147
+	offset: 38, 25
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_2
+	rotate: false
+	xy: 581, 832
+	size: 109, 107
+	orig: 223, 147
+	offset: 34, 17
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_3
+	rotate: false
+	xy: 798, 526
+	size: 151, 117
+	orig: 223, 147
+	offset: 34, 9
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_4
+	rotate: false
+	xy: 477, 497
+	size: 161, 113
+	orig: 223, 147
+	offset: 22, 17
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_5
+	rotate: false
+	xy: 474, 274
+	size: 199, 115
+	orig: 223, 147
+	offset: 15, 15
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_6
+	rotate: true
+	xy: 350, 144
+	size: 207, 123
+	orig: 223, 147
+	offset: 7, 10
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_7
+	rotate: false
+	xy: 0, 284
+	size: 211, 137
+	orig: 223, 147
+	offset: 0, 1
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_12
+	rotate: false
+	xy: 422, 0
+	size: 207, 141
+	orig: 223, 147
+	offset: 1, 3
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_13
+	rotate: false
+	xy: 0, 422
+	size: 207, 141
+	orig: 223, 147
+	offset: 0, 3
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_10
+	rotate: false
+	xy: 0, 0
+	size: 211, 141
+	orig: 223, 147
+	offset: 0, 2
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_11
+	rotate: false
+	xy: 212, 0
+	size: 209, 143
+	orig: 223, 147
+	offset: 0, 2
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_16
+	rotate: false
+	xy: 0, 702
+	size: 199, 137
+	orig: 223, 147
+	offset: 6, 6
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_17
+	rotate: false
+	xy: 200, 715
+	size: 191, 133
+	orig: 223, 147
+	offset: 12, 7
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_14
+	rotate: false
+	xy: 630, 0
+	size: 205, 141
+	orig: 223, 147
+	offset: 2, 3
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_15
+	rotate: false
+	xy: 0, 564
+	size: 203, 137
+	orig: 223, 147
+	offset: 2, 5
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_18
+	rotate: false
+	xy: 691, 840
+	size: 113, 97
+	orig: 223, 147
+	offset: 50, 17
+	index: -1
+attack/jiangshinanyz_pugongqiangkou_19
+	rotate: true
+	xy: 951, 766
+	size: 89, 67
+	orig: 223, 147
+	offset: 70, 35
+	index: -1
+attack/jiangshinanyz_pugongqiangkouadd_8
+	rotate: false
+	xy: 581, 940
+	size: 102, 40
+	orig: 154, 76
+	offset: 47, 18
+	index: -1
+attack/jiangshinanyz_pugongqiangkouadd_9
+	rotate: true
+	xy: 985, 423
+	size: 60, 36
+	orig: 154, 76
+	offset: 89, 20
+	index: -1
+attack/jiangshinanyz_pugongqiangkouadd_4
+	rotate: true
+	xy: 886, 743
+	size: 78, 44
+	orig: 154, 76
+	offset: 17, 20
+	index: -1
+attack/jiangshinanyz_pugongqiangkouadd_5
+	rotate: true
+	xy: 397, 587
+	size: 132, 66
+	orig: 154, 76
+	offset: 12, 10
+	index: -1
+attack/jiangshinanyz_pugongqiangkouadd_6
+	rotate: true
+	xy: 950, 526
+	size: 124, 66
+	orig: 154, 76
+	offset: 21, 10
+	index: -1
+attack/jiangshinanyz_pugongqiangkouadd_7
+	rotate: true
+	xy: 888, 822
+	size: 112, 62
+	orig: 154, 76
+	offset: 35, 10
+	index: -1
+attack/jiangshinanyz_pugongqiangkouadd_1
+	rotate: false
+	xy: 985, 484
+	size: 34, 34
+	orig: 154, 76
+	offset: 14, 24
+	index: -1
+attack/jiangshinanyz_pugongqiangkouadd_2
+	rotate: false
+	xy: 951, 856
+	size: 64, 68
+	orig: 154, 76
+	offset: 6, 3
+	index: -1
+attack/jiangshinanyz_pugongqiangkouadd_3
+	rotate: true
+	xy: 939, 651
+	size: 114, 70
+	orig: 154, 76
+	offset: 0, 6
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

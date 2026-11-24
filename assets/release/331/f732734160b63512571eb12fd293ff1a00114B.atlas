@@ -1,0 +1,265 @@
+
+asset/anim/jiangshinanyzkapai.png
+size: 1009,642
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_Larm1_jiangshinanyzkapai
+	rotate: false
+	xy: 657, 340
+	size: 102, 190
+	orig: 102, 190
+	offset: 0, 0
+	index: -1
+a_qiang_jiangshinanyzkapai
+	rotate: true
+	xy: 777, 0
+	size: 156, 209
+	orig: 156, 209
+	offset: 0, 0
+	index: -1
+d_mian_jiangshinanyzkapai
+	rotate: false
+	xy: 945, 269
+	size: 51, 42
+	orig: 51, 42
+	offset: 0, 0
+	index: -1
+a_kua_jiangshinanyzkapai
+	rotate: false
+	xy: 457, 388
+	size: 199, 128
+	orig: 199, 128
+	offset: 0, 0
+	index: -1
+a_Lleg_jiangshinanyzkapai
+	rotate: false
+	xy: 777, 157
+	size: 167, 172
+	orig: 167, 172
+	offset: 0, 0
+	index: -1
+c_mian3_jiangshinanyzkapai
+	rotate: false
+	xy: 940, 591
+	size: 34, 25
+	orig: 34, 25
+	offset: 0, 0
+	index: -1
+d_jin2_jiangshinanyzkapai
+	rotate: true
+	xy: 481, 603
+	size: 35, 47
+	orig: 35, 47
+	offset: 0, 0
+	index: -1
+a_Rleg_jiangshinanyzkapai
+	rotate: false
+	xy: 650, 139
+	size: 126, 200
+	orig: 126, 200
+	offset: 0, 0
+	index: -1
+c_ping3_jiangshinanyzkapai
+	rotate: false
+	xy: 383, 603
+	size: 41, 39
+	orig: 41, 39
+	offset: 0, 0
+	index: -1
+b_mian_jiangshinanyzkapai
+	rotate: true
+	xy: 997, 226
+	size: 23, 11
+	orig: 23, 11
+	offset: 0, 0
+	index: -1
+d_shoulei3_jiangshinanyzkapai
+	rotate: false
+	xy: 945, 157
+	size: 63, 68
+	orig: 63, 68
+	offset: 0, 0
+	index: -1
+a_body_jiangshinanyzkapai
+	rotate: false
+	xy: 146, 192
+	size: 213, 313
+	orig: 213, 313
+	offset: 0, 0
+	index: -1
+a_Ryanpi_jiangshinanyzkapai
+	rotate: false
+	xy: 383, 583
+	size: 21, 14
+	orig: 21, 14
+	offset: 0, 0
+	index: -1
+a_head_jiangshinanyzkapai
+	rotate: true
+	xy: 604, 531
+	size: 109, 151
+	orig: 109, 151
+	offset: 0, 0
+	index: -1
+a_Lhand_jiangshinanyzkapai
+	rotate: false
+	xy: 943, 330
+	size: 66, 74
+	orig: 66, 74
+	offset: 0, 0
+	index: -1
+a_ping_jiangshinanyzkapai
+	rotate: false
+	xy: 880, 469
+	size: 107, 121
+	orig: 107, 121
+	offset: 0, 0
+	index: -1
+a_Rarm2_jiangshinanyzkapai
+	rotate: false
+	xy: 760, 340
+	size: 84, 140
+	orig: 84, 140
+	offset: 0, 0
+	index: -1
+a_Rarm1_jiangshinanyzkapai
+	rotate: true
+	xy: 405, 517
+	size: 85, 198
+	orig: 85, 198
+	offset: 0, 0
+	index: -1
+d_jin_jiangshinanyzkapai
+	rotate: false
+	xy: 425, 603
+	size: 55, 34
+	orig: 55, 34
+	offset: 0, 0
+	index: -1
+d_ping2_jiangshinanyzkapai
+	rotate: false
+	xy: 325, 583
+	size: 57, 58
+	orig: 57, 58
+	offset: 0, 0
+	index: -1
+d_shoulei4_jiangshinanyzkapai
+	rotate: true
+	xy: 256, 583
+	size: 58, 68
+	orig: 58, 68
+	offset: 0, 0
+	index: -1
+d_guang2_jiangshinanyzkapai
+	rotate: true
+	xy: 845, 469
+	size: 11, 31
+	orig: 11, 31
+	offset: 0, 0
+	index: -1
+d_ping_jiangshinanyzkapai
+	rotate: false
+	xy: 943, 405
+	size: 58, 58
+	orig: 58, 58
+	offset: 0, 0
+	index: -1
+a_dai_jiangshinanyzkapai
+	rotate: false
+	xy: 457, 139
+	size: 192, 248
+	orig: 192, 248
+	offset: 0, 0
+	index: -1
+a_Rshou1_jiangshinanyzkapai
+	rotate: true
+	xy: 360, 478
+	size: 27, 28
+	orig: 27, 28
+	offset: 0, 0
+	index: -1
+a_shou_jiangshinanyzkapai
+	rotate: true
+	xy: 756, 553
+	size: 67, 101
+	orig: 67, 101
+	offset: 0, 0
+	index: -1
+a_yanjing_jiangshinanyzkapai
+	rotate: false
+	xy: 152, 583
+	size: 103, 49
+	orig: 103, 49
+	offset: 0, 0
+	index: -1
+a_Lleg1_jiangshinanyzkapai
+	rotate: false
+	xy: 0, 192
+	size: 145, 387
+	orig: 145, 387
+	offset: 0, 0
+	index: -1
+d_guang_jiangshinanyzkapai
+	rotate: false
+	xy: 436, 139
+	size: 14, 31
+	orig: 14, 31
+	offset: 0, 0
+	index: -1
+a_Rshou2_jiangshinanyzkapai
+	rotate: false
+	xy: 626, 517
+	size: 15, 13
+	orig: 15, 13
+	offset: 0, 0
+	index: -1
+d_mian2_jiangshinanyzkapai
+	rotate: false
+	xy: 945, 226
+	size: 51, 42
+	orig: 51, 42
+	offset: 0, 0
+	index: -1
+a_Rleg1_jiangshinanyzkapai
+	rotate: true
+	xy: 436, 0
+	size: 138, 340
+	orig: 138, 340
+	offset: 0, 0
+	index: -1
+a_Lyanpi_jiangshinanyzkapai
+	rotate: true
+	xy: 987, 0
+	size: 26, 11
+	orig: 26, 11
+	offset: 0, 0
+	index: -1
+a_Rshou3_jiangshinanyzkapai
+	rotate: true
+	xy: 858, 591
+	size: 43, 46
+	orig: 43, 46
+	offset: 0, 0
+	index: -1
+a_Larm2_jiangshinanyzkapai
+	rotate: true
+	xy: 0, 583
+	size: 59, 151
+	orig: 59, 151
+	offset: 0, 0
+	index: -1
+b_zhao_jiangshinanyzkapai
+	rotate: false
+	xy: 604, 517
+	size: 21, 13
+	orig: 21, 13
+	offset: 0, 0
+	index: -1
+a_fuzi_jiangshinanyzkapai
+	rotate: false
+	xy: 0, 0
+	size: 435, 191
+	orig: 435, 191
+	offset: 0, 0
+	index: -1

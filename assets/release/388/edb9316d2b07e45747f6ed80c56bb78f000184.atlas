@@ -1,0 +1,27 @@
+
+asset/anim/gongjifanwei.png
+size: 32,53
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiantou
+	rotate: false
+	xy: 0, 18
+	size: 26, 19
+	orig: 26, 19
+	offset: 0, 0
+	index: -1
+xiajiantou
+	rotate: false
+	xy: 0, 0
+	size: 32, 17
+	orig: 32, 17
+	offset: 0, 0
+	index: -1
+shangjiantou
+	rotate: false
+	xy: 0, 38
+	size: 28, 15
+	orig: 28, 15
+	offset: 0, 0
+	index: -1

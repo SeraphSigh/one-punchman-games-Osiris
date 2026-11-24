@@ -1,0 +1,310 @@
+
+asset/anim/KINGSECOMMON0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/king_skilldiyan_057
+	rotate: false
+	xy: 0, 385
+	size: 42, 64
+	orig: 142, 104
+	offset: 6, 5
+	index: -1
+common/king_skilldiyan_050
+	rotate: true
+	xy: 78, 453
+	size: 54, 100
+	orig: 142, 104
+	offset: 8, 4
+	index: -1
+common/king_skilldiyan_051
+	rotate: true
+	xy: 78, 385
+	size: 54, 100
+	orig: 142, 104
+	offset: 7, 4
+	index: -1
+common/king_skilldiyan_052
+	rotate: true
+	xy: 347, 453
+	size: 54, 100
+	orig: 142, 104
+	offset: 5, 4
+	index: -1
+common/king_skilldiyan_058
+	rotate: false
+	xy: 37, 450
+	size: 40, 62
+	orig: 142, 104
+	offset: 6, 5
+	index: -1
+common/king_xuanwo_053
+	rotate: false
+	xy: 179, 312
+	size: 155, 161
+	orig: 155, 161
+	offset: 0, 0
+	index: -1
+common/king_ziquan_049
+	rotate: false
+	xy: 0, 121
+	size: 167, 112
+	orig: 351, 158
+	offset: 3, 23
+	index: -1
+common/king_ziquan_044
+	rotate: true
+	xy: 0, 453
+	size: 55, 36
+	orig: 351, 158
+	offset: 60, 61
+	index: -1
+common/king_skilldiyan_043
+	rotate: true
+	xy: 43, 385
+	size: 20, 34
+	orig: 142, 104
+	offset: 46, 5
+	index: -1
+common/king_skilldiyan_045
+	rotate: true
+	xy: 179, 474
+	size: 38, 68
+	orig: 142, 104
+	offset: 31, 5
+	index: -1
+common/king_skilldiyan_044
+	rotate: false
+	xy: 448, 453
+	size: 28, 50
+	orig: 142, 104
+	offset: 38, 5
+	index: -1
+common/king_ziquan_050
+	rotate: false
+	xy: 0, 0
+	size: 177, 120
+	orig: 351, 158
+	offset: 0, 19
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1
+
+asset/anim/KINGSECOMMON1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/king_skilldiyan_054
+	rotate: true
+	xy: 151, 311
+	size: 48, 98
+	orig: 142, 104
+	offset: 6, 5
+	index: -1
+common/king_skilldiyan_055
+	rotate: false
+	xy: 200, 360
+	size: 48, 92
+	orig: 142, 104
+	offset: 5, 5
+	index: -1
+common/king_skilldiyan_056
+	rotate: false
+	xy: 401, 325
+	size: 44, 68
+	orig: 142, 104
+	offset: 6, 5
+	index: -1
+common/king_skilldiyan_053
+	rotate: false
+	xy: 455, 248
+	size: 52, 100
+	orig: 142, 104
+	offset: 5, 4
+	index: -1
+common/king_ziquan_048
+	rotate: false
+	xy: 151, 151
+	size: 155, 106
+	orig: 351, 158
+	offset: 9, 26
+	index: -1
+common/king_ziquan_045
+	rotate: true
+	xy: 250, 351
+	size: 75, 50
+	orig: 351, 158
+	offset: 49, 54
+	index: -1
+common/king_ziquan_047
+	rotate: false
+	xy: 307, 151
+	size: 147, 100
+	orig: 351, 158
+	offset: 12, 30
+	index: -1
+common/king_ziquan_046
+	rotate: false
+	xy: 307, 252
+	size: 109, 72
+	orig: 351, 158
+	offset: 33, 43
+	index: -1
+common/king_skilldiyan_049
+	rotate: true
+	xy: 151, 258
+	size: 52, 98
+	orig: 142, 104
+	offset: 11, 5
+	index: -1
+common/king_skilldiyan_048
+	rotate: false
+	xy: 455, 151
+	size: 54, 96
+	orig: 142, 104
+	offset: 13, 5
+	index: -1
+common/king_skilldiyan_047
+	rotate: false
+	xy: 250, 258
+	size: 52, 92
+	orig: 142, 104
+	offset: 16, 5
+	index: -1
+common/king_skilldiyan_046
+	rotate: false
+	xy: 151, 427
+	size: 48, 82
+	orig: 142, 104
+	offset: 22, 5
+	index: -1
+
+asset/anim/KINGSEMAX0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/kingMAX_beijing_00085
+	rotate: false
+	xy: 833, 0
+	size: 157, 143
+	orig: 157, 157
+	offset: 0, 4
+	index: -1
+max/kingMAX_huanjing_00082
+	rotate: false
+	xy: 0, 0
+	size: 280, 88
+	orig: 280, 88
+	offset: 0, 0
+	index: -1
+
+asset/anim/KINGSEMAX1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+max/kingMAX_ks_00091
+	rotate: true
+	xy: 933, 58
+	size: 155, 66
+	orig: 155, 78
+	offset: 0, 4
+	index: -1
+max/kingMAX_nab_yan_00090
+	rotate: false
+	xy: 0, 621
+	size: 196, 196
+	orig: 196, 196
+	offset: 0, 0
+	index: -1
+max/kingMAX_nab_yan_00100
+	rotate: false
+	xy: 788, 621
+	size: 196, 196
+	orig: 196, 196
+	offset: 0, 0
+	index: -1
+max/kingMAX_nab_yan_00102
+	rotate: false
+	xy: 788, 818
+	size: 196, 196
+	orig: 196, 196
+	offset: 0, 0
+	index: -1
+max/kingMAX_nab_yan_00088
+	rotate: false
+	xy: 197, 581
+	size: 196, 196
+	orig: 196, 196
+	offset: 0, 0
+	index: -1
+max/kingMAX_nab_yan_00098
+	rotate: false
+	xy: 591, 661
+	size: 196, 196
+	orig: 196, 196
+	offset: 0, 0
+	index: -1
+max/kingMAX_nab_yan_00096
+	rotate: false
+	xy: 394, 661
+	size: 196, 196
+	orig: 196, 196
+	offset: 0, 0
+	index: -1
+max/kingMAX_nab_yan_00084
+	rotate: false
+	xy: 650, 424
+	size: 196, 196
+	orig: 196, 196
+	offset: 0, 0
+	index: -1
+max/kingMAX_nab_yan_00094
+	rotate: false
+	xy: 197, 778
+	size: 196, 196
+	orig: 196, 196
+	offset: 0, 0
+	index: -1
+max/kingMAX_nab_yan_00086
+	rotate: false
+	xy: 421, 464
+	size: 196, 196
+	orig: 196, 196
+	offset: 0, 0
+	index: -1
+max/kingMAX_nab_yan_00092
+	rotate: false
+	xy: 0, 818
+	size: 196, 196
+	orig: 196, 196
+	offset: 0, 0
+	index: -1
+max/kingMAX_nab_yan_00080
+	rotate: false
+	xy: 224, 384
+	size: 196, 196
+	orig: 196, 196
+	offset: 0, 0
+	index: -1
+max/kingMAX_nab_yan_00082
+	rotate: false
+	xy: 0, 424
+	size: 196, 196
+	orig: 196, 196
+	offset: 0, 0
+	index: -1

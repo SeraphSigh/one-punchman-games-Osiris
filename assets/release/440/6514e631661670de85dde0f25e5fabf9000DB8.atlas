@@ -1,0 +1,214 @@
+
+asset/anim/jienuosiSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shandianjienuosi0006
+	rotate: true
+	xy: 501, 298
+	size: 119, 92
+	orig: 161, 150
+	offset: 42, 11
+	index: -1
+shandianjienuosi0007
+	rotate: true
+	xy: 673, 797
+	size: 115, 92
+	orig: 161, 150
+	offset: 35, 12
+	index: -1
+shandianjienuosi0005
+	rotate: true
+	xy: 528, 913
+	size: 111, 104
+	orig: 161, 150
+	offset: 48, 4
+	index: -1
+shandianjienuosi0002
+	rotate: true
+	xy: 424, 783
+	size: 129, 80
+	orig: 161, 150
+	offset: 0, 60
+	index: -1
+shandianjienuosi0003
+	rotate: false
+	xy: 861, 154
+	size: 125, 78
+	orig: 161, 150
+	offset: 0, 59
+	index: -1
+jienuosi_dilie02_023
+	rotate: false
+	xy: 728, 80
+	size: 217, 63
+	orig: 431, 63
+	offset: 0, 0
+	index: -1
+shandianjienuosi0008
+	rotate: true
+	xy: 424, 681
+	size: 101, 94
+	orig: 161, 150
+	offset: 36, 10
+	index: -1
+jienuosipugongquan0005
+	rotate: false
+	xy: 524, 570
+	size: 150, 13
+	orig: 270, 39
+	offset: 101, 9
+	index: -1
+jienuosipugongquan0001
+	rotate: false
+	xy: 728, 40
+	size: 256, 39
+	orig: 270, 39
+	offset: 3, 0
+	index: -1
+jienuosipugongquan0002
+	rotate: false
+	xy: 728, 0
+	size: 258, 39
+	orig: 270, 39
+	offset: 4, 0
+	index: -1
+shandianjienuosi0020
+	rotate: true
+	xy: 914, 609
+	size: 109, 110
+	orig: 161, 150
+	offset: 0, 32
+	index: -1
+shandianjienuosi0011
+	rotate: true
+	xy: 594, 298
+	size: 119, 90
+	orig: 161, 150
+	offset: 38, 60
+	index: -1
+shandianjienuosi0015
+	rotate: false
+	xy: 519, 681
+	size: 123, 90
+	orig: 161, 150
+	offset: 38, 60
+	index: -1
+shandianjienuosi0014
+	rotate: false
+	xy: 382, 592
+	size: 123, 88
+	orig: 161, 150
+	offset: 38, 62
+	index: -1
+shandianjienuosi0016
+	rotate: false
+	xy: 916, 924
+	size: 105, 100
+	orig: 161, 150
+	offset: 4, 38
+	index: -1
+shandianjienuosi0019
+	rotate: true
+	xy: 914, 499
+	size: 109, 110
+	orig: 161, 150
+	offset: 0, 30
+	index: -1
+shandianjienuosi0018
+	rotate: false
+	xy: 700, 924
+	size: 109, 100
+	orig: 161, 150
+	offset: 0, 40
+	index: -1
+
+asset/anim/jienuosiSE1.png
+size: 1020,899
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shandianjienuosi0004
+	rotate: false
+	xy: 275, 471
+	size: 99, 110
+	orig: 161, 150
+	offset: 49, 0
+	index: -1
+shandianjienuosi0001
+	rotate: false
+	xy: 405, 115
+	size: 131, 76
+	orig: 161, 150
+	offset: 0, 59
+	index: -1
+shandianjienuosi0009
+	rotate: false
+	xy: 483, 606
+	size: 93, 98
+	orig: 161, 150
+	offset: 45, 6
+	index: -1
+jienuosipugongquan0004
+	rotate: true
+	xy: 0, 585
+	size: 212, 19
+	orig: 270, 39
+	offset: 52, 7
+	index: -1
+jienuosipugongquan0003
+	rotate: false
+	xy: 0, 24
+	size: 238, 33
+	orig: 270, 39
+	offset: 26, 4
+	index: -1
+shandianjienuosi0021
+	rotate: true
+	xy: 681, 713
+	size: 97, 110
+	orig: 161, 150
+	offset: 11, 28
+	index: -1
+shandianjienuosi0010
+	rotate: false
+	xy: 753, 153
+	size: 121, 88
+	orig: 161, 150
+	offset: 35, 62
+	index: -1
+shandianjienuosi0013
+	rotate: true
+	xy: 285, 582
+	size: 123, 90
+	orig: 161, 150
+	offset: 38, 60
+	index: -1
+shandianjienuosi0012
+	rotate: false
+	xy: 151, 491
+	size: 123, 90
+	orig: 161, 150
+	offset: 38, 60
+	index: -1
+shandianjienuosi0017
+	rotate: false
+	xy: 860, 599
+	size: 105, 104
+	orig: 161, 150
+	offset: 5, 33
+	index: -1
+
+asset/anim/qingyanCore.png
+size: 988,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_pangxieguai_guagnyun_00
+	rotate: false
+	xy: 555, 287
+	size: 128, 126
+	orig: 128, 128
+	offset: 0, 1
+	index: -1

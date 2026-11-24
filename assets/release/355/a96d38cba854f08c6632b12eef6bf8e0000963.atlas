@@ -1,0 +1,142 @@
+
+asset/anim/spineGlobalPic/pc_global_se0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_qiyu_qilang_072
+	rotate: false
+	xy: 584, 796
+	size: 145, 59
+	orig: 153, 69
+	offset: 3, 4
+	index: -1
+
+asset/anim/wugongxuediSE2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wugongxuediyan_00025
+	rotate: false
+	xy: 616, 77
+	size: 124, 64
+	orig: 128, 80
+	offset: 1, 8
+	index: -1
+wugongxuediyan_00026
+	rotate: false
+	xy: 129, 217
+	size: 122, 62
+	orig: 128, 80
+	offset: 2, 9
+	index: -1
+wugongxuediyan_00033
+	rotate: false
+	xy: 616, 142
+	size: 124, 64
+	orig: 128, 80
+	offset: 0, 8
+	index: -1
+wugongxuediyan_00027
+	rotate: false
+	xy: 0, 224
+	size: 122, 62
+	orig: 128, 80
+	offset: 2, 9
+	index: -1
+
+asset/anim/wugongxuediSE1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wugongxuediyan_00029
+	rotate: true
+	xy: 603, 571
+	size: 124, 62
+	orig: 128, 80
+	offset: 0, 9
+	index: -1
+wugongxuediyan_00030
+	rotate: true
+	xy: 151, 902
+	size: 122, 64
+	orig: 128, 80
+	offset: 2, 8
+	index: -1
+wugongxuediyan_00034
+	rotate: true
+	xy: 603, 696
+	size: 124, 62
+	orig: 128, 80
+	offset: 0, 9
+	index: -1
+wugongxuediyan_00032
+	rotate: true
+	xy: 281, 902
+	size: 122, 64
+	orig: 128, 80
+	offset: 2, 8
+	index: -1
+wugongxuediyan_00031
+	rotate: true
+	xy: 216, 902
+	size: 122, 64
+	orig: 128, 80
+	offset: 2, 8
+	index: -1
+
+asset/anim/wugongxuediSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wugongxuediyan_00028
+	rotate: true
+	xy: 667, 715
+	size: 122, 60
+	orig: 128, 80
+	offset: 2, 11
+	index: -1
+
+asset/anim/spineGlobalPic/pc_global_se5.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/a_global_qiyu_qilang_069
+	rotate: false
+	xy: 533, 579
+	size: 135, 57
+	orig: 153, 69
+	offset: 11, 3
+	index: -1
+global/a_global_qiyu_qilang_068
+	rotate: true
+	xy: 495, 884
+	size: 139, 59
+	orig: 153, 69
+	offset: 6, 5
+	index: -1
+global/a_global_qiyu_qilang_070
+	rotate: false
+	xy: 533, 519
+	size: 135, 59
+	orig: 153, 69
+	offset: 12, 3
+	index: -1
+global/a_global_qiyu_qilang_071
+	rotate: true
+	xy: 555, 880
+	size: 141, 61
+	orig: 153, 69
+	offset: 6, 3
+	index: -1
+global/a_global_qiyu_qilang_067
+	rotate: false
+	xy: 576, 351
+	size: 141, 61
+	orig: 153, 69
+	offset: 1, 4
+	index: -1

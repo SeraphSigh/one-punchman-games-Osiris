@@ -1,0 +1,88 @@
+
+asset/anim/leiguangyuanshiSE2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lgys_skill_dianshouji_00029
+	rotate: false
+	xy: 163, 226
+	size: 105, 79
+	orig: 105, 103
+	offset: 0, 16
+	index: -1
+lgys_skill_dianshouji_00044
+	rotate: false
+	xy: 0, 409
+	size: 89, 87
+	orig: 105, 103
+	offset: 0, 11
+	index: -1
+lgys_skill_dianshouji_00047
+	rotate: true
+	xy: 365, 405
+	size: 93, 77
+	orig: 105, 103
+	offset: 2, 15
+	index: -1
+lgys_skill_dianshouji_00026
+	rotate: true
+	xy: 956, 380
+	size: 79, 67
+	orig: 105, 103
+	offset: 5, 13
+	index: -1
+lgys_skill_dianshouji_00041
+	rotate: false
+	xy: 447, 388
+	size: 95, 87
+	orig: 105, 103
+	offset: 0, 11
+	index: -1
+lgys_skill_dianshouji_00035
+	rotate: false
+	xy: 895, 460
+	size: 97, 95
+	orig: 105, 103
+	offset: 5, 0
+	index: -1
+lgys_skill_dianshouji_00038
+	rotate: true
+	xy: 253, 407
+	size: 87, 93
+	orig: 105, 103
+	offset: 4, 8
+	index: -1
+
+asset/anim/leiguangyuanshiSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lgys_skill_dianshouji_00053
+	rotate: false
+	xy: 980, 273
+	size: 43, 51
+	orig: 105, 103
+	offset: 31, 22
+	index: -1
+lgys_skill_dianshouji_00050
+	rotate: true
+	xy: 661, 964
+	size: 59, 71
+	orig: 105, 103
+	offset: 25, 22
+	index: -1
+
+asset/anim/leiguangyuanshiSE1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lgys_skill_dianshouji_00032
+	rotate: true
+	xy: 686, 267
+	size: 99, 83
+	orig: 105, 103
+	offset: 6, 0
+	index: -1

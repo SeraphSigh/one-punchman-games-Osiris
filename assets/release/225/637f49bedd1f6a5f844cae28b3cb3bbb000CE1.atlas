@@ -1,0 +1,207 @@
+
+asset/anim/zhushen2kapai0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa4_zhushen2kapai
+	rotate: false
+	xy: 349, 327
+	size: 153, 112
+	orig: 153, 112
+	offset: 0, 0
+	index: -1
+youyan2_zhushen2kapai
+	rotate: true
+	xy: 495, 81
+	size: 20, 14
+	orig: 20, 14
+	offset: 0, 0
+	index: -1
+youdatui_zhushen2kapai
+	rotate: true
+	xy: 0, 327
+	size: 183, 153
+	orig: 183, 153
+	offset: 0, 0
+	index: -1
+zuoshou_zhushen2kapai
+	rotate: true
+	xy: 349, 440
+	size: 72, 73
+	orig: 72, 73
+	offset: 0, 0
+	index: -1
+zuoyan2_zhushen2kapai
+	rotate: true
+	xy: 495, 52
+	size: 28, 14
+	orig: 28, 14
+	offset: 0, 0
+	index: -1
+shen1_zhushen2kapai
+	rotate: false
+	xy: 0, 0
+	size: 494, 326
+	orig: 494, 326
+	offset: 0, 0
+	index: -1
+youyan1_zhushen2kapai
+	rotate: false
+	xy: 484, 440
+	size: 26, 18
+	orig: 26, 18
+	offset: 0, 0
+	index: -1
+zuomei_zhushen2kapai
+	rotate: true
+	xy: 484, 459
+	size: 38, 19
+	orig: 38, 19
+	offset: 0, 0
+	index: -1
+youshou_zhushen2kapai
+	rotate: false
+	xy: 423, 440
+	size: 60, 68
+	orig: 60, 68
+	offset: 0, 0
+	index: -1
+zuoyan1_zhushen2kapai
+	rotate: true
+	xy: 495, 23
+	size: 28, 15
+	orig: 28, 15
+	offset: 0, 0
+	index: -1
+youmei_zhushen2kapai
+	rotate: true
+	xy: 495, 0
+	size: 22, 17
+	orig: 22, 17
+	offset: 0, 0
+	index: -1
+zuodatui_zhushen2kapai
+	rotate: false
+	xy: 154, 327
+	size: 194, 182
+	orig: 194, 182
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushen2kapai1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa2_zhushen2kapai
+	rotate: true
+	xy: 152, 463
+	size: 46, 58
+	orig: 46, 58
+	offset: 0, 0
+	index: -1
+zuoxaiobi_zhushen2kapai
+	rotate: false
+	xy: 298, 311
+	size: 209, 143
+	orig: 209, 143
+	offset: 0, 0
+	index: -1
+lian_zhushen2kapai
+	rotate: true
+	xy: 152, 311
+	size: 151, 145
+	orig: 151, 145
+	offset: 0, 0
+	index: -1
+fa1_zhushen2kapai
+	rotate: true
+	xy: 211, 463
+	size: 46, 40
+	orig: 46, 40
+	offset: 0, 0
+	index: -1
+zuojiao_zhushen2kapai
+	rotate: false
+	xy: 366, 455
+	size: 59, 56
+	orig: 59, 56
+	offset: 0, 0
+	index: -1
+youjiao_zhushen2kapai
+	rotate: true
+	xy: 298, 455
+	size: 57, 67
+	orig: 57, 67
+	offset: 0, 0
+	index: -1
+bozi_zhushen2kapai
+	rotate: true
+	xy: 0, 311
+	size: 171, 151
+	orig: 171, 151
+	offset: 0, 0
+	index: -1
+shen2_zhushen2kapai
+	rotate: false
+	xy: 0, 0
+	size: 491, 310
+	orig: 491, 310
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushen2kapai2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youxiaobi_zhushen2kapai
+	rotate: true
+	xy: 149, 240
+	size: 205, 129
+	orig: 205, 129
+	offset: 0, 0
+	index: -1
+zuodabi_zhushen2kapai
+	rotate: false
+	xy: 0, 0
+	size: 202, 239
+	orig: 202, 239
+	offset: 0, 0
+	index: -1
+youdabi_zhushen2kapai
+	rotate: false
+	xy: 0, 240
+	size: 148, 224
+	orig: 148, 224
+	offset: 0, 0
+	index: -1
+fa3_zhushen2kapai
+	rotate: true
+	xy: 203, 130
+	size: 84, 82
+	orig: 84, 82
+	offset: 0, 0
+	index: -1
+shen3_zhushen2kapai
+	rotate: false
+	xy: 279, 0
+	size: 129, 129
+	orig: 129, 129
+	offset: 0, 0
+	index: -1
+zuoxaiotui_zhushen2kapai
+	rotate: true
+	xy: 409, 0
+	size: 97, 100
+	orig: 97, 100
+	offset: 0, 0
+	index: -1
+youxiaoitui_zhushen2kapai
+	rotate: true
+	xy: 409, 98
+	size: 124, 90
+	orig: 124, 90
+	offset: 0, 0
+	index: -1

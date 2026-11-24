@@ -1,0 +1,427 @@
+
+asset/anim/wugongxuezhang1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e1_Lfoot1_wgxuezhang
+	rotate: true
+	xy: 826, 296
+	size: 50, 122
+	orig: 50, 122
+	offset: 0, 0
+	index: -1
+e_body1_wgxuezhang
+	rotate: true
+	xy: 580, 824
+	size: 178, 219
+	orig: 178, 219
+	offset: 0, 0
+	index: -1
+f4_Rthigh3_wgxuezhang
+	rotate: true
+	xy: 984, 490
+	size: 70, 38
+	orig: 70, 38
+	offset: 0, 0
+	index: -1
+e4_Lthigh3_wgxuezhang
+	rotate: true
+	xy: 984, 419
+	size: 70, 38
+	orig: 70, 38
+	offset: 0, 0
+	index: -1
+f8_Rthigh8_wgxuezhang
+	rotate: false
+	xy: 640, 1003
+	size: 58, 21
+	orig: 58, 21
+	offset: 0, 0
+	index: -1
+e3_Lshin3_wgxuezhang
+	rotate: false
+	xy: 0, 984
+	size: 61, 40
+	orig: 61, 40
+	offset: 0, 0
+	index: -1
+f7_Rthigh7_wgxuezhang
+	rotate: false
+	xy: 124, 984
+	size: 61, 26
+	orig: 61, 26
+	offset: 0, 0
+	index: -1
+e6_Rfoot6_wgxuezhang
+	rotate: false
+	xy: 941, 941
+	size: 36, 43
+	orig: 36, 43
+	offset: 0, 0
+	index: -1
+e7_Rthigh7_wgxuezhang
+	rotate: false
+	xy: 62, 984
+	size: 61, 26
+	orig: 61, 26
+	offset: 0, 0
+	index: -1
+e1_Lthigh1_wgxuezhang
+	rotate: true
+	xy: 978, 645
+	size: 88, 46
+	orig: 88, 46
+	offset: 0, 0
+	index: -1
+f3_Rshin3_wgxuezhang
+	rotate: false
+	xy: 186, 984
+	size: 60, 40
+	orig: 60, 40
+	offset: 0, 0
+	index: -1
+f1_Rthigh1_wgxuezhang
+	rotate: true
+	xy: 978, 734
+	size: 88, 46
+	orig: 88, 46
+	offset: 0, 0
+	index: -1
+f4_Rfoot3_wgxuezhang
+	rotate: true
+	xy: 990, 187
+	size: 76, 24
+	orig: 76, 24
+	offset: 0, 0
+	index: -1
+f6_Rthigh6_wgxuezhang
+	rotate: false
+	xy: 580, 1003
+	size: 59, 21
+	orig: 59, 21
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhang0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e4_Lshin3_wgxuezhang
+	rotate: true
+	xy: 791, 961
+	size: 59, 36
+	orig: 59, 36
+	offset: 0, 0
+	index: -1
+e8_Rthigh8_wgxuezhang
+	rotate: false
+	xy: 594, 1001
+	size: 59, 21
+	orig: 59, 21
+	offset: 0, 0
+	index: -1
+f3_Rantenna3_wgxuezhang
+	rotate: true
+	xy: 0, 847
+	size: 174, 320
+	orig: 174, 320
+	offset: 0, 0
+	index: -1
+e4_Lfoot3_wgxuezhang
+	rotate: true
+	xy: 993, 922
+	size: 76, 24
+	orig: 76, 24
+	offset: 0, 0
+	index: -1
+e6_Rshin6_wgxuezhang
+	rotate: false
+	xy: 937, 998
+	size: 50, 22
+	orig: 50, 22
+	offset: 0, 0
+	index: -1
+e6_Rthigh6_wgxuezhang
+	rotate: false
+	xy: 534, 1001
+	size: 59, 21
+	orig: 59, 21
+	offset: 0, 0
+	index: -1
+e_Lchin_wgxuezhang
+	rotate: false
+	xy: 676, 826
+	size: 114, 180
+	orig: 114, 180
+	offset: 0, 0
+	index: -1
+e_head_wgxuezhang
+	rotate: true
+	xy: 830, 812
+	size: 185, 162
+	orig: 185, 162
+	offset: 0, 0
+	index: -1
+e3_Lantenna3_wgxuezhang
+	rotate: true
+	xy: 355, 826
+	size: 174, 320
+	orig: 174, 320
+	offset: 0, 0
+	index: -1
+e5_Rthigh5_wgxuezhang
+	rotate: false
+	xy: 354, 1001
+	size: 59, 23
+	orig: 59, 23
+	offset: 0, 0
+	index: -1
+f7_Rfoot7_wgxuezhang
+	rotate: false
+	xy: 474, 1001
+	size: 59, 22
+	orig: 59, 22
+	offset: 0, 0
+	index: -1
+e7_Rfoot7_wgxuezhang
+	rotate: false
+	xy: 414, 1001
+	size: 59, 22
+	orig: 59, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhang3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e8_Rshin8_wgxuezhang
+	rotate: true
+	xy: 998, 813
+	size: 50, 22
+	orig: 50, 22
+	offset: 0, 0
+	index: -1
+f3_Rfoot3_wgxuezhang
+	rotate: true
+	xy: 900, 278
+	size: 49, 77
+	orig: 49, 77
+	offset: 0, 0
+	index: -1
+e5_Rfoot5_wgxuezhang
+	rotate: false
+	xy: 970, 781
+	size: 51, 31
+	orig: 51, 31
+	offset: 0, 0
+	index: -1
+e5_Rshin5_wgxuezhang
+	rotate: true
+	xy: 998, 966
+	size: 46, 25
+	orig: 46, 25
+	offset: 0, 0
+	index: -1
+f8_Rshin8_wgxuezhang
+	rotate: true
+	xy: 998, 915
+	size: 50, 22
+	orig: 50, 22
+	offset: 0, 0
+	index: -1
+f5_Rfoot5_wgxuezhang
+	rotate: false
+	xy: 901, 977
+	size: 51, 31
+	orig: 51, 31
+	offset: 0, 0
+	index: -1
+f2_Rfoot2_wgxuezhang
+	rotate: true
+	xy: 347, 339
+	size: 54, 83
+	orig: 54, 83
+	offset: 0, 0
+	index: -1
+e2_Lthigh2_wgxuezhang
+	rotate: true
+	xy: 406, 821
+	size: 82, 48
+	orig: 82, 48
+	offset: 0, 0
+	index: -1
+f2_Rthigh2_wgxuezhang
+	rotate: true
+	xy: 406, 904
+	size: 82, 48
+	orig: 82, 48
+	offset: 0, 0
+	index: -1
+e3_Lfoot3_wgxuezhang
+	rotate: true
+	xy: 822, 278
+	size: 49, 77
+	orig: 49, 77
+	offset: 0, 0
+	index: -1
+f6_Rshin6_wgxuezhang
+	rotate: true
+	xy: 998, 864
+	size: 50, 22
+	orig: 50, 22
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhang2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f5_Rthigh5_wgxuezhang
+	rotate: false
+	xy: 879, 789
+	size: 58, 23
+	orig: 58, 23
+	offset: 0, 0
+	index: -1
+f2_Rshin2_wgxuezhang
+	rotate: true
+	xy: 980, 553
+	size: 65, 43
+	orig: 65, 43
+	offset: 0, 0
+	index: -1
+f3_Rthigh3_wgxuezhang
+	rotate: true
+	xy: 980, 411
+	size: 75, 44
+	orig: 75, 44
+	offset: 0, 0
+	index: -1
+f1_Rfoot1_wgxuezhang
+	rotate: false
+	xy: 406, 861
+	size: 49, 122
+	orig: 49, 122
+	offset: 0, 0
+	index: -1
+f4_Rshin3_wgxuezhang
+	rotate: false
+	xy: 954, 983
+	size: 59, 36
+	orig: 59, 36
+	offset: 0, 0
+	index: -1
+e2_Lshin2_wgxuezhang
+	rotate: true
+	xy: 980, 487
+	size: 65, 43
+	orig: 65, 43
+	offset: 0, 0
+	index: -1
+e3_Lthigh3_wgxuezhang
+	rotate: true
+	xy: 980, 335
+	size: 75, 44
+	orig: 75, 44
+	offset: 0, 0
+	index: -1
+e2_Lfoot2_wgxuezhang
+	rotate: true
+	xy: 910, 280
+	size: 54, 83
+	orig: 54, 83
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhang5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e8_Rfoot8_wgxuezhang
+	rotate: true
+	xy: 575, 958
+	size: 36, 43
+	orig: 36, 43
+	offset: 0, 0
+	index: -1
+f1_Rshin1_wgxuezhang
+	rotate: true
+	xy: 956, 743
+	size: 69, 65
+	orig: 69, 65
+	offset: 0, 0
+	index: -1
+e1_Lshin1_wgxuezhang
+	rotate: true
+	xy: 956, 673
+	size: 69, 65
+	orig: 69, 65
+	offset: 0, 0
+	index: -1
+f8_Rfoot8_wgxuezhang
+	rotate: true
+	xy: 663, 958
+	size: 36, 43
+	orig: 36, 43
+	offset: 0, 0
+	index: -1
+e7_Rshin7_wgxuezhang
+	rotate: true
+	xy: 992, 47
+	size: 45, 30
+	orig: 45, 30
+	offset: 0, 0
+	index: -1
+f6_Rfoot6_wgxuezhang
+	rotate: true
+	xy: 619, 958
+	size: 36, 43
+	orig: 36, 43
+	offset: 0, 0
+	index: -1
+f5_Rshin5_wgxuezhang
+	rotate: true
+	xy: 992, 0
+	size: 46, 25
+	orig: 46, 25
+	offset: 0, 0
+	index: -1
+f7_Rshin7_wgxuezhang
+	rotate: true
+	xy: 992, 93
+	size: 45, 30
+	orig: 45, 30
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhang4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e_Rchin_wgxuezhang
+	rotate: true
+	xy: 765, 611
+	size: 113, 180
+	orig: 113, 180
+	offset: 0, 0
+	index: -1
+
+asset/anim/wugongxuezhang11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e_body2_wgxuezhang
+	rotate: false
+	xy: 822, 0
+	size: 178, 219
+	orig: 178, 219
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,260 @@
+
+asset/anim/zhushijuehaibao21.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao_wuzhengqishihaibao2_0007
+	rotate: false
+	xy: 569, 394
+	size: 72, 28
+	orig: 80, 30
+	offset: 1, 1
+	index: -1
+
+asset/anim/zhushijuehaibao20.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao_wuzhengqishihaibao2_0002
+	rotate: true
+	xy: 991, 636
+	size: 28, 26
+	orig: 80, 30
+	offset: 1, 2
+	index: -1
+tou_wuzhengqishihaibao2
+	rotate: true
+	xy: 579, 912
+	size: 109, 116
+	orig: 109, 116
+	offset: 0, 0
+	index: -1
+texiao_wuzhengqishihaibao2_0008
+	rotate: true
+	xy: 991, 561
+	size: 74, 30
+	orig: 80, 30
+	offset: 4, 0
+	index: -1
+texiao_wuzhengqishihaibao2_0015
+	rotate: true
+	xy: 470, 1010
+	size: 12, 18
+	orig: 80, 30
+	offset: 66, 5
+	index: -1
+texiao_wuzhengqishihaibao2_0013
+	rotate: false
+	xy: 991, 427
+	size: 32, 26
+	orig: 80, 30
+	offset: 47, 2
+	index: -1
+
+asset/anim/zhushijuehaibao23.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao_wuzhengqishihaibao2_0006
+	rotate: true
+	xy: 484, 0
+	size: 64, 28
+	orig: 80, 30
+	offset: 1, 1
+	index: -1
+texiao_wuzhengqishihaibao2_0005
+	rotate: true
+	xy: 479, 964
+	size: 56, 28
+	orig: 80, 30
+	offset: 0, 1
+	index: -1
+texiao_wuzhengqishihaibao2_0004
+	rotate: true
+	xy: 484, 116
+	size: 46, 28
+	orig: 80, 30
+	offset: 1, 1
+	index: -1
+texiao_wuzhengqishihaibao2_0003
+	rotate: true
+	xy: 484, 202
+	size: 38, 28
+	orig: 80, 30
+	offset: 0, 1
+	index: -1
+texiao_wuzhengqishihaibao2_0001
+	rotate: false
+	xy: 567, 203
+	size: 20, 22
+	orig: 80, 30
+	offset: 0, 3
+	index: -1
+youxiaotui_wuzhengqishihaibao2
+	rotate: true
+	xy: 663, 526
+	size: 147, 244
+	orig: 147, 244
+	offset: 0, 0
+	index: -1
+shen_wuzhengqishihaibao2
+	rotate: false
+	xy: 348, 345
+	size: 207, 247
+	orig: 207, 247
+	offset: 0, 0
+	index: -1
+zixingche_wuzhengqishihaibao2
+	rotate: true
+	xy: 0, 633
+	size: 330, 512
+	orig: 330, 512
+	offset: 0, 0
+	index: -1
+texiao_wuzhengqishihaibao2_0014
+	rotate: true
+	xy: 542, 203
+	size: 22, 24
+	orig: 80, 30
+	offset: 57, 2
+	index: -1
+texiao_wuzhengqishihaibao2_0010
+	rotate: true
+	xy: 145, 964
+	size: 58, 30
+	orig: 80, 30
+	offset: 21, 0
+	index: -1
+texiao_wuzhengqishihaibao2_0011
+	rotate: true
+	xy: 484, 65
+	size: 50, 28
+	orig: 80, 30
+	offset: 29, 1
+	index: -1
+texiao_wuzhengqishihaibao2_0012
+	rotate: false
+	xy: 984, 134
+	size: 40, 28
+	orig: 80, 30
+	offset: 39, 1
+	index: -1
+texiao_wuzhengqishihaibao2_0009
+	rotate: true
+	xy: 982, 273
+	size: 68, 30
+	orig: 80, 30
+	offset: 11, 0
+	index: -1
+youdatui_wuzhengqishihaibao2
+	rotate: false
+	xy: 693, 761
+	size: 138, 201
+	orig: 138, 201
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushijuehaibao22.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiongjia_wuzhengqishihaibao2
+	rotate: true
+	xy: 484, 536
+	size: 126, 154
+	orig: 126, 154
+	offset: 0, 0
+	index: -1
+zuoshou_wuzhengqishihaibao2
+	rotate: false
+	xy: 484, 663
+	size: 66, 79
+	orig: 66, 79
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushijuehaibao25.png
+size: 256,551
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuojiao_wuzhengqishihaibao2
+	rotate: true
+	xy: 0, 401
+	size: 137, 125
+	orig: 137, 125
+	offset: 0, 0
+	index: -1
+youjiao_wuzhengqishihaibao2
+	rotate: false
+	xy: 138, 0
+	size: 98, 136
+	orig: 98, 136
+	offset: 0, 0
+	index: -1
+
+asset/anim/zhushijuehaibao24.png
+size: 1023,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuodatui_wuzhengqishihaibao2
+	rotate: false
+	xy: 147, 833
+	size: 195, 188
+	orig: 195, 188
+	offset: 0, 0
+	index: -1
+zuoxiaobi_wuzhengqishihaibao2
+	rotate: true
+	xy: 137, 475
+	size: 113, 136
+	orig: 113, 136
+	offset: 0, 0
+	index: -1
+youshou_wuzhengqishihaibao2
+	rotate: true
+	xy: 798, 720
+	size: 73, 66
+	orig: 73, 66
+	offset: 0, 0
+	index: -1
+zuodabi_wuzhengqishihaibao2
+	rotate: true
+	xy: 507, 0
+	size: 175, 125
+	orig: 175, 125
+	offset: 0, 0
+	index: -1
+zuoxiaotui_wuzhengqishihaibao2
+	rotate: true
+	xy: 262, 240
+	size: 233, 227
+	orig: 233, 227
+	offset: 0, 0
+	index: -1
+kua_wuzhengqishihaibao2
+	rotate: true
+	xy: 633, 0
+	size: 170, 153
+	orig: 170, 153
+	offset: 0, 0
+	index: -1
+youxiaobi_wuzhengqishihaibao2
+	rotate: true
+	xy: 564, 391
+	size: 81, 144
+	orig: 81, 144
+	offset: 0, 0
+	index: -1
+youdabi_wuzhengqishihaibao2
+	rotate: false
+	xy: 931, 0
+	size: 90, 159
+	orig: 90, 159
+	offset: 0, 0
+	index: -1

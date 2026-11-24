@@ -1,0 +1,181 @@
+
+asset/anim/kuchongkapai.png
+size: 529,1006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ryankuchongkp
+	rotate: true
+	xy: 512, 237
+	size: 20, 15
+	orig: 20, 15
+	offset: 0, 0
+	index: -1
+Lleg2kuchongkp
+	rotate: false
+	xy: 385, 703
+	size: 144, 193
+	orig: 144, 193
+	offset: 0, 0
+	index: -1
+Lyanpiupkuchongkp
+	rotate: true
+	xy: 512, 215
+	size: 21, 15
+	orig: 21, 15
+	offset: 0, 0
+	index: -1
+Ryanpiupkuchongkp
+	rotate: true
+	xy: 512, 172
+	size: 20, 16
+	orig: 20, 16
+	offset: 0, 0
+	index: -1
+Lfootkuchongkp
+	rotate: true
+	xy: 405, 441
+	size: 145, 117
+	orig: 145, 117
+	offset: 0, 0
+	index: -1
+Rleg2kuchongkp
+	rotate: true
+	xy: 0, 564
+	size: 177, 235
+	orig: 177, 235
+	offset: 0, 0
+	index: -1
+Rarm2kuchongkp
+	rotate: true
+	xy: 405, 587
+	size: 115, 117
+	orig: 115, 117
+	offset: 0, 0
+	index: -1
+Rfootkuchongkp
+	rotate: false
+	xy: 418, 172
+	size: 93, 152
+	orig: 93, 152
+	offset: 0, 0
+	index: -1
+Lyankuchongkp
+	rotate: true
+	xy: 512, 193
+	size: 21, 15
+	orig: 21, 15
+	offset: 0, 0
+	index: -1
+Rjian2kuchongkp
+	rotate: false
+	xy: 364, 897
+	size: 124, 91
+	orig: 124, 91
+	offset: 0, 0
+	index: -1
+Rarm1kuchongkp
+	rotate: true
+	xy: 418, 325
+	size: 115, 105
+	orig: 115, 105
+	offset: 0, 0
+	index: -1
+Larm2kuchongkp
+	rotate: true
+	xy: 0, 879
+	size: 127, 134
+	orig: 127, 134
+	offset: 0, 0
+	index: -1
+Lyanqiukuchongkp
+	rotate: false
+	xy: 512, 258
+	size: 5, 5
+	orig: 5, 5
+	offset: 0, 0
+	index: -1
+Rleg1kuchongkp
+	rotate: false
+	xy: 0, 336
+	size: 257, 227
+	orig: 257, 227
+	offset: 0, 0
+	index: -1
+Rjiankuchongkp
+	rotate: true
+	xy: 0, 742
+	size: 136, 146
+	orig: 136, 146
+	offset: 0, 0
+	index: -1
+Lhandkuchongkp
+	rotate: true
+	xy: 147, 875
+	size: 95, 76
+	orig: 95, 76
+	offset: 0, 0
+	index: -1
+Ryanqiukuchongkp
+	rotate: false
+	xy: 518, 258
+	size: 5, 5
+	orig: 5, 5
+	offset: 0, 0
+	index: -1
+bodykuchongkp
+	rotate: true
+	xy: 0, 0
+	size: 335, 417
+	orig: 335, 417
+	offset: 0, 0
+	index: -1
+Larm1kuchongkp
+	rotate: true
+	xy: 236, 629
+	size: 194, 148
+	orig: 194, 148
+	offset: 0, 0
+	index: -1
+daikuchongkp
+	rotate: false
+	xy: 147, 742
+	size: 79, 132
+	orig: 79, 132
+	offset: 0, 0
+	index: -1
+Lleg1kuchongkp
+	rotate: true
+	xy: 258, 336
+	size: 292, 146
+	orig: 292, 146
+	offset: 0, 0
+	index: -1
+headkuchongkp
+	rotate: false
+	xy: 418, 0
+	size: 111, 171
+	orig: 111, 171
+	offset: 0, 0
+	index: -1
+Ryanpidownkuchongkp
+	rotate: true
+	xy: 236, 564
+	size: 22, 19
+	orig: 22, 19
+	offset: 0, 0
+	index: -1
+Rhandkuchongkp
+	rotate: false
+	xy: 227, 824
+	size: 136, 128
+	orig: 136, 128
+	offset: 0, 0
+	index: -1
+Lyanpidownkuchongkp
+	rotate: false
+	xy: 236, 587
+	size: 21, 18
+	orig: 21, 18
+	offset: 0, 0
+	index: -1

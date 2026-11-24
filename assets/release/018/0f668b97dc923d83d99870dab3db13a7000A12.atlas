@@ -1,0 +1,145 @@
+
+asset/anim/boluosiASESKILL0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/boluosia_beijingsuduxian_057
+	rotate: true
+	xy: 0, 914
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1
+skill/boluosia_beijingsuduxian_056
+	rotate: true
+	xy: 433, 838
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1
+skill/boluosia_gaungquiuhsnabai
+	rotate: false
+	xy: 455, 471
+	size: 7, 7
+	orig: 7, 7
+	offset: 0, 0
+	index: -1
+skill/boluosia_beijingsuduxian_063
+	rotate: false
+	xy: 977, 0
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1
+skill/boluosia_beijingsuduxian_061
+	rotate: false
+	xy: 947, 0
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1
+skill/boluosia_beijingsuduxian_058
+	rotate: true
+	xy: 429, 1008
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1
+skill/boluosia_beijingsuduxian_059
+	rotate: true
+	xy: 429, 1008
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1
+skill/boluosia_beijingsuduxian_055
+	rotate: false
+	xy: 908, 493
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1
+skill/boluosia_beijingsuduxian_060
+	rotate: false
+	xy: 932, 0
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1
+skill/boluosia_beijingsuduxian_062
+	rotate: false
+	xy: 962, 0
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1
+skill/boluosia_beijingsuduxian_065
+	rotate: false
+	xy: 992, 0
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1
+skill/boluosia_beijingsuduxian_064
+	rotate: false
+	xy: 977, 0
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1
+skill/boluosia_beijingsuduxian_066
+	rotate: false
+	xy: 1007, 0
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1
+
+asset/anim/boluosiASESKILL1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/boluosia_beijingsuduxian_071
+	rotate: true
+	xy: 467, 269
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1
+skill/boluosia_beijingsuduxian_069
+	rotate: true
+	xy: 467, 239
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1
+skill/boluosia_beijingsuduxian_068
+	rotate: true
+	xy: 467, 239
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1
+skill/boluosia_beijingsuduxian_072
+	rotate: true
+	xy: 467, 284
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1
+skill/boluosia_beijingsuduxian_070
+	rotate: true
+	xy: 467, 254
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1
+skill/boluosia_beijingsuduxian_067
+	rotate: false
+	xy: 1010, 125
+	size: 14, 304
+	orig: 14, 304
+	offset: 0, 0
+	index: -1

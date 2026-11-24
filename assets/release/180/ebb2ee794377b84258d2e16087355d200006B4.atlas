@@ -1,0 +1,95 @@
+
+asset/anim/yinseliaoya2SECOMMON5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/yinseliaoya2_bgsuduxian1_1
+	rotate: true
+	xy: 892, 0
+	size: 230, 131
+	orig: 232, 133
+	offset: 1, 2
+	index: -1
+common/yinseliaoya2_bgsuduxian1_7
+	rotate: false
+	xy: 368, 106
+	size: 232, 133
+	orig: 232, 133
+	offset: 0, 0
+	index: -1
+common/yinseliaoya2_bgsuduxian1_6
+	rotate: false
+	xy: 659, 0
+	size: 232, 133
+	orig: 232, 133
+	offset: 0, 0
+	index: -1
+common/yinseliaoya2_bgsuduxian1_9
+	rotate: false
+	xy: 368, 240
+	size: 232, 133
+	orig: 232, 133
+	offset: 0, 0
+	index: -1
+common/yinseliaoya2_bgsuduxian1_8
+	rotate: false
+	xy: 601, 134
+	size: 232, 133
+	orig: 232, 133
+	offset: 0, 0
+	index: -1
+
+asset/anim/yinseliaoya2SECOMMON2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/yinseliaoya2_bgsuduxian1_2
+	rotate: true
+	xy: 800, 567
+	size: 232, 133
+	orig: 232, 133
+	offset: 0, 0
+	index: -1
+common/yinseliaoya2_bgsuduxian1_10
+	rotate: true
+	xy: 666, 567
+	size: 232, 133
+	orig: 232, 133
+	offset: 0, 0
+	index: -1
+common/yinseliaoya2_heiping_1
+	rotate: false
+	xy: 939, 892
+	size: 83, 83
+	orig: 83, 83
+	offset: 0, 0
+	index: -1
+
+asset/anim/yinseliaoya2SECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/yinseliaoya2_bgsuduxian1_3
+	rotate: true
+	xy: 666, 543
+	size: 232, 133
+	orig: 232, 133
+	offset: 0, 0
+	index: -1
+common/yinseliaoya2_bgsuduxian1_5
+	rotate: true
+	xy: 666, 776
+	size: 232, 133
+	orig: 232, 133
+	offset: 0, 0
+	index: -1
+common/yinseliaoya2_bgsuduxian1_4
+	rotate: true
+	xy: 666, 543
+	size: 232, 133
+	orig: 232, 133
+	offset: 0, 0
+	index: -1

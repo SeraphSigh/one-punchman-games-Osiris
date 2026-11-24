@@ -1,0 +1,74 @@
+
+asset/anim/linglingSE0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+linglingbusdx_00062
+	rotate: true
+	xy: 794, 928
+	size: 75, 87
+	orig: 115, 115
+	offset: 8, 19
+	index: -1
+
+asset/anim/linglingSE1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+linglingbusdx_00063
+	rotate: false
+	xy: 622, 366
+	size: 89, 91
+	orig: 115, 115
+	offset: 8, 15
+	index: -1
+linglingbusdx_00066
+	rotate: true
+	xy: 622, 266
+	size: 99, 89
+	orig: 115, 115
+	offset: 6, 17
+	index: -1
+linglingbusdx_00067
+	rotate: false
+	xy: 920, 590
+	size: 99, 85
+	orig: 115, 115
+	offset: 8, 19
+	index: -1
+linglingbusdx_00064
+	rotate: false
+	xy: 920, 498
+	size: 99, 91
+	orig: 115, 115
+	offset: 9, 15
+	index: -1
+linglingbusdx_00065
+	rotate: true
+	xy: 828, 465
+	size: 101, 91
+	orig: 115, 115
+	offset: 6, 16
+	index: -1
+linglingbusdx_00068
+	rotate: true
+	xy: 906, 930
+	size: 91, 83
+	orig: 115, 115
+	offset: 14, 21
+	index: -1
+
+asset/anim/linglingSE2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+linglingbusdx_00061
+	rotate: true
+	xy: 65, 0
+	size: 61, 83
+	orig: 115, 115
+	offset: 8, 21
+	index: -1

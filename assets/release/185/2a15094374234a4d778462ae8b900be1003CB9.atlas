@@ -1,0 +1,965 @@
+
+asset/anim/dajiongyan21.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2n_body_zhongmujuren
+	rotate: false
+	xy: 370, 0
+	size: 142, 118
+	orig: 142, 118
+	offset: 0, 0
+	index: -1
+DJY2a_Rthigh_zhongmujuren
+	rotate: false
+	xy: 295, 105
+	size: 74, 60
+	orig: 74, 60
+	offset: 0, 0
+	index: -1
+DJY2m_body_zhongmujuren
+	rotate: true
+	xy: 251, 167
+	size: 145, 118
+	orig: 145, 118
+	offset: 0, 0
+	index: -1
+DJY2g_Lforearm_zhongmujuren
+	rotate: false
+	xy: 431, 422
+	size: 81, 86
+	orig: 81, 86
+	offset: 0, 0
+	index: -1
+DJY2e_Rhand_zhongmujuren
+	rotate: true
+	xy: 276, 313
+	size: 108, 93
+	orig: 108, 93
+	offset: 0, 0
+	index: -1
+r_body_dajongyan2A
+	rotate: true
+	xy: 48, 334
+	size: 159, 102
+	orig: 159, 102
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan20.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+p_Lfoot_dajongyan2A
+	rotate: true
+	xy: 244, 244
+	size: 66, 31
+	orig: 66, 31
+	offset: 0, 0
+	index: -1
+r_Rforearm_dajongyan2A
+	rotate: true
+	xy: 448, 206
+	size: 70, 64
+	orig: 70, 64
+	offset: 0, 0
+	index: -1
+DJY2a_Rforearm_zhongmujuren
+	rotate: true
+	xy: 448, 108
+	size: 97, 64
+	orig: 97, 64
+	offset: 0, 0
+	index: -1
+DJY2j_head_zhongmujuren
+	rotate: false
+	xy: 360, 417
+	size: 82, 95
+	orig: 82, 95
+	offset: 0, 0
+	index: -1
+DJY2m_Rthigh_zhongmujuren
+	rotate: false
+	xy: 443, 373
+	size: 69, 74
+	orig: 69, 74
+	offset: 0, 0
+	index: -1
+DJY2l_Rforearm_zhongmujuren
+	rotate: false
+	xy: 443, 277
+	size: 69, 95
+	orig: 69, 95
+	offset: 0, 0
+	index: -1
+DJY2a_Rarm_zhongmujuren
+	rotate: true
+	xy: 443, 448
+	size: 46, 69
+	orig: 46, 69
+	offset: 0, 0
+	index: -1
+DJY2g_head_zhongmujuren
+	rotate: false
+	xy: 276, 417
+	size: 83, 95
+	orig: 83, 95
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan23.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2k_Rhand_zhongmujuren
+	rotate: true
+	xy: 35, 125
+	size: 112, 50
+	orig: 112, 50
+	offset: 0, 0
+	index: -1
+DJY2b_Lhand_zhongmujuren
+	rotate: true
+	xy: 470, 464
+	size: 48, 39
+	orig: 48, 39
+	offset: 0, 0
+	index: -1
+r_Larm_dajongyan2A
+	rotate: false
+	xy: 258, 467
+	size: 70, 45
+	orig: 70, 45
+	offset: 0, 0
+	index: -1
+DJY2k_Rarm_zhongmujuren
+	rotate: false
+	xy: 307, 84
+	size: 42, 38
+	orig: 42, 38
+	offset: 0, 0
+	index: -1
+DJY2b_Rarm_zhongmujuren
+	rotate: false
+	xy: 329, 465
+	size: 72, 47
+	orig: 72, 47
+	offset: 0, 0
+	index: -1
+DJY2f_Rhand_zhongmujuren
+	rotate: true
+	xy: 0, 250
+	size: 119, 89
+	orig: 119, 89
+	offset: 0, 0
+	index: -1
+DJY2m_Rarm_zhongmujuren
+	rotate: false
+	xy: 302, 220
+	size: 35, 72
+	orig: 35, 72
+	offset: 0, 0
+	index: -1
+DJY2h_Lforearm_zhongmujuren
+	rotate: true
+	xy: 403, 395
+	size: 68, 80
+	orig: 68, 80
+	offset: 0, 0
+	index: -1
+DJY2m_Rforearm_zhongmujuren
+	rotate: true
+	xy: 223, 370
+	size: 96, 58
+	orig: 96, 58
+	offset: 0, 0
+	index: -1
+p_Lshin_dajongyan2A
+	rotate: false
+	xy: 300, 0
+	size: 74, 43
+	orig: 74, 43
+	offset: 0, 0
+	index: -1
+DJY2k_Lforearm_zhongmujuren
+	rotate: true
+	xy: 184, 232
+	size: 99, 54
+	orig: 99, 54
+	offset: 0, 0
+	index: -1
+p_head_dajongyan2A
+	rotate: false
+	xy: 139, 370
+	size: 83, 99
+	orig: 83, 99
+	offset: 0, 0
+	index: -1
+DJY2c_Rforearm_zhongmujuren
+	rotate: false
+	xy: 350, 44
+	size: 52, 86
+	orig: 52, 86
+	offset: 0, 0
+	index: -1
+DJY2f_Rforearm_zhongmujuren
+	rotate: false
+	xy: 88, 370
+	size: 50, 100
+	orig: 50, 100
+	offset: 0, 0
+	index: -1
+DJY2i_coxa_zhongmujuren
+	rotate: true
+	xy: 350, 131
+	size: 73, 52
+	orig: 73, 52
+	offset: 0, 0
+	index: -1
+r_Lhand_dajongyan2A
+	rotate: false
+	xy: 213, 470
+	size: 44, 42
+	orig: 44, 42
+	offset: 0, 0
+	index: -1
+r_Rhand_dajongyan2A
+	rotate: false
+	xy: 0, 370
+	size: 87, 105
+	orig: 87, 105
+	offset: 0, 0
+	index: -1
+DJY2m_Rshin_zhongmujuren
+	rotate: false
+	xy: 249, 123
+	size: 52, 73
+	orig: 52, 73
+	offset: 0, 0
+	index: -1
+DJY2d_Rforearm_zhongmujuren
+	rotate: true
+	xy: 430, 238
+	size: 78, 82
+	orig: 78, 82
+	offset: 0, 0
+	index: -1
+DJY2m_Rhand_zhongmujuren
+	rotate: false
+	xy: 90, 250
+	size: 93, 99
+	orig: 93, 99
+	offset: 0, 0
+	index: -1
+DJY2g_Rhand_zhongmujuren
+	rotate: false
+	xy: 125, 0
+	size: 88, 105
+	orig: 88, 105
+	offset: 0, 0
+	index: -1
+DJY2e_Rforearm_zhongmujuren
+	rotate: false
+	xy: 338, 254
+	size: 91, 60
+	orig: 91, 60
+	offset: 0, 0
+	index: -1
+DJY2d_Rarm_zhongmujuren
+	rotate: false
+	xy: 134, 471
+	size: 78, 41
+	orig: 78, 41
+	offset: 0, 0
+	index: -1
+DJY2h_Rforearm_zhongmujuren
+	rotate: true
+	xy: 282, 370
+	size: 94, 57
+	orig: 94, 57
+	offset: 0, 0
+	index: -1
+DJY2m_Larm_zhongmujuren
+	rotate: false
+	xy: 71, 476
+	size: 62, 36
+	orig: 62, 36
+	offset: 0, 0
+	index: -1
+DJY2l_Rhand_zhongmujuren
+	rotate: false
+	xy: 239, 220
+	size: 62, 94
+	orig: 62, 94
+	offset: 0, 0
+	index: -1
+r_Lshin_dajongyan2A
+	rotate: false
+	xy: 187, 332
+	size: 81, 37
+	orig: 81, 37
+	offset: 0, 0
+	index: -1
+DJY2i_body_zhongmujuren
+	rotate: false
+	xy: 0, 0
+	size: 124, 124
+	orig: 124, 124
+	offset: 0, 0
+	index: -1
+DJY2n_coxa_zhongmujuren
+	rotate: true
+	xy: 302, 123
+	size: 67, 47
+	orig: 67, 47
+	offset: 0, 0
+	index: -1
+DJY2b_Rforearm_zhongmujuren
+	rotate: true
+	xy: 193, 123
+	size: 96, 55
+	orig: 96, 55
+	offset: 0, 0
+	index: -1
+DJY2j_Rhand_zhongmujuren
+	rotate: true
+	xy: 0, 125
+	size: 124, 34
+	orig: 124, 34
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan22.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2n_Rforearm_zhongmujuren
+	rotate: false
+	xy: 414, 82
+	size: 96, 62
+	orig: 96, 62
+	offset: 0, 0
+	index: -1
+DJY2g_body_zhongmujuren
+	rotate: true
+	xy: 279, 0
+	size: 116, 134
+	orig: 116, 134
+	offset: 0, 0
+	index: -1
+DJY2d_body_zhongmujuren
+	rotate: false
+	xy: 132, 274
+	size: 125, 115
+	orig: 125, 115
+	offset: 0, 0
+	index: -1
+DJY2i_head_zhongmujuren
+	rotate: false
+	xy: 258, 294
+	size: 72, 95
+	orig: 72, 95
+	offset: 0, 0
+	index: -1
+p_Larm_dajongyan2A
+	rotate: false
+	xy: 0, 349
+	size: 75, 40
+	orig: 75, 40
+	offset: 0, 0
+	index: -1
+r_head_dajongyan2A
+	rotate: false
+	xy: 411, 364
+	size: 68, 100
+	orig: 68, 100
+	offset: 0, 0
+	index: -1
+DJY2b_Rhand_zhongmujuren
+	rotate: false
+	xy: 132, 228
+	size: 126, 45
+	orig: 126, 45
+	offset: 0, 0
+	index: -1
+DJY2d_Rhand_zhongmujuren
+	rotate: true
+	xy: 249, 390
+	size: 122, 85
+	orig: 122, 85
+	offset: 0, 0
+	index: -1
+p_body_dajongyan2A
+	rotate: false
+	xy: 138, 114
+	size: 133, 113
+	orig: 133, 113
+	offset: 0, 0
+	index: -1
+DJY2h_Rhand_zhongmujuren
+	rotate: false
+	xy: 414, 57
+	size: 97, 24
+	orig: 97, 24
+	offset: 0, 0
+	index: -1
+DJY2a_Rhand_zhongmujuren
+	rotate: true
+	xy: 401, 249
+	size: 91, 111
+	orig: 91, 111
+	offset: 0, 0
+	index: -1
+DJY2l_body_zhongmujuren
+	rotate: true
+	xy: 125, 390
+	size: 122, 123
+	orig: 122, 123
+	offset: 0, 0
+	index: -1
+DJY2d_coxa_zhongmujuren
+	rotate: false
+	xy: 411, 465
+	size: 73, 47
+	orig: 73, 47
+	offset: 0, 0
+	index: -1
+DJY2j_body_zhongmujuren
+	rotate: false
+	xy: 0, 390
+	size: 124, 122
+	orig: 124, 122
+	offset: 0, 0
+	index: -1
+DJY2j_Lfoot_zhongmujuren
+	rotate: true
+	xy: 480, 341
+	size: 60, 32
+	orig: 60, 32
+	offset: 0, 0
+	index: -1
+p_Lforearm_dajongyan2A
+	rotate: false
+	xy: 414, 0
+	size: 98, 56
+	orig: 98, 56
+	offset: 0, 0
+	index: -1
+DJY2k_Rforearm_zhongmujuren
+	rotate: false
+	xy: 331, 294
+	size: 69, 69
+	orig: 69, 69
+	offset: 0, 0
+	index: -1
+DJY2o_body_zhongmujuren
+	rotate: false
+	xy: 0, 0
+	size: 139, 112
+	orig: 139, 112
+	offset: 0, 0
+	index: -1
+DJY2a_body_zhongmujuren
+	rotate: true
+	xy: 272, 117
+	size: 105, 130
+	orig: 105, 130
+	offset: 0, 0
+	index: -1
+DJY2c_Rhand_zhongmujuren
+	rotate: true
+	xy: 403, 145
+	size: 103, 107
+	orig: 103, 107
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan25.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2j_Lshin_zhongmujuren
+	rotate: false
+	xy: 336, 67
+	size: 41, 63
+	orig: 41, 63
+	offset: 0, 0
+	index: -1
+r_coxa_dajongyan2A
+	rotate: true
+	xy: 246, 436
+	size: 67, 56
+	orig: 67, 56
+	offset: 0, 0
+	index: -1
+DJY2g_Larm_zhongmujuren
+	rotate: true
+	xy: 344, 202
+	size: 61, 38
+	orig: 61, 38
+	offset: 0, 0
+	index: -1
+r_Rshin_dajongyan2A
+	rotate: true
+	xy: 345, 412
+	size: 62, 41
+	orig: 62, 41
+	offset: 0, 0
+	index: -1
+p_Rarm_dajongyan2A
+	rotate: true
+	xy: 154, 380
+	size: 70, 39
+	orig: 70, 39
+	offset: 0, 0
+	index: -1
+r_Rarm_dajongyan2A
+	rotate: false
+	xy: 350, 475
+	size: 62, 37
+	orig: 62, 37
+	offset: 0, 0
+	index: -1
+DJY2h_Rarm_zhongmujuren
+	rotate: true
+	xy: 220, 218
+	size: 69, 39
+	orig: 69, 39
+	offset: 0, 0
+	index: -1
+DJY2a_Rshin_zhongmujuren
+	rotate: false
+	xy: 304, 207
+	size: 39, 65
+	orig: 39, 65
+	offset: 0, 0
+	index: -1
+DJY2g_coxa_zhongmujuren
+	rotate: true
+	xy: 0, 78
+	size: 77, 38
+	orig: 77, 38
+	offset: 0, 0
+	index: -1
+DJY2e_Rarm_zhongmujuren
+	rotate: true
+	xy: 260, 215
+	size: 67, 43
+	orig: 67, 43
+	offset: 0, 0
+	index: -1
+DJY2b_Rshin_zhongmujuren
+	rotate: false
+	xy: 153, 75
+	size: 60, 72
+	orig: 60, 72
+	offset: 0, 0
+	index: -1
+DJY2m_Lforearm_zhongmujuren
+	rotate: false
+	xy: 125, 153
+	size: 54, 73
+	orig: 54, 73
+	offset: 0, 0
+	index: -1
+DJY2i_Larm_zhongmujuren
+	rotate: true
+	xy: 283, 283
+	size: 65, 41
+	orig: 65, 41
+	offset: 0, 0
+	index: -1
+DJY2a_Lthigh_zhongmujuren
+	rotate: true
+	xy: 75, 309
+	size: 70, 60
+	orig: 70, 60
+	offset: 0, 0
+	index: -1
+DJY2l_Rarm_zhongmujuren
+	rotate: true
+	xy: 351, 131
+	size: 60, 56
+	orig: 60, 56
+	offset: 0, 0
+	index: -1
+p_coxa_dajongyan2A
+	rotate: false
+	xy: 73, 233
+	size: 63, 75
+	orig: 63, 75
+	offset: 0, 0
+	index: -1
+DJY2j_coxa_zhongmujuren
+	rotate: true
+	xy: 74, 155
+	size: 75, 50
+	orig: 75, 50
+	offset: 0, 0
+	index: -1
+DJY2b_Larm_zhongmujuren
+	rotate: true
+	xy: 469, 0
+	size: 41, 43
+	orig: 41, 43
+	offset: 0, 0
+	index: -1
+DJY2c_Rarm_zhongmujuren
+	rotate: false
+	xy: 227, 145
+	size: 38, 69
+	orig: 38, 69
+	offset: 0, 0
+	index: -1
+DJY2m_Lshin_zhongmujuren
+	rotate: false
+	xy: 408, 169
+	size: 60, 39
+	orig: 60, 39
+	offset: 0, 0
+	index: -1
+DJY2j_Rarm_zhongmujuren
+	rotate: true
+	xy: 113, 77
+	size: 75, 39
+	orig: 75, 39
+	offset: 0, 0
+	index: -1
+DJY2m_coxa_zhongmujuren
+	rotate: false
+	xy: 52, 458
+	size: 66, 54
+	orig: 66, 54
+	offset: 0, 0
+	index: -1
+DJY2b_Rthigh_zhongmujuren
+	rotate: false
+	xy: 0, 0
+	size: 70, 77
+	orig: 70, 77
+	offset: 0, 0
+	index: -1
+DJY2l_coxa_zhongmujuren
+	rotate: true
+	xy: 97, 380
+	size: 70, 56
+	orig: 70, 56
+	offset: 0, 0
+	index: -1
+DJY2j_Rshin_zhongmujuren
+	rotate: true
+	xy: 136, 309
+	size: 70, 50
+	orig: 70, 50
+	offset: 0, 0
+	index: -1
+DJY2g_Rarm_zhongmujuren
+	rotate: true
+	xy: 413, 249
+	size: 54, 55
+	orig: 54, 55
+	offset: 0, 0
+	index: -1
+r_Lfoot_dajongyan2A
+	rotate: false
+	xy: 413, 304
+	size: 55, 52
+	orig: 55, 52
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan24.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2m_Lthigh_zhongmujuren
+	rotate: false
+	xy: 255, 371
+	size: 60, 82
+	orig: 60, 82
+	offset: 0, 0
+	index: -1
+DJY2o_Rforearm_zhongmujuren
+	rotate: true
+	xy: 201, 87
+	size: 85, 59
+	orig: 85, 59
+	offset: 0, 0
+	index: -1
+DJY2a_Lfoot_zhongmujuren
+	rotate: true
+	xy: 423, 334
+	size: 56, 40
+	orig: 56, 40
+	offset: 0, 0
+	index: -1
+p_Rshin_dajongyan2A
+	rotate: true
+	xy: 289, 337
+	size: 33, 76
+	orig: 33, 76
+	offset: 0, 0
+	index: -1
+DJY2g_Rforearm_zhongmujuren
+	rotate: false
+	xy: 156, 0
+	size: 60, 86
+	orig: 60, 86
+	offset: 0, 0
+	index: -1
+p_Rthigh_dajongyan2A
+	rotate: false
+	xy: 146, 177
+	size: 61, 85
+	orig: 61, 85
+	offset: 0, 0
+	index: -1
+DJY2m_Rfoot_zhongmujuren
+	rotate: false
+	xy: 313, 154
+	size: 64, 33
+	orig: 64, 33
+	offset: 0, 0
+	index: -1
+p_Lthigh_dajongyan2A
+	rotate: true
+	xy: 252, 256
+	size: 80, 60
+	orig: 80, 60
+	offset: 0, 0
+	index: -1
+DJY2i_Lforearm_zhongmujuren
+	rotate: false
+	xy: 313, 256
+	size: 75, 77
+	orig: 75, 77
+	offset: 0, 0
+	index: -1
+r_Lforearm_dajongyan2A
+	rotate: true
+	xy: 0, 186
+	size: 92, 67
+	orig: 92, 67
+	offset: 0, 0
+	index: -1
+r_Rthigh_dajongyan2A
+	rotate: true
+	xy: 0, 279
+	size: 92, 63
+	orig: 92, 63
+	offset: 0, 0
+	index: -1
+p_Rforearm_dajongyan2A
+	rotate: true
+	xy: 0, 464
+	size: 48, 61
+	orig: 48, 61
+	offset: 0, 0
+	index: -1
+DJY2j_Rforearm_zhongmujuren
+	rotate: true
+	xy: 79, 371
+	size: 91, 56
+	orig: 91, 56
+	offset: 0, 0
+	index: -1
+DJY2a_Rfoot_zhongmujuren
+	rotate: false
+	xy: 464, 256
+	size: 48, 49
+	orig: 48, 49
+	offset: 0, 0
+	index: -1
+DJY2j_Lthigh_zhongmujuren
+	rotate: true
+	xy: 217, 0
+	size: 84, 61
+	orig: 84, 61
+	offset: 0, 0
+	index: -1
+DJY2d_Lforearm_zhongmujuren
+	rotate: true
+	xy: 279, 0
+	size: 80, 63
+	orig: 80, 63
+	offset: 0, 0
+	index: -1
+p_Rfoot_dajongyan2A
+	rotate: false
+	xy: 464, 306
+	size: 48, 49
+	orig: 48, 49
+	offset: 0, 0
+	index: -1
+DJY2a_Lforearm_zhongmujuren
+	rotate: true
+	xy: 266, 188
+	size: 67, 77
+	orig: 67, 77
+	offset: 0, 0
+	index: -1
+r_Lthigh_dajongyan2A
+	rotate: true
+	xy: 138, 89
+	size: 87, 62
+	orig: 87, 62
+	offset: 0, 0
+	index: -1
+DJY2j_Rthigh_zhongmujuren
+	rotate: true
+	xy: 139, 276
+	size: 87, 65
+	orig: 87, 65
+	offset: 0, 0
+	index: -1
+DJY2a_coxa_zhongmujuren
+	rotate: false
+	xy: 201, 461
+	size: 84, 51
+	orig: 84, 51
+	offset: 0, 0
+	index: -1
+
+asset/anim/dajiongyan26.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DJY2m_Lfoot_zhongmujuren
+	rotate: true
+	xy: 79, 406
+	size: 51, 34
+	orig: 51, 34
+	offset: 0, 0
+	index: -1
+DJY2i_Lhand_zhongmujuren
+	rotate: false
+	xy: 139, 52
+	size: 30, 47
+	orig: 30, 47
+	offset: 0, 0
+	index: -1
+DJY2k_Lhand_zhongmujuren
+	rotate: true
+	xy: 229, 402
+	size: 47, 41
+	orig: 47, 41
+	offset: 0, 0
+	index: -1
+p_Lhand_dajongyan2A
+	rotate: true
+	xy: 130, 353
+	size: 49, 39
+	orig: 49, 39
+	offset: 0, 0
+	index: -1
+DJY2d-Lhand_zhongmujuren
+	rotate: true
+	xy: 309, 395
+	size: 34, 22
+	orig: 34, 22
+	offset: 0, 0
+	index: -1
+DJY2a_Lshin_zhongmujuren
+	rotate: false
+	xy: 0, 296
+	size: 34, 58
+	orig: 34, 58
+	offset: 0, 0
+	index: -1
+DJY2b_Rfoot_zhongmujuren
+	rotate: true
+	xy: 243, 231
+	size: 40, 38
+	orig: 40, 38
+	offset: 0, 0
+	index: -1
+DJY2k_Larm_zhongmujuren
+	rotate: false
+	xy: 0, 0
+	size: 39, 59
+	orig: 39, 59
+	offset: 0, 0
+	index: -1
+DJY2h_Lhand_zhongmujuren
+	rotate: true
+	xy: 323, 39
+	size: 37, 33
+	orig: 37, 33
+	offset: 0, 0
+	index: -1
+DJY2d_Larm_zhongmujuren
+	rotate: false
+	xy: 122, 0
+	size: 35, 51
+	orig: 35, 51
+	offset: 0, 0
+	index: -1
+DJY2m_Lhand_zhongmujuren
+	rotate: false
+	xy: 283, 313
+	size: 39, 39
+	orig: 39, 39
+	offset: 0, 0
+	index: -1
+r_Rfoot_dajongyan2A
+	rotate: false
+	xy: 262, 450
+	size: 39, 47
+	orig: 39, 47
+	offset: 0, 0
+	index: -1
+DJY2a_Lhand_zhongmujuren
+	rotate: true
+	xy: 86, 286
+	size: 50, 37
+	orig: 50, 37
+	offset: 0, 0
+	index: -1
+DJY2j_Rfoot_zhongmujuren
+	rotate: true
+	xy: 124, 278
+	size: 49, 48
+	orig: 49, 48
+	offset: 0, 0
+	index: -1
+DJY2h_Larm_zhongmujuren
+	rotate: false
+	xy: 158, 0
+	size: 45, 46
+	orig: 45, 46
+	offset: 0, 0
+	index: -1
+DJY2f_Rarm_zhongmujuren
+	rotate: true
+	xy: 0, 237
+	size: 58, 35
+	orig: 58, 35
+	offset: 0, 0
+	index: -1
+DJY2a_Larm_zhongmujuren
+	rotate: true
+	xy: 149, 455
+	size: 50, 38
+	orig: 50, 38
+	offset: 0, 0
+	index: -1
+
+asset/anim/bitixiong_juqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+global/yinying
+	rotate: false
+	xy: 0, 0
+	size: 282, 97
+	orig: 282, 97
+	offset: 0, 0
+	index: -1

@@ -1,0 +1,13 @@
+
+asset/anim/dajiongyan2SECOMMON5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/dajiongyan2_baiping
+	rotate: false
+	xy: 0, 963
+	size: 5, 5
+	orig: 5, 5
+	offset: 0, 0
+	index: -1

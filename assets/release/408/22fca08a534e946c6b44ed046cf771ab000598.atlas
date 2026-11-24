@@ -1,0 +1,80 @@
+
+asset/anim/fenghuangnanSECOMMON3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/fenghuangnan_jnhuo3_009
+	rotate: false
+	xy: 760, 534
+	size: 81, 85
+	orig: 109, 109
+	offset: 11, 8
+	index: -1
+common/fenghuangnan_jnhuo3_012
+	rotate: true
+	xy: 658, 944
+	size: 79, 83
+	orig: 109, 109
+	offset: 11, 10
+	index: -1
+common/fenghuangnan_jnhuo3_013
+	rotate: false
+	xy: 916, 795
+	size: 65, 79
+	orig: 109, 109
+	offset: 15, 10
+	index: -1
+
+asset/anim/fenghuangnanSECOMMON1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/fenghuangnan_jnhuo3_008
+	rotate: false
+	xy: 866, 682
+	size: 81, 87
+	orig: 109, 109
+	offset: 11, 8
+	index: -1
+
+asset/anim/fenghuangnanSECOMMON0.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/fenghuangnan_jnhuo3_015
+	rotate: true
+	xy: 894, 965
+	size: 59, 47
+	orig: 109, 109
+	offset: 21, 43
+	index: -1
+
+asset/anim/fenghuangnanSECOMMON4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common/fenghuangnan_jnhuo3_010
+	rotate: true
+	xy: 786, 379
+	size: 83, 85
+	orig: 109, 109
+	offset: 9, 8
+	index: -1
+common/fenghuangnan_jnhuo3_011
+	rotate: false
+	xy: 216, 876
+	size: 83, 83
+	orig: 109, 109
+	offset: 9, 11
+	index: -1
+common/fenghuangnan_jnhuo3_014
+	rotate: false
+	xy: 305, 387
+	size: 65, 79
+	orig: 109, 109
+	offset: 17, 11
+	index: -1

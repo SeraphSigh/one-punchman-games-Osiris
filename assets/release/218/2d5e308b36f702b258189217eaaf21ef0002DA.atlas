@@ -1,0 +1,46 @@
+
+asset/anim/baicaijidanjiaozi0.png
+size: 925,226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baicaijidanjiaozi
+	rotate: false
+	xy: 332, 0
+	size: 320, 225
+	orig: 328, 233
+	offset: 4, 4
+	index: -1
+
+asset/anim/jiucaixianroujiaozi0.png
+size: 925,226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yz_jiaozi
+	rotate: true
+	xy: 804, 0
+	size: 223, 121
+	orig: 231, 129
+	offset: 4, 4
+	index: -1
+p_jiaozi
+	rotate: false
+	xy: 0, 0
+	size: 331, 226
+	orig: 339, 234
+	offset: 4, 4
+	index: -1
+
+asset/anim/moyuxianroujiaozi0.png
+size: 925,226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x_jiaozi2
+	rotate: true
+	xy: 653, 0
+	size: 211, 150
+	orig: 219, 158
+	offset: 4, 4
+	index: -1
